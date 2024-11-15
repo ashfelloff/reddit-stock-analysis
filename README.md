@@ -9,6 +9,8 @@ The goal of this project is to analyze the stock performance based on posts from
 
 - I mainly got posts that were >400 karma. These posts were between March 2024 and Nov 2024.
 - I used gpt-4o for sentiment analysis and to determine if the poster was recommending a buy or sell. Note that this wasn't perfect and some may be wrong (e.g. if someone is upset they lost a lot of money, the sentiment would be negative.)
+- I used a Volume weighted average price to get the price of the stock for each day.
+- If the post (or next few days) landed on a weekend or holiday, I would go grab the next day for stock prices
 
 
 ## High-Level Overview
