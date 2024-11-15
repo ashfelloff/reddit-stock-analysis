@@ -1,8 +1,8 @@
-# Stock Analysis Project
+# Reddit AI stock analysis
 
-## Project Goal
+## WTF is this even
 
-The goal of this project is to analyze the stock performance based on posts from Reddit's WallStreetBets and Stocks subreddits. By leveraging sentiment analysis and historical stock data, we aim to understand the impact of social media discussions on stock prices.
+I've always wanted to see how well Reddit actually was at picking stonks. And see what the returns were. So I analyzed the stock performance based on posts from Reddit's WallStreetBets and Stocks subreddits. I used AI (specifically gpt-4o) to do a sentiment analysis and extract any stock tickers from posts to measure stock performance.
 
 
 ## Some notes
@@ -12,8 +12,11 @@ The goal of this project is to analyze the stock performance based on posts from
 - I used a Volume weighted average price to get the price of the stock for each day.
 - If the post (or next few days) landed on a weekend or holiday, I would go grab the next day for stock prices
 
+## Want daily/instant updates in your email/Discord?
 
-## High-Level Overview
+I decided to turn this into a product so you can get instant (or daily summaries) updates for stocks and sentiment on Reddit! It's free, try it here [Fluid](https://withfluid.com/)
+
+## Want to run this yourself?
 
 ### getRedditPosts
 
