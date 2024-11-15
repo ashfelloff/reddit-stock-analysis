@@ -4,6 +4,13 @@
 
 The goal of this project is to analyze the stock performance based on posts from Reddit's WallStreetBets and Stocks subreddits. By leveraging sentiment analysis and historical stock data, we aim to understand the impact of social media discussions on stock prices.
 
+
+## Some notes
+
+- I mainly got posts that were >400 karma. These posts were between March 2024 and Nov 2024.
+- I used gpt-4o for sentiment analysis and to determine if the poster was recommending a buy or sell. Note that this wasn't perfect and some may be wrong (e.g. if someone is upset they lost a lot of money, the sentiment would be negative.)
+
+
 ## High-Level Overview
 
 ### getRedditPosts
