@@ -1,0 +1,1657 @@
+{
+  "title": "Thoughts on Crowdstrike bottoming out",
+  "score": 69,
+  "selftext": "I know Crowdstrike is like catching a falling knife right now. Since last week the stock has dropped 18% to $254. Not a major sale but at a certain point the stock becomes attractive again.\n\nMy main question is when is a good time to start building a small position? What are some red and yellow flags to look out for?\n\nThe obvious ones are potential lawsuits/liabilities from F500 companies. Which is very hard to price. So I do see the stock going below $200 over the next six months. Maybe creating an interesting opportunity to also write calls and buy LEAPs. Either way, I need help working through worst-case scenarios for the stock price.\n\nRight now I think the EBITDA multiple is way too rich (165x). Since the stock recently achieved profitability,  I think any potential lawsuits will wipe out near-term profits. Which means the stock will be in the red for the next 2-3 quarters.\n\nHigh level I think an entry price can be around $180 before year-end. My bullish reasoning for the stock is that last week was a software glitch, not a security incident. Black swan events like this happen to even the best companies. But if Crowdstrike encountered a cybersecurity attack, this stock will drop by 50% and be forgotten.\n\nLet me know what you think the downsides might be and how you would price them.\n\nDisclosure: no positions in CRWD",
+  "link_flair_text": "Company Discussion",
+  "id": "1ecbao0",
+  "num_comments": 182,
+  "created_utc": 1721955635,
+  "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/",
+  "comments": [
+    {
+      "id": "leypaba",
+      "score": 1,
+      "body": "Welcome to r/stocks!\n\nFor beginner advice, brokerage info, book recommendations, even advanced topics and more, please read our [Wiki here.](https://www.reddit.com/r/stocks/wiki/index)\n\nIf you're wondering **why a stock moved** a certain way, check out [Finviz](https://finviz.com/quote.ashx?t=spy) which aggregates the most news for almost every stock, but also see [Reuters](https://www.reuters.com/), and even [Yahoo Finance](https://finance.yahoo.com/).\n\nPlease direct all simple questions towards the stickied Daily Discussion and Quarterly Rate My Portfolio threads (sort by Hot, they're at the top).\n\nAlso include *some* [due diligence](https://www.investopedia.com/terms/d/duediligence.asp) to this post or it may be removed if it's low effort.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/stocks) if you have any questions or concerns.*",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/leypaba/",
+      "created": 1721955636,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "leysuhw",
+      "score": 89,
+      "body": "I'll be honest I sold as soon as I heard the news. But I had made a small amount. I bought like 8 shares at $190. At the time CRWD seemed like a no brainer and the leader in the space. I think they still are a leader but will be under a microscope. Their outage was huge. I put that money into a cyber sec ETF. It's a space that will continue to be important and grow, and I don't think I can pick the winner so easily again.",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/leysuhw/",
+      "created": 1721957083,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "leyuf13",
+          "score": 80,
+          "body": "My average CRWD cost basis is around $62, I'm still up 300%.\n\nI spent my entire career in the cybersecurity space, since the late-90s when the field was brand new. I know people who worked there, I almost worked there myself, and that's why I bought the stock shortly after they IPO'd. I saw the massive amount of growth they were going through and thought they were a great company.\n\nI was actually shocked when I heard how much damage their bug caused - I had no idea they were now that huge and popular that nearly every industry used their software. I just stopped paying attention, the stock was a set-it-and-forget-it stock for me and I retired from the industry 3 years ago.\n\nBut yeah I'm gonna dump it. I don't see a recovery any time soon. None of the folks I knew who worked there are still there, I have no LinkedIn connections to anyone at the company anymore.",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/leyuf13/",
+          "created": 1721957721,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "leyuzoo",
+              "score": 40,
+              "body": "The outage was huge. I work in tech. It stopped the whole company. The team of people who were in charge of pushing that change to prod have to feel so bad (are probably unemployed as well). Might have royally fucked the company for years to come. They were crushing it before that. It will be hard to get rid of the stigma.",
+              "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/leyuzoo/",
+              "created": 1721957957,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "leywan2",
+                  "score": 95,
+                  "body": "The people who pushed the change aren’t at fault, this was a complete failure of culture and technical leadership at the top of the company. The company cut corners on QA and devOps; that’s on the CEO not the IT guys in the trenches",
+                  "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/leywan2/",
+                  "created": 1721958482,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lezjjdf",
+                      "score": 24,
+                      "body": "This comment is getting downvoted but I agree with the fundamental message. Considering how ubiquitous the outages were on Windows systems, this should have been caught on a bunch of test servers before it ever hit prod.\n\nHell, as a front-end engineer myself, I've had to run updates to the UI for our website on like 5 different types of phones remotely when fixing visual bugs. Just to ensure libraries  would play well with user devices and browsers.",
+                      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lezjjdf/",
+                      "created": 1721968889,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lf0vdb3",
+                          "score": 13,
+                          "body": "Apparently they had nothing like staged rollouts or test servers or none of that shit.",
+                          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf0vdb3/",
+                          "created": 1721997013,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lezk69c",
+                      "score": 1,
+                      "body": "My company has Crowdstrike’s products, spent $400k with them, and we get crappy tech support from them. They did an update on their UI recently and it’s glitching. They are the industry leader in this space due to features but it’s not great.",
+                      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lezk69c/",
+                      "created": 1721969218,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lfnl60f",
+                      "score": 0,
+                      "body": "Is it partly Microsoft's fault for committing so totally to Crowdstrike and not putting the resources into double-checking and testing for a longer period.",
+                      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lfnl60f/",
+                      "created": 1722350171,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lf0j600",
+                      "score": -8,
+                      "body": "Got any proof or just yammering?",
+                      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf0j600/",
+                      "created": 1721991062,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lf0qqew",
+                          "score": 12,
+                          "body": "The fact that it happened at all is evidence enough. This wasn’t an obscure bug that needed to be triggered in a specific way or that interacted weirdly with some uncommon system configuration or that was small enough to easily overlook.\n\nThey pushed out a Friday update that near universally bricked any machine running the most common corporate OS.\n\nIf the company had even the most basic respect for QA or the fact that their software was running at the kernel level on so much major critical global infrastructure, that would be literally an impossible sentence to write.\n\nThis isn’t “some guy screwed up writing some code and it blew up the global economy.” You need massive top to bottom process failures for this kind of thing to make it out into production.",
+                          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf0qqew/",
+                          "created": 1721994933,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lfwlndt",
+                              "score": 1,
+                              "body": "Check. Check.\nCheck. Check.\nPass. Pass. \nPass. Pass.\nSounds like a lousy car dealership service center to me. \nI bought a car with diminishingly bad breaks. Dealer would have gotten my money happily if they told me to fix it. They skipped inspections, and the breaks were fused with the rotors after driving it for a few years. \nPutting your trust into someone with your life supporting tools will put us on life support when they finally show for themselves how much they skipped inspection.\nSad thing is, I paid for the car, they offered me a warranty, and they still screwed me over. True story. I don’t trust car dealership service centers 100%, never again. Shady b*\n\nBack to CS-\nFor CS, our org has over 10,000 computers, all hit BSOD overnight. Took us over a week to bring things back, costing us millions of dollars, literally millions in revenue. We’re mostly up and running, but the on-site techs are still being called to our sites to service failing computers. ",
+                              "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lfwlndt/",
+                              "created": 1722473761,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "lf0hbgj",
+                  "score": 5,
+                  "body": "You only ever fire people for a fuckup, if it was intended malicious.\n\nIf it's a genuine fuck up, you don't want to let go of your workers that just gained some new experience",
+                  "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf0hbgj/",
+                  "created": 1721989986,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lf14zk4",
+                      "score": 7,
+                      "body": "Generally, I very much agree with this, but if you made a mistake that did over $5 billion in damages to the global economy and very likely permanently damaged your company’s ability to maintain its dominant position in its sector, you’re probably getting fired.\n\nThey’re going to *need* a scapegoat to take the fall for this.",
+                      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf14zk4/",
+                      "created": 1722000834,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lf179gf",
+                      "score": 5,
+                      "body": "I wish I had a boss like you in my life. I always got laid off for things outside my control or accidental, and I’d just end up giving my experience to the competitor because there’s no other options.",
+                      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf179gf/",
+                      "created": 1722001665,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lf0vube",
+                      "score": 1,
+                      "body": "+1. Learning from failure was very important at G. [https://sre.google/sre-book/postmortem-culture](https://sre.google/sre-book/postmortem-culture)\n\nMaking people fear failure means people are afraid to take risks, which is bad for the company overall.",
+                      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf0vube/",
+                      "created": 1721997217,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lf1o6rd",
+                      "score": 1,
+                      "body": "This screw up is so big that it transcends just a fuckup. This is a management failure - some heads should roll at the level that signed off on an institutional failure such as this.",
+                      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf1o6rd/",
+                      "created": 1722007375,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lf1zkgp",
+                  "score": 1,
+                  "body": "Weird question, despite all these problems, are they still “in control of security updates”. \n\nLike are there other cyber securities that does the kind of work where doing something affects millions or only them? I don’t know much about cyber security and how they relate to the global market",
+                  "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf1zkgp/",
+                  "created": 1722011053,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lez24k6",
+              "score": 6,
+              "body": "I was curious given your experience in the industry, what companies do you think are currently major players in the space outside of them with compelling products. As well, if you have any newcomers that you’ve seen crop up towards the end of your career?",
+              "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lez24k6/",
+              "created": 1721960857,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lezxy42",
+                  "score": 1,
+                  "body": "Curious as well !",
+                  "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lezxy42/",
+                  "created": 1721977254,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lf1r54i",
+              "score": 1,
+              "body": "People at my company are now questioning the use of agents in general if this is a potential outcome",
+              "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf1r54i/",
+              "created": 1722008323,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "leznbnl",
+          "score": 3,
+          "body": "Same. I sold on the news too and avoided all the downside from event. Literally 15 minutes later it was down 13%",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/leznbnl/",
+          "created": 1721970909,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lf0cntt",
+              "score": 1,
+              "body": "Curious how this works. How did you sell so fast? It happened before trading opened, and I imagine not a lot of volume during pre-market.\n\nWhat broker did you use?",
+              "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf0cntt/",
+              "created": 1721987065,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lf0hm0u",
+                  "score": 2,
+                  "body": "I was on TR, in pre-market yes\n\nThere is enough volume for anything 20B+",
+                  "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf0hm0u/",
+                  "created": 1721990162,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lezxqvx",
+          "score": 2,
+          "body": "What ETF did you go for?",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lezxqvx/",
+          "created": 1721977128,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lf058kn",
+          "score": 1,
+          "body": "What’s a good cyber sec etf?",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf058kn/",
+          "created": 1721982080,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lezo615",
+          "score": 1,
+          "body": "what are the good cyber security etfs?",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lezo615/",
+          "created": 1721971379,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lf004kl",
+              "score": 1,
+              "body": "WCBR, but Cybersecurity sector is kinda overvalued and growth is limited right now.",
+              "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf004kl/",
+              "created": 1721978669,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lf26prx",
+          "score": 1,
+          "body": "It’s not about the microscope it’s about their customers diversifying away from risk. New players will start to eat market share.",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf26prx/",
+          "created": 1722013348,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lf29nhs",
+              "score": 0,
+              "body": "glad you know everything, cheers.",
+              "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf29nhs/",
+              "created": 1722014291,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lf2z5ox",
+                  "score": 0,
+                  "body": "Um ya right back at ya.",
+                  "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf2z5ox/",
+                  "created": 1722022564,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "leyt61w",
+          "score": -5,
+          "body": "that might have been too early and too small",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/leyt61w/",
+          "created": 1721957210,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lez016w",
+      "score": 32,
+      "body": ">My bullish reasoning for the stock is that last week was a software glitch, not a security incident. Black swan events like this happen to even the best companies.\n\n\nThis is really understating how bad it was. There are two giant issues that came out of this incident that I think will permanently and severely harm the company:\n\n\n1. The outage was enormous in scale and harmed customers' physical machines. Even after crowdstrike \"fixed\" the issue their customers were still spending hours or even days to recover. This is *REALLY* bad for software that's supposed to protect your IT infrastructure, not destroy it. Their customers also include a lot of large corporations that lost a lot of money because of this. I wouldn't be surprised if some sued for huge sums, and I'll be shocked if many of their customers dont switch to alternatives. \n\n\n2. The even bigger issue is that this debacle happened because Crowdstrike didn't have any testing or release plans in place. The changes they announced they'll make to their testing and release process are good but also basic, standard procedure for any software company. The fact they weren't doing that already is a damning indictment of how the company is run. Again, this is going to make their current customers strongly reconsider continuing to use their services and will definitely discourage new customers. \n\n\nI would argue this is just as bad as if the outage was due to a hack. Maybe even worse. It displays a stunning amount of negligence.",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lez016w/",
+      "created": 1721959991,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lez267a",
+          "score": 3,
+          "body": "Good insight on the physical damages. Thanks for sharing.",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lez267a/",
+          "created": 1721960875,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lf250kk",
+          "score": 3,
+          "body": "As someone who works in an IT-heavy space (thankfully I didn't have to directly deal with this mess unlike a lot of the poor souls at r/sysadmin), thanks for laying this out.\n\nIf all customers and investors understood how big of an oversight this was on Crowdstrike's behalf, their stock would be far lower than it is now.",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf250kk/",
+          "created": 1722012808,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lf0lwuv",
+          "score": -4,
+          "body": "> The outage was enormous in scale and harmed customers' physical machines. \n\nNo, it did not do “physical” harm.\n\n\n> Even after crowdstrike \"fixed\" the issue their customers were still spending hours or even days to recover. \n\nWhat you and many are misunderstanding is that the recovery time was entirely a function of how competent the customer’s IT department is.\n\nCompetent ones could fix their servers in minutes, and many did.\n\nThe actual fix involved a pretty basic procedure of halting the server boot process and nullifying the errant file.  This is something a junior server administrator can do, under normal circumstances.\n\nThose who were down for hours or days exposed themselves as not having this capability.  For some it was because they don’t have industry standard practices in place.  For some, they didn’t have system administration tools or skills.  For some, they had mismanagement of their assets or bitlocker admin.  \n\nAny healthy IT organization would have rehearsed roughly similar events in any of a number of cyberattack simulation cenarios.  This would have been even simpler than the most simple such attack. \n\n\n> This is REALLY bad for software that's supposed to protect your IT infrastructure, not destroy it.\n\nThis is a bit like someone having a car with leaking brakes, a fully rusted out frame and suspension and an engine they’ve forgotten to put oil in, and then blaming all those problems on a weak battery.\n\nCrowdstrike’s glitch merely initiated the exposure of these other widespread insufficiencies.  But it wasn’t the cause of those other flaws.\n\n>  Their customers also include a lot of large corporations that lost a lot of money because of this. \n\nThey should look into their core IT departments and why they didn’t have the ability to reboot or re-image core servers and systems.  \n\n> I wouldn't be surprised if some sued for huge sums, \n\n\nThey’d be telling on themselves then, and likely the limitations of liability make that unfeasible.\n\nA better example would be if a glitch in NBA 2K surprised you so much that you spilled a jug of Gatorade on your Xbox and then you accidentally dropped the Xbox in the tub while trying to clean up the Gatorade.  Could you try and sue the maker of NBA 2K?  I guess, but it wouldn’t go far and it would just make your own role in the situation undesirably public.\n\n\n> I'll be shocked if many of their customers dont switch to alternatives. \n\nThere’s not a lot that’s better and another brand would still be subject to unforeseen crashes that will test your IT department’s competency all over again.\n\n> The even bigger issue is that this debacle happened because Crowdstrike didn't have any testing or release plans in place.\n\nThat’s not true.  They had lots.  But there was obviously one path in which those plans failed.\n\n> how the company continuing to use their services and will definitely discourage new customers.\n\nWhat competent CTO would forego cyberattack prevention over fear that they won’t be able to reboot or reimage their own servers - a core function they have sizeable resources there to do?\n\n> I would argue this is just as bad as if the outage was due to a hack. Maybe even worse. \n\nNot at all.  \n\n> It displays a stunning amount of negligence.\n\nBy those organizations who showed they aren’t equipped for pretty basic server admin tasks.",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf0lwuv/",
+          "created": 1721992546,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lf22gyh",
+              "score": 3,
+              "body": "The actual effort to recover isn't difficult.  The recovery effort, however is entirely dependent upon the organization, where the device is deployed, and whether you have competent technical staff that can quickly get to the device \n\nMost IT organizations should be able to mitigate impacted servers quickly.  Organizations with devices such as ATM, kiosks, point of sale terminals that are deployed to remote stores or offices with little technical staff on hand suffer hardest.\n\nAn hospital with 3500 users and 4 desktop support techs was probably done remediating in a day.  An organization with 4000 stores with POS terminals and no hands on tech are probably still calling field techs to remediate.\n\nDo you think every organization with chains of retail stores has desktop support techs that can drive to every location within a 50 mile radius on standby?  If you think that, you are sadly mistaken.",
+              "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf22gyh/",
+              "created": 1722011994,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lf25b4m",
+                  "score": 0,
+                  "body": "> The recovery effort, however is entirely dependent upon the organization, where the device is deployed, and whether you have competent technical staff that can quickly get to the device\n\nThis all comes down to what I already said: **if your IT operation is competent, you had this fixed within hours.**\n\nAny organization that took longer has either severe deficiencies or outright incompetence.\n\nAs you would appreciate, if it takes a business 5 days to reboot their servers or even reset their clients, then they’d be fifty times worse off in an actual cyber attack.\n\nAnd if they took 2, or 3 or 4 or more days to recovery, whoever is accounable for their IT operations should be fired with extreme prejudice because they had zero contingency planning in place.\n\nThe main point that is being overlooked is that the CRWD part of this was fixable within hours.  \n\n\n> Most IT organizations should be able to mitigate impacted servers quickly.\n\nNot most.  All.  And it’s not mitigation it’s recovery.\n\n> Organizations with devices such as ATM, kiosks, point of sale terminals that are deployed \n\nIf you have an business with deployed devices but you don’t have any way of managing them, then you don’t actually have a business.\n\nSame goes if you have a data business without backups, then you don’t actually have a data business, you have a gambling problem.\n\nIf you have backups you haven’t restored, then you don’t have backups.\n\nIf you have only one set of backups, then you don’t have backup.\n\n>to remote stores or offices with little technical staff on hand suffer hardest.\n\nThat suffering is all due to executive negligence, not CRWD negligence.  The first hours?  Sure, that’s on CRWD.  Every day after that?  Nope.\n\n> An hospital with 3500 users and 4 desktop support techs was probably done remediating in a day. \n\nIf 4 techs can’t reboot the servers and clients in a single site, they shouldn’t have been collecting paychecks.  And those clients should be/are some form of virtual desktop anyway.\n\n\n> An organization with 4000 stores with POS terminals and no hands on tech are probably still calling field techs to remediate.\n\nAgain, if you have such a massively rich business that has 4000 stores and POS terminals, and don’t have technicians, then your don’t really have a resilient business of any kind.  And besides, such a distributed operation would have remote administration capabilities, assuming competent architecture and operations.",
+                  "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf25b4m/",
+                  "created": 1722012901,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lf2ca19",
+                      "score": 2,
+                      "body": "This argument boils down to blaming the customers and having expectations that simply aren’t the reality of many IT depts, even large mission critical ones.\n\nYou can call it incompetence but the sheer scale of this and the need for physical access to endpoints overwhelmed many competent groups. And even the incompetent customers are important to CRWD’s earnings.",
+                      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf2ca19/",
+                      "created": 1722015131,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lf37jfh",
+                          "score": 2,
+                          "body": "This guy thinks that if a company has 50,000 desktop PCs, which have typically no out of band management, that they should be able to repair remotely 50,000 PCs that are not bootable in 24 hours.\n\nClearly does not know the challenge to the get even 1 end user on the phone and walk them through entering safe mode, entering bitlocker recovery password, local administrator password.  Deleting the bad file.  And doing that 50,000 times.\n\nAnd what about when the IT admins laptop was one of the ones that fucked up?  Most disaster plan scenarios in IT tend to focus on recovery of individual pieces, and not 50-75% of the entire air infrastructure in one effort.",
+                          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf37jfh/",
+                          "created": 1722025334,
+                          "depth": 5,
+                          "replies": []
+                        },
+                        {
+                          "id": "lf2d6ow",
+                          "score": 1,
+                          "body": "> This argument boils down to blaming the customers \n\nNo it’s correctly assigning blame on incompetent IT operations. \n\n>and having expectations that simply aren’t the reality of many IT depts. \n\nIncorrect.  There are lots of competent operations and lots of enterprises that have well planned and resilient architecture.   You just didn’t hear about them because they didn’t shit the bed.  \n\n>You can call it incompetence \n\nIt’s not me “calling” it, that’s what it is.\n\n> but the sheer scale of this and the need for physical access to endpoints overwhelmed many competent groups.\n\nThat’s self contradicting.  Some fundamentals of competence are basic capacity and resource planning, and having elementary operating procedures.  If you don’t even have those, you don’t have competence.\n\nBy your logic, someone buys a car, drains the oil, runs out of gas and pushes it in a lake, then blames the automaker for building a defective car.\n\nIf McDonald’s launches an onion ring product but doesn’t order any onions, you don’t blame the farmer.",
+                          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf2d6ow/",
+                          "created": 1722015426,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lf2dqhb",
+                              "score": 3,
+                              "body": "I don’t care if the customers are incompetent. They are customers and suffered due to crwd’s negligence. This is investing not moral judgment. I doubt you have broad experience working in many IT depts across sensitive industries if you have these expectations. This was a shitshow for many hospitals etc",
+                              "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf2dqhb/",
+                              "created": 1722015606,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lf4l9tp",
+                                  "score": 1,
+                                  "body": "I understand the sentiment but are CRWD competitors that much better?\n\nIf you are a CTO and you switch to a competitor (with all the time and cost involved) and that product has a similar issue or, even worse, fails to prevent a cyberattack, what then? Are you going to switch after every incident?\n\nThe way I see it this was going to happen eventually. This wasn’t some black swan event. CRWD made a big mistake but a lot of companies lack of staffing, planning, and general preparedness for this situation amplified the harm. \n\nEven in negligence claims, there is contributory negligence. I think, in a few years, when competitors have had their own issues, we may look at this all a bit differently.",
+                                  "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf4l9tp/",
+                                  "created": 1722044187,
+                                  "depth": 7,
+                                  "replies": []
+                                },
+                                {
+                                  "id": "lf2lwdq",
+                                  "score": -1,
+                                  "body": "If you don’t care about facts or reality, you’re barking up the wrong tree.  It’s not Toyota’s fault you pushed your Camry off a cliff. \n\nYou saying you doubt *my* experience is obvious guilty projection on your part as everything you’ve said shows you know nothing about IT.",
+                                  "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf2lwdq/",
+                                  "created": 1722018233,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lftdo3d",
+              "score": 2,
+              "body": "This should be at the top.  We got hit by this and we're all recovered in about 90 minutes (fortune 100 company). I consider any company that had huge issues with this to be a gigantic risk to my personal data, if I have accounts with them.  They do not have a competent IT staff or practices if they got hammered by this, imo.  I will close my accounts and ask for my records to be deleted at any of these companies if I can find an alternative.",
+              "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lftdo3d/",
+              "created": 1722435253,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lfvu9fx",
+                  "score": 1,
+                  "body": "It’s ridiculous that Delta airlines is threatening to sue Microsoft and Crowdstrike for what is clearly their own incompetence.\n\nIt’s not Microsoft or Crowdstrike’s fault Delta took 9 days to reboot their systems.  It’s a cash grab that relies on the hope that judges and juries will be fooled by deceit over the technology aspects.  Other airlines and organizations did so within hours.\n\nCounting on juror knowledge and knowledge of basic law principles seems to be at the heart of this nuisance lawsuit.  And it might be a good bet.  As of this time, OP’s post that’s flagrantly false on technology and legal measures is sitting at +35 and my rebuttal is at -3.  I got a hate DM for it that I had to block.  So maybe their unethical lawyers will use this unfortunate reality to their advantage.\n\nTo expand on the above point...\n\nIn civil law, there’s a fundamental called “duty to mitigate.”\n\nIt means that if some party begins to harm you or causes you a small harm, you are still legally responsible to stop or prevent the problem from worsening.  \n\nFor example if your neighbor flicks a cigarette butt into your yard and you see it’s burning your leaves and your lawn, you can’t just sit there doing nothing in anticipation of it burning down your house so you can sue for a brand new house.",
+                  "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lfvu9fx/",
+                  "created": 1722463646,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lj69k8p",
+                      "score": 1,
+                      "body": "problem is not everyone is as knowledgeable as you are, they will simply think it’s crowdstrikes fault entirely. Public sentiment, even if misguided in understanding remains the same because they won’t do research or have the knowledge you already do.",
+                      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lj69k8p/",
+                      "created": 1724224241,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lj6cnjg",
+                          "score": 1,
+                          "body": "Sure. But in terms of the stock, it’s up 35% since bottoming",
+                          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lj6cnjg/",
+                          "created": 1724226277,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "ljdp7u1",
+                              "score": 1,
+                              "body": "facts, im glad i held since i feel like their fundamental product is still good, they will most likely tighten the fuck up after this as well. also there's a ton of contracts still locked in",
+                              "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/ljdp7u1/",
+                              "created": 1724335629,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "ljdqmus",
+                                  "score": 1,
+                                  "body": "I don’t even have to consider if the product is good because so many orgs have studied the field and picked them.  You’re right that the contracts are sticky.  Any org thinking they’ll rip it out, the question they face is what to replace it with?  Any product that works at that level could potentially experience the same kind of fault.",
+                                  "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/ljdqmus/",
+                                  "created": 1724336111,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "ljdsj83",
+                                      "score": 1,
+                                      "body": "yeah, if my car breaks down once im not really gonna get a new one",
+                                      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/ljdsj83/",
+                                      "created": 1724336737,
+                                      "depth": 8,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "leyz8vp",
+      "score": 74,
+      "body": "I haven't seen the actual details of the bug mentioned on this subreddit yet, but it was stupid to the point of questioning the company's security culture:  A kernel driver file was *blank* in the update.  Not empty, not missing, rather its contents were replaced with all 0s.  Somewhere in their packaging process this file became blank and nothing noticed it.  They literally didn't install this update package on any test hosts before shipping it to customers.\n\nThis kind of lapse speaks to a lack of carefulness on a larger scale than just one person making a mistake.  The update packaging process has a validation gap, possibly a new one, which passed review at some point.  Okay, that's unfortunate but not unheard of.  But then the update to be sent to all customers everywhere at the same time wasn't even tested before proceeding to do so.\n\nThe company's response is pretty much a joke too, not an apology but rather a brag about how large the blast radius of their poor execution was.\n\nTheir stock was already priced for not only a massive increase in market share but for the market TAM itself to expand significantly.  Inertia will keep a lot of customers but this incident should make new customers without inertia to fight think twice before choosing them.",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/leyz8vp/",
+      "created": 1721959672,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "leyzhfl",
+          "score": 14,
+          "body": "good details. thanks for sharing.",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/leyzhfl/",
+          "created": 1721959768,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lezicd6",
+              "score": 5,
+              "body": "Sure.  I think key details are too often lost when coverage of something is boiled down to a short phrase like \"software glitch\" so based on your post I thought you may not have known just how bad this was from a competency perspective.\n\nPlease check the other replies to my comment for even better details from others.\n\nThe coverage of this event as being caused by a \"software glitch\" is the equivalent of saying the Titan was lost due to a \"mechanical failure.\"",
+              "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lezicd6/",
+              "created": 1721968273,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lezedwz",
+          "score": 7,
+          "body": "I think the bigger issue here is even more fundamental.  A kernel module change or even driver module is not a ‘content update’. Content is things like malware signatures and new heuristic algorithm detections. \n\nAny kernel access modifications should be a minor/patch version update to the agent not an automatic content update direct to endpoints. This would trigger most enterprise update processes and have largely prevented this. \n\nIn short, labeling core functionality updates as a content update is a fundamental, and possibly even contractual, failure.",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lezedwz/",
+          "created": 1721966312,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lfat4rh",
+              "score": 2,
+              "body": "Thank the EU for forcing Microsoft to do this. Backdoors in software are bad. ",
+              "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lfat4rh/",
+              "created": 1722146437,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lezmtvx",
+          "score": 6,
+          "body": "I’m surprised they don’t test their own updates themselves across endpoints internally prior to a full release, or even have a few opt in beta customers. Somewhere they’re dropping the ball. If you want to go full conspiracy you could say they were actively compromised and this was a disruption attempt by the threat actor.",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lezmtvx/",
+          "created": 1721970638,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lezp3r1",
+              "score": 1,
+              "body": "If you look at the replies to my comment someone explained in more detail what happened.\n\nYeah it's pretty damning that at the end of it all they neither tested nor apparently used their own update that they were shipping to all customers without even a phase rollout.  The lack of risk analysis is astounding.",
+              "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lezp3r1/",
+              "created": 1721971910,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lf6vcv0",
+          "score": 2,
+          "body": "Didn't you hear? They sent out $10 Uber Eats vouchers as an apology. Which is actually more insulting than not doing anything.",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf6vcv0/",
+          "created": 1722089394,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lf1o37o",
+          "score": 1,
+          "body": "This isn’t quite right. The contents of the file are encrypted, that’s why when you open the file it shows as all 0s. It wasn’t just a blank file that was pushed out.",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf1o37o/",
+          "created": 1722007343,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lezyo0p",
+          "score": -1,
+          "body": "eh, testing and change process fails all the time. ask anyone in IT. crowdstrike will bounce back, they have some great products",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lezyo0p/",
+          "created": 1721977716,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lez767f",
+      "score": 13,
+      "body": "I work with Crowd Strike. It's good. But it sucks to deploy it and keep it running. It's way overrated. I don't own any.",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lez767f/",
+      "created": 1721962999,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "leyv8v1",
+      "score": 10,
+      "body": "I bet on today and lost a bit of money. It's hard to figure out the bottom as on the macro level I think the selloffs haven't slowed down yet.",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/leyv8v1/",
+      "created": 1721958060,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "leyxeat",
+          "score": 2,
+          "body": "today might have been too early",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/leyxeat/",
+          "created": 1721958925,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lez4nqq",
+      "score": 24,
+      "body": "Dump - they’re going to be litigated into oblivion",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lez4nqq/",
+      "created": 1721961918,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lezjoma",
+          "score": 7,
+          "body": "Would you buy the company if all outstanding shares were offered to you for a total price of $1?\n\nIf so, where is the line?",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lezjoma/",
+          "created": 1721968965,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lez5h4q",
+          "score": 3,
+          "body": "I think there's a floor price here. Not sure where yet",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lez5h4q/",
+          "created": 1721962266,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lezkske",
+              "score": 15,
+              "body": "It shouldn't go below $0",
+              "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lezkske/",
+              "created": 1721969541,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lf0l1ay",
+              "score": 1,
+              "body": "A year ago it was at $100, I think around that range is a good floor to think about",
+              "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf0l1ay/",
+              "created": 1721992083,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lezp49x",
+              "score": 0,
+              "body": "$0 is a hard floor...",
+              "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lezp49x/",
+              "created": 1721971919,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lfogcbn",
+                  "score": 1,
+                  "body": "I remember when they said the floor on Enron was about $25. A lot of people got burned when they went bankrupt. I'm not saying Crowdstrike will go bankrupt, but I don't believe that they can't.",
+                  "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lfogcbn/",
+                  "created": 1722360064,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "leyy7fs",
+      "score": 13,
+      "body": "I think a rebound will depend heavily on how good their insurance is.",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/leyy7fs/",
+      "created": 1721959253,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "leyzdb4",
+          "score": 3,
+          "body": "agreed. I read some posts from senior brokers at Aon and Marsh. They provide a unique perspective to the insurance market.",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/leyzdb4/",
+          "created": 1721959722,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "leyzrcj",
+              "score": 5,
+              "body": "It would be interesting to see which insurers have the most cybersecurity exposure and how they track compared to tech stocks. Seem like they are both strong markets that could be used to hedge each other",
+              "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/leyzrcj/",
+              "created": 1721959881,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lf4o8ub",
+          "score": 2,
+          "body": "In my experience, damages on these types of contracts are usually capped. They also might include liquidated damages (some agreed upon formula for calculating damages in the event of a serious outage) and waiver of consequential damages (lost profits, goodwill, etc).\n\nEDIT: Looks like there is a cap and waiver of consequential damages. \n\nNEITHER PARTY SHALL BE LIABLE TO THE OTHER PARTY IN CONNECTION WITH THIS AGREEMENT OR THE SUBJECT MATTER HEREOF (UNDER ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STATUTE, TORT OR OTHERWISE) FOR ANY LOST PROFITS, REVENUE, OR SAVINGS, LOST BUSINESS OPPORTUNITIES, LOST DATA, OR SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES OR LOSSES OR SUCH DAMAGES OR LOSSES WERE REASONABLY FORESEEABLE; OR (B) AN AMOUNT THAT EXCEEDS THE TOTAL FEES PAID OR PAYABLE TO CROWDSTRIKE FOR THE RELEVANT OFFERING DURING THAT OFFERING’S SUBSCRIPTION/ORDER TERM.\n\nhttps://www.crowdstrike.com/terms-conditions/",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf4o8ub/",
+          "created": 1722045441,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lf6nnnl",
+              "score": 1,
+              "body": "Not a lawyer, but it looks like this means a lot of refunds are coming at the very least. Will gross negligence nullify protections within a user agreement?",
+              "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf6nnnl/",
+              "created": 1722086257,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lez9qba",
+      "score": 10,
+      "body": "Judging from the impact seen, they are deployed nearly everywhere, but the really shocking thing is that they barely make money. (Shock #1)\n\nTbh, that was an eye opener for me, not the issue itself.\n\nIt’s also demonstrated that it can’t turn the dial on increasing contract cost (they want more money for this crap?), so where’s the growth going to be to justify the price? (Shock #2)\n\nPrevious instances of ‘goofs’ that were less severe have demonstrated that the emperor had no clothes when it comes to QA, not exactly confidence forming in cybersecurity space. Deploying untested code is ripe for abuse. (Shock #3)\n\nThis is a killer confidence knock that will take years to overcome tbh, I can’t see this stock recovering this decade.\n\nThe real opportunity is finding their most competent competitors who can capitalize greatly off this.",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lez9qba/",
+      "created": 1721964141,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lez9dq9",
+      "score": 4,
+      "body": "Who takes their spot?",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lez9dq9/",
+      "created": 1721963983,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lf1n3g7",
+          "score": 4,
+          "body": "anecdotally Microsoft has been improving their endpoint security tooling. It's a no brainer for SMB considering they package it with some of their business licenses. With Windows 11 around the corner I think Microsoft is almost forcing people to use their ecosystem. The Apple model but for enterprise",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf1n3g7/",
+          "created": 1722007024,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lf4lpig",
+          "score": 2,
+          "body": "This is the part I don’t understand. All these competitors haven’t executed for the last few years. They’ve continually given up market share to CRWD, and we expect them to execute now?",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf4lpig/",
+          "created": 1722044370,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lezmu0l",
+          "score": 2,
+          "body": "Sentinel One, Microsoft ?",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lezmu0l/",
+          "created": 1721970639,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lf3c7nh",
+          "score": 1,
+          "body": "Sentinel one, ms defender, maybe panw but not seeing it.",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf3c7nh/",
+          "created": 1722026880,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lezzr3c",
+          "score": 0,
+          "body": "Palo Alto Networks",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lezzr3c/",
+          "created": 1721978423,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lf0l2n4",
+      "score": 5,
+      "body": "With stock advice from Reddit, just remember:\n\n- When META hit 80, that was the market cap. The metaverse was going to tank the earnings and threads is a money pit.\n\n\n- With McDonalds, the other restaurants were better/faster so it surely is to collapse any minute now.\n\n\n- Disney only produces flops and will crash any minute now (forgetting all the parks and property they own, and the merchandise they license).\n\n\n- and now Crowdstrike: it’s going to crash… because what corporations are known for, is to be reactionary when they lose service for one day. Look at Facebook, Google and AWS that lost all their customers and potential after their 1 day outages.\n\n- We’ve had at least 10 recessions the last 4 years. So actually don’t buy stocks because the economy is shit.",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf0l2n4/",
+      "created": 1721992104,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lezpezp",
+      "score": 9,
+      "body": "Honestly looking at the Reddit reactions, think it’s a good time to slowly DCA. Cause whenever this sub shits on something and think it’s absolutely screwed, the stock usually does pretty well in the end.",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lezpezp/",
+      "created": 1721972089,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lf0shpf",
+          "score": 1,
+          "body": "Remind Me! 1 year",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf0shpf/",
+          "created": 1721995744,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lf0skwo",
+              "score": 1,
+              "body": "I will be messaging you in 1 year on [**2025-07-26 12:09:04 UTC**](http://www.wolframalpha.com/input/?i=2025-07-26%2012:09:04%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf0shpf/?context=3)\n\n[**4 OTHERS CLICKED THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Fstocks%2Fcomments%2F1ecbao0%2Fthoughts_on_crowdstrike_bottoming_out%2Flf0shpf%2F%5D%0A%0ARemindMe%21%202025-07-26%2012%3A09%3A04%20UTC) to send a PM to also be reminded and to reduce spam.\n\n^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%201ecbao0)\n\n*****\n\n|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|\n|-|-|-|-|",
+              "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf0skwo/",
+              "created": 1721995784,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lezyoyj",
+      "score": 4,
+      "body": "Everyone is bearish and calling for bankruptcy in this thread... calls",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lezyoyj/",
+      "created": 1721977733,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lezbqte",
+      "score": 3,
+      "body": "“What are some red and yellow flags to look out for?” I am color blind so I only see black and white flags, and it doesn’t look pretty yet.",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lezbqte/",
+      "created": 1721965064,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lezfpk4",
+      "score": 3,
+      "body": "My question is there another company in direct competition right now?   I studied the damping and thought it bottomed up. If there is any real buying going on?   I just placed an order to test the water. I am of the opinion the worst is over.",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lezfpk4/",
+      "created": 1721966955,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lezk3ea",
+          "score": 4,
+          "body": "For endpoint security: SentinelOne, Palo Alto, Microsoft (which has Windows defender)...",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lezk3ea/",
+          "created": 1721969177,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lf1cfxp",
+              "score": 2,
+              "body": "I could see Palo Alto really benefitting. This is their chance to catch up in endpoint security . They already dominate the market pretty much everywhere else in cyber. Now they have a golden opportunity to capture some endpoint market share",
+              "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf1cfxp/",
+              "created": 1722003477,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lf0ry31",
+          "score": 2,
+          "body": "It's not just about competitors. My main concern would be lawsuits and compensation payments. Companies with such risks usually don't trade at high valuation. This one is still priced to perfection.",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf0ry31/",
+          "created": 1721995494,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lezqgoo",
+          "score": 1,
+          "body": "The worst from the currently public information. Wait for earnings",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lezqgoo/",
+          "created": 1721972693,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lf1ikjv",
+      "score": 3,
+      "body": "Tech worker here. It will suffer short to medium term, a lot of companies will bail out. Depending on how they handle the fallout they might bounce back, long term",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf1ikjv/",
+      "created": 1722005540,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "leysv0s",
+      "score": 12,
+      "body": "Wait til the earnings warnings, they'll be several of them, one as early as next month. \n\n$160 is still 10x sales if not more, it's damaged goods, no CSIO or CTO dare recommend their products at this point and they're going to have a tough time holding on to their existing customers let alone refund their money just to stay on board. \n\n$200 by earnings time next month. Under $150 if the damage is greater than what's currently understood. It will take several quarters, maybe a couple of years to recover, I think eventually they get bought out by one of the big boys.",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/leysv0s/",
+      "created": 1721957089,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "leywi0m",
+          "score": 10,
+          "body": "ehh...CS is a leader for a reason. Their product is amazing, and so is their SOC. If the CISO has ultimate purchasing power, their keeping it. If someone else holds the keys the purse...thats a different story.",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/leywi0m/",
+          "created": 1721958565,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lezkko8",
+              "score": -1,
+              "body": "Unfortunately there is no good competition right now but Crowdstrike does not have a good reputation at my company.",
+              "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lezkko8/",
+              "created": 1721969427,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "leyt08g",
+          "score": 6,
+          "body": "the 'no CSIO/CTO recommendations' are a good point",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/leyt08g/",
+          "created": 1721957146,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lez5136",
+      "score": 7,
+      "body": "I'm holding CROWD for the next five years.",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lez5136/",
+      "created": 1721962077,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lez5jxs",
+          "score": 4,
+          "body": "Long but rich at this price. $65b market cap is too much for me at this run rate.",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lez5jxs/",
+          "created": 1721962299,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lezp71l",
+          "score": 2,
+          "body": "Be very careful bro ... Irrespective of their insurance and their ability to handle lawsuits, the company could not only lose clients but has a massive reputation issue .... there are many alarming concerns - [https://baptistaresearch.substack.com/p/why-crowdstrikes-pain-is-far-from](https://baptistaresearch.substack.com/p/why-crowdstrikes-pain-is-far-from)",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lezp71l/",
+          "created": 1721971963,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lf0fd1r",
+              "score": 4,
+              "body": "That's the risk I'm willing to take🚀",
+              "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf0fd1r/",
+              "created": 1721988792,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "leywm00",
+      "score": 2,
+      "body": "The global outage has definitely affected their growth outlook. Though the stickiness of existing clients may persist, the ability for CRWD to gain more clients, I assume, would not be the same as before. The market originally projected 30+% 5-year CAGR in revenue for CRWD. After the outage, the growth could go down to 15% at best. \nSo you reckon!",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/leywm00/",
+      "created": 1721958610,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "leyxhdm",
+          "score": -2,
+          "body": "I think their growth has peaked. The market will move beyond endpoint to a new security provider next.",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/leyxhdm/",
+          "created": 1721958960,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "leyyten",
+              "score": 0,
+              "body": "Anyways, for now I think longing other major cyber security companies will be a safer bet. Especially those given lower growths and lower premiums to stock prices.\nShorting CRWD may be fruitful if withdrawal from potential clients is clear.",
+              "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/leyyten/",
+              "created": 1721959498,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lezwyk1",
+      "score": 2,
+      "body": "$50 stock IMO. There's too much trust issues for this company to survive the future",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lezwyk1/",
+      "created": 1721976632,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lezzlii",
+      "score": 2,
+      "body": "It’s still very richly valued . You can look at Chipotle as an example of companies coming back after their reputation is tarnished. But there is no guarantee. There is a lot of competition in security. I bought Fortinet on the news . Difficult to predict financial impact of the outage in the form of lawsuits.",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lezzlii/",
+      "created": 1721978321,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lf4mlwa",
+          "score": 1,
+          "body": "I was thinking the same about Chipotle. No one wanted to touch it in 2015. It was the end. You can’t really point to a lot of companies where a single mistake or crisis killed the company. Good companies adapt, improve, and reinvent, and memories are a lot shorter than they people think.",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf4mlwa/",
+          "created": 1722044750,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lf01fk7",
+      "score": 2,
+      "body": "A company this size must have adequate cover",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf01fk7/",
+      "created": 1721979535,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lf0c12b",
+      "score": 2,
+      "body": "I posted this on the thread a few days ago on r/investing\n\nI think the effect on Crowdstrike is somewhere between two extremes. On the one hand they are deeply integrated (as we saw) in a huge segment of the market and are by far a market leader.\n\nOn the other hand, the nature of the issue exposed some serious concerns about how their Falcon agent operates. It does remote execution of unsigned code at the kernel level. It has now become very obvious why this can be a very risky proposition. An error in the system kernel crashes the system, whereas an error in an application running in user mode would typically just crash that particular application.\n\nFurther, you may have been wondering \"don't enterprise companies have staging environments for updates??\" well it turns out most of them do, but Crowdstrike ignores their staging policy for some updates, including this recent global incident.\n\nSo combined, you now have a lot of companies who will start to question how exactly Crowdstrike operates - both the possibility of kernel-level bugs from the vendor themselves, as well as unsigned remote code exection at the Kernel level as an attack surface, and having such an extreme security dependency on an external vendor.\n\nSo I'm not predicting Crowdstrike collapses, but that their sales may encounter more headwinds than before, and growth may be more difficult.\n\n  \nEDIT: Personally, I think that this does represent an opportunity. This will make CRWD stronger by forcing them to put into place a much more rigorous release pipeline, and do a lot of hardening around how they deliver and execute remote code. I probably agree that I would watch them over the next year or so and start to DCA into them assuming they do continue to decrease/revenue shows signs that it is still increasing. So I would use a valuation model assuming a lower rate of revenue growth than had otherwise been expected.",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf0c12b/",
+      "created": 1721986649,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lf0v6yc",
+      "score": 2,
+      "body": "I’m still up and buying.",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf0v6yc/",
+      "created": 1721996936,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfgm5n4",
+      "score": 2,
+      "body": "I havent touched CRWD in a while, but their apology of Uber eats gift card does not instill a ton of confidence in me.",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lfgm5n4/",
+      "created": 1722243370,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lfgw0b0",
+          "score": 1,
+          "body": "They probably sent out 100k gift cards in one day. It's not much overall and I don't account it for much. The team has bigger problems to work on.",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lfgw0b0/",
+          "created": 1722249993,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lfsd54r",
+      "score": 2,
+      "body": "I bought a small amount of shares at market close yesterday, right after AMD earnings, for right around $232, I've set a stop loss for $226, just testing the water, if it continues to go down, I'm out, if it starts going up I will add shares, it's pretty much my routine for buying all stocks...it works pretty good for me.  I've got a feeling I may have gone in to soon...nobody knows for sure..",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lfsd54r/",
+      "created": 1722418001,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lgfsaf0",
+          "score": 1,
+          "body": "May I know if you are still holding?",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lgfsaf0/",
+          "created": 1722771267,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lgikgze",
+              "score": 2,
+              "body": "Nope, my stop loss triggered, I'm waiting at least through the next week and see where it goes...but i do believe that the panic sell off will be short lived (months maybe) and it will go back up...the company has strong fundamentals. Like I said, try to keep my losses  at minimum, buy small amount, if it continues to go up, add more, goes down, cut my loss and wait..",
+              "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lgikgze/",
+              "created": 1722808020,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lez873d",
+      "score": 1,
+      "body": "The next 2-3 quarters will be telling.",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lez873d/",
+      "created": 1721963454,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lez9dwm",
+          "score": 1,
+          "body": "yes, agreed",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lez9dwm/",
+          "created": 1721963986,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lezf3l7",
+      "score": 1,
+      "body": "After the next earnings call and they have to reveal how much their operating profit took a hit and what active lawsuits are out there",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lezf3l7/",
+      "created": 1721966660,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lezm013",
+      "score": 1,
+      "body": "Still early. More downside",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lezm013/",
+      "created": 1721970185,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lf03c5i",
+      "score": 1,
+      "body": "Couple days ago everyone saying it’s going to 0😂😂",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf03c5i/",
+      "created": 1721980806,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lf04307",
+      "score": 1,
+      "body": "It’s not unlikely that if you buy you’ll be holding the bag at this price (or lower) for many years to come",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf04307/",
+      "created": 1721981304,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lf05z10",
+      "score": 1,
+      "body": "Crash and burn",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf05z10/",
+      "created": 1721982580,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lf06kgz",
+      "score": 1,
+      "body": "Next time they do earnings they're going to have to show lower growth due to lower win rate for sales, and higher customer churn, affecting ARR/GNARR. So beware. And, it takes the biggest customers time to migrate, so expect it to continue for a year. This isn't a blip, it was disastrous on the largest magnitude, no big customer is sticking with them, and if they are, it's for a maaaassive discount. Yeah, not going near that falling knife.",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf06kgz/",
+      "created": 1721982988,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lf0bvcp",
+      "score": 1,
+      "body": "[deleted]",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf0bvcp/",
+      "created": 1721986547,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lf3nqeb",
+          "score": 1,
+          "body": "Lol 😂 yeah no..",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf3nqeb/",
+          "created": 1722030870,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lf0d5qg",
+      "score": 1,
+      "body": "Wait for PCE, if its not perfect we're going to see all speculative stocks take a beating",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf0d5qg/",
+      "created": 1721987389,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lf0mmaq",
+      "score": 1,
+      "body": "Why are you buying a stock where the fundamentals have changed so drastically that we don't actually know what the stock is worth? The growth rate has essentially been cut to 0. Anyone who considers crowdstrike first over it's competitors would be rare.\n\nSecondly, if you want to take such a high risk, why not invest in small caps? Seriously. It's no different. \n\nLastly, if you do want cybersecurity exposure, I recommend $IHACK which didn't have a high weighting for crowdstrike to begin with.",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf0mmaq/",
+      "created": 1721992916,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lf0mpu6",
+      "score": 1,
+      "body": "A careless company making this much damage across the world simply should not exist.",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf0mpu6/",
+      "created": 1721992967,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lf0t36r",
+      "score": 1,
+      "body": "If Crowdstrike can save its industry reputation then that would be astonishing. However traditional management wants to minimize risk and that means getting off Crowdstrike",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf0t36r/",
+      "created": 1721996009,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lf0yyqh",
+      "score": 1,
+      "body": "It took me a long time to learn not to do things like this.\n\nDon't buy companies with bad news thinking the sell off is overdone.\n\nBuy companies that have been drug down with them, but nothing has changed with their story.",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf0yyqh/",
+      "created": 1721998506,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lf0yzci",
+      "score": 1,
+      "body": "Buy PANW instead",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf0yzci/",
+      "created": 1721998512,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lf0zu41",
+      "score": 1,
+      "body": "palo alto is a much better fundamental company. all i’ll say",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf0zu41/",
+      "created": 1721998851,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lf25qs0",
+          "score": 1,
+          "body": "PANW is the right name but they focus on network security. it's not mentioned enough in the comments.",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf25qs0/",
+          "created": 1722013039,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lf10tzj",
+      "score": 1,
+      "body": " CrowdStrike sent $10 Uber Eats gift cards to partners to apologize for a global IT outage caused by a defect in a Windows update.\nSome partners experienced issues with redeeming the gift cards because Uber flagged them as fraudulent due to high redemption rates.\nScreenshots and reports from various sources showed multiple email exchanges from CrowdStrike addressing the gift card issues and reinstating the vouchers.",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf10tzj/",
+      "created": 1721999248,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lf13paj",
+      "score": 1,
+      "body": "i have watched it peripherally, and it has NOT gone down as far and as fast as i expected it to.  THere are going to be lawsuits, customers leaving, and so on, to last for years from this.  the price does not yet reflect all that.",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf13paj/",
+      "created": 1722000351,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lf33egj",
+      "score": 1,
+      "body": "It will take a year to roll over the bad news and begin to grow again",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf33egj/",
+      "created": 1722023968,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lf3kily",
+      "score": 1,
+      "body": "Even after this drop its trading at a price / sales of 15.5. I’m sorry but that is so expensive. It’s on my watch list but it would need to fall a lot further before I’ll pull the trigger. ",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf3kily/",
+      "created": 1722029726,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lf4v1l1",
+      "score": 1,
+      "body": "It will test $90's",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf4v1l1/",
+      "created": 1722048385,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfeub0t",
+      "score": 1,
+      "body": "I sold my measly 10 shares as a stop-loss. Keeping CRWD on my radar as a future buy, but now isn’t a good entry point. Transitioning my cybersecurity investment to S for the time being. Cheap with a massive upside, especially now.",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lfeub0t/",
+      "created": 1722210123,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfocpba",
+      "score": 1,
+      "body": "The lawyer bills will be astronomical. This company will be sued and face fines in every region of the globe (In my legal opinion)\nI don't see how they stay in business. I imagine most of their customers were victims of their gross negligence (IMO), and their brand is now Sh*t. Most Monday morning lawyers are saying their liability is limited to the contract. What they won't tell you is if there is negligence, Crowdstrike, then those limits go out the door (IMLO). I imagine Delta has conferred with their high profile attorney and have been advised that they can get retribution. Keep in mind you'll have lawsuits from companies in other countries as well as regulatory fines. One country has the ability to fine a company 4% of their gross revenue and I'm sure that will happen. I can remember Enron, one year the stock was over 90 and within a year it was pennies obviously a different situation but nothing is too big to fail. To add insult, it was reported they sent their customers $10 gift cards that some tried to use, and they weren't good. That will go over like a lead balloon in court that's for sure.",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lfocpba/",
+      "created": 1722358937,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lfokzei",
+          "score": 1,
+          "body": "it's a good point. let's see what happens",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lfokzei/",
+          "created": 1722361479,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ljcpw55",
+          "score": 1,
+          "body": "Were there any cases filed against them? Still thinking what to do with my position.",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/ljcpw55/",
+          "created": 1724319831,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lfoe79e",
+      "score": 1,
+      "body": "The CEO sold over 61 million dollars worth of his stock  in the past 2 months. That might tell you something.",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lfoe79e/",
+      "created": 1722359406,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lfokpis",
+          "score": 1,
+          "body": "I think he's been exercising stock for a while now. Not surprised since the valuation was so rich for so many years.",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lfokpis/",
+          "created": 1722361396,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "leysldj",
+      "score": -1,
+      "body": "Cloudstrike will haemorrhage until its bought out for a fraction of its old worth.\n\n\nYou just can't function as a company after shutting down half the planet in such dramatic fashion.\n\n\nSome customers will be offboarding, but more importantly every _prospective_ client will be pulling plugs left, right and centre to get away from them.\n\n\nEven if a technology analysis comes through showing they're a good option for a company, someone somewhere in the chain will say \"hey isn't this the company that stopped the world?\" and kill it.\n\n\n\n\nDeserved or not, I don't think there's a recovery from this.",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/leysldj/",
+      "created": 1721956980,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "leysvl1",
+          "score": 0,
+          "body": "That would be possible if this was a cybersecurity incident. But it's hard to imagine who would spend +$20b on a distressed cybersecurity business. Very few companies have that buying power.",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/leysvl1/",
+          "created": 1721957095,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "leywa2e",
+              "score": 4,
+              "body": "i mean google tried to buy a **2year** old cybersec startup (Wiz) for 23b.  Wiz turned them down",
+              "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/leywa2e/",
+              "created": 1721958475,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "leyxjtm",
+                  "score": 2,
+                  "body": "I think that was Google's fault. They lost out on Hubspot too.",
+                  "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/leyxjtm/",
+                  "created": 1721958987,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lezhtw5",
+      "score": 1,
+      "body": "The lawsuits are going to bankrupt them.",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lezhtw5/",
+      "created": 1721968010,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lez7h8c",
+      "score": 0,
+      "body": "Any money you were thinking about putting into CRWD right now should go straight into AMD, a company that hasn't fucked any of its customers. AMD stock has gotten majorly fucked recently for no apparent reason.",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lez7h8c/",
+      "created": 1721963134,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lez834e",
+          "score": 2,
+          "body": "lol semiconductors are very different from security stocks",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lez834e/",
+          "created": 1721963404,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lez9kf7",
+              "score": 0,
+              "body": "Are you only interested in cybersecurity stocks? Or are you interested in making money? I would invest in PANW over CRWD.",
+              "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lez9kf7/",
+              "created": 1721964068,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lezg22c",
+                  "score": 1,
+                  "body": "What about sentinel one",
+                  "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lezg22c/",
+                  "created": 1721967127,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lezvmh0",
+                  "score": 1,
+                  "body": "I rather move out of this sector entirely, I feel that the TAM is saturated and most vendors in the sector are struggling to convert from growth to profitability.\n\nI'm looking to exit WCBR.",
+                  "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lezvmh0/",
+                  "created": 1721975800,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lezs6qu",
+          "score": 1,
+          "body": "Are you serious ? AMD hasn’t hurt customers but the stock has seriously hurt shareholders. AMD stock literally lives in the red and I would never recommend this shit stock to anyone, it’s the biggest money burning stock in the market , even worse than penny stocks! No joke",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lezs6qu/",
+          "created": 1721973701,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lez7pqg",
+      "score": 0,
+      "body": "we might be witnessing how a stock gets beaten down so much it becomes a penny stock in the upcoming years",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lez7pqg/",
+      "created": 1721963239,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lez86hn",
+          "score": 6,
+          "body": "doubt it. they still provide a great security product",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lez86hn/",
+          "created": 1721963446,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lezsb97",
+          "score": 1,
+          "body": "You’re describing AMD stock , the shittiest most manipulated stock ever",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lezsb97/",
+          "created": 1721973775,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lezn1wu",
+      "score": 0,
+      "body": "Feel it's too risky a punt for some meagre gains. \n\nCRWD has cost 100s of billions to a lot of enterprises. Until we don't see the repercussion of this, it is a gamble.",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lezn1wu/",
+      "created": 1721970760,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lezr3lk",
+      "score": 0,
+      "body": "They will probably rebrand at some point. Don’t underestimate this situation.",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lezr3lk/",
+      "created": 1721973062,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lezxaqu",
+      "score": 0,
+      "body": "With any stock my rule is -17.5% and sell, then not allowed to buy back in until the next financial quarter.\n\n I didn't hold Crowd Strike but as its dropped 18%, if I did hold, my rule would have kicked in.",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lezxaqu/",
+      "created": 1721976846,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lf0bcq4",
+      "score": 0,
+      "body": "The CEO is Russian. That's all you need to know.",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf0bcq4/",
+      "created": 1721986200,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lf0ivkq",
+      "score": 0,
+      "body": "Building a position here around $250. If it hits $180, will supersize. \n\nThey’re best of breed and essential to so many customers.\n\nThe actual glitch is widely misunderstood.  Yes it was their fault initially, but any competent IT operation could have fixed their servers by morning.  Many did.\n\nThe huge impacts were in orgs that don’t have competent server/system management in place.  Anyone who can’t reboot or even fully re-image a server within a day or less has a CTO and IT dept that should not be getting paid.  Similarly with those who aren’t administering bitlocker properly.\n\nI think loose lawsuit talk is overblown.  Any org that tries to blame CRWD exclusively will just be tattling on their own broken IT shop.\n\nSure they may have to take some lumps discounting some renewals.  But the first time that someone who supposedly yanked the protection (Elon) and then gets hit with a cyber issue, they’ll be repriced.",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf0ivkq/",
+      "created": 1721990902,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lf1ndg6",
+      "score": 0,
+      "body": "Not too late to but Sentinel One. I think that’s the move",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lf1ndg6/",
+      "created": 1722007115,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lezkjgr",
+      "score": -1,
+      "body": "They’re going bankrupt brother. This is the tip of the iceberg. Imagine how many places/people are going to sue them",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lezkjgr/",
+      "created": 1721969409,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "leze093",
+      "score": -2,
+      "body": "Cringe. Are you asking the sub to do your DD? Jesus Christ",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/leze093/",
+      "created": 1721966131,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "leyx4tc",
+      "score": -6,
+      "body": "Man are you out of the loop... lol",
+      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/leyx4tc/",
+      "created": 1721958820,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "leyxbl8",
+          "score": 2,
+          "body": "how so?",
+          "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/leyxbl8/",
+          "created": 1721958895,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "leyyfw0",
+              "score": -8,
+              "body": "Do you read the Wall Street Journal.. \n\nYou don't,,",
+              "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/leyyfw0/",
+              "created": 1721959347,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "leyz7yz",
+                  "score": 4,
+                  "body": "No I only read what investors and executives write. Not mainstream media.",
+                  "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/leyz7yz/",
+                  "created": 1721959662,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "leyzt8s",
+                      "score": -9,
+                      "body": "Wall STREET JOURNAL,, is mainstream media? \n\nI like that one, it's original. \n\nWell, good luck.. you will be fine.",
+                      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/leyzt8s/",
+                      "created": 1721959902,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lez4fha",
+                  "score": 3,
+                  "body": "30 years on the Internet and I’ve still yet to encounter someone who both uses commas as periods _and_ is capable of forming a coherent thought. Maybe next year.",
+                  "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lez4fha/",
+                  "created": 1721961822,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lez5fw9",
+                      "score": -1,
+                      "body": "Hit a nerve there,, didnt I... lol",
+                      "permalink": "/r/stocks/comments/1ecbao0/thoughts_on_crowdstrike_bottoming_out/lez5fw9/",
+                      "created": 1721962252,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

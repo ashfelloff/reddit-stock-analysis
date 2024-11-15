@@ -1,0 +1,464 @@
+{
+  "title": "Blackstone and Vista to acquire software maker Smartsheet for $8.4 billion ",
+  "score": 290,
+  "selftext": "Collaboration software maker Smartsheet announced Tuesday Blackstone and Vista Equity Partners will acquire it in an all-cash deal valuing the company at about $8.4 billion.\n\nStockholders will receive $56.50 per share, a 41% premium to Smartsheet’s average closing price over the last three months.\n\nThe company had been gauging interest from potential acquirers for several months. The company went public in 2018 and sought to go head-to-head with other software companies like Atlassian.\n\n“As we look to the future, we are confident that Blackstone and Vista’s expertise and resources will help us ensure Smartsheet remains a great place to work where our employees thrive,” CEO Mark Mader said in a release. Shares rose 6% on the news.\n\nThe transaction has a 45-day go-shop period, allowing Smartsheet to solicit other bidders. Barring another offer, the transaction is expected to close by January 2025, pending shareholder approval.\n\nQatalyst advised Smartsheet. Goldman Sachs and Morgan Stanley advised the private equity bidders.\n\nSource: https://www.cnbc.com/2024/09/24/blackstone-and-vista-equity-partners-to-acquire-software-maker-smartsheet.html",
+  "link_flair_text": null,
+  "id": "1focvlg",
+  "num_comments": 51,
+  "created_utc": 1727185556,
+  "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/",
+  "comments": [
+    {
+      "id": "lop09wd",
+      "score": 165,
+      "body": "Wow. That’s an insane amount to pay for this todo list we all learn during programming 101. \n\nJk",
+      "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/lop09wd/",
+      "created": 1727187698,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lop842l",
+          "score": 60,
+          "body": "But for real, smart sheet blows. It feels like using flash again",
+          "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/lop842l/",
+          "created": 1727190251,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lopdpis",
+              "score": 37,
+              "body": "Everything it does, Google Sheets and Sharepoint + Excel + Power Query/BI do 100x better and with 1000x more features. God, I hate smartsheets. I'm so happy that I don't have to use it anymore.",
+              "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/lopdpis/",
+              "created": 1727192016,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lopmrky",
+                  "score": 43,
+                  "body": "Huh? This sounds like conversations my PM org used to have with our VP on a regular basis (this was the same VP who once famously said PMs don't do any actual work). It took years for him to realize how ridiculous this was.\n\nSharepoint + Excel + Power BI doesn't do automatic dependency tracking. It's doesn't do automatic budget planning (not talking about costs here, I'm talking about other budgets such as test, staffing, etc). It doesn't do automatic workload tracking. It doesn't do automatic critical path identification. I could go on.\n\nCan you build all these things in powerBI, sharpoint, and excel? Sure. You could also build it in assembly. Does it make sense to do this, reinventing the wheel over and over again across your entire company investing untold amounts of dev time into what's essential a glorified ETL job and not at all related to your core products? Absofreakinglutely not.\n\nHaving been down this road before, I can tell you, this got so complex that we had a literal team of 5-7 people just working on PBI. Creating dashboards. That was all they did. It was nuts. With smartsheets, we cut the staff down to ~2 people and the rest went to core programs.",
+                  "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/lopmrky/",
+                  "created": 1727194849,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "loq1bqr",
+                      "score": 6,
+                      "body": "I used to work at a place that adopted smartsheets as an alternative to sharepoint for all of their employees. I do see the value in what you're saying. Ive lived a reality where this tool was forced on people in very much square peg round hole type situations, so Im extremely biased against it.\n\nIve said some things that are unfair within your niche use case. Outside of your niche use case, I stand by my opinnion that smartsheets is hot garbage.",
+                      "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/loq1bqr/",
+                      "created": 1727199375,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "loq25vl",
+                          "score": 4,
+                          "body": "> as an alternative to sharepoint for all of their employees\n\nWTF? That's really bizarre... They do different things.",
+                          "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/loq25vl/",
+                          "created": 1727199633,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "loq3plt",
+                              "score": 2,
+                              "body": "It is truly a bizarrely terrible place. Had my first personal experience with overt private sector corruption there too.\n\nNon-specific Power, in case you were wondering.",
+                              "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/loq3plt/",
+                              "created": 1727200105,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lopw6wm",
+                      "score": 1,
+                      "body": "[deleted]",
+                      "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/lopw6wm/",
+                      "created": 1727197791,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lopy2tg",
+                          "score": 2,
+                          "body": "Again, this sounds like something someone who has very little program management experience would say. These things are core work products for any PM organization. \n\nA PM's primary job duties are to define scope (charter), crate a plan (gantt chart), optimize the critical path (dependency tracker), ensure the project stays within defined budgets (burndowns), ensure staffing is adequate (workload tracking) and more.\n\nThese things shouldn't be a surprise for anyone who's worked on sufficiently large programs (e.g. infrastructure).",
+                          "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/lopy2tg/",
+                          "created": 1727198379,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lopzp4c",
+                              "score": 1,
+                              "body": "[deleted]",
+                              "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/lopzp4c/",
+                              "created": 1727198876,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "loq021t",
+                                  "score": 6,
+                                  "body": "Huh? Smartsheets is just a PM tool. Where I work we leave it up to the PM to determine what to use. Some use excel, some use google sheets, some smartsheets, some ms project. \n\nI feel like you don't understand what the tool actually does. It's closest competitor is ms project.",
+                                  "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/loq021t/",
+                                  "created": 1727198986,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "losz1lo",
+                                      "score": 1,
+                                      "body": "Finally the real answer",
+                                      "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/losz1lo/",
+                                      "created": 1727236672,
+                                      "depth": 8,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lop0211",
+      "score": 26,
+      "body": "Poor guys. I wish I could short Vista.",
+      "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/lop0211/",
+      "created": 1727187625,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lop45em",
+      "score": 54,
+      "body": "Smartsheet is getting acquired at a ~7x multiple on their annualized revenue! \n\nGiven that the business is growing ~17% YoY and is roughly breakeven in terms of EBITDA and Net Income, I think it’s a pretty lofty valuation. Most SaaS peers with similar financial profiles are trading at lower  revenue multiples.\n\nBut perhaps it’s a good sign w/r/t investor sentiment around SaaS. A good omen for SaaS in 2025.\n\nSource: [Public SaaS revenue multiples database](https://publicsaascompanies.com)",
+      "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/lop45em/",
+      "created": 1727188973,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lop5b8i",
+          "score": 44,
+          "body": "They will now cut headcount massively, offshore jobs and make it hyper profitable.\n\nFairly low tech SaaS companies like this once built out and have a steady customer base can be run very lean as long as they don’t need to innovate that much. So these activist investors love these kinds of companies to acquire, massively downsize and make them super profitable. These companies usually have 80% or more profit margin and it takes very little man power to keep the lights on.\n\nI wouldn’t be surprised if this entire company can be run by less than 500 people (wow they apparently have 3,300 employees as of now). WhatsApp when it was acquired by Facebook for $20 billion had like 100 employees. Telegram, used by billions of people on a daily basis has less than 50 employees.\n\nOnce these companies become hyper profitable; they can be IPO’d at a premium and these investors will walk away with a ton of $$$",
+          "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/lop5b8i/",
+          "created": 1727189352,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lopkbn2",
+              "score": 14,
+              "body": "That’s what UKG did to me. They told us we could cruise for a while after a six year death march, but I got let go the morning after I said I couldn’t make it to work the next day because I was in the ER.\n\nI also can’t get confirmation on the stock I hold. We were all given big retention bonuses, but no one on our team can get them to confirm our shares. ",
+              "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/lopkbn2/",
+              "created": 1727194080,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lopc5nz",
+              "score": 8,
+              "body": "There are quite a few public SaaS ripe for a takeout for this reason. Companies like Freshworks, Pagerduty, Asana, Bill, Sprout, Amplitude, & more that are seeing growth rates stall could be acquired, cut sales & marketing spend, and run 30%+ fcf margins in quick order.",
+              "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/lopc5nz/",
+              "created": 1727191534,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lopjyt2",
+                  "score": 8,
+                  "body": "Seems like it would be a fun bet but would not be worth putting real money on. Most of these are much newer and have not done well unlike smartsheet. Maybe Bill since they're the only profitable one. ",
+                  "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/lopjyt2/",
+                  "created": 1727193967,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "los35wm",
+                  "score": 2,
+                  "body": "UCaaS industry too - ZM, FIVN, RNG, EGHT",
+                  "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/los35wm/",
+                  "created": 1727223860,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "losphev",
+              "score": 3,
+              "body": "That’s a ridiculous comparison. Whatsapp isn’t even a remotely similar company.",
+              "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/losphev/",
+              "created": 1727232438,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "loq1njs",
+          "score": 7,
+          "body": "I applied to work for them some months ago. Ended up turning it down because I kept getting the feeling they were massively over headcount, which usually leads to cuts when times are tough. I've worked for enough B2B SaaS companies to know what direction the wind is blowing... if they didn't cut jobs, someone else would come in and make them do it.",
+          "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/loq1njs/",
+          "created": 1727199476,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lopeaeg",
+      "score": 17,
+      "body": "Question for you guys. My wife worked at smartsheet up until layoffs happened a couple months ago. We have about 30k in stocks right now and we were just talking about taking it out this past weekend. \n\nShould we take it out right now? Is the stock going to freeze today regardless and are we going to be cashed out automatically? Should we hold onto it for a minute?",
+      "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/lopeaeg/",
+      "created": 1727192196,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lopffhz",
+          "score": 34,
+          "body": "Hold onto it until they give her $56/share",
+          "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/lopffhz/",
+          "created": 1727192553,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lopfvhm",
+              "score": 6,
+              "body": "So that's a guaranteed payout for anyone who holds shares at the beginning of the year next year?",
+              "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/lopfvhm/",
+              "created": 1727192692,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "loppy0e",
+                  "score": 1,
+                  "body": "Not guaranteed. Only I’d the deal goes through. \n\nWith the anti-business FTC, I would consider selling if you can’t afford the risk. ",
+                  "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/loppy0e/",
+                  "created": 1727195851,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "loqkhkc",
+                      "score": 4,
+                      "body": "Lmao… anti-business…. All this will do is cause more layoffs, and then folks like you come crying that the economy is deteriorating.",
+                      "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/loqkhkc/",
+                      "created": 1727205333,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lorp88j",
+          "score": 4,
+          "body": "There will be people that buy the stock now for merger arbitrage. ie buy at less than $56.5 and then once the deal goes through they get the profit at $56.5. \n\nHowever, your upside is not limited since the stoco is trading at $55.6 right now, is it worth waiting around to get that additional profit (with the potential risk that the deal doesn’t happen) or is it worth selling now and then putting it in an SP500 ETF or another company stock you believe in?",
+          "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/lorp88j/",
+          "created": 1727218752,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lopkvu3",
+          "score": 2,
+          "body": "hold",
+          "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/lopkvu3/",
+          "created": 1727194258,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lorktut",
+          "score": 2,
+          "body": "I have a bunch still too.  I was one of the first 30ish employees years ago.  The Geekwire report says its expected to happen in January after a 45 day period where they can solicit other offers and pending shareholder approval.  Selling all those shares at once is going to be brutal taxes.  I live in Washington State so not only is some of mine going to be over the 20% long-term threshold and 3.8% NIIT, but also anything over 250k, gets taxed at 7% in Washington State... So I'll likely wait until December and see if I can sell some during this tax year and then let the rest sell in January automatically.  Not certain I'll be able to do that, but that's my tentative plan.  Do the math on your own situation, but I did it for mine on the shares I have left.  I'm looking at like 120k in taxes if it all sells at once.  I'm looking at like 90k in taxes if I hypothetically sold half at $56.50 this year and half at $56.50 next year.  My guess is it will hover close to $56.50 for the remainder of the year and I'll probably have to sell for a bit less than that (already trading at $55.50 right now), but presuming that will be the final sale price (and no news comes from this 45 day period), selling for $1 less per share is still going to be way better from a tax standpoint for me.",
+          "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/lorktut/",
+          "created": 1727217179,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lopmpak",
+          "score": 1,
+          "body": "So around January of 2025 we are guaranteed to get cashed out at $56.50? In the meantime the stock will raise to around that price but likely not go above it because it's guaranteed to be overvalued. We can sell right now for a dollar less per share or just wait for $56.50 in January.\n\nIs all that correct? Thanks.",
+          "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/lopmpak/",
+          "created": 1727194830,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lopodwk",
+              "score": 4,
+              "body": "You can also look at from a different perspective. Do you want to pay taxes in 2024 or 2025? Do you have losses already this year? Will you have a big year next year due to bonus or planned stock sales?",
+              "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/lopodwk/",
+              "created": 1727195361,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "losfzci",
+              "score": 2,
+              "body": "If the deal goes through… that will be the price. If the deal doesn’t go through- Then the market price of stock will most likely fall. You can sell now for $1 less. Or you can take the risk that the deal goes through + waiting time for the $1",
+              "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/losfzci/",
+              "created": 1727228710,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lotpc65",
+                  "score": 1,
+                  "body": "That seems like a November decision.  What's the chance their 45 day shopping period nets them a better offer?",
+                  "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/lotpc65/",
+                  "created": 1727252595,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ltlky0p",
+                      "score": 1,
+                      "body": "Well there’s a report now of someone that was interested once a deal was made…\n\nhttps://stocks.apple.com/A6hm2qmVsQfSIEvOBE001wg",
+                      "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/ltlky0p/",
+                      "created": 1729813009,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lopdl6y",
+      "score": 15,
+      "body": "Time for the employees to look for a new job. The firings will commence soon. Wait for it, but have something lined up.",
+      "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/lopdl6y/",
+      "created": 1727191978,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "loq555c",
+      "score": 6,
+      "body": "[deleted]",
+      "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/loq555c/",
+      "created": 1727200546,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lorqxkr",
+      "score": 5,
+      "body": "Used smartsheet over a decade ago and it was obsolete then. It's amazing that this one got acquired.",
+      "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/lorqxkr/",
+      "created": 1727219367,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lopkfqr",
+      "score": 9,
+      "body": "Oof I hate the product",
+      "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/lopkfqr/",
+      "created": 1727194116,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lopyg66",
+      "score": 3,
+      "body": "Well damn…. There goes my greencard application ![gif](emote|free_emotes_pack|neutral_face) I wish this could have waited another year",
+      "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/lopyg66/",
+      "created": 1727198493,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lorlyu2",
+      "score": 4,
+      "body": "What a waste of money",
+      "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/lorlyu2/",
+      "created": 1727217593,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "los8c33",
+      "score": 7,
+      "body": "Wow can’t believe Smartsheets got taken out for $8 billion.  It is truly a POS software.  On a recent medium size project,  we ran into limitations with their list capacities so often,  took forever to open up a record, and saving the changes were random,  sometimes it saved, sometimes it kept spinning.\nMonday.Com blows Smartsheets out of the water.",
+      "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/los8c33/",
+      "created": 1727225783,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "loqglgy",
+      "score": 3,
+      "body": "What about air table then!?",
+      "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/loqglgy/",
+      "created": 1727204115,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lowryqb",
+      "score": 2,
+      "body": "If someone worked in the inside sales department of Smartsheet should they be looking for a new job?",
+      "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/lowryqb/",
+      "created": 1727294788,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lopne4w",
+      "score": 1,
+      "body": "How in the world is SMAR worth $8B!? This is great news for tech though... valuations starting to go back to crazy levels... Money is becoming cheap again.",
+      "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/lopne4w/",
+      "created": 1727195047,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lorxu17",
+      "score": 1,
+      "body": "Solid growth, great gross margin, wildly out of control OpEx. Perfect acquisition target for BLK and Vista.",
+      "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/lorxu17/",
+      "created": 1727221869,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "los48zq",
+      "score": 1,
+      "body": "Everything is just excel or forums on some fundamental level and I think I could probably\nMake a forum in excel",
+      "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/los48zq/",
+      "created": 1727224267,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "loum3qf",
+      "score": 1,
+      "body": "Once I started using Notion I never went back to smartsheet.",
+      "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/loum3qf/",
+      "created": 1727270021,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "louc0t0",
+      "score": 0,
+      "body": "Lol never fucking heard of them",
+      "permalink": "/r/stocks/comments/1focvlg/blackstone_and_vista_to_acquire_software_maker/louc0t0/",
+      "created": 1727265964,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

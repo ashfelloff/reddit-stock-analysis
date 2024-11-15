@@ -1,0 +1,173 @@
+{
+  "title": "How does the options markets effect the stock market more significantly?\n",
+  "score": 66,
+  "selftext": "I was watching a vertasium video on the black scholes equations, in the video they mentioned that during the game stop surge, the reason why retail traders could bid the price of the STOCK higher was because they bought stock options . They said that 1 dollar could only buy 1 dollar worth of stock so buying the stock itself wouldn't be able to push the price enough, however, with 1 dollar you could buy options that could affect 10 or potentially 20 dollars worth of the underlying stock, therefore there is natural leverage in those securities.\n\n\n\nHow does this make sense?",
+  "link_flair_text": null,
+  "id": "1e7wz74",
+  "num_comments": 19,
+  "created_utc": 1721485914,
+  "permalink": "/r/stocks/comments/1e7wz74/how_does_the_options_markets_effect_the_stock/",
+  "comments": [
+    {
+      "id": "le63k04",
+      "score": 18,
+      "body": "People posted things that were close to correct, but not quite.  But it really does not matter the sentiment was correct.  How options effect the market is on the extreme.  Big moves get slightly bigger because of gamma.\n\nExample  you buy 10 call options on company xyz 20 days out strike price 25 and its trading at 20,  its 52 week range is 17 to 32.  The algorithm says we need 20 shares to hedge, so as you place order they buy 20 shares.  5 days later xyz goes to 22.5, algo goes out and gets another 130 shares to hedge.  As xyz gets closer to strike algo will buy more and more until at 25 it has 1000 shares to cover contract.  If during this process xyz has a pull back algo will be selling shares always keeping market maker risk in balance.  Its one of the reasons you see stocks sell off in last hour of trading if it just short of strike price, algo is off loading risk, or vice versa stock is over strike and it moves up in last hour as algo buys last few shares to complete contract.  \n\n  \nIf you have ever looked at volume tape of a stock that is lower priced and you see a ton of 7, 19 43 shares go by that is typical of option hedging or deleveraging.  Probably been 15 to 20 years since that was all done by computer,  the market maker on options is more like a sports book in vegas.  As the bets or options come in they want to be dead in middle.\n\n  \nSo how we all see it is in the big dramatic moves,  Nvidia when it was making new record high seemingly on a daily basis and people were betting on it to continue those algos dont care if its over valued, they have to buy.  The original squeeze one gme was even more dramatic because the float was so low.  It happens the other direction as well.  Can easily push a stock lower if that is the direction its going.    These effects are usually temporary,  a day or three\n\n  \nIf you want to go deep look up the greeks on options, its a beautiful mathematical dance.\n\nIf you want your options purchase or sale to hit the market all at once you need to buy or sell in the money.....good luck",
+      "permalink": "/r/stocks/comments/1e7wz74/how_does_the_options_markets_effect_the_stock/le63k04/",
+      "created": 1721527575,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "le89tly",
+          "score": 1,
+          "body": "So by buying call options as the price was going up, people were \"forcing\" market markers to buy more stock to hedge, thus driving the price even higher. Did I understand that right?",
+          "permalink": "/r/stocks/comments/1e7wz74/how_does_the_options_markets_effect_the_stock/le89tly/",
+          "created": 1721571653,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "le8f71t",
+              "score": 2,
+              "body": "As long as they are not way out of the money calls yes, that is essentially what gamma does in the short run",
+              "permalink": "/r/stocks/comments/1e7wz74/how_does_the_options_markets_effect_the_stock/le8f71t/",
+              "created": 1721573605,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "le5np5h",
+      "score": 2,
+      "body": "I always wonder a question.  Is there big institutions trying to manupilate the market because they also buy leveraged position?  For example, institution sees the market seemed to go upwards, he buy leveraged long, and use his huge cash position to buy up the stock and make the price go up.  (or vice versa he can do short and keep selling the stock he own to make the price go down).  \n\nThe price flucuation for soxx just seemed so large everyday, it makes me think people might trying to pump or lower the stock price.",
+      "permalink": "/r/stocks/comments/1e7wz74/how_does_the_options_markets_effect_the_stock/le5np5h/",
+      "created": 1721520731,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "le362e9",
+      "score": 8,
+      "body": "I'm probably not the best person to explain, but here goes...\n\nOn one call option bought, market makers have to hedge by buying 100 shares of stock.\n\nSo, basically if a party bought 100 call options of TSLA, market makers have to buy 10,000 shares of the stock for hedging purposes.\n\nThis isn't really something in which I would say that retail really benefits from in all honesty. It's often bigger parties that are doing this with the big Nasdaq stocks (and it's probably more than 100 call options), and this can work both ways on how it pushes the stocks. The unwind of what happens in the options market can be brutal.\n\nBut there is more to options than what I understand, so...\n\nI think the first squeeze on video game store was probably a short squeeze, but the ones that have occurred since then have been more options market related instead in all honesty.",
+      "permalink": "/r/stocks/comments/1e7wz74/how_does_the_options_markets_effect_the_stock/le362e9/",
+      "created": 1721486593,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "le3bzyp",
+          "score": 18,
+          "body": "If a party buys 100 call options the market maker does NOT have to go buy 10,000 shares.\n\nMarker makers are normally not taking the other side of a trade either. They are matching orders. Someone else from an exchange will fill the order and if they are institutions, will likely not hedge 100%. They will write the call naked and hedge according to certain Greeks.",
+          "permalink": "/r/stocks/comments/1e7wz74/how_does_the_options_markets_effect_the_stock/le3bzyp/",
+          "created": 1721488796,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "le48bnl",
+              "score": 7,
+              "body": "[deleted]",
+              "permalink": "/r/stocks/comments/1e7wz74/how_does_the_options_markets_effect_the_stock/le48bnl/",
+              "created": 1721500627,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "le4ais3",
+                  "score": 2,
+                  "body": "MMs so not take a position, except they willingly expose themselves one way or the other every millisecond so they can pocket the spread. They have their own algos to figure out how often they hedge a batch of transactions. They are not exposed at close and they are not exposed even on short time periods.",
+                  "permalink": "/r/stocks/comments/1e7wz74/how_does_the_options_markets_effect_the_stock/le4ais3/",
+                  "created": 1721501441,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "le4nzdq",
+                      "score": 3,
+                      "body": "Which MM did you work at? The one I did certainly did have leftover exposure or even a directional bet.",
+                      "permalink": "/r/stocks/comments/1e7wz74/how_does_the_options_markets_effect_the_stock/le4nzdq/",
+                      "created": 1721506523,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "le4obw4",
+                          "score": 2,
+                          "body": "Over what time period? MMs don’t make directional bets, that would be some other side of your business.",
+                          "permalink": "/r/stocks/comments/1e7wz74/how_does_the_options_markets_effect_the_stock/le4obw4/",
+                          "created": 1721506653,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "le4sjqg",
+                              "score": 3,
+                              "body": "Well yeah, but the trade is facilitated with MMing if its not time sensitive, you just allow exposure to build up in a trader given direction.",
+                              "permalink": "/r/stocks/comments/1e7wz74/how_does_the_options_markets_effect_the_stock/le4sjqg/",
+                              "created": 1721508221,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "le3ghwn",
+          "score": 10,
+          "body": "In reality they'll hedge not with 100 shares but depending on the greeks of the option they sold. If they sell a 1 delta call option they don't need to buy 100 shares, only 1 share. However, as the price moves up, this can cause a \"gamma ramp\" where the delta increases faster as we go up, and the MMs need to keep buying more and more shares faster to keep those sold options hedged.",
+          "permalink": "/r/stocks/comments/1e7wz74/how_does_the_options_markets_effect_the_stock/le3ghwn/",
+          "created": 1721490429,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "le49znz",
+          "score": 5,
+          "body": "No, not 100 shares, it depends on the delta. If the stock moved $1, how much will each option (not the contract with 100 options) change in price? Thats delta and its always lower than $1. OTM calls expiring in a few days will have little delta. Deep ITM calls will have high delta. Say if delta is 0.6, MM only has to buy 60 shares to “delta hedge” the contract. MM is also buying calls, buying and writing puts, so they hedge the net delta of all those transactions within some time frame, they have their own algos to figure out the best way. \n\nDelta changes as stock price changes (ITM calls have much higher delta than OTM calls), so they also gamma hedge, meaning they update their hedge as the delta moves.",
+          "permalink": "/r/stocks/comments/1e7wz74/how_does_the_options_markets_effect_the_stock/le49znz/",
+          "created": 1721501246,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "le69g2k",
+      "score": 1,
+      "body": "Gamma effects underlying securities",
+      "permalink": "/r/stocks/comments/1e7wz74/how_does_the_options_markets_effect_the_stock/le69g2k/",
+      "created": 1721530230,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lefgmwl",
+      "score": 1,
+      "body": "Options are a leverage play, and large options transactions can move the market in the short term, but they don't have any impact in the long term.  Without getting into a dissertation on options pricing, just know that one contract represents 100 shares of unlying stock.  Options are priced on whether they are in the money or out of the money (and by how much), time, and volatility.  One contract will cost less than 100 shares of the stock, so you can theoretically control more stock with options than you can by holding the stock.  Eventually, the options will expire either in the money or out of the money which means they will be worthless.",
+      "permalink": "/r/stocks/comments/1e7wz74/how_does_the_options_markets_effect_the_stock/lefgmwl/",
+      "created": 1721676676,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lep5mrk",
+      "score": 1,
+      "body": "Options trading can reveal market sentiment and expectations, influencing underlying stock prices. Hedging activities: Large-scale options hedging by institutions can drive stock price movements, especially near expiration dates. Leverage and volatility: Options provide leveraged exposure, potentially amplifying stock market volatility during periods of uncertainty.These factors create a complex interplay between options and stocks, often leading to notable price impacts and liquidity effects in both markets.\n\n ",
+      "permalink": "/r/stocks/comments/1e7wz74/how_does_the_options_markets_effect_the_stock/lep5mrk/",
+      "created": 1721824408,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "le53u2r",
+      "score": 0,
+      "body": "I think it’s small pickles compared to the overall market.",
+      "permalink": "/r/stocks/comments/1e7wz74/how_does_the_options_markets_effect_the_stock/le53u2r/",
+      "created": 1721512582,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

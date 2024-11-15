@@ -1,0 +1,415 @@
+{
+  "title": "AI chipmaker Cerebras files for IPO to take on Nvidia - But 87% of its revenues have come from the UAE-G42 and U.S. Now Allows Nvidia Chips",
+  "score": 61,
+  "selftext": "The Middle East wants chips badly but US restrictions prevent the US most powerful chips entering into certain geographical areas such as China and the Middle East; this entails the UAE. Nevertheless, the UAE wants in on the GPU chips craze and is apparently willing to pay anything to enter into the chip bonanza. \n\nThe UAE can't get Nvidia's, AMD's, or Intel's best GPU chips so instead they are investing heavily into alternatives such as Cerebras. There is nothing inherently wrong with this but it's also the biggest red flag as an investment opportunity. If the agreements for Nvidia chips open up in the Middle East and specifically with the UAE that could be a crushing blow to this aspiring startup. \n\nSpecifically, Cerebras Systems reported a net loss of $66.6 million for the first six months of 2024, on $136.4 million in revenue. For the same period in 2023 it has a net loss of $77.8 million on just $8.7 million in sales. 87% of this revenue for the first half of 2024 was directly from the UAE G42. \n\nThe other red flag from this startup is the way in which they promote their business. It's all seemingly smoke and mirrors and conveniently based on outdated GPU pricing and throughput information; which is very publically available. \n\nFor some reason, Groq and Cerebras love to keep using memory to unlock speeds on small/tiny models which is impractical and inefficient for a scaled system; or a system that is a large foundational LLM. As well, they have no clue what models will do next so it's a major after the fact architecture that uses llama because they have access to it. [https://cerebras.ai/blog/introducing-cerebras-inference-ai-at-instant-speed.](https://cerebras.ai/blog/introducing-cerebras-inference-ai-at-instant-speed) A prime example of this is OpenAI's GPT-o1 model that uses reasoning in coordination with its model capabilities. Because they are not being used on the forefront of this technology they don't know how or when a model's size, function, or needs will evolve into the future. \n\nAll of this plus the pricing from OpenAI and Microsoft is coming down exponentially. \n\n**For Example**:\n\n1. They are referring to a 70b param model that shoves an entire model onto memory.\n2. They are going up against h100's which is a very old technology at this point. They make no reference to h200's let alone blackwell\n3. Because they are referencing such a small model the pricing model they suggest would be radically different for a 400b param model and forget about trillion param models which are coming next.\n4. They're not being truthful about tokens per s. As of today this is Azure GPT 4o and GPT 4 mini tokens per minute\n\n# gpt-4o & GPT-4 Turbo global standard\n\n|Model|Tier|Quota Limit in tokens per minute (TPM)|Requests per minute|\n|:-|:-|:-|:-|\n|`gpt-4o`|Enterprise agreement|30 M|180 K|\n|`gpt-4o-mini`|Enterprise agreement|50 M|300|\n\nAs you can clearly see 30 million tokens per minute is 500k tokens per second and mini is 833,333 tokens per second. So i don't know why they are referring to 20 tokens per second or their 450 tokens per second seems way off. maybe they mean million. Even if that is the case and 70 b would be more like mini it is way higher than their limit.\n\nOn pricing which they lay out a 3:1 input versus output is fine the price would be for mini which is a comparable model is roughly .10 cents (input) +  .20 cents = .30 cents. Per million.\n\nfor regular 4o it would be higher and let's face it GPT 4o is a far superior model than llama 3.1\n\n3.33 dollar + 5 = $8.33\n\n**Source:**\n\n[https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/)\n\nFrom this information what I can tell you is that what we just went over is pricing. it is not some guarantee for what a model produces per second. That shit is very random. What I can tell you is from GPT 4 to GPT 4 turbo to Gpt 4o the speed is dramatically better. GPT 4o mini is damn near real time. Take that for what it's worth.\n\nI am not saying they're being dishonest here but I am saying they are being very cheeky with how they advertise things. \n\nThe company is currently being primarily supported by the UAE, with investments worth roughly $900 million for new AI supercomputers known as the Condor Galaxy series. Any growth here is singular to this source of investment and not driven by organic growth or usage. This is not a competitor to Nvidia but rather a temporary solution in the Middle East until chip embargoes are alleviated.\n\nThe media here loves to use sexy headlines on non-technical verifications of what it is they are actually comparing. I.e. H100's are now old, or The fact an entity may need to serve millions of clients... No they are instead reporting self-prompting headlines from Cerebras that say things like our chips are 20x faster than Nvidia. \n\n**Live Update:**\n\nAs I am writing and researching this topic it has just been reported by Reuters that the U.S. is setting a new rule to allow chip shipments to the Middle East including the UAE which is a boon to Nvidia and Microsoft. \n\n# [US sets new rule that could spur AI chip shipments to the Middle East](https://www.reuters.com/technology/us-sets-new-rule-that-could-spur-ai-chips-middle-east-2024-09-30/#:~:text=Public%20Policy-,US%20sets%20new%20rule%20that%20could%20spur,shipments%20to%20the%20Middle%20East&text=WASHINGTON%2C%20Sept%2030%20(Reuters),centers%20in%20the%20Middle%20East)\n\n**Here are couple excerpts:**\n\n>WASHINGTON, Sept 30 (Reuters) - The U.S. Commerce Department on Monday unveiled a rule that could ease shipments of artificial intelligence chips like those from Nvidia Corp (NVDA.O), to data centers in the Middle East.\n\n>G42, a UAE-based AI company with historic ties to China, has been a focus of those concerns. In April, Microsoft Corp. [(MSFT.O), opens new tab](https://www.reuters.com/markets/companies/MSFT.O) announced that it would invest $1.5 billion in the company, with plans to provide G42 with chips and model weights, sophisticated data that improves an AI model's ability to emulate human reasoning.The deal drew scrutiny from China hardliners in Congress, even though G42 said in February that it had divested from China and was accepting constraints imposed on it by the United States to work with American companies.\n\nLOL you can't make this up. Literally this just got reported by Reuters today 9/30/2024. This completely aligns with my argument above regarding the UAE-G42. \n\nWith chips now entering into the Middle East from Nvidia and potentially others I don't know how this startup IPO makes it off the ground. I don't mean to be bearish but I don't think this is the time for them to raise an IPO without showing more progress. I could be wrong. As of now, I don't plan on buying any shares. \n\nInstead, I will be adding more shares into Nvidia because now this is bullish news for Nvidia.  ",
+  "link_flair_text": "DD",
+  "id": "1ftc23m",
+  "num_comments": 42,
+  "created_utc": 1727745224,
+  "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/",
+  "comments": [
+    {
+      "id": "lpqryic",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 10 | **First Seen In WSB** | 1 year ago\n**Total Comments** | 4044 | **Previous Best DD** | \n**Account Age** | 3 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lpqryic/",
+      "created": 1727745232,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lps03zh",
+      "score": 21,
+      "body": "I didn’t read everything as I fell over at the bit about not being truthful about tokens. You clearly misunderstood the difference between an api limit and inference speed. The 450 token per second comparison to 20 is pretty much correct . Just go try it out on each service and you can see for yourself. \n\nThere are many negative aspects to this ipo , I’d say the main one is virtually all the income coming from 1 customer but I think they have a unique take on speed and even tsmc is trying to develop full wafer solutions themselves so it probably has a future.\n\n\nI would have preferred they waited a couple more years for revenue to develop before an ipo.\n\nDisclaimer. I am invested 20k pre ipo and will be buying more if there is a dip.",
+      "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lps03zh/",
+      "created": 1727766212,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lptw1hh",
+          "score": 10,
+          "body": "Lmao this guy really did a whole DD based on\n\n1.\t⁠The inference side when all the revenue is training at the moment and\n2.\t⁠Used rate limits as “speed”\n\nHe really belongs here 😭",
+          "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lptw1hh/",
+          "created": 1727798487,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lpufyuf",
+              "score": 6,
+              "body": "Yeah . I doubt he’s even bothered to read the  sec filing which of course is going to be v biased but at least the info is there. There a good discussion here \n\nhttps://news.ycombinator.com/item?id=41702789\n\nwith possibly less biased opinions both ways which is worth a read for anyone interested.",
+              "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lpufyuf/",
+              "created": 1727804817,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lpv44ns",
+                  "score": 6,
+                  "body": "Thanks for this link - YC definitely tends to have better discussions than here. The NVDA stock sub is even worse. I own mid 6 figures of NVDA and the people in that sub make me wanna exit completely lmfao",
+                  "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lpv44ns/",
+                  "created": 1727812328,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lpvl8zz",
+                      "score": 2,
+                      "body": "What? You don’t like the “Buy the Dip!” Convo?",
+                      "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lpvl8zz/",
+                      "created": 1727817650,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lpxs9au",
+                      "score": 2,
+                      "body": "nah, not really.",
+                      "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lpxs9au/",
+                      "created": 1727849939,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lpxs4aw",
+                  "score": 2,
+                  "body": "I mean nothing in that yc talk is really saying anything useful. Here's one quote. A legion of lawyers huh.\n\n>I don’t think their value add is simple 'single wafer' with all other variables the same. In fact, I think the block and system that gets the most out of that form factor is the secret sauce and not as easily replicated—especially since the innovations are almost certainly protected by an enormous moat of patents and guarded by a legion of lawyers.\n\nThis comment is poignant and well... Why haven't that submitted the MLPerf results? \n\n>At the end of the day, Cerebras has not submitted any MLPerf results... That means they are hiding something. Something not very competitive.",
+                  "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lpxs4aw/",
+                  "created": 1727849851,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lpyfjeo",
+                      "score": 2,
+                      "body": "I think on Reddit and other forums you will always be able to selectively find an opinion which doesn’t add much to the discussion. As you yourself have shown there is useful information there too and I prefer to look at everything both negative and positive and come to my own conclusions . \n\nFor example the following link to a deleted video I hadn’t come across in the couple of hundred hours of research I have done\n\nhttps://web.archive.org/web/20230812020202/https://www.youtube.com/watch?v=pzyZpauU3Ig\n\nI don’t know why the video was deleted , perhaps the female boffin wasn’t photogenic enough… \n\nWhat cerebras have created is not trivial and not really that simple to recreate quickly . For sure it’s going to be expensive but it’s more in the league of supercomputing. Whether there is a market for it remains to be seen. \n\nDon’t get me wrong , I’m not a cerebras fanboy \n\nThe chances of them taking  significant market share from nvidia is slim but I don’t believe it’s non existent.\n\nThe main concern most people have is the g42 involvement and bulk of revenue. I think it’s a legitimate concern and will probably be the main reason for a fall in share price after ipo but I myself am not particularly worried by it. I think g42 have probably got a great deal , better than anyone else will get and they will stay on board while cerebras gets more customers.\n\nAll just my own opinion, like everyone else on Reddit etc I could just as easily be wrong as right !!",
+                      "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lpyfjeo/",
+                      "created": 1727865837,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lqkx4tj",
+                          "score": 1,
+                          "body": "Thanks for sharing that video link. I hadn't seen that before. I am a pre-IPO investor in a similar situation as yourself and I try to get as much info as possible.  My guess on that video is that it was deleted because someone thought it revealed too much (too late, I guess). But I could see myself deleting it too, why give everyone a complete roadmap of your proprietary tech. Sure, they could figure it out anyways but let them spend the time and resources.\n\nYou nailed the main risk on the company, the customer concentration is enormous, that is something they will need to work to rapidly alleviate, but part of the problem here is there aren't that many entities that can write these checks and need the product bad and Nvidia has a lock on the 4 or 5  regular joes stateside, and those guys aren't gonna turn to a startup for many good reasons.\n\nSo it's either you take on the rare big elephant when you see it, or you remain in little league. Nvidia, which is orders of magnitude the size of Cerebras also has high customer concentration. Perhaps as inferencing becomes a bigger part of the AI process there will be some changes on that in the sector as smaller players buy a bigger share of the sector output.   \n  \nBut for Cerebras the combo of  just 1 customer at the scale that is relevant for the IPO + the geopolitical risk of that customer is too high to waive off.  I think as investors one just takes known facts into account, pick spots not get too greedy, you know.\n\nThe OP didn't understand many things. The idea that if US reduces export controls this is good for Nvidia and bad for Cerebras is incorrect.  Actually, for G42 in particular, which is not just a customer but an investor in Cerebras, it likely accelerates Cerebras sales. People need to do their DD before spending a lot of time writing stuff.",
+                          "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lqkx4tj/",
+                          "created": 1728196454,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lpxrsbo",
+              "score": 0,
+              "body": "I don't get what you mean by 1. For microsoft? I assure you that is not true in the least. It is inference as that is a constantly running thing in perpetuity as if they are literally internet rest calls; which they are. For 2 I explain my response to that above. You're right but I have to relate them because of the nature of the queries (token size) and responses. \n\n>The inference side when all the revenue is training at the moment and",
+              "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lpxrsbo/",
+              "created": 1727849641,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lq6010l",
+                  "score": 1,
+                  "body": "For Cerebras - the company you’re doing DD on. \n\nTheir G42 contract and all that revenue is building data centers focused on training large models. They didn’t even have an inference offering when that G42 deal happened.",
+                  "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lq6010l/",
+                  "created": 1727975740,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lpxrnb7",
+          "score": 2,
+          "body": "I applaud your comment. very transparent. I have not used cerebras so I was just going by the marketing on their webpage. What I am saying is that the information and their comparisons are very outdated as Microsoft has aggressively opened the throughput for the OpenAI models. \n\nOne thing I will quibble with is that api limit is related to inference speed because it is throughput. In a way it is expected throughput as well. Here's what I mean. Previously when you used LLM's in Azure you would get a warning for tokens you could generate per minute (if you went over the limit) and then outright rate limiting would 404 your requests going forward. Now, to your point latency is what we are really talking about here. What I can tell you is that each model has its own latency expectations that Microsoft never publishes because if you're on a pay as you go service you are effectively on a shared service. \n\nWhat I can tell you is that 4 was terrible, 4-turbo was a little better, 4o is a lot better and 4o-mini is perfect. In terms of latency. 4o-mini is a smaller param model. \n\nTokens are complex especially in an enterprise environment. I am passing thousands of tokens through expecting thousands of tokens back on complex queries. \n\nWith that said, if you really are comparing apples to apples (small model versus small moel I think their claims fall apart and that's my point.",
+          "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lpxrnb7/",
+          "created": 1727849552,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lpt0aae",
+      "score": 10,
+      "body": "Those 30M tokens/m are API limits, where multiple instances can be used, not how fast a single GPU can vomit out tokens, lmao.",
+      "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lpt0aae/",
+      "created": 1727787473,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lpxspfb",
+          "score": 2,
+          "body": "Nobody uses Azure on a shared or dedicated service with a single GPU. You're missing the point of how this works. GPUs are typically connected through NVLINK and networking, which increases throughput and reduces latency. With more powerful and interconnected GPUs, latency decreases, and throughput improves. In this way, throughput and latency are related, especially when processing complex models. Since the new GPT-o1, many factors influence speed and throughput behind the scenes, and they do indeed relate.",
+          "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lpxspfb/",
+          "created": 1727850227,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lpycojv",
+              "score": 4,
+              "body": "What? Ok, sure, but you are comparing apple to oranges.\n\nWhy dont you try to call the 4o api with a question that require a long answer, measure the time it took to generate+stream, and then count how many tokens it was thus obtaining the tokens/s… you will se it is nowhere near the ridiculous figure of 500 fucking thousands tokens per second!",
+              "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lpycojv/",
+              "created": 1727864095,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lqp34db",
+              "score": 2,
+              "body": "Yes but ultimately even if a service can meet the same performance with a different means doesnt mean it is being done as efficiently... ",
+              "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lqp34db/",
+              "created": 1728257104,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lpqv6md",
+      "score": 4,
+      "body": "As of a year ago Nvidia had to re-allocate $5 Billion worth of chips because of export rules. Who knows how much it would be worth now. \n\n[https://www.tomshardware.com/news/nvidia-to-re-allocate-dollar5-billion-worth-of-gpus-thanks-to-us-export-rules-report](https://www.tomshardware.com/news/nvidia-to-re-allocate-dollar5-billion-worth-of-gpus-thanks-to-us-export-rules-report)",
+      "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lpqv6md/",
+      "created": 1727746437,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lps20xp",
+      "score": 4,
+      "body": "Have you studied why their Chips are faster than Nvidia per watt? Nope",
+      "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lps20xp/",
+      "created": 1727767545,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lpt170u",
+          "score": -1,
+          "body": "They are not. Also their doing purely dumb shit with non yielding non scaling production which is why the chips ate so expensive. The inference trick and I know you won't know what this means is all a memory hack for a small param model.\n\nThey're all smoke and mirrors.",
+          "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lpt170u/",
+          "created": 1727787838,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lpt9i5g",
+              "score": 4,
+              "body": "Actually openai says that training and inference are now on par and there is a paradigm shift to more inference for newer models, something you missed.\n\nAnother point you are missing is that a company is making faster chips with a valuation 200x smaller than the leader who cannot manufacture enough chips for the demand.\n\nDisclosure: I'm invested in Cerebras already.",
+              "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lpt9i5g/",
+              "created": 1727790961,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lpxu8pe",
+                  "score": 2,
+                  "body": "Training will never be on par with inference until models can be trained instantly, which is just a fact. But you're right that workloads are shifting more towards inference. That said, the models doing the inference still need to be trained. Training is time-based, while inference is an ongoing, aggregate usage over time. As chips get faster, training times will drop, and inference will grow. But with future data and models being larger and more complex, who knows how training will pan out. At some point, training will be 'good enough' and modular training will come into play, allowing real-time updates, while inference handles the queries and keeps adding to that long-term memory.",
+                  "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lpxu8pe/",
+                  "created": 1727851233,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lpxyzvq",
+                      "score": 1,
+                      "body": "If you are an institution or anyone that is just using the models (most of the world) you need inference, not training. All humanity will use inference for some task or another, not training. Where do you think the money is?",
+                      "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lpxyzvq/",
+                      "created": 1727854454,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lqkoqq3",
+                  "score": 1,
+                  "body": "where/ how did you invest into Cerebras, if you don't mind me asking? Do you perhaps know the that time valuation?",
+                  "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lqkoqq3/",
+                  "created": 1728191564,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lql2m1b",
+                      "score": 1,
+                      "body": "Equityzen, 2.5bln",
+                      "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lql2m1b/",
+                      "created": 1728200043,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lql3diq",
+                          "score": 1,
+                          "body": "when was that if you don't mind me asking? It's rumored to be at ca. 4bn now, although i presume that it will grow fast given the value of their competitors.",
+                          "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lql3diq/",
+                          "created": 1728200564,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lql4s3a",
+                              "score": 1,
+                              "body": "The IPO is happening at 7-8 I think",
+                              "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lql4s3a/",
+                              "created": 1728201525,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lpsj3ie",
+      "score": 9,
+      "body": "Lame company will go bankrupt after IPO, NVDA is killing AMD and Intel so what can a tiny newbie offer?",
+      "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lpsj3ie/",
+      "created": 1727779267,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lpswuhq",
+          "score": -1,
+          "body": "It's literally nonsense funding from UAE and cnbc is all over it",
+          "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lpswuhq/",
+          "created": 1727786059,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lpquwrr",
+      "score": 4,
+      "body": "everything I had read of Cerebras throughout this year that even was focused on any positives they may have is that even if they could be a premium provider of bespoke solutions, there’s a huge leap from having the design for an incredible (and incredibly expensive) chip architecture, there’s a huge leap from that to actually making that a scalable hardware business — let alone adaptable beyond bespoke clients with a software solution to match.\n\nthat said, competition is good so i think anyone that is bullish on Nvidia should hope it has rivals (well, aspiring rivals) that succeed and push them.",
+      "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lpquwrr/",
+      "created": 1727746335,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lpqva75",
+          "score": -2,
+          "body": "The more you look, the more you find hype and pimples.",
+          "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lpqva75/",
+          "created": 1727746474,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lpuigou",
+      "score": 2,
+      "body": "Think i can read all that? Calls or puts? And extra ketchup",
+      "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lpuigou/",
+      "created": 1727805601,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lprl1ce",
+      "score": 0,
+      "body": "Ultimately it comes down to the $600 Billion question: [https://www.sequoiacap.com/article/ais-600b-question/](https://www.sequoiacap.com/article/ais-600b-question/)",
+      "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lprl1ce/",
+      "created": 1727757161,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lps4o2m",
+          "score": 2,
+          "body": "This article has a point but remember all the top AI players are racing to get to AGI. The first one to get there will dominate EVERYTHING. Not just one sector. It's all the sectors. It is a winner takes all game. That's why they are spending billions of dollars for infrastructure build out. 600 billion will look like a drop in the bucket at that point.",
+          "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lps4o2m/",
+          "created": 1727769439,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lqkp6z0",
+              "score": 2,
+              "body": "that won't happen with the current LLMs for sure.\n\nAlso, which nootropics do/did you use? :)",
+              "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lqkp6z0/",
+              "created": 1728191797,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lqkq2w8",
+                  "score": 1,
+                  "body": "100% agree LLM on its own won't get to AGI but the hardware compute will play a part in getting there. \n\nLions mane 1gram + Vit D3 15000 iu daily changed my life. ;)    \nTried a lot of things but those two have been consistent for me and backed by research.",
+                  "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lqkq2w8/",
+                  "created": 1728192284,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lqksen8",
+                      "score": 2,
+                      "body": "> Lions mane 1gram + Vit D3 15000 iu daily changed my life. ;)\n\nchanged how, please tell?\n\nalso, the human brain uses cca. 20W of power, is rather slow frequency and supposedly uses some quantum effects to do its thing (conscience maybe?) so i don't know... IMO we'll need quantum computers for AGI or some other breakthrough.",
+                      "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lqksen8/",
+                      "created": 1728193627,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lqktf1x",
+                          "score": 1,
+                          "body": "Better memory, better mood, better sleep which sounds basic but the gains compounded. The better memory part was surprising for me. I’ve had friends and family that experienced the same on Lions Mane.\n\nAgree that we’ll need a number of breakthroughs to get to AGI. In the meantime, im just gonna keep buying NVDA calls 😂",
+                          "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lqktf1x/",
+                          "created": 1728194232,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lprtc1h",
+          "score": 2,
+          "body": "Oh god. That article is stupid for real.",
+          "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lprtc1h/",
+          "created": 1727761835,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lprtixf",
+              "score": 2,
+              "body": "You probably didn’t even read the whole thing lol ",
+              "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lprtixf/",
+              "created": 1727761952,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lqkp1fl",
+      "score": 0,
+      "body": "Is it possible that OpenAI could buy Cerebras? Sam Altman said that they were looking around for an AI hardware company to acquire.",
+      "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lqkp1fl/",
+      "created": 1728191716,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lql4l2f",
+          "score": 0,
+          "body": "No because it is trash technology",
+          "permalink": "/r/wallstreetbets/comments/1ftc23m/ai_chipmaker_cerebras_files_for_ipo_to_take_on/lql4l2f/",
+          "created": 1728201392,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "title": "How to Get an Excel Sheet with All S&P 500 Companies and Their Closing Prices for a Specific Date?",
+  "score": 33,
+  "selftext": "I'm trying to get an Excel sheet that lists all the companies in the S&P 500 along with their closing prices for a specific date. I’ve tried looking into some options, but I'm having trouble finding a straightforward way to do this.\n\nDoes anyone know of a method, tool, or website where I can easily download this data into Excel? Preferably free if possible. Any tips or guidance would be greatly appreciated!\n\nThanks in advance!",
+  "link_flair_text": null,
+  "id": "1erftke",
+  "num_comments": 20,
+  "created_utc": 1723574863,
+  "permalink": "/r/stocks/comments/1erftke/how_to_get_an_excel_sheet_with_all_sp_500/",
+  "comments": [
+    {
+      "id": "lhylqxk",
+      "score": 31,
+      "body": "If you populate the tickers the STOCKHISTORY function will accomplish this.",
+      "permalink": "/r/stocks/comments/1erftke/how_to_get_an_excel_sheet_with_all_sp_500/lhylqxk/",
+      "created": 1723578156,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhylurd",
+      "score": 23,
+      "body": "You can use the GOOGLEFINANCE formula in Google sheets. https://support.google.com/docs/answer/3093281?hl=en \n\nYou’ll have to gather all the tickers yourself but it’s definitely possible",
+      "permalink": "/r/stocks/comments/1erftke/how_to_get_an_excel_sheet_with_all_sp_500/lhylurd/",
+      "created": 1723578189,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "li4d2kt",
+          "score": 2,
+          "body": "Any chance you could unlock the sheet so I can modify?",
+          "permalink": "/r/stocks/comments/1erftke/how_to_get_an_excel_sheet_with_all_sp_500/li4d2kt/",
+          "created": 1723662970,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "li4p0ra",
+              "score": 2,
+              "body": "No as anyone can just come along a nuke it. You're free to make your own copy and edit that though.",
+              "permalink": "/r/stocks/comments/1erftke/how_to_get_an_excel_sheet_with_all_sp_500/li4p0ra/",
+              "created": 1723666856,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "li4t7eh",
+                  "score": 2,
+                  "body": "Yeah that's fair. Great job you did there.",
+                  "permalink": "/r/stocks/comments/1erftke/how_to_get_an_excel_sheet_with_all_sp_500/li4t7eh/",
+                  "created": 1723668129,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lhyypim",
+          "score": 3,
+          "body": "As someone already commented: Google sheets with google fiannce formula. You can even show a small price chart for a self set time frame. As a few comments below suggests, just use chatgpt to make you the code.",
+          "permalink": "/r/stocks/comments/1erftke/how_to_get_an_excel_sheet_with_all_sp_500/lhyypim/",
+          "created": 1723582622,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lhyos73",
+      "score": 8,
+      "body": "[Here](https://www.tradingview.com/symbols/SPX/components/?exchange=SP) is a list of components. You can copy/paste into excel. From TradingView.",
+      "permalink": "/r/stocks/comments/1erftke/how_to_get_an_excel_sheet_with_all_sp_500/lhyos73/",
+      "created": 1723579103,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "li1mea7",
+      "score": 5,
+      "body": "I was interested myself so heres something I threw together myself. I haven't included price on a specific date as the formula splits it over 4 cells so I would have had include blank rows after each ticker and I wasnt bothered making the edits. Its fairly intuitive once you get the hang of it. \n\nhttps://docs.google.com/spreadsheets/d/e/2PACX-1vQenjKjoChfnB6J5KifLi8hOz2anpOXSpctRrKBFwQ_T5Ecd3Up5GinLH_QXWRqeZqNvOxjwUZrva92/pubhtml?gid=0&single=true",
+      "permalink": "/r/stocks/comments/1erftke/how_to_get_an_excel_sheet_with_all_sp_500/li1mea7/",
+      "created": 1723625378,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "li14dzc",
+      "score": 2,
+      "body": "Took an excel class where transported the sp500 from Wikipedia into excel via power query",
+      "permalink": "/r/stocks/comments/1erftke/how_to_get_an_excel_sheet_with_all_sp_500/li14dzc/",
+      "created": 1723614130,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhyqqcd",
+      "score": 2,
+      "body": "Is this a one-off thing where you're looking for the prices on one specific date, or are you wanting to get prices for multiple specific dates? The difficult part of this is that the constituents change. So, I'm assuming you want prices for the constituents as of the date(s) you have in mind. If it's just one specific date, let me know the date and I can probably get you the list as a one-time thing.",
+      "permalink": "/r/stocks/comments/1erftke/how_to_get_an_excel_sheet_with_all_sp_500/lhyqqcd/",
+      "created": 1723579716,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "li04je8",
+      "score": 2,
+      "body": "If you know basic Python, just use the yfinance package. It will easily do what you need. You can export the data to a CSV file and then load it into Excel. Or you can use the Python excel package to build a formatter xls file.",
+      "permalink": "/r/stocks/comments/1erftke/how_to_get_an_excel_sheet_with_all_sp_500/li04je8/",
+      "created": 1723598278,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhyf6b6",
+      "score": 1,
+      "body": "Very much interested in this too",
+      "permalink": "/r/stocks/comments/1erftke/how_to_get_an_excel_sheet_with_all_sp_500/lhyf6b6/",
+      "created": 1723576049,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lhyooee",
+          "score": 1,
+          "body": "Just use google sheets instead and ask chatgpt to write you the code. Done in like 5 minutes.",
+          "permalink": "/r/stocks/comments/1erftke/how_to_get_an_excel_sheet_with_all_sp_500/lhyooee/",
+          "created": 1723579069,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lhzeep2",
+              "score": 0,
+              "body": "Where do you place the code once AI writes it?",
+              "permalink": "/r/stocks/comments/1erftke/how_to_get_an_excel_sheet_with_all_sp_500/lhzeep2/",
+              "created": 1723588563,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lhypn8d",
+              "score": -4,
+              "body": "AI is scary",
+              "permalink": "/r/stocks/comments/1erftke/how_to_get_an_excel_sheet_with_all_sp_500/lhypn8d/",
+              "created": 1723579374,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lhyufgw",
+      "score": 1,
+      "body": "NUMBERVALUE function of WEBSERVICE function to finance.yahoo quotes csv file. V/Xlookup/IndexMatch to input date which can be Excel side.",
+      "permalink": "/r/stocks/comments/1erftke/how_to_get_an_excel_sheet_with_all_sp_500/lhyufgw/",
+      "created": 1723580884,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhyln7a",
+      "score": 0,
+      "body": "I was creating tables (unrelated to stocks) all weekend using ChatGPT.\nAsk it to make the table for you, and copy pasta into Excel",
+      "permalink": "/r/stocks/comments/1erftke/how_to_get_an_excel_sheet_with_all_sp_500/lhyln7a/",
+      "created": 1723578123,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhzqbcw",
+      "score": 0,
+      "body": "So many libraries in R or Python that can do this for you. I can do it for you for a tip.",
+      "permalink": "/r/stocks/comments/1erftke/how_to_get_an_excel_sheet_with_all_sp_500/lhzqbcw/",
+      "created": 1723592978,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lixx7vb",
+      "score": 2,
+      "body": "[https://github.com/AshenLayla/yfinance\\_data](https://github.com/AshenLayla/yfinance_data)  \nI made this for my own research. you gotta use python to run the code though. It downloads from yahoo API to excel sheets. Financials and stock prices etc...",
+      "permalink": "/r/stocks/comments/1erftke/how_to_get_an_excel_sheet_with_all_sp_500/lixx7vb/",
+      "created": 1724103868,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

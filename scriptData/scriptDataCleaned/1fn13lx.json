@@ -1,0 +1,352 @@
+{
+  "title": "How Intel Fell From Global Chip Champion to Takeover Target\nStrategic missteps and an unexpected AI boom have weakened Intel.",
+  "score": 63,
+  "selftext": "It sums up my feelings regarding intel.  They already had their turnaround attempt and completely missed the boat.   I had a few thousand shares with cost basis mid 30s and sold on the bump up last year.\n\nThought about getting back in at 18 but I ain't giving them any more chances.\n\nGood luck to you brave souls who decide to invest or ride it out. NVDA was in the 200s at the time I bought INTC (20 post split). Would have killed it had I just seen the light on NVDA.\n\n[https://www.wsj.com/tech/how-intel-fell-from-global-chip-champion-to-takeover-target-3017d779?mod=saved\\_content](https://www.wsj.com/tech/how-intel-fell-from-global-chip-champion-to-takeover-target-3017d779?mod=saved_content)",
+  "link_flair_text": "Discussion",
+  "id": "1fn13lx",
+  "num_comments": 37,
+  "created_utc": 1727032536,
+  "permalink": "/r/wallstreetbets/comments/1fn13lx/how_intel_fell_from_global_chip_champion_to/",
+  "comments": [
+    {
+      "id": "loequji",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 2 | **First Seen In WSB** | 4 days ago\n**Total Comments** | 7 | **Previous Best DD** | \n**Account Age** | 10 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1fn13lx/how_intel_fell_from_global_chip_champion_to/loequji/",
+      "created": 1727032550,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lof854r",
+      "score": 30,
+      "body": "Intel is akin to Kodak in some ways. Over-invested in the proverbial golden goose, makes attempts to break out but can't/won't succeed, doubles down on the core. \n\nIn the  meantime, upstarts without the legacy baggage succeed in growth areas. \n\nIntel _could_ have been Nvidia or Qualcomm, technically, but its own size and momentum made it trip over its own feet. \n\nThere were _minor_ warnings when it failed to break out of x86, back in the day. Louder warnings when it lost the 64-bit standard to AMD. The penultimate blow was Apple's 64 bit ARM super chip (in fairness not only Intel was off guard). Nvidia's success was in contrast to Intel's decade of under investment in parallel computing, unfortunately just as AI broke out of 40 years research labs and into something that could be a product. \n\nImho Intel was just too big to recognise _and, implement successfully_ the scale of change necessary. They're definitely aren't the first in that hole, and won't be the last.",
+      "permalink": "/r/wallstreetbets/comments/1fn13lx/how_intel_fell_from_global_chip_champion_to/lof854r/",
+      "created": 1727037809,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "log68mh",
+          "score": 11,
+          "body": "Intel's whole business model was centered on having the best chip fabrication capabilities in the world. One could argue they were never great at chip design but their manufacturing lead bailed them out time and time again. Moore's Law meant nobody could compete with the best process tech.\n\n\nLate 2010s they lost the lead to a more efficient competitor in TSMC and they've been crumbling ever since. They doubled down on investment in recent years but it was too late.",
+          "permalink": "/r/wallstreetbets/comments/1fn13lx/how_intel_fell_from_global_chip_champion_to/log68mh/",
+          "created": 1727049546,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lofayjr",
+          "score": 1,
+          "body": "Is Kodak still around?",
+          "permalink": "/r/wallstreetbets/comments/1fn13lx/how_intel_fell_from_global_chip_champion_to/lofayjr/",
+          "created": 1727038690,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lofbxwl",
+              "score": 11,
+              "body": "There's the _brand_ which is licensed to a ton of random retail crap. \n\nThere's the IP (imaging, chemicals) , which is licensed to specific industry. \n\nKodak is still pretty big in certain chemical processes, and niche industry imaging.",
+              "permalink": "/r/wallstreetbets/comments/1fn13lx/how_intel_fell_from_global_chip_champion_to/lofbxwl/",
+              "created": 1727039005,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lofckbr",
+              "score": 2,
+              "body": "You don't smarter every day?",
+              "permalink": "/r/wallstreetbets/comments/1fn13lx/how_intel_fell_from_global_chip_champion_to/lofckbr/",
+              "created": 1727039207,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "loesxmw",
+      "score": 43,
+      "body": "Intel is a failure 20 years in the making.  “The iPhone won’t sell a million units.” To “we don’t need to worry about graphics processing.”  Both were strategic mistakes that people thinkingnwith their accounting hats would make.",
+      "permalink": "/r/wallstreetbets/comments/1fn13lx/how_intel_fell_from_global_chip_champion_to/loesxmw/",
+      "created": 1727033182,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "loeuu1q",
+          "score": 17,
+          "body": "they tried 4G modem and failed, they also tried optane memory and failed that too. they lacked vision PLUS execution too",
+          "permalink": "/r/wallstreetbets/comments/1fn13lx/how_intel_fell_from_global_chip_champion_to/loeuu1q/",
+          "created": 1727033752,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "log53rb",
+              "score": 5,
+              "body": "Itanium\n\n\nLarabee\n\n\nSolid state storage\n\n\nAltera acquisition and now divestiture\n\n\nIntel also missed the boat on high core count \"cloud native\" style server CPUs, AWS said fuck it and made their own, then AMD and Ampere. Intel finally came out with their own, Sierra Forest, this year.\n\n\nIntel was nothing but a string of misadventures bankrolled by their CPU monopoly.",
+              "permalink": "/r/wallstreetbets/comments/1fn13lx/how_intel_fell_from_global_chip_champion_to/log53rb/",
+              "created": 1727049116,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "loji4d9",
+                  "score": 1,
+                  "body": "Their saving grace is they still have a wide market share of data center CPUs, and loyalists customers who refuse to move, but that edge is eroding year by year.",
+                  "permalink": "/r/wallstreetbets/comments/1fn13lx/how_intel_fell_from_global_chip_champion_to/loji4d9/",
+                  "created": 1727106539,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lohytzc",
+          "score": 0,
+          "body": "And 'quadcore CPUs are all the desktop market ever needs'",
+          "permalink": "/r/wallstreetbets/comments/1fn13lx/how_intel_fell_from_global_chip_champion_to/lohytzc/",
+          "created": 1727082570,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "loev2he",
+      "score": 27,
+      "body": "Current CEO's name is Pat Gaslightinger.",
+      "permalink": "/r/wallstreetbets/comments/1fn13lx/how_intel_fell_from_global_chip_champion_to/loev2he/",
+      "created": 1727033821,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "log6drc",
+          "score": 13,
+          "body": "Hey, worked with the guy and he was a sharp engineer.\n\nLot better than 30+ years of Intel Presidents that were marketing guys.  Their best ideas were bigger \"Intel Inside\" stickers\".",
+          "permalink": "/r/wallstreetbets/comments/1fn13lx/how_intel_fell_from_global_chip_champion_to/log6drc/",
+          "created": 1727049601,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lq9ikqc",
+          "score": 1,
+          "body": "Could you elaborate more? I had the impression he was like the brighter of the management bunch. Wasn't he?",
+          "permalink": "/r/wallstreetbets/comments/1fn13lx/how_intel_fell_from_global_chip_champion_to/lq9ikqc/",
+          "created": 1728023990,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lq9j2md",
+              "score": 1,
+              "body": "- Lisa Su AMD CEO: ph.D MIT \n- Morris Chang CEO TSMC: ph.D Stanford \n- Gordon Moore Intel Chairman: ph.D Caltech\n- Andy Grove CEO Intel: ph.D UC Berkeley \n\n- Pat \"Hallelujah\" (Gaslightinger) Gelsinger current Intel CEO with engineering background not a MBA: Associate Degree Lincoln tech\n\nSome guy (possibly Pat himself) was bitterly complaining that I did not mention that he later got BS from University of Santa Clara and a master.\n\nHe is an uppity ladder climbing management type not an engineering visionary.",
+              "permalink": "/r/wallstreetbets/comments/1fn13lx/how_intel_fell_from_global_chip_champion_to/lq9j2md/",
+              "created": 1728024313,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lqlw8tl",
+                  "score": 1,
+                  "body": "Ok, I understand. In comparison to the 2 former Intel CEOs which were of the sales/bean counting/bullshitting type pat might look like the engineer sent from heaven to save Intel. In comparison to the technical top shots and visionaries in the past and somewhere else he seems to be not on paar and all his Religulous nonsense doesn't help his reputation neither...",
+                  "permalink": "/r/wallstreetbets/comments/1fn13lx/how_intel_fell_from_global_chip_champion_to/lqlw8tl/",
+                  "created": 1728218602,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lof4eri",
+          "score": -7,
+          "body": "Yeah and he's posting daily Bible verses on X. Not a joke. Says it all imho.",
+          "permalink": "/r/wallstreetbets/comments/1fn13lx/how_intel_fell_from_global_chip_champion_to/lof4eri/",
+          "created": 1727036640,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "logwqih",
+              "score": 1,
+              "body": "Found my buy signal",
+              "permalink": "/r/wallstreetbets/comments/1fn13lx/how_intel_fell_from_global_chip_champion_to/logwqih/",
+              "created": 1727059975,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lofq0db",
+      "score": 10,
+      "body": "Too big to fail.  The government will either inject more money or force a buy out.",
+      "permalink": "/r/wallstreetbets/comments/1fn13lx/how_intel_fell_from_global_chip_champion_to/lofq0db/",
+      "created": 1727043738,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "logv07x",
+          "score": 2,
+          "body": "So gonna be like BA?",
+          "permalink": "/r/wallstreetbets/comments/1fn13lx/how_intel_fell_from_global_chip_champion_to/logv07x/",
+          "created": 1727059262,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lomnit0",
+              "score": 1,
+              "body": "Yep. Calls on both.",
+              "permalink": "/r/wallstreetbets/comments/1fn13lx/how_intel_fell_from_global_chip_champion_to/lomnit0/",
+              "created": 1727144116,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lofq6bp",
+          "score": 2,
+          "body": "Agree because it’s America and that’s what we do and have a clear history of doing.",
+          "permalink": "/r/wallstreetbets/comments/1fn13lx/how_intel_fell_from_global_chip_champion_to/lofq6bp/",
+          "created": 1727043797,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "logfwr8",
+      "score": 6,
+      "body": "I got 25$ intc call",
+      "permalink": "/r/wallstreetbets/comments/1fn13lx/how_intel_fell_from_global_chip_champion_to/logfwr8/",
+      "created": 1727053258,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "log2hfu",
+      "score": 3,
+      "body": "Will not happen by any non-American company period. End of story. Book is finished. Chapter is closed.",
+      "permalink": "/r/wallstreetbets/comments/1fn13lx/how_intel_fell_from_global_chip_champion_to/log2hfu/",
+      "created": 1727048160,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lohmwp9",
+      "score": 3,
+      "body": "Companies like Qualcomm need to keep showing growth and efficiency and one way to do it is to buy other companies. It doesn’t necessarily mean that it will succeed for them considering sometimes they have no clue what shit they are inheriting. A Pharma company buying a molecule or a tech company buying another product is completely different from a semiconductor company buying a practice and a factory with no guarantee that it will either make their own chip cost lower or help them bring new chips to the market. It’s a wild shot and given how much Intel is also entrenched into the government ecosystem, there is a good possibility the regulate won’t let it happen.",
+      "permalink": "/r/wallstreetbets/comments/1fn13lx/how_intel_fell_from_global_chip_champion_to/lohmwp9/",
+      "created": 1727074084,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lof8dzk",
+      "score": 6,
+      "body": "Intel have same decease that affects Boeing. It was taken over by bean counters and marketers. They didn’t have competition and it was just a matter of allocating chips to customers. Instead of investing in their fabs, let’s do buy backs.\nThey are now so irrelevant that AMD is raising thier prices. They have to beg TMSC for slots. And now they are begging $$ from the government for building fabs.",
+      "permalink": "/r/wallstreetbets/comments/1fn13lx/how_intel_fell_from_global_chip_champion_to/lof8dzk/",
+      "created": 1727037887,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lokr9qt",
+          "score": 1,
+          "body": "I was there in the days of Operation: Crush, when it was a sales-driven/customer-centric company. My regional manager pulled me aside one day to tell me, \"if the bean counters ever take over.... Run\". He was so right. It's just taken 20 years to eliminate the customer-focus culture.",
+          "permalink": "/r/wallstreetbets/comments/1fn13lx/how_intel_fell_from_global_chip_champion_to/lokr9qt/",
+          "created": 1727120653,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "loguwm4",
+      "score": 2,
+      "body": "Didn't NVDA CEO say it took 10 years to develop CUDA for AI?  How's INTC gonna catch up to that.",
+      "permalink": "/r/wallstreetbets/comments/1fn13lx/how_intel_fell_from_global_chip_champion_to/loguwm4/",
+      "created": 1727059221,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lq9ivli",
+          "score": 1,
+          "body": "It's always expensive and time consuming pioneering something completely new. Making a copy is way less expensive and takes much less time.",
+          "permalink": "/r/wallstreetbets/comments/1fn13lx/how_intel_fell_from_global_chip_champion_to/lq9ivli/",
+          "created": 1728024187,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "loicl1x",
+      "score": 2,
+      "body": "Only the paranoid survive",
+      "permalink": "/r/wallstreetbets/comments/1fn13lx/how_intel_fell_from_global_chip_champion_to/loicl1x/",
+      "created": 1727091033,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lofresh",
+      "score": 1,
+      "body": "Not the worst place on here I’ve seen. Essentially a PMCC but u would probably sell the 925 and buy the 900",
+      "permalink": "/r/wallstreetbets/comments/1fn13lx/how_intel_fell_from_global_chip_champion_to/lofresh/",
+      "created": 1727044229,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "log6ma1",
+      "score": 1,
+      "body": "THis is going to boil down to:\n\n1) Catching TSM for process tech\n\n2) Figuring how to grow the x86 demand (very tough)\n\n3) Coming up with a graphics/AI chip to kick NVDA's butts\n\n4) Maybe resurrecting the CLoud storage business.",
+      "permalink": "/r/wallstreetbets/comments/1fn13lx/how_intel_fell_from_global_chip_champion_to/log6ma1/",
+      "created": 1727049693,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "log7icj",
+          "score": 0,
+          "body": "Or just come up with one failed plan after another while they take the government money in to keep them afloat , meanwhile the c suite gets rich and cash out when the share price rise.\n\nWhich seems easier?",
+          "permalink": "/r/wallstreetbets/comments/1fn13lx/how_intel_fell_from_global_chip_champion_to/log7icj/",
+          "created": 1727050035,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "logmckj",
+              "score": 3,
+              "body": "Not crazy about subsidies for anybody.  However, I think Intel's on the right path, but you don't turn on a dime in this business.\n\nI guess we wait and see.",
+              "permalink": "/r/wallstreetbets/comments/1fn13lx/how_intel_fell_from_global_chip_champion_to/logmckj/",
+              "created": 1727055755,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "loexi16",
+      "score": 0,
+      "body": "That is what monetizing the gap does to a mfer.",
+      "permalink": "/r/wallstreetbets/comments/1fn13lx/how_intel_fell_from_global_chip_champion_to/loexi16/",
+      "created": 1727034545,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lofb2g2",
+          "score": 0,
+          "body": "Yeah if something doesn’t preform I advocate getting rid of it.\n\nMove on if it’s not making money. Too many opportunities out there.",
+          "permalink": "/r/wallstreetbets/comments/1fn13lx/how_intel_fell_from_global_chip_champion_to/lofb2g2/",
+          "created": 1727038725,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

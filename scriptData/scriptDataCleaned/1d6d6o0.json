@@ -1,0 +1,432 @@
+{
+  "title": "Theta gang picking up pennies in front of an ED-209",
+  "score": 506,
+  "selftext": "",
+  "link_flair_text": "Meme",
+  "id": "1d6d6o0",
+  "num_comments": 50,
+  "created_utc": 1717334463,
+  "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/",
+  "url_overridden_by_dest": "https://v.redd.it/071j3lgtq54d1",
+  "comments": [
+    {
+      "id": "l6rhp3o",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 10 | **First Seen In WSB** | 3 years ago\n**Total Comments** | 6 | **Previous Best DD** | \n**Account Age** | 8 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6rhp3o/",
+      "created": 1717334475,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6rlppc",
+      "score": 26,
+      "body": "I’ve got a rolling IC going in SPX and it’s been working great all year through the ups and downs…but Friday was painful when I rolled it at precisely the wrong time…",
+      "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6rlppc/",
+      "created": 1717336258,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6ryjbr",
+          "score": 2,
+          "body": "I’m intrigued. What dte ate you using/rolling to. How often do you roll, and what delta are your sold legs?\n\nI used to open a 0dte around 10a at .85 delta for tge sold leg, but the losses did not make up for the wins",
+          "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6ryjbr/",
+          "created": 1717341425,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6s9bzv",
+              "score": 19,
+              "body": "Ok.  I’m gonna tell you, but you have to understand that it’s more in the management, than the setup. \n\nThe rolling part:\nI roll at the end of the day from 1dte to 2dte.  The initial setup is at 20-25 delta, but it won’t stay that way after the first roll. When I roll I always roll for a credit AND to improve my position. If I can’t do BOTH then it is time to pull out, wait for the market to settle down (a day or two) and then start over.  \n\nThe wings: I buy the 30 delta about 75 days out and roll and reset at around 45dte or so. I try to stick to the monthlies for liquidity. This is very expensive but it really stabilizes things. It often costs around $2k to roll, but I’ve rolled for a credit before after a big move in the market. \n\n\nMy daily credit is usually $300 to $800….5 days a week. My average p/l is more like $180…7 days a week. I don’t sweat daily losses so long as I can still roll for a credit WHILE moving with the market at least 5 points…even if the market moved 50 (this is key). When I can’t do this anymore, then I get out. Most days are profitable and losing days are not huge losses. By the time I have to pull out, I’ve usually taken a $1500 loss that day. That’s the worst it gets and maybe once a month. It’s more than made up for by the gains.  It’s very stable, really. You have to figure out the nuances of management for this to work. \n\nI could never get 0dte to work reliably because there is so little ability to manage it. This gives you way more ability to manage, and the theta is really not much less. My positive daily theta usually reads about $1k except over the weekend when it drops to about $300. I have about $4-5k tied up in the trade, and about $30k in BPR. It’s not cheap and you’re not getting rich over night, but so far I’m over 100% annualized returns.",
+              "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6s9bzv/",
+              "created": 1717345533,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6so0mi",
+                  "score": 8,
+                  "body": "I hate being a visual learner. I can’t even begin to comprehend how this works despite the several paragraphs spent explicitly explaining it. Haha",
+                  "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6so0mi/",
+                  "created": 1717350970,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l6slqxx",
+                  "score": 5,
+                  "body": "This is great. Thank you for sharing.",
+                  "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6slqxx/",
+                  "created": 1717350146,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l6tmzyh",
+                  "score": 3,
+                  "body": "How wide are your wings? How do you get from 75-45dte rolls to 2-1dte? How does a large market movement mean you can roll for a credit (I'd have thought the opposite since that would mean a short leg is now ITM). \n\n\n I realize this is a bunch of noob questions lol, so alternatively is there a resource I could read further about this type of rolling IC? God speed!",
+                  "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6tmzyh/",
+                  "created": 1717364025,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l6u7fk5",
+                      "score": 6,
+                      "body": "An iron condor is really just two vertical spreads…a call spread and a put spread. I am doing two diagonal spreads…a diagonal call spread and a diagonal put spread. So look up diagonal spreads and you’ll get the overview. \n\nI’m short the close dated options and long the long dated options. Nothing I’m doing is truly new. There is no formula to being automatically profitable. It’s all in learning what moves to make and when depending on constantly varying circumstances. You will only gain this by experience. It’s like viewing some YouTube videos on boxing and then getting in the ring with a real boxer. You’re going to get your ass kicked until you really learn how to box. And it helps to have some natural ability. Not everybody is built the same.",
+                      "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6u7fk5/",
+                      "created": 1717372383,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l6v3mpo",
+                          "score": 2,
+                          "body": "Ah, didn't realize the wings are totally different. Reading up.\n\n\nAppreciate the reply!",
+                          "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6v3mpo/",
+                          "created": 1717386552,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "l6t3yxm",
+                  "score": 3,
+                  "body": "100% annualized return? Sounds risk free to me!",
+                  "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6t3yxm/",
+                  "created": 1717356868,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l6te608",
+                      "score": 3,
+                      "body": "Nobody said it was risk free ;)  but I am playing with the house money at this point, so I got that going for me…",
+                      "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6te608/",
+                      "created": 1717360664,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "l6wjsed",
+                      "score": 1,
+                      "body": "Literally can't go tits up 🫡",
+                      "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6wjsed/",
+                      "created": 1717419054,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "l6wjk4u",
+                  "score": 0,
+                  "body": ">not getting rich over night\n\n>100% annualized returns\n\n![img](emote|t5_2th52|4271)",
+                  "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6wjk4u/",
+                  "created": 1717418953,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l6wqe4z",
+                      "score": 1,
+                      "body": "I think a lot of people here don’t understand how this type of trading really works. 100% annualized returns for an individual strategy is not unheard of. But it comes with the risk of 100% loss. Therefore you use at least a few different strategies and deploy no more than maybe 5 or 10 percent of your capital towards each one and no more than 40-60 percent of your total capital towards all your strategies.  Therefore you can never lose all your money. If you’re doing very well, then your total annual gains on liquid net can be 30-40%…and an occasional bad year. Anybody who deploys a 100% gains strategy with all their capital, year after year will eventually lose everything. \n\nTHE PREVIOUS PARAGRAPH IS REFERRING TO ACCOUNT RISK MANAGEMENT. \n\nTHE FOLLOWING PARAGRAPH IS REFERRING TO AN INDIVIDUAL TRADE. NOTHING I WROTE HERE IS NEW AND IS EVEN CONSIDERED COMMON KNOWLEDGE BY SOME. IF IT SOUNDS STRANGE OR UNLIKELY TO YOU, YOU NEED TO DO A LOT MORE READING ON THE SUBJECT BEFORE YOU LOSE ALL YOUR MONEY. \n\nIt’s called risk management…look it up. I have less than 1% of my actual capital tied up in this INDIVIDUAL trade and a lot less than 10% of my capital at risk of loss FOR THIS INDIVIDUAL TRADE in a worst case scenario.  And that’s only in a COVID panic type event. A typical crash would probably only lose me 1-2% OF MY CAPITAL FOR THIS INDIVIDUAL TRADE. I’ve already pocketed gains over that FOR THIS INDIVIDUAL TRADE. My basis goes towards my cash position.  One good strategy is to bank half your profits and redeploy the other half. \n\nSome of the people with their snarky comments (yes, I know, this is Reddit) are really just showing their lack of sophistication on the subject.  They show their lack of ability to make good gains and/or how to handle them when they do.   Maybe, they should just buy ETFs…\n\nIMPORTANT EDIT: I babied up the language with lots of redundancies to help those whose reading comprehension is lacking. Edits in capitals so that you can still see my post in its original form. I really don’t know how to make it any clearer.",
+                      "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6wqe4z/",
+                      "created": 1717421819,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l6wrcxq",
+                          "score": 0,
+                          "body": "Ah yes, absolutely. You are the only one who has discovered this magical way of beating the market and making 30-40% annualized while only limiting you downside to 1-2% in the event of a black swan.\n\nWhy are you not pitching this strategy to the likes of Citadel, Medallion or Bridgewater? There are people with billions of dollars willing to invest in this 40% annualized with basically no downside risk idea that you have... hell you are beating the Medallion Fund which had to close public investments due to too many people being invested in it.\n\nIs it because you hate money?",
+                          "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6wrcxq/",
+                          "created": 1717422204,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l6wsoij",
+                              "score": 0,
+                              "body": "You have lousy reading comprehension because that’s NOT what I said.  And I’m not going to rewrite it in baby language so that you can comprehend ;)\n\nEdit: I gave in and rewrote it in baby language just for you and others like you.  Congratulations;)",
+                              "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6wsoij/",
+                              "created": 1717422718,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l6wtcdk",
+                                  "score": 0,
+                                  "body": "\"Therefore you can never lose all your money. If you’re doing very well, then your total annual gains on liquid net can be 30-40%…and an occasional bad year\"\n\n\"It’s called risk management…look it up. I have less than 1% of my actual capital tied up in this trade and a lot less than 10% of my capital at risk of loss in a worst case scenario. And that’s only in a COVID panic type event. A typical crash would probably only lose me 1-2%.\"\n\n  \nIf you can consistently do these two things, you are the best trader on the planet. The best trader in history by a wide ass margin, you will make people like Warren Buffet and hedge funds like the Medallion Fund look like amateur clowns in comparison.\n\nEither that's true or I'm calling 🧢 on those stats brother.",
+                                  "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6wtcdk/",
+                                  "created": 1717422971,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "l6wu845",
+                                      "score": 0,
+                                      "body": "You are confusing gains and losses on individual strategies with gains and losses on liq net. Probably because you don’t really know the difference and/or how they relate. I reread what I wrote and it’s written clearly enough for someone with a luke warm IQ. You are misrepresenting what I said because you are either a true regard, or just another disingenuous troll.",
+                                      "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6wu845/",
+                                      "created": 1717423307,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "l6wuq1s",
+                                          "score": 0,
+                                          "body": "Bro.. before you try to sell your courses you should really work on this part because I'm not the only one who is gonna call it out ![img](emote|t5_2th52|4271)",
+                                          "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6wuq1s/",
+                                          "created": 1717423498,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "l6wwl8s",
+                                      "score": 0,
+                                      "body": "I had posted something else but deleted it. I’m going to say this in the nicest/simplest way possible. Everything in that paragraph where I say ‘this trade’ is referring to ‘this trade’, NOT net liquid assets.",
+                                      "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6wwl8s/",
+                                      "created": 1717424198,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "l6x3jp2",
+                                          "score": 0,
+                                          "body": "Good luck with the course friend ![img](emote|t5_2th52|8883)remember to show a graph with your ponzi returns extrapolated like 20 years into the future",
+                                          "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6x3jp2/",
+                                          "created": 1717426678,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "l6tboxe",
+                  "score": -3,
+                  "body": "> I could never get 0dte to work reliably because there is so little ability to manage it\n\nThe fact that you kept trying is the hilarious part, do you manage where the ball land in the roulette too?",
+                  "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6tboxe/",
+                  "created": 1717359746,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l6tezsb",
+                      "score": 3,
+                      "body": "Umm…I didn’t keep trying.  Reading comprehension is key. \n\nI traded for a month and was down slightly. Traded for another and made most of it back. Then I changed strategies.",
+                      "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6tezsb/",
+                      "created": 1717360971,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l6tfk1r",
+                          "score": -4,
+                          "body": ">Umm…I didn’t keep trying\n\n>I traded for a month\n\nAlright Ray Charles",
+                          "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6tfk1r/",
+                          "created": 1717361181,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l6tggaj",
+                              "score": 5,
+                              "body": "The knowledge I gained over the TWO months (again, that reading comprehension thing) was well worth the time and only a few hundred net loss. I suppose a person like you would never understand…;)",
+                              "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6tggaj/",
+                              "created": 1717361514,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l6xhp9e",
+          "score": 1,
+          "body": "I’ve made back half of Friday’s losses so far. If spx shoots up crazy again, I’ll probably have to pull out. Otherwise it looks like I’m going to be ok.",
+          "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6xhp9e/",
+          "created": 1717431532,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6rjut5",
+      "score": 35,
+      "body": "What movie is this from?",
+      "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6rjut5/",
+      "created": 1717335444,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6rkw0j",
+          "score": 72,
+          "body": "Robocop…the remake. The original is truly one of the all time greats. The remake isn’t terrible.",
+          "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6rkw0j/",
+          "created": 1717335899,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6taaif",
+              "score": 29,
+              "body": "The remake is missing the charm and humor of the original,  but this scene was great.",
+              "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6taaif/",
+              "created": 1717359226,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6us2l4",
+                  "score": 3,
+                  "body": "remake will be forgotten because it's not memeable like the \"when you nut but she keep sucking\" meme",
+                  "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6us2l4/",
+                  "created": 1717381125,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l6uligm",
+              "score": 3,
+              "body": "Agree. It got panned when it came out but I think it was a solid movie that carried over enough elements and made inoffensive additions. The original still wins out overall but the remake wasn't bad.",
+              "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6uligm/",
+              "created": 1717378296,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l6ue92g",
+              "score": 5,
+              "body": "I was enjoying the remake at the theater until my dad said that it looked like most of the scenes were filmed in a single warehouse. It ruined it for me and I never watched it again.",
+              "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6ue92g/",
+              "created": 1717375229,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l6u6mti",
+          "score": 2,
+          "body": "[best scene in the movie hands down](https://www.reddit.com/r/videos/s/rBQxiDXUmc)",
+          "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6u6mti/",
+          "created": 1717372045,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6v9mqr",
+              "score": 3,
+              "body": "Holy shit can’t unsee that",
+              "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6v9mqr/",
+              "created": 1717389792,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l6v0l68",
+          "score": 1,
+          "body": "Star Wars",
+          "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6v0l68/",
+          "created": 1717385028,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6ub8jq",
+      "score": 14,
+      "body": "\"holy christ there's nothing left!\" \n\nWhat I say every expiry day.",
+      "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6ub8jq/",
+      "created": 1717373974,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6rx1nn",
+      "score": 14,
+      "body": "Tell me regard, how is it possible to lose on all 4 legs on an IC?",
+      "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6rx1nn/",
+      "created": 1717340849,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6tgh68",
+          "score": 8,
+          "body": "IV gets nuked....",
+          "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6tgh68/",
+          "created": 1717361524,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6ykwix",
+              "score": 1,
+              "body": "But 2 of the legs are short",
+              "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6ykwix/",
+              "created": 1717444598,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l6s1xb0",
+      "score": 7,
+      "body": "Take that theta gang!",
+      "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6s1xb0/",
+      "created": 1717342732,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6sbz7n",
+      "score": 3,
+      "body": "lol when all 4 legs lose money",
+      "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6sbz7n/",
+      "created": 1717346527,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6vo5bc",
+      "score": 3,
+      "body": "why is this scene so terrifying to me. literally about to have nightmares about this tonight",
+      "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6vo5bc/",
+      "created": 1717399138,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6xdi7m",
+          "score": 1,
+          "body": "Same. Damn. Last time I read Reddit for a while.\n\n\\*Goes back on Reddit 5 minutes later\\*",
+          "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6xdi7m/",
+          "created": 1717430101,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6tke52",
+      "score": 1,
+      "body": "Lmao. This is too funny. \n\nGreat movie",
+      "permalink": "/r/wallstreetbets/comments/1d6d6o0/theta_gang_picking_up_pennies_in_front_of_an_ed209/l6tke52/",
+      "created": 1717363009,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

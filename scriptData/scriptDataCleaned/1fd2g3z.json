@@ -1,0 +1,950 @@
+{
+  "title": "What Investors Don't Understand About Nvidia's Recurring Revenue Model Via DGX Cloud - Oracle's Bombshell ER - Acres of Nvidia GPUs and AWS",
+  "score": 125,
+  "selftext": "**Oracles September 9th Q1 2025 ER:**\n\n>\"**Oracle has 162 cloud datacenters in operation and under construction around the world,\" said Oracle Chairman and CTO, Larry Ellison. \"The largest of these datacenters is 800 megawatts and will contain acres of NVIDIA GPU Clusters for training large scale AI models. In Q1, 42 additional cloud GPU contracts were signed for a total of $3 billion.** Our database business growth rate is increasing as a result of our MultiCloud agreements with Microsoft and Google. At the end of Q1, 7 Oracle Cloud regions were live at Microsoft with 24 more being built, and 4 Oracle Cloud regions were live at Google with 14 more being built. Our recently signed AWS contract was a milestone in the MultiCloud Era.  Soon customers will be able use the latest Oracle database technology from within every Hyperscaler's cloud.\"  \n...  \n\"As Cloud Services became Oracle's largest business, both our operating income and earnings per share growth accelerated,\" said Oracle CEO, Safra Catz. \"Non-GAAP operating income was up 14% in constant currency to $5.7 billion, and non-GAAP EPS was up 18% in constant currency to $1.39 in Q1. RPO was up 53% from last year to a record $99 billion. That strong contract backlog will increase revenue growth throughout FY25. **But the biggest news of all was signing a MultiCloud agreement with AWS—including our latest technology Exadata hardware and Version 23ai of our database software—embedded into AWS cloud datacenters. AWS customers will get easy and convenient access to the Oracle database when we go live in December later this year.**\"\n\nAcres and Acres of Nvidia GPU's. Can you imagine a field of Nvidia multi-million dollar GPU racks powering the next wave of super advanced AI? That's what Oracle just reported in a bombshell earnings report. I can't remember many earnings report where they literally flex another company's technology as the reason why they are accelerating and generating record breaking revenue but here we are.\n\nBut here is the thing that people don't get about Nvidia's revenue model for data centers and I think it needs repeating. It was something that Jensen mentioned on Nvidia's past earnings call. An analyst asked him why doesn't Nvidia make distribute their own chips directly. Jensen said no, \"we work directly through are OEM/ORM's to fulfill our distribution and that's how it will always be\".\n\nBut another analyst question was even more peculiar because I showed the analyst doesn't realize how Nvidia's data center business model works and I think it needs repeating. When major cloud providers, including Oracle, purchase Nvidia GPU hardware they have 2 hierarchy options of what they will do with Nvidia GPU's.\n\n1. They use the hardware for their own compute needs and produce an output through an offering such as an LLM, gaming, or other accelerated compute needs directly. And end product if you will.\n2. They provide GPU's as actual hardware to lease out to enterprises and businesses such as startups that want to do their own accelerated compute. The offering here is called DGX Cloud.\n\nThe second delivery method here is in fact recurring revenue in many cases. A startup doesn't have to worry about going out and buying a datacenter and install on prem Nvidia hardware when they can just lease a node directly all major cloud providers. Now here's the thing, when using Nvidia hardware you will purchase the underlying DGX platform capabilities including CUDA.\n\n**HPCWire March 2023**\n\n>Renting the GPU company’s DGX Cloud, which is an all-inclusive AI supercomputer in the cloud, starts at $36,999 per instance for a month.  \n...\n\n>The DGX Cloud starting price is close to double that of $20,000 charged by Microsoft Azure for a fully-loaded A100 instance with 96 CPU cores, 900GB of storage and eight A100 GPUs per month.\n\n**From the same article, circa 2023, look at how this exact sentiment hit home via today's Oracle earnings report!**\n\n>Oracle is hosting DGX Cloud infrastructure in its RDMA Supercluster, which scales to 32,000 GPUs. Microsoft will launch DGX Cloud next quarter, with Google Cloud’s implementation coming after that.\n\n>Customers will have to pay a premium for the latest hardware, but the integration of software libraries and tools may appeal to enterprises and data scientists.\n\n>But Nvidia’s proprietary hardware and software is like using the Apple iPhone – you are getting the best hardware, but once you are locked in, it will be hard to get out, and it will cost a lot of money in its lifetime.\n\nMind you, this to date has been all done via the H100 platform. We haven't even started into the Blackwell GB200 Superchip offering. Blackwell will literally amplify this model probably 10X. Nvidia will offer the complete system of the **DGX B200 SuperPODs** and a much more powerful Superchip offering of **DGX GB200 SuperPODs** which has a configuration from $3 million or more depending on the setup and the number of GPU's included.\n\nSo while the Superchips cost could be $70,000 themselves a fully-equipped server rack that is leased will cost astronomically higher per month than $36,999 per instance for a month. The pricing for this hasn't been released but I assure you it could be in the $500k to $1 million+ per month range \\[speculation here\\]. Remember, the leasing will be for DGX Cloud and CUDA software licensing.\n\nRemember, Jensen has said they will be more inclined to sell the full server systems.\n\n>Another thing to consider about Nvidia's B200 is that the company may not really be inclined to sell B200 modules or cards. It may be much more inclined to sell DGX B200 \\[GB200\\] servers with eight Blackwell GPUs or even DGX B200 SuperPODs with 576 B200 \\[GB200\\] GPUs inside for millions of dollars each. \n\nTo learn more about Nvidia DGX SuperPOD with DGX GB200 Systems here [https://www.nvidia.com/en-us/data-center/dgx-superpod-gb200/](https://www.nvidia.com/en-us/data-center/dgx-superpod-gb200/)\n\nIf you're not familiar with what GB200 Superchips are here are some key highlights.\n\n1. **GB200**: Combines both GPU and CPU into a single superchip (referred to as the **Grace Hopper** superchip), featuring **72-core ARM-based CPUs** along with Blackwell GPUs.\n2. **GB200**: Features higher memory bandwidth and capacity, with **up to 624GB of total memory**, leveraging HBM3e technology and LPDDR5X memory.\n3. **GB200**: Provides higher aggregate performance due to its CPU-GPU integration, making it suitable for both AI and HPC workloads in more unified environments.\n4. **GB200**: Typically offered as part of high-performance systems like the **SuperPOD**, providing a seamless combination of both CPU and GPU resources to meet large-scale AI and data science needs.\n\nWhy is the \"G\" along with the \"B\" so important. Imagine, all of the revenue that Nvidia has done TO DATE is solely with the H100; not even the H200/GH200 AI factory systems. lol, think about that. ALL OF THESE BILLIONS and BILLIONS OF DOLLARS have only been via the H100 chip. The H200/GH200 just recently came out so while customers are needing to purchase the H200's the real platform GH200 SuperPOD server systems probably have not even begun to take hold with a lot of anticipation for the more powerful GB200 systems.\n\nSo you see, when Jensen told that analyst that NO they won't deliver direct as a cloud vender is because they don't have to and they already are delivering as a cloud provider via stronger contractual agreements while allowing others to also profit and eat from the hardware purchase which is exactly what Oracle reported today.\n\nOthers buy the hardware and Nvidia reaps the benefit of that plus the platform instance leasing for the entire stack including software which will always be recurring revenue.\n\nIn this way, Nvidia won't have a hard landing and in fact will be one of the largest companies the world has ever seen and it already is. However, people just don't realize that Nvidia is a cloud company in it's own way. It's just doing it in a way where everyone eats at his table. It's really amazing when you think about it.\n\nThere you have it folks, acres and acres of recurring revenue through DGX Cloud and CUDA software licensing. Nvidia already IS a Cloud Provider and a very good one at that.",
+  "link_flair_text": "DD",
+  "id": "1fd2g3z",
+  "num_comments": 104,
+  "created_utc": 1725920868,
+  "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/",
+  "comments": [
+    {
+      "id": "lmckv99",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 10 | **First Seen In WSB** | 11 months ago\n**Total Comments** | 3438 | **Previous Best DD** | \n**Account Age** | 3 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmckv99/",
+      "created": 1725920873,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmcmla4",
+      "score": 35,
+      "body": "I don’t get ORCL’s business model here. They buy GPUs and rent them out at a premium by getting delivery faster. \n\nOnce AWS, etc. get enough of these, why would customers continue using oracle?",
+      "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmcmla4/",
+      "created": 1725921497,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmcn0ld",
+          "score": 12,
+          "body": "AWS themselves are using oracle and will do so they can meet demand. Also, AWS will develop over time their own data centers.",
+          "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmcn0ld/",
+          "created": 1725921653,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lmcn5rb",
+              "score": 25,
+              "body": "AWS is doing it for now because they have to. They don’t have enough GPUs. They’ll stop as soon as they can source enough.",
+              "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmcn5rb/",
+              "created": 1725921706,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lmcr0vi",
+                  "score": 15,
+                  "body": "Yup, Oracle is in a bit of a shitty spot.  They are carrying all of the up front cost and basically providing overflow services to G,M, and AWS.  Unless they can figure out how to provide a better product than what these guys build themselves Oracle will see a huge drop with any cloud service blip.  So far they are good to go as cloud is growing like crazy and no one can build capacity fast enough.  If that slows ORCL gets hit first and hardest.",
+                  "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmcr0vi/",
+                  "created": 1725923110,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lmcra8e",
+                      "score": 8,
+                      "body": "Yeah. They aren’t stupid, so they must factor this in. Yet I’m surprised they can get enough margin out of them for it to be worth being the first ones to suffer any spare capacity.",
+                      "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmcra8e/",
+                      "created": 1725923205,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lmcs39p",
+                          "score": 6,
+                          "body": "Definitely.  I think it is a combo of Oracle being experts in building data centers for decades and possibly their software being able to shift quickly between different services.  I think they can pretty quickly shift cloud nodes from say Azur to AWS which can be valuable if one starts to cut capacity.",
+                          "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmcs39p/",
+                          "created": 1725923501,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lmcrszv",
+                      "score": 1,
+                      "body": "interesting, you don't think eventually Oracle will be able to sell that compute to others?",
+                      "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmcrszv/",
+                      "created": 1725923396,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lmd8uut",
+                  "score": 3,
+                  "body": "[removed]",
+                  "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmd8uut/",
+                  "created": 1725929557,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lmfnl5w",
+                      "score": 1,
+                      "body": "that could take some years to play out. Then Oracle could shift over from there.",
+                      "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmfnl5w/",
+                      "created": 1725974639,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lmcl3go",
+      "score": 80,
+      "body": "When 200 USD? When lambo?",
+      "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmcl3go/",
+      "created": 1725920955,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmcu4h8",
+          "score": 36,
+          "body": "https://preview.redd.it/lsb3vpsvavnd1.jpeg?width=1290&format=pjpg&auto=webp&s=0c49772b4a5c743a0b186df6281a851968925723",
+          "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmcu4h8/",
+          "created": 1725924241,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lmcv49m",
+          "score": -4,
+          "body": "https://preview.redd.it/y27vqmssbvnd1.jpeg?width=1792&format=pjpg&auto=webp&s=4841575a6ddc5a734ccc630c5bf612c8736d79bb\n\nwen either lambo or wendy’s",
+          "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmcv49m/",
+          "created": 1725924600,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lmcmj64",
+      "score": 16,
+      "body": "Bought in at 126.11 like a regard. Is this good news?",
+      "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmcmj64/",
+      "created": 1725921476,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmcqnq5",
+          "score": 12,
+          "body": "You and Nancy P.  You're in good company.  👍",
+          "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmcqnq5/",
+          "created": 1725922976,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lmcud7p",
+          "score": 2,
+          "body": "Yes",
+          "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmcud7p/",
+          "created": 1725924330,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lmcrzyk",
+      "score": 27,
+      "body": "Thank you for continuing to give me resolve to keep 48% of my port in NVDA",
+      "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmcrzyk/",
+      "created": 1725923467,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmcw59p",
+          "score": 15,
+          "body": "hey look you too are a fellow bagholder ![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4271)",
+          "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmcw59p/",
+          "created": 1725924977,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lmcx6h0",
+              "score": 7,
+              "body": "I chose my bags carefully",
+              "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmcx6h0/",
+              "created": 1725925353,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lmd2k8z",
+                  "score": 3,
+                  "body": "Weightless bags",
+                  "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmd2k8z/",
+                  "created": 1725927301,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lmd7dbb",
+                      "score": 1,
+                      "body": "Zero g",
+                      "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmd7dbb/",
+                      "created": 1725929009,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lmdwmgl",
+                      "score": 0,
+                      "body": "My 9/20 calls are almost worthless, does that count as weightless here?",
+                      "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmdwmgl/",
+                      "created": 1725938763,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lmhtzq3",
+                          "score": 1,
+                          "body": "The weight of your bags transferred to the crushing anxiety weight on your chest, so no.",
+                          "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmhtzq3/",
+                          "created": 1725999934,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lmd98s6",
+          "score": 4,
+          "body": "Almost same situation. 34 for me. It started as nothing close to that percentage but has morphed into a massive portion and I go back and forth between taking some profits and letting it ride",
+          "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmd98s6/",
+          "created": 1725929698,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lmg3bil",
+          "score": 2,
+          "body": "Past few weeks must have been rough on your anus",
+          "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmg3bil/",
+          "created": 1725980096,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lmg3fu1",
+              "score": 1,
+              "body": "I mean, sure but the previous 3 years and the next 5 are going to be amazing.",
+              "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmg3fu1/",
+              "created": 1725980135,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lmi6jow",
+          "score": 2,
+          "body": "     56 %....... I  need the optimism!",
+          "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmi6jow/",
+          "created": 1726003871,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lmctq0j",
+      "score": 9,
+      "body": "https://preview.redd.it/u2cmftrfavnd1.jpeg?width=1290&format=pjpg&auto=webp&s=85d5cfec422c6d42d412bde4e0198b7fba9918ba\n\n![img](emote|t5_2th52|18630)![img](emote|t5_2th52|18630)",
+      "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmctq0j/",
+      "created": 1725924093,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmculbp",
+          "score": 8,
+          "body": "Why not just shares? Shares don’t expire?",
+          "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmculbp/",
+          "created": 1725924410,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lmcuq5q",
+              "score": 16,
+              "body": "Now you’re telling me? 6 months after I bought them?? /s\n\nI’m not regarded for no reason. On a serious note, I think these’ll be fine; the breakeven is $120 by Feb ‘25 (2 earnings calls remaining, should see Blackwell revenues in q1 next yr for sure)",
+              "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmcuq5q/",
+              "created": 1725924459,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lmcv5cm",
+                  "score": 8,
+                  "body": "🫡 good luck. I think you might do okay honestly",
+                  "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmcv5cm/",
+                  "created": 1725924611,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lmcv8qt",
+                      "score": 5,
+                      "body": "thank you! Otherwise, I’ve got the Wendy’s on call rotation in the back pocket still",
+                      "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmcv8qt/",
+                      "created": 1725924646,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lmcvcva",
+                          "score": 3,
+                          "body": "![img](emote|t5_2th52|4271)",
+                          "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmcvcva/",
+                          "created": 1725924689,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "lmfjr5a",
+                  "score": 2,
+                  "body": "You will walk like a bandit with that 15/2 call, and may as well be ok with the second call. \n\n\nTsmc's August numbers are pretty strong. And Blackwell rolls out soon. Nvidia will do just fine. ",
+                  "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmfjr5a/",
+                  "created": 1725973172,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lmfm1sy",
+                      "score": 1,
+                      "body": "![img](emote|t5_2th52|18630)![img](emote|t5_2th52|18630) $150 or expiry — whatever comes first ![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4271)",
+                      "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmfm1sy/",
+                      "created": 1725974061,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lmdix7x",
+                  "score": 1,
+                  "body": "I mean someone gave you advice when it was at $140 and if I recall you mocked them 😬",
+                  "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmdix7x/",
+                  "created": 1725933279,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lmdjlw5",
+                      "score": 3,
+                      "body": "![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4271)?? who are you bud? I mean yes I probably did but I’m sure it wasn’t totally uncalled for. Anyway since you bothered to comment — my main reason for holding has simply been that the best of nvda is yet to come with Blackwell. The one quarter delay came out of the blue (obviously), but shit like that was the reason for buying leaps 4 quarters out anyway. And this is still well within the Blackwell release timeline which is q4 this year.\n\nIn hindsight, should’ve taken some profit for sure but I ain’t come here to display non regarded behavior",
+                      "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmdjlw5/",
+                      "created": 1725933543,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lmdk9wm",
+                          "score": 3,
+                          "body": "The one that gave you the advice 😂\n\nhttps://www.reddit.com/r/wallstreetbets/s/QhbvoZJcXT",
+                          "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmdk9wm/",
+                          "created": 1725933792,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lmdkjhm",
+                              "score": 1,
+                              "body": "![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4271) what, you want a cookie?\n\nJk, gg regard sir — I’m gonna hold now till expiry unless nvda sees $150",
+                              "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmdkjhm/",
+                              "created": 1725933891,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lmd2jg6",
+              "score": 5,
+              "body": "This is wsb for options gambling not investing with sound strategies. Banned ",
+              "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmd2jg6/",
+              "created": 1725927293,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lmd2q3j",
+                  "score": 3,
+                  "body": "![img](emote|t5_2th52|8882)",
+                  "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmd2q3j/",
+                  "created": 1725927357,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lmd7m6c",
+                  "score": 2,
+                  "body": "https://preview.redd.it/bitb7rubpvnd1.jpeg?width=1290&format=pjpg&auto=webp&s=0af503c6aa40080b6c57f42106b1b4eb558bd825",
+                  "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmd7m6c/",
+                  "created": 1725929099,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lmcm8us",
+      "score": 13,
+      "body": "TLDR? \n\nI bought more dip during futures this morning, no idea if that’s what this post says though.",
+      "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmcm8us/",
+      "created": 1725921372,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmcmu0w",
+          "score": 10,
+          "body": "TLDR; Nvidia sells an entire software stack platform with these expensive ass chips. That is recurring revenue. Oracle is part of this offering process.",
+          "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmcmu0w/",
+          "created": 1725921586,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lmcrjbk",
+              "score": 2,
+              "body": "But isn't nvda only expected to do about 2 billion in software sales this year? That's nothing compared to their hardware sales.",
+              "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmcrjbk/",
+              "created": 1725923297,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lmcuq43",
+                  "score": 3,
+                  "body": "No. There is no way to know this because they don't report that in their earnings discreetly. It is all under \"Data Center\". It would be a great analyst question to focus on in the next ER.",
+                  "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmcuq43/",
+                  "created": 1725924458,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lmde855",
+                      "score": 1,
+                      "body": "They said it in their earnings call.",
+                      "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmde855/",
+                      "created": 1725931521,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lmdeet7",
+                          "score": 1,
+                          "body": "said what?",
+                          "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmdeet7/",
+                          "created": 1725931591,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lmdf3yn",
+                              "score": 4,
+                              "body": "2 billion in software sales for the year. What else are we talking about?",
+                              "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmdf3yn/",
+                              "created": 1725931852,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lmdjtss",
+                                  "score": 2,
+                                  "body": "That's not CUDA and DGX Cloud revenues which is data center revenue. Software can be a plethora of things that Nvidia offers, from models, Ominiverse, NIMS, Nvidia drive, custom models, AI tools, AI Frameworks etc... All types of things.\n\nRemember, the Azure exact same chip offering is $20k when the DGX Nvidia offering (which is what most people go with) is $36,999k and that's only H100's. It will be screaming more in licensing fees on the new GB200 SuperPODS, CUDA and spectrum X.",
+                                  "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmdjtss/",
+                                  "created": 1725933625,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "lmdzqz7",
+                                      "score": 1,
+                                      "body": "Ah ok, thanks. Not sure though why anyone would pay nvda almost double compared to going with Azure, in that case.",
+                                      "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmdzqz7/",
+                                      "created": 1725940208,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "lmfoq85",
+                                          "score": 1,
+                                          "body": "Because CUDA lol. That's why brother. CUDA. CUDA CUDA CUDA. Trust me. CUDA",
+                                          "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmfoq85/",
+                                          "created": 1725975066,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lmcripu",
+              "score": 1,
+              "body": "Oh damn thanks. I didn’t know that, I’ll read the post 💪🏼",
+              "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmcripu/",
+              "created": 1725923291,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lmcs3nl",
+                  "score": 2,
+                  "body": "I don't think people realize is that Nvidia is a Cloud provider in this way. They think that they only sell chips.",
+                  "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmcs3nl/",
+                  "created": 1725923505,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lmcn4xv",
+      "score": 3,
+      "body": "NVIDIA Corp just double down on voice AI stock SOUN.. anyone know what food chain is up next for contract",
+      "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmcn4xv/",
+      "created": 1725921697,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmcocg0",
+          "score": 2,
+          "body": "MCD scrapped their own proprietary one after first divesting themselves of it. I'd love to imagine they didn't abandon the concept itself.",
+          "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmcocg0/",
+          "created": 1725922141,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lmcu8bq",
+              "score": 1,
+              "body": "You must be a short..good luck buddy",
+              "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmcu8bq/",
+              "created": 1725924280,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lme14ey",
+      "score": 2,
+      "body": "https://preview.redd.it/3xt6kzfcownd1.jpeg?width=1280&format=pjpg&auto=webp&s=e146ceb11a6ae3640259968d2b0800acfcb113aa",
+      "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lme14ey/",
+      "created": 1725940876,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmesxal",
+      "score": 2,
+      "body": "Great analysis and points to bring up. The next great revenue stream for Nvidia is exactly the software licensing. It’s just a matter of time before it picks up.",
+      "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmesxal/",
+      "created": 1725958696,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmfbidr",
+      "score": 2,
+      "body": "Very well written, thank you.  Have you seen anywhere if Government sales are handled the same way or if that is different? I have to believe Government sales are ginormous, and only going to grow with AI and Drones, but can’t find any good information.",
+      "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmfbidr/",
+      "created": 1725969693,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmfu7sx",
+      "score": 2,
+      "body": "> In this way, Nvidia won't have a hard landing\n\n\nCloud companies are hardly immune from hard landings. Especially if their customer can't service the bill due to their own hard landing.",
+      "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmfu7sx/",
+      "created": 1725977028,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmgipqt",
+          "score": 1,
+          "body": "I mean that's fair but fortune 500 Co. Rarely have hard landings.",
+          "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmgipqt/",
+          "created": 1725985039,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lmcuxb5",
+      "score": 4,
+      "body": "Some criticisms of Nvidia’s valuation is that too much of their revenue is wrapped up in two few of their customers. Do we know who these customers are? could oracle be one of them or the biggest?",
+      "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmcuxb5/",
+      "created": 1725924530,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmcvo9c",
+          "score": 9,
+          "body": "No this is a myth or a missunderstanding. The major Cloud providers including Oracle are selling this down to each and every enterprise and small business i.e. startup. If you're a startup you aren't going to buy Nvidia GB200 SuperPOD / AI factory for millions of dollars. You will rent/lease them out. This is what's wrong with the graph making it seem as if only a few providers are buying the chips. It's not what the story actually is.",
+          "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmcvo9c/",
+          "created": 1725924806,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lmf7dl4",
+              "score": 2,
+              "body": "Yes this is the biggest misconception.",
+              "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmf7dl4/",
+              "created": 1725967732,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lmcvqto",
+          "score": 2,
+          "body": "Microsoft and Meta are the two biggest clients of Nvidia. Microsoft alone take up 47% of their high revenue, that’s over 10 billion. I don’t think there is any other company can pay this much quarterly",
+          "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmcvqto/",
+          "created": 1725924831,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lmcx199",
+              "score": 4,
+              "body": "Amazon, Google, Meta, Oracle, Other Nations and governments including the US. Of course there are. But, you're missing the main point of what I am explaining. The GB200 SuperPOD AI factory is actually software and recurring revenue. They are literally a Cloud provider too. This is what I don't think people understand. It's not just chip sales.",
+              "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmcx199/",
+              "created": 1725925300,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lmd3k11",
+      "score": 3,
+      "body": "Ride Nvidia.\n\nLife good.\n\nNvidia go down.\n\nKill Nvidia.\n\nThink about Nvidia.\n\nRegret.",
+      "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmd3k11/",
+      "created": 1725927651,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmcwg5l",
+      "score": 2,
+      "body": "Too many teachers than traders here",
+      "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmcwg5l/",
+      "created": 1725925088,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmd2edt",
+      "score": 1,
+      "body": "We get it you bought Nvidia at the top ",
+      "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmd2edt/",
+      "created": 1725927244,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmcnx7x",
+      "score": 1,
+      "body": "How will this impact HPE \n\n/s",
+      "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmcnx7x/",
+      "created": 1725921985,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmdebce",
+      "score": 1,
+      "body": "I noticed now nvda is offering dividends. I don’t think they have always. Is that a good sign? Not sure how true this is, but I was told that dividends are a sign of a stock that doesn’t have much short term growth.",
+      "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmdebce/",
+      "created": 1725931555,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmdwu0h",
+          "score": 1,
+          "body": "They did before, but both now and before the dividend yield is very low. It just used to be comically low.",
+          "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmdwu0h/",
+          "created": 1725938857,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lmdmi0r",
+      "score": 1,
+      "body": "Informative information",
+      "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmdmi0r/",
+      "created": 1725934630,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmeglf9",
+      "score": 1,
+      "body": "A gallon of GPU",
+      "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmeglf9/",
+      "created": 1725949804,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmd4er8",
+      "score": 1,
+      "body": "This is absolutely bullish…. Just hope the funding for the companies using GPUs does not dry up.\n\nLet me explain… in today’s investing world, companies must show profit to secure funding.   \n\nIf the AI bubble turns sour, we will see fields of unused GPUs.   It is a possibility, as companies invested trillions, and currently do not know how to monetize.  Shit like chatgpt (crown jewel) costs a fuck ton more to run, than the revenue it brings in",
+      "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmd4er8/",
+      "created": 1725927952,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmd5i7u",
+          "score": 3,
+          "body": "Until they start charging $2000 a month to sit at the table. Look. We are competing against China make no mistake. The country who wins agi / ai will win the future. Point blank. We can't afford to be behind. All of this an we haven't even begun humonoids or true self driving. Companies who do not know how to monetize won't get funding. You've said it yourself. The reality is openai, anthropic and Google are the leaders of the pack. Microsoft is monetizing the hell put of open ai and this gets better and better over time.\n\nThings like the ai pin and the rabbit were too ahead of their time. Even gpt 4o mini would of made the pin 100x better. I technically don't know what the pin uses. Point is this, when the next models drop with tons more accuracy. Game over.",
+          "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmd5i7u/",
+          "created": 1725928338,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lmd7230",
+              "score": -5,
+              "body": "I must reassure you… China is no threat.  Sure, the west is tired of intellectual leak, and pulled out of china, But!:\n\nChina itself, is a fucking hell hole.   Millions live just above poverty, economy and geopolitics are in shambles.  The worst part, the government and the policies.   \n\nChina will throw smoke and mirrors on bullshit ev bicycles, phones, etc, but the fact of the matter is, Chinese, Russian, whatever economy is garbage dressed as cinderella.  They are decades behind precise manufacturing.\n\nIt is fair to not want ai in weapon systems…. but fuck man, sentience is not on the table any time soon.   Shit is too expensive.\n\nThe most china can do is invade Taiwan, that will hurt a fuck load more than chat.   Be happy Putler was stopped in Ukraine, otherwise these assholes would get brave.\n\nSucks, this world seems doomed.",
+              "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmd7230/",
+              "created": 1725928897,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lmd81nt",
+                  "score": 3,
+                  "body": "4.75 GDP growth (down from 7 - 8%) I wouldn't call it in shambles. My point is that they are a competitor. Also, China's chip and tech innovation is gaining upwards so we can't just sit here in denial and ignore it. Our economy, in large part, is from AI and the tech sector. One might argue technology is our largest asset. So I don't get your optimism that GPU's will just dry up. Not if they are powering literally our next industrial revolution through token exchange they won't.",
+                  "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmd81nt/",
+                  "created": 1725929256,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lmd8sen",
+                      "score": 1,
+                      "body": "Ruzzkies showed growth as well during the recent years, even bloomberg reiterated their bullshit\n\nAm partly from that part of the globe, do not invest a dime in the commie bastards.\n\nPart of the news are driven by people holding bags in baba, jd, and others.  Let them burn",
+                      "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmd8sen/",
+                      "created": 1725929532,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lmd91ye",
+                          "score": 2,
+                          "body": "Fuck Bloomberg - POS",
+                          "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmd91ye/",
+                          "created": 1725929629,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lmdh9ct",
+                              "score": 1,
+                              "body": "For sure, but thats how the news are intertwined in markets and politics.   They will do everything in their power to move the vix\n\nAs for the commie friends, putler single handedly fucked a country into the wall.  So many minds fled because no single business idea can flourish in a country which has no intellectual property laws, where everyone is equal, except for the few that are more equal than others.   Same shit goes for China\n\nIf you have some fu money, short their shit.\n\nViva Ukraine",
+                              "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmdh9ct/",
+                              "created": 1725932653,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lmdkdct",
+                                  "score": 1,
+                                  "body": "Viva Ukraine",
+                                  "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmdkdct/",
+                                  "created": 1725933827,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lmdds8l",
+      "score": 2,
+      "body": "If you're in the telecom and data center industry. 1. You know these as a service prices race straight down. 2. No one is suffering from capacity issues at the moment, yet every provider is fully jacked to the tits on building more capacity before the end users are there. So, they have acres of fast-paced depreciating assets? Is that what you say?",
+      "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmdds8l/",
+      "created": 1725931358,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lme29qm",
+          "score": 2,
+          "body": "AI Dream bro AI Dream",
+          "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lme29qm/",
+          "created": 1725941451,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lme3lir",
+              "score": 2,
+              "body": "Paywall on my dreams won't let me.",
+              "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lme3lir/",
+              "created": 1725942134,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lmcqgrt",
+      "score": -1,
+      "body": "I'm stupider now after reading all that.  ![img](emote|t5_2th52|52627)",
+      "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmcqgrt/",
+      "created": 1725922906,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmcqq7i",
+          "score": 5,
+          "body": "Or... You just were already that way",
+          "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmcqq7i/",
+          "created": 1725923001,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lmcr1mc",
+              "score": -1,
+              "body": "The statement presupposes my own stupidity.  Self-depricating as it were.\n\nNow get offa my cloud ☁️",
+              "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmcr1mc/",
+              "created": 1725923117,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lmco8hx",
+      "score": 0,
+      "body": "Wow.  Me sell puts.  Burn many cash piles.",
+      "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmco8hx/",
+      "created": 1725922100,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmekn5h",
+      "score": 0,
+      "body": "Institutional investors don’t understand, but a smooth-brain regard on WSB does…are you Jesus?",
+      "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmekn5h/",
+      "created": 1725952571,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmflono",
+          "score": 1,
+          "body": "When the analyst on the cc asked the dumb ass question yeah I'm gonna assume they're stupid af. I'm not Jesus but I am him. Also, I assure you I have more knowledge than your mother did that night, all them years ago, when the milk man asked her if she wouldn't mind helping him produce some more milk for the rest of the neighborhood since he had run out. Sure honey come on in. Weird. 9 months later your dumb ass came out. Milk man always denied it but I know the true. Why? Because I am him. 😎",
+          "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmflono/",
+          "created": 1725973922,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lml32hf",
+              "score": 1,
+              "body": "Your shift at Wendy’s starts in 5 min, back to it",
+              "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lml32hf/",
+              "created": 1726052152,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lmenq41",
+      "score": 1,
+      "body": "I would be surprised if this so called recurring revenue is more than 10% of their hardware sales. B100 is just two H200 chips pasted together as the actual performance difference between H100 and H200 is just 20% which doesn't justify any price increases. And that is also delayed due to questionable architecture decisions.\n\nTl:dr; this post reads like cope to me",
+      "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmenq41/",
+      "created": 1725954813,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmf735v",
+          "score": 2,
+          "body": "Why don't other chipmakers just buy some glue and join their chips together to double the performance?",
+          "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmf735v/",
+          "created": 1725967586,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lmk7bdh",
+              "score": 1,
+              "body": "Because it will cause problems, as Blackwell showed. Nvidias monolithic chip design is heading into physical boundaries, that's why they have to brute force (\"glueing two chips together\") for more performance.\nEveryone thinks Nvidia is leading in chip design. Look at AMDs chiplet Design. In the end, it will be the better approach.",
+              "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmk7bdh/",
+              "created": 1726031120,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lmfmvb7",
+              "score": 1,
+              "body": "White glue or like sniffing glue? what type of glue is this exactly? I went to office depot and I am not sure they have it. Hmmm, perhaps Crazy Glue. That's it lol. Crazy glue. Crazy glue for your GPU",
+              "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmfmvb7/",
+              "created": 1725974370,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lmfkhq7",
+          "score": 0,
+          "body": "So the b100 is 2 h200 chips and then that must mean the B200 is 4 h200 chips and the GB200 is 4 h200 chips plus custom arm silicon cpu chips. Hmmmm and then nvlink would be 72 of those bound together for a total of 174 h200 gpu chips working together.\n\nDo I have that right?\n\nSeems the performance is off the charts.\n\nhttps://www.nvidia.com/en-us/data-center/nvlink/\n\nNahhh your comment seems like cope. And I mean a lot of cope. Make sure not to Snort too much. I heard it can be dangerous.",
+          "permalink": "/r/wallstreetbets/comments/1fd2g3z/what_investors_dont_understand_about_nvidias/lmfkhq7/",
+          "created": 1725973461,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

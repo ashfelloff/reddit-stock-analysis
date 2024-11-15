@@ -1,0 +1,422 @@
+{
+  "title": "Conflicting numbers for the same dividend, or I just don't understand divs yet",
+  "score": 75,
+  "selftext": "I've got some investment in VOO ETF, I bought 100 shares at 500 bucks each. I got a dividend a month ago for $163 bucks; that's $1.63 a share.\n\n[This page](https://www.dividend.com/etfs/voo-vanguard-s-p-500-etf/) shows 1.23% (and shows a yield of $6.50), and [this page](https://www.nerdwallet.com/article/investing/voo-dividend) shows a dividend of $1.64 a share (accurate to what actually happened above).\n\nI don't understand the discrepancy. The share price is 525 right now, but let's pretend it was lower; 1.22% of 500 is 6.1 dollars. Why wasn't my dividend 650 bucks? Why does that site show that the per share dividend is $1.64 and not over $6?\n\nedit: okay I didn't realize that the dividend I got was a quarterly one and therefore 1/4 of the yield rate I've been seeing.",
+  "link_flair_text": "Advice Request",
+  "id": "1girgvv",
+  "num_comments": 44,
+  "created_utc": 1730653098,
+  "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/",
+  "comments": [
+    {
+      "id": "lv7dhnk",
+      "score": 83,
+      "body": "1.23% is annual. Divide that by however many times dividends are paid out, usually quarterly.",
+      "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lv7dhnk/",
+      "created": 1730653331,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lva7foz",
+          "score": 1,
+          "body": "Yep exactly - dividing annual rate by 4 for quarterly payouts. Simple as that 👍",
+          "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lva7foz/",
+          "created": 1730685599,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lv7g3lk",
+          "score": -34,
+          "body": "Okay, I thought dividends were a percentage of the stocks' profit sharing that paid out each month. Didn't realize this was a quarterly thing",
+          "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lv7g3lk/",
+          "created": 1730654108,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lv7gouh",
+              "score": 52,
+              "body": "no.  dividend is whatever company owners/board decides it is.  for example, ford after 2008 market crash decided to stop paying dividend.  they restarted a few years ago.  the owners/board decides what dividend they will pay, when they will pay it.",
+              "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lv7gouh/",
+              "created": 1730654282,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lv7j8b4",
+              "score": 16,
+              "body": "Also the % number is backward looking. There is no guarantee that the number stays the same in any capacity. The stock price can change which results in a different percentage it the company can change their dividend which changes it, too",
+              "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lv7j8b4/",
+              "created": 1730655033,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lv7s5k2",
+              "score": 8,
+              "body": "Dividend yield is always annual. That’s how you can compare with other instruments like bonds or CD, etc. \n\nCompanies can choose to pay out quarterly, monthly or annually. It’s always subject to approval and subject to change.",
+              "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lv7s5k2/",
+              "created": 1730657670,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lvb0dh1",
+              "score": 1,
+              "body": "Percentage of earning paid as dividends is called payout ratio",
+              "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lvb0dh1/",
+              "created": 1730697896,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lv7da1g",
+      "score": 32,
+      "body": "What's 1.64 x 4?",
+      "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lv7da1g/",
+      "created": 1730653268,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lv7erpw",
+          "score": -35,
+          "body": "17",
+          "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lv7erpw/",
+          "created": 1730653711,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lv7jet8",
+              "score": 28,
+              "body": "r/theyfailedatmath",
+              "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lv7jet8/",
+              "created": 1730655087,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lv7uj9b",
+                  "score": 57,
+                  "body": "If you round it up to the nearest 17 they are actually spot on.",
+                  "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lv7uj9b/",
+                  "created": 1730658375,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lv7foih",
+      "score": 19,
+      "body": "As I write this, the share price is $524.94 and the dividend amount is $6.77 per year.  This results in a yield of 1.29%.  6.77 / 524.94 = 1.29.  Yield is quoted as an annualized rate.  The thing you need to understand is that yield is not a fixed value, the dividend paid is the fixed value.  Yield varies based on price changes. So to get the dividend amount paid you multiply the number of shares held by the dividend amount.",
+      "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lv7foih/",
+      "created": 1730653986,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lv7ki65",
+          "score": 1,
+          "body": "I wish the share price was 594.24 :P its actually 524.94",
+          "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lv7ki65/",
+          "created": 1730655414,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lv7xxv3",
+              "score": 1,
+              "body": "You read too quickly, I noticed and fixed it just after hitting the submit. ",
+              "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lv7xxv3/",
+              "created": 1730659368,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lv8sqnw",
+                  "score": 1,
+                  "body": "You only fixed one of them.",
+                  "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lv8sqnw/",
+                  "created": 1730668736,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lv9k1xn",
+                      "score": 1,
+                      "body": "Oops.",
+                      "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lv9k1xn/",
+                      "created": 1730677407,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lv7gl7t",
+          "score": 0,
+          "body": "Right, so the dividend I saw on 10/1 was 1.29 / 4 = 0.32%, or 0.0032 * my holding value. Didn't know that, makes sense",
+          "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lv7gl7t/",
+          "created": 1730654252,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lv7yg1q",
+              "score": 9,
+              "body": "The point is that you need to stop calculating using the yield percentage because that varies.  The dividend amount is the best way to do it. ",
+              "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lv7yg1q/",
+              "created": 1730659514,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lv7eb38",
+      "score": 12,
+      "body": "One is quarterly and the other is yearly.",
+      "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lv7eb38/",
+      "created": 1730653575,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv7kd4n",
+      "score": 5,
+      "body": "VOO is worth its weight in gold. I want to be at the point where im getting enough dividends from it that I can just buy more of it",
+      "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lv7kd4n/",
+      "created": 1730655372,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lv7p467",
+          "score": 5,
+          "body": "I agree. It's also kinda crazy that anyone would drop $50k on a single ETF and not understand how dividends work.\n\nedit/ stock > etf because people were freaking out.",
+          "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lv7p467/",
+          "created": 1730656776,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lva8jap",
+              "score": 0,
+              "body": "its actually crazy that someone thinks SPY/VOO is a single stock lol",
+              "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lva8jap/",
+              "created": 1730685990,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lvae8l9",
+                  "score": 2,
+                  "body": "sorry, an ETF. I would guess everyone here knows it's an ETF.",
+                  "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lvae8l9/",
+                  "created": 1730688096,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lvaem9c",
+                      "score": 2,
+                      "body": "of course everyone knows its an ETF.. what is your point?? you said he put all his money in one spot.  he's got it accross the whole S&P.",
+                      "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lvaem9c/",
+                      "created": 1730688241,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lv7uems",
+              "score": -8,
+              "body": "edit: for the people who think I just whimsically chucked 50k somewhere without knowing what I was doing, this is not true. See other post.\n\nBecause the dividends are incidental to the actual purpose. Knowing about how dividends work isn't actually necessary for the purpose of \n\n1. investing 50k worth in a Merill brokerage account so I could get a BoA credit card that pays me 4.5% cash back on some purchases, because I hit their platinum tier with over 50k held by BoA/Merill\n\n2. Invest in an large or total market index fund and just hold.\n\n3. Knowing that stocks pay dividends. I should understand the mechanics of the dividend payout, but it's not necessary when your plan is to do nothing but hold an index fund for a long time with the divs being auto reinvested\n\nObviously I'm new to investing, but understanding that the dividend yield is annual and the dividends are paid out arbitrarily isn't necessary or important knowledge to cover either of the two points above. Also I wouldn't call a VOO ETF \"a single stock\" even if it functions like one, because that's implying I'm basically gambling on a single corporation; I'm not, it's an index already diversified. It's not like this is terribly negligent or something.",
+              "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lv7uems/",
+              "created": 1730658336,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lva9kgh",
+                  "score": 3,
+                  "body": "O.P.  don't let these people confuse you on something so basic and smart as investing in the S&P500 (VOO).  if you are new to investing, the S&P 500 is perfect place to park your money.  and you will outperform the majority of American's 401k accounts that are wrapped up in conservative assets..\n\n   w/said, it is very easy to invest in VOO/etc, and you certainly did NOT need to open an account based on a credit card offer.  regardless, a young person buying the S&P500 is perfect, good job",
+                  "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lva9kgh/",
+                  "created": 1730686365,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lvanh4c",
+                      "score": 1,
+                      "body": "I already had my money in Bank of America, and I didn't have a brokerage account yet. My plan was to open a Vanguard account, transfer money there, and buy Vanguard funds.\n\nWhen I learned about the Bank of America card's kickbacks for having at least 50k of assets at BoA, I instead opted to open a Merill account and invest in a Vanguard fund there instead, to get the kickbacks. The end result is still the same, I just got a great CC out of it.\n\nAdditionally, that 50k is the only money I'll be investing there. I have a Vanguard account and all my other investments are through there. People are making it sound like I just swung a huge chunk of cash around without thinking because I didn't realize that dividends were represented as annualized numbers.",
+                      "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lvanh4c/",
+                      "created": 1730691787,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lv9kz6m",
+                  "score": 1,
+                  "body": "so you invest $50k in something you have no idea how it works just to get some mediocre credit card rewards you can get similarly elsewhere? And now your $50k is always going to be tied up in that brokerage account by the sounds of it.",
+                  "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lv9kz6m/",
+                  "created": 1730677714,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lva9xpe",
+                      "score": 2,
+                      "body": "forget the credit card, he invested in the S&P500 like a smart investor and he will do better than 90% of people here just by holding it lol",
+                      "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lva9xpe/",
+                      "created": 1730686498,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lv9m1vo",
+                      "score": 1,
+                      "body": "I had an idea of how it works in the fact that A) sound investment strategy is to place your money in an indexed mutual fund and hold it for a long time horizon while supplementing your portfolio with a healthy amount of bond funds, and B) I knew I was going to invest a bunch of money just sitting in my checking account somewhere and I realized right before I transferred my cash that I could invest it exactly where I wanted AND get a nice credit card bonus.\n\nAll that cash was going to go to a Vanguard S+P500 index fund regardless; it simply went into Merill as a brokerage instead of Van at the last second, because I found out about the card.\n\nI did NOT just wildly dump 50k of something somewhere to get some card bonuses without understanding the basics of what I was doing and why, and I knew stocks paid dividends. I simply didn't know that the dividend amount was measured as yearly (I assumed monthly) and that the amounts were arbitrary (I believe they were based on economic performance of the underlying security).\n\nSo, no, I was not blindly throwing money around.",
+                      "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lv9m1vo/",
+                      "created": 1730678074,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lvaafi6",
+                          "score": 2,
+                          "body": "you're letting them complicate the simplest of things for you O.P. .. you are invested in the S&P (whichever ETF they are all the same).  that is where you want to be when starting",
+                          "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lvaafi6/",
+                          "created": 1730686677,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lv7m68f",
+      "score": 7,
+      "body": "Warren Buffets recommendation who folks with no financial training. S&P 500 Index",
+      "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lv7m68f/",
+      "created": 1730655916,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lvaa4dt",
+          "score": 2,
+          "body": "well said, and i am doubling the S&P500 over the past 5 years",
+          "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lvaa4dt/",
+          "created": 1730686565,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lvab1r7",
+              "score": 3,
+              "body": "It’s a great investment with a + 2 % dividend to boot",
+              "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lvab1r7/",
+              "created": 1730686905,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lvabx5v",
+                  "score": -1,
+                  "body": "it is.  and warren buffet himself often gets beat by the S&P.  lol Buffet is so terrible",
+                  "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lvabx5v/",
+                  "created": 1730687230,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lv7jv3e",
+      "score": 1,
+      "body": "You are really gonna be confused when the stock tanks and dividend % goes up, but payout is the same. \n\nIt’s paid out as $ amount per share. Annual Percentage will change constantly as underlying price changes. % just gives you rough idea of the payout but won’t be exact. The Hope is underlying increases over time, and $ amount paid out increases with it.  \n\nIf you read about “dividend aristocrats” it might give some more context.",
+      "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lv7jv3e/",
+      "created": 1730655222,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv7lj1w",
+      "score": 1,
+      "body": "All based on then prices.  You receive what you are entitled to receive by ignoring all these discrepancies.",
+      "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lv7lj1w/",
+      "created": 1730655722,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv8qkot",
+      "score": 1,
+      "body": "6.50/4 =1.625",
+      "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lv8qkot/",
+      "created": 1730668065,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lvbwxqn",
+      "score": 1,
+      "body": "[removed]",
+      "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lvbwxqn/",
+      "created": 1730719060,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv7fytf",
+      "score": -8,
+      "body": "I think a HYSA at 4.50% would pay more",
+      "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lv7fytf/",
+      "created": 1730654070,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lv7hir0",
+          "score": 8,
+          "body": "yes.  but high interest saving accounts don't have share price growth.  example, sp500 index fund has yield of 1.2-1.3% and growth of about 10%.  what is more valuable, the 4.5% interest, or 10% growth plus 1.2% dividend?\n\nbasically, you are looking at the trees in front of you and completely missing the forest behind them.",
+          "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lv7hir0/",
+          "created": 1730654526,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lv7n8nw",
+              "score": -4,
+              "body": "If I'm looking for growth I'll buy the mag 7 but I see your point",
+              "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lv7n8nw/",
+              "created": 1730656239,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lv7jnog",
+          "score": 1,
+          "body": "Look at NAV for the asset not only one growth parameter",
+          "permalink": "/r/stocks/comments/1girgvv/conflicting_numbers_for_the_same_dividend_or_i/lv7jnog/",
+          "created": 1730655161,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

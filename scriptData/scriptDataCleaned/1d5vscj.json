@@ -1,0 +1,542 @@
+{
+  "title": "Any tailwind in sight for $AMD?",
+  "score": 57,
+  "selftext": "Been wondering if $AMD can come close to $190 anytime soon.\n\nWith PCE going sideways, I am not sure the next FOMC (6/12) will provide any relief.\n\nThe selling point of its products seems to be \"cost-efficiency,\" but that feels like a moot point when supply remains an issue.\n\nIt was no small feat that Lisa turned the company around, but it was going up against $INTC, and we all know Jensen is in another league. According to [one post/Wells Fargo](https://www.reddit.com/r/NVDA_Stock/comments/1ae5q7v/data_center_gpu_market_share_estimate/), $AMD market share in data center GPU is 4.2% against $NVDA 94% and $INTC 1.8%. I don't see how much growth the company can squeeze out of it in short term, and the last earnings call appeared to confirm this. \n\nAny input?",
+  "link_flair_text": "Discussion",
+  "id": "1d5vscj",
+  "num_comments": 59,
+  "created_utc": 1717272909,
+  "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/",
+  "comments": [
+    {
+      "id": "l6o84jx",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 3 | **First Seen In WSB** | 8 months ago\n**Total Comments** | 132 | **Previous Best DD** | \n**Account Age** | 7 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6o84jx/",
+      "created": 1717272912,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6ob34u",
+      "score": 64,
+      "body": "I can't see NVDA maintaining 94%. That's way too monopolistic. Still bullish on them over like a 5 year term though.\n\nI think AMD is a safe bet to go up decently over the next 5-10 years though.",
+      "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6ob34u/",
+      "created": 1717274051,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6ot0nl",
+          "score": 12,
+          "body": "snails voracious apparatus mysterious agonizing tidy connect yam tender engine",
+          "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6ot0nl/",
+          "created": 1717281021,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6q02uc",
+              "score": 7,
+              "body": "The guy you’re responding to is a total dribbler, but rocm has been a thing for a long time and PyTorch supports it.\n\nNvidia has the moat, I’ve been cuda programming for years and had the procurement people trying to suggest amd and I told them to go take a hike. \n\nThe new norm will be amd cpus paired with nvda gpus.",
+              "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6q02uc/",
+              "created": 1717300428,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6vlnk7",
+                  "score": 1,
+                  "body": "APU specifically.",
+                  "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6vlnk7/",
+                  "created": 1717397367,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l6p8nzd",
+              "score": -1,
+              "body": "I'm absolutely imagining this yes. It's not that hard to. I don't work in that specific field but I am a software engineer and have experience in hardware interfaces as well.\n\nMaintaining that level of dominance in this field just isn't possible in the long term in my eyes. We've seen tons of 'too big to fail' companies rise and fall in tech.",
+              "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6p8nzd/",
+              "created": 1717287690,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6pa8v3",
+                  "score": 5,
+                  "body": "shy dinosaurs judicious offer afterthought deserted murky airport whole fall",
+                  "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6pa8v3/",
+                  "created": 1717288389,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l6pogsp",
+                      "score": 7,
+                      "body": "AMD has produced a CUDA alternative for the last 15 years. The problem was twofold: 1. it was dogshit, 2. AMD was in denial about the fact that it was dogshit. Missing out on trillions of dollars of pump money finally cured them of that, and the healing process began. Things should start to turn around over the next year as they start to become non-dogshit and as all the people they've burned over the years start to realize it.\n\nKnowing this, would I bet on AMD? Eh. I've seen this clown shoot itself in the foot too many times for a heavy position, but I do currently have a light one.",
+                      "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6pogsp/",
+                      "created": 1717294840,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "l6pxl73",
+                      "score": 2,
+                      "body": "AMD produced HIP, which is nearly a 1:1 mapping with CUDA and compiles for both AMD and NVIDIA GPUs.",
+                      "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6pxl73/",
+                      "created": 1717299167,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "l6ra09b",
+                      "score": 1,
+                      "body": "If AI becomes anything closer to what is being proposed in capabilities... how long until AI can write you a CUDA alternative that runs on whatever hardware you want. And debug itself.",
+                      "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6ra09b/",
+                      "created": 1717330647,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "l6q05qr",
+                  "score": 4,
+                  "body": "They have maintained the dominance for 25 years, why do you think that’s going to change?",
+                  "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6q05qr/",
+                  "created": 1717300468,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l6ry8wb",
+                      "score": 1,
+                      "body": "The market got way bigger with ai and now that there’s way more people buying people will see a better opportunity to sell.",
+                      "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6ry8wb/",
+                      "created": 1717341313,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "l6pos0p",
+                  "score": 3,
+                  "body": "\"it's not that hard\"\n\nThen where the fuck is the replacement after all these years?  CUDA was developed back with the 8800 GTX series cards.  This is like 15 generations of GPUs ago.  Are you telling me that it's easy to do, but nobody has bothered to do it? \n\nMaybe it's not nearly as easy as you think.",
+                  "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6pos0p/",
+                  "created": 1717294984,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l6pym0s",
+                      "score": 0,
+                      "body": "I didn't say it's not hard to usurp or take a piece of the pie. I said it's hard to imagine someone not doing it and taking their share of the market. \"It hasn't happened yet\" in such a new field isn't really a good indication that it won't. NVIDIA just started booming last year due to AI.",
+                      "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6pym0s/",
+                      "created": 1717299673,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l6ofmkf",
+          "score": 6,
+          "body": "If it helps... that 94% number is likely 'merchant silicon' (ie what you buy off the shelf).\n\nIncreasingly you will see companies move into custom silicon for dedicated tasks.  That's where AVGO and MRVL sit.",
+          "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6ofmkf/",
+          "created": 1717275708,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6qm00b",
+              "score": 9,
+              "body": "Nobody is going to buy AI chips from anyone else but the big players. The reason being that ecosystem is a bitch when you're running LLMs. Who's going to write, debug the drivers/stack to run LLMs on your bumfucking unknown HW providers?\n\nPeople are picking NVDA over AMD because of the Cuda and Nvidia Container ecosystem. AMD is lagging behind and working with the community on huggingface to fix it and it will come, but this is the real reason behind NVDAs dominance. Their HW isn't even that great. AMDs hardware is better: They just need to make the cost of ownership lower by building an easy to adopt software/devops stack like NVDA did.",
+              "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6qm00b/",
+              "created": 1717313958,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6r9cgx",
+                  "score": 4,
+                  "body": "This guy gets it",
+                  "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6r9cgx/",
+                  "created": 1717330279,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l6se5tc",
+                  "score": -1,
+                  "body": "AMD’s hardware isn’t better than Blackwell. It’s better than Hopper, but it’s irrelevant because they’re way too far behind Nvidia’s release cadence.\n\nCUDA advantage is overhyped tbh. Already less of a factor. Nvidia’s ability to remain ahead and offer more than just the GPU (networking, etc) is key.",
+                  "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6se5tc/",
+                  "created": 1717347339,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l780a1q",
+                      "score": 1,
+                      "body": "$$$/FLOPS is better on AMD than NVDA atm. And this matters.",
+                      "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l780a1q/",
+                      "created": 1717597406,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l78cf6d",
+                          "score": 1,
+                          "body": "Only compared to H100/200. Blackwell still handily [outperforms AMD MI300X](https://open.substack.com/pub/semianalysis/p/nvidia-blackwell-perf-tco-analysis?r=21n1hd&utm_medium=ios) (and it’s HBM-improved refreshes) on a cost per FLOP basis.",
+                          "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l78cf6d/",
+                          "created": 1717601605,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l6okqs3",
+          "score": 2,
+          "body": "An ever increasing cost for AI companies as well as a point of criticism for them is their large power consumption. I agree that Nvidia's monopoly will eventually be broken but it could be from competitors like Intel instead of AMD who are working on neuromorphic computing which is orders of magnitude more efficient than GPUs. They've recently released Loihi 2 which is something to look into it.",
+          "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6okqs3/",
+          "created": 1717277674,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6om46h",
+              "score": 2,
+              "body": "I don't see the AI hardware pie being split by one or two companies, there will probably be more players than that with a decent chunk. We're still in very early days.",
+              "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6om46h/",
+              "created": 1717278214,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l6oc9yu",
+          "score": 2,
+          "body": "> That's way too monopolistic\n\nBut how? It's not like Jensen isn't pumping money into R&D to keep that first mover advantage.\n\nOne way to break it is through trustbusting, but the US has allowed 😂 $BA 😂 a monopoly to compete against €AIR.\n\n5-10 years is a long time. I might as well find a better entry point when US intelligence suggests a war scenario over Taiwan in '27.",
+          "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6oc9yu/",
+          "created": 1717274484,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6ovmkr",
+              "score": 4,
+              "body": "80% margins in the chip business are... atypical. Can Jensen and the boys dig out the moat faster than everyone else can shovel in?\n\nMy guess: no. At its core, machine learning needs loads of bandwidth and simple math. The crazy hard things that Nvidia has pulled off over the years (SIMT, CUDA, drivers that don't fucking crash if your prototype code has a memory leak jesus fuck AMD how is your shit so broken) aren't actually necessary for ML, they are just necessary for *this* generation of ML. Other players got caught with their pants down because they thought they could short-change the software side. They always do. Hardware companies never want to spend enough on software, but the NVDA pump and the everyone-else non-pump dumped some much needed cold water on their heads. The checkbooks opened, the fuckups are being chased down, and in a year or two the people who thought they were competing in the olympics but were actually competing in the special olympics will have found their way back to the actual olympics. Nvidia will still have the best offering and they will still get to charge high prices, but not \"you'll know the price when I write it on my nutsack and stamp it on the paper\" prices.\n\nSo what's my financial advice? Short the fuck out of NVDA and call me so I can laugh at you when it reaches $2000.",
+              "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6ovmkr/",
+              "created": 1717282099,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l6vlljm",
+          "score": 1,
+          "body": "Nobody is here to invest. They are here to play at the casino.",
+          "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6vlljm/",
+          "created": 1717397330,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6og1v1",
+      "score": 18,
+      "body": "AMD is expected to announce new Ryzen processors at Computex next week.",
+      "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6og1v1/",
+      "created": 1717275867,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6qjcfx",
+          "score": 5,
+          "body": "but no one cares about client, anymore.  shit, even epyc is now a nothingburger to the market.",
+          "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6qjcfx/",
+          "created": 1717312030,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l6ohadk",
+          "score": 6,
+          "body": "That's a good point. Thanks!\n\nClient revenue through Ryzen does make up a significant portion of the income (25.45%). Hopefully that will give the stock some boost.",
+          "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6ohadk/",
+          "created": 1717276329,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6pq085",
+              "score": 9,
+              "body": "Ryzen isn't why AMD is flying as high as it is though, it's the AI craze.  A new CPU generation keeps the company running as expected.  It's not changing anything up.  It's not rocketing AMD to new heights.  AMD needs a new piece of hardware that accelerates machine learning algorithms, and it needs to be competitive in a way where it can gain market share.\n\nThe new Ryzen CPUs just provide stability and nothing more.  It buys more time for the people hoping for new breakout tech to come along to stick around.  The insane valuation the company currently has isn't founded in standard business, it's purely speculation that AMD will compete with Nvidia.  These CPUs don't do that.",
+              "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6pq085/",
+              "created": 1717295556,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6pw1ec",
+                  "score": 1,
+                  "body": "I am thinking more along the line of a better exit position than 167 last Friday.\n\nA friend working at data center says $AMD has potential, but that is gonna be very long-term. Potentially after a showdown between the US and an increasingly belligerent China (which would offer a fantastic entry position).",
+                  "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6pw1ec/",
+                  "created": 1717298400,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l6pcl3w",
+      "score": 16,
+      "body": "Microsoft said during Build that their LLMs ran better on AMD than Nvidia. Just waiting for the server market to reflect that.",
+      "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6pcl3w/",
+      "created": 1717289429,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6pgvdi",
+          "score": 6,
+          "body": "Maybe $AMD chips are optimized for inference?\n\nI remember that being a keyword during MI300X release. Maybe that will give its chip a better market share.",
+          "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6pgvdi/",
+          "created": 1717291362,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l6podyh",
+          "score": 3,
+          "body": "I think they were talking about inference and cost performance ratio. \n\nMoney is in training and the reason why NVidia can charge such high premiums for their chip. AMD will not be able to charge high margins for inference applications and as soon as they try their cost to performance will go down.",
+          "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6podyh/",
+          "created": 1717294803,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l6qkqou",
+          "score": 1,
+          "body": "Qualcomm has entered the chat.  They have the only chip that meets win11 copilot's 40TOPS afaik.",
+          "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6qkqou/",
+          "created": 1717313035,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l6segp1",
+          "score": 1,
+          "body": "Better compared to Hopper, not Blackwell. Microsoft comments are not indicative of a broader market trend tbh",
+          "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6segp1/",
+          "created": 1717347450,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6oa92d",
+      "score": 4,
+      "body": "Wait for gen 2 of their ai chips",
+      "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6oa92d/",
+      "created": 1717273730,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6ob50a",
+          "score": 1,
+          "body": "Next-Gen MI400 is expected in 2025.\n\nFor shorter terms (like before the election cycle is over), I was thinking if I should reposition.\n\nFeels like massive headwind ahead if JPow goes hawkish/inflation stays blazing hot.",
+          "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6ob50a/",
+          "created": 1717274070,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6od1m9",
+      "score": 3,
+      "body": "I think we should be able to see this f MI300X start selling.  \nOr at least i hope.",
+      "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6od1m9/",
+      "created": 1717274758,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6oflkf",
+          "score": 2,
+          "body": "> MI300X\n\nMaybe. AMD has struck deal to power Microsoft Azure OpenAI.\n\nNot sure if that was reflected in last earning call, but the street certainly didn't like it. Lisa attributed this to supply issues, but it cast doubt on the belief that MI300X could capture 7% market share.\n\nI do see potential if cuLitho Platform at $TSM delivers, but that might just benefit $NVDA even more.",
+          "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6oflkf/",
+          "created": 1717275697,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6onwxq",
+              "score": 3,
+              "body": "I think the deal with MSFT was not bad, VMs with MI300 are already available.  \nI just dont get how's possible that NVDA has backlog for years selling H100s, when MI300x have less waiting time, cost less, and are faster.  \nIf i'd be interested in those cards, to me makes no sense waiting for NVDA",
+              "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6onwxq/",
+              "created": 1717278929,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l6plred",
+      "score": 3,
+      "body": "What happened to Qcom, AVGO, INTC and AMD teaming up on building something better than CUDA by the end of the year?!? I read an article a few months back that it was going to happen.",
+      "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6plred/",
+      "created": 1717293601,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6pmypr",
+          "score": 1,
+          "body": "Sauce? I know \"Ultra Accelerator Link\" is out. Is that what you are referring to?",
+          "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6pmypr/",
+          "created": 1717294147,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6pnfmt",
+              "score": 1,
+              "body": "Let me find the sauce. I’ll be back",
+              "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6pnfmt/",
+              "created": 1717294363,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6pp6nd",
+                  "score": 1,
+                  "body": "Sorry bro I can’t find it. It’s not the UALink. They were going to team up to build something better than CUDA.",
+                  "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6pp6nd/",
+                  "created": 1717295174,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l6ouqan",
+      "score": 2,
+      "body": "The next FOMC will FOMO a HIKE",
+      "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6ouqan/",
+      "created": 1717281729,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6pz0to",
+      "score": 2,
+      "body": "I think it's a decent covered call play if you sell something far otm and think of it as like a limit sell order.",
+      "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6pz0to/",
+      "created": 1717299878,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6pjt3n",
+      "score": 1,
+      "body": "Ryzen 9000x is just around the corner, and the next gen ai chips in august. It should go up a bit, then will probably level off for a while",
+      "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6pjt3n/",
+      "created": 1717292720,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6rexwp",
+          "score": 3,
+          "body": "> Ryzen 9000x is just around the corner\n\nMore than price in. If it's anything but absolutely great, the stock will fall.",
+          "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6rexwp/",
+          "created": 1717333172,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6rqc9m",
+              "score": 1,
+              "body": "It'll still rise speculatively in the run up. Also the current gen is literally the best caches on the market at the moment, and the 9x series is going to combine that with higher than threadripper single core speeds and a higher power efficiency. Unless intel bring out something serious good, I don't see how it can be anything but exceptional.",
+              "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6rqc9m/",
+              "created": 1717338192,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l6pmn7z",
+          "score": 1,
+          "body": "> Ryzen 9000x is just around the corner\n\nSomeone said Computex over the next week. Jensen is gonna do the speech tomorrow at 7 AM ET though.\n\n> the next gen ai chips in august\n\nSauce? I read it's gonna be '25.",
+          "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6pmn7z/",
+          "created": 1717294001,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6ox8ma",
+      "score": 0,
+      "body": "AMD is valued on hopes and dreams of AI supply they aren't providing, being ran up alongside semiconductors due to NVDIA, over valued here.  Its a long term short with its 241 PE",
+      "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6ox8ma/",
+      "created": 1717282773,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6o95bo",
+      "score": 1,
+      "body": "Also ready priced in bank valuation",
+      "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6o95bo/",
+      "created": 1717273304,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6qneo2",
+      "score": 1,
+      "body": "I was holding for two months, bought at 212. Sold a week ago and bought NVIDIA, made some of the losses back and cashed out. Net negative but at least not as much. Fuck that company and their gay ass stock",
+      "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6qneo2/",
+      "created": 1717314982,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6oisb6",
+      "score": 0,
+      "body": "There is some event this wknd for semis. Should be up next wk.",
+      "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6oisb6/",
+      "created": 1717276905,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6oqkjg",
+          "score": 4,
+          "body": "Yup. Lisa will speak on June 2nd 9PM ET, at Taipei Nangang Exhibition Center.\n\nThere appears to be some momentum in the stock since May 1st, and we will see how that goes.",
+          "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6oqkjg/",
+          "created": 1717280008,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6q16rc",
+      "score": 0,
+      "body": "I think there's some hope with this computex for a short term small bump but I think it will trade with the market until the next earnings call in general. And in that earnings call, AMD investors will hope that AMD says some good things about their MI300x revenue for the rest of the year. \n\nIt would be nice if AMD's other segments could start making money again, like their xilinx stuff but AMD has indicated a gradual recovery for that in second half. Gaming seems to be in the toilet for the current quarter as AMD said they expected it to be even lower than last quarter.\n\nSo for the upcoming earnings we can hope that AMD's cpu laptop sales continue to increase and their is some bump from these so called AI PCs being touted these days. And then of course that AMD raises MI300x guidance again. I have some deep in the money calls expiring in Nov so I'm hoping for some good news before then.",
+      "permalink": "/r/wallstreetbets/comments/1d5vscj/any_tailwind_in_sight_for_amd/l6q16rc/",
+      "created": 1717301006,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

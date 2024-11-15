@@ -1,0 +1,1612 @@
+{
+  "title": "How did the best and most intelligent investors on earth miss out on Nvidia? ",
+  "score": 418,
+  "selftext": "Nvidia and Jensen Huang have been talking about AI for almost two decades, granted it was mostly vaporware but there were many futurists and academicians who have recognized its promise as early as the 1980s/90s, if not before. NVDA the stock itself languished for many years without any major movement, it was in the low $100s as late as October 2022, it was $50 in 2020. \n\nHow many of the big name investors and fund managers with massive research budgets and resources miss out on its potential and are now chasing it all costs? How many of those funds had it as a major holding for the last 5 or 10 years? ",
+  "link_flair_text": "Discussion",
+  "id": "1d0qw6v",
+  "num_comments": 287,
+  "created_utc": 1716688080,
+  "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/",
+  "comments": [
+    {
+      "id": "l5ouyc4",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 10 | **First Seen In WSB** | 4 years ago\n**Total Comments** | 3050 | **Previous Best DD** | \n**Account Age** | 11 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5ouyc4/",
+      "created": 1716688085,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5oxifr",
+      "score": 592,
+      "body": "It’s largely driven by OpenAI’s breakthroughs with LLMs. Now it’s been known a long time (about a decade) that GPUs are really good at training and running AI models, but nobody predicted the absolutely gigantic models that would be used for running modern LLMs, and the GPUs needed to run/train them.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5oxifr/",
+      "created": 1716689313,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l5p83m1",
+          "score": 111,
+          "body": "Right, gemini, claude, gpt all run on the same math, transformers. The only way to differentiate in this competition is via computing power, and for that, they need to throw a lot of money into hardware.",
+          "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5p83m1/",
+          "created": 1716694603,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l5pld8s",
+              "score": 35,
+              "body": "Agreed on the general compute scaling/spendy point but  mentioning Claude and Gemini doesn't support the above comment's point about a need for GPUs: Anthropic, Google don't train/run inference on GPUs.",
+              "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5pld8s/",
+              "created": 1716702732,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l5qbjic",
+                  "score": 20,
+                  "body": "Right, but Google is in a class of its own when it comes to AI compute spending. Their TPUs individually don’t come close to Nvidia GPUs, but the sheer volume of ASICs makes up for it.\n\nI believe they still also buy *some* GPUs from Nvidia for training, too. Just not as many.",
+                  "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5qbjic/",
+                  "created": 1716722294,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l5qc3p8",
+                      "score": 11,
+                      "body": "Yeah, the individual performance is completely irrelevant (when you are running across 10,000s of accelerators anyway) - all that matters is the performance of the overall pod (which is basically a function of interconnect bandwidth) and the performance/watt - which they crush it on.\n\nThey buy Nvidia GPUs to sell compute through GCP but I don't think any significant internal workloads run on them, Anthropic probably still do a bit on GPUs though as they moved onto TPUs more recently.",
+                      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5qc3p8/",
+                      "created": 1716722656,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l5qcjpf",
+                          "score": 5,
+                          "body": "Going to be interesting if the Blackwell shakes things up a bit.",
+                          "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5qcjpf/",
+                          "created": 1716722943,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l5qdvzs",
+                              "score": 10,
+                              "body": "I doubt it, even if it did close the performance gap (very unlikely) the TCO gap is going to remain absolutely massive. Just like in the crypto space, once a workload goes to ASICs it doesn't come back to a better general products.\n\nThe big open question is really how long it takes the other hyperscalers to get competitive ASICs and the answer is certainly long enough that Nvidia easily sells every single Blackwell GPU at great marins, they have nothing to worry about in the short term.",
+                              "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5qdvzs/",
+                              "created": 1716723777,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l5qe0rr",
+                                  "score": 5,
+                                  "body": "Great points. Thank you for the insights.",
+                                  "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5qe0rr/",
+                                  "created": 1716723857,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "l5qhsfz",
+                              "score": 4,
+                              "body": "TPU and ASIC are 1-2 orders of magnitude more energy efficient than a GPU. That's why every major player is building custom AI hardware.",
+                              "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5qhsfz/",
+                              "created": 1716726017,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l5ql4xu",
+          "score": 17,
+          "body": "I recently read a book called AI Superpowers that was written in 2014 and it talked about NVIDIA and the value of their chips well before OpenAI. We’ve known about the need for large data sets for over a decade, saying it is all due to OpenAI is giving them way too much credit.",
+          "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5ql4xu/",
+          "created": 1716727795,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l5p0a3j",
+          "score": 52,
+          "body": "Yes, read about a studio boss, who was already in the planning stage for a new animations studio and then was presented with an demonstration, what AI was able to do and scrapped the plan on the spot. Obviously some expectations may still be overhyped, but the potential just broke into the light of the public with Open AI and it was a shock.",
+          "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5p0a3j/",
+          "created": 1716690662,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l5p7qnb",
+              "score": 18,
+              "body": "I believe that was Tyler Perry.",
+              "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5p7qnb/",
+              "created": 1716694404,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l5p8dxk",
+                  "score": 16,
+                  "body": "U mean Madea",
+                  "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5p8dxk/",
+                  "created": 1716694759,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l5pzis1",
+                      "score": 4,
+                      "body": "No u mean",
+                      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5pzis1/",
+                      "created": 1716713277,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l5qd7hx",
+                          "score": 3,
+                          "body": "I aint havin none that round here",
+                          "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5qd7hx/",
+                          "created": 1716723359,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "l5qmiq0",
+                  "score": 7,
+                  "body": "Yeh, and he was about to spend a billion $ on new, physical sound stages. Saw the AI video demo and scrapped the new construction.",
+                  "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5qmiq0/",
+                  "created": 1716728488,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l5q0fwx",
+          "score": 18,
+          "body": "and on top of this there obviously also another hype component to all of this.\n\nEverything is AI or needs to be AI or needs to say AI on the packaging no matter how stupid the application is.\n\nNvidia is the one actually making bank here on that front as long as the hype continues, once it dries up the big datacenters will already have all the hardware they need for a while and unless Nvidia makes massive improvements to energy efficiency theres no incentive for them to upgrade later on.",
+          "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5q0fwx/",
+          "created": 1716713985,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l5qok3h",
+          "score": 7,
+          "body": "This precisely; if you watch the older terminator flicks vs genesis. You’d notice that the original flicks focused on hardware based neural networks which used multi core processors in modularity grid. Which back in the day was defacto way of doing Ai at the time.\n\nBut the new flick captures the cut over to new Ai very well in that it’s software that mimics language and body language.\n\nThe screen writes have done an amazing job conveying that idea too in the films in between the old and new with terminator 3 directly saying skynet is software not hardware.\n\nNVDA has captured the market in hardware by building out a firmware ecosystem that made it easier for software developers to use. This was a battle and Amd was also in the race for but lost out due to what appears to be self sabotage.",
+          "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5qok3h/",
+          "created": 1716729434,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l5qzxyf",
+          "score": 3,
+          "body": "Exactly that. We were all looking at Intel and AMD in the 2010s, till 21 almost, maybe? NVDA was propelled by the democratization of AI thanks to LLMs. Anything before that was industries having access to AI—hence the boom of “data science” starting in 2016-7 to 21-22. But everyone and every industry being possibly affected by AI individually thanks to LLMs, now that was the game changer. \n\nI frankly could not have predicted back in 2017 that those stupid language models would be used to do that. We were too focused on vision AI back then, and there’s little reason anyone but industry would have a real use for it.",
+          "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5qzxyf/",
+          "created": 1716734272,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l5t1ddv",
+              "score": 2,
+              "body": "It's still early in the AI race.   Both Intel and AMD still has time to catch up to Nvidia.   For that matter - custom chips from Microsoft, Google, Amazon, or Apple could also prevail too in the end of this race.",
+              "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5t1ddv/",
+              "created": 1716762831,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l5pbg78",
+      "score": 297,
+      "body": "Hindsight is always 20/20. Why didn't everyone buy BTC for $0.0009?",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5pbg78/",
+      "created": 1716696466,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l5qa5zs",
+          "score": 54,
+          "body": "buy and hold for 7 years plus",
+          "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5qa5zs/",
+          "created": 1716721373,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l5qagx2",
+              "score": 32,
+              "body": "I did that with doge.\n\nThat is spend 200k doge on buying games which I still have.\n\nI didn't keep any doge.",
+              "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5qagx2/",
+              "created": 1716721581,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l5qlfo5",
+              "score": 4,
+              "body": "Bought 2016. Lost a 6 digit number cause I let it on exchanges. FML. Didn't invested much this time but it would be life-changing money.",
+              "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5qlfo5/",
+              "created": 1716727945,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l5qg2k3",
+          "score": 12,
+          "body": "No, this is different though and it shows the inefficiency of capital.\n\nBitcoin is purely speculative. I miss the Nvidia run up because literally nothing fucking changed. More or less this is the problem with investing in index funds because you’re just pumping money blindly in the sectors.\n\nIt’s a bunch of people with money that don’t actually have any real vision and they just play the spread",
+          "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5qg2k3/",
+          "created": 1716725048,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l5oxon9",
+      "score": 145,
+      "body": "Get in the Time Machine and go back 6-8 months. Everyone was calling nvda a dog with fleas. I’m going to frame a message a friend sent me saying it’s time to sell nvda.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5oxon9/",
+      "created": 1716689398,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l5pqyx5",
+          "score": 40,
+          "body": "Yeah, just before ChatGPT hit, I was seeing these takes everywhere:\n\nChips are a cyclical commodity, sell chip stocks, chip stocks are going back to 2020 lows, etc.",
+          "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5pqyx5/",
+          "created": 1716706748,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l5qf7dn",
+              "score": 15,
+              "body": "[deleted]",
+              "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5qf7dn/",
+              "created": 1716724548,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l5qaa7a",
+              "score": 3,
+              "body": "I am extra regarded and listened to this sub and sold 20 shares at $375 losing about 1k because everyone said NVDA wasn’t worth even that much and would crash soon 🤓",
+              "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5qaa7a/",
+              "created": 1716721455,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l5qh01n",
+                  "score": 5,
+                  "body": "Never listen to this sub. It’s mostly LARPers.",
+                  "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5qh01n/",
+                  "created": 1716725577,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l5pqaue",
+          "score": 6,
+          "body": "i dont see how its any different now.",
+          "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5pqaue/",
+          "created": 1716706256,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l5p1mrp",
+      "score": 61,
+      "body": "i bought shares average around $170 and sold around $300 like an ignorant idiot. thought it was just a trade not a long hold. also did similar, missing the 2017 rally.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5p1mrp/",
+      "created": 1716691324,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l5qg2nm",
+          "score": 34,
+          "body": "Us humans are a funny bunch. We can nearly double our money without lifting a finger, but still feel down because we didn't predict that we could've 7x our money.",
+          "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5qg2nm/",
+          "created": 1716725049,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l5uh06h",
+              "score": 5,
+              "body": "It’s because greed exist. It’s never enough. You can give someone $1M tomorrow and they’ll still want more because it’s not enough to buy the mansion, multiple sports cars, the yacht, and private jet. List goes on and on.",
+              "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5uh06h/",
+              "created": 1716787811,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l5uh0p0",
+                  "score": 2,
+                  "body": "Of course I want more. I already have all those things.",
+                  "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5uh0p0/",
+                  "created": 1716787820,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l5pb606",
+          "score": 19,
+          "body": "I did the same at 200 and sold at 400 cause I thought it was overpriced and would drop back down",
+          "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5pb606/",
+          "created": 1716696302,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l5tmkfx",
+              "score": 3,
+              "body": "Least you took profit. 400 is where I started shorting from scratch.",
+              "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5tmkfx/",
+              "created": 1716772337,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l5pfu3r",
+          "score": 8,
+          "body": "I wanted to pay down credit debt so I sold all of mine ☹️",
+          "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5pfu3r/",
+          "created": 1716699093,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l5rczfj",
+              "score": 12,
+              "body": "Dude, I know this is wsb but getting your head above water is an achievement.",
+              "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5rczfj/",
+              "created": 1716739276,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l5qj4z7",
+          "score": 2,
+          "body": "Similar for me. I bought 25 shares at round 180 when I heard crypto miners were buying all those cards. When it hit 240 I sold thinking I was a genius. I did end up buying back in at around 400 and when my value doubled I sold off some to recoup my original investment thinking I don't care what it does at this point as it's not my money. In hindsight it wasn't a savvy move.",
+          "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5qj4z7/",
+          "created": 1716726751,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l5p3d93",
+      "score": 348,
+      "body": "just listen to what you said. Jensen has been talking about nvda for over 20 years. So invest in nvda 20 years ago and expect AI to pop 20 years later? NVDA was known for gaming graphics cards first. then bitcoin mining. now it's known for AI after OpenAI blew people away with ChatGPT3.  Yeah, 20 years ago, a \"intelligent investor\" would have predicted LLMs. JFC",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5p3d93/",
+      "created": 1716692186,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l5pczg1",
+          "score": 161,
+          "body": "The power of hindsight is incredible. Give me a historical stock chart and I’ll be the best trader ever.",
+          "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5pczg1/",
+          "created": 1716697367,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l5pjize",
+          "score": 54,
+          "body": "Ya… I mean NVDA almost went bankrupt 2 times before this all happened",
+          "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5pjize/",
+          "created": 1716701487,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l5q638a",
+              "score": 8,
+              "body": "Third time is the charm",
+              "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5q638a/",
+              "created": 1716718411,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l5ptmff",
+          "score": 32,
+          "body": "Doesn't matter, ChatGPT3 and 4 were already priced in 20 years ago.",
+          "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5ptmff/",
+          "created": 1716708725,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l5qu7te",
+          "score": 4,
+          "body": "The AI breakthrough really started 10 years ago with Alexnet which smart people could have seen as the watershed moment.",
+          "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5qu7te/",
+          "created": 1716731923,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l5scx1p",
+          "score": 3,
+          "body": "Mods? Can we lynch eh Merrill Lynch OP on the pole for being a massive AI.diot? ",
+          "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5scx1p/",
+          "created": 1716752975,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l5ox9qy",
+      "score": 76,
+      "body": "I don't recall any \"futurist\" picking 2023 as the start of the AI hyper bubble, but I may have \"missed\" it.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5ox9qy/",
+      "created": 1716689197,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l5pyoxb",
+          "score": 4,
+          "body": "Nope, I worked for an event who had a top AI researched talking about OpenAI right after ChatGPT.\n\nThe community was shocked, they felt the change would take longer with different steps.\n\nThis was like an immediate shift that changed things so quickly, not even the researchers understand how Frankenstein's monster operates.\n\nCompletely caught that entire field by surprise",
+          "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5pyoxb/",
+          "created": 1716712638,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l5qfh8l",
+              "score": 2,
+              "body": "> This was like an immediate shift that changed things so quickly, not even the researchers understand how Frankenstein's monster operates.\n\nYou mean they didn't understand it then, or do they still not understand it?",
+              "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5qfh8l/",
+              "created": 1716724706,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l5ow9kb",
+      "score": 19,
+      "body": "Expectations were already priced in",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5ow9kb/",
+      "created": 1716688711,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5owt7g",
+      "score": 16,
+      "body": "The funds are in the position they're in, and you're in the position you're in.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5owt7g/",
+      "created": 1716688974,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5oxy5l",
+      "score": 36,
+      "body": "We are at the start of a bubble. All it takes is for one kid in his basement to create a Geth or Fijukkoma A.I. using some strange liquid. And Nvida will go to $10 because everyone will know it's over. \n\n\nWe are in the stage where Netflix just came out, and Blockbuster thinks physical media is still going to be king.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5oxy5l/",
+      "created": 1716689525,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l5p0yoh",
+          "score": 27,
+          "body": "This is a great point. Nvidia has the advantage of lack of competition. That won't last forever.",
+          "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5p0yoh/",
+          "created": 1716690998,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l5p2z87",
+              "score": 19,
+              "body": "Lack of competition, but also first to absolutely saturate the market. What happens once the biggest data centers are setup; they’re not going to be upgraded every year like consumer cellphones. This is why Amazon is skipping a generation on their massive order.",
+              "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5p2z87/",
+              "created": 1716691990,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l5p4lui",
+                  "score": 18,
+                  "body": "This is not at all why AMZN is \"skipping a generation\".  They're going with Blackwell on a specific project that they are partnered with NVDA on, and both parties decided to go with Blackwell on that project for whatever their reasons were, but it has nothing to do with Amazon upgrade cycles.",
+                  "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5p4lui/",
+                  "created": 1716692790,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l5p4hc9",
+                  "score": 6,
+                  "body": "Tbh idk the life cycle of that hardware. If I had to guess 3 - 5 years. My point was that it's likely Nvidia will have more competition in the future and lose that advantage over time.",
+                  "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5p4hc9/",
+                  "created": 1716692729,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l5p6xic",
+                      "score": 2,
+                      "body": "Yeah I agree with your point and am saying in addition to. 👍🏼",
+                      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5p6xic/",
+                      "created": 1716693975,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "l5pnvwu",
+                  "score": 7,
+                  "body": "Except that they will because people want the fastest GPUs to train their models to get their AI products out first. First mover advantage is pretty important with software. OpenAI caught Google with their pants down and now they're embarrassing themselves with blunders.",
+                  "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5pnvwu/",
+                  "created": 1716704494,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l5puhqd",
+          "score": 3,
+          "body": "Computing will always be in demand, if it goes to $10 it will happen very very slow.",
+          "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5puhqd/",
+          "created": 1716709389,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l5pvhms",
+              "score": 2,
+              "body": "I just picked a random number.",
+              "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5pvhms/",
+              "created": 1716710161,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l5pw19p",
+                  "score": 2,
+                  "body": "Sure, my point stands, it will not lose value over night.",
+                  "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5pw19p/",
+                  "created": 1716710580,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l5p9lld",
+      "score": 25,
+      "body": "\\> Jensen Huang have been talking about AI for almost two decades\n\n\n\\> it was mostly vaporware\n\n\n\\> How many of the big name investors miss out on its potential\n\n\nI think you missed the fact that it only recently had potential",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5p9lld/",
+      "created": 1716695423,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5ovwjc",
+      "score": 20,
+      "body": "![img](emote|t5_2th52|4260)![img](emote|t5_2th52|4267)",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5ovwjc/",
+      "created": 1716688537,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5p9bue",
+      "score": 11,
+      "body": "Open AI chatgpt changed the game. It even caught Google off guard and every company is playing catch-up to have their own in-house chatgpt. No one knew shit until open AI opened up about it and it turned out Nvidia GPUs is the only reason why the models can even work in the first place.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5p9bue/",
+      "created": 1716695274,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5p0f5i",
+      "score": 21,
+      "body": "The same way I missed Amazon doing 10x or more a decade ago. I don’t like overpaying and hoping that a greater fool will buy after me.\n\nIs NVIDIA worth 2x more than Apple? It sure feel like it. Time will tell though.\n\nRemember when Tesla was going to be $2500 to $5000? And it was bigger than all other car manufacturers, all included. Look where it’s at now.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5p0f5i/",
+      "created": 1716690731,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l5p8om8",
+          "score": 21,
+          "body": "TSLA is around $3000 now, split adjusted 15:1",
+          "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5p8om8/",
+          "created": 1716694921,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l5paefy",
+              "score": 8,
+              "body": "Those estimates were post split.\n\nApril 2023 - Cathy Wood predicted Tesla at $2000 in 5 years.\n\nEven post split, aug 2022, all of these would be Tesla at around $1000. When TSLA went up like a rocket, every one was expecting TSLA to continue like a rocket.",
+              "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5paefy/",
+              "created": 1716695869,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l5pd1jd",
+      "score": 5,
+      "body": "Because it always looked over priced. Knowing too much can be a detriment. This is usually why economists are bad at investing as the economy looks like it's going to collapse all the time.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5pd1jd/",
+      "created": 1716697401,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5pejrj",
+      "score": 5,
+      "body": "I bought in at $65 and some change in 2018 cause some random dude at work told me to 😬",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5pejrj/",
+      "created": 1716698299,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5pjejs",
+      "score": 2,
+      "body": "Dude, sometime in 2002 it was only .72 cents a share… back when they were  basically a video game graphic accelerator company.  I played a lot of video games back then so I wish I had invested then.  $1000 back then would have grown to nearly $1.5 million.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5pjejs/",
+      "created": 1716701404,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5ppbkh",
+      "score": 4,
+      "body": "People thought graphics cards were just for video games, then they became good for crypto, but still cyclical.\n\nNow it looks like we'll be scaling up to a data center on every block, pumping compute until we hit some hard limits with energy and cooling and materials. \n\nWe're already using crazy compute to generate shitty people with bad hands. Now imagine scaling Sora so everyone can generate HD video on the fly, or 3D/VR realtime.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5ppbkh/",
+      "created": 1716705532,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5q0u51",
+      "score": 6,
+      "body": "what you mean? i didn't.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5q0u51/",
+      "created": 1716714295,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5qw5pu",
+      "score": 4,
+      "body": "Bought NVDA for $8 per share in 2008 pre split. Then when I wanted to buy a house, I almost sold NVDA but decided to hold them and sold AAPL instead. Best financial investment decision ever. However, it was not because I'm an intelligent investor. Just happened to be the portfolio decision that I made at the time.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5qw5pu/",
+      "created": 1716732738,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5oy57f",
+      "score": 34,
+      "body": "[deleted]",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5oy57f/",
+      "created": 1716689619,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l5p9ax7",
+          "score": 8,
+          "body": ">According to some psychiatrist (can’t remember where I saw this) it’s like impossible to understand someone +-20 iq points of you.\n\nNot true. Far more difficult, but not impossible. Incredibly frustrating tho. Feels like being the only human in a pasture full of cattle.",
+          "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5p9ax7/",
+          "created": 1716695260,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l5pxvhd",
+              "score": 9,
+              "body": "r/iamverysmart ![img](emote|t5_2th52|4271)",
+              "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5pxvhd/",
+              "created": 1716712001,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l5p14ek",
+          "score": 11,
+          "body": "That second to last paragraph sounds like -20 talk",
+          "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5p14ek/",
+          "created": 1716691078,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l5p0ex0",
+          "score": 8,
+          "body": "Bro's salty he didn't invest earlier. Also learn how to read financial reports next time regard",
+          "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5p0ex0/",
+          "created": 1716690728,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l5oygjw",
+      "score": 3,
+      "body": "I didn't.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5oygjw/",
+      "created": 1716689770,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5p0ll7",
+      "score": 3,
+      "body": "I didn’t",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5p0ll7/",
+      "created": 1716690820,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5q11av",
+      "score": 3,
+      "body": "Who are these best and most intelligent investors? Nancy Pelosi didn’t miss",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5q11av/",
+      "created": 1716714455,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5q2gw8",
+      "score": 3,
+      "body": "I predicted it somewhat lol. I am working on machine learning models and programming day-to-day (not researcher just analyst who uses code as a tool) and I wanted to go all-in at 200$ but I my pocket were empty after I tried to short everything else lmaooo",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5q2gw8/",
+      "created": 1716715580,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5seoxz",
+      "score": 3,
+      "body": "Keep in mind I say this as someone who was not a trader or investor back then. I only started trading in '21 with all the Gamestop bullshit. \n\nIn the gaming space, ai was kind of known about for a while and the potential it had. But no one knew how it would be applied. I never heard businesses talk about it. I guess because they didn't think it could make them money so they didn't care. Outside of a company like Deepmind maybe. \n\nDeepmind created an ai that would play what some people consider to be the hardest games. They did starcraft, go, and a few others. And it became exceptionally good very quickly. And then it beat the best humans in the world. When this was released exactly isn't clear, but it was early to mid 2010s when I started hearing about it. \n\nThen nvidia released the rtx cards, which used ai to do real time ray tracing. Something previously thought impossible because of the calculations required. This came out in 2020.\n\nAnd still there was no mainstream appeal.\n\nOpen AI releases chat gpt. This is in 2022. End of 2022 but still. It's now a global phenomenon. If you weren't making investments into ai at this point, I'm not sure what else to say.\n\nI say all this with the belief at the time that I didn't have any special knowledge. Deepmind was cool, but impractical because of how long it took them to design it for these specific tasks. Nvidias rtx cards were a massive push, and really made ai practical and applicable to real world use cases in tech. Chat gpt brought all that to consumers. Now everyone had access to this powerful tool.\n\n2022 was a shit year for stocks. But the chat gpt launch did coincide with the market recovery. Whether that's coincidence or not I can't say.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5seoxz/",
+      "created": 1716753662,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5thfvz",
+      "score": 3,
+      "body": "I’ve been balls deep since 2014, it’s currently my retirement stock, Kramer can eat a dick.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5thfvz/",
+      "created": 1716770020,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5peznr",
+      "score": 6,
+      "body": "Simple answer \n\nThe valuation is based on mania and growth that has peaked. \n\nIt can not grow the way it has in the past because of capacity. \n\nAny company no matter how amazing eventually hits a capacity in production and margin. \n\nWhen you have a mass of people riding a One stock train it’s easy to miss the boat because you think it’s already full and peaked \n\nMichael burry got it right on the crash of 2008 but got it wrong on Tesla \n\nDavid einhorn got it right on kurig and wrong on his next few big ones \n\nCathy wood is a genius who hit amazing returns and has been dead money ever since \n\nNvidia will do well because of the stock split and afterwards some will sell half there position and others who never owned it will buy \n\nThis building a stable price range between 900-1100 current price \n\nI admit I missed the boat on Nvidia because tragically I missed the psychology of the AI mania because the profit and practical applications just do not exist yet for that kind of sustainable driver \n\nHowever I totally wish I wouldn’t gone into Nvidia at any time prior to earnings and it would have been a home run. \n\nThat best thing about the market is we earn or lose what we deserve in real time. \n\nLooking for the next opportunity is what is now a brutally tough market to trade in 🚀",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5peznr/",
+      "created": 1716698568,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5pn1h0",
+      "score": 4,
+      "body": "There are enough investors that made money along the way with Nvidia. Your question could be ask now for Tesla, if autonomous driving actually becomes a thing it would be groundbreaking. Or spatial computing. I’m sure there is also a pharma company working on a cure for cancer. Are you invested?\n\nYou’re basically asking why did people not invest in moonshots.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5pn1h0/",
+      "created": 1716703892,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5p77c5",
+      "score": 8,
+      "body": "Nvidia was like 60 bucks back in winter of 2016. I told all of my cousins who were in Bay Area. No one bought it because “ we know more about west coast tech companies”. They all tell me about their fuck up every time we meet. I did buy but sold at 120 lol.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5p77c5/",
+      "created": 1716694118,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5p7167",
+      "score": 3,
+      "body": "Thinking investing has anything to do with intelligence was your first mistake.\n\nInvesting is about luck and patience. The only way to be more intelligent than someone else is to have insider info which is illegal (unless you’re rich enough for it not to be… or in congress).",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5p7167/",
+      "created": 1716694028,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5q58yt",
+      "score": 4,
+      "body": "I had Nvidia in early 2000, around 30$? Held for a years and it didn't really go anywhere. Sold it. Fml",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5q58yt/",
+      "created": 1716717764,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5pa63m",
+      "score": 2,
+      "body": "Because they're contrarians or 🌈 🐻 s",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5pa63m/",
+      "created": 1716695739,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5pae6c",
+      "score": 2,
+      "body": "Because they're not gambling on speculative stock growth, they're collecting dividends from CURRENTLY highly profitable companies.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5pae6c/",
+      "created": 1716695864,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5pfi67",
+      "score": 2,
+      "body": "Missed another  rise to1k  Deckers Outdoor.  They just sell shoes",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5pfi67/",
+      "created": 1716698888,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5ph1ba",
+      "score": 2,
+      "body": "Stanley Druckenmiller loaded a boatload.\n\nThe best.\n\nDidn’t miss.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5ph1ba/",
+      "created": 1716699855,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5qfjs4",
+      "score": 2,
+      "body": "If you look at the largest shareholders of NVDA the only conclusion any not completely regarded could make is the didn’t miss out.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5qfjs4/",
+      "created": 1716724748,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5qkhbz",
+      "score": 2,
+      "body": "Because all those fuckers told me it was still overvalued at $120",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5qkhbz/",
+      "created": 1716727456,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5ql7ou",
+      "score": 2,
+      "body": "[deleted]",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5ql7ou/",
+      "created": 1716727834,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5qpyfx",
+      "score": 2,
+      "body": "Because they're also regarded glorfied day traders just on a bigger scale with quant teams that had a few lucky picks that made them big and now they sit and try to make 10% a year with 0 risk.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5qpyfx/",
+      "created": 1716730058,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5qwdu4",
+      "score": 2,
+      "body": "I think it’s true analysts and brokerages have access to all the info and can trade from a greatly advantageous position, but they are at the end of the day just money and salesmen. Most lack any sort of skill set and or in depth industry knowledge \n\nI saw this with the GLP1 crazy and me speaking with colleague physicians and talking to our finance buddies. It became clear to the docs 1-2 years ago LLY and NVO were massively undervalued based on our own experience prescribing the meds, their efficacy and the lengths patients would go to get and pay for them. When we spoke to finance buddies about this they kind of shrugged at what we thought the companies could make before profits. I remember being laughed when I said both would be trillion dollar companies. (I posted this here on wsb last year as well)\n\nIn the end they invested but everyone who bought LLY sub 350 was a doctor or in medicine. \n\nI’m guessing the same holds for NVDA. People working on chips and AI likely had an idea but the finance bros were a bit late on this because honestly most of them don’t really know.\n\nFor what it’s worth I think Amgen may be worth a flier based on their once a month drug, but the next gen drugs from NVO (cagrisema) and LLY (retratrutride) will dominate.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5qwdu4/",
+      "created": 1716732830,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l5rm34w",
+          "score": 2,
+          "body": "That’s why I believe in Peter Lynch’s mantra of “buy what you know”.  You can see better how the market is flowing in your neck of the woods and invest in what you think is going to be the next game-changer before fund managers will.",
+          "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5rm34w/",
+          "created": 1716742708,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l5r6iz3",
+      "score": 2,
+      "body": "https://preview.redd.it/lxcei2tyfs2d1.jpeg?width=1290&format=pjpg&auto=webp&s=4153c4d7c95c2411f2ed900e1c6dab14a4edb2ff\n\nAm I a joke to you?",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5r6iz3/",
+      "created": 1716736833,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5rcbki",
+      "score": 2,
+      "body": "NVDA would be worth less than half what it is right now if we never had the 100 megaton fiscal and monetary stimulus  that happened during covid.\n\n\nTrillions of dollars shoved directly or indirectly into the US stock market over a period of 2 years, all chasing the hot companies.\n\n\nIn addition, the fed was supposed to be tightening conditions over the past year, but they havent been:\n\n\nhttps://fred.stlouisfed.org/series/NFCI\n\n\n\nSo i think thats probably why a lot of big players are trying to play catch up which only pushes its valuation higher.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5rcbki/",
+      "created": 1716739024,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5rkddy",
+      "score": 2,
+      "body": "Nvidia is gonna get some people HURT",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5rkddy/",
+      "created": 1716742071,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5ubwbb",
+      "score": 2,
+      "body": "I bought Nvidia as a graphics card manufacturer, then briefly for Bitcoin mining, but I never saw AI on GPUs coming. I really hate to use this overused phrase but, we are still early. Holding since $91",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5ubwbb/",
+      "created": 1716784706,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5p720r",
+      "score": 2,
+      "body": "ChatGPT shocked everyone including OpenAI. Even after its release it wasn't obvious that so many companies would want to train their own models and use gpus as opposed to other options (e.g. tpus)",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5p720r/",
+      "created": 1716694041,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5ptwea",
+      "score": 4,
+      "body": "Who the hell are you talking about? Druckenmiller, Cohen, PTJ, etc. all caught it.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5ptwea/",
+      "created": 1716708937,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5q36ni",
+      "score": 4,
+      "body": "Everyone, including tech giants, were surprised by performance of GPT3.\n\nApple with Siri, Amazon with Alexa, Google with their voice assistant, top tech companies in the world had their products become obsolete basically overnight. If they didn't see it coming despite hiring ML and NLP experts themselves, I can't expect that people in finance outside of tech communities could see this coming.\n\nThis was simply truly shocking and unexpected breakthrough.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5q36ni/",
+      "created": 1716716145,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5pjrjo",
+      "score": 4,
+      "body": "Look at financial leadership: its full of old MBA graduates. Thu are used to benefit from insider trading or faking security baskets safety, not from actually predicting the market, let alone with something futuristic.\n\n\nTldr: fund managers are old and dumb ",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5pjrjo/",
+      "created": 1716701649,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l5pjs4i",
+          "score": 4,
+          "body": "I, for one, welcome our elderly overlords and their prudent management of my vast riches.",
+          "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5pjs4i/",
+          "created": 1716701660,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l5pyc3d",
+              "score": 2,
+              "body": "VM always the smartest man in the room",
+              "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5pyc3d/",
+              "created": 1716712360,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l5p2gos",
+      "score": 6,
+      "body": "Well first off AI sucks, it gives wrong answers all the time on important shit.  So maybe they did not miss it, maybe they see it as a fad that will burn out.  The fact that it is being forced on every search does not mean it will last.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5p2gos/",
+      "created": 1716691732,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l5pnlxk",
+          "score": 3,
+          "body": "Sorry you're getting downvoted, because you have a point. Emulating a lot of dumb conversations creates artificial dumbness, not artificial intelligence. The emulation is impressive, but the intelligence is not where we need it yet. I'm not sure that the necessary breakthroughs for AI will need the kind of massive numerical processing that Nvidia's chips do better than others.",
+          "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5pnlxk/",
+          "created": 1716704297,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l5oyxw7",
+      "score": 3,
+      "body": "The best investors knew about it in the ‘80s and then had to time exactly when it would go hyperbolic 40 years in the future?",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5oyxw7/",
+      "created": 1716690004,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5p7nba",
+      "score": 1,
+      "body": "Can't predict bubble formation, can maybe predict bubble popping",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5p7nba/",
+      "created": 1716694354,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5pa60n",
+      "score": 1,
+      "body": "Shoulda coulda woulda",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5pa60n/",
+      "created": 1716695738,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5pc79v",
+      "score": 1,
+      "body": "You don't think that ALOT of intelligent investors made a ton of money on nvidia stock?",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5pc79v/",
+      "created": 1716696900,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5pg7mq",
+      "score": 1,
+      "body": "The assumption is that a GPU is the best tool given a SDI to develop a neural network based upon a learning model similar to the human brain. I don't have the arrogance to believe that NVDIA is the only way of achieving this.  Of course I don't have a PhD, and although my imagine may be big, my intelligence is small. IDK",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5pg7mq/",
+      "created": 1716699329,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5pjffc",
+      "score": 1,
+      "body": "I’m pretty sure Brad Gerstner’s fund is in at the $100/$125 level which is pretty impressive imo",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5pjffc/",
+      "created": 1716701419,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5pkf70",
+      "score": 1,
+      "body": "They’ve been talking about it for two decades?? So why didn’t u go all in on options two decades ago??",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5pkf70/",
+      "created": 1716702094,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5pp6cj",
+      "score": 1,
+      "body": "Didn't they say the same about pharma rocket and Tesla rocket?",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5pp6cj/",
+      "created": 1716705425,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5praui",
+      "score": 1,
+      "body": "Tell me right now which stock will have the highest gain and highest increase in P/E next week.\n\nApparently it's so fucking easy to predict the future take a stab at it OP.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5praui/",
+      "created": 1716706992,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5pzhe0",
+      "score": 1,
+      "body": "Just buy a damned index fund and as Nvidia makes more money it moves up the index and makes you more wealthy. Done and done. There are dozens of companies that are going to make trillions off this stuff and the best strategy is to own them all and not try to pick one winner. If AI is as big as everyone is saying the runway is long and we are in the early innings. Buy index funds that have Nvidia, Microsoft, Amazon, Google, Broadcom, Qualcomm etc and you are a winner already and no index fund investor missed Nvidia. We all own chunks of it.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5pzhe0/",
+      "created": 1716713248,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l5q8l2k",
+          "score": 3,
+          "body": "This is Wall Street bets sir",
+          "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5q8l2k/",
+          "created": 1716720257,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l5q36ah",
+      "score": 1,
+      "body": "Do you think only Nvidia and Jensen Huang are the only ones talking about AI two decades ago? There are other hundreds, if not thousands, of other companies doing the same. How are you going to know which one will succeed?\n\nIt’s the same with Facebook, same with Google, same with Apple, same with Tesla.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5q36ah/",
+      "created": 1716716137,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5q3hfu",
+      "score": 1,
+      "body": "About 10 years ago I knew GPUs would overtake CPU cause they scale better but NVIDIA stock was expensive back then. It's hard to predict which company would succeed.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5q3hfu/",
+      "created": 1716716383,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5q3mne",
+      "score": 1,
+      "body": "How did they miss Tesla? How did they not know Google, Amazon, or meta would go this high?",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5q3mne/",
+      "created": 1716716498,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5q421x",
+      "score": 1,
+      "body": "Sometimes things work, most of the times they don’t.  Way she goes",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5q421x/",
+      "created": 1716716834,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5q52d4",
+      "score": 1,
+      "body": "You obviously got the beginning of the development of time wrong, OpenAI's chatGPT only started to become popular in December 2022, not twenty years ago. Twenty years ago, Nvidia was just an accessory manufacturer looking to make a good gaming graphics card",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5q52d4/",
+      "created": 1716717622,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5q5kn1",
+      "score": 1,
+      "body": "Cause people can't tell the future. It's why you probably shouldn't give your money to active management",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5q5kn1/",
+      "created": 1716718013,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5q9kxi",
+      "score": 1,
+      "body": "I miss out on everything.....this is just normal",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5q9kxi/",
+      "created": 1716720967,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5qar4g",
+      "score": 1,
+      "body": "Somethings happen like that. Institutions can't predict everytime.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5qar4g/",
+      "created": 1716721770,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5qe3kc",
+      "score": 1,
+      "body": "I think most people brushed it off as a yet another short term trend",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5qe3kc/",
+      "created": 1716723904,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5qe4z4",
+      "score": 1,
+      "body": "Hi my name Jim cramer",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5qe4z4/",
+      "created": 1716723927,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5qkmw7",
+      "score": 1,
+      "body": "Don't be fooled, I have 200 shares.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5qkmw7/",
+      "created": 1716727537,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5ql1f7",
+      "score": 1,
+      "body": "The most intelligent ones were.\nThink about what last gave Nvidia and chip manufacturers their last boost?? Crypto 10+ years ago. Practically doubling AMD’s low numbers and pulling them out of their graves. Computing power is going to be a main resource in the future, so plenty have had these in their funds. Now the most intelligent investors “afraid of crypto” weren’t that smart as time is telling.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5ql1f7/",
+      "created": 1716727745,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5qp4c6",
+      "score": 1,
+      "body": "I was lucky enough to have an opportunity to time travel. A few friends suggested to kill baby Hitler, but I picked a time where Apple stock was ATL. Life is good now.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5qp4c6/",
+      "created": 1716729687,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5qpvzv",
+      "score": 1,
+      "body": "Because investors aren’t intelligent ![img](emote|t5_2th52|4276)",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5qpvzv/",
+      "created": 1716730027,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5qq444",
+      "score": 1,
+      "body": "Theres also the part of how much dominance Nvidia has in the space. \nInvestors contrary to popular opinion are very emotional, simple minded beings. Ofcourse they knew the AI thing that people are crazy about needs GPUs. But they assumed there'll many manufacturers of GPUs. They didnt understand the insane difficulty of designing those chips. making Nvidia uniquely capable of producing the hardware.\n\nSame thing happened with Tesla. When elec cars became popular and consumer demand shot up. Investors assumed legacy manufacturers will sink Tesla by making their own elec cars. But they were unable to produce and sell like Tesla sells. then tesla stock hit the fan.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5qq444/",
+      "created": 1716730130,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5qqdxy",
+      "score": 1,
+      "body": ">granted it was mostly vaporware\n\n  \net voila",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5qqdxy/",
+      "created": 1716730252,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5qvs0v",
+      "score": 1,
+      "body": "In the grand scheme of things, innovation for over a long time now has centered around data and handling data. So if you’re looking for some moonshots, stay within that theme and pick some companies and hope a few of them run to the moon at some point in 20 years.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5qvs0v/",
+      "created": 1716732579,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5qxk8i",
+      "score": 1,
+      "body": "There are a lot of people selling Tesla and not buying Tesla now when Autonomous driving is on the cusp of being solved and unlocking massive revenue potential. Are you buying now??",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5qxk8i/",
+      "created": 1716733310,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5qxlvf",
+      "score": 1,
+      "body": "Really it was open ai 🤖 that was tipping point and stock actually split in 2021 4-1",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5qxlvf/",
+      "created": 1716733328,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5qxpaw",
+      "score": 1,
+      "body": "I didn't start investing til october '23🙂🔫 i missed it",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5qxpaw/",
+      "created": 1716733367,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5qye87",
+      "score": 1,
+      "body": "I bought in 2016 cuz of self driving cars.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5qye87/",
+      "created": 1716733650,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5r8e2k",
+      "score": 1,
+      "body": "They didn’t, many of the big well known funds bought nvda as well as other semi companies. Druckenmiller is the most obvious example",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5r8e2k/",
+      "created": 1716737539,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5r8pnt",
+      "score": 1,
+      "body": "You just answered your own question \n> granted it was mostly vaporware",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5r8pnt/",
+      "created": 1716737664,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5r9nb3",
+      "score": 1,
+      "body": "Nvidia was just a crypto mining / gaming company until it wasn't. Until 2023, Intel had more income and revenue than Nvidia and AMD combined.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5r9nb3/",
+      "created": 1716738019,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5rcxtb",
+      "score": 1,
+      "body": "Cramer been pushing Nvidia for over a decade now…",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5rcxtb/",
+      "created": 1716739259,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5re8gj",
+      "score": 1,
+      "body": "Most didn't. They just didn't yolo into it because you don't know if it's apple or Enron. \n\nA good example is Franklin Dynatech, they have had NVDA for a long time, along with other holdings for diversity. \n\nOn the news it was taking off, that wasn't institutional investors, it's been retail regards lately chasing returns.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5re8gj/",
+      "created": 1716739754,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5rimbq",
+      "score": 1,
+      "body": "Nvidia and Jensen talking about AI for two decades? \n\nUse of Nvidia GPUs for machine learning is relatively new. \n\nNvidia original premise is of graphics processor. If you are trying to spark a debate, at least bring right facts to table.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5rimbq/",
+      "created": 1716741414,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5rocvh",
+      "score": 1,
+      "body": "A lot of times pursuing the most risk on plays is too dangerous. Could’ve nuked 50% of your value in late 22. Chance of hitting the highest returners by loading on risk, risks hitting the lowest too.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5rocvh/",
+      "created": 1716743557,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5rpiwb",
+      "score": 1,
+      "body": "I missed the boat because of OpenAI. I've been following AI technology for a long time and knew that NVIDIA was poised to take off in the future. However, at the time, it was overpriced due to high demand for GPUs. I was waiting for tech stocks and Bitcoin to drop due to interest rate hikes to get a better price. I honestly thought I had a few years before people would catch on, but then OpenAI released ChatGPT, and everyone jumped on any stock related to AI. The funny part is, my investment wouldn't have been about their GPUs. NVIDIA has some amazing AI technology for training robots in simulations.\n\nIf you haven't noticed, there are a lot of companies trying to create robots, and I don't believe anyone has superior technology for training purposes. To train anything that will operate in the physical world, you need a detailed simulation of the underlying physics. NVIDIA not only has the hardware but also the software to achieve this.\n\nI'm not claiming to be the smartest investor in the world, but I think others had similar reasoning. They're not pouring money in now because of the GPUs per se, but because of the technology necessary to train the robots that will be hitting the market in 5-8 years. Either you train your robots with their tech, or you fall behind.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5rpiwb/",
+      "created": 1716743996,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5rszds",
+      "score": 1,
+      "body": "There are so many tech companies out there who have not gone anywhere and have yet claimed similar goals. It hard to predict which companies will take off and which will not. Unlike wallstreetbets, major investment companies are not going to go all in on a whim, no matter how good of a whim they think it is.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5rszds/",
+      "created": 1716745297,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5rz98p",
+      "score": 1,
+      "body": "They didn’t. They just don’t post gain porn.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5rz98p/",
+      "created": 1716747690,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5s3s6f",
+      "score": 1,
+      "body": "Any insight on what the next NVDA might be? So I don't miss that one too!",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5s3s6f/",
+      "created": 1716749425,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5s3ywv",
+      "score": 1,
+      "body": "The question is, where do the dollars flow after the build out of NVDA chips is near complete?  The answer is the app layers",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5s3ywv/",
+      "created": 1716749498,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5scssf",
+      "score": 1,
+      "body": "Any investment banker purchasing NVIDIA 20 years ago for the reason of AI would be laughed out the door.\n\nAnd rightly so. That money would have sat doing nothing for 15 years.\n\nThe smart time to get in was about 5 years ago. And that is exactly when the institutional money started pouring in, primarily due to the COVID surge in semiconductor demand. Not exactly AI, but directly related as the GPU farms that were being filled out during that time eventually pivoted to AI.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5scssf/",
+      "created": 1716752929,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5si8qp",
+      "score": 1,
+      "body": "They're all boomers bro. They either don't know what AI is or they are afraid of it.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5si8qp/",
+      "created": 1716755054,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5skqth",
+      "score": 1,
+      "body": "What do you mean? I was all over it",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5skqth/",
+      "created": 1716756054,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5ss5w5",
+      "score": 1,
+      "body": "I feel like chat gpt alone being released definitely pushed this whole ai cycle sooner. That was very hard to predict but if you held stocks that correlated it was a huge boost to the portfolio. I think the issue is a lot of people just missed that original bounce from all the hype and now are trying to time the market perfectly. I could be completely wrong but a bit of that was luck. I held pltr at a decent price and it got propelled by this whole ai craze, I would never call that skill seeing it happen so quickly but I did have a thesis data and analytics of it would be bigger than it was so idk?",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5ss5w5/",
+      "created": 1716758980,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5sukd7",
+      "score": 1,
+      "body": "Why’s there an assumption that these investors or funds didn’t have some type of investment in the stock? My work has me looking at wealthy people’s investment holdings and I’ve seen a good amount of clients investing in Nvidia at ~$5. One such client bought ~43,000 shares at a cost basis of $5.47. That investment went from $234k to $45.6m now.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5sukd7/",
+      "created": 1716759957,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5t27rg",
+      "score": 1,
+      "body": "Is any other company even close to NVDA?",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5t27rg/",
+      "created": 1716763187,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5t97re",
+      "score": 1,
+      "body": "Knowing that something will be the hot new tech in 5-10 years doesn't mean you know which stocks will go up. Heck, even if you realize that one company will make it big, what you still need to know is at what point the rest of the market will also buy into it. You know, unless you're fine buying and holding stocks for years.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5t97re/",
+      "created": 1716766280,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5tcpqp",
+      "score": 1,
+      "body": "Need X times as many neurons as GPU and X>1 for",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5tcpqp/",
+      "created": 1716767860,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5tk6xk",
+      "score": 1,
+      "body": "You can ask the same about Google, Amazon, Apple, Microsoft, Tesla and others.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5tk6xk/",
+      "created": 1716771241,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5trgjf",
+      "score": 1,
+      "body": "Because the stock market is a casino and no matter how smart you are, there will always be a chance of losing money. Unless you own the casino",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5trgjf/",
+      "created": 1716774586,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5ts43l",
+      "score": 1,
+      "body": "Because the big name investors and fund managers aren't smart. If they were smart, they would have gotten it right.\n\nGoing into huge detail doesn't neccessarily make your conclusions better. You can analyze all these factors, Fed, geopolitics, inflation, cyclical trends, competition and be more confused than when you started. It looks pretty and prestigious but it can just be nonsense.\n\nA clear and simple thesis is better than all the BS makework they do.",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5ts43l/",
+      "created": 1716774880,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5v7wox",
+      "score": 1,
+      "body": " Even the people who are using their products didn't believe in them. I remember all the hate they got for their ai chips on graphic cards during COVID. Tech YouTube and Reddit was all over Nvidia and was recommending AMD,despite Nvidia clearly having the more capable product. \n\nTldr people are stupid",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5v7wox/",
+      "created": 1716807337,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5w6hek",
+      "score": 1,
+      "body": "Have you ever heard of Cuckvdia?",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5w6hek/",
+      "created": 1716823561,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5z94rw",
+      "score": 1,
+      "body": "People get in too late, first Bitcoin now AI",
+      "permalink": "/r/wallstreetbets/comments/1d0qw6v/how_did_the_best_and_most_intelligent_investors/l5z94rw/",
+      "created": 1716868258,
+      "depth": 0,
+      "replies": []
+    }
+  ],
+  "stockTickers": {
+    "post_summary": "The post questions why top investors missed investing in Nvidia despite its potential in AI being discussed for decades.",
+    "companies": [
+      "Nvidia"
+    ],
+    "tickers": [
+      "NVDA"
+    ],
+    "main_ticker": [
+      "NVDA"
+    ]
+  },
+  "sentimentAnalysis": {
+    "post_summary": "Discussion on why major investors missed out on Nvidia's potential in AI despite its gradual stock growth.",
+    "stock_recommendations": "The user is not recommending buying or selling any stocks.",
+    "is_recommending_stock_buying_or_selling": false,
+    "buy_or_sell": null,
+    "sentiment_summary": "There is neutral sentiment as the post mainly questions investor oversight without suggesting a specific stock action.",
+    "sentiment": "neutral"
+  }
+}

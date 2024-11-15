@@ -1,0 +1,599 @@
+{
+  "title": "When are RSUs subject to gains tax?",
+  "score": 47,
+  "selftext": "I am pretty new to having RSUs and have been trying to understand how short vs long term gains tax work. The way I understand it, as soon as the stocks vest it is subject to income tax since it's part of my income.   \nLets say I decide to sell the stocks immediately...am I subject to short term gains tax if the price increase between the time I am given the stock and vesting. Or does the gains tax only consider gains made after vesting?",
+  "link_flair_text": "Advice Request",
+  "id": "1fnyjee",
+  "num_comments": 65,
+  "created_utc": 1727134007,
+  "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/",
+  "comments": [
+    {
+      "id": "lolxt2c",
+      "score": 132,
+      "body": "Taxed on vesting event as ordinary income. Any holding beyond vest is cap gains, and depends on holding period.",
+      "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lolxt2c/",
+      "created": 1727134820,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lolyjcq",
+          "score": 14,
+          "body": "This is the answer",
+          "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lolyjcq/",
+          "created": 1727135061,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lone14u",
+              "score": -3,
+              "body": "For dummies answer: When the day your RSU's vest, they are already taxed. So all the money that you get in your pocket that day is yours to keep with no taxes owed. \n\nThen let's say you keep all that money in the same stock. Stock goes up 10% the next day. You are taxed ONLY on the 10%.",
+              "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lone14u/",
+              "created": 1727156653,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lonkk4w",
+                  "score": 3,
+                  "body": "Tax is usually withheld on vest, but that's an option and you can choose to not pay tax immediately. Mine does by default but I'm not sure every brokerage does. Always good to double check.",
+                  "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lonkk4w/",
+                  "created": 1727160779,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lonn1as",
+                  "score": 1,
+                  "body": "That depends on the country you're in.",
+                  "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lonn1as/",
+                  "created": 1727162450,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "looak3p",
+                  "score": 1,
+                  "body": "You just made this way more complex. He is asking how he is taxed, not when.\n\nRSUs are taxed as ordinary income,  similar to a cash bonus. That's why it's recommendable to immediately sell. There is no benefit to holding them, if you want to do that, buy your company stock in a brokerage account. The problem is people don't immediately sell and then overconcentrate in their company.",
+                  "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/looak3p/",
+                  "created": 1727177648,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "loofh7r",
+                      "score": 1,
+                      "body": "> He is asking how he is taxed, not when.\n\nThe title of the post is \n\n>When are RSUs subject to gains tax?",
+                      "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/loofh7r/",
+                      "created": 1727179879,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "loog9pk",
+                          "score": 1,
+                          "body": "The whole body of the post indicates that he is more concerned w the type of tax (ordinary income vs. Cap gains). I interpreted the when as a holding period /cap gain issue. Regardless, this became a lot more complex than the simple answer it deserves.",
+                          "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/loog9pk/",
+                          "created": 1727180217,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lolyk6o",
+          "score": 8,
+          "body": "This is the answer",
+          "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lolyk6o/",
+          "created": 1727135068,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lomf6eg",
+          "score": 3,
+          "body": "Close the thread.",
+          "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lomf6eg/",
+          "created": 1727140950,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lom0fxc",
+          "score": 4,
+          "body": "Correct.  Although you can make an 83b election within 30 days of grant if you want to play that game with the irs.",
+          "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lom0fxc/",
+          "created": 1727135712,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lom5bp1",
+              "score": 4,
+              "body": "83b only applies to Options not RSUs, very different equity awards.",
+              "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lom5bp1/",
+              "created": 1727137400,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lomdblx",
+                  "score": 3,
+                  "body": "You can make 83b for Restricted Stock AWARDS only, not RSUs. The difference is small, but they are functionally the same. So yes, you can as long as it was set up as an award.",
+                  "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lomdblx/",
+                  "created": 1727140259,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lomdyb8",
+                  "score": 2,
+                  "body": "With options it's not an 83b it's an iso that you make a qualifying disposition of I think exercise 1 year post award and hold 2 years after something like that",
+                  "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lomdyb8/",
+                  "created": 1727140496,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lon46fo",
+          "score": 2,
+          "body": "Capital gains tax only applies to gains made after vesting.",
+          "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lon46fo/",
+          "created": 1727151219,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lom62oq",
+          "score": 1,
+          "body": "if you sold as loss (sold price is less than vesting price), you can offset some of your other stock gain.",
+          "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lom62oq/",
+          "created": 1727137654,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lom177t",
+      "score": 15,
+      "body": "They aren’t.  They will be taxed as income when they vest, not capital gains.  After they vest, when you sell them you can either expect to pay a capital gain, or gain a loss based on the price they were issued at.",
+      "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lom177t/",
+      "created": 1727135972,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lomt5hh",
+      "score": 8,
+      "body": "When RSU vest, you are taxed as ordinary income on the value at that time. If you don’t sell on day of vesting, then it is treated as if you purchased the stock at that time. So the basis is that value and you pay capital gains when you do sell. \n\nYou get RSU Jan 1, 2023 valued at $100k. No tax event. \nIt vests Jan 1, 2024, it’s worth $150k. You pay ordinary income tax on $150k.\n\nIf you sell July 1, 2024 (<1yr) for $200k, you would pay additional short term capital gains tax on $50k. \n\nHowever if you hold on to it and sell July 1, 2025 (>1yr) for $225k, you would pay additional long term capital gains tax on $75k.",
+      "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lomt5hh/",
+      "created": 1727146295,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "loo6z7f",
+      "score": 2,
+      "body": "So me and my wife are in deep shit. I thought we only pay when we sell the stuff.",
+      "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/loo6z7f/",
+      "created": 1727175835,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "loy3gxi",
+          "score": 1,
+          "body": "The taxes are paid when they vest. Your paystub should indicate that.",
+          "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/loy3gxi/",
+          "created": 1727311123,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lolx6fi",
+      "score": 6,
+      "body": "In general companies will immediately sell off enough shares to cover taxes and report your cost basis to the IRS at the current price.  This is all short term capital gains.\n\nIf you hold those options for a year and sell, you’re subject to long term capital gains.",
+      "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lolx6fi/",
+      "created": 1727134611,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lomsyrt",
+          "score": 12,
+          "body": "It's actually ordinary income. Slight difference from capital gains as those can be used to offset other capital gains (including long term)",
+          "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lomsyrt/",
+          "created": 1727146222,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lomuwpw",
+              "score": 1,
+              "body": "Unless he sells on vest date he will pay cap gains ontop of income tax",
+              "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lomuwpw/",
+              "created": 1727146998,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lomvahz",
+          "score": 6,
+          "body": "> This is all short term capital gains.\n\nWrong. This is the problem with asking reddit for advice. You'll get 6 different answers and you'll be lucky if one of them is right",
+          "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lomvahz/",
+          "created": 1727147155,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "loly2l0",
+      "score": 3,
+      "body": "You pay INCOME TAX (or have it withheld by reduced shares) on VESTING DAY. Then you pay CAP GAINS TAX (if stock appreciated between vesting day and sale day) on SALE DAY. You’re welcome.",
+      "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/loly2l0/",
+      "created": 1727134908,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lom80ph",
+      "score": 1,
+      "body": "When they are vested, the value is taxed as ordinary income. Say your tax rate is 30% and 100 stock units are vested then you get 70 units while uncle sam gets 30. Once that's done, tax is just like as if you bought it in open market on the vest day.",
+      "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lom80ph/",
+      "created": 1727138316,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lomv9p7",
+          "score": 1,
+          "body": "One caveat to this is that if they are taxed at 30 percent but when you do your returns your total income for the year put you in a higher bracket then you will owe the IRS the difference.",
+          "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lomv9p7/",
+          "created": 1727147145,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lon1w34",
+              "score": 1,
+              "body": "Yep. Just like any other income.",
+              "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lon1w34/",
+              "created": 1727150091,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lomja76",
+      "score": 1,
+      "body": "### Summary:\n1. Vests are treated as income tax at the time the vest occurs, not when awarded. \n1. Vests will show up on your W-2\n1. Most vests will have the income tax withheld, but it may be slightly inaccurate by end-of-year. \n1. If you hold the stock after the vest, your capital gains timer will start the day of the vest\n1. If you sell all, it will be reported by the broker as a buy and sell, the cost basis and the sell price will be equivalent when doing taxes. You should have no capital gains.\n\n—-\n\nImagine it as such. From start to finish. \n\nACME Inc awards you $100k worth of stock at $1000/share. It vests in 1 year. This cash is immediately converted into 100 shares and held in an account managed by ACME Inc. There is no tax implication as they have no given you the shares yet. \n\nACME Inc increases in value to $2000/share. Your award is still 100 shares, it’s now worth $200k. You still haven’t vested though. \n\nYour vest date comes. Regardless of whether you select a Sell All, Sell To Cover, or some other vest option, it will be treated as such:\n\nImagine your company pays you a $200k bonus. They will withhold an amount to cover income tax. This $200k **will show up on your W-2, along with taxes withheld by ACME Inc**. \n\nIf you did not elect to SELL ALL, **it is as if you then immediately buy ACME Inc stock** with the remaining, say, $140k. If the stock appreciates between the vest and when you decide to sell it (either minutes, days, months, or years later) you will pay capital gains. Because it’s treated as an immediate buy the instant the stock vests, any gains will be short term capital gains. \n\nIf you DID elect to SELL ALL, **it is as if you then immediately buy ACME Inc stock, and immediately sell it at the same time.** This results in no capital gains and the amount of cash in the account is the post income-tax withholding amount.",
+      "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lomja76/",
+      "created": 1727142506,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lonqfsn",
+      "score": 1,
+      "body": "You are correct. When your RSUs vest, it is subject to income tax. That’s the first taxable event. Then, if you do sell immediately but the stock price increased before you sold, you would be subject to short term capital gains tax. Example you received 50 RSUs at $1 per share. Before you sell, it goes to $1.50 per share. You just gained $25 extra dollars if you sell. That $25 is subject to short or long term capital gains tax depending on how long you held after vest. The reason people keep interchanging short term gains tax and income tax in this thread is because short term gains tax is the same as an ordinary income tax rate.",
+      "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lonqfsn/",
+      "created": 1727164881,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "looogww",
+      "score": 1,
+      "body": "taxed on vesting. so if 10 units are vested, then you might see around 6-7 units being deposited in your brokerage account as the rest have been withheld as tax as ordinary income. I not sure but the rate they take is the closing price for that day or the previous market date if your vesting date is a market holiday. Then when you sell, if you make a profit then you're taxed based on holding period.",
+      "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/looogww/",
+      "created": 1727183511,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lopvcy0",
+      "score": 1,
+      "body": "The same as regular stocks. Just imagine as if instead of getting shares, the company gives you cash that you immediately use to buy shares",
+      "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lopvcy0/",
+      "created": 1727197533,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lolx7aw",
+      "score": 1,
+      "body": "In general companies will immediately sell off enough shares to cover taxes and report your cost basis to the IRS at the current price.  This is all short term capital gains.\n\nIf you hold those options for a year and sell, you’re subject to long term capital gains above your cost basis",
+      "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lolx7aw/",
+      "created": 1727134619,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lom75q7",
+      "score": 1,
+      "body": "My RSU ms make up half of my portfolio, so I typically sell them at vest to dodge gainz tax and de-risk my portfolio.",
+      "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lom75q7/",
+      "created": 1727138026,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lomv5cq",
+          "score": 3,
+          "body": "What does selling your RSUs have to do with dodging gains taxes",
+          "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lomv5cq/",
+          "created": 1727147095,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "loqpdj2",
+              "score": 1,
+              "body": "I am not dodging gains. I am selling at a time that I have no gains and parking my money in something more diversified that I will carry for decades and push the tax hit to the end.",
+              "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/loqpdj2/",
+              "created": 1727206865,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "loqxiod",
+                  "score": 1,
+                  "body": "I know that, your first comment just didn't make any sense.",
+                  "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/loqxiod/",
+                  "created": 1727209391,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lolwc7h",
+      "score": 0,
+      "body": "Hey so sorry if this comes off as lazy, I just thought a response is better than no response, so I fed your post to Gemini (google’s AI). This was the response:\n\nThe tax implications of RSUs (Restricted Stock Units) can be complex, and the timing of gains tax depends on various factors. Here’s a breakdown:\n\nIncome Tax:\n * Vesting: When RSUs vest, they are generally considered income. This means you’ll pay income tax on the fair market value of the shares at the vesting date.\n * Ordinary Income: The income tax on vested RSUs is typically treated as ordinary income, not capital gains.\n\nGains Tax:\n * Sale of Shares: If you sell the vested RSUs after holding them for more than one year, any profit (the difference between the selling price and the fair market value at vesting) is generally subject to long-term capital gains tax.\n * Short-Term Gains: If you sell the vested RSUs within one year of vesting, any profit is subject to short-term capital gains tax, which is generally higher than long-term capital gains tax.\n\nKey Points:\n * Holding Period: The holding period for gains tax starts from the vesting date, not the date the RSUs were granted.\n * Fair Market Value: The fair market value at vesting is crucial for determining both income tax and potential gains tax.\n * Selling Price: The selling price of the shares determines whether there’s a gain or loss.\n\nExample:\n * You receive RSUs that vest on January 1, 2024.\n * The fair market value at vesting is $100 per share.\n * You sell the shares on December 31, 2024, for $120 per share.\n * You’ll pay income tax on the $100 per share at vesting.\n * You’ll also pay short-term capital gains tax on the $20 per share profit.\n\nAdditional Considerations:\n * Tax Basis: The fair market value at vesting is generally your tax basis for the shares.\n * Qualified Small Business Stock: In certain cases, gains from selling qualified small business stock may be eligible for preferential tax treatment.\n * Employer Stock Options: If you have employer stock options, the tax implications can be different from RSUs.",
+      "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lolwc7h/",
+      "created": 1727134330,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lolwv3c",
+          "score": 2,
+          "body": "This was super helpful. Thanks!",
+          "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lolwv3c/",
+          "created": 1727134507,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lolxgp2",
+              "score": 1,
+              "body": "Oh good. I always found RSUs, vesting, and the related tax implications really confusing frankly. \n\nDon’t be shy to contact your HRBP for tax resources. If your employer is big enough, there’s likely someone on staff who’s actual job is to assist employees with tax questions related to compensation. They’re there to help you navigate it. They won’t be able to give you tax or investing advice (they may even caveat any training or information with such a disclaimer), but they can walk you through the tax scenarios. There’s no shame in asking! Also they’re not going to punish you if you say you might sell the stock - it’s yours to do whatever you’d like with.",
+              "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lolxgp2/",
+              "created": 1727134706,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lolyc7e",
+          "score": 1,
+          "body": "Great use of Gemini to get a good answer!",
+          "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lolyc7e/",
+          "created": 1727134996,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lolzl5z",
+              "score": 1,
+              "body": "The irony is I think OP is now a Google employee and is asking about $GOOG RSUs haha!",
+              "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lolzl5z/",
+              "created": 1727135417,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "loly39w",
+      "score": 0,
+      "body": "You pay INCOME TAX (or have it withheld by reduced shares) on VESTING DAY. Then you pay CAP GAINS TAX (if stock appreciated between vesting day and sale day) on SALE DAY. You’re welcome.",
+      "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/loly39w/",
+      "created": 1727134915,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "loly3y1",
+      "score": 0,
+      "body": "You pay INCOME TAX (or have it withheld by reduced shares) on VESTING DAY. Then you pay CAP GAINS TAX (if stock appreciated between vesting day and sale day) on SALE DAY. You’re welcome.",
+      "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/loly3y1/",
+      "created": 1727134921,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lom6hif",
+      "score": 0,
+      "body": "If the stock really tanks in the first year, you could still harvest the cap loss tax credit if you have profitable investments in a non-registered account you may want to offset.",
+      "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lom6hif/",
+      "created": 1727137794,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lomjo45",
+          "score": 2,
+          "body": "Not necessarily. You don’t own the stocks until they vest. Therefore you don’t receive cap gains or cap losses. After they vest, if you hold, then you could, but at that point it’s just like any other stock you have in a brokerage account, nothing special.",
+          "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lomjo45/",
+          "created": 1727142653,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lomeumb",
+      "score": 0,
+      "body": "RSUs are very simple. W-2 income upon vest. Cost basis and date for capital gains is set on vest date so immediate sell is short term gain (or loss). Now if you want complicated, let's talk about ESPP.",
+      "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lomeumb/",
+      "created": 1727140829,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lomjvz4",
+          "score": 1,
+          "body": "If you elect to have your company sell your stocks at vest you should have 0 cap gains or losses.",
+          "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lomjvz4/",
+          "created": 1727142734,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lomzlig",
+              "score": 1,
+              "body": "Vest price is set at the closing price. Stocks available to sell next trading day at best.",
+              "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lomzlig/",
+              "created": 1727149026,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lon3qsg",
+                  "score": 1,
+                  "body": "Interesting. My company allows you to select sell at vest. They immediately sell at the market price on vest. So it’s guaranteed no cap gains or losses. \n\nI think all vests that day for all employees are sold, then they take the average sell price and award each person with the respective amount based on the sell price and units sold. So you don’t get shafted if they sell some in the morning low, then someone else’s in the afternoon high.",
+                  "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lon3qsg/",
+                  "created": 1727151002,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lon4db6",
+                      "score": 2,
+                      "body": "Interesting. I haven't seen that option before, but then again I haven't worked at every company that gives RSUs, lol. That is a good option not that it makes it particularly complicated to deal with a different cost basis. \n\nAs a side note, RSUs are simply the best. Back in the day I used to get stock options. Sometimes they were worthless by the time they vested.",
+                      "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lon4db6/",
+                      "created": 1727151315,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lond9fc",
+                          "score": 1,
+                          "body": "It helps keep taxes simple. You know you fucked up if after adding your RSUs from the 1099 your taxes due go up. Should always zero out. \n\nBut the RSUs are really nice. Since mine are twice a year, it really helps me forget about them, so they get sold and I transfer the sum into my brokerage and buy VOO. Day to day spend is via the regular paycheck, majority of my investments come through the RSU cash. It helps separate them from being spendable cash that sits around for me to waste.",
+                          "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lond9fc/",
+                          "created": 1727156196,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lomvhy1",
+          "score": 1,
+          "body": "Immediate sell is not short term gain, it's no gain at all",
+          "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lomvhy1/",
+          "created": 1727147241,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lomyznd",
+              "score": 0,
+              "body": "In practice that is very unlikely because RSUs vest at the closing price of their vest date and typically don't appear in your account for 1 or more days, so unless the stock happens to be exactly at the previous days (or more days ago) price, you will sell it at a minor loss or gain. I have been RSU-ing since RSUs were a thing.",
+              "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lomyznd/",
+              "created": 1727148754,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lookn8p",
+                  "score": 1,
+                  "body": "If you select the option to sell them at vest (which is the only option that makes sense if you're going to sell them) then there are no gains. What are you talking about, manually selling them after vesting?",
+                  "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lookn8p/",
+                  "created": 1727182029,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lomu7d2",
+      "score": 0,
+      "body": "You are technically taxed on capital gains if stock price on vest date is higher than cost basis. RSUs are also taxed an automatic 22% I think. So depending on your income you may have to pay a little tax or you may have to pay a lot. Every year I catalogue my yearly RSU vests and trim just enough to cover tax liability. Then sell everything and put it into an index fund. Remember that working for the company is technically like being a shareholder anyway",
+      "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lomu7d2/",
+      "created": 1727146714,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lomv3k1",
+      "score": 0,
+      "body": "I will also add they are taxed as income when they vest but if you end up in a higher tax bracket at the end of the year based on your annual income (factoring in those rsu's, bonuses, salary, etc) then you will owe more tax on it because their estimate on how much should be withheld when they vested was not enough.",
+      "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lomv3k1/",
+      "created": 1727147074,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lomj23m",
+      "score": -2,
+      "body": "my accountant told me once my stocks are vested, wait 1-2 years to sell so that it reduces my taxes...",
+      "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lomj23m/",
+      "created": 1727142421,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lomvkdp",
+          "score": 3,
+          "body": "Makes no sense at all",
+          "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lomvkdp/",
+          "created": 1727147269,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lomwcuc",
+              "score": 0,
+              "body": "Short term cap gains. Perhaps for my income bracket?  🤷‍♂️",
+              "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lomwcuc/",
+              "created": 1727147601,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lonpm5w",
+                  "score": 1,
+                  "body": "But there are different taxable events…example you get 100 RSUs, worth $1 per share, at a 30% tax bracket (for simplicity). Thats 30 RSUs taken by Uncle Sam, and net 70 RSUs left. If you sell the 70 shares you got upon vest immediately, you pay no capital gains tax and you receive $70. If you hold for < 1 year and it happens to gain 2x in value making it $2 per share, then you would pay short capital gains tax on the extra $100 you made if you decided to sell. And if you held longer you’d pay long term capital gains tax on the extra $100 you made if you decided to sell.",
+                  "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lonpm5w/",
+                  "created": 1727164296,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lookex6",
+                  "score": 1,
+                  "body": "It's possible they meant \"if you aren't going to sell immediately, hold them for at least a year to avoid short term gains\", but that's not really how you presented it.",
+                  "permalink": "/r/stocks/comments/1fnyjee/when_are_rsus_subject_to_gains_tax/lookex6/",
+                  "created": 1727181935,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

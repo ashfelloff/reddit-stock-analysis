@@ -1,0 +1,230 @@
+{
+  "title": "r/Stocks Daily Discussion & Technicals Tuesday - Jul 02, 2024",
+  "score": 30,
+  "selftext": "This is the daily discussion, so anything stocks related is fine, but the theme for today is on technical analysis (TA), but if TA is not your thing then just ignore the theme.\n\nSome helpful day to day links, including news:\n\n* [Finviz](https://finviz.com/quote.ashx?t=spy) for charts, fundamentals, and aggregated news on individual stocks\n* [Bloomberg market news](https://www.bloomberg.com/markets)\n* StreetInsider news:\n  * [Market Check](https://www.streetinsider.com/Market+Check) - Possibly why the market is doing what it's doing including sudden spikes/dips\n  * [Reuters aggregated](https://www.streetinsider.com/Reuters) - Global news\n\n-----\n\n**Technical analysis (TA)** uses historical price movements, real time data, indicators based on math and/or statistics, and charts; all of which help **measure the trajectory of a security.**  TA can also be used to interpret the actions of other market participants and predict their actions.\n        \nThe main benefit to TA is that everything shows up in the price (commonly known as **\"priced in\"**):  All news, investor sentiment, and changes to fundamentals are reflected in a security's price.\n\nTA can be useful on any timeframe, both short and long term.\n\nIntro to technical analysis by [Stockcharts chartschool](https://stockcharts.com/school/doku.php?id=chart_school:technical_indicators:introduction_to_technical_indicators_and_oscillators#benefits_and_drawbacks_of_leading_indicators) and their [article on candlesticks](https://stockcharts.com/school/doku.php?id=chart_school:chart_analysis:introduction_to_candlesticks)\n\nIf you have questions, please see the following word cloud and click through for the wiki:\n\n[Indicator - Trade Signals - Lagging Indicator - Leading Indicator - Oversold - Overbought - Divergence - Whipsaw - Resistance - Support - Breakout/Breakdown - Alerts - Trend line - Market Participants - Moving average - RSI - VWAP - MACD - ATR - Bollinger Bands - Ichimoku clouds - Methods - Trend Following - Fading - Channels - Patterns - Pivots](https://www.reddit.com/r/stocks/wiki/ta-themed-post)\n\nSee our past [daily discussions here.](https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+%22r%2Fstocks+daily+discussion%22&restrict_sr=on&sort=new&t=all)  Also links for:  [Technicals](https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+title%3Atechnicals&restrict_sr=on&include_over_18=on&sort=new&t=all) Tuesday, [Options Trading](https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+title%3Aoptions&restrict_sr=on&include_over_18=on&sort=new&t=all) Thursday, and [Fundamentals](https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+title%3Afundamentals&restrict_sr=on&include_over_18=on&sort=new&t=all) Friday.",
+  "link_flair_text": null,
+  "id": "1dthov9",
+  "num_comments": 23,
+  "created_utc": 1719912609,
+  "permalink": "/r/stocks/comments/1dthov9/rstocks_daily_discussion_technicals_tuesday_jul/",
+  "comments": [
+    {
+      "id": "lbcwcfi",
+      "score": 8,
+      "body": "Why wasn’t this sticked today?",
+      "permalink": "/r/stocks/comments/1dthov9/rstocks_daily_discussion_technicals_tuesday_jul/lbcwcfi/",
+      "created": 1719960181,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lbbm8y6",
+      "score": 1,
+      "body": "I've asked this before on a non tuesday day, but wanted to ask on technical tuesdays.   \n  \nI'm 17 and just started to invest in / trade individual stocks a few weeks back. I do this based on whether I believe the company and go over news and financials. I have no idea about TA.\n\nBut I've seen a lot of people use TA and also many more people being skeptical about it and calling it \"Astrology for men\" etc..\n\nI think that chart patterns and candlesticks is useless, but I still feel that some aspects of TA is useful.  \nI've seen people mentioning that they do fundamental analysis and use TA to get an entry ?  \nI wanna do stuff like this, but the problem is that I have no idea on where to start.\n\nWhen I search up technical analysis on youtube, all I see is a bunch of clickbaity videos and a bunch of videos which just seem to be fake.\n\nRight now my goals are to invest for a long term, but also swing trade a little bit.  \nSo my questions are:  \nCan I swing trade without using TA, and just with news and fundamentals ?  \nDo I need to learn TA at all?  \nAnd if yes, where should I even start to learn?",
+      "permalink": "/r/stocks/comments/1dthov9/rstocks_daily_discussion_technicals_tuesday_jul/lbbm8y6/",
+      "created": 1719944829,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lbchiyf",
+          "score": 1,
+          "body": "There are more experienced traders in here than me.. but to answer your question.\n\nAll of the traders i know of use charts/TA heavily. They go by the charts to see which price to get in, where to set stop losses and when to get out.\n\nIf this is your first dabble with picking stocks, learn fundamentals first and how to pick good companies. And just let your portfolio grow naturally.\n\nyou are young and I would strongly advice against day trading until you get a few years in the market and have a stable good paying job.\n\nAnd once you get to trading, just like in baseball just going for a hit to get in base is more than enough rather than always trying to swing for the fences and likely striking-out.",
+          "permalink": "/r/stocks/comments/1dthov9/rstocks_daily_discussion_technicals_tuesday_jul/lbchiyf/",
+          "created": 1719954919,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lbbdf7u",
+      "score": 5,
+      "body": "## Daily Met Coal commentary: \n\n(Green steel fans, look away)\n\nSomeone on Twitter [posted Goldman Sach's latest met coal cost curve](https://i.imgur.com/24Yt4T7.png). This graph breaks down at a company level what their total production is vs. their marginal cost. It's a bit tricky, so let's explain further.\n\nSuppose we pick the 90th percentile of production, as in, move along the x-axis until you have reached 90% of the current global production. Now move upward to the height of the bar. This is your 90th percentile marginal cost of $240. For any of the producers to the left, it costs them $240 or less to produce the *next* ton of coal. Equivalently, for all producers to the right (the last 10% of production), it costs them more than $240 for the *next* ton of coal. \n\nUsing the 75th percentile and its height of $215, this implies 25% of producers (the ones to the right) must incur costs of at least $215 per ton on new production.\n\nSo what does this imply if the price of met coal falls to say $215? It means 25% of producers find it unprofitable to increase their production anymore. Over time, labor costs + material inflation are pushing up the cost curve. E.g., if that $215 becomes $230, this means the price of met coal only has to $230 for 25% of producers to see new tons as unprofitable.\n\nSome of these company specific numbers are suspect, in my opinion, e.g., AMR. There is some details on which benchmarks are used by different companies, as well as seasonal or temporary discounts between different benchmarks. (If it costs you $100 to produce your coal but you sell it at a discount of $50 to the premium benchmark due to quality differences, your marginal cost is computed as $150. That way your marginal cost is comparable to the premium producers.) Also, keep in mind this is marginal costs, not total costs.\n\nWhat you want to do is pick companies that are low cost in production (to the left), realize prices as close to the premium benchmark as possible (not shown in this picture), are able to increase production (HCC and BTU, not AMR). Teck, for example, appears to be one of the lowest cost operators of met coal. Though some of these producers to the left aren't necessarily good investments because they aren't pure play met coal producers and also own various other assets. Some aren't even investible, e.g., Russian producers.",
+      "permalink": "/r/stocks/comments/1dthov9/rstocks_daily_discussion_technicals_tuesday_jul/lbbdf7u/",
+      "created": 1719941987,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lbby727",
+          "score": 3,
+          "body": "As a followup, [Bloomberg reporting more on the Anglo-American coal mine fire](https://www.bloomberg.com/news/articles/2024-07-02/anglo-considers-options-to-sell-coal-assets-after-australia-fire?srnd=markets-vp). Regarding timeline, they write the company cannot even *enter* the mine safely for months. The mine remains on fire with smoke pouring out of entrances. Even if they can fully extinguish it, production won't start for much longer, if it even does ever again.\n\nMeanwhile an underground fire just happened in a W. Virginia met coal mine. It literally just opened up 2 years ago. There goes another 2-3 MPTA.\n\n(These aren't common occurrences, so the fact 2 happened within a day of each other is total coincidence)",
+          "permalink": "/r/stocks/comments/1dthov9/rstocks_daily_discussion_technicals_tuesday_jul/lbby727/",
+          "created": 1719948694,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lbc5zbv",
+              "score": 3,
+              "body": "Good thing a lot of excess supply is being brought online......oh....wait....\n\nThat's ok, coal is dying anyway. It's terminal value is $0 in 5 years.",
+              "permalink": "/r/stocks/comments/1dthov9/rstocks_daily_discussion_technicals_tuesday_jul/lbc5zbv/",
+              "created": 1719951203,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lbbch6j",
+      "score": 2,
+      "body": "CSU.TO taking another run at $4000 (CAD).",
+      "permalink": "/r/stocks/comments/1dthov9/rstocks_daily_discussion_technicals_tuesday_jul/lbbch6j/",
+      "created": 1719941683,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lbbiudk",
+          "score": 2,
+          "body": "Unreal run.",
+          "permalink": "/r/stocks/comments/1dthov9/rstocks_daily_discussion_technicals_tuesday_jul/lbbiudk/",
+          "created": 1719943724,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lbb3vq7",
+      "score": 3,
+      "body": "Everything on my watchlist (EVVTY, PAC, OMAB, KNSL, DHI, PHM) is red, almost everything I own in my PF is green (except MSFT and LULU) \n\nI am not used to this.",
+      "permalink": "/r/stocks/comments/1dthov9/rstocks_daily_discussion_technicals_tuesday_jul/lbb3vq7/",
+      "created": 1719938922,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lbbb9i0",
+          "score": 3,
+          "body": "PAC coming into support around $145 looks really enticing. I'm always torn because I think PAC has better airports, but ASR seems to have a better balance sheet. \n\nHave you looked into CAAP by any chance?",
+          "permalink": "/r/stocks/comments/1dthov9/rstocks_daily_discussion_technicals_tuesday_jul/lbbb9i0/",
+          "created": 1719941294,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lbftqy5",
+              "score": 1,
+              "body": "I had not actually, only PAC and OMAB pop up in my screener maybe I should relax the criteria a bit. The thing is that I am totally in the blind regarding these airport businesses, i even listened to some of the management interviews for OMAB in Spanish but it all seemed superficial to me and I wasn’t able to understand what the management themselves expect in the future (wrt nearshoring or regulation)",
+              "permalink": "/r/stocks/comments/1dthov9/rstocks_daily_discussion_technicals_tuesday_jul/lbftqy5/",
+              "created": 1720013202,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lbi45nv",
+                  "score": 1,
+                  "body": "[Here's](https://open.spotify.com/episode/0nhqDaXXdEVCxZVLpWaPkC?si=50z7ky7GQZGoqOLsSheZOg) a really good interview with Ian Bezek about the Mexican airports, specifically PAC. He's sort of the authority on airport stocks, and his Twitter is also a really good resource. \n\nCAAP is not Mexican, they're actually based in Luxembourg. They own airports in numerous countries. It's a little more developing market than Mexico, they have properties in Argentina, Uruguay, Armenia among others. Interesting company.",
+                  "permalink": "/r/stocks/comments/1dthov9/rstocks_daily_discussion_technicals_tuesday_jul/lbi45nv/",
+                  "created": 1720040813,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lbb3i9c",
+      "score": 6,
+      "body": "Did not realize the sticky was so important...",
+      "permalink": "/r/stocks/comments/1dthov9/rstocks_daily_discussion_technicals_tuesday_jul/lbb3i9c/",
+      "created": 1719938801,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lbb06pu",
+      "score": 3,
+      "body": "That one guy who said he went all in on TSLA (instead of all in Pfizer) must be feeling pretty good.\n\nEDIT: Also, feeling good at my decision to have exited RCM several weeks ago after the buyout offer. Kinda bizarre turn of events recently. They had received an acquisition offer from two joint parties at $13.75, stock price leaps up. RCM told them the price was too low and there was talk of a bidding war. Today it looks like the two parties no longer wanted to do a joint merger, and one of them now *lowered* their offer to $13.25. \n\nIf bids are being lowered, that's a bad sign. No bidding war to speak of, acquirers aren't that desperate, and RCM hasn't sold itself very well.",
+      "permalink": "/r/stocks/comments/1dthov9/rstocks_daily_discussion_technicals_tuesday_jul/lbb06pu/",
+      "created": 1719937724,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lbav8wh",
+      "score": 1,
+      "body": "$EOSE continues to run. Such great positive news day after day.\n\nI was adding 200-400 share chunks as much as I could around .70-.90. \n\nHow high can it go?",
+      "permalink": "/r/stocks/comments/1dthov9/rstocks_daily_discussion_technicals_tuesday_jul/lbav8wh/",
+      "created": 1719936111,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lbb01hw",
+          "score": 2,
+          "body": "First entered this stock early 2023, was up 100% at one point before the fact that the DOE loan wasn't being immediately disbursed sank in and hit the equity hard, forcing dilution. Now it's been derisked significantly, but still, waiting on the DOE confirmation that 'Site Acceptance Testing' was completed (distinct from the company's own definition of SAT, which is obviously done since they are in commercial production now).",
+          "permalink": "/r/stocks/comments/1dthov9/rstocks_daily_discussion_technicals_tuesday_jul/lbb01hw/",
+          "created": 1719937678,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lbah3wp",
+      "score": 0,
+      "body": "Let’s go TSLA !!!",
+      "permalink": "/r/stocks/comments/1dthov9/rstocks_daily_discussion_technicals_tuesday_jul/lbah3wp/",
+      "created": 1719931416,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lba91eg",
+      "score": 1,
+      "body": "[deleted]",
+      "permalink": "/r/stocks/comments/1dthov9/rstocks_daily_discussion_technicals_tuesday_jul/lba91eg/",
+      "created": 1719928527,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lbbu2rw",
+          "score": 3,
+          "body": "There is no difference. It is just another word for the same thing.",
+          "permalink": "/r/stocks/comments/1dthov9/rstocks_daily_discussion_technicals_tuesday_jul/lbbu2rw/",
+          "created": 1719947363,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lba3ypc",
+      "score": 1,
+      "body": "Tesla another YoY decline in deliveries but beat the low expectations …. so up 5% premarket. God bless.\n\nEdit: They delivered around 444,000 vehicles Q2 2024. They delivered around 466,000 Q2 2023 (-4.5%). China deliveries also down over 20% ….. Lol.\n\nBut estimates were ranging from 420,000 - 440,000 for US deliveries this quarter so all good here folks!",
+      "permalink": "/r/stocks/comments/1dthov9/rstocks_daily_discussion_technicals_tuesday_jul/lba3ypc/",
+      "created": 1719926567,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lba6ji8",
+          "score": 3,
+          "body": "Thing that caught my eye was energy lol, but I probably just caught a TSLA bull when I searched due to being confused.\n\n\nBut yeah, this goes along with what I was saying yesterday, fundamentals have been flung out the door on TSLA again for now.",
+          "permalink": "/r/stocks/comments/1dthov9/rstocks_daily_discussion_technicals_tuesday_jul/lba6ji8/",
+          "created": 1719927582,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lba18kl",
+      "score": 8,
+      "body": "It's not pinned so I guess I'm first to find the thread I can say anything nobody will see it!\n\nHuge red premarket guess we're crashing!",
+      "permalink": "/r/stocks/comments/1dthov9/rstocks_daily_discussion_technicals_tuesday_jul/lba18kl/",
+      "created": 1719925460,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lba3p3l",
+          "score": 5,
+          "body": "Maybe upvoting helps a bit :)",
+          "permalink": "/r/stocks/comments/1dthov9/rstocks_daily_discussion_technicals_tuesday_jul/lba3p3l/",
+          "created": 1719926463,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1158 @@
+{
+  "title": "FBI Raids Carahsoft Office—What’s Going on with VMware, Broadcom, and National Security?",
+  "score": 339,
+  "selftext": "Hey everyone, something huge went down today, and I wanted to share what I know so far. Some who I know works at Carahsoft in Virginia, and earlier today, the office was raided by around 50-100 FBI agents along with other federal agencies. They confiscated everything from laptops, desktops, and even personal journals, leaving everyone pretty shocked.\n\nHere’s a quick breakdown of what happened:\n\n* **Date**: September 24, 2024 (Today)\n* **Location**: Carahsoft office in Virginia\n* **What happened**: Employees experienced a weird VMware update across all work laptops. Not long after, FBI agents stormed the building instantly yelling they have a \"Search Warrant\", took equipment, laptops, desktops, even journals and pencils lol, and started questioning employees about the team managing VMware software (who, interestingly, work remotely from places like Hawaii). Tuesdays are their days where most people go in person, the feds did not detain, ask to not talk or read miranda rights etc to the person I know at all. \n* **Agents** were especially interested in the company’s data servers located on the 4th and 5th floors of the building.\n* **Aftermath**: Employees were told they probably won’t get their equipment laptops etc back anytime soon.\n* The company is giving everyone new laptops tomorrow so far this is quitet but should come out in public and officially soon.\n\n# Why Does This Matter?\n\nVMware, a major player in cloud computing and virtualization, was recently acquired by **Broadcom** (December 2023), and they hold **very sensitive data** for many industries, including government agencies and national security bodies. Here are some major developments related to VMware and Broadcom over the last year:\n\n* [**Broadcom Completes VMware Acquisition**](https://www.trendforce.com/news/2023/12/13/insights-broadcom-completes-vmware-acquisition-software-business-expected-to-account-for-40-45-of-its-revenue/): This acquisition was a big deal. VMware now dominates the server virtualization market, with more than 70% market share.\n* [**VMware Settles $84.5M Patent Lawsuit**](https://www.reuters.com/legal/litigation/vmware-settles-patent-lawsuit-after-densifys-845-mln-trial-win-2024-05-13/): VMware recently settled a lawsuit where they were accused of infringing on cloud software patents. It’s a huge case that hints at legal and ethical issues surrounding VMware’s practices.\n* [**AT&T Sues Broadcom Over VMware**](https://www.fudzilla.com/news/59652-at-t-sues-broadcom-over-vmware-s-extended-support): AT&T is suing Broadcom because Broadcom is refusing to honor VMware support contracts unless AT&T purchases additional (and unneeded) subscription services. AT&T argues this puts national security at risk as many government services rely on VMware’s software.\n\n# What Could Be Happening?\n\nThe raid could be tied to VMware’s role in managing sensitive data for **U.S. federal agencies**, including national security bodies. With all the legal drama surrounding VMware—like the lawsuit with AT&T—it’s possible that VMware’s data handling or licensing practices raised red flags with the federal government.\n\nAlso, the fact that VMware is integrated into so many critical systems across industries (including **national security** and **first responder systems**) makes this raid potentially more than just a corporate dispute. There could be concerns about **data security breaches**, **corporate espionage**, or even VMware’s legal battles coming to a head.\n\n# Key Takeaways:\n\n* VMware is involved in **critical U.S. government services** and national security infrastructure.\n* There’s a growing tension between Broadcom and major companies like AT&T over VMware support, which might put public safety at risk.\n* The raid could be part of a much bigger issue involving **national security** and **corporate malfeasance**.\n\nKeep an eye on this story—it’s not getting national coverage yet, but given the scale of the raid and what’s at stake, it might soon hit the news in a big way.\n\n**Sources:**\n\n* [Broadcom Completes VMware Acquisition, Software Business Expected to Account for 40-45% of Its Revenue](https://www.trendforce.com/news/2023/12/13/insights-broadcom-completes-vmware-acquisition-software-business-expected-to-account-for-40-45-of-its-revenue/)\n* [VMware Settles Patent Lawsuit After Densify’s $84.5 Million Trial Win](https://www.reuters.com/legal/litigation/vmware-settles-patent-lawsuit-after-densifys-845-mln-trial-win-2024-05-13/)\n* [AT&T Sues Broadcom Over VMware’s Extended Support](https://www.fudzilla.com/news/59652-at-t-sues-broadcom-over-vmware-s-extended-support)\n* [Broadcom and AT&T Reach Temporary VMware Support Deal](https://www.channelfutures.com/channel-business/broadcom-att-reach-temporary-vmware-support-deal)\n\nLink to my lengthier blog post here  \n[https://techscrutinytoday.blogspot.com/2024/09/carahsoft-office-raided-by-fbi-today.html](https://techscrutinytoday.blogspot.com/2024/09/carahsoft-office-raided-by-fbi-today.html)",
+  "link_flair_text": "News",
+  "id": "1foof1a",
+  "num_comments": 129,
+  "created_utc": 1727214590,
+  "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/",
+  "comments": [
+    {
+      "id": "lordkve",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 1 | **First Seen In WSB** | just now\n**Total Comments** | 0 | **Previous Best DD** | \n**Account Age** | 1 year | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lordkve/",
+      "created": 1727214594,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "loriiw1",
+      "score": 122,
+      "body": " In 2015, VMware and Carahsoft agreed to pay $75.5 million to settle allegations that “they violated the False Claims Act by misrepresenting their commercial pricing practices and overcharging the government on VMware software products and related services.”\n\nI guess they overcharge uncle sam again given the VMware licensing situation.",
+      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/loriiw1/",
+      "created": 1727216336,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lorj8y6",
+          "score": 36,
+          "body": "From a recent article that just came out on this as well\n“\nAdditionally, two sources say the FBI and DCIS served two criminal subpoenas and one civil one. One of the sources said one of the subpoenas was related to an ongoing False Claims Act case the Justice Department is pursuing.\n“\nSo your right about the civil one, what about the two criminal ones 👀",
+          "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lorj8y6/",
+          "created": 1727216602,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lot4p99",
+              "score": 18,
+              "body": "I don’t know, thats above my pay grade. 🤣 My guess would be collusion and fraud.",
+              "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lot4p99/",
+              "created": 1727239570,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lotryd4",
+          "score": 8,
+          "body": "Should have gone into defense contracting",
+          "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lotryd4/",
+          "created": 1727254459,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lqh6swo",
+          "score": 1,
+          "body": "No. VMW by BRCM is not implicated in this latest investigation.",
+          "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lqh6swo/",
+          "created": 1728145684,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "loru4ua",
+      "score": 23,
+      "body": " \"Representatives from the Department of Justice came to the Carahsoft office today as they are conducting an investigation into a company with which Carahsoft has done business in the past.\n\n[https://www.theregister.com/2024/09/24/fbi\\_raids\\_carahsoft\\_headquarters/](https://www.theregister.com/2024/09/24/fbi_raids_carahsoft_headquarters/)",
+      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/loru4ua/",
+      "created": 1727220516,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "loybkw0",
+          "score": 2,
+          "body": "Doesn't really narrow it down...  do you have any idea *how many* IT OEMs for which Carahsoft acts as distributor or SVAR? Heck, it's been reported that approximately 40% of ServiceNow and Okta federal business goes through Carahsoft as a channel partner.",
+          "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/loybkw0/",
+          "created": 1727314168,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "loztsg0",
+              "score": 1,
+              "body": "It wasn't supposed to narrow it down.",
+              "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/loztsg0/",
+              "created": 1727343561,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "losoa8z",
+      "score": 20,
+      "body": "It’s been awhile for me, but back when I did software & IT consulting sales, Carahsoft was essentially just a “pass through” for selling to various state and federal governmental agencies. \n\nSelling into government agencies can be… painful. Carahaoft handled the complexity; they knew current approved GSA rates, and had pre-determined selling agreements with a broad range of agencies; we would say they “have the paper”, which was shorthand for having an agreement to sell into a gov agency. \n\nIf that’s still the case (like I said, it’s been awhile since I did this for a living), the raid likely has to do with improper rates (ie, charging too much), kickbacks, stuff like that. ",
+      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/losoa8z/",
+      "created": 1727231949,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "losyxsv",
+          "score": 3,
+          "body": "https://federalnewsnetwork.com/contracting/2024/09/fbi-dcis-raid-carahsoft-headquarters/?readmore=1",
+          "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/losyxsv/",
+          "created": 1727236622,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lot90hk",
+              "score": 4,
+              "body": "Yeah - sounds like financial shenanigans, based on that article. Thx for sharing that. ",
+              "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lot90hk/",
+              "created": 1727241926,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lorgcdh",
+      "score": 143,
+      "body": "Burn Broadcom to the ground.",
+      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lorgcdh/",
+      "created": 1727215554,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "los46qo",
+          "score": 67,
+          "body": "Broadcom's new VMWare licensing has caused me to switch to alternate virtualization solutions.  Fuck them.",
+          "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/los46qo/",
+          "created": 1727224244,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "los69xa",
+              "score": 56,
+              "body": "Their greed is extremely disruptive. Broadcom has severed their agreements with most of their VMWare Partners, who lost their discounts overnight without any warning. New service and licensing contracts and renewals are massively more expensive than previous contracts. Most companies are seeing their costs expand by around 10X to continue to use the VMWare platform.\n\nEven worse, when Broadcom bought VMWare they laid off most of the employees in the support teams. So it's becoming increasingly difficult for companies to get help installing and maintaining their VMWare deployments, even though they're paying 10X the previous cost for this support! Broadcom is acting in bad faith and it is fucking over most of the industry. They're fleecing everybody. It's just pure greed.",
+              "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/los69xa/",
+              "created": 1727225010,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "los6tsc",
+                  "score": 39,
+                  "body": "Everyone I know that is a decision maker on virtualization software, which includes some pretty major companies, are currently evaluating alternatives because they won't be sticking with VMWare.  Years from now this will probably be a case study in a college textbook on what not to do when you acquire a business with an established clientele.",
+                  "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/los6tsc/",
+                  "created": 1727225215,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lovl8h7",
+                      "score": 3,
+                      "body": "It's all about that quarterly gain, fire all the staff you can to show how much money you made on the books, then raise the prices so the companies that can't afford to jump ship in a short time span will have to pony up, so that quarter has profits, then you get your bonus as a Csuite executive, then you bail out to the next company with a good looking resume, mean while you leave a company to burn in ruin behind you not giving an absolute fuck.\n\nThese companies are so fucking stupid, they should have contact clauses that state that bonus's and stock payouts are not to be paid until 4 years post-departure if the company doesn't continue it's upward path or the stock maintain a certain value.\n\nIt's like the entire incentive for these asshole C-Suite execs is to come in, cut everywhere, then high tail out.\n\nIt's so stupid. I worked a job early in my career and got to see a contract for a \"CEO/Director\" and granted he was only making 160k/year... and to me at the time making 45k/year in middle America I was like \"If I made 160k/year I would be happy for life\"\n\nAnyway, he showed me what his employment contract looked like as a Director because we talked about life at that level and how I wanted to be there and all. So in his offer letter, it basically stated, in plain English, that at any point from day 1 of him coming onboard, that if he didn't like the job, or the board didn't like him, he could quit or they could let him go, and they would have to write him a check equivalent to 1 years salary with taxes accounted for, meaning he would get to take home an actual 160k, so the actual check would need to be for a bit more accounting for his tax bracket and all...\n\nSo I remember asking, I said something like... wait wait wait.... so when you reach this level, you can just start this job knowing if it doesn't work out 1 day, 5 days, 4 months down the road, at any point, not only are you making a fat salary, but the day you leave you just got a years salary ahead of time coming at you ready to go fuck all to go find the next thing? Meanwhile over here the rest of us are like \"here's my two weeks notice you want from me if I leave\" and if you don't want me, you just kick my ass out the door and fight me tooth and nail on unemployment that you pay for anyway by law?\"\n\nThis shit is so fucked up, even more so that it was a not-for-profit company.\n\nSo, seeing his simpleton contract, made me believe that for profit companies have probably way more involved and lucrative contracts in them to entice CEO's onboard.\n\nWhile I'm not saying as a CEO you'd wanna just jump from company to company working 1 day and taking your 1 years pay, because then nobody would hire you. But imagine just being at that level where, no matter how bad you do, and lets be honest, at this level there's no BAD you can do because all the blame rolls down hill at this point, you just get to collect your millions, get lauded as a hero, then some other startup or some shit wants to hire you, they throw another contract at you and the cycle starts again.\n\nYou come in, they say hey we will pay you this 300k a year base salary, here's a bunch of stock options, you can cash these out after 2 years and these out at 5 years, then the rest whenever you feel, along the way, if the stock goes up 2 points or whatever we give you X more shares and you can cash those out as you please... that shit adds up. Not to mention company bonus'. We all know those numbers can be fucked around anyway you see fit.\n\nAccounting can make a company seem profitable and a CEO look good or bad even when a company makes no actual profit at all. Just look at the banks during the 2008 crisis and they got all those Bailouts by the government and then they gave themselves all those bonus' like they did a good job. Like \"but but my contract said I get a bonus' this year!\"",
+                      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lovl8h7/",
+                      "created": 1727281565,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lozy97d",
+                      "score": 1,
+                      "body": "I don’t have a dog in this hunt, but what “alternatives”? I’ve never heard of anyone successfully migrating off of virtzilla… successfully being the key term here..",
+                      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lozy97d/",
+                      "created": 1727346439,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lozydn0",
+                          "score": 1,
+                          "body": "Oh, and I not mean cloud. I mean on-prem exclusively.",
+                          "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lozydn0/",
+                          "created": 1727346513,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lp0pze9",
+                              "score": 1,
+                              "body": "I only know what some of them are currently evaluating, some are looking at Proxmox, like I am.  Others are considering Nutanix.  Others I know just expressed their shock at the licensing term changes and how it was rolled out and that they are looking at what it will take to switch.  My requirements are a mix of on-prem and self hosted cloud.",
+                              "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lp0pze9/",
+                              "created": 1727358674,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lp8ml4e",
+                                  "score": 1,
+                                  "body": "Lots of looking, evaluating, considering, etc. No actual alternative. Again, I have no dog in this hunt (I got caught in the layoffs, so if anything I’m bearish), but there’s no other viable option for on-prem virt. That’s why Hock Tan wanted it. He’s a beast about gauging customers for sticky software that they cannot unwind from. Objectively, he’s good at business. \n\nBefore you attack, being good at business means making money, not NECESSARILY being a good provider, partner, employer, etc. The dude is absolutely laser focused on dollars.",
+                                  "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lp8ml4e/",
+                                  "created": 1727468250,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "lp8mlcv",
+                                      "score": 1,
+                                      "body": "Eat my dongus you fuckin nerd.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",
+                                      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lp8mlcv/",
+                                      "created": 1727468252,
+                                      "depth": 8,
+                                      "replies": []
+                                    },
+                                    {
+                                      "id": "lp8n5o5",
+                                      "score": 1,
+                                      "body": "I literally offered two alternatives.  I can say personally that Proxmox so far is working as a viable alternative.  But a switch of this nature isn't something you want to do twice, so you make sure before you fully migrate.",
+                                      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lp8n5o5/",
+                                      "created": 1727468441,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "lpbhfrt",
+                                          "score": 1,
+                                          "body": "I’ll check back in later…",
+                                          "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lpbhfrt/",
+                                          "created": 1727517506,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "losrvw5",
+              "score": 14,
+              "body": "I just deployed changes to our scripts today that use RedHat KVM instead of VMware ESXi. We actually could cut off VMware as soon as tomorrow if we want. Also Broadcom really stopped being a company as soon as Avago took over. Avago is a Chinese company that is known for hostile takeovers and selling off the companies for parts. The difference this time with Broadcom is that people actually recognize the name and had a good reputation. It will be interesting to see what happens after today ",
+              "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/losrvw5/",
+              "created": 1727233444,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lostnvn",
+                  "score": 6,
+                  "body": "I've been testing out Proxmox, it's Debian with a management layer on top of KVM and LXC.  So far it has worked out very well and may be the route we take off of VMWare.",
+                  "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lostnvn/",
+                  "created": 1727234208,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lotmoal",
+                  "score": 1,
+                  "body": "oh you mean the financial strategy that is Broadcom now? Vultures, they are, but damn if it hasn't been good for the stock",
+                  "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lotmoal/",
+                  "created": 1727250706,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "loul6fm",
+                  "score": 1,
+                  "body": "Avago was ~~is~~ a Singaporean company \n\nAnd whatever you think about their business practice their stock has been doing phenomenal ",
+                  "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/loul6fm/",
+                  "created": 1727269673,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "loxnu6b",
+                      "score": 1,
+                      "body": "They haven't been a Singaporean company since 2018.",
+                      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/loxnu6b/",
+                      "created": 1727305382,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "loy0fkb",
+                          "score": 1,
+                          "body": "Thank you for the correction",
+                          "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/loy0fkb/",
+                          "created": 1727310007,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "los5702",
+              "score": 8,
+              "body": "What did you go with?  Currently dealing with the pains of the transition to Broadcom.",
+              "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/los5702/",
+              "created": 1727224615,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lou8nuy",
+                  "score": 6,
+                  "body": "[deleted]",
+                  "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lou8nuy/",
+                  "created": 1727264436,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lp0ob06",
+                      "score": 2,
+                      "body": "I found Hyper-V's network virtualization to be lacking, but maybe that was a \"me\" issue with my team.  My network requirements go beyond typical hypervisor users though.",
+                      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lp0ob06/",
+                      "created": 1727358081,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lp0zpbd",
+                          "score": 1,
+                          "body": "[deleted]",
+                          "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lp0zpbd/",
+                          "created": 1727361899,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lp101gd",
+                              "score": 1,
+                              "body": "This was 2019, and we migrated off it in 2021.",
+                              "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lp101gd/",
+                              "created": 1727362008,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "loujfor",
+                  "score": 3,
+                  "body": "Most are going to Nutanix right now and Nutanix is marketing themselves as a great replacement.",
+                  "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/loujfor/",
+                  "created": 1727269007,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "los5gbl",
+                  "score": 7,
+                  "body": "Currently experimenting with Proxmox, so far it shows a lot of promise.",
+                  "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/los5gbl/",
+                  "created": 1727224711,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "losbhmz",
+                      "score": 6,
+                      "body": "Just go to kubernetes. Once you learn that you are set.",
+                      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/losbhmz/",
+                      "created": 1727226991,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "losrtxj",
+                          "score": 4,
+                          "body": "Doesn't actually work for my specific use case.",
+                          "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/losrtxj/",
+                          "created": 1727233421,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "losst0b",
+                              "score": 2,
+                              "body": "If you are having to host locally could you use docker containers?",
+                              "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/losst0b/",
+                              "created": 1727233836,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lostfbd",
+                                  "score": 5,
+                                  "body": "I can't actually go into details of what I'm doing, but it requires more than just virtualization or containerization of services.  I've used docker and kubernetes on different projects, when they are the right tool for the job.",
+                                  "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lostfbd/",
+                                  "created": 1727234105,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "lot5gky",
+                                      "score": 3,
+                                      "body": "Nutanix , redhat, hyper-v, native hyperscaler. Or look to rearchitect your infra to reduce core counts and cut down on vmw license costs. $210 per core is ridiculous regardless. I loved that former company. I hope Hoc chokes on one",
+                                      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lot5gky/",
+                                      "created": 1727239967,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "lov2f6x",
+                                          "score": 1,
+                                          "body": "I hope they pull their heads out, and soon.  I run a global infrastructure of 12 vCenters, 108 hosts, and around 4500 VMs.  It will be a nightmare getting onto a new platform!",
+                                          "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lov2f6x/",
+                                          "created": 1727275648,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lottzep",
+              "score": 1,
+              "body": "What others and at what scale?",
+              "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lottzep/",
+              "created": 1727255897,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "loud837",
+              "score": 1,
+              "body": "if you switched you would name the “alternate virtualization solutions “",
+              "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/loud837/",
+              "created": 1727266492,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "loudcy1",
+                  "score": 2,
+                  "body": "I literally have named the one that I'm currently evaluating in several comments.",
+                  "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/loudcy1/",
+                  "created": 1727266549,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lorjfdi",
+          "score": 13,
+          "body": "Since this is public now media outlets have just started to put this out 1-2hrs ago i can comfortably say yes 😂",
+          "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lorjfdi/",
+          "created": 1727216667,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lotb5fi",
+          "score": 2,
+          "body": "I'd support that",
+          "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lotb5fi/",
+          "created": 1727243181,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lotbwbk",
+          "score": 4,
+          "body": "What the hell is Broadcom or VMWARE in the crosshairs for? lol come on man provide proof that broadcom is directly involved.\n\n[https://www.reuters.com/technology/us-investigates-tech-firms-sap-carahsoft-potential-price-fixing-bloomberg-news-2024-09-25/](https://www.reuters.com/technology/us-investigates-tech-firms-sap-carahsoft-potential-price-fixing-bloomberg-news-2024-09-25/)\n\nNothing here is mentioned with Broadcom involvement. What are you specifically saying Broadcom or VMWARE did?",
+          "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lotbwbk/",
+          "created": 1727243622,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lotdyg8",
+              "score": 3,
+              "body": "If anything this is about SAP (but who really knows) which this post doesn't even mention\n\n>Earlier in the day, Bloomberg reported that U.S. federal agents [searched, opens new tab](https://www.bloomberg.com/news/articles/2024-09-24/big-tech-software-vendor-carahsoft-raided-by-fbi-in-virginia?sref=y3YMCJ4e) the Washington-area offices of Carahsoft. A Carahsoft representative told Bloomberg that the investigation was into a company with which Carahsoft has done business in the past.  \n...  \nSAP has had previous run-ins with the Justice Department, and earlier this year the German technology giant [agreed to pay](https://www.reuters.com/technology/sap-pay-more-than-220-mln-settle-us-bribery-charges-2024-01-10/) about $222 million to resolve investigations into bribery schemes in seven countries.",
+              "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lotdyg8/",
+              "created": 1727244891,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lotek73",
+                  "score": 4,
+                  "body": "Here's another update from Bloomberg (take it with a grain of salt) as of midnight EST\n\n[https://x.com/technology/status/1838791177576870096](https://x.com/technology/status/1838791177576870096)\n\n>German software developer SAP, product reseller Carahsoft and other companies are being probed by US officials for potentially conspiring to overcharge government agencies over the course of a decade.\n\nAgain, this is pointing to SAP",
+                  "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lotek73/",
+                  "created": 1727245274,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "loy7uj3",
+          "score": 1,
+          "body": "Maybe let me sell my calls first?  Also, weren't they green today?  FBI raids are priced in, I guess.",
+          "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/loy7uj3/",
+          "created": 1727312753,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lormmhb",
+      "score": 33,
+      "body": "The VMware settlement was years ago. I doubt the incident today with Carahsoft was related directly to VMware. Likely has everything to do with Carahsoft internal practices when selling to Government.",
+      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lormmhb/",
+      "created": 1727217829,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lorvv7e",
+          "score": 4,
+          "body": "The part about VMware comes from someone I know that was there in the office working. We hung out and went to the gym since most were told to go home at some points and he told me everything he experienced and saw/heard.\n\nThe agents were asking about VMware and who works with them/ where is there account team etc, asked him and a lot of his co workers. \n\nWeirdly enough this is a company where most people are hybrid but everyone in the team for VMware is fully remote and listed in interesting locations like Hawaii.",
+          "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lorvv7e/",
+          "created": 1727221148,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "losc3j6",
+              "score": 20,
+              "body": "Why is living in Hawaii an interesting fact in this story? It is a state, you know? Unfortunately.",
+              "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/losc3j6/",
+              "created": 1727227224,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "loscpqd",
+                  "score": 2,
+                  "body": "Yes I’m aware, but they are the only ones working in Hawaii as most are around the East Coast. \n\nMight have no correlation with anything but it is an interesting fact and I was sharing as many details as i could Remmeber from the conversation.",
+                  "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/loscpqd/",
+                  "created": 1727227460,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lot20ul",
+                      "score": -1,
+                      "body": "This isn’t unusual. I’ve had coworkers working from home in Texas and California while I worked in the office in the DC area.",
+                      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lot20ul/",
+                      "created": 1727238167,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "losjox9",
+              "score": 13,
+              "body": "You are extremely regarded lmao. You don’t even understand what VMware does",
+              "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/losjox9/",
+              "created": 1727230132,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "losqcc2",
+                  "score": 8,
+                  "body": "Came here to say this. VMware as a company doesn't store anyone's data lol",
+                  "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/losqcc2/",
+                  "created": 1727232796,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lot3tj6",
+                      "score": 6,
+                      "body": "“The VMware Horizon Recording feature allows administrators to record desktop and application sessions to monitor user behavior for remote desktops and applications. “\n\nhttps://docs.omnissa.com/bundle/Desktops-and-Applications-in-HorizonV2312/page/UsingHorizonRecording.html#:~:text=The%20VMware%20Horizon%20Recording%20feature,recorded%20desktop%20or%20application%20session.",
+                      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lot3tj6/",
+                      "created": 1727239106,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lot5mhx",
+                          "score": 6,
+                          "body": "EUC division already got spun off regard",
+                          "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lot5mhx/",
+                          "created": 1727240054,
+                          "depth": 5,
+                          "replies": []
+                        },
+                        {
+                          "id": "lottalt",
+                          "score": 3,
+                          "body": "that's like saying, Ford, as a company is a personal taxi company that drives everybody around \n\n\nVMware is a tool, used by companies who can store data using said tool",
+                          "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lottalt/",
+                          "created": 1727255413,
+                          "depth": 5,
+                          "replies": []
+                        },
+                        {
+                          "id": "lov31kt",
+                          "score": 1,
+                          "body": "You mean [Omnissa](https://www.omnissa.com/)?",
+                          "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lov31kt/",
+                          "created": 1727275847,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "losqgw8",
+                      "score": -1,
+                      "body": "Yep lol, it’s just a platform",
+                      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/losqgw8/",
+                      "created": 1727232849,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lot3p9h",
+                          "score": 4,
+                          "body": "lol VMware is virtual servers, networking, security as well as a platform",
+                          "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lot3p9h/",
+                          "created": 1727239044,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lot4b73",
+                              "score": 7,
+                              "body": "It’s a platform for all of those things but it’s not managed by VMware. They aren’t the ones actually holding company’s data. \n\nI run a VMware environment at work and it’s very clear you have 0 idea what you are taking about lol",
+                              "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lot4b73/",
+                              "created": 1727239365,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lot59iu",
+                                  "score": 10,
+                                  "body": "I work deep in the IT bowels of a company that used to have six figures of VMs on VMWare (we're mostly cloud now), I can corroborate that OP is not a professional in this domain.  \n\nIt seems like this is much more likely an issue of fraud than anything to do with VMware products themselves.",
+                                  "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lot59iu/",
+                                  "created": 1727239867,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "lot8jqi",
+                                      "score": 4,
+                                      "body": "Correct I’m not a professional in this domain.\n\nI reported and tried to leave it as open ended as possible with a basic outline of what has happened so far and yes some initial personal assumptions sprinkled in. \n\nEither way, \nCarahsoft is claiming that the agents are investigating a business Carahsoft was working with in the past.\n\nMy person that works there, mentioned they were after the VMware people and evidence there\n\nVMW (VMware) has been with Carahsoft for a long time until after they were acquired by Broadcom last year.",
+                                      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lot8jqi/",
+                                      "created": 1727241660,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "lov6db5",
+                                          "score": 4,
+                                          "body": ">My person that works there, mentioned they were after the VMware people and evidence there\n\nThat is because vSphere is a virtualization platform that likely runs the majority of the infrastructure that the FBI is interested in. \n\nYou are falsely assuming that VMware is somehow culpable in this. It's simply the platform that manages the VMs and data that is interesting to the FBI. So...getting the keys to vSphere is the path of least resistance to getting the data they actually care about. \n\nYou mentioned in another comment that VMware forced and update to users laptops just prior to the raid. That would be the Carahsoft VMware team that did that - not VMware(Bcom) the company.",
+                                          "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lov6db5/",
+                                          "created": 1727276904,
+                                          "depth": 9,
+                                          "replies": []
+                                        },
+                                        {
+                                          "id": "lov3wry",
+                                          "score": 2,
+                                          "body": "Because the VMware admins at Carahsoft would have the most access to Carahsoft’s data",
+                                          "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lov3wry/",
+                                          "created": 1727276120,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "lot5uh0",
+                                      "score": 0,
+                                      "body": "![img](emote|t5_2th52|27189)![img](emote|t5_2th52|27189)",
+                                      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lot5uh0/",
+                                      "created": 1727240169,
+                                      "depth": 8,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "loud31a",
+                  "score": 3,
+                  "body": "Was going to say this.  VMware is a virtualization platform.  They don't host or store data.  They just sell their hypervisor and adjacent products.",
+                  "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/loud31a/",
+                  "created": 1727266431,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "louuowf",
+                      "score": 1,
+                      "body": "![img](emote|t5_2th52|27189)![img](emote|t5_2th52|27189)![img](emote|t5_2th52|27189)",
+                      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/louuowf/",
+                      "created": 1727273101,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lorg400",
+      "score": 25,
+      "body": "Calls on AVGO?",
+      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lorg400/",
+      "created": 1727215471,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "losois3",
+      "score": 17,
+      "body": "FYI from a well known entity in the infosec community - [Source](https://x.com/d0rkph0enix/status/1838690566357254448?s=46&t=XToeo26yobmSiYXIIl6GJg) \n\n“Friend of mine spilled tea on this one, apparently it’s “frowned upon” to spin up a shell company as an employee of [Rubrik](https://www.google.com/finance/quote/RBRK:NYSE), and use it to sell Rubrik to the Feds through your own shell company as the reseller. Carahsoft had someone help facilitate that in exchange for…bribes”",
+      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/losois3/",
+      "created": 1727232044,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "loycia1",
+          "score": 1,
+          "body": "[Hey FBI... now do Dell Marketing LP....]",
+          "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/loycia1/",
+          "created": 1727314521,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lotb7t1",
+          "score": 1,
+          "body": "neat",
+          "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lotb7t1/",
+          "created": 1727243219,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "losynd7",
+      "score": 7,
+      "body": "Apparently, that had to do with SAP as well:\n[US Probing Tech Firms SAP, Carahsoft for Potential Price-Fixing](https://www.bloomberg.com/news/articles/2024-09-25/us-probing-tech-firms-sap-carahsoft-for-potential-price-fixing)",
+      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/losynd7/",
+      "created": 1727236483,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "losl3r2",
+      "score": 5,
+      "body": "Does this mean that within two weeks, Broadcom stock will drop after announcement of DOJ investigation?",
+      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/losl3r2/",
+      "created": 1727230684,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lounm41",
+          "score": 2,
+          "body": "Buy the rumor sell the news?",
+          "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lounm41/",
+          "created": 1727270588,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "loubql6",
+      "score": 5,
+      "body": "Not a Broadcom issue. Nothing to do with them",
+      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/loubql6/",
+      "created": 1727265839,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lorpcqj",
+      "score": 10,
+      "body": "Priced in",
+      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lorpcqj/",
+      "created": 1727218796,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lorss9j",
+      "score": 4,
+      "body": "Could be a security intrusion/hack.",
+      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lorss9j/",
+      "created": 1727220031,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lorwd4z",
+          "score": -1,
+          "body": "I agree def a though of mine as well but if it was that and it was not properly handled by VMware, wouldn't that only be plausible for civil lawsuits? Not criminal.",
+          "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lorwd4z/",
+          "created": 1727221332,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lorylga",
+              "score": 11,
+              "body": "I think you are way too focused on VMW the company here.\n\nVMWare does virtualization.",
+              "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lorylga/",
+              "created": 1727222154,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lorz9zk",
+                  "score": -4,
+                  "body": "Yes  except that VMW is not its own company anymore and yes VMW was the ticker for VMWare in the past, they were acquired by Qualcomm last year and right now Qualcomm does not want to allow AT&T to renew their contract with VMware, even though at this point migration to another virtualization would take months, years.\n\n[https://www.vmware.com/](https://www.vmware.com/)  \nfrom vmware official site\n\nVMware by Broadcom - Cloud Computing for the Enterprise\n\nOptimize cloud infrastructure with VMware for app platforms, private cloud, edge, networking, and security.",
+                  "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lorz9zk/",
+                  "created": 1727222408,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "losbvg5",
+                      "score": 8,
+                      "body": "Broadcom bought VMW not qualcomm",
+                      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/losbvg5/",
+                      "created": 1727227137,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "losccob",
+                          "score": 2,
+                          "body": "Correct not sure why I said Qualcomm i meant Broadcom",
+                          "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/losccob/",
+                          "created": 1727227321,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lot2b2q",
+      "score": 5,
+      "body": "Carahsoft is an IT solutions providerthat’s a partner of the company in question. What does the raid have to do with the vendor or partner of carahsoft?",
+      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lot2b2q/",
+      "created": 1727238314,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lorf8ai",
+      "score": 7,
+      "body": "NTNX calls",
+      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lorf8ai/",
+      "created": 1727215160,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lorfdui",
+          "score": 3,
+          "body": "Why NTNX?",
+          "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lorfdui/",
+          "created": 1727215214,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lorouxy",
+              "score": 9,
+              "body": "Nutanix's Acropolis is a direct competitor to VMWare.",
+              "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lorouxy/",
+              "created": 1727218621,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lorq7q1",
+                  "score": 3,
+                  "body": "This might be a better move than Shorting Qualcomm because of VMware.",
+                  "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lorq7q1/",
+                  "created": 1727219107,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "los0ua4",
+      "score": 5,
+      "body": "A search warrant requires a crime by the people searched or holding in their custody evidence to it. A raid means they were the target. They did something illegal, massive federal felony so.",
+      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/los0ua4/",
+      "created": 1727222994,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "los2l33",
+          "score": 3,
+          "body": "Yep exactly, a whole search warrant for a whole office building is crazy. There is something criminal they have a lot of evidence for in order to have gotten that search warrant",
+          "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/los2l33/",
+          "created": 1727223645,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "losb7e4",
+      "score": 2,
+      "body": "🤔",
+      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/losb7e4/",
+      "created": 1727226882,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "los53pi",
+      "score": 4,
+      "body": "Why would employees have VMware updates in their laptops?  What do you mean VMware holds very sensitive data?  This whole thing sounds like horse manure to me.",
+      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/los53pi/",
+      "created": 1727224582,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lotdr4r",
+          "score": 1,
+          "body": "only thing i  can think is they run vmware horizon client used for VDI on their laptops/workstations",
+          "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lotdr4r/",
+          "created": 1727244763,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "los7aty",
+          "score": 0,
+          "body": "Around the world in 2024, **over 108,988** companies are using VMware as virtualization tool. Companies using VMware for virtualization are majorly from United States with 44,062 customers. 54.91% of VMware customers are from the United States.\n\nIf you've worked in big tech and gone remote etc, VMware is what is installed on every employees work machine during onboarding.\n\nVMware is a virtualization and cloud computing company that **develops virtualization software**. They produce virtualization, networking, and security management tools.\n\nEvery piece of data coming in and out of a employees machine goes through a VMware virtual server on that specific device.\n\nWhy would VMware force update on boot all of the machines that use their services (unusually way longer time of updating)? (atleast at carasoft) hours before FBI raided carasoft looking for anything and everything to do with VMware",
+          "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/los7aty/",
+          "created": 1727225392,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "losgq77",
+              "score": 7,
+              "body": "VMware had several products. VMware itself is not a product. \n\nVMware has a tool to manage workstations and laptops called Workspace One. It is an MDM tool, it allows IT departments to push software, collect inventory data and some other things but it is not \"collecting\" file data on machines. Those stay local to the machine and while I've never used Workspace One, I've managed competitor products and they can't see the files on the devices but it can see storage space allocated and used. I'm talking about MDMs with a thousand points of inventory data. \n\nSo no, this doesn't make sense. Workspace One wouldn't be collecting sensitive data files. It's just metadata from devices.",
+              "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/losgq77/",
+              "created": 1727228995,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "losk7na",
+                  "score": 9,
+                  "body": "This guy has 0 idea what he’s talking about lol",
+                  "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/losk7na/",
+                  "created": 1727230336,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "loslbxv",
+                      "score": 5,
+                      "body": "Yeah, he's just jumping to conclusions.",
+                      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/loslbxv/",
+                      "created": 1727230773,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "losyhfi",
+                          "score": 5,
+                          "body": "I just had an idea... a doormat where you jump to conclusions.",
+                          "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/losyhfi/",
+                          "created": 1727236403,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "losz1qj",
+                              "score": 1,
+                              "body": "We had one on our work fridge, red stapler, \"is this good for the company\" signage. Even our own Milton with the pocket protector.",
+                              "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/losz1qj/",
+                              "created": 1727236674,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lou486l",
+                          "score": 3,
+                          "body": "https://preview.redd.it/m007o26etxqd1.jpeg?width=715&format=pjpg&auto=webp&s=2dd0ec629ecded311f254fe50d9ad73e85faeb02",
+                          "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lou486l/",
+                          "created": 1727262227,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "losod8q",
+      "score": 1,
+      "body": "What is the relationship between Carahsoft and VMWare?",
+      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/losod8q/",
+      "created": 1727231982,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lot28mh",
+          "score": 3,
+          "body": "Carahsoft is a solutions reseller (middleman) for Gov IT, they take VMware solutions and sell to gov entities.",
+          "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lot28mh/",
+          "created": 1727238280,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lotdtv7",
+      "score": 1,
+      "body": "news reports investigation of Carahsoft is due to  \"potentially conspiring to overcharge government agencies over the course of a decade,\"\n\nnot a national security risk. that being said, broadcom is a bitch and i wouldn't buy them, but their vmware Aquisition which their dumbass CEO tried to strongarm customers was executed terribly. in the long run, their piss poor practice with vmware will probably not affect their bottom line much.",
+      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lotdtv7/",
+      "created": 1727244811,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lotfpul",
+      "score": 1,
+      "body": "obviously they couldnt redeem their vmware licenses after broadcomm fcked up the vmware purchase 😆",
+      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lotfpul/",
+      "created": 1727246012,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "louao3z",
+      "score": 1,
+      "body": "[removed]",
+      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/louao3z/",
+      "created": 1727265358,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "loudly0",
+      "score": 1,
+      "body": "Articles today suggest the governments interest is with German SAP. I wouldn't be trading AVGO off this news.",
+      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/loudly0/",
+      "created": 1727266656,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "loumm73",
+      "score": 1,
+      "body": "I purchased a VMWare fusion 12 license a few years back and can’t even download the final fusion 12 installer without having to pay Broadcom more money.\n\nThis is criminal.\nThank goodness wayback machine exists",
+      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/loumm73/",
+      "created": 1727270215,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "low1dz9",
+      "score": 1,
+      "body": "Oh boy you know there's is at least one employee that is praying they don't find his porn history/stash.",
+      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/low1dz9/",
+      "created": 1727286549,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lqd9zo2",
+      "score": 1,
+      "body": "Any news?",
+      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lqd9zo2/",
+      "created": 1728078839,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lot8w59",
+      "score": 1,
+      "body": "So Broadcom puts at open?",
+      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lot8w59/",
+      "created": 1727241856,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lot90eg",
+          "score": 0,
+          "body": "I put mine in at like 1pm today when i first heard it personally 😭",
+          "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lot90eg/",
+          "created": 1727241924,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lota83x",
+              "score": 1,
+              "body": "It might keep going up tomorrow so your puts might be cooked if this is the case",
+              "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lota83x/",
+              "created": 1727242638,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lotae3r",
+                  "score": 3,
+                  "body": "It’s ok i was too hyped to learn some early news and only used 5% on Oct 18 puts.\nHigh upside if Broadcom gets fucked by news tomorrow but ya def risky so used small sizing.",
+                  "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/lotae3r/",
+                  "created": 1727242737,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "loxs9ke",
+      "score": 0,
+      "body": "Governments don't usually raid companies over \"buyer's remorse\". It must be national security-related. Russia. Elections, that kind of thing.\n\nMaybe Carasoft have ignored sanctions. The US government doesn't want any other country to have a datacentre.",
+      "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/loxs9ke/",
+      "created": 1727306997,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "loyd8ro",
+          "score": 0,
+          "body": "Carahsoft wasn't cooperating (i.e., futzing around because #Carahsoft) with the government's numerous, legally valid requests for data. So... gov't went in and took the dang data.",
+          "permalink": "/r/wallstreetbets/comments/1foof1a/fbi_raids_carahsoft_officewhats_going_on_with/loyd8ro/",
+          "created": 1727314802,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1514 @@
+{
+  "title": "[deleted by user]",
+  "score": 680,
+  "selftext": "[removed]",
+  "link_flair_text": null,
+  "id": "1df3444",
+  "num_comments": 179,
+  "created_utc": 1718295982,
+  "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/",
+  "comments": [
+    {
+      "id": "l8ggy8g",
+      "score": 415,
+      "body": "Now get some margin and do covered calls.",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8ggy8g/",
+      "created": 1718300612,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l8gw3g6",
+          "score": 61,
+          "body": "How does it work? ( person from Mars here )",
+          "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8gw3g6/",
+          "created": 1718305719,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l8h02yo",
+              "score": 467,
+              "body": "You receive a loan (margin) and sell call options. You will receive the premium (amount you sold the option for) as income. Now, you have 2 ways of selling these options. Covered or Naked (yes these are the actual terms; no I do not mean naked in front of your 4 monitor setup in your wife’s boyfriend’s in-law suite).     \n\nCovered means you took the loan and purchase shares of the underlying and limit the number of options sold to the number of times you can divide your shares by 100. Example: you bought 244 shares, so you can only sell 2 options against your position (244 / 100 = 2.44). Now, this is great for when the stock doesn’t go above the price you sold the call for because then, as most of these regards know, the call would expire worthless meaning you keep all your premiums.    \n\nNaked means you took the loan and sold way more options than you had the liquidity to cover. The nice part is you’re making money money in premiums then you were before. The dangerous part is if you only had the money to purchase 244 shares, but sold 10 calls that are now In-The-Money (ITM). You now have to come up with the funds to buy and extra 756 shares (10 calls x 100 shares each - 244). *Technically, you didn’t own the 244 shares when selling naked but you had the capability to purchase that much, so just roll with the example dammit*. Basically the only way you get out of this situation is to sell your bodily holes in a Wendy’s parking lot, or declare bankruptcy. Hope this helps.",
+              "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8h02yo/",
+              "created": 1718307039,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l8h1loi",
+                  "score": 170,
+                  "body": "You’re a good dude. It’s fun to be snarky but answering questions is good for everyone. Cheers🍻",
+                  "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8h1loi/",
+                  "created": 1718307545,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l8hkf20",
+                      "score": 47,
+                      "body": "a wholesome moment between two regards...? it is forsaken in these lands",
+                      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8hkf20/",
+                      "created": 1718313797,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l8idatz",
+                          "score": 6,
+                          "body": "You're highly regarded.",
+                          "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8idatz/",
+                          "created": 1718324980,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l8iqlfw",
+                              "score": 2,
+                              "body": "i like it when you talk dirty",
+                              "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8iqlfw/",
+                              "created": 1718330549,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "l8hy9zy",
+                      "score": 9,
+                      "body": "I've read this 100 times and I still dont get it hahaha! (I'm very new to this)",
+                      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8hy9zy/",
+                      "created": 1718318936,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l8iokrs",
+                          "score": 9,
+                          "body": "I would suggest learning the vocabulary first. “Premiums” “Margin” “Calls” “Puts” etc. when learning about those you’ll begin to pick up on the basic concepts. Also, using tools like the options calculator will help visualize whatever strategy you’re trying to implement. It’s also a great way to double check if you’re thinking of the correct strategy. It’ll take a long time to accumulate the knowledge, but it’ll come around. I blew up my first Robinhood account when I was 17, and honestly while it wasn’t a huge account, it taught me a lot about risk management and it made me want to learn more.",
+                          "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8iokrs/",
+                          "created": 1718329725,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l8kxpdi",
+                              "score": 1,
+                              "body": "You sir deserve all the head",
+                              "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8kxpdi/",
+                              "created": 1718373603,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "l8n2tcf",
+                          "score": 3,
+                          "body": "It’s real simple. \n\nIf you buy 100 shares of any stock you can now sell a COVERED call. This means you’ve already “covered” your contract. \n\nLet’s say the stock is trading at $20 right now. You bought those 100 shares for $15 each. \n\nYou sell your covered call at a strike price of say $22 for a premium of $100. \n\nThe person who buys that contract will pay you $100 for the right, but not the obligation, to purchase your 100 shares at $22 each. \n\nIn almost every case if the price doesn’t go above $22 then the buyer of the contract will not ALSO purchase (exercise the contract) your shares. So what happens is you keep the $100 premium plus you keep your shares. \n\nNow, if the price goes above $22 before the contract expires, the buyer now decide to purchase your shares. \n\nIn that case you’d get $100 (premium) + $2,200 = $2,300 total. \n\nIf the actual price of the stock goes waaaay above $22 you still only get $2,200 + 100. But the person who exercised the contract is now sitting on a much bigger unrealized profit. \n\nNow since you purchased the shares for $15 each your profit is \n$7 x 100 shares + $100 premium = $800 profit. \n\nThat’s a good start. The other terms you can look up.\n\nDo not sell/buy NAKED (you don’t own the shares) until you have the cash to cover your bet should you lose.\n\nIf you do this, and you’re doing it on margin (loan) the sale (exercise) may still go through and your account will go negative until you deposit more cash. Until then you cannot make anymore trades.",
+                          "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8n2tcf/",
+                          "created": 1718400036,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "l8hib6u",
+                      "score": 12,
+                      "body": "Like a crack dealer othering free samples at the exit door of the rehab clinic",
+                      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8hib6u/",
+                      "created": 1718313067,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l8hl7la",
+                          "score": 30,
+                          "body": "Not really. How are people supposed to learn otherwise? I’ve learned a ton of shit from people like KingOfTheWolves. \n\nIt’s really simple once someone explains it but it’s incredibly confusing if you don’t know what the terms mean. \n\nSelling covered calls is by far the safest way to get introduced to options trading.\n\nYou don’t even need a ton of money to start. $TELL is a promising bet and it’s fucking cheap. 100 shares would cost you about $80. Sell 1 covered call and make $5 or $10 every few weeks. It’s a start that more people should explore before they blow up their entire life savings on SPY 0DTE YOLOs.",
+                          "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8hl7la/",
+                          "created": 1718314077,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "l8h9nfu",
+                  "score": 43,
+                  "body": "I just want to point out that you can still be naked in front of your 4 monitors. Regardless of whether you are doing naked or covered calls.",
+                  "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8h9nfu/",
+                  "created": 1718310208,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l8iouxv",
+                      "score": 9,
+                      "body": "That’s just what I call a work uniform![img](emote|t5_2th52|4276)",
+                      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8iouxv/",
+                      "created": 1718329842,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "l8haxxy",
+                  "score": 12,
+                  "body": ">sell your bodily holes in a Wendy’s parking lot, or declare bankruptcy.\n\nDon't forget about the hands!  That's two more customers you can service at any given time",
+                  "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8haxxy/",
+                  "created": 1718310629,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l8hcy0j",
+                      "score": 8,
+                      "body": "Great way to increase your mean jerk time there.",
+                      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8hcy0j/",
+                      "created": 1718311282,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l8hgr1n",
+                          "score": 0,
+                          "body": "No. Last guy was right, but also wrong. Just keep learning until you can fully understand the inside and outs of stock trading. Make sure you have a good all time p/l then you can use some of that money to study and practice options. It's not too hard, it's just complex. You really want to have a good grasp on it before you do anything with real money. You can do it, man. It's just a lot of studying. Never stop learning either. Id advise getting a good mentor. That's also a huge advantage. Good luck. If you really enjoy it, you can go wherever you want with it.",
+                          "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8hgr1n/",
+                          "created": 1718312537,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "l8ip25o",
+                      "score": 2,
+                      "body": "![img](emote|t5_2th52|27189)![img](emote|t5_2th52|27189)![img](emote|t5_2th52|27189)",
+                      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8ip25o/",
+                      "created": 1718329920,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "l8hgb3z",
+                  "score": 8,
+                  "body": "He doesn’t need to take out margin to write covered calls. He already owns the shares with his cash.",
+                  "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8hgb3z/",
+                  "created": 1718312389,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l8hr9t9",
+                      "score": 6,
+                      "body": "I know. He could buy more shares on Margin and do more covered calls though.",
+                      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8hr9t9/",
+                      "created": 1718316246,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "l8ijzku",
+                  "score": 7,
+                  "body": "I sort of use this strategy, just without leverage. Bought 100 shares of TSLA in Jan 2023 at 188. Even with the rally today, it's still a loss so far.  However, I've been selling covered calls on those 100 shares since and have $7,000+ in premiums. Only works if you're OK owning the stock long term, and the stock is very volatile and subject to large swings. I roll back and forward based on how bad I called it, but have yet to have an option exercised.",
+                  "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8ijzku/",
+                  "created": 1718327773,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l8hulkl",
+                  "score": 5,
+                  "body": "So basically, don’t do naked calls unless you absolutely know what you’re doing. In that case, I’ll do covered calls, or keep it simple with long puts and calls.",
+                  "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8hulkl/",
+                  "created": 1718317507,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l8i6n89",
+                  "score": 2,
+                  "body": "I hate that I have no friends to share this with. I was reading this all focused up and burst out laughing at the end 🤣",
+                  "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8i6n89/",
+                  "created": 1718322237,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l8ipd18",
+                      "score": 5,
+                      "body": "Glad I could bring joy and education. Now get back to drawing with crayons ![img](emote|t5_2th52|4267)",
+                      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8ipd18/",
+                      "created": 1718330043,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "l8jme9s",
+                  "score": 2,
+                  "body": "I learned more about covered + naked calls from you than all the books I've read.\n\nThanks, professor.",
+                  "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8jme9s/",
+                  "created": 1718347086,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l8k97o9",
+                      "score": 2,
+                      "body": "Happy cake day regard. Glad I could help!",
+                      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8k97o9/",
+                      "created": 1718362668,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "l8lc5w4",
+                  "score": 1,
+                  "body": "The only lost u get from covered calls is when the contract is executed and u lose ur shares but still get paid n u still have the premium?",
+                  "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8lc5w4/",
+                  "created": 1718378654,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l8n5ojj",
+                  "score": 1,
+                  "body": "You don't need any additional funds to sell covered calls. Hence the term \"covered\"\n\nEdit. My b, you said use the loan to buy enough only for the cover.",
+                  "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8n5ojj/",
+                  "created": 1718401125,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l8h6t2b",
+                  "score": -9,
+                  "body": "TLDR but I appreciate you spent the time to type it out.",
+                  "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8h6t2b/",
+                  "created": 1718309272,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l8h79hf",
+                      "score": 13,
+                      "body": "Dawg it’s like 1.5 minutes of reading ffs",
+                      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8h79hf/",
+                      "created": 1718309423,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l8h8mqt",
+                          "score": -2,
+                          "body": "I can concentrate for 15 seconds tops.",
+                          "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8h8mqt/",
+                          "created": 1718309876,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "l8h8m5x",
+                      "score": 2,
+                      "body": "Hey there smooth brain ",
+                      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8h8m5x/",
+                      "created": 1718309871,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "l8gxkyr",
+              "score": 11,
+              "body": "If you do not know how margin or options work, stick with shares only. Good luck on your YOLO.",
+              "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8gxkyr/",
+              "created": 1718306206,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l8hp7fp",
+          "score": 7,
+          "body": "Exactly my sentiment and then buy NvDa calls with that",
+          "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8hp7fp/",
+          "created": 1718315490,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l8g7dyn",
+      "score": 339,
+      "body": "Shares isn’t too much of a yolo :) it’s an investment",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8g7dyn/",
+      "created": 1718297449,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l8g7nrc",
+          "score": 91,
+          "body": "I mean you only live once, so it’s a good idea to invest intelligently, no?",
+          "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8g7nrc/",
+          "created": 1718297538,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l8gax9o",
+              "score": 35,
+              "body": "Who said that? Quote or ban",
+              "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8gax9o/",
+              "created": 1718298622,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l8gf8v1",
+                  "score": 30,
+                  "body": "Pretty sure it was Steve-O.",
+                  "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8gf8v1/",
+                  "created": 1718300050,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l8gkyr4",
+                      "score": 9,
+                      "body": "![img](emote|t5_2th52|4271)",
+                      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8gkyr4/",
+                      "created": 1718301937,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "l8igqng",
+              "score": 2,
+              "body": "Get outta here with that regard logic",
+              "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8igqng/",
+              "created": 1718326415,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l8ij9kc",
+              "score": 1,
+              "body": "Take no chances, stop freelancing, invest in your future don't dilute your finances",
+              "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8ij9kc/",
+              "created": 1718327467,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l8h4nca",
+          "score": 12,
+          "body": "Seriously, a yolo position is a 0DTE, (expires today) and hoping, praying for a 2$ rip in your direction preferably over your strike but typically if you’re maximizing profits you’re buying 0.05 calls that are practically worthless to begin with which tend to be strike 5-8$ OTM",
+          "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8h4nca/",
+          "created": 1718308554,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l8gs2s7",
+          "score": 6,
+          "body": "Who said that investments can’t go belly up? It’s still a gamble regardless.",
+          "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8gs2s7/",
+          "created": 1718304391,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l8g4khz",
+      "score": 78,
+      "body": "I've got a feeling we going back to $140 ",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8g4khz/",
+      "created": 1718296523,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l8gi50f",
+          "score": 45,
+          "body": "[deleted]",
+          "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8gi50f/",
+          "created": 1718301002,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l8gm4zf",
+              "score": 9,
+              "body": "Gonna load up on $AMDL if it did.",
+              "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8gm4zf/",
+              "created": 1718302327,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l8h3gx2",
+                  "score": 18,
+                  "body": "i dont even have to look it up to know that the L stands for leveraged",
+                  "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8h3gx2/",
+                  "created": 1718308167,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l8hjo2d",
+                      "score": 18,
+                      "body": "Look at the big brain on this guy",
+                      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8hjo2d/",
+                      "created": 1718313536,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l8gs6ts",
+          "score": 4,
+          "body": "I’ll buy long calls since it’ll probably double bottom around there.",
+          "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8gs6ts/",
+          "created": 1718304428,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l8ijejb",
+          "score": 0,
+          "body": "I have a feeling we’ll be going to $420",
+          "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8ijejb/",
+          "created": 1718327526,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l8gka1w",
+      "score": 33,
+      "body": "Riding on Lisa?  \n\nNice.",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8gka1w/",
+      "created": 1718301707,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8h1v23",
+      "score": 38,
+      "body": "Fuck AMD. Bought stock, it just tanked for months. I'm thinking opportunity cost so I sell for loss and monitor for options play. It's been bouncing between the same support and resistance levels for a month. I buy a put, it prints, good. I buy a call, expecting it would go from 160 to 167, it tanks further instead. Not even puts would save this, it's just going sideways.",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8h1v23/",
+      "created": 1718307632,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l8hi4wv",
+          "score": 20,
+          "body": "Just give up and go nvda",
+          "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8hi4wv/",
+          "created": 1718313008,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l8jne0v",
+              "score": 3,
+              "body": "too late to invest in nvda",
+              "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8jne0v/",
+              "created": 1718347739,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l8k354i",
+          "score": 5,
+          "body": "It’s why they call it advanced money destroyer ",
+          "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8k354i/",
+          "created": 1718358851,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l8kddup",
+              "score": 1,
+              "body": "I rode 2500 shares from $2 to $97 and then lost that to OTC dipshittery in 2020/21. I'm currently waiting on a buyout process to finish up and I'll probably slap $200k back into AMD and few more stacks in similar stocks for the long term. When it comes to GPUs, AMD is definitely lagging behind Nvidia but they're still not bad at all, but when it comes to their AI push, I do believe they'll do a surprise move eventually.\n\n&#x200B;\n\nBit of an investment, bit of a gamble, a bit of fun for everyone!",
+              "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8kddup/",
+              "created": 1718364911,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l8g3j70",
+      "score": 42,
+      "body": "What position?",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8g3j70/",
+      "created": 1718296175,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l8g5znh",
+          "score": 139,
+          "body": "[deleted]",
+          "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8g5znh/",
+          "created": 1718296992,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l8g7qth",
+              "score": 242,
+              "body": "You’re not dumb enough for this place.",
+              "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8g7qth/",
+              "created": 1718297566,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l8gdmm3",
+                  "score": 51,
+                  "body": "He yoloed on AMC.\n\nHe's definitely qualified.",
+                  "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8gdmm3/",
+                  "created": 1718299515,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l8gimjg",
+                      "score": 77,
+                      "body": "and on this one he tried to yolo AMC again and just fat fingered the ticker to AMD.",
+                      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8gimjg/",
+                      "created": 1718301160,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l8hc88q",
+                          "score": 9,
+                          "body": "AME is next.",
+                          "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8hc88q/",
+                          "created": 1718311049,
+                          "depth": 5,
+                          "replies": []
+                        },
+                        {
+                          "id": "l8gp16p",
+                          "score": 7,
+                          "body": "![img](emote|t5_2th52|4271)",
+                          "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8gp16p/",
+                          "created": 1718303355,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "l8hyf9o",
+                      "score": 2,
+                      "body": "meh. \n\npersonally, a true \"yolo\" would be 50K into weeklies",
+                      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8hyf9o/",
+                      "created": 1718318992,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "l8gen05",
+              "score": 8,
+              "body": "Lol, I was worried for a sec thinking they were options.  You should be fine.",
+              "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8gen05/",
+              "created": 1718299849,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l8gt81f",
+              "score": 7,
+              "body": "You probably won't get rich, but you won't end up at Wendy's either.",
+              "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8gt81f/",
+              "created": 1718304764,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l8gspda",
+              "score": 4,
+              "body": "Last time I yolod my entire portfolio on AMD shares I ended up down 20%, hopefully you succeed",
+              "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8gspda/",
+              "created": 1718304595,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l8gp71h",
+              "score": 7,
+              "body": "r/investing is that way",
+              "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8gp71h/",
+              "created": 1718303417,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l8h1t99",
+              "score": 1,
+              "body": "Now you just gotta sell covered calls every week. Free money!",
+              "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8h1t99/",
+              "created": 1718307615,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l8iv4bc",
+              "score": 1,
+              "body": "dude sell covered calls all the way to the top.  take the premiums, buy leaps.....everytime the leaps gain 40% roll them out and buy more stock.  this is the way.  if I had the capital I would.  I am full port NVDA/NVDL rn....leaps and shares.",
+              "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8iv4bc/",
+              "created": 1718332487,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l8iyvzm",
+          "score": 2,
+          "body": "69",
+          "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8iyvzm/",
+          "created": 1718334166,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l8gajrt",
+      "score": 8,
+      "body": "Godspeed regard",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8gajrt/",
+      "created": 1718298496,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l8gnx6m",
+          "score": 3,
+          "body": "Should have just gone to the gas station and bought a bag of Doritos. At least you get something",
+          "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8gnx6m/",
+          "created": 1718302943,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l8h8zcm",
+      "score": 24,
+      "body": "How is this a yolo when you bought shares lol",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8h8zcm/",
+      "created": 1718309991,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8h3dto",
+      "score": 13,
+      "body": "See you at a million in 5 years, if you have the balls to hold.",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8h3dto/",
+      "created": 1718308137,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8gwl1k",
+      "score": 14,
+      "body": "I think it will soon go to 200$ per share after the earnings call on *Jul 30, 2024*.\n\nNVIDIA\\`s prices and margin is unsustainable\n\nDefinitively good time to buy AMD.",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8gwl1k/",
+      "created": 1718305878,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l8hhp8b",
+          "score": 12,
+          "body": "Don't say that, I just dropped $48k on NVDA stocks",
+          "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8hhp8b/",
+          "created": 1718312859,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l8hl96h",
+              "score": 6,
+              "body": "Big bois will start unloading soon",
+              "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8hl96h/",
+              "created": 1718314093,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l8hqtkq",
+                  "score": 17,
+                  "body": "People have been saying that for 2 years.",
+                  "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8hqtkq/",
+                  "created": 1718316078,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l8i9w96",
+                  "score": 6,
+                  "body": "Unload on me please ![img](emote|t5_2th52|4275)",
+                  "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8i9w96/",
+                  "created": 1718323564,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l8jbnt9",
+          "score": 1,
+          "body": "AMD faces a challenge with more companies moving to ARM. I think it’ll be mostly flat until they sell their graphics division or announce a play for the ARM space.",
+          "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8jbnt9/",
+          "created": 1718340588,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l8hjo03",
+      "score": 9,
+      "body": "I remember when I bought 3,000 shares of AMD in 2016 for $4,500. If only I had held on to them longer.",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8hjo03/",
+      "created": 1718313535,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l8iz44u",
+          "score": 5,
+          "body": "I had in 2010 30 Nvidia shares. Sold them for 12.85 eur per share :-)\n\n...",
+          "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8iz44u/",
+          "created": 1718334268,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l8g9y4e",
+      "score": 17,
+      "body": "On amd?? Bro if u wanted to lose money you could've just given it to me 😂",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8g9y4e/",
+      "created": 1718298294,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8goo64",
+      "score": 4,
+      "body": "Good buy",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8goo64/",
+      "created": 1718303217,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8h18qu",
+      "score": 4,
+      "body": "Why ? where's the DD ?",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8h18qu/",
+      "created": 1718307425,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l8htebu",
+          "score": 5,
+          "body": "Just look at their AI roadmap they announced at Computex. They’re copying nvidia’s release cadence. On paper their chips look more powerful. The bear thesis for AMD is that the demand is not there but why would they upgrade their release cadence to yearly to match Nvidia’s roadmap if the demand wasn’t there? Makes no sense. ",
+          "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8htebu/",
+          "created": 1718317049,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l8kzg6v",
+              "score": 1,
+              "body": "The thing is that Nvdia are 10 years ahead of them in research and application, they lack documentation to their GPU kernel and none of the higher ups were interested in that 2 years ago. If you want to know how bad it is, go look at George Hotz's streams [https://www.youtube.com/watch?v=BCnTXwhzzxA&t=88s](https://www.youtube.com/watch?v=BCnTXwhzzxA&t=88s)",
+              "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8kzg6v/",
+              "created": 1718374242,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l8gd63v",
+      "score": 3,
+      "body": "Selling covered calls?",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8gd63v/",
+      "created": 1718299364,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l8gjkb5",
+          "score": 4,
+          "body": "Sold nakeds. I know.",
+          "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8gjkb5/",
+          "created": 1718301470,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l8gye80",
+      "score": 3,
+      "body": "Not regarded",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8gye80/",
+      "created": 1718306477,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8hcmpx",
+      "score": 3,
+      "body": "I sold puts on AMD as it was going up this year. Made a solid amount of money! Then I got assigned shares literally at the very top. Holding 600 shares at 212.50. Waiting for break even one day!",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8hcmpx/",
+      "created": 1718311179,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8hfbwe",
+      "score": 3,
+      "body": "I do think AMD is a great long-term play. Short term? Probably not so much.",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8hfbwe/",
+      "created": 1718312066,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8itoss",
+      "score": 3,
+      "body": "12% chip marketshare and growing... \n\nbasically NVDA is for the fortune 500s, but AMD is for the start-ups that can't afford the crazy expensive NVDA chips.... and eventually these start-ups become the fortune 500s... just need time. You goood bro",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8itoss/",
+      "created": 1718331866,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l8jaofv",
+          "score": 1,
+          "body": "I think they only have like 3% now. Maybe projected to have 12% eventually. If they had 10% right now the stock would be close to $300 probably",
+          "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8jaofv/",
+          "created": 1718340048,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l8i09q3",
+      "score": 3,
+      "body": "Picked AMD over NVDA...yea I'm not the only one who said \"you belong here\"",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8i09q3/",
+      "created": 1718319707,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8g4l9q",
+      "score": 2,
+      "body": "No wayy dude. God speed",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8g4l9q/",
+      "created": 1718296530,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8g6k91",
+      "score": 2,
+      "body": "Thanks Regard. I have 3 calls at 160 expiring on 5th July. You give me hope.",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8g6k91/",
+      "created": 1718297180,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8i3xq5",
+      "score": 2,
+      "body": "This seems appropriate here.",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8i3xq5/",
+      "created": 1718321147,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8iav28",
+      "score": 2,
+      "body": "A true yolo would have bought AMDL at least![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4271)",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8iav28/",
+      "created": 1718323967,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8idmon",
+      "score": 2,
+      "body": "I come to this sub to jack off to these type of posts...",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8idmon/",
+      "created": 1718325117,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8g4q5p",
+      "score": 4,
+      "body": "I’m saving this post. Please let us know the turn out.",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8g4q5p/",
+      "created": 1718296577,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l8gl6js",
+          "score": 30,
+          "body": "This may be difficult to grasp but if it goes above $158.58, then he made money",
+          "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8gl6js/",
+          "created": 1718302011,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l8gloqf",
+              "score": -13,
+              "body": "Yup! Not difficult to grasp. I do call and put contracts all the time. Just not to his degree. I wish him the best though",
+              "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8gloqf/",
+              "created": 1718302177,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l8gsqzs",
+                  "score": 8,
+                  "body": "These are shares though.. & only messing with ya",
+                  "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8gsqzs/",
+                  "created": 1718304609,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l8g6hg7",
+          "score": 2,
+          "body": "Same",
+          "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8g6hg7/",
+          "created": 1718297155,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l8g7xmh",
+      "score": 2,
+      "body": "At least buy 3 puts to set up a stop gap",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8g7xmh/",
+      "created": 1718297628,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l8gwf7m",
+          "score": 2,
+          "body": "umm if he was regarded enough, he would have just bought 3 calls instead",
+          "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8gwf7m/",
+          "created": 1718305825,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l8irw8w",
+          "score": 1,
+          "body": "Uhhhh yeah and maybe change your tampon too while youre at it.",
+          "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8irw8w/",
+          "created": 1718331100,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l8gk7vd",
+      "score": 2,
+      "body": "AMD never loses",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8gk7vd/",
+      "created": 1718301686,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8g2yla",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 3 | **First Seen In WSB** | 4 weeks ago\n**Total Comments** | 32 | **Previous Best DD** | \n**Account Age** | 1 month | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8g2yla/",
+      "created": 1718295987,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8gud1a",
+      "score": 1,
+      "body": "gl",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8gud1a/",
+      "created": 1718305139,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8h1za2",
+      "score": 1,
+      "body": "Got 30k tied up. God speed regard",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8h1za2/",
+      "created": 1718307671,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8h4dze",
+      "score": 1,
+      "body": "Why are you playing on hard mode? Why not Nvidia?",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8h4dze/",
+      "created": 1718308470,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l8i19l7",
+          "score": 3,
+          "body": "Nvidia trade is overcrowded. Root for the underdog ",
+          "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8i19l7/",
+          "created": 1718320098,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l8ktdmm",
+              "score": 1,
+              "body": "Root for the underdog, absolutely. But YOLO the underdog? Bad bet.",
+              "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8ktdmm/",
+              "created": 1718371976,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l8h7qnh",
+      "score": 1,
+      "body": "No one should be doing anything with \"every penny I have left\" but then again that's why this subreddit exist",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8h7qnh/",
+      "created": 1718309580,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8hcrnz",
+      "score": 1,
+      "body": "So what’s the pay out here? I’m dumb",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8hcrnz/",
+      "created": 1718311224,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8hf5ci",
+      "score": 1,
+      "body": "AMD allways dies on earnings",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8hf5ci/",
+      "created": 1718312006,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8hghiq",
+      "score": 1,
+      "body": "It’s only shares so no big deal. Not what I would’ve picked but you’ll be fine.",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8hghiq/",
+      "created": 1718312448,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8hih9i",
+      "score": 1,
+      "body": "These aren't short dated deep otm calls?!?!?!\n\nHOW. DARE. YOU. ![img](emote|t5_2th52|27421)",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8hih9i/",
+      "created": 1718313125,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8hinac",
+      "score": 1,
+      "body": "Ga-Wow.   Good luck!  😳😬",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8hinac/",
+      "created": 1718313182,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8hoelv",
+      "score": 1,
+      "body": "Just sold all of mine. Didn't move for a long time. Put it all in NVDA",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8hoelv/",
+      "created": 1718315201,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8hqeuy",
+      "score": 1,
+      "body": "![img](emote|t5_2th52|4258)![img](emote|t5_2th52|4258)![img](emote|t5_2th52|4258)![img](emote|t5_2th52|4258)![img](emote|t5_2th52|4258)![img](emote|t5_2th52|4276)",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8hqeuy/",
+      "created": 1718315927,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8huiy1",
+      "score": 1,
+      "body": "Recommendation from a friend- ARM",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8huiy1/",
+      "created": 1718317479,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8hyuki",
+      "score": 1,
+      "body": "Good on you. At least not me buying when they were $208 a share. Full regard",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8hyuki/",
+      "created": 1718319157,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8i01tz",
+      "score": 1,
+      "body": "rip",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8i01tz/",
+      "created": 1718319623,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8ifnn8",
+      "score": 1,
+      "body": "Me in ASML, AMAT, and LRCX rn",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8ifnn8/",
+      "created": 1718325961,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8ihvhp",
+      "score": 1,
+      "body": "Do you know that Cramer just said he is bullish on AMD?",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8ihvhp/",
+      "created": 1718326886,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8ihx3x",
+      "score": 1,
+      "body": "Dude is calling his play a YOLO, and yall telling him to get covered calls and protective puts. ![img](emote|t5_2th52|4259)![img](emote|t5_2th52|4259)![img](emote|t5_2th52|4640)![img](emote|t5_2th52|4640)",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8ihx3x/",
+      "created": 1718326904,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8immhz",
+      "score": 1,
+      "body": "I adjust the target price for AMD to be now $450",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8immhz/",
+      "created": 1718328902,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8itbpz",
+      "score": 1,
+      "body": "It's okay, a bunch of teenagers are gonna mispell AMC and accidentally buy AMD pumping it up",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8itbpz/",
+      "created": 1718331709,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8itmzo",
+      "score": 1,
+      "body": "Why not Nvidia? You might actually make a lot of money",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8itmzo/",
+      "created": 1718331845,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8iw51x",
+      "score": 1,
+      "body": "any dd behind this or just straight up yolo?",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8iw51x/",
+      "created": 1718332937,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8j6pbw",
+      "score": 1,
+      "body": "Their P/e is at Cisco levels already there are better optionz",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8j6pbw/",
+      "created": 1718337937,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8j8wwa",
+      "score": 1,
+      "body": "But Morgan staneky said no /s",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8j8wwa/",
+      "created": 1718339092,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8j9034",
+      "score": 1,
+      "body": "Why not the better older brother?",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8j9034/",
+      "created": 1718339139,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8jbduu",
+      "score": 1,
+      "body": "Since you have 300, sell covered calls every other week. Sell only options when the calls go for $.50 or less and when the IV is under 60%. Avoid earnings week. Happy $150 every 2 weeks. Sip tea.",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8jbduu/",
+      "created": 1718340435,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8jk6n2",
+      "score": 1,
+      "body": "Might have bought too early, but I'm sure it end up back at $170 before to long.",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8jk6n2/",
+      "created": 1718345658,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8jo6sw",
+      "score": 1,
+      "body": "I bought a few shares as support. God speed fellow regard",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8jo6sw/",
+      "created": 1718348268,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8joq7w",
+      "score": 1,
+      "body": "tsm the better bet",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8joq7w/",
+      "created": 1718348627,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8jwgft",
+      "score": 1,
+      "body": "I hate AMD's price action, what made you get in? lol",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8jwgft/",
+      "created": 1718354071,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8k62yk",
+      "score": 1,
+      "body": "Bro.....",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8k62yk/",
+      "created": 1718360783,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8k68ls",
+      "score": 1,
+      "body": "![img](emote|t5_2th52|4259)",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8k68ls/",
+      "created": 1718360883,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8khs2a",
+      "score": 1,
+      "body": "What's your thought on why to buy calls today?",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8khs2a/",
+      "created": 1718367040,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8l5iuk",
+      "score": 1,
+      "body": "Ohhhhh someone is up already :)",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8l5iuk/",
+      "created": 1718376393,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8mwhpr",
+      "score": 1,
+      "body": "Short term Ur gonna feel a bit of pain, but it'll pay off by earnings and even more October ISH probably.",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8mwhpr/",
+      "created": 1718397808,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8p3hyc",
+      "score": 1,
+      "body": "You are going to lose it all on amd, it sucks, get out of it",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8p3hyc/",
+      "created": 1718436190,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8q9v66",
+      "score": 1,
+      "body": "I support this yolo.",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8q9v66/",
+      "created": 1718462590,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8h343n",
+      "score": 1,
+      "body": "Anything but Intel",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8h343n/",
+      "created": 1718308047,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l8hvvva",
+          "score": 3,
+          "body": "Looking at the chart, I'm so tempted to buy Intel.But the fundamentals don't stack up, as best as I can tell.\n\nBut if someone posted even a semi-coherent DD to go long Intel, I'd probably get sucked into buying. ![img](emote|t5_2th52|4271)",
+          "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8hvvva/",
+          "created": 1718318006,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l8htc51",
+      "score": 1,
+      "body": "Huh but why now? AMD usually goes down before and after earnings. We just got a small FED scare that made NVDA a buying opportunity yet AMD stock went down for both days and today. So there must be some sort of catalyst OP sees in AMD in the near future, before the earnings sell off?",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8htc51/",
+      "created": 1718317026,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l8iw8w3",
+          "score": 1,
+          "body": " And too many insider sells. Doesn’t scream confidence to me.",
+          "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8iw8w3/",
+          "created": 1718332984,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l8ixyuq",
+              "score": 1,
+              "body": "Exactly. I’m so confused as to how someone can say…right now.. to go into AMD. 😂",
+              "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8ixyuq/",
+              "created": 1718333757,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l8iymzl",
+                  "score": 1,
+                  "body": "Especially with NVDA easier to enter after the split.",
+                  "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8iymzl/",
+                  "created": 1718334056,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l8h4813",
+      "score": 0,
+      "body": "$50k yolo on advanced money destroyer? God bless",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8h4813/",
+      "created": 1718308414,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8j9zye",
+      "score": 0,
+      "body": "Why not NVDA? All the guys I know in Silicon Valley say NVDA is way ahead of the competition and Intel/AMD are a joke lol",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8j9zye/",
+      "created": 1718339676,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l8jatm7",
+          "score": 1,
+          "body": "AMD is catching up. They are the closest competitor. Intel is years and years behind.",
+          "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8jatm7/",
+          "created": 1718340127,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l8gr7sc",
+      "score": -1,
+      "body": "AMD got rough financials rn. Long term play fs better hope they stay float",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8gr7sc/",
+      "created": 1718304110,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8gv8ux",
+      "score": -1,
+      "body": "AMD ain’t it bro. Look at their profit margins, they struggle to make money. Just go in NVDA. AMD is the first loser, not the runner up.",
+      "permalink": "/r/wallstreetbets/comments/1df3444/deleted_by_user/l8gv8ux/",
+      "created": 1718305435,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

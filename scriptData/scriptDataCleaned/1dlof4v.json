@@ -1,0 +1,1752 @@
+{
+  "title": "How has AI not already run rampant with stocks?",
+  "score": 239,
+  "selftext": "It must be possible for computers to look historically at EVERY variable and find winning trades. \n\nAre there companies running algorithms such as figuring out that after a stock sells off more than 5% and the rsi reaches X level that it has an 80% chance of rebounding at least 3%. \n\nObviously they could continue expanding the variables that they check and find patterns that no trader is accounting for. Are these too tough to program when so much of stock movement is subjective based on human emotional to an earnings call or a change in sentiment? \n\nWho knows maybe stocks perform best the first sunny day after at least 3 straight rainy days in New York when the market has been down greater than or equal to 5% over the past 4 weeks. You get the idea…\n",
+  "link_flair_text": null,
+  "id": "1dlof4v",
+  "num_comments": 263,
+  "created_utc": 1719034240,
+  "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/",
+  "comments": [
+    {
+      "id": "l9q6a78",
+      "score": 625,
+      "body": "That's called quantitative trading. Some of the largest hedge funds in the world do it. Those strategies become very saturated very quickly, which is why firms like HRT, Jane street, Citadel, and Shaw pay hundreds of thousands to PhDs and students, which pay can get to 7-8 figures for top performers.",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9q6a78/",
+      "created": 1719034950,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9q9y6l",
+          "score": 254,
+          "body": "And the above average ones at Jane Street go on to make the world's biggest crypto scam",
+          "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9q9y6l/",
+          "created": 1719037315,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9tmnm0",
+              "score": 50,
+              "body": "Quants quickly exploit any arbitrage there is to be made, so the opportunity essentially disappears on a lot of the trades they’d make anyway. Many machines doing the same trades",
+              "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9tmnm0/",
+              "created": 1719094279,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "la7fiy1",
+                  "score": 1,
+                  "body": "Yea which is why I don’t really have any interest in algorithmic trading. I am not going to beat the hundreds of thousands of PhDs working around the clock building and refining code with market access, data access, and direct exchange colocation access we will never have along with the best possible execution environment.\n\nSimply put the game is rigged against us and we have no possible chance to beat them. There is only two ways to make money these days it seems which is insider trading or etf allocation.",
+                  "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/la7fiy1/",
+                  "created": 1719323648,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l9qynzk",
+              "score": 18,
+              "body": "Can you elaborate on this?",
+              "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9qynzk/",
+              "created": 1719055015,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l9qzja5",
+                  "score": 102,
+                  "body": "Have you ever heard of Sam Bankman-Fried?",
+                  "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9qzja5/",
+                  "created": 1719055546,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l9r042x",
+                      "score": 54,
+                      "body": "Didn't know SBF was ex-Jane Street lol",
+                      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9r042x/",
+                      "created": 1719055893,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l9r0j4z",
+                          "score": 54,
+                          "body": "Yeah, that's what he did a few years before FTX",
+                          "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9r0j4z/",
+                          "created": 1719056138,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l9s9lof",
+                              "score": 43,
+                              "body": "Jane Street and the rest didn't get in on crypto at the time because of the regulatory risk, so SBF saw an opening to do the shady shit that the rest would not. And spend enough money on celebrities and stadium naming rights and political donations to be the \"legitimate\" player. Lol",
+                              "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9s9lof/",
+                              "created": 1719075445,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l9sgkpe",
+                                  "score": 9,
+                                  "body": "tbh his original strategy would work, it is essentially Mrs Watanabe crypto edition.",
+                                  "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9sgkpe/",
+                                  "created": 1719078075,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "l9u3tvd",
+                          "score": 4,
+                          "body": "Read this: https://finance.yahoo.com/news/first-job-sam-bankman-fried-103217906.html",
+                          "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9u3tvd/",
+                          "created": 1719101580,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "l9r5wn4",
+              "score": -12,
+              "body": "SBF committed fraud, it wasn’t really a scam.",
+              "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9r5wn4/",
+              "created": 1719059117,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l9r9qmi",
+                  "score": 52,
+                  "body": "Not really seeing the distinction here tbh",
+                  "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9r9qmi/",
+                  "created": 1719061056,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l9rmp8i",
+                  "score": 20,
+                  "body": "What’s the difference between fraud and a scam lol 😂",
+                  "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9rmp8i/",
+                  "created": 1719066720,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l9rs4t5",
+                      "score": 61,
+                      "body": "If you’re rich it’s fraud, if you’re poor it’s a scam. ",
+                      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9rs4t5/",
+                      "created": 1719068828,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l9rus37",
+                          "score": 3,
+                          "body": "Haha that’s better",
+                          "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9rus37/",
+                          "created": 1719069832,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "l9sd5ke",
+                      "score": 18,
+                      "body": "To me, a scam involves the basic operation of the business being deceptive. FTX was not a scam, it was a legitimate business. Then, SBF and others committed fraud and misused customer funds to prop up Alameda.",
+                      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9sd5ke/",
+                      "created": 1719076790,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l9u6516",
+                          "score": 1,
+                          "body": "That is viable.",
+                          "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9u6516/",
+                          "created": 1719102597,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "l9tgy6s",
+                  "score": 1,
+                  "body": "Legal term, for scam.",
+                  "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9tgy6s/",
+                  "created": 1719091975,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l9s0xew",
+                  "score": 0,
+                  "body": "I would call it skullduggery, fraud seems so harsh.",
+                  "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9s0xew/",
+                  "created": 1719072160,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l9q6g99",
+          "score": 50,
+          "body": "Then I guess my next question is… as these technologies become more efficient, does this leave less profit for people not using the technology. Does there come a time when this technology is so dominant that nobody else makes money?",
+          "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9q6g99/",
+          "created": 1719035055,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9q73js",
+              "score": 139,
+              "body": "Well, yeah, but these firms used to battle and pay millions for specific office spaces because it was closer to the exchange. They don't do this anymore because the exchanges guaranteed same time access to all firms. It's really competitive over milliseconds. These firms almost always have the best servers.\n\nQuant firms are traders, not investors. Trading, as a whole, is not great to most people. Investing is where most people will make their money. Quant firms don't hold for super long time periods, and value stocks differently than investors, so there's basically no way that people would ever be pushed out fully by technology. Don't look at the market as a zero sum game. It really isn't. Almost everyone makes money when the market grows, so realistically there's more than enough capital for all good investors to have a piece",
+              "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9q73js/",
+              "created": 1719035461,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l9q9pfz",
+                  "score": 39,
+                  "body": "This is important and I do not think enough people understand this. I worked on IT in the City - back-end not front end. I got a chance to see these systems where response time was everything. Back then, even though the trades were done with the mouse, they were demanding guaranteed millisecond transactions because the margins were so tight. Remove the human and the demand will be for instantaneous transactions with no lag due to network or server performance. While it is true that the exchanges have implemented huge \\[relative\\] network delays to level the playing field for all traders, anyone who is not physically adjacent to the exchange will always fail to beat the automatic traders to a bet. You can still get lucky because a lot of stock movement is on sentiment or stochastic rather than objectively determinable but over the long run you would need extreme luck to beat the system.",
+                  "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9q9pfz/",
+                  "created": 1719037154,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l9ry21e",
+                      "score": 24,
+                      "body": "> no lag\n\nAnd the lengths they're willing go, in order to achieve ***LITERALLY \"no lag\"***, are astounding.\n\nSome of them even use faster-than-speed-of-light ^* information to beat their competitors!!! :)\n\nhttps://www.npr.org/sections/alltechconsidered/2013/09/24/225824387/the-mystery-of-600-million-traded-in-the-blink-of-an-eye\n\n>> npr.org  ... The Mystery Of $600 Million Traded In The Blink Of An Eye\n>>\n>> ... Last Wednesday, the Federal Reserve announced it would not be tapering its bond buying program at 2 p.m. ET. The news takes seven milliseconds — about the speed of light — to reach Chicago. But before the seven milliseconds was up, a few huge orders based on the Fed's decision were placed on Chicago exchanges. ...\n\n^(* and yes, I realize that's an example of criminal behavior, rather than physics breaking; but that's still a good example on how amateurs really can't compete against them)",
+                      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9ry21e/",
+                      "created": 1719071073,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l9ski5k",
+                          "score": 7,
+                          "body": "This means that it is likely those firms knew ahead of time what the Fed was going to do, and set things up to fire off as soon as the announcement began, rather than waiting for it to end.",
+                          "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9ski5k/",
+                          "created": 1719079543,
+                          "depth": 5,
+                          "replies": []
+                        },
+                        {
+                          "id": "l9snwri",
+                          "score": 6,
+                          "body": "I recently read that the speed of light is lower over fiber than air. So microwave antennas from one build to another gives you an edge over fiber between them. Let me see if I can find that reference",
+                          "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9snwri/",
+                          "created": 1719080839,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l9tihfz",
+                              "score": 5,
+                              "body": "Light in a fiber optic cable is repeatedly bouncing across the cable so it covers a lot more distance than the length of cable. The VoP(Velocity of Propagation) of some fiber optic cables are actually slower than certain coaxial cables.",
+                              "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9tihfz/",
+                              "created": 1719092573,
+                              "depth": 6,
+                              "replies": []
+                            },
+                            {
+                              "id": "l9vh96u",
+                              "score": 2,
+                              "body": "There are a lot trading firms in Jersey City doing exactly that.",
+                              "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9vh96u/",
+                              "created": 1719127736,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "l9qac6m",
+                      "score": 20,
+                      "body": "Yeah, beating quant firms is just not something the average person can do, so you really shouldn't try. Instead, focus on fundamentals. Investing in long term stocks and quant firms aren't even playing the same game. They're so different that both can make money at the same time.",
+                      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9qac6m/",
+                      "created": 1719037574,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l9qc036",
+                          "score": 6,
+                          "body": "I’m not saying I’m beating quant firms but my trading set up I’ve discovered is killing it consistently, and it’s got me thinking “surely an algorithm could do what I’m doing x100”.",
+                          "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9qc036/",
+                          "created": 1719038705,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l9rc0oz",
+                              "score": 19,
+                              "body": "If you can describe your process as a deterministic step by step set of instructions, with only objective or mathematical reasons, and no intuitive steps…. Then yeah, basically it’s already an algorithm.",
+                              "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9rc0oz/",
+                              "created": 1719062132,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l9sd1eg",
+                                  "score": 3,
+                                  "body": "Yeah, most traders live in a completely different game than quants.",
+                                  "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9sd1eg/",
+                                  "created": 1719076748,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "l9s60ex",
+                              "score": 5,
+                              "body": "Depends on conditions etc. And risk. Since covid there are fintok gurus who have the flawless system \"buy tech calls when they dip\" and thats been good, with insane returns.  You wont see a hedge fund with these same returns due to both scale (cant move in and out of 1000s of calls easily) and risk. Sure, people have made fortunes doing it. But if your entire account is highly correlated nasdaq stocks a market wide 10% down correction would blow up that portfolio in a week.",
+                              "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9s60ex/",
+                              "created": 1719074074,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l9vhpar",
+                                  "score": 1,
+                                  "body": "You’re right in that scale ability has a lot to do with it. An individual can employ strategies and make really nice sums of money because you’re using sums of money that afford you more agility.",
+                                  "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9vhpar/",
+                                  "created": 1719128057,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "l9vjrwo",
+                              "score": 4,
+                              "body": "> killing it consistently \n\nTime frame needed.",
+                              "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9vjrwo/",
+                              "created": 1719129547,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "la2ywod",
+                                  "score": 1,
+                                  "body": "Give 100 people a coin and say, you have only 5 flips, try to develop a strategy that gives more tails than heads results.\n\nAt least 3 of them are going to flip all or mostly tails just by pure luck, and they'll proudly talk about how they definitely influenced the results through their technique.",
+                                  "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/la2ywod/",
+                                  "created": 1719251765,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "la8x1rg",
+                              "score": 1,
+                              "body": "They can’t though. Because your trade doesn’t scale. You don’t have to worry about market impact, they do. If you scaled up your trade 100x, you would experience slippage.",
+                              "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/la8x1rg/",
+                              "created": 1719341632,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "l9ssc00",
+                      "score": 2,
+                      "body": "AI can’t accurately quantify fear and greed of humans down to the millisecond",
+                      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9ssc00/",
+                      "created": 1719082523,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "l9qfmwz",
+                      "score": 4,
+                      "body": "[Flash Boys](https://en.m.wikipedia.org/wiki/Flash_Boys)",
+                      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9qfmwz/",
+                      "created": 1719041251,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "l9qia73",
+                  "score": 3,
+                  "body": "Do you have any resources to understand how quant firms value stocks?",
+                  "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9qia73/",
+                  "created": 1719043159,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l9rxp4z",
+                      "score": 16,
+                      "body": "Quant firms don't value stocks. They trade patterns and momentum. The actual fundamentals of the business doesn't matter to them.",
+                      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9rxp4z/",
+                      "created": 1719070936,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l9scsaw",
+                          "score": 3,
+                          "body": "Fundamentals do matter, but not in the typical way. There used to be a quant strategy that was just buy small caps with a low P/B, and that worked for a long time. Nowadays, you've gotta search a lot to find something that actually works",
+                          "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9scsaw/",
+                          "created": 1719076652,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "l9qlsl3",
+                  "score": 3,
+                  "body": "[deleted]",
+                  "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9qlsl3/",
+                  "created": 1719045745,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l9sckx6",
+                      "score": 4,
+                      "body": "We cannot beat the quant firms, full stop. Unless you have the resources and education to actually beat them, you won't be able to, but why even try? You're fighting over small, temporary gains on a strategy that will inevitably be discovered. It's like trying to play basketball for the first time and being thrown in with the '96 Bulls. Why not just go elsewhere and use other strategies that we know will work for the average investor",
+                      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9sckx6/",
+                      "created": 1719076575,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l9sr8zx",
+                          "score": 2,
+                          "body": "[deleted]",
+                          "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9sr8zx/",
+                          "created": 1719082112,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l9su517",
+                              "score": 1,
+                              "body": "Those Ai don't really hallucinate. The ML systems that quants use are VERY different from something like ChatGPT. Much more number savvy. They're so much more purpose built that it basically never has those issues. Most quant strategies are still developed by people, utilizing Ai. I don't think we disagree here. Ai really sucks at writing code. IDK if you've ever asked GPT for some CPP, but it can give you ludicrously unsafe code.",
+                              "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9su517/",
+                              "created": 1719083210,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "l9u543g",
+                  "score": 1,
+                  "body": "*single digit microseconds",
+                  "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9u543g/",
+                  "created": 1719102147,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l9qh91j",
+              "score": 20,
+              "body": "You live like 10-20 years in the past quantitative trading does not need LLM and people have been doing it for long. Thats why day trading hasn't been a winning strategy for a long time.",
+              "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9qh91j/",
+              "created": 1719042411,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l9vi2u2",
+                  "score": 1,
+                  "body": "There’s plenty of money to be made day trading, I don’t know why people keep repeating this.",
+                  "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9vi2u2/",
+                  "created": 1719128324,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l9vq8dp",
+                      "score": 1,
+                      "body": "for me it's 2 reasons: \n\n1.) it's time intensive, it's possibly better to try to get raises at jobs, you may get almost 1 million per year in compensation if you are in the right spot\n\n2.) doing nothing and getting 7-10% from a fund with a higher savings rate seems better as a choice.\n\n  \nif you really want to day trade, I think the profitable way is to go to a hedgefund and do your trades there.",
+                      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9vq8dp/",
+                      "created": 1719134349,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "l9vv4wd",
+                      "score": 1,
+                      "body": "There's absolutely not. Some people make money for a while, only not to realize they were taking on a whole bunch of risk, which probability wise they were to lose at some point. Kind of like playing insurance, but you are not the house. People who think there's money to made day trading usually will find a strategy that won't consider any sort of black swan events.",
+                      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9vv4wd/",
+                      "created": 1719138006,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "l9r0dfl",
+                  "score": 1,
+                  "body": "I mean for 99% no, but there’s a select few who are good enough to day trade",
+                  "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9r0dfl/",
+                  "created": 1719056044,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l9qweb9",
+              "score": 8,
+              "body": "Look up Renaissance Technology. They’ve been massively successful for a long time and it hasn’t affected mainstream strategies like index funds at all.",
+              "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9qweb9/",
+              "created": 1719053563,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l9qbwqu",
+              "score": 20,
+              "body": "Marcos López de Prado believes ML quants are already starting to leave non-ML quants behind. He believes that in the future, the stock market will be so efficient due to ML that it’ll be hard for retail investors to go from rags to riches, but people’s retirements and the financial economy will be more stable.\n\nIn his book (Advances in Financial Machine Learning), he describes the stock market as mining for gold. In the beginning (the Gold Rush), it’s easy for laymen with simple tools (like econometrics in the earlier stock market) to strike it rich. As all the larger easier to obtain gold pieces are removed, it becomes much harder for laymen to get rich from mining gold. But nowadays, newer tech inaccessible to laymen are mining traces of gold that total much more gold than was ever mined during the Gold Rush—he sees ML and “experimental math” as the current forces doing this.",
+              "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9qbwqu/",
+              "created": 1719038642,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l9qc7y6",
+                  "score": 5,
+                  "body": "That’s pretty cool and makes sense, thanks for sharing, interesting",
+                  "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9qc7y6/",
+                  "created": 1719038857,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l9s6h09",
+                  "score": 1,
+                  "body": "I agree to some extent re: finding a mathematical, repeatable edge will disappear. But, as long as leveraging to the tits exists, you will be able to strike it huge. Hell, as the numbers climb gamma grows and options trade even stupidlier returns.",
+                  "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9s6h09/",
+                  "created": 1719074244,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lad22x4",
+                  "score": 1,
+                  "body": "> he describes the stock market as mining for gold\n\nThe HFT firms are more like bank robbers stealing gold from the unsuspecting public",
+                  "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/lad22x4/",
+                  "created": 1719409508,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l9qsnn2",
+              "score": 9,
+              "body": "No.\n\nEven if markets are perfectly saturated you will make money proportional to the risk you are taking. IE you won't make any alpha but you can still make beta returns. You can't \"efficiency away\" beta returns as long as money has a time value and people are risk averse.",
+              "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9qsnn2/",
+              "created": 1719050932,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l9r5vub",
+              "score": 3,
+              "body": "Not unless the market stops growing. Theres unlimited money available and if markets grow everyone wins (except short sellers, but screw them)",
+              "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9r5vub/",
+              "created": 1719059105,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l9r3i1s",
+              "score": 4,
+              "body": "It already means it is extremely hard to time the market using this kind of chart based analysis and it has been that way for at least 20 years. Generative AI is irrelevant, machine learning has been around for a long time.\n\nThe important thing to remember is none of that technical analysis stuff is “real”. It’s a meta game based on predicting the behavior of others in the market. The very action of identifying trends and acting on them changes the game because you have now made yourself predictable. There is no solvable solution to games like these.\n\nThere is, however, just regular old investing where buy good companies low and sell them high, which works just as well as it ever did and always will.",
+              "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9r3i1s/",
+              "created": 1719057819,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l9qm94g",
+              "score": 2,
+              "body": "It leaves less profit for the people who rely on the same input sources as the quants: earning calls, fundamental and technical metrics, press releases. All of those are optimized for AI decisions.\n\nIf you take your own real world perception, knowledge of the company and \"mood on the ground\", you might still have a chance. Which is basicly what Peter Lynch is saying in \"One up on Wall Street\".",
+              "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9qm94g/",
+              "created": 1719046087,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l9qeoap",
+              "score": 4,
+              "body": "There is always going to be room to make money where others don’t see patterns you do. AI is really dumb and only sees established patterns that the past has experienced. It doesn’t possess the ability to do critical thinking (at this time). It’s a very elaborate pattern recognition tool. In some ways so are people. But people try things that don’t fit the established patterns all the time. Also add that people are inherently irrational market participants. There is always chaos at play. \n\nAnd also don’t confuse trading with investing. There’s plenty of money to be made in investing. It just takes longer.",
+              "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9qeoap/",
+              "created": 1719040566,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l9s8hmw",
+                  "score": 1,
+                  "body": "Ever heard of unsupervised learning? AI can definitely see previously unestablished patterns. Even with supervised learning, it can find patterns in variables that you wouldn't expect.",
+                  "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9s8hmw/",
+                  "created": 1719075026,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l9r60zu",
+                  "score": 1,
+                  "body": ">ai only sees established patterns that the past has experienced\n\nWhat are the other types of patterns?",
+                  "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9r60zu/",
+                  "created": 1719059181,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l9s6w89",
+                      "score": 2,
+                      "body": "Patterns that arent mathematically significant but you can risk it on, basically. Or guesses on market reaction to news.\n\n\nFwiw we rallied into the close 80% of the time at some point earlier this year. That kinda stuff. It was easy money with outsized rewards on the 0dtes at the last 30 minutes.",
+                      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9s6w89/",
+                      "created": 1719074399,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "l9rwesk",
+              "score": 1,
+              "body": "Not really, since normal people don't do quantitative trading. We just set up a portfolio for long timescales and assume the economy won't hit a wall in the coming 15 -40 years until I need that money for retirement. If you go for quantitative trading without high frequency algorithms you have basically a massive disadvantage even without AI.",
+              "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9rwesk/",
+              "created": 1719070450,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l9s5fkm",
+              "score": 1,
+              "body": "You wont have an edge in spreads, algo trades, or anything mathematical like that. But you can still make money with the flow. You wont frontrun the big boys on a mispriced option, but you can still buy one and sell it for more. So, yes and no.",
+              "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9s5fkm/",
+              "created": 1719073858,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l9sk4j1",
+              "score": 1,
+              "body": "It's like any strategy. The best ones at it make all the money off of THAT strategy, leaving the rest of us to find a different opportunity.",
+              "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9sk4j1/",
+              "created": 1719079400,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l9vv1i1",
+              "score": 1,
+              "body": "For anyone not using it, stock market is a random walk.",
+              "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9vv1i1/",
+              "created": 1719137936,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l9s4i3r",
+          "score": 4,
+          "body": "And not just for the people making the algorithms - these firms pay for physical fiber network connectivity and space \"next to\" (same data centers/racks) the hardware that runs the stock exchanges.  \n  \n*Even if you ran the same algorithm you'd lose* they will trade before you (potentially by a few microseconds) _every single time_. We haven't even talked about \"payment for order flow\" yet.",
+          "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9s4i3r/",
+          "created": 1719073515,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l9qw02l",
+          "score": 1,
+          "body": "But I think OPs point is that AI can do the quantitative trading or us.",
+          "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9qw02l/",
+          "created": 1719053299,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l9s4jmu",
+      "score": 66,
+      "body": "There’s a lot of people in this thread who are very confident of things they clearly know nothing about.\n\nI’ve got a masters in machine learning. Part of that included a course on using it for trading. During that course hedge funds came in to recruit students out of the class. They’ve been using AI for trading for quite some time. Building an AI bot for trading that outperforms a certain benchmark was literally our final project.\n\nLooking at “every variable” isn’t possible. You can only look at data that’s actually available and it has to be available in a way that the AI can interpret. We can take time cleaning the data but in the stock world time is money.\n\nBut looking at sentiment analysis (i.e. scraping twitter), analyzing indicators (i.e. rsi), and considering stranger data points (day of the week, weather) are all things they already do very successfully.",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9s4jmu/",
+      "created": 1719073531,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9ub7je",
+          "score": 10,
+          "body": "Any service recommendation （free or paid） that allows you to access to such market information that can be exported and doesn't require that much cleaning to be used to train models?",
+          "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9ub7je/",
+          "created": 1719104844,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9x0we5",
+              "score": 5,
+              "body": "That’s a great question but no I don’t have any service recs. For my course we were only allowed to use the stock’s price and we had to come up with the indicators ourselves. I imagine there are services that make the indicators available.\n\nFor sentiment analysis, when I took the course it was common for people to scrap Twitter (though nobody in the class needed to set that up to pass). But Twitter scraping was free to do at the time. I’m not sure what individual devs do today.",
+              "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9x0we5/",
+              "created": 1719157808,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l9vd0uc",
+          "score": 2,
+          "body": "Is it considered stock manipulation to trick ai scraper bots. Seems like a concerted effort could be used to steal from the rich and give to the poor",
+          "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9vd0uc/",
+          "created": 1719124784,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9ws2l1",
+              "score": 1,
+              "body": "Technically no, but the reality is rich people make up the rules when they need to so they’ll find some excuse to put you in jail or sue you into poverty.",
+              "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9ws2l1/",
+              "created": 1719154508,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l9upmu7",
+          "score": 1,
+          "body": "so did your final project perform better than the index? and when are you gonna start a fund so i can invest",
+          "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9upmu7/",
+          "created": 1719111442,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9uvzwa",
+              "score": 7,
+              "body": "I beat the benchmark which was determined by a buy, hold, and sell at the end of the period strategy. Most of the class beat the benchmark as that was necessary to get a B or higher on the project. \n\nIf you send me a worthwhile amount of money I’ll throw it in an AI bot within two weeks. It’s not hard. \n\nThe hard part is setting up proper monitoring and maintenance such that you could be confident putting your life’s savings in there. That’s why most people who can build these bots for themselves often don’t. Just like how not everyone who can start their own company actually does it.\n\nIf you go with an actively traded hedge fund they’re certainly already doing this.",
+              "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9uvzwa/",
+              "created": 1719114615,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l9vjb8y",
+                  "score": 2,
+                  "body": "What undergraduate education would you recommend to pursue to later get a masters in ML for that purpose?",
+                  "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9vjb8y/",
+                  "created": 1719129208,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l9vk61j",
+                      "score": 4,
+                      "body": "Computer science.",
+                      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9vk61j/",
+                      "created": 1719129832,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "l9w8yu8",
+                      "score": 3,
+                      "body": "CS or Statistics",
+                      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9w8yu8/",
+                      "created": 1719146369,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "l9wsjga",
+                      "score": 2,
+                      "body": "I agree with the other commenters, Computer Science or Statistics depending on what side of the work you’d like to be on. If you’re not sure, or just want the most job opportunity, then CS is the better choice imo.",
+                      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9wsjga/",
+                      "created": 1719154686,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "l9yjo6c",
+                  "score": 2,
+                  "body": "Hypothetically how much money would you consider a worthwhile amount, for such a task?",
+                  "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9yjo6c/",
+                  "created": 1719177500,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l9xn5rx",
+          "score": 1,
+          "body": "Is their data you get access to that is harder to get. Like stuff from a Bloomberg terminal.",
+          "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9xn5rx/",
+          "created": 1719165933,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9xqgl0",
+              "score": 1,
+              "body": "For the class we only had access to the pricing info. For the indicators we had to derive them ourself from the price.\n\nIn the real world I imagine you can purchase additional data from various sources if you’d like. I know Twitter scraping used to be very common back when it was free.",
+              "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9xqgl0/",
+              "created": 1719167123,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l9qgiye",
+      "score": 115,
+      "body": "Renaissance technologies has been doing trading based on mathematical models for decades, delivering outlandish compounded annual returns which they're able to sustain over time because they limit the overall amount of assets under management. Sadly they are not open to the public.",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9qgiye/",
+      "created": 1719041889,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9rcxha",
+          "score": 27,
+          "body": "RT has funds open to outside investors. Their highest performing fund (Medallion) is closed.",
+          "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9rcxha/",
+          "created": 1719062553,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9s5ly8",
+              "score": 4,
+              "body": "Their site doesn't list any, as far as I can tell. Where did you find these open funds?",
+              "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9s5ly8/",
+              "created": 1719073923,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l9s7yr8",
+                  "score": 9,
+                  "body": "A quick Google search can answer that. RIEF is one example. These are not investable by the general public but they are open to investors outside of Renaissance.",
+                  "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9s7yr8/",
+                  "created": 1719074790,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l9szq9y",
+                      "score": 14,
+                      "body": "Sooooo only the rich can ride the rich wave? Classic.",
+                      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9szq9y/",
+                      "created": 1719085370,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l9tdmub",
+          "score": 11,
+          "body": "I knew of a shop that delivered crazy returns as well, every year, no matter the economic cycle.  It was very exclusive to get in.  Madoff Funds",
+          "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9tdmub/",
+          "created": 1719090681,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9v10pj",
+              "score": 6,
+              "body": "Weekend at Bernie’s! 😍😍",
+              "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9v10pj/",
+              "created": 1719117310,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l9qh12m",
+      "score": 187,
+      "body": "If the stock market was that predictable nobody would lose money on it",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9qh12m/",
+      "created": 1719042252,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9rlmzt",
+          "score": 89,
+          "body": "And if AI was that powerful, we would use it to predict every other aspect of society. Cops would be fighting future-crime. This isn’t sci-fi.",
+          "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9rlmzt/",
+          "created": 1719066295,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9tlcpo",
+              "score": 8,
+              "body": "Like Minority Report?",
+              "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9tlcpo/",
+              "created": 1719093737,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l9ymn42",
+                  "score": 1,
+                  "body": "Kind of. The software takes in current events and can somewhat reliable predict areas with high probability of crimes within the next days. Works frightingly good.",
+                  "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9ymn42/",
+                  "created": 1719178599,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "la6mvr9",
+                      "score": 1,
+                      "body": "You are under arrest for the future crime of murder",
+                      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/la6mvr9/",
+                      "created": 1719309492,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "la7rty1",
+                          "score": 1,
+                          "body": "Doesn‘t work like that. It will only highlight areas with expected crimes, not the crimes in particular. The idea is to focus patrols more on these areas to prevent and detect activity.",
+                          "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/la7rty1/",
+                          "created": 1719328027,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "l9rxqwd",
+              "score": 12,
+              "body": "Yet",
+              "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9rxqwd/",
+              "created": 1719070955,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l9t3xqm",
+              "score": 5,
+              "body": "Psycho Pass",
+              "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9t3xqm/",
+              "created": 1719086986,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l9uukgj",
+              "score": 1,
+              "body": "From what I've read the police already use algorithms that try to predict future crimes to decide where to send officers to patrol.",
+              "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9uukgj/",
+              "created": 1719113892,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l9rgbsb",
+          "score": 15,
+          "body": "This needs to be upvoted much more.    If you trust an AI to trade your hard earned money, let me know what streetcorner you're going to be on in 5 years so I can give you $6 for a sandwich.",
+          "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9rgbsb/",
+          "created": 1719064080,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9s2qau",
+              "score": 17,
+              "body": "The key is to trade *other* peoples money with AI and take a commission. ",
+              "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9s2qau/",
+              "created": 1719072847,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l9tsehv",
+              "score": 4,
+              "body": "Sir that sandwich will cost 8-9$ dollars in 5 years",
+              "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9tsehv/",
+              "created": 1719096682,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l9up7wq",
+              "score": 1,
+              "body": "didn't a ytber make a simple algorithm to trade and it got 5% in a month? And that's not even advanced ai\n\nedit: I misremembered, it actually made *74%* in one month, sub doesn't allow yt links tho. The video is by TradingLab on yt from a year ago",
+              "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9up7wq/",
+              "created": 1719111241,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l9vfbt6",
+                  "score": 3,
+                  "body": "I made 7% this month from QQQ, and that's a basic bitch ETF.",
+                  "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9vfbt6/",
+                  "created": 1719126361,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l9w9p5c",
+                  "score": 1,
+                  "body": "Probably the same month everyone else earned 7%",
+                  "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9w9p5c/",
+                  "created": 1719146734,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l9s4krv",
+          "score": 2,
+          "body": "The stock market is predictable. You just need one asset. Time. Plenty of people lost money during the major bull run of the last. Specific company stocks aren’t. \n\nS&P 500 fund and chill. That’s it.",
+          "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9s4krv/",
+          "created": 1719073543,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9ymv6k",
+              "score": 1,
+              "body": "You don‘t need AI for long term investment. These types of software are meant for high speed trading, which is less predictable.",
+              "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9ymv6k/",
+              "created": 1719178685,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l9upd2w",
+          "score": 1,
+          "body": "the point isn't to be perfect, the goal is to win more often than human trader",
+          "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9upd2w/",
+          "created": 1719111309,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9yn3l3",
+              "score": 1,
+              "body": "Everyone is equally bad at gambling. So even less to gain here.",
+              "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9yn3l3/",
+              "created": 1719178772,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l9qr6al",
+      "score": 34,
+      "body": "Stock prices by themselves are a random walk. They don't contain the information about why the price went up or down. You need to monitor a bunch of sources of information and do at lighting speeds to make any profit. ",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9qr6al/",
+      "created": 1719049824,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9ta8ln",
+          "score": 3,
+          "body": "Stock prices are not a random walk in the long term. They *can appear to be* in the short term, though.\n\nI would recommend reading \"A Non-Random Walk Down Wall Street\" which attempts to challenge \"A Random Walk Down Wall Street\" which itself is based on the Efficient Market Hypothesis.",
+          "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9ta8ln/",
+          "created": 1719089385,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l9shgxp",
+          "score": -1,
+          "body": ">  monitor a bunch of sources \n\nIf you want to get rich, you only need one source: real-time trades from the Congress people.",
+          "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9shgxp/",
+          "created": 1719078411,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l9qhipf",
+      "score": 23,
+      "body": "Because the stock market is not only not stationary, it is adaptive. AI or regression or value investing, nothing guarantees that you can capture the future changes of the market; while AI is better at predicting the past, it's not very profitable.\n\n\nEdit: wrong terms ",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9qhipf/",
+      "created": 1719042606,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9qa8kj",
+      "score": 19,
+      "body": "The absolutely bonkers volatility I've been seeing in premarket and first hour or so of open, going back a couple months at least, tells me there is a lot of experimentation going on with algorithms every day. I wouldn't be surprised if more than a few of these strategies integrate LLMs in some fashion, and they go off the rails more often with new techniques.",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9qa8kj/",
+      "created": 1719037506,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9ramns",
+          "score": 24,
+          "body": "How is an LLM going to help you decide to buy a stock? It's just a fucking chat bot",
+          "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9ramns/",
+          "created": 1719061479,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9rbe4i",
+              "score": -7,
+              "body": "LLMs aren’t just chat bots, I’d assume here they’d be used on sentiment analysis on stuff looks news articles about a given stock",
+              "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9rbe4i/",
+              "created": 1719061840,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l9rd7ao",
+                  "score": 10,
+                  "body": "Sentiment analysis with natural language processing has been around for a while. Google’s Natural Language API has it and is easy to use.",
+                  "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9rd7ao/",
+                  "created": 1719062677,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l9sdt5o",
+                  "score": 2,
+                  "body": "LLM's are an incredibly slow general purpose version of the hyper-optimized special purpose algos Wall Street has been running for years. \n\nThey may help analysts digest research. But the sentiment quant stuff is done by much faster technology.",
+                  "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9sdt5o/",
+                  "created": 1719077038,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l9rbqug",
+                  "score": 1,
+                  "body": "Oh so they're gonna go read doomer posts on WSB? That sounds useful.",
+                  "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9rbqug/",
+                  "created": 1719062005,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l9rqusy",
+      "score": 12,
+      "body": "All AI in chatgpt does is break words down into tokens and then finds the tokens  that most likely match your input and rearrange them into words again\n\nThe AI you’re referring to is called quant trading and you’re basically just paying the world’s brightest math guys to find algorithms that predict prices accurately. The problem being that others probably have the same algorithm you do so the price might go up before you have a chance to buy. So basically the world’s brightest math guys are constantly competing with either to come up with the best math solutions for returns",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9rqusy/",
+      "created": 1719068342,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9uv66a",
+          "score": 1,
+          "body": "Algorithms aren't the same as AI. \n\nAlgorithms still have humans involved in the loop, either to make the buy and sell decisions, or to do the buying and selling based on human input.\n\nAI on the other hand both decides what to buy and sell, and does the buying and selling itself.\n\nThere's a few ETFs that are advertised as being run entirely by AI that you can invest in, but they've tended to underperform the S&P500, and tend to have pretty high fees.",
+          "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9uv66a/",
+          "created": 1719114195,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l9q8inh",
+      "score": 10,
+      "body": "We assume AI has no error windows which is an invalid way of looking at this situation. AI is advanced machine learning until super-intelligence is achieved (which is what all these billionaires are burning their money to achieve)\n\nAI is built by humans so is inherently flawed. \n\nAs much as we deny it, humans trade on emotion which AI is devoid of.",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9q8inh/",
+      "created": 1719036372,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9ra1u9",
+          "score": 4,
+          "body": "AI built by humans trying to predict what humans will buy from the AI",
+          "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9ra1u9/",
+          "created": 1719061207,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l9rm6ps",
+      "score": 3,
+      "body": "Have you ever heard of the Renaissance Medallion Fund?",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9rm6ps/",
+      "created": 1719066513,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9qpyq1",
+      "score": 7,
+      "body": "Blackrock. ",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9qpyq1/",
+      "created": 1719048907,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9rhmen",
+      "score": 8,
+      "body": "What are these AI models called? LLM, large language models. They can’t do math, statistics or science. They are report writers and research assistants….lol. It’s all overblown hype.",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9rhmen/",
+      "created": 1719064637,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9qwiyt",
+      "score": 7,
+      "body": "ai is shit and you can't predict the future.  it can't even make elon musk mouth look correct",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9qwiyt/",
+      "created": 1719053649,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9s7zwq",
+      "score": 2,
+      "body": "Count on money making firms to always have the latest in knowledge tech. Knowledge is power, a d they aren't dumb.",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9s7zwq/",
+      "created": 1719074801,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9scvvo",
+      "score": 2,
+      "body": "Other responses here are good but I'll add my two cents. Finance is rather unlike other machine learning fields in that there are a large number of possible features, an almost infinite number of ways of transforming/engineering those features, and poor heuristics for feature selection. Add to that the large dataset sizes (20 years of daily data * 500 stocks in S&P 500 * N features per stock) and the computational complexity of most ML algos (most run in polynomial time proportional to training data size) means that in practice you will spend a majority of your time doing trial and error on which features and which transformations to use. Add to that the reactive and competitive nature of markets means that it's incredibly difficult and costly to even start running experiments on models, much less putting one into production.\n\nSource: Finance and Data science education + working at a fintech company specializing in ML model building for predicting financial markets",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9scvvo/",
+      "created": 1719076689,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9t4vgx",
+      "score": 2,
+      "body": "Another point that no one has pointed out yet: let say it is possible for AI or whatever algorithm to predict the market, as soon as people act on the predictions at a big enough scale, the predictions will no longer be valid because the market is influenced by the actions. Example: if you predict a stock to go up 10% in 5 days, then everyone with access to that algorithm will buy now. That will push the stock price up to that +10% predicted price before the 5 days, making the prediction no longer valid. This is also why well performing funds based on quant analysis capped in size, often not open to the public.",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9t4vgx/",
+      "created": 1719087345,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9tngzr",
+      "score": 2,
+      "body": "Hedge funds have been using ML for a long time.  And AI isn’t really a thing that exists other than the wet dreams of marketers in 2024.",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9tngzr/",
+      "created": 1719094622,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9qqazw",
+      "score": 4,
+      "body": "It’s easier to predict the question to an answer than to predict the future. When you ask a question in chat gpt, that questioned been asked millions of times in the training data. No one has ever seen what the market is going to do on Monday",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9qqazw/",
+      "created": 1719049168,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9r24gq",
+      "score": 2,
+      "body": "There are big companies doing this, as well as smaller ones and individuals.\n\nHowever, stock market is a chaotic system where acting on a prediction changes the future (unlike say, weather, where predicting has no impact on the outcome). So it is impossible to find a pattern that invariably makes profit.",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9r24gq/",
+      "created": 1719057050,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9q7o6u",
+      "score": 2,
+      "body": "Oh absolutely but the tricky part is figuring out your hit rate, figuring out how much liquidity the trade can carry, identifying where it's going to go wrong. Most of the shorter term alpha trades have an expiration date. Like the inefficiencies are there until enough people notice them. For example some of the classic examples of how money was made easily during the Jesse Livermore day or even in the '90s, some of those methods that no longer work, the turtles. They worked for awhile \n\nFast forward to today. Here's what's so supremely difficult about becoming a good trader. You can look on social media or YouTube or anywhere and get great advice on video games. You can figure out how to get the best stuff. How to do really well. You can learn all of it. You want to learn about chainsaws you want to learn about cars you want to learn about homes. You can get great information \n\nWhen it comes to trading, there's none. Zero. There are occasionally channels or shows or people who make comments that can be relevant but they are slivers of information in the grand scheme. It's up to you to figure out a strategy that actually works. I guess the best way to say it is it's like going into a video game with no instruction book, no YouTube, no one to help you out. Talk about being an 8-year-old in the '80s. All these data points. You can look at them, if you're good you can even write programs to analyze them and come up with hit rates. People are looking at thousands of data points every day trying to figure out if there's an edge in some of them. I've done it. I found a few different methods that have worked for various lengths of time but they all expire or they shift. I'm not doing the same thing today that I was in 2017. \n\nIt's going to take years for people to really figure out how to make AI the most effective, maybe it won't take that long I mean I guess I can't say but right now even if you put in all of the data points. They have to be done in a way that is useful. Hit rates, percentages, probabilities. It's a constantly evolving art and it's one that the smartest people win at. One of the best public examples is probably the medallion fund. They did it, it works and they even did it on a fairly large scale. If you're talking small accounts like less than a half a million. There are a couple edges that I'm aware of that still work pretty well. There are probably more that I don't know about and that's the fun of this",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9q7o6u/",
+      "created": 1719035825,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9qb9pd",
+          "score": 1,
+          "body": "there is a metric fukton of trading commentary on YouTube, what are you smoking?",
+          "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9qb9pd/",
+          "created": 1719038211,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9qfgj5",
+              "score": 4,
+              "body": "How many of them are posting their actual returns?\n\nI mean if you watch a guy on YouTube playing video games you want to watch the guy that's actually good right. Funny thing about stock commentary. No one really shows you if they're good",
+              "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9qfgj5/",
+              "created": 1719041123,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l9raxqw",
+                  "score": 2,
+                  "body": "Because it's been proven there's no \"being good\", only being lucky.",
+                  "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9raxqw/",
+                  "created": 1719061625,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l9rqsug",
+                      "score": 1,
+                      "body": "Well, there are people that are good I just don't think that they are making YouTube videos. You start looking at 5-year track records and no one wants to show those. So, at least on YouTube, yeah it's people who get lucky for a few months or they chase the hot trend but there's no real risk management so what happens when the trend that is giving them that performance changes? \n\nThat's the sad part about actually being a good trader. It's lonely because if you're actually making money with your process, why would you want to share it? That just makes it less likely to work. There are guys that do make money and use their YouTube channel to funnel towards programs or indicators or revenue streams. I don't think they're sharing everything they are doing but they are giving a complete novice a basic strategy package so in that case they are using YouTube as a marketing avenue.",
+                      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9rqsug/",
+                      "created": 1719068321,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l9qwhy7",
+      "score": 1,
+      "body": "Patterns change over time. If history suggests stocks go up every monday then people will buy the friday before to catch the rally. I believe there are way too many variables involved and things that can't be predicted ahead of time(war, politics, pandemics, natural disasters, etc).",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9qwhy7/",
+      "created": 1719053630,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9qx4zg",
+      "score": 1,
+      "body": "Look up \"Renaissance Technologies Medallion Fund\"\n\nAlso \"Jim Simons\" (RIP)",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9qx4zg/",
+      "created": 1719054054,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9rm25x",
+      "score": 1,
+      "body": "There are, the biggest issue is that they are black boxes, so convincing an investor is hard and returns are poor, which from time to time they are.\n\nIts an issue of explainability. So these sort of tactics are more reserved to hedge funds.",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9rm25x/",
+      "created": 1719066464,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9rxb5o",
+      "score": 1,
+      "body": "You have to look outside of just the price of the stock. There are potentially hundreds of things that can impact a company outside its control. \n\nGeo-political issues, the threat of regulation/legislation, how is the weather in NY during the trading day (this is true), etc. To feed an AI all that data would be near impossible. What happens if you forget one thing and you're working on a flawed forecast?",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9rxb5o/",
+      "created": 1719070791,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9rz4o4",
+      "score": 1,
+      "body": "The most fundamental fact in investing is that it is impossible to predict stock price movements, especially in the short-term. This gives you the answer why. It is not possible to consistently predict stock prices with historical data.",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9rz4o4/",
+      "created": 1719071479,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9rzebf",
+      "score": 1,
+      "body": "Hallucinations make it unfesible to use llms. You cant accept the risk of catastrophic failure where you lose all your capital even if its only 5% of the time.",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9rzebf/",
+      "created": 1719071581,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9s4xz0",
+      "score": 1,
+      "body": "I lot of what moves a stock value over time is not reported.  Employee moral,  mold growing in the HVAC,  construction obstructing the parking lot,  or a pending fight in the board room  can all take a toll on how profitable a corporation will be,  and those factors are often not noticed even within the company.",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9s4xz0/",
+      "created": 1719073681,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9s6tmz",
+      "score": 1,
+      "body": "Noise in finance drowns most signals.\n\nYou cant select on the wining trades",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9s6tmz/",
+      "created": 1719074373,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9s80go",
+      "score": 1,
+      "body": "Count on money making firms to always have the latest in knowledge tech. Knowledge is power, a d they aren't dumb.",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9s80go/",
+      "created": 1719074801,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9san2g",
+      "score": 1,
+      "body": "Ah you haven’t heard of quantitative trading. Look up two sigma. They have like 1,000 employees and you’re more likely to find someone with a phd in engineering there than an MBA",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9san2g/",
+      "created": 1719075838,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9san8j",
+      "score": 1,
+      "body": "Astonishing AI has been around for a long time now. Funds with trillions of dollars have had access to these, yet the charts look the same as they did 100 years ago.",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9san8j/",
+      "created": 1719075840,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9sm08z",
+      "score": 1,
+      "body": "Consider your experience with AI-based customer service...and then expect it to beat the stock market.\n\nObviously computing power is used to great effect in trading. But mainly what it does is crunch things very effectively, or react very quickly that humans who understand the process direct it to do.",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9sm08z/",
+      "created": 1719080113,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9soxlf",
+      "score": 1,
+      "body": "It’s always been stacked against retail. Quants hft and even Bloomberg terminal access give the edge against retail. Ai would just hallucinate right now for a sizable percentage of trades",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9soxlf/",
+      "created": 1719081229,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9sq8ac",
+      "score": 1,
+      "body": "there are no constant patterns as market participant actions change the behaviour of the market. to detect patterns like you describ you don't need ai, just use statistics or ml. It is done, but patterns work for a limited amount of time as the market behaviour changes over time",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9sq8ac/",
+      "created": 1719081723,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9sxgax",
+      "score": 1,
+      "body": "Look up Renaissance Technologies. They've been using a version of machine learning since before it was called that. Some observers think they basically invented ai before anyone else, but kept it to themselves to retain an edge. \nhttps://open.spotify.com/episode/0psDxKAKhIpe4mvqipU1L1",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9sxgax/",
+      "created": 1719084486,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9sxgs8",
+      "score": 1,
+      "body": "Generative AI has nothing to do with stock prediction. And there's no significant development in other subfields of AI. There's no data that can describe the market future. It's different from LLMs where text data is abundant.",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9sxgs8/",
+      "created": 1719084491,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9szpq0",
+      "score": 1,
+      "body": "AI does not mean it will guess anything about the irrational market better than organic intelligence.",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9szpq0/",
+      "created": 1719085364,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9t2gqm",
+      "score": 1,
+      "body": "People have been applying machine learning to trading algorithms for over a decade.\n\nMost people are suddenly aware of ai because of LLMs. Neural network machine learning went main stream in 2012, though. Any combination of indicators imaginable have been fed into these models and trained.\n\nSo it hasn’t changed anything for trading because they’ve already been using it for years.",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9t2gqm/",
+      "created": 1719086420,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9t3gwg",
+      "score": 1,
+      "body": "Because past performance does not indicate future results… AI would need to be ingesting a huge amount of contextual data both historically and in real time to do anything approaching what you are talking about. And this includes way, way more than just ticker price.\n\nFor general trends, algorithmic trading is already used. ",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9t3gwg/",
+      "created": 1719086806,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9t48km",
+      "score": 1,
+      "body": "it already has been done.",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9t48km/",
+      "created": 1719087100,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9t6o53",
+      "score": 1,
+      "body": "Maybe AI isn’t as good as we thought",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9t6o53/",
+      "created": 1719088030,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9thb06",
+      "score": 1,
+      "body": "You're so close OP, so close.\n\nLet me ask you this question; if we look at some number of historical hyped technologies where we saw big gaps between what was being promised and what we seemed to observe, how many of them ended up eventually living up the sales pitch? Crypto, NFTs, Serverless, Quantum computing, the Dark Universe series of films...",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9thb06/",
+      "created": 1719092112,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9thnx4",
+          "score": 1,
+          "body": "As an addendum, it was rightly pointed out already that machine learning is already utilized in stock trading today, and actually has been for years. I personally have even interviewed for MLE jobs at these places (though for better or worse there are some culture fit issues on both sides) and these places have loads of talented people doing real ML work.\n\n  \nThe sooner this BS hype goes away the better IMO.",
+          "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9thnx4/",
+          "created": 1719092251,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l9u7htj",
+      "score": 1,
+      "body": "You should go look into how Blackrock got so big. The market has been \"rigged\" from AI for a long time.",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9u7htj/",
+      "created": 1719103192,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9u9gy1",
+      "score": 1,
+      "body": "They already are.  And these traders have hardwire connections to exchange mainframes.  So they can do tens of thousands of trades in a second.  So by the time you hear the news or have spotted an arbitrage opportunity…….it‘s gone.\n\nAll the above are why day traders long term are hopelessly fucked.",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9u9gy1/",
+      "created": 1719104070,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9uric8",
+      "score": 1,
+      "body": "This is what big companies/funds have already been doing for years. I was recently talking to someone who was in the process of developing one to sell based off of Ema's crossing certain levels. This sort of thing is just telling a computer to take a trade based off of certain things occuring and there isn't really any intelligence needed for that it's just commands essentially. AGI on the other hand will be a lot different. In theory with agi you could just tell it to go and develop an EMA cross strategy and it could code one for you. Current AI is very confusing as it's not so much intelligence as it is cross referencing a bunch of pieces of data to find what might be accurate for you",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9uric8/",
+      "created": 1719112359,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9uxcih",
+      "score": 1,
+      "body": "Renaissance Technologies has been doing this for decades ",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9uxcih/",
+      "created": 1719115317,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9vkf89",
+      "score": 1,
+      "body": "The market isn't exactly science. It's socioeconomics. Making it incredibly hard to predict. Data is only one side of the equation.",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9vkf89/",
+      "created": 1719130018,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9vukn1",
+      "score": 1,
+      "body": "Why is there no AI billionaire stock investor? There may be but what are they investing in? What is the AI predicting?\n\nThe stock market is both a weighing machine, and also a voting machine. \n\nIn terms of the weighing machine, AI should be OK at that already, formulating a prediction of the value based on the earnings and debt, but this just tells you about the value today whereas much of the stocks value is about the view of the future and how things are expected to change.\n\nWhich gets into the the trickier part, the voting machine aspect. This goes deep into modeling human psychology and the greed and fear that comes in waves and affects individual stocks but also the market as a whole. \n\nUntil the AI is powerful enough to model every individual human and their psychological makeup and predict their decisions to buy and sell, it will be simplifying the data and guessing and the decisions of people, which is hard.\n\nChoosing a good portfolio of stocks is about finding the right mix of risk and about return, which in some ways is like choosing the right words, something and large language model (LLM) is designed for. \n\nInstead of a word salad that the LLM is tasked to come up with, the task would be a portfolio salad that covers the future.",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9vukn1/",
+      "created": 1719137596,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9w3kn2",
+      "score": 1,
+      "body": "You can't take into account **every** variable. Like the thing with the butterfly. Nvidia is trying to make a digital clone of the earth. Maybe that would be closest to what you want to do.",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9w3kn2/",
+      "created": 1719143455,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9xkypw",
+      "score": 1,
+      "body": "Soon enough every single computer company will be competing over who has the best trading bot software on their systems. It's coming sooner than you think.",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9xkypw/",
+      "created": 1719165142,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9xlbmx",
+          "score": 1,
+          "body": "They already want AI software on every device by 2025. This is when the AI boom is really going to take off.",
+          "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9xlbmx/",
+          "created": 1719165269,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l9ya10d",
+      "score": 1,
+      "body": "Because AI, despite what a lot of people say, is really not that smart, and there are so many millions of input parameters that affect stock price. We don’t have the models created yet that can give us an accurate prediction.",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9ya10d/",
+      "created": 1719174136,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9zk24j",
+      "score": 1,
+      "body": "Nobody trusts those fracking cylons, that’s why!",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9zk24j/",
+      "created": 1719192309,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9zy0sg",
+      "score": 1,
+      "body": "Read up on the Renaissance Medallion Fund. It is the best-performing fund in the history of the stock market. They don't take new investors because the strategy stops working if it gets too large. The Acquired Podcast has a whole episode on it. Machine learning and AI is old news in the stock market.",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9zy0sg/",
+      "created": 1719198531,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "la1nwim",
+      "score": 1,
+      "body": "I believe ai trading vs ai is why the market is so unrational now. Value and longer term than a few days is better for individuals that aren't competing at that level. You can also compete if you have enough money to move a stock like dfv. I expect the SEC to curb that behavior on small caps at some point, and penalize on accusations of manipulation. It's a small club and your not in it.",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/la1nwim/",
+      "created": 1719235490,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "la2fbm3",
+      "score": 1,
+      "body": "This absolutely can and is done, as others have said, but one reason AI or more generally quantitative trading isn't the only game in town is that there's a general problem in statistical analysis called overfitting the data. Basically, if you specialize what your model looks for to the point that it maximally fits previous events, it actually becomes less accurate at predicting future events.",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/la2fbm3/",
+      "created": 1719245302,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "la2metc",
+      "score": 1,
+      "body": "Not all stocks have ran rampant. if you do the studies and research what companies are apart of the security, technology, chips, and so forth behind if you get in early there is significant growth. I purchased 17 shares of dell at $31 a share now the shares are worth $140 a share. The companies are growing have not lost their value for example Zscalar, Cloudflare, Cisco, Qualcomm was at $114 a year ago now double the price, its totally worth researching",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/la2metc/",
+      "created": 1719247667,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9rl12q",
+      "score": 1,
+      "body": "this NVDA pump will not last long. when you start seeing posts that has 100% confident, you know we're reaching the peak. Despite what you might believe in, all these companies are investing into GPU for their AI models BUT are people actually genuinely interested in these AI products? Are people actually using them on a day to day basis? I don't think so. So all these revenue and profit boom that we're seeing are just businesses and companies investing into AI chips in the hope that people will be using it all the time. In reality, people are not really that interested in these AI tech. Its a hard pill to swallow but people WILL get bored and companies will that they are actually losing money by running these large AI models. NVDA is bound for a hard hard correction. See you $10",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9rl12q/",
+      "created": 1719066052,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9qbcm4",
+      "score": 1,
+      "body": "skynet has been around since the 80s",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9qbcm4/",
+      "created": 1719038267,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9qwnbd",
+      "score": 1,
+      "body": "Some of the largest funds have been trading using algorithms for a while. Got some books out on it too. They are large machine learning datasets, maybe LLMs, but that is what a ChatGPT AI essentially is. They use these for whatever they want. They’ve been at it for decades now. Keeping the workings confidential, I would assume. Even Roaring Kitty was playing around with keywords during his live stream to show the real-time algos at play. Check out books like The Black Box Society.",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9qwnbd/",
+      "created": 1719053729,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9rqlf4",
+      "score": 1,
+      "body": "Do you not know what Blackrock’s Aladdin is? It may not be AI in the sense that you’re speaking of here, but it does all of what you said.",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9rqlf4/",
+      "created": 1719068244,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9s2wkp",
+      "score": 1,
+      "body": "There are firms building AI/ML (is it really AI?) for stock market trading. I work with one. They do standard long/shorting and as leveraged as they are they have averaged 36% yoy over the last 4 years, even when the market goes down.\n\n  \nIt's done very quietly and the minimum investment is $10mm. Rest assured, AI is already very good at trading stocks, you just don't have access to it yet.",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9s2wkp/",
+      "created": 1719072914,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9u0oxg",
+          "score": 1,
+          "body": "Lol that's like beating SPY by 5-10% and if you just sold SPY peak late 21 and bought back after early 22 drop you'd probably end up with the same YOY.\n\nIf AI can't get 100% annualized its not really AI its just an algo fed by old data.\n\nYou telling me your AI firms weren't able to just buy NVDA to get 1500% in 4 years?",
+          "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9u0oxg/",
+          "created": 1719100214,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l9r7lf0",
+      "score": 0,
+      "body": "AI is a load of bullshit the way it's being touted currently. Absolute crock of shit the market is eating up.  Bubble.",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9r7lf0/",
+      "created": 1719059992,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9r8x8k",
+      "score": 0,
+      "body": "That’s the neat part. It has.",
+      "permalink": "/r/stocks/comments/1dlof4v/how_has_ai_not_already_run_rampant_with_stocks/l9r8x8k/",
+      "created": 1719060658,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

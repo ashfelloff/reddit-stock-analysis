@@ -1,0 +1,944 @@
+{
+  "title": "What are your investment criteria for buying individual stocks? ",
+  "score": 95,
+  "selftext": "Out of curiosity, how do you typically decide whether to buy a stock? Do you rely on valuations (DCF, DDM, comparable companies analysis) or simply review financial statements?\n\nI usually go through 10-K reports, stay up-to-date with news, and listen to earnings calls to gauge management's expectations. However, I'm considering creating DCF, DDM, and multiples templates for quick and dirty valuations, along with tools for portfolio management for better decision making.\n\nI avoid investing in hyped companies (I never bought Nvidia, which in hindsight was a mistake) and focus on companies that are profitable and likely to remain so. I've also learned to avoid companies making risky acquisitions (lesson from Farfetch). While I haven't had huge returns, I rarely incur big losses with this approach.\n\nIs there anything else you consider? \n\nEdit: updated what I meant by valuation ",
+  "link_flair_text": "Company Analysis",
+  "id": "1ee1uqa",
+  "num_comments": 109,
+  "created_utc": 1722151343,
+  "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/",
+  "comments": [
+    {
+      "id": "lfbf1c4",
+      "score": 237,
+      "body": "I believe making complicated models and adding more data will give you a false sense of confidence that your valuation is accurate. I think that's because people believe effort is correlated to quality.\n\nI understand that my answer seems the most unreasonable.\n\nThe most important thing I consider is whether the company fits into my long-term vision of the future. See how bad it sounds? My vision could be completely wrong. And it's not quantitative. \n\nAn analogy would be cooking. Two people can be given the same cooking recipe. The world-class chef sees in their mind what they want the end product to look like, and they've cooked many times before, so they know what works and what doesn't. Their finished product is spectacular. The beginner that follows the recipe, or instructions from a world-class chef will have a finished product that is completely different and likely far from spectacular. \n\nThis is the hardest thing to communicate to investors because the only difference between vision and a delusional nutjob is the end result. \n\n\n5 years ago, \n\nIntel had net income of 21B and market cap 224B - now 133B\n\nAMD had net income of 0.3B and market cap of 33B - now 226B (I sold this already)\n\nNVDA had income of 2.8B and market cap of 102B.\n\nHow do you justify NVDA or AMD as investments at the time? NVDA revenues declined 5 years ago whereas INTC revenues increased. AMD revenues increased by less than 4% YoY.\n\nQuantitatively, INTC seems like the best investment 5 years ago.\n\nBut it was NVDA and AMD that crushed the SP500 while INTC massively underperformed.\n\nHow do you explain that to someone? How do you tell them it's how the company lines up with how you see the future when no one can predict the future? You can't. But that's the answer.",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfbf1c4/",
+      "created": 1722161310,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lfbtgx1",
+          "score": 47,
+          "body": "I seriously love everything about this response.",
+          "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfbtgx1/",
+          "created": 1722169920,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lfcq623",
+              "score": 17,
+              "body": "They made a lot of effort so the response must be quality.",
+              "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfcq623/",
+              "created": 1722182728,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lfcvdqd",
+                  "score": 1,
+                  "body": "so it is the top management",
+                  "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfcvdqd/",
+                  "created": 1722184543,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lfcg33t",
+          "score": 5,
+          "body": "Like your answer, we don't have the crystal ball so your gut feeling approach is completely valid. I'm sure that if you made a detailed analysis of INTC and AMD NVDA back then you probably had a misleading result and bought INTC. All we have is (as you said) the present and the perspective to the future, maybe complemented with some revenue sheets and its trend.",
+          "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfcg33t/",
+          "created": 1722179206,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lfd6upk",
+              "score": 0,
+              "body": "Well we do have a crystal ball, it's called logic and reasoning. You can correctly predict the future, Nvidia is built upon this.",
+              "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfd6upk/",
+              "created": 1722188439,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lfdbmsw",
+                  "score": 4,
+                  "body": "Yeah, I had a feeling back in 2021 with NVDA, I saw they were doing great advance in GPUs and developing today's AI tech but I was weak and sold it in the first big down. I though AI will be something that we will experience 10 years ahead and I don't wanted to wait so much, fool of me it was sooner that what I expected.",
+                  "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfdbmsw/",
+                  "created": 1722190048,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lfe0prj",
+          "score": 14,
+          "body": "That’s because you don’t understand the products. Ask a PC hardware nerd even 5 years ago and they’d tell you that Intel was slowly getting trounced by AMD in the consumer CPU market. Their Threadripper enterprise chips were a big hit as well and a much better value than anything Intel was producing. Simply takes time to claw away market share from a legacy behemoth like Intel.\n\nWith Nvidia it was a lot harder to read the tea leaves. While they were already dominant in the GPU space, they benefited from massive tailwinds in the form of cryptocurrency mining and then the AI craze.\n\nMy point is that most people who do surface level research or DCF models have a pretty poor understanding of the companies themselves and the actual products they sell.",
+          "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfe0prj/",
+          "created": 1722198805,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lfeibcz",
+              "score": 12,
+              "body": "While I agree with you one should take not that consumer CPU is a very small part of the global market. The real money is in servers, and Intel could easily dominate gaming and be reddit darling yet flop miserably if they missed out on data centers.\n\n\n\nAnd it's quite interesting how people used to laugh because AMD got to make the cards for consoles because it was a \"low revenue market\", yet that very same project gave them the liquidity they needed and a secure multi-million unit market tahg allowed them to jump forwards and become the rising company that is AMD now. Hadn't they made chips for the Ps4/Xbox Whatever things would look very different...or if Intel/nVidia had taken the deal instead.",
+              "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfeibcz/",
+              "created": 1722205348,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lff5tj2",
+              "score": 1,
+              "body": "In my limited experience, I don't think that even being the brains behind a company gives you enough insight to know how buyers and seller will react. I have followed things that have very, very simple products and business models to follow, specifically to have some \"easy\" practice with this method of gauging how a stock will do. Even that has proved unreliable to me.",
+              "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lff5tj2/",
+              "created": 1722214843,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lfknuyb",
+                  "score": 1,
+                  "body": "I can’t even tell if my own company is doing well.  Some companies are massive and it’s hard to figure it all out",
+                  "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfknuyb/",
+                  "created": 1722298406,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lfg3y4l",
+          "score": 4,
+          "body": "I rarely agreed with any comments on this sub, or the value-investing related reddit sub, but this is one i concurred with this very much.\n\nI'm lucky to have met Warren on one occasion a few years ago, and we both agreed that the most important concept of value investing is to view a stock as a fractional ownership of a business. Sounds simple, but it's not easy to adhere to. i.e. if you really see yourselves as an owner, you would do far more than just see-ing balance sheets on screeners, nor reading their earnings call and annual reports; you would literally take steps you know EVERYTHING about the business and its management, competitions, customers' preference, products and services they serves, profit margins, and many more, etc.",
+          "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfg3y4l/",
+          "created": 1722231196,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lfbgciz",
+          "score": 6,
+          "body": "Makes sense, I think that's a reasonable answer",
+          "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfbgciz/",
+          "created": 1722162220,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lfcepjl",
+              "score": 1,
+              "body": "Reasonable > Rational",
+              "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfcepjl/",
+              "created": 1722178708,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lfc0jgd",
+      "score": 62,
+      "body": "If I like the company I buy the stock 👍🏼",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfc0jgd/",
+      "created": 1722173214,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lfc86pw",
+          "score": 12,
+          "body": "Big if true",
+          "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfc86pw/",
+          "created": 1722176328,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lfcp96e",
+          "score": 4,
+          "body": "Tell that to my DIS shares that have done nothing but hemorrhage money lol",
+          "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfcp96e/",
+          "created": 1722182411,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lfl06kj",
+              "score": 2,
+              "body": "Why did you like DIS? Are you really into bad race-swapped reboots and milking once-loved franchises for all they're worth?",
+              "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfl06kj/",
+              "created": 1722303148,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lfkzyle",
+          "score": 1,
+          "body": "This is legit why I bought COST",
+          "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfkzyle/",
+          "created": 1722303062,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lfdg5ry",
+          "score": -3,
+          "body": "This for me too. If I have been a happy custo.er, and like to use their products and/or services, then I invest. I don't do any research more than my own opinion or experience on their products and services. That's why I don't invest in Apple, for example, I hate the iphone, but love the Pixel, so I invest in Google instead. I don't support Facebook, so I don't invest in Meta. I do all my grocery shopping with my Walmart+ account, and love the service, so WMT is close to 20% of my portfolio. Etc",
+          "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfdg5ry/",
+          "created": 1722191604,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lfebz58",
+              "score": 5,
+              "body": "Yikes.",
+              "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfebz58/",
+              "created": 1722202898,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lfidgrs",
+              "score": 1,
+              "body": "Does that mean you buy the stock at any price or do you put in some thought into that?",
+              "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfidgrs/",
+              "created": 1722270957,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lfigqku",
+                  "score": -1,
+                  "body": "Nope. Just to hold long term if the products or services I receive are good and I can see many more people using them as well.",
+                  "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfigqku/",
+                  "created": 1722272011,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lfc5fzp",
+      "score": 16,
+      "body": "[deleted]",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfc5fzp/",
+      "created": 1722175263,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lfdu9cc",
+          "score": 3,
+          "body": "That’s a great thought experiment for whether you really believe in a company or if you’re riding momentum. Also to test if you’re investing a comfortable amount",
+          "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfdu9cc/",
+          "created": 1722196553,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lfmfmkr",
+          "score": 1,
+          "body": "My temperament would be tested if my investment declines 50% in value, regardless of how good the business is.",
+          "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfmfmkr/",
+          "created": 1722330752,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lfc1g7q",
+      "score": 13,
+      "body": "If you see it pop up in Reddit stock threads a lot, approach with caution",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfc1g7q/",
+      "created": 1722173612,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfb7vhz",
+      "score": 12,
+      "body": "1. Understand the business, business model, market etc. How does the company create value and where in the value chain do they operate? Does the business model make sense in terms of risk/reward for me?\n2. Review finances, does the numbers make sense and are they “good” considering step 1. \n3. Quick and dirty valuation. This hugely depends on the industry, business model and business itself, but for a “normal” business I try to find three things: what is the underlying (normalised) cash flow generated if the company stopped investing for growth today, what ROI does the company generate on new investments and at what reinvestment rates today + long-term, what risks is the company exposed to. If you have a take on these things, you can quickly judge the value by using whatever valuation methodology. Multiples are a short-cut dcf, where I personally use ev/ebit, fcf-yield and ev/s a lot. I believe ev/s (or p/s) is the most underrated multiple if used correctly.",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfb7vhz/",
+      "created": 1722156185,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfbnm6b",
+      "score": 20,
+      "body": "1) Understand where the world is heading and what the future will have to be about\n2) Select the companies that are working towards achieving that future \n3) Filter only the winners who seem to be increasing their revenus and net income/FCF steadily \n4) Use AT to get inl/out",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfbnm6b/",
+      "created": 1722166786,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lfcn0bq",
+          "score": 10,
+          "body": "> understand where the world is heading and what the future will have to be about \n\nOh, only that? Simple! lol",
+          "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfcn0bq/",
+          "created": 1722181638,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lfd6l7r",
+              "score": 5,
+              "body": "It's his way of saying RESEARCH, RESEARCH, RESEARCH",
+              "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfd6l7r/",
+              "created": 1722188350,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lfddi51",
+                  "score": 1,
+                  "body": "Or just do research on one's job instead of stock that aren't related to oneself at all. VTI(as a fund, not individual stock) is possibly most related as it is the economy, so we would likely to see growth of economy, except one is very pessimistic.",
+                  "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfddi51/",
+                  "created": 1722190689,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lfd6xpg",
+              "score": 0,
+              "body": "Yes, but not for those with low intelligence.",
+              "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfd6xpg/",
+              "created": 1722188466,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lfdbpud",
+          "score": 1,
+          "body": "1 and 2 are so hard to actually make them work. Your idea of the future and what actually happens can be two different things. I might believe AI is the future and go all in on AI stocks but what if I’m ahead of my time. That will be a huge opportunity cost. \n\nI do get what you are trying to say though. I believe investing in something like VOO takes the guesswork out of it. Let the market decide what is important and you get to always bet on the winning horse.",
+          "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfdbpud/",
+          "created": 1722190076,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lfdtoj4",
+              "score": 2,
+              "body": "The opportunity cost in the ride the markets intelligence is you lose the massive potential gains that come with picking a winner. These massive gains can compensate even for many selected losers, plus interest",
+              "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfdtoj4/",
+              "created": 1722196352,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lfe03ed",
+                  "score": 2,
+                  "body": "Fair enough. Given my luck i know I’ll pick all losers",
+                  "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfe03ed/",
+                  "created": 1722198589,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lfeqm1b",
+                      "score": 2,
+                      "body": "Most people do.",
+                      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfeqm1b/",
+                      "created": 1722208646,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lfi4356",
+                          "score": 1,
+                          "body": "The idea is you create an investment thesis, and principles for how to invest. You follow them through for long term, say 5-10 years on a handful of companies. You could also do so without money by just keeping up with companies. Eventually, you may discover that you are able to pick out companies that have incredible growth potential and decide you can make money off of them using the same investment thesis strategy and principles.\n\nEven with amazing strategies and principles, this won’t always work. That’s where time comes into play. You try and try and try again over a lifetime. Things compound. Things average out. Methods that win more than they lose eventually emerge through statistical probability. How soon that happens is a measure of luck. It is also a measure of luck that it happens before you give up and miss that you actually had a winning strategy.\n\nLife is an interesting game, but you’ve gotta play it to figure out the rules. It is also probabilistic, not deterministic.",
+                          "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfi4356/",
+                          "created": 1722267896,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lfn4by5",
+              "score": 1,
+              "body": "You're not betting on the winning horse when you let the market decide, you're betting on everybody and on average the winners are winning so much that the average comes down to ~7% annually  because of all the losers, on the long term because we as humans are developing globally. The truth is it's easy t see what the future will be like regarding some physical realities. For instance everybody loves to trash Tesla because of Elon Musk, but the truth is there is no future without EVS because oil is finite. It is a physical constraint. I personally invest in Tesla asuch as I can because I understand and know that EVs will have to be huge otherwise we as a society will face a very big problem. That's just an example.",
+              "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfn4by5/",
+              "created": 1722344111,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lfd6vya",
+          "score": 0,
+          "body": "Yep",
+          "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfd6vya/",
+          "created": 1722188450,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lfbh81e",
+      "score": 8,
+      "body": "There are already a lot of good points, so I won’t rewrite them. Before investing, I always try to understand a company's strategy, what they are trying to achieve with it, and why it is a better strategy than their competitors.",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfbh81e/",
+      "created": 1722162808,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfc0pm3",
+      "score": 6,
+      "body": "Simple:\n- small to midcap size: easy understandable business model that can scale\n- proven, sustainably growing topline (must imply operating in growing markets with major underlying trends like e.g. decarbonization)\n- only profitable, strongly cash generating companies. Cash flow is king. This needs to be reflected also in their IR presentations language.\n- Experienced, educated and hungry for success management \n- fairly (under-) valued",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfc0pm3/",
+      "created": 1722173289,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lfdtxip",
+          "score": 2,
+          "body": "Undervalued is subjective. Ideally it’s best to get in at the lowest possible value, but if you believe in a company’s growth their value will inevitably be undervalued at this moment in time (if your belief is true) compared with some point in the future (your exit).",
+          "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfdtxip/",
+          "created": 1722196437,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lfclye8",
+      "score": 6,
+      "body": "I ask myself 3 questions. Is it MSFT? Is it AMZN? And is it GOOG? If any of those criteria are met, I buy.",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfclye8/",
+      "created": 1722181273,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lfdtwlh",
+          "score": 3,
+          "body": "Ha! I have an irrational collection of Amazon and Microsoft. When they zoom down I buy more!",
+          "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfdtwlh/",
+          "created": 1722196428,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lfdubhp",
+          "score": 1,
+          "body": "Haha",
+          "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfdubhp/",
+          "created": 1722196574,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lfcmqm3",
+      "score": 4,
+      "body": "I use a super simple approach that has served me well. It’s based on the actual product the company offers and my enjoyment/usage of it. When I find a product that I love and is soundly better than what the competition is offering in that industry, I buy the stock as long as the PE isn’t wildly out of wack. And then on the other side, I never buy shares in a company whose product I either don’t use or don’t understand intimately. I like to invest close to home. \n\nThis is how I’ve chosen some of my larger individual holding and it’s served me well: Apple, Amazon, Uber, Lululemon, Reddit to name a few.",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfcmqm3/",
+      "created": 1722181544,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfb2ni6",
+      "score": 8,
+      "body": "We do look at last 5 years of revenue, profit, cash, ebidta, Yada Yada… We look at how much capital they are reinvesting, that signals to us they are investing in their future growth rather than paying dividends to attract share holders.  We look at their management.  We also like to look at their 5 year returns vs the S&P 500, if they aren’t beating that, what’s the point in our minds as you are better off just going with $VOO.  Some of it is trying to predict the future as well.  For example, consumer debt is completely out of control.  The main reason is credit card debt.  The major companies that own the debt are JPM & AXP.  There looks to be no end insight for changes there, people continue to spend and credit card debt is over $1T with APRs over 22%.  With that said those few companies in the Financial sector have an advantage than others that are simply banking institutions. Both of those companies have beat the S&P 500 over the past 5 years.",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfb2ni6/",
+      "created": 1722152593,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfb6svn",
+      "score": 7,
+      "body": "Number one - growth story - I don’t care about financials if I don’t believe in the future MOAT, growth, peer vs industry\n\nIf number one is green lit, I look at ROIC and margin to WACC\n\nAfter that I look at debt and maturities and current ratio. That’s all",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfb6svn/",
+      "created": 1722155425,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lfb935y",
+          "score": 2,
+          "body": "not bad",
+          "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfb935y/",
+          "created": 1722157045,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lfcgmcl",
+      "score": 3,
+      "body": "I look for market irrationalities. Areas where likely future growth or good news doesn’t seem to have been priced in, or where the market’s showing excessive pessimism that I disagree with.",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfcgmcl/",
+      "created": 1722179400,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfcdm4u",
+      "score": 2,
+      "body": "I'll briefly check the Financials to make sure it's not a dumpster fire and will check out the management to make sure they aren't clowns, but overall it's based on me just being excited by the company to the point that i start passively thinking about other things i can sell to buy some of it.\n\nI know from experience that I don't make good decisions about stocks that I'm not personally interested in even if they have good numbers.",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfcdm4u/",
+      "created": 1722178315,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfexw28",
+      "score": 2,
+      "body": "I read a great interview years ago with a billionaire, he basically looked for companies that have a high probability of becoming a gatekeeper for that particular market segment. He didn't really care if they are nice companies or if their products were good or bad. A great example is he invested in Microsoft in the 1990's even though Apple was seen as the market leader, because he saw Microsoft becoming a gatekeeper company more so than Apple, same for Google and Amazon in the late 1990's. Nvidia is an excellent example of a company that out of the blue became a gatekeeper company and will stay that way for a while.",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfexw28/",
+      "created": 1722211571,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfb2wtb",
+      "score": 4,
+      "body": ">Do you rely on valuations or simply review financial statements?\n\nBoth, but not much on valuations. Valuations are a great way to sanity-check myself.\n\n>I never bought Nvidia, which in hindsight was a mistake\n\nInterestingly enough I don't consider it a mistake in my case. I never bought it either, but I also didn't by Celsius at $90. Or Lululemon at $450. Or pretty much any EV producer in 2021. Even with hindsight I didn't have the information that would've made Nvidia a better buy relative to other hyped stocks, so I don't beat myself up over it.",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfb2wtb/",
+      "created": 1722152769,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lfb2zma",
+          "score": 1,
+          "body": "Do you really value all companies you come across or do you also do something quick and dirty?",
+          "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfb2zma/",
+          "created": 1722152823,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lfb3q4e",
+              "score": 3,
+              "body": "Would you lend your money to someone random that you met for the first time with 0 information about them?",
+              "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfb3q4e/",
+              "created": 1722153325,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lfb3t0u",
+                  "score": 1,
+                  "body": "Never!",
+                  "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfb3t0u/",
+                  "created": 1722153380,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lfb8uep",
+                      "score": 2,
+                      "body": "You got your answer",
+                      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfb8uep/",
+                      "created": 1722156872,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lfb3sh4",
+              "score": 1,
+              "body": "Wait, I have to ask now: What do you mean by valuations? I thought you were talking about market valuation metrics (like PE being the most simple one).",
+              "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfb3sh4/",
+              "created": 1722153369,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lfb3y51",
+                  "score": 2,
+                  "body": "Oh no, I meant doing full fledge DCF, DDM, etc. analyses (the ones we only learnt in b-school) to understand the company and it's intrinsic value lol",
+                  "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfb3y51/",
+                  "created": 1722153478,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lfb5dvj",
+                      "score": 1,
+                      "body": "Ah, no I don't spend much time on those. I believe the market is highly efficient so in my view almost all companies are already valued in accordance to those just because everyone and their grandma can do a formal DCF. I prefer to focus on quality factors that can't easily be quantified because I know if it can easily be quantified, it definitely has been and as such is very likely priced in. A proper model can take hours to make and I prefer to spend that time elsewhere, like reading their past reports, reports of competitors, reports of customers, reports of companies in the industry that produces their input materials (if their inputs are volatile or significant), there's a long list of things you can read and only so much time.\n\nRough DCFs are a great way to figure out the margin of safety, though, but I don't tune those much.",
+                      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfb5dvj/",
+                      "created": 1722154450,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lfbx2ec",
+      "score": 3,
+      "body": "Revenue. No Chinese. No israel. No cayman islands. Good balance sheet. Insider buying. And even then sometimes they go to zero",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfbx2ec/",
+      "created": 1722171650,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfbn5e5",
+      "score": 1,
+      "body": "Trend following using technical analysis, trend lines résistances supports and volume",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfbn5e5/",
+      "created": 1722166512,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfbt6fp",
+      "score": 1,
+      "body": "Is NVDA not profitable?",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfbt6fp/",
+      "created": 1722169776,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lfbv1ex",
+          "score": 3,
+          "body": "It is but I didn't buy it because I just didn't think it would go up more. I'm more focused on not losing money vs making a lot of money",
+          "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfbv1ex/",
+          "created": 1722170696,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lfcgtfr",
+              "score": 4,
+              "body": "Then buy bonds....\n\nThere's absolutely no point in even thinking about an individual stock if that's what you're doing",
+              "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfcgtfr/",
+              "created": 1722179469,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lfbw7vy",
+      "score": 1,
+      "body": "i mostly just gauge whether i think the market reacted too harshly, dipped way too much and will very likely go back up. these cases are very few and far in between but SMCI is an example from the other day.",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfbw7vy/",
+      "created": 1722171259,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfc7fai",
+      "score": 1,
+      "body": "I keep a lot of what I deem interesting, for any number of reasons, on a watchlist. When I add it’s usually with interest to buy, usually because I believe in growth over the next several years. Sometimes just because I think the company is undervalued, or what I would deem an earnings overreaction. \n\nI generally have a pretty simple spreadsheet to forecast the next few years simple metrics with some variable inputs (margin, growth rate) for those on the watchlist. I’ll passively keep up with news, check in on earnings, but really above all just wait for what I deem an opportunistic entry to go long.\n\nSome I “miss” because they never hit a buy point I’m comfortable with, but there is always another opportunity. I try not to get married to the idea of any one company to avoid buying in at any cost.",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfc7fai/",
+      "created": 1722176035,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfc8tft",
+      "score": 1,
+      "body": "Performance charts, not buying too high, do I like anything about the company.",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfc8tft/",
+      "created": 1722176568,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfcafo3",
+      "score": 1,
+      "body": "Vibes",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfcafo3/",
+      "created": 1722177166,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfcc3do",
+      "score": 1,
+      "body": "It buy it when it’s low and sell it when’s it’s high.",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfcc3do/",
+      "created": 1722177764,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfciuio",
+      "score": 1,
+      "body": "p/e, p/fcf from the last 10 years gives me an idea on value and what price to buy on weakness. News and Litigation gets buried sometimes, so it's always good to do a quick search on a company.... like Visa.",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfciuio/",
+      "created": 1722180187,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfcwc9u",
+      "score": 1,
+      "body": "Overall 5 year uptrend currently trading at a trough in its chart. Decent business",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfcwc9u/",
+      "created": 1722184870,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfcwmqq",
+      "score": 1,
+      "body": "Not super MAGA",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfcwmqq/",
+      "created": 1722184969,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfd0e51",
+      "score": 1,
+      "body": "Usually starts with finding a company I like in a sector I like.  Then I go look for reasons not to buy it.  If I don't find a compelling reason, then I buy it.  What I look at is stuff like financial health, my fee fees about the future for the niche they're in and the economy in the next several years, their current valuation, how they've performed vs competitors, how they've performed vs the market in general, how strongly they're correlated with the market in general, beta, what's already in my portfolio, skimming analyst reports, etc.  What I like is very non-technical feelings.  Like if I'm nervous about the future or I think my portfolio is running on the risky side, I might be looking at leaders in more boring market sectors.  When things go poorly (e.g. 2022), I might be looking for deals.  \n\nThe harder part for me is figuring out when/how to get out.  \n\nNot buying a stock isn't really a mistake, it's a non-event.  There's *always* that company you didn't buy.  What matters is how well you do on what you buy.  So in your scenario, the mistake would have been buying intel.  Like, if you wanted in on semiconductors, NVDA would have been great... but so would broadcom, kla, amat, etc.  There was no shortage of opportunity.",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfd0e51/",
+      "created": 1722186245,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfd6677",
+      "score": 1,
+      "body": "Tradesmith",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfd6677/",
+      "created": 1722188207,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfdenkr",
+      "score": 1,
+      "body": "It goes up and to the right",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfdenkr/",
+      "created": 1722191085,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfdf05d",
+      "score": 1,
+      "body": "Is it profitable is number one (lost a lot of money on non profitable stuff in the past)",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfdf05d/",
+      "created": 1722191205,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfdfsh9",
+      "score": 1,
+      "body": "The CEOs   track record /  profit / valuation.",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfdfsh9/",
+      "created": 1722191474,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfdgfy0",
+      "score": 1,
+      "body": "You can test run your favorite in very little amount in fractional shares. You can't just buy one or a few stocks in large amounts, unless you have that much income to begin with. Cash flows of companies, profits and prospects, etc are comparable to individuals' abilities to earn money.\n\nThose who buy individual stocks and earn large amounts are just lucky.\n\nI test run my small cap portfolio, and a portfolio a mix of mega and mid cap for 2 years. They have not yet beaten VTI.\n\nThe criteria for me to buy individual stocks is to buy those that are not well known to people, if it ever become mega cap in the future, I can say it is my pick, not anyone's.",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfdgfy0/",
+      "created": 1722191702,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfdjzsf",
+      "score": 1,
+      "body": "I think there are cases in which the market is clearly inefficient. Those are the cases in which individual stock selection makes sense. \n\nYou accept that the longest term of ownership may be a shorter horizon than a lifelong hold. The most recent example I can think of is RTX - bottomed last year at $75 over liabilities associated with part of the Pratt & Whitney business. Well, they also supply the most amount of weaponry to Israel. Turns out the market was wrong. \n\nI limit my hypothetical buys to stocks where I can see the value (low p/e compared to peers, future benefits not priced in, capex not in excess of net income, not highly levered, and share repurchases are prioritized). In addition, I’m not afraid to take a short term 10% gain and walk away if the thesis plays out sooner than I think it will.",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfdjzsf/",
+      "created": 1722192938,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfdrp8n",
+      "score": 1,
+      "body": "Hmm. \n\nFirst of all I try to keep my overall exposure to any single company to less then 5%. \n\nThen I look at the company overall. Is it stable? Is it hyped? If it’s hyped I won’t buy it. No idea where it will end up. \n\nThen I look at cnn forecast. If it’s not listed there it’s not big and stable enough to be analyzed so then I don’t buy it. I look at the forecast and if the median estimate is more then 5% negative then I don’t buy it. \n\nYou can look at the French oil company Total, if you want to know what I look for. Compare it with Nvidia. \n\nI try not to own more then 10 stocks at any given time.",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfdrp8n/",
+      "created": 1722195659,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfed7et",
+      "score": 1,
+      "body": "When im Drunk i buy some mag7 and go sleep, simple",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfed7et/",
+      "created": 1722203360,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfem80q",
+      "score": 1,
+      "body": "Market leaders, competitive advantages, good balance sheets.",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfem80q/",
+      "created": 1722206904,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfemj8z",
+      "score": 1,
+      "body": "Buy when the market is down and the company has strong fundamentals. Ive only ever bought stocks during COVID. Made about 30-40% profit in about 2-3 weeks on two of them. Would have made 50% profit in 18 months if I had held onto the third. The last one was a gold mine operation that was tanking until Russia invaded Ukraine.",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfemj8z/",
+      "created": 1722207030,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lff4c53",
+      "score": 1,
+      "body": "Whatever piques my interest repetitively enough in the amount of time that I am willing to dedicate each day to reading stock news. I put a shit ton of time into it when I was unemployed because I had nothing else to do, but it just isn't good for my mental to choose to neurotically obsess over something that I have come to feel is worse than than gambling at a casino. The problem for me and stocks is that I so badly want to rationalize things, answer questions I have, figure out why or how I could have done better or avoided doing bad, etc when the reality is that just isn't how it works. I really did try and go in on it for a few months, but I don't feel like it did me any good compared to the times I just went with my gut feeling. The opportunity cost of choosing to try and predict and make total sense any of it versus doing anything else in life is substantial. There are no consistent correlations, nor causations. I would honestly rather just go to a casino and play things such as roulette, or bet on coin flips. That way, I know that there is nothing that I can actually do to increase my chances of being correct. I know that it is pure chance, and in practice is as random as random may be. I can't be mad at myself thinking that I failed or could have done something better, because that isn't it. I was just unlucky and thats it. It wouldn't be my fault, and there is no way for me to doubt that and be hard on myself.",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lff4c53/",
+      "created": 1722214226,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lff510d",
+      "score": 1,
+      "body": "I'm recklessly opportunistic these days and go mostly by prevailing social sentiment coupled with bare-bones research.\n\n\nThat said, one of the big rules for me is to be fairly aggressive with stop-losses (not that my broker appears to give a shit about the price limit). I wait for a 5% gain, then set it just below that and update it regularly. If the stop-loss is triggered, I reevaluate and either cash in again (usually at a lower price) or roll the gains into something else.\n\n\nI also try not to get too attached to losers. If it drops by 15% I again reassess, but likely cash out and move on.\n\n\nAs time moves on, though, I'm trying to get back to understanding financial reports again, as well as learning about technicals.",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lff510d/",
+      "created": 1722214516,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lff87w6",
+      "score": 1,
+      "body": "Buy what i can understand or personally use for eg apple, google, nvda, walmart amazon etc all i and i know everyone else uses and just buy and hold no looking at market other than once a year",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lff87w6/",
+      "created": 1722215859,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lff8b22",
+      "score": 1,
+      "body": "Technicals and simple fundamentals data. I absolutely never read statements or listen to earnings calls",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lff8b22/",
+      "created": 1722215897,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lffbmr8",
+      "score": 1,
+      "body": "Easy.\nThey have to be profitable, Increasing revenues, increasing cashflows, and are they the leaders.",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lffbmr8/",
+      "created": 1722217324,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lffw1va",
+      "score": 1,
+      "body": "I only buy Blue chips or FAANG size companies.  I don't bother with the small caps since it'll just keep me up at night.\n\nThen I look at 10-K just to make sure there are no red flags compared to their peers in the segment.\n\nThen I look at 5 year technical charts, comparing to competitors in their segment",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lffw1va/",
+      "created": 1722226769,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfg35cf",
+      "score": 1,
+      "body": "High ROIC, high FCF, established and predictable, consistent organic growth (not acquisitions), big moat (or ideally a monopoly/duopoly), some degree of pricing power, high quality humans at the c-suite level, preferably a US company, a small dividend is nice but not critical, it also must pass the ethereal indescribable vibe check (no spooky feelings in my head @ initial entry), and this one is important– I need to be able to describe the company, (products, services, revenue streams etc) to my mother, effectively enough for her to have a basic understanding of who they are and what they do.\n\nOnce these criteria are satisfactorily met, it just comes down to is the price right. There are so many outstanding companies that I want to own but just can’t reconcile with their current valuation. I want a deal on it.\n\nThe real meat n potatoes of my individual positions fit this framework. Then I have a small taxable brokerage where I go buck wild speculation mode and let ‘er rip, just to scratch the itch.\n\nStock selection is not the whole battle though. You have to emotionally withdraw yourself to weather volatility. Like if a monk ate a robot. If a stock takes a haircut, is it for a real reason or just jittery sentiment? If you can’t point to hard data to back up a revised thesis, don’t sell. Embrace the discipline, reject the pivot. You should construct a buy criteria and a sell criteria and then adhere to it. The selling part is where I struggle the most, it’s hard to let go of a rocket. IT IS NOT ABOUT THE JOURNEY, IT IS ABOUT THE DESTINATION. FUCK THE JOURNEY.",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfg35cf/",
+      "created": 1722230716,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfgcn2a",
+      "score": 1,
+      "body": "I just follow the Peter Lynch method. Find a company/ product you like, find out more about the company, CEO, future plans, etc.  Do some mental calculations about its potential market, check out a bit about the competitors, and how likely it is that it will grow, and then buy/ don't buy the stock.\nI never buy the \"hot item\" on the stock market. Any explosive growth that makes people buy has already happened.",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfgcn2a/",
+      "created": 1722236745,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfgi6j5",
+      "score": 1,
+      "body": "I flip the coin it works every time lol",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfgi6j5/",
+      "created": 1722240568,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfgmuu1",
+      "score": 1,
+      "body": "Mostly FOMO",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfgmuu1/",
+      "created": 1722243863,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfhiy9i",
+      "score": 1,
+      "body": "If it has moats as wide as MSFT",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfhiy9i/",
+      "created": 1722260662,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfi9i7y",
+      "score": 1,
+      "body": "PM me later and repeat the question.",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfi9i7y/",
+      "created": 1722269667,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfbgi4c",
+      "score": 1,
+      "body": "I’m not clever enough to do all this financial stuff, so just go on real world applications of IP mostly",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfbgi4c/",
+      "created": 1722162327,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lfbl8ej",
+          "score": 2,
+          "body": "Same, and using gut feeling after a cursory glance at a few charts and reading countless Reddit comments.",
+          "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfbl8ej/",
+          "created": 1722165362,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lfe2t62",
+      "score": 0,
+      "body": "Dividends:  Dividends and more Devidends: supported by good cash flow.",
+      "permalink": "/r/stocks/comments/1ee1uqa/what_are_your_investment_criteria_for_buying/lfe2t62/",
+      "created": 1722199539,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

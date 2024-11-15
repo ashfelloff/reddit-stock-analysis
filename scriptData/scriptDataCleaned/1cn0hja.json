@@ -1,0 +1,218 @@
+{
+  "title": "Options Geeks: An explanation",
+  "score": 112,
+  "selftext": "I have come across several posts on WSB where a member is puzzled as to why Options premium did not increase or decreased, despite favourable movement of the underlying [a stock].\n\nSo here's a cheat sheet:\n\nOptions Premium are decided by Supply & Demand. \n\nBlack Scholes Model [with its limitations like European options, no friction in market place etc] may only serve as a guide to pricing an Option. In the end it is the buyer or seller that determine the Option premium for a particular strike and expiry.\n\nGreeks serve to explain the premium of the Option in its basic consitutents. \n\nRemember, Option Greeks derive their respective values from Option premium and not vice versa.\n\nHere is a brief explanation of the Greeks,\n\nTheta: bascially a function of time to expiry. Long dated options experience slow theta decay and vice versa.\n\nTheta decay for a long option is a [steady] downward sloping line for almost 80% of the life of the Option. Theta decay increases significantly, and slope plunges precipitiously in last 20% of the life of the Option.\n\nDelta: change in price of Option per unit change in price of the underlying.\n\nDelta is 0.5 for at the money Option and increase as the spot price moves deeper in the money approaches max of 1.0\nConversely, Delta drops from 0.5 to 0.01 as spot price of underlying  moves out of the money.\n\nGamma: rate of change in Delta per unit change in the price of the underlying.\n\nGamma is max for at the money option, ~1.00 and drops if spot price of the underlying moves in the money or out of the money.\n\nVega: change in price of Option with per unit change in volatility.\n\nThis is the most dangerous Greek as it is most unintuitive and may cause either a windfall of cash, or blow up an account.\n\nVolatility or Vega is difficult to explain and almost impossible to visualize. But to simplify, I imagine Vega as the balance of supply & demand or lack of balance of supply & demand for a Option [of the same stock and expiry] at different strike price.\n\nIf the supply & demand are in balance for an Option [of a certain expiry] at a specific strike price, then the Volatility [Implied Volatility] may be in neighbourhood of its historical value. \n\nIf the supply & demand are in imbalance then Implied Volatility (IV) may explode or implode. This is what generates windfall of cash or account blowout.\n\nIV crush is nothing but lack of buyer for a particular Option [for a given strike price and expiry]. In IV crush Option premium dives to almost zero. ",
+  "link_flair_text": "Discussion",
+  "id": "1cn0hja",
+  "num_comments": 23,
+  "created_utc": 1715161018,
+  "permalink": "/r/wallstreetbets/comments/1cn0hja/options_geeks_an_explanation/",
+  "comments": [
+    {
+      "id": "l33vswr",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 2 | **First Seen In WSB** | 1 week ago\n**Total Comments** | 22 | **Previous Best DD** | \n**Account Age** | 2 weeks | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1cn0hja/options_geeks_an_explanation/l33vswr/",
+      "created": 1715161021,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l33ylnj",
+      "score": 52,
+      "body": "Thank you for explaining geeks.  I have always wondered about those people.",
+      "permalink": "/r/wallstreetbets/comments/1cn0hja/options_geeks_an_explanation/l33ylnj/",
+      "created": 1715163082,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l34hxhd",
+      "score": 27,
+      "body": "C’mon nerd there’s only two ways options can go: up or down. 50% chance it goes up; 50% chance it goes down. But the hidden statistic they don’t tell you about is that whichever way you need it to go, there’s about a 99% chance it goes the other way.  \n\nNo need to complicate this with your made up words and fancy foreign phrases.",
+      "permalink": "/r/wallstreetbets/comments/1cn0hja/options_geeks_an_explanation/l34hxhd/",
+      "created": 1715173311,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l35bn79",
+          "score": 1,
+          "body": "10% is pretty good",
+          "permalink": "/r/wallstreetbets/comments/1cn0hja/options_geeks_an_explanation/l35bn79/",
+          "created": 1715184331,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l34f9v7",
+      "score": 14,
+      "body": "Thank you for the post. I read it carefully and will no go back and buy spy calls as usual",
+      "permalink": "/r/wallstreetbets/comments/1cn0hja/options_geeks_an_explanation/l34f9v7/",
+      "created": 1715172155,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l352wcf",
+      "score": 6,
+      "body": "I like your funny words magic man",
+      "permalink": "/r/wallstreetbets/comments/1cn0hja/options_geeks_an_explanation/l352wcf/",
+      "created": 1715181293,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l34v76b",
+      "score": 5,
+      "body": "Thank you.  I had always imagined the Greeks were a few blokes in Greece sitting around a table discussing analytics over a coffee.",
+      "permalink": "/r/wallstreetbets/comments/1cn0hja/options_geeks_an_explanation/l34v76b/",
+      "created": 1715178535,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l35gqtb",
+          "score": 1,
+          "body": "Ever since they got a haircut, they're been running everything from behind a curtain.",
+          "permalink": "/r/wallstreetbets/comments/1cn0hja/options_geeks_an_explanation/l35gqtb/",
+          "created": 1715186073,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l34afly",
+      "score": 3,
+      "body": "So rho is not for us regards?",
+      "permalink": "/r/wallstreetbets/comments/1cn0hja/options_geeks_an_explanation/l34afly/",
+      "created": 1715169917,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l34eh0b",
+          "score": 8,
+          "body": "There is rho and then there is phi. \n\nUnless you are doing LEAPS, you may not concern yourself with it.",
+          "permalink": "/r/wallstreetbets/comments/1cn0hja/options_geeks_an_explanation/l34eh0b/",
+          "created": 1715171799,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l34ehrt",
+              "score": 12,
+              "body": "The plebs will never understand the nuances of your genius trades.",
+              "permalink": "/r/wallstreetbets/comments/1cn0hja/options_geeks_an_explanation/l34ehrt/",
+              "created": 1715171808,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l34j247",
+              "score": 2,
+              "body": "Let's assume the off chance that some regard here is a fan of LEAPs, what should that person know about rho and phi?",
+              "permalink": "/r/wallstreetbets/comments/1cn0hja/options_geeks_an_explanation/l34j247/",
+              "created": 1715173793,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l34xv5q",
+                  "score": 5,
+                  "body": "Since I do not do LEAPS, I have not done much study on Rho and Phi. However, hope this helps:\n\nRho is the sensitivity of the price of Option with change in risk free interest rate. \n\nHigher risk free interest rates impact carrying cost of actual 100 stock in the position, while there is little impact on owning a call. To compensate, Long Call Option buyer has to compensate the seller with a little higher premium.\n\nRho has stronger effect on LEAPS than shorter duration Options [due to time factor in calculating interest/carrying cost]. \n\nRho is positive for Long Calls & Short Puts.\nRho is negative for Short Calls & Long Puts.\n\nSince, we are now in high interest regime, Options are more sensitive to Rho. If in coming month, rate cuts take place then Options sensitivity to Rho will decline.\n\nPhi is the sensitivity of the Option to dividend yield. \nOnly the stock owners are eligible to receive a divident [and not the Option owners of the same stock]. When a stock goes ex-dividend, stock price is expected to drop by the amount of the dividend. Call Option premium should decline and Put Option premium should rise if there is divident to be paid during the life of the Option.",
+                  "permalink": "/r/wallstreetbets/comments/1cn0hja/options_geeks_an_explanation/l34xv5q/",
+                  "created": 1715179505,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l34i7pr",
+          "score": 6,
+          "body": "Rho is for rhogards",
+          "permalink": "/r/wallstreetbets/comments/1cn0hja/options_geeks_an_explanation/l34i7pr/",
+          "created": 1715173433,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l34tv0a",
+          "score": 2,
+          "body": "Only really matters for box spreads, its the risk free rate you'd get from the spread in a synthetic long and short on SPX",
+          "permalink": "/r/wallstreetbets/comments/1cn0hja/options_geeks_an_explanation/l34tv0a/",
+          "created": 1715178048,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l358zk9",
+              "score": 2,
+              "body": "That’s way out of my box,I need to remind you that you are talking to a regard here",
+              "permalink": "/r/wallstreetbets/comments/1cn0hja/options_geeks_an_explanation/l358zk9/",
+              "created": 1715183412,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l35626f",
+      "score": 3,
+      "body": "Ur forgetting the two most important charm and vanna",
+      "permalink": "/r/wallstreetbets/comments/1cn0hja/options_geeks_an_explanation/l35626f/",
+      "created": 1715182398,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l36wvlk",
+      "score": 2,
+      "body": "TLDR:\n\nOption premiums are set by supply and demand, not just mathematical models like Black Scholes. Greeks (Theta, Delta, Gamma, Vega) explain premiums: Theta reflects time decay, Delta measures price change relative to the underlying asset, Gamma shows Delta's change, and Vega reflects volatility's impact. Vega is tricky as it's linked to unpredictable volatility. Implied volatility (IV) can spike or plummet due to supply-demand imbalances, leading to big gains or losses, like in an IV crush when option premiums dive due to low demand.",
+      "permalink": "/r/wallstreetbets/comments/1cn0hja/options_geeks_an_explanation/l36wvlk/",
+      "created": 1715203805,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l352mx9",
+      "score": 1,
+      "body": "There are actually three ways the option can go…up,down or stay the same.",
+      "permalink": "/r/wallstreetbets/comments/1cn0hja/options_geeks_an_explanation/l352mx9/",
+      "created": 1715181201,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l354ege",
+          "score": 4,
+          "body": "Mine always goes to zero",
+          "permalink": "/r/wallstreetbets/comments/1cn0hja/options_geeks_an_explanation/l354ege/",
+          "created": 1715181821,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l354jhh",
+      "score": 1,
+      "body": "In the Think or Swim app they represent Delta as a number like 454.5677. Gamma 11.4418, Theta -3759.887 and Vega of 277.2034. That is off from your explanation. Can you help me understand how to interpret those numbers?",
+      "permalink": "/r/wallstreetbets/comments/1cn0hja/options_geeks_an_explanation/l354jhh/",
+      "created": 1715181870,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l356qeh",
+          "score": 2,
+          "body": "I have never used Think or Swim app. \n\nThe numbers I have stated is the standard lexicon in the Options circle and depicted in same way on Saxo and Interactive Brokers.\n\nPerhaps, you may refer to some guide features to understand how the Greeks are represented in your platform.",
+          "permalink": "/r/wallstreetbets/comments/1cn0hja/options_geeks_an_explanation/l356qeh/",
+          "created": 1715182632,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

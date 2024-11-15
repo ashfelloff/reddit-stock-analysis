@@ -1,0 +1,875 @@
+{
+  "title": "Micron gets hit with a whopping $445 million damages bill after it was found liable for patent infringements",
+  "score": 1261,
+  "selftext": "",
+  "link_flair_text": "News",
+  "id": "1d1rijk",
+  "num_comments": 125,
+  "created_utc": 1716816490,
+  "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/",
+  "url_overridden_by_dest": "https://www.pcgamer.com/hardware/memory/micron-gets-hit-with-a-whopping-dollar445-million-damages-bill-after-it-was-found-liable-for-patent-infringements/?utm_campaign=socialflow&utm_medium=social&utm_source=facebook.com&fbclid=IwZXh0bgNhZW0CMTEAAR0-Lk3lqOsWKxsxp-o4QHUGo1F6s6QZawCuR5bMpYnMixrrOw5Qn-JUYmI_aem_AcbeytnmftxPo0aF3NvgR33pGVLyrh51WdNxgoZ3fEJrN_59ecUK8Ts48KBftsPU6D6qG55E8Q69HQGXUt-Z9NF5",
+  "comments": [
+    {
+      "id": "l5vow4b",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 10 | **First Seen In WSB** | 5 months ago\n**Total Comments** | 59 | **Previous Best DD** | \n**Account Age** | 7 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5vow4b/",
+      "created": 1716816493,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5vv8w7",
+      "score": 323,
+      "body": "From the article, it says one of the patent was invalidated by the patent office, so…the case would be appeal. They may still need to pay only $20m (x3) for the second patent they infringe. \n\nSo the article itself is bullish, the title of this post is  intentionally bearish",
+      "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5vv8w7/",
+      "created": 1716819197,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l5w6xpw",
+          "score": 39,
+          "body": "Patents were valid during the period of infringement",
+          "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5w6xpw/",
+          "created": 1716823729,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l5wktil",
+              "score": 43,
+              "body": "Nope. You can’t collect any damages (including past damages) on invalid patents unless there’s a final judgment before the invalidation. There is no final judgment yet because they’re on appeal. If the PTAB’s ruling that the patent is invalid is upheld on appeal (which as a baseline happens at lease 80% of the time), then Micron is off the hook for any damages for that patent.",
+              "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5wktil/",
+              "created": 1716828860,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l5wnbrf",
+                  "score": 13,
+                  "body": "Should be noted that the director of PTAB was once on the payroll for MU. One would think there’s a conflict of interest there.",
+                  "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5wnbrf/",
+                  "created": 1716829784,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l5wq21i",
+                      "score": 10,
+                      "body": "Vidal is director of the USPTO, which the PTAB is a sub-organization of. She’s not involved with PTAB decisions (which are made by a panel of three patent judges randomly assigned to the case) unless specifically requested (as required by the Supreme Court in the Arthrex decision), and if there is a conflict, she’ll recuse and have the deputy Director handle it. \n\nBut neither party has requested the Director’s involvement in the PTAB case. The Director once being affiliated with a party is not a get out of jail free card for the opposing party.",
+                      "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5wq21i/",
+                      "created": 1716830789,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l5wv4vd",
+                          "score": 12,
+                          "body": "Not correct. Netlist has already asked for director review in the 912 case ( https://sih-st-charts.stocktwits-cdn.com/production/original_574300716.png ) for which the invalidation and reasoning was/is ridiculous in the first place.\nClaim 16 of the '912 has been validated a couple of times by PTAB already and even been finally validated by the highest authority in the CAFC, which probably is the same way this will go once again. \n\n\nIts ridiculous that once one Company (Google) exhausted their appeals they just get another company (Samsung and Micron) to ask for another review. \n\n\nYou would think a patent that has been validated over and over for 14 years plus should at some time be finally safe but not if big tech is on the hook for billions i guess.\nWhich is the only reason the PTAB exists in the first place, since its just been created by Googles bidding in 2012.",
+                          "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5wv4vd/",
+                          "created": 1716832654,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l5x2x0l",
+                              "score": 7,
+                              "body": "The appearance of impropriety is ubiquitous.",
+                              "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5x2x0l/",
+                              "created": 1716835542,
+                              "depth": 6,
+                              "replies": []
+                            },
+                            {
+                              "id": "l5xfk7n",
+                              "score": 4,
+                              "body": ">  Netlist has already asked for director review in the 912 case\n\nOK, looks like they asked about a week ago.  I was not aware of that update.  By the way, you will note that Netlist did not request that the Director recuse herself, indicating they don't care that she used to work for Micron. \n\n> Claim 16 of the '912 has been validated a couple of times by PTAB already and even been finally validated by the highest authority in the CAFC, which probably is the same way this will go once again. \n\nWhere are you seeing that any claim of the 912 has been validated by the PTAB or upheld by the CAFC?  There have only been two IPRs filed against the 912 (one by Samsung and one by Micron), and they were joined/consolidated in to this case where it's pending director review following Netlist's loss.  I also do not see anything in the 912's prosecution history indicating the PTAB ever weighed in on its patentability, or that the CAFC ever did either.\n\n> Its ridiculous that once one Company (Google) exhausted their appeals they just get another company (Samsung and Micron) to ask for another review. \n\nBro, that's how patent law has always worked.  If you sue someone, they get to challenge your patent, regardless of whether someone previously has challenged it.  \n\nAlso, unlike with district court, the PTAB itself has several safeguards to ensure that it doesn't keep adjudicating serial challenges to a patent, such as dismissing if the parties are RPIs (i.e. two parties working together, when one of them has been time-barred), or General Plastic (where serial petitions are dismissed if denial of the first petition is used as a roadmap for the second petition, especially if brought by RPIs), or Section 325(d) (where petitions are dismissed if they present the same or substantially similar prior art previously considered). \n\nAnd in fact, the issue as to whether Samsung or Micron were working with Google was extensively litigated, and the Board found that they were not.  Indeed, in a win for Netlist, the Director herself stated that the Board initially made a mistaken not conducting discovery and deciding the RPI issue, and so told the parties to collect the relevant evidence for the Board to make that determination.  (*Sue sponte*, no less, for those who understand how rare that is... on top of the rarity that the Director even grants review.)  \n\n> Which is the only reason the PTAB exists in the first place, since its just been created by Googles bidding in 2012.\n\nlmao, Google has lost plenty of times before the PTAB.  I myself have won plenty of times representing patent owners (which is about half of the IPR cases I've worked on).  Maybe Netlist should've hired better lawyers or gotten better patents.",
+                              "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5xfk7n/",
+                              "created": 1716840310,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l5yy282",
+                                  "score": 5,
+                                  "body": "[https://investors.netlist.com/websites/netlist/English/2120/us-press-release.html?airportNewsID=b9be6faf-dc5d-4920-9032-bf88d55582ef](https://investors.netlist.com/websites/netlist/English/2120/us-press-release.html?airportNewsID=b9be6faf-dc5d-4920-9032-bf88d55582ef)\n\n912 was upheld by CAFC.. somehow  Micron was allowed a kick at the can at PTAB and the corrupt PTAB said the patent wasn't valid all  of a sudden,  Hence the Director review.\n\nBut PTAB is a lower court than CAFC and shown to be corrupt/amateurish.  What the CAFC says is most important as they  can and do ignore PTAB.",
+                                  "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5yy282/",
+                                  "created": 1716863077,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "l5z3jbv",
+                                      "score": 0,
+                                      "body": "Different proceedings. Google’s requested proceeding was a reexamination, quite different than the inter parties review system that Congress created a few years after Google filed their challenge. \n\nJust so you’re aware, both courts/juries and the PTAB only consider the prior art and arguments in front of them. It’s not surprising or “corrupt” for the PTAB to consider art that Google brought as not good enough but consider the art that Samsung/Micron found as better. \n\nPTAB is actually not even allowed to consider the same (or substantially the same) art and arguments under 325(d). \n\n> Somehow Micron was able to kick the can…\n\nYes because Micron and Samsung are different parties and have the right to bring their own challenges, as it has always been in the patent system. Netlist already tried arguing that Google was working with them or are related to them in some tangible way and there was no proof at all of that. Your continued insistence that there was some kind of corruption because two unrelated different parties brought two different challenges against the same patent just reeks of ignorance.",
+                                      "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5z3jbv/",
+                                      "created": 1716865495,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "l60b3th",
+                                          "score": 4,
+                                          "body": "you specifically ignored the fact CAFC upheld the 912 patent and that CAFC supersedes any PTAB ruling",
+                                          "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l60b3th/",
+                                          "created": 1716894181,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "l60bz7r",
+                          "score": 3,
+                          "body": "Netlist has requested director review which she’ll overturn if she’s smart and not let the CAFC make her look more corrupt than she does now.",
+                          "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l60bz7r/",
+                          "created": 1716894698,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "l5yy2lm",
+                  "score": 2,
+                  "body": "in most areas you can’t appeal until there is a final appealable order, is this interlocutory or is the patbar just that weird to normal procedure?",
+                  "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5yy2lm/",
+                  "created": 1716863082,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l5z22r4",
+                      "score": 1,
+                      "body": "Final appealable order is different than a final judgment exhausting all appeals. Until the latter, you don’t pay damages on an invalid patent. \n\nIPRs (which is the name of the proceeding in front of the PTAB where the patent was invalidated) can only be appealed after a Final Written Decision finding the patent invalid (or valid or partially valid), issued about a year and a half after the Petition was first filed.",
+                      "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5z22r4/",
+                      "created": 1716864838,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l606c5h",
+                          "score": 1,
+                          "body": "Thanks that’s what I was going for! Never do IP stuff at that sort of level.",
+                          "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l606c5h/",
+                          "created": 1716891095,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "l73feu4",
+                  "score": 1,
+                  "body": "PTAB has validated it 3 times in the past.",
+                  "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l73feu4/",
+                  "created": 1717522880,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l5x32q9",
+              "score": 2,
+              "body": "The dopes who upvoted you are going to lose money because of your lack of legal knowledge. Oof.",
+              "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5x32q9/",
+              "created": 1716835602,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l5x3bct",
+                  "score": 0,
+                  "body": "Anyone in here losing money only have themselves to blame 😘",
+                  "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5x3bct/",
+                  "created": 1716835691,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l5x4kcf",
+                      "score": 1,
+                      "body": "Agreed. Still, bad info doesn't help, but you do you, mate.",
+                      "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5x4kcf/",
+                      "created": 1716836153,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l5yk0m2",
+          "score": 11,
+          "body": "Think big picture here. It's important for the overall context of what's happening. There's excellent background and discussion on [](/r/NLST/) on these court cases and the memory space. My own opinion and belief is that there is tremendous opportunity for Micron and Netlist to come to an agreement that benefits both parties, and the potential for both parties is substantial and a win-win for both.\n\nIn my opinion, the next significant milestone can be a settlement agreement between Netlist and Micron for a variety of reasons as it makes perfect sense from a business operational and strategic perspective for both companies. \n\nAs many know, the memory industry is highly concentrated with a small number of players that all know each other. They attend the same industry conferences and participate on the same standards boards. In particular, this level of intimacy is a dynamic that factors into play. Without going into all the decade plus history and litigation (which by the way is covered in a most excellent and truly outstanding manner on the Reddit [](/r/NLST/) and Stocktwits forums), Netlist clearly has established itself as a leader and innovator in memory space that has had a transformational (you might even say seminal) impact on products used around the globe by everyone who uses internet servers and other devices with memory products, and while this may not have been recognized at the onset, this recognition is gradually and methodically now coming into focus. If one steps back away from all the litigation details, you see the strategy game that’s being played out over a number of years. \n\nThe first major milestone was the settlement agreement between SK Hynix and Netlist following claim construction. Now, ask yourself what motivated both parties to come to an agreement and what did each take away from that agreement? Well, from SK Hynix’s perspective, following claim construction, they knew in all likelihood they were going to lose the case and felt it in their best interest to settle upfront and avoid the longer-term litigation path and associated costs. They also got full access to Netlist’s patent portfolio via the cross-licensing agreement and the prospect of early collaboration on future technologies. In short, with all the litigation behind them, they were clear to focus on the future and do what they do best, deliver high performance and innovative memory products. And, as the first to settle, they got an ‘early buyer discount’ on licensing. From Netlists perspective, the got a much-needed infusion of cash, much more favorable financing agreements, the ability to payoff existing debt, a supply agreement for products which allows them to increase their revenue streams, and most importantly, they got recognition from a top tier industry player on the value and validity of their patent portfolio. In short, they achieved a significant financial and strategic milestone that allowed them to move forward toward the next step of the process. \n\nNow, here’s where things get really interesting. The character of the players is key to understanding not only the past, but the future evolution and events. The relationship between Netlist and SK Hynix was conducive to a settlement. Contrast the Netlist-SK Hynix relationship with the Netlist-Google or Netlist-Samsung relationships. Night and day is probably a huge understatement. When one considers the alleged collusion, theft, and attempts to drive Netlist out of existence on the part of Google and Samsung, that’s on an entirely different sphere, may be even a different universe. So, expecting a Netlist-Samsung or Google Settlement to be the next milestone would not be first on the list. Samsung breached the contract they had with Netlist and their CEO is a convicted felon that was sent to jail) – not exactly the pillar of ethics. Google for their part has played out their efficient infringement strategy going back to 2009 leveraging and some might say abusing the legal system to delay until Netlist could no longer continue the fight. Well, the settlement agreement with SK Hynix threw a wrench into that plan. \n\nNow as far as the Netlist-Micron relationship is concerned, it’s more like the SK Hynix relationship and one focused on what it should be, namely, the operational business of creating, developing and delivering innovative memory products to customers. Another interesting similarity is that both SK Hynix and Micron’s core business is focused on Memory devices, so that is of paramount importance to them, unlike with Google and Samsung, where memory is not first and foremost. Micron also has a history of arriving at settlement agreements as evidenced in their most recent 10Q (see below detailed references). More specifically, in regards to Netlist, in some of the court documents, Micron has indicated a willingness to pay Netlist a royalty, but they need to agree on terms. So, with Micron you have a firm that is operationally focused, has a history of arriving at settlement agreements, one that does not carry the emotional baggage and conflict like with Google and Samsung, and one that like with the SK Hynix case, has just received an unfavorable claim construction ruling which will likely result in losing the court case. And, Micron did just lose in the ED Texas Judge Gilstrap district court. So, its is a good time for Micron to settle and at a time that is conducive for both parties. SK Hynix got an ‘early buyer discount’ and next in line is likely to get favorable terms, not as good as with the SK Hynix terms, but not as bad as waiting until the bitter end. One does not want to be playing a game of musical chairs and find out when the music stops, they don’t have a chair while the other participants are sitting comfortably. From Netlist perspective, Chuck Hong has shown a willingness to settle if it satisfies a strategic objective, so a settlement agreement with Micron is a natural and logical next step in the ongoing process of achieving full industry recognition. And, depending on the specifics of the agreement, a settlement with Micron would likely give Netlist a complete lock on having whatever resources needed to take Google and Samsung to the final destination of this journey. ",
+          "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5yk0m2/",
+          "created": 1716856935,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l5w1hkz",
+          "score": 1,
+          "body": "how is paying 60m bullish lmao.",
+          "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5w1hkz/",
+          "created": 1716821653,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l5w393z",
+              "score": 42,
+              "body": "Because it's pocket change.",
+              "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5w393z/",
+              "created": 1716822330,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l5w48d0",
+                  "score": 6,
+                  "body": "60m is pocket change but 450m is not? Put differently, $1 is pocket change but $8 is not? Ok.",
+                  "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5w48d0/",
+                  "created": 1716822709,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l5wbacm",
+                      "score": 17,
+                      "body": "8 dollars is pocket change but 64 dollars is not. Hope this helps",
+                      "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5wbacm/",
+                      "created": 1716825345,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "l5w4gu8",
+                      "score": 13,
+                      "body": "Have you seen their 10Q and FCF?",
+                      "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5w4gu8/",
+                      "created": 1716822799,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "l5w8pj8",
+                      "score": 10,
+                      "body": "> $1 is pocket change but $8 is not?\n\nYes. I can buy lunch for $8, I can't do shit with $1",
+                      "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5w8pj8/",
+                      "created": 1716824393,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l5x3dg5",
+                          "score": -1,
+                          "body": "You could buy calls on some random penny stocks, and maybe turn it into $2 before blowing it on the next penny stocks OTD.",
+                          "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5x3dg5/",
+                          "created": 1716835713,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "l5w6tqj",
+                      "score": 5,
+                      "body": "Pretty much. That’s hits about as hard as 1 person closing a moderately leveraged position. Market cap of 143 billion.",
+                      "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5w6tqj/",
+                      "created": 1716823689,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "l5yimka",
+                      "score": 1,
+                      "body": "Because of the 18 billion dollars in revenue, they paid a 2.3% sales tax on it. lol  450 million was a 2.3% tax for them lol.",
+                      "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5yimka/",
+                      "created": 1716856326,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "l5w7wso",
+              "score": 5,
+              "body": "People probably oversold expecting $450m and now $60 M is nothing in comparison",
+              "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5w7wso/",
+              "created": 1716824097,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l5wh60r",
+              "score": 13,
+              "body": "Simpleton, let me explain this to you in a way that even you can understand.\n\nIn a hypothetical world, you’re arrested and sued for $50m on insider trading charges. You await trial and you’re shitting your pants. A month later, you are found guilty and ordered to pay damages of $1k (cause you’re broke af in this world just like in real life).\n\nIs being sued and paying damages of $1k bullish? No. But on the day you’re ordered to pay $1k, you’re out buying $10 hookers and drinking the stuff you’ve been saving for a special occasion - Jose Cuervo. Why? Because this outcome is so much better than what could’ve been. You getting it now?\n\nThis article did not simultaneously disclose the existence of the PI lawsuit and the damages. It disclosed a significant development in the already-known PI case. Hence, the case itself and potential damages have long been considered and priced in by investors. This article came out last week and micron took it in stride because the damages turned out to be relatively immaterial to this company.",
+              "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5wh60r/",
+              "created": 1716827519,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l5wukwb",
+                  "score": 2,
+                  "body": "I wish teachers could explain things like you do.",
+                  "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5wukwb/",
+                  "created": 1716832452,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l5wwiif",
+                  "score": 2,
+                  "body": "Savage and accurate. I love it.",
+                  "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5wwiif/",
+                  "created": 1716833159,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l5x1t3l",
+                  "score": 1,
+                  "body": "[removed]",
+                  "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5x1t3l/",
+                  "created": 1716835125,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l5xc9wf",
+                  "score": 1,
+                  "body": "The situation is so much better than it could have been, but surely the best situation of all is to not be in the so much better than it could have been situation to begin with",
+                  "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5xc9wf/",
+                  "created": 1716839058,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l5wen6j",
+              "score": 2,
+              "body": "Look at MMM, a known big fine is bullish compared to an unknown big fine.",
+              "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5wen6j/",
+              "created": 1716826588,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l5wj7d8",
+              "score": 2,
+              "body": "Priced in bullish.",
+              "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5wj7d8/",
+              "created": 1716828268,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l5w342n",
+              "score": 1,
+              "body": "[removed]",
+              "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5w342n/",
+              "created": 1716822277,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l5wcg0f",
+              "score": 0,
+              "body": "You're joking right?\n\nThis is a 145B company.",
+              "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5wcg0f/",
+              "created": 1716825775,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l5w4byg",
+          "score": -3,
+          "body": "How much ya boudda lose",
+          "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5w4byg/",
+          "created": 1716822747,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l5vxui3",
+      "score": 52,
+      "body": "with this market - stock will dip 5% in one day then rally 20% by end of week",
+      "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5vxui3/",
+      "created": 1716820242,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l5vziib",
+          "score": 33,
+          "body": "I might be the guy losing all in between ![img](emote|t5_2th52|4271)",
+          "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5vziib/",
+          "created": 1716820894,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l5xfos9",
+              "score": 3,
+              "body": "WSB salutes you 🫡",
+              "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5xfos9/",
+              "created": 1716840359,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l5vvtyq",
+      "score": 48,
+      "body": "Already read that somewhere on Friday before market opening, with no obvious reaction. I hope there won't be any price effect tomorrow. Thanks for posting though!",
+      "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5vvtyq/",
+      "created": 1716819436,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l5vxlqg",
+          "score": 9,
+          "body": "Probably because they would already have put this costs in to the provisions a lon time ago\n\n(i have no clue tho, because i didn't do DD)",
+          "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5vxlqg/",
+          "created": 1716820145,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l5x2irj",
+          "score": 0,
+          "body": "who among us hasn't committed a little patent infringement and industrial espionage? it's all in the game, BAYBEEEE!",
+          "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5x2irj/",
+          "created": 1716835393,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l5vxssm",
+      "score": 7,
+      "body": "Buying opportunity",
+      "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5vxssm/",
+      "created": 1716820223,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l5w4da1",
+          "score": 4,
+          "body": "Ya the last 5 years where you been son?",
+          "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5w4da1/",
+          "created": 1716822760,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l5wd41i",
+              "score": 6,
+              "body": "Late to the game 🙄",
+              "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5wd41i/",
+              "created": 1716826022,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l5vyceg",
+      "score": 8,
+      "body": "apprently, the lawsuit involves patent '417 & '912 .  ustpa ruled the claim of patent '912 is invalid on april 2024 in netlist vs. samsung, which netlist will appeal.\n\nnetlist has infringement lawsuits against samsung, googl, and hynix as well.\n\nsince the claim of patent '912 has been ruled invalid,  the final amount may resulted to be around $100M.",
+      "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5vyceg/",
+      "created": 1716820439,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l5wwgfl",
+          "score": 14,
+          "body": "I mean this is long from over, but i agree as far as netlist wont see that amount of money in the near future.\n\n\nThe PTAB itself has time and again shown itself to a) not be the final authority in this and b) not really having the most knowledgable \"judges\" when it comes to technology. \n\n\nThis will probably ne appealed to the court of appeals for the federal circiut (CAFC) where it most like will be validated as it has already more than once in the past (see Google CA case) but as with all things appeal-wise probably not a thing of weeks but months and even up to a year. ",
+          "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5wwgfl/",
+          "created": 1716833137,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l5xqom0",
+              "score": 0,
+              "body": "usptab invalidated netlist 912 patent in it suit against samsung.  netlist will appeal that decision.  that ruling will be used by googl and mu to appeal for a reduction of the judgement.\n\nwe will see how these suits play out.",
+              "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5xqom0/",
+              "created": 1716844577,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l5ymwb0",
+                  "score": 2,
+                  "body": "PTAB that invalidates 84% of the cases in front of them.",
+                  "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5ymwb0/",
+                  "created": 1716858197,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l5yw6mb",
+                      "score": 1,
+                      "body": "is that good or bad? 🤔  i don't follow patent lawsuits.",
+                      "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5yw6mb/",
+                      "created": 1716862274,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l60e9d9",
+                          "score": 1,
+                          "body": "It just shows that PTAB is corrupt and they only are there to help big corporations steal patents from small companies.",
+                          "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l60e9d9/",
+                          "created": 1716895991,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l652flj",
+                              "score": 1,
+                              "body": "oh, i see.  \n\nw/out knowing the details of the patents, one can also say that small companies are patent's trolls looking for  revenue streams fom mega corps.\n\ndidn't rmbs make the same claim along time ago on its proprietary memory?",
+                              "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l652flj/",
+                              "created": 1716964656,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l65pb0z",
+                                  "score": 1,
+                                  "body": "Patent trolls?  Pretty hard to get a patent.  Why would they be a troll if they want credit for what is theirs?",
+                                  "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l65pb0z/",
+                                  "created": 1716980882,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "l67f6zk",
+                                      "score": 1,
+                                      "body": "i'm just saying of a counter argument not knowing the details of the patents. 🤷‍♂️ it's not just about the patent but also about the verbiage that can capture all applicable applications, no matter how remote.",
+                                      "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l67f6zk/",
+                                      "created": 1717005064,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "l6zuemj",
+                                          "score": 1,
+                                          "body": "Maybe you should do some DD before speaking out then.",
+                                          "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l6zuemj/",
+                                          "created": 1717461362,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l5vr0s4",
+      "score": 11,
+      "body": "Close to 10% of their revenue in one quarter. Not much for them but not negligible either.",
+      "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5vr0s4/",
+      "created": 1716817425,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l5w1vwf",
+          "score": 15,
+          "body": "10% of quarterly REVENUE ? Thats pretty massive",
+          "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5w1vwf/",
+          "created": 1716821804,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l5vxfjf",
+          "score": 2,
+          "body": "And how much net earnings? That's right....",
+          "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5vxfjf/",
+          "created": 1716820077,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l5zjn1a",
+      "score": 2,
+      "body": "Dang I had no idea the prime minister of France was also in the chips game",
+      "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5zjn1a/",
+      "created": 1716874420,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5wf4k5",
+      "score": 1,
+      "body": "Hopefully this causes a dip.  Looking to buy in.",
+      "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5wf4k5/",
+      "created": 1716826765,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l5xq6ik",
+          "score": 2,
+          "body": "Yes! I hope this presents an opportunity, too. It ran away from me during earnings last time.",
+          "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5xq6ik/",
+          "created": 1716844381,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l5yhl1x",
+          "score": 1,
+          "body": "News was out before opening Friday I think",
+          "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5yhl1x/",
+          "created": 1716855860,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l5wll5b",
+      "score": 3,
+      "body": "Calls on micron",
+      "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5wll5b/",
+      "created": 1716829139,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5wtcyh",
+      "score": 1,
+      "body": "I thought this was about the pen company and was actually worried for a moment.",
+      "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5wtcyh/",
+      "created": 1716832002,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5x8jv8",
+      "score": 1,
+      "body": "Ccs or puts🤷🏽‍♂️!",
+      "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5x8jv8/",
+      "created": 1716837647,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5yc3mb",
+      "score": 1,
+      "body": "I saw that last week yet the stock still rose after the news.",
+      "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5yc3mb/",
+      "created": 1716853447,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5yieac",
+      "score": 1,
+      "body": "2023, Micron generated record revenue of $18 billion.\n\nThat is a 2.3% tax they paid to make all that money, these fines are a fucking joke.\n\nit's all a racket, the government just takes a cut.",
+      "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5yieac/",
+      "created": 1716856225,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5vzt5u",
+      "score": 0,
+      "body": "The 912 was IPR'd but the judge let the case proceed anyway. Netlist knew what they were doing with choice of venue, but it will bite them in the end. \n\nDon't expect the stock to even react to this at all, just my regarded Wendy's dumpster opinion",
+      "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5vzt5u/",
+      "created": 1716821008,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5xg1ad",
+      "score": 1,
+      "body": "I have a bunch of netlist shares because I thought the patents would hold up to scrutiny. Microns hbm3e is dope though",
+      "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5xg1ad/",
+      "created": 1716840491,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5xgp1r",
+      "score": 0,
+      "body": "Tis but a scratch!",
+      "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5xgp1r/",
+      "created": 1716840748,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5w7qt6",
+      "score": -1,
+      "body": "Your about 5 days late with this news!",
+      "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5w7qt6/",
+      "created": 1716824034,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5wj3u0",
+      "score": -1,
+      "body": "Here we go 📉📉",
+      "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5wj3u0/",
+      "created": 1716828232,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5wo240",
+      "score": -1,
+      "body": "Lolololol I guess the only way for Idahoans to recover now is to push even harder for Greater Idaho",
+      "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5wo240/",
+      "created": 1716830058,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l5x40r7",
+          "score": 1,
+          "body": "Micron is getting a few billion from CHIPS Act funds, and most of that is going into Boise. Hopefully, it'll bring even more diversity to Idaho, but we'll see.",
+          "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5x40r7/",
+          "created": 1716835952,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l5x9xgn",
+              "score": 0,
+              "body": "Or maybe they'll use it to try to take over half of Oregon",
+              "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5x9xgn/",
+              "created": 1716838165,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l5xfa09",
+                  "score": 1,
+                  "body": "Ha. Yakima is going to need more workers and more water, but yeah, pretty easy territory to take over if ya want it.",
+                  "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5xfa09/",
+                  "created": 1716840202,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l5w40ez",
+      "score": -5,
+      "body": "soooooo glad I sold last week",
+      "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5w40ez/",
+      "created": 1716822624,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l5w4fsw",
+          "score": 7,
+          "body": "Weak. Sign to add more guys",
+          "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5w4fsw/",
+          "created": 1716822788,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l5w70zq",
+              "score": -1,
+              "body": "Imma load up on intel",
+              "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5w70zq/",
+              "created": 1716823763,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l5w8qut",
+                  "score": 1,
+                  "body": "Worst choice out of all the semi stocks",
+                  "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5w8qut/",
+                  "created": 1716824407,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l5w9zuh",
+                      "score": 0,
+                      "body": "On gawt. At least I won't lose any money, then again, won't make any either my boy",
+                      "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5w9zuh/",
+                      "created": 1716824870,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l5wdupe",
+                          "score": 0,
+                          "body": "Who knows man. I thought about when it was around $25. If it dips a few $ below $30 again I might add for a swing. Long term I just don’t see the growth with all the competition",
+                          "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5wdupe/",
+                          "created": 1716826296,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l5y4sdm",
+      "score": -2,
+      "body": "Micron has the capacity to tie this up for longer than that company can afford to sustain. Its happened many times. Look at NVIDIA V 3DFX from the early 1990's. \n\nThat  said there are Patent Trolls and incredibly obvious patents that should have never been granted. In the latter case Micron lawyers can find prior art that was not referenced in granted patent nullifying it. \n\nSo the LIKELY outcome is this drags on a while and then Micro licenses the patent for a princely sum in perpetuity.  Or like NVIDIA - buys 3DFX  and drops the suit against itself.",
+      "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5y4sdm/",
+      "created": 1716850294,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l5y4tqp",
+          "score": 0,
+          "body": "Despicable traders. I'd crush them all.",
+          "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5y4tqp/",
+          "created": 1716850310,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l5wahkq",
+      "score": -1,
+      "body": "“Who do I write the check out to”.",
+      "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5wahkq/",
+      "created": 1716825051,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5yx861",
+      "score": -1,
+      "body": "Old news",
+      "permalink": "/r/wallstreetbets/comments/1d1rijk/micron_gets_hit_with_a_whopping_445_million/l5yx861/",
+      "created": 1716862727,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

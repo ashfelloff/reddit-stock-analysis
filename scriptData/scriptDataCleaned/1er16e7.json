@@ -1,0 +1,1080 @@
+{
+  "title": "Up 853%, can't sell due to low volume!",
+  "score": 53,
+  "selftext": "https://preview.redd.it/ha3ccamcbeid1.jpg?width=947&format=pjpg&auto=webp&s=dbb98c875beccb483910a9d8b33ce9dc08035664\n\nHey options experts! Please help me out! I am not super familiar with options and especially when I have a lot to sell but not that much open interest to sell into.\n\nI have bought 44 option call contracts on CORZ expiring 20/9/24. The P/L is +853%, open interest 1.17k, but hardly any volume (3-10, only every few days). The price per option is now 6.0, it was 7.5 a few weeks ago.\n\nWhat approach may be good for selling this to maximise potential gains?\n\nI assume that if I am not able to sell them, and let it expire (ITM), it means I will just get in-cash, the CORZ stock on the strike price of 4 which (x44 options x 100) is only worth $176 x 100 = $17,600? OR is it that I will end up getting 44,000 CORZ shares (?) at a price of $4 (not that I have to pay for it)?\n\nIs that how it works?\n\nMy current value of the 44 options is $23k; I assume that, if that is still the price at expiry, I will not be getting that amount, but $17,600?\n\nShould I try and place orders to sell 10 at 6.5 (I have already placed that but no transactions for a week), 10 at 7.0, 10 to sell at 7.5 etc? (and hope they actually go through)? Or is there a better strategy you could share?\n\nThanks so much for your help!",
+  "link_flair_text": "Discussion",
+  "id": "1er16e7",
+  "num_comments": 115,
+  "created_utc": 1723531839,
+  "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/",
+  "comments": [
+    {
+      "id": "lhvgj1f",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 1 | **First Seen In WSB** | 4 months ago\n**Total Comments** | 9 | **Previous Best DD** | \n**Account Age** | 3 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvgj1f/",
+      "created": 1723531841,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhvvaut",
+      "score": 271,
+      "body": "1) Call your broker\n\n2) Ask for a CASHLESS EXERCISE of the options.\n\n3) Stop asking the same question over and over again. \n\nGood day sir.",
+      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvvaut/",
+      "created": 1723541759,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhvhpl0",
+      "score": 133,
+      "body": "You can exercise anytime if you are in the money. You will then buy 4400 shares at whatever strike price you have I don’t see where u say what strike u have. Is it the $4 call? If so then $4x4400 shares is what u will then own if you decide to exercise. If it’s at $9 now then u make $9x4400-$4x4400 profit if u sell the shares. \n\nCongrats and fuck you",
+      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvhpl0/",
+      "created": 1723532608,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lhvi5az",
+          "score": 14,
+          "body": "My strike price is 4.0, you can see on the screenshot too.\n\nHow do I \"exercise\" it? I only see a Trade button to sell the option, not to \"exercise\" it using the way you mention? Don't I have to have a buyer who is willing to exercise my 44 calls?",
+          "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvi5az/",
+          "created": 1723532900,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lhvizwd",
+              "score": 45,
+              "body": "Ya the “4” is less than clear in the  screenshot. \n\n\n\n\nCall your broker and exercise. I’m guessing you have 40 calls so you’ll need 40 x 100 x 4 = $16k to buy the shares then immediately sell them on the market for $9.47 or whatever you can, and profit approx $22k less your premium cost of $2.5k ish, for $20k ish profit. \n\n\nBroker might even let you just do it with their money if it’s an immediate sell too. \n\n\nOr just sell for the bid price. Just do the math. Currently works out to about the same.",
+              "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvizwd/",
+              "created": 1723533456,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lhvohvv",
+                  "score": 7,
+                  "body": "'Broker might even let you do it with their money' ... can you explain further?  Are there certain brokerage houses like Schwab or Fidelity that do this?  Or does one need to apply for a line of credit?  Is it based on how deep ITM the option is when it's being exercised or how much credit is needed?",
+                  "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvohvv/",
+                  "created": 1723537149,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lhw8or6",
+                      "score": 17,
+                      "body": "Call your broker and talk to them. Sometimes if you tell them you are going to exercise and then immediately sell, they will basically loan you the money to buy it so you can sell at open to repay the broker and take your profits. All depends on the broker though so that’s why it’s best to call and ask",
+                      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhw8or6/",
+                      "created": 1723549404,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lhw84fb",
+                      "score": 9,
+                      "body": "Call your broker",
+                      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhw84fb/",
+                      "created": 1723549140,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lhwevd6",
+                          "score": 7,
+                          "body": "Call 5 brokers.",
+                          "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhwevd6/",
+                          "created": 1723552191,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lhwuw93",
+                              "score": 13,
+                              "body": "Then call 10 hookers",
+                              "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhwuw93/",
+                              "created": 1723558237,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lhww2fw",
+                                  "score": 4,
+                                  "body": "No, then you call the most expensive broker back.",
+                                  "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhww2fw/",
+                                  "created": 1723558628,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lhxc2jr",
+                      "score": 2,
+                      "body": "Not much else to explain. \n\n\nThere may be. I don’t know. Unlike most people I don’t have 12 accounts, one at every brokerage.\n\n\nNo you don’t need a line of credit. \n\n\nNo it’s not based on whatever strike is.",
+                      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhxc2jr/",
+                      "created": 1723563747,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lhvjpr7",
+              "score": 20,
+              "body": "When you bought the call options, someone agreed to sell you 4400 shares at $4/share. The buyer, you, can choose to exercise the options at anytime up to the expiration date.",
+              "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvjpr7/",
+              "created": 1723533935,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lhvm50b",
+                  "score": 2,
+                  "body": "Thank you for explaining, I'm quite new to this.\n\nSo if I exercise the options, I have to buy the shares at $4 x 44 options x 100 ($17,600?), and immediately then sell them at the same day to get the profit (current share price 9.47... 4400 x 9.74 = $42,856?\n\nWhich means I will get profit of 42,856 -17,600 = $25,256? Am I calculating it correctly? That is even more profit than if I managed to sell everything at the current option price of 6.0 (profit $23,628), is that correct?\n\nOr do you mean I need to minus off the entire cost of what I bought the options (when I exercise the options)? ? I bought 44 contracts for price of $0.63, so does that mean I have to minus off $0.63 x 44 x 100 = $2772 from all my calculations on exercising the options?",
+                  "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvm50b/",
+                  "created": 1723535561,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lhvncv3",
+                      "score": 4,
+                      "body": "Your math is right. If you exercise the options you will lose the $2,772. There isn't much of a difference in profit when you are deep in the money and close to expiration.",
+                      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvncv3/",
+                      "created": 1723536380,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lhxg7rk",
+                      "score": 4,
+                      "body": "Hey I know its late, but wanted to explain something here as your math and thinking are off a bit.   \n  \nSelling the option should theoretically always yield a higher return, since you are receiving a premium on top of the intrinsic value of the shares. Lets use $4 strike, and a $9.47 share price. I'm ignoring the initial cash you paid for the contracts since that's fixed either way. \n\nScenario 1)   \nExercise and sell the options. Purchase the shares for $17,600, and then sell for $41,668 which gives a profit of $24,068\n\nScenario 2)  \nSell the options contracts for $6. This gives a profit of $26,400. \n\nThe equilibrium point where both scenarios yield the same return is when the following equation is equal. \n\nStrike + Premium = Current Stock Price, where S is your strike of $4, premium is the cost per contract you want to buy/sell at, and current stock price is self explanatory.",
+                      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhxg7rk/",
+                      "created": 1723565037,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lhzixia",
+                      "score": 2,
+                      "body": "Moo Moo doesn’t post the mid-price of the contracts - check the actual bid and ask. They often don’t update and post lower than the current prices. \n\nDon’t trade options on Moo Moo.",
+                      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhzixia/",
+                      "created": 1723590227,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lhzjhd5",
+                          "score": 1,
+                          "body": "Part of what you are missing is that by exercising you give up the extrinsic value of the contracts. It is more profitable to sell than exercise because intrinsic value+ extrinsic value > intrinsic alone. So, I’d check bid and ask and try to get filled at something reasonable and current (again, M2 doesn’t update this  consistently.) Cashless exercise if they allow it is the next best thing, which they may or may not do.",
+                          "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhzjhd5/",
+                          "created": 1723590433,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lhvpukz",
+                      "score": 0,
+                      "body": "You also need to subtract the cost you paid to buy the option. So it’s the price of shares sold (after exercise) - the premium to buy the options in the first place - the cost to exercise the options - any broker fees or commissions (if any but sometimes there is if a broker helps you do it over the phone) = your profit.\n\nThen you compare against if you sell the option outright",
+                      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvpukz/",
+                      "created": 1723538067,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lhwf458",
+                      "score": -1,
+                      "body": "Just sell those bitches. Or keep the stocks. Either way sell.",
+                      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhwf458/",
+                      "created": 1723552295,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lhvior3",
+              "score": 1,
+              "body": "Contact your broker and tell them you want to exercise prior to the expiry date ",
+              "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvior3/",
+              "created": 1723533255,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lhvgt6x",
+      "score": 160,
+      "body": "you're not supposed to win, that's how it works",
+      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvgt6x/",
+      "created": 1723532023,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lhvgyai",
+          "score": 10,
+          "body": "No but like. what happens if I truly don't sell anything, and it expires as per right now with this current price? Will I end up getting the 44 x 100 shares at the price of the strike price in my portfolio? Or will it become $0? Or will it end up in cash of $17,600, or $23,000? Or what exactly happens if it expires like as per right now?",
+          "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvgyai/",
+          "created": 1723532116,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lhvhfaq",
+              "score": 34,
+              "body": "you either sell the contracts, it expires worthless, or you exercise and get the shares.\n\nIs the volume actually 0 or is there just a huge spread and you’re unwilling to sell at the bid price?\n\nIf it’s 0 volume you’re forked, if it’s just a big spread then you gotta sell at the price people are bidding.",
+              "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvhfaq/",
+              "created": 1723532423,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lhvhlwa",
+                  "score": 1,
+                  "body": "Open interest is 1.17k which means there are 1.17k contracts floating around right?\n\n  \nSo you're saying that if it expires, even if it is way way ITM, I will end up losing the entire profit plus everything and it goes from $23k to zero??\n\nVolume is 0 on many days, then can be 3-10 on some other days. But the price is usually around 6-7 the past few weeks. Bid price is now 5.6, but there were transactions at 6.0 for the last one a few days ago.\n\nhttps://preview.redd.it/cgofq1b4rdid1.jpeg?width=947&format=pjpg&auto=webp&s=f34fce997fe7104e2ed8257810219e8c097d2c9a",
+                  "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvhlwa/",
+                  "created": 1723532542,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lhvi8gx",
+                      "score": 20,
+                      "body": "I’m confused at what I’m looking at.\n\nIf you place the sell order, do you see the bid-ask price? It should show the numbers with it.\n\nIf it’s not 0 then you’re good. Sell it at whatever is the bid price.\n\nIf you do actually want to exercise them and have the money to do so, then do it.\n\nBut whatever you do, do NOT let it expire worthless without selling or exercising.\n\nExercise or sell. Those are your 2 options.",
+                      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvi8gx/",
+                      "created": 1723532959,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lhvjheq",
+                          "score": -31,
+                          "body": "https://preview.redd.it/lxywp49dudid1.jpeg?width=947&format=pjpg&auto=webp&s=326782bd82cf243d8887f987489c9a341a11144c\n\nYes the bid-ask price I think is 5.4-5.6. I just wanted to transact at >6.0 because the last order was at that price and the stock price has gone up since then, so I should try and get it for at least 6.... but I guess what I'm hearing is, if I try for 6, and get no transactions for the next week, I should consider lowering the price closer and closer to the bid price? I actually don't know how exercising options work, I thought that was for if I sold (not bought) options, since I am supposed to be in 23k profit and I paid $5k for the options, why do I have to pay even more money to get the shares???... let me do some research sigh.",
+                          "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvjheq/",
+                          "created": 1723533779,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lhvmiis",
+                              "score": 41,
+                              "body": "You paid 5k for the RIGHT to buy 4400 shares at $4 a share. You still have to pay 4400*4=$17600 to actually buy the shares. That is what it means to exercise your calls. If you can't afford to pay 17600 to buy the shares, you have to sell the calls at whatever price you can before expiration, or you will lose all the money you paid for them.",
+                              "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvmiis/",
+                              "created": 1723535811,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lhwjvc5",
+                                  "score": 1,
+                                  "body": "Soon there will be bids like 1 dollars on these even though they worth more. Happened to me before on MSOS",
+                                  "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhwjvc5/",
+                                  "created": 1723554228,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "lhvjw6o",
+                              "score": 6,
+                              "body": "start selling off some at the bid price 5.4, if you really think it’ll go to 6 then set a sell order for the rest at 6.\n\nKeep an eye on it and lower it to the bid price to finish selling the rest before they expire worthless.",
+                              "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvjw6o/",
+                              "created": 1723534056,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lhwfcid",
+                                  "score": 1,
+                                  "body": "(Ex. Broker)",
+                                  "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhwfcid/",
+                                  "created": 1723552395,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "lhzkbpi",
+                              "score": 1,
+                              "body": "Wrong screen. Look at the chain - that’s where you will see the spread.",
+                              "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhzkbpi/",
+                              "created": 1723590750,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lhvhtav",
+                      "score": 8,
+                      "body": "Put a limit order in at 6-7 if that’s what you want and let it sit",
+                      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvhtav/",
+                      "created": 1723532676,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lhvstqm",
+                      "score": 8,
+                      "body": "If it expires ITM, it will automatically be assigned. You will end up in a long position at the strike price. This occurs even if you don’t manually request to take assignment. \n\nThe more interesting question is what happens if you don’t have enough margin to take assignment. You might be required to liquidate the position on the following Monday, but that sounds like what you want to do anyway. \n\nYou can call your broker to have them walk you through the mechanics of this.",
+                      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvstqm/",
+                      "created": 1723540091,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lhw5gj3",
+                          "score": 5,
+                          "body": "If you don't have the funds towards the end of the day on Friday won't some brokers automatically sell the options instead?",
+                          "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhw5gj3/",
+                          "created": 1723547822,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lhwrzgh",
+                              "score": 3,
+                              "body": "Yes - Robinhood notoriously does that.  And with the thin volume op is seeing they could get megafucked by a broker like RH hitting the bid down to zero.",
+                              "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhwrzgh/",
+                              "created": 1723557233,
+                              "depth": 6,
+                              "replies": []
+                            },
+                            {
+                              "id": "lhzko1s",
+                              "score": 1,
+                              "body": "Yes. And Moo Moo will do so at market price. OP needs to call if unwilling to sell at or near current bid.",
+                              "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhzko1s/",
+                              "created": 1723590880,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lhvujf1",
+                          "score": -1,
+                          "body": "Thanks for explaining Olive. \n\nI am getting mixed answers: some people say it will expire worthless at $0 even if deep deep ITM, some people are saying it will be automatically assigned shares at the strike price of $4 and I will have to use up my funds to buy that (or on margin? Is that possible? I don't have cash atm), some are saying the option will be sold at a very bad market price a few hours before it closes? Which one is it? \n\nAnd, if it really is that I want to exercise before expiry, am I allowed to borrow margin for that purpose, or someone mentioned it can be a 'cashless exercise' where the broker will not even need my money if it's the same day? \n\nI think I should have enough allowable margin to buy it; although I would want to sell it relatively soon after anyway I think, or maybe on the same day if they allow?",
+                          "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvujf1/",
+                          "created": 1723541249,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lhwbh3q",
+                              "score": 15,
+                              "body": "Just sell your options at the bid already.  And stop trying to get money that isn't there.",
+                              "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhwbh3q/",
+                              "created": 1723550690,
+                              "depth": 6,
+                              "replies": []
+                            },
+                            {
+                              "id": "lhwf1za",
+                              "score": 10,
+                              "body": "I'm going to try to explain the jargon and answer this as clearly and thoroughly as I can.\n\nThe answer to your first question is entirely dependent on which broker you are using and how your account is set up.\n\nThe worst thing you can do here is nothing.\n\nYou are right that open interest means that there are 1700ish open orders for that call contract. However, the \"bid\" or the highest price anyone is willing to pay looks like it's about 20 cents below the \"ask\" or the lowest price anyone is willing to sell. \n\nIf you want to close your position immediately and the bid price is acceptable to you, you can put your order through to sell all of the contracts at whatever the current bid price is and they will sell/close almost immediately at that price. You will not be maximizing your profits, but you'll immediately end your position in this trade and make a nice profit.  Since you are very new to this, this is the choice I would recommend.  You are potentially leaving some additional profit on the table, but if you're happy with the profit so far, this strategy makes the most sense and immediately ends your risk of the underlying stock moving against you and the option price dropping.\n\nYour other choice is to exercise the contract and buy the shares.  Even for calls that are deep \"in the money,\" this is pretty much never a good idea. You will need to have the cash in your account, or if you have a margin account, you will need to borrow the money from your broker (and pay interest) to buy the shares.  You will be massively increasing your investment and your exposure to price movements. If you paid $500 for these contracts, the most you could lose is $500 if they expire worthless. If you buy the shares and the company goes bankrupt, you will have lost the total value of the shares you bought. \n\nYour last choice is to do nothing and see what your brokerage does. If you're even considering this, I would recommend closing your account after this trade and putting your money into a managed fund like a 401k or IRA. When you opened a brokerage account you decided to make decisions about your money. These are not managed accounts, we are the managers, we have to make these decisions. I don't know how anyone on here would recommend not putting an order in to your broker to do *something.*  If you don't tell your broker what to do, they would be completely justified in letting your calls expire worthless and you will lose your entire investment.  They may have a policy in place that they will try to close them for you at the best price they can get, but I wouldn't rely on that.\n\nYou should look into something called theta decay when you're done with this, basically the options market understands that huge fluctuations in stock prices are rare. So as a contract nears its expiration date, its value decreases even if the underlying stock's price doesn't change. When you're buying puts and calls, your profit potential is based on the uncertainty of the price of the stock, and as you get closer to the expiration date, the stock price becomes more predictable and the value of the options decreases.  You should consider this when deciding when it is best to close your positions.\n\noh, and can you do a cashless exercise? maybe, that's up to you and your broker. Again, that would not be my choice.\n\nAnd can you exercise your options (buy the shares) and sell them the same day - usually yes as long as you have not been flagged as a pattern day trader.  I think if you make more than 4 day trades (buying and selling an asset within one trading day) in a 5 day period and your account has less than $25k in it, then your broker will flag you as a pattern day trader and you'll need to wait a day to sell.",
+                              "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhwf1za/",
+                              "created": 1723552269,
+                              "depth": 6,
+                              "replies": []
+                            },
+                            {
+                              "id": "lhzku22",
+                              "score": 1,
+                              "body": "No. You will be assigned or they will sell it at market price. Set a limit sell at or near bid or call to exercise early so you can take advantage of further upticks.",
+                              "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhzku22/",
+                              "created": 1723590944,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lhzk58j",
+                      "score": 1,
+                      "body": "This doesn’t show the current bid and ask. Go to the contract and look at that. I am guessing the spread is wide. (This is just the most recent transaction.)",
+                      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhzk58j/",
+                      "created": 1723590682,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lhzjv4t",
+              "score": 2,
+              "body": "It won’t cash settle. If you just leave it as is and have the money or margin in your account, they will be exercised. Otherwise, forfeit. That’s why you should play with sell orders after checking bid/ask or call to exercise.",
+              "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhzjv4t/",
+              "created": 1723590575,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lhwdrj8",
+          "score": 2,
+          "body": "of course it’s because of them and not because of low volume. Makes sense.",
+          "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhwdrj8/",
+          "created": 1723551710,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lhvjvcw",
+      "score": 40,
+      "body": "[deleted]",
+      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvjvcw/",
+      "created": 1723534041,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lhvm02k",
+          "score": 0,
+          "body": "Thank you for explaining, I'm quite new to this.\n\nSo if I exercise the options, I have to buy the shares at $4 x 44 options x 100 ($17,600?), and immediately then sell them at the same day to get the profit (current share price 9.47... 4400 x 9.74 = $42,856?\n\nWhich means I will get profit of  42,856 -17,600 = $25,256? Am I calculating it correctly? That is even more profit than if I managed to sell everything at the current option price of 6.0 (profit $23,628), is that correct?\n\nOr do you mean I need to minus off the entire cost of what I bought the options (when I exercise the options)? ? I bought 44 contracts for price of $0.63, so does that mean I have to minus off $0.63 x 44 x 100 = $2772 from all my calculations on exercising the options?",
+          "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvm02k/",
+          "created": 1723535470,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lhvmsso",
+              "score": 6,
+              "body": "[deleted]",
+              "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvmsso/",
+              "created": 1723536002,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lhvnm5m",
+                  "score": 1,
+                  "body": "Thanks Mr Kush Bush :) \n\n  \nI see.. but, when I exercise the option, I do have to essentially \"lose\" the price I paid for the options, correct, it's not like it will be used as a value of me buying of the 4400 shares? \n\nWhich is $0.63 x 44 x 100 = $2772? Which means, $25,256 (difference in stock price) - $2772 = \n\n$22 484 is the profit I get, right? \n\nSo in the end, the profit I get selling the options at 6.0 is still slightly higher profit ($23,628)?",
+                  "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvnm5m/",
+                  "created": 1723536553,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lhvomej",
+                      "score": 8,
+                      "body": "[deleted]",
+                      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvomej/",
+                      "created": 1723537234,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lhvpsgh",
+                          "score": 11,
+                          "body": "In a sea of garbage on here, this was actually a super useful explanation, thx man",
+                          "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvpsgh/",
+                          "created": 1723538026,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lhvhlh2",
+      "score": 15,
+      "body": "I ran into the same issue in 2021. Call your broker and exercise those options. That's your best bet to be able to sell the position.",
+      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvhlh2/",
+      "created": 1723532534,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lhvi21o",
+          "score": 1,
+          "body": "My broker can just help me 'sell them' just by calling them up? \n\nDo you know what will happen if I truly don't sell anything, and it expires as per right now with this current price? Will I end up getting the 44 x 100 shares at the price of the strike price in my portfolio? Or will it become $0? Or will it end up in cash of $17,600, or $23,000?\n\nLike, what exactly happens if it expires like as per right now?",
+          "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvi21o/",
+          "created": 1723532838,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lhvij8h",
+              "score": 9,
+              "body": "They can't help you sell them.  \nThe only thing they can do for you is exercise them.\n\nWhat many brokers will tell you is that they will automatically exercise the contracts by expiration if they are in the money.  \nThis is a lie, they won't do this.  \nWhat they actually do is sell the contracts at market price a couple of hours before they expire. What this actually means is you will lose a lot of money, because market orders for options are absolutely atrocious. Especially when volume is non existent like this.   \nMarket orders can and often will be below fair value when volume is this low.\n\nYour best bet is to try to sell these yourself.   \nTry to split the bid, consistently lower your price every 15 minutes or so until your order fills.  If this doesn't happen at a fair price then just exercise the options and sell the shares.",
+              "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvij8h/",
+              "created": 1723533152,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lhvmje9",
+                  "score": 1,
+                  "body": "Depends on the broker.  Also you can call and let them know your move so they don’t fuck with it.  I’ve done it before",
+                  "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvmje9/",
+                  "created": 1723535827,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lhvv204",
+                      "score": 1,
+                      "body": "That is 100% necessary, if you want to exercise you need to call them. Otherwise it's easier and cheaper for them to just sell the contracts.",
+                      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvv204/",
+                      "created": 1723541595,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lhvj24h",
+              "score": -4,
+              "body": "If the contract expires before you sell the contracts or exercise your right to purchase the shares at strike price, you lose your investment meaning your contract will be worth $00.00.",
+              "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvj24h/",
+              "created": 1723533497,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lhvm8gs",
+                  "score": -9,
+                  "body": "Thank you for explaining, I'm quite new to this.\n\nSo if I exercise the options (before expiry), I have to buy the shares at $4 x 44 options x 100 ($17,600?), and immediately then sell them at the same day to get the profit (current share price 9.47... 4400 x 9.74 = $42,856?\n\nWhich means I will get profit of 42,856 -17,600 = $25,256? Am I calculating it correctly? That is even more profit than if I managed to sell everything at the current option price of 6.0 (profit $23,628), is that correct?\n\nOr do you mean I need to minus off the entire cost of what I bought the options (when I exercise the options)? ? I bought 44 contracts for price of $0.63, so does that mean I have to minus off $0.63 x 44 x 100 = $2772 from all my calculations on exercising the options?",
+                  "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvm8gs/",
+                  "created": 1723535625,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lhvug6e",
+      "score": 11,
+      "body": "People bet without understanding how option works.",
+      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvug6e/",
+      "created": 1723541188,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lhvztf3",
+          "score": 3,
+          "body": "![img](emote|t5_2th52|29637)",
+          "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvztf3/",
+          "created": 1723544637,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lhvj7jp",
+      "score": 7,
+      "body": "Low liquid options, oh no.\n\nTry selling at the bid price. Or better yet. Lower than the bid price. Either way, if it goes through. You'll make good money,  given you're up 853%.\n\nCongrats ![img](emote|t5_2th52|27189)",
+      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvj7jp/",
+      "created": 1723533596,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhvtacd",
+      "score": 7,
+      "body": "bro insider traded and doesnt know how options work ![img](emote|t5_2th52|4271)",
+      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvtacd/",
+      "created": 1723540404,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lhvzrl2",
+          "score": 2,
+          "body": "This is how you learn! Lol",
+          "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvzrl2/",
+          "created": 1723544604,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lhvtka8",
+          "score": -2,
+          "body": "Lol i am the furthest away from an insider ever, i just did my research and analysis, took a leap of faith, and bought it half a year ago when everybody was afraid as it just came out of bankruptcy plus all the fud with btc halving depressing prices.. yet I saw there were insiders buying and also they were performing very well compared to other miners despite being most undervalued. \n\nAnd i only bought and sold calls before, much smaller ones as i had less confidence than i had for this trade, for a few months so yes i am still a noob at the possibility of exercising them.",
+          "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvtka8/",
+          "created": 1723540590,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "li13b09",
+              "score": 1,
+              "body": "Did you take the day off when you were supposed to research how options work? ![img](emote|t5_2th52|4271)",
+              "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/li13b09/",
+              "created": 1723613519,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lhvvxar",
+      "score": 4,
+      "body": "This comment section is insane.\n\nOptions will get harder to sell the deeper ITM they get, for obvious reasons. You can either eat some profit to sell at the bid price IF you think that's the best deal you get.\n\nOr\n\nYou can exercise early (may require a call to your financial provider, domt know what platform you are on, each is different) which would charge you 44x100@at your strike price. If you don't have the cash, your institution would immediately liquidate leaving you with the proceeds.\n\nOr\n\nYou can wait till expiry, if you are still ITM you will automatically exercise,  paying 44x100xstrike and liquidating at earliest available time, leaving you once again with the difference as profit.\n\n\nOptions are dumb in that the better you do, the less of the unrealized gains you are able to actually realize. Nobody wants to pay that premium for Options so deep itm that they don't feel has much more to go. If they are confident in the stock, they will just buy cheaper less itm or even otm options. Frankly, when my Options get too deep itm, I exercise then rebuy Options immediately as you are possibly going to lose value over time as they depreciate.",
+      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvvxar/",
+      "created": 1723542176,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lhw00z4",
+          "score": 1,
+          "body": "Would you roll the options or simply get out and wait to get back in?",
+          "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhw00z4/",
+          "created": 1723544765,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lhwvf6h",
+              "score": 0,
+              "body": "Follow your heart, I would exercise and hold with a tight stop loss. If stock goes up, good, if stock goes down, profit is locked in. Reevaluate your sentiment after you get closed out",
+              "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhwvf6h/",
+              "created": 1723558415,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lhvo38l",
+      "score": 2,
+      "body": "I mean you're up 800%+ you can afford to take some losses on t costs. Hell you're giving half to Uncle Sam anyways. You can offload them wherever in the chain there's liquidity or exercise and sell",
+      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvo38l/",
+      "created": 1723536874,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhvs943",
+      "score": 3,
+      "body": "CORZ is at $9.47 right now. That means each of your $4 strike calls has $5.47 of intrinsic value. Anything above that is the premium of the call.\n\nIf your call expires in-the-money, your broker should exercise it for you. But beware! You will need enough cash to actually buy the shares! Same goes for when you exercise the call early.\n\nIf I were you, I would set a limit sell order and slowly adjust it lower until I hit $5.47. At some point a bot should jump at it, considering that's where premium is 0.\n\nIf you don't get a fill above $5.47, it would be better to exercise early. But exercising always carries an overnight risk. Because it is settled after hours and you can only sell the shares in the morning. Just keep that in mind.",
+      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvs943/",
+      "created": 1723539697,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhw43vr",
+      "score": 4,
+      "body": "Son... did you know what you where buying before you bought it?",
+      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhw43vr/",
+      "created": 1723547104,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lhzdfij",
+          "score": 2,
+          "body": "Well yeah. Probably heard from a cousin who works there: go buy options.",
+          "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhzdfij/",
+          "created": 1723588204,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lhvh9lu",
+      "score": 5,
+      "body": "Just short the stock to lock in gains",
+      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvh9lu/",
+      "created": 1723532318,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lhvmns7",
+          "score": 1,
+          "body": "The problem is, there are other things that go into options pricing. This is one crude way to do it, and it might just work.",
+          "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvmns7/",
+          "created": 1723535909,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lhvhghx",
+          "score": -4,
+          "body": "How does shorting the stock have anything to do with locking gains on these options?",
+          "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvhghx/",
+          "created": 1723532445,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lhvi2n6",
+              "score": 5,
+              "body": "You can sell the stock  in the market by borrowing and then use the money from this to exercise calls. And return the shares you borrowed",
+              "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvi2n6/",
+              "created": 1723532849,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lhvi49m",
+              "score": 2,
+              "body": "Only way to find out is to short it",
+              "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvi49m/",
+              "created": 1723532880,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lhvi4a3",
+                  "score": 10,
+                  "body": "how about u eat my ASS\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",
+                  "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvi4a3/",
+                  "created": 1723532880,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lhvmbik",
+              "score": 1,
+              "body": "If you don’t know maybe don’t play with options 🤷‍♂️",
+              "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvmbik/",
+              "created": 1723535681,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lhvtptk",
+      "score": 2,
+      "body": "A more important question is why are you trading options when you don’t even know how they work. ![img](emote|t5_2th52|4640)",
+      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvtptk/",
+      "created": 1723540696,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lhvu184",
+          "score": 1,
+          "body": "I do on a basic level though, I just didn't really know about the exercising process or how it works.. I would only just buy and sell them though (most of my options expire worthless anyway), and I didn't realise it would be difficult to sell them even at an open interest of 1.2k. \n\nIt's not like I can't sell them now at a much lower price, I am just trying to see what I can to minimise any potential missing out of the gains.",
+          "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvu184/",
+          "created": 1723540911,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lhvvw4x",
+              "score": 0,
+              "body": "every trade is a lesson learned.  and the devil is in the details.  \n\nshare the wealth w/ those who have been providing beneficial advices.   👍\n\nit seems your best option is to exercise the call option, either cash, on margin, or cashless.  call your broker for assistance. they are in better position to answer in details.",
+              "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvvw4x/",
+              "created": 1723542155,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lhvwn74",
+                  "score": 0,
+                  "body": "Lol. I am really struggling financially to even take care of myself, let alone give it away. Are you trying to swindle? :P",
+                  "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvwn74/",
+                  "created": 1723542645,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lhvyiqh",
+                      "score": 3,
+                      "body": "not a swindler. \n\ntime is money & i'm seeing a lot of good advices being repeated.\n\nbut only your broker knows the specific requirements of your account.",
+                      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvyiqh/",
+                      "created": 1723543833,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lhwhq9n",
+      "score": 2,
+      "body": "Confirmed eurotard “20/9/24”",
+      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhwhq9n/",
+      "created": 1723553381,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhziekk",
+      "score": 2,
+      "body": "Hey, my starter account is on Moo Moo and the fills are consistently terrible. If you call, they may let you excercise (possibly cashless, possibly manual.) Or you can set your sell price at the bid. I’ve done all three, and will never buy contracts there again. I also was able to successfully roll some ASTS 3.5c up and took profit. Whatever you do, don’t hit market sell (did that once, too, actually lost money vs gained - was an idiot.) But call and speak to them - they will help.",
+      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhziekk/",
+      "created": 1723590028,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhvi6nb",
+      "score": 3,
+      "body": "Just exercise them and sell the shares.",
+      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvi6nb/",
+      "created": 1723532926,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhvmp5m",
+      "score": 1,
+      "body": "There's a question that you keep asking on various posts and to answer your question. No, you will not get the cash. These are not cash settled options. Cash settled options are usually only available to index options and not individual stocks.\n\nIf the contract is ITM at expiry, the broker will exercise the contract automatically and assign you 4400 shares. Your account will at thr tome show that you owe the broker the value of 4400× (your strike price of 4) about 17,600. \n\nIf you don't have the money in your account. Then, the position will eventually be force closed, and the 4400 shares will be sold directly to the market at whatever the price is at the time of forced sell.",
+      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvmp5m/",
+      "created": 1723535935,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhvv3ka",
+      "score": 1,
+      "body": "You will get around 23k cash , probably your broker automatically will sell it before market close at the higher bidder . Just saying if the bid is $5.40 you will get $540 dollars 44 times = around $23K . If you sell it now your self you got to look how much is the bid cuz that what you actually gonna get for each call . Hopes this help OP ![img](emote|t5_2th52|27189)",
+      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvv3ka/",
+      "created": 1723541624,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhvvjw2",
+      "score": 2,
+      "body": "Exercise the options. Short the underlying stock to raise funds for the exercise and then cover your short with the call options.\n\nAlso, get off this sub and get on the phone with your broker they will help you more than any of us can.",
+      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvvjw2/",
+      "created": 1723541929,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhvzvur",
+      "score": 1,
+      "body": "How wide is the spread? Maybe set a limit sell order a couple cents below the bid?",
+      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvzvur/",
+      "created": 1723544678,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhw4cap",
+      "score": 2,
+      "body": "You're getting a bunch of shit answers here.  I would stick a GTC order in at the price you want.  I would go slightly below the midpoint of the bid/ask spread.  Be patient.  If you're still holding this when you get very close to expiration, here's what you do to \"sell\" it.  You short the number of shares covered by the option and then you immediately exercise the option.\n\nYou don't need to have cash on hand to cover the exercise as you just added that cash by shorting the stock.\n\nThe exercise closes your short position.",
+      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhw4cap/",
+      "created": 1723547230,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhw6ef0",
+      "score": 1,
+      "body": "That's because you are not up 853%. Keep dropping the ask price until they sell. You are probably up 750%-800%\n\nIf there is not enough demand for what you are selling, the price is lower than you think.",
+      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhw6ef0/",
+      "created": 1723548296,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhw9kad",
+      "score": 1,
+      "body": "Just hit the bid....sure it's not ideal but you're trying to get rid of these",
+      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhw9kad/",
+      "created": 1723549813,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhwfjp0",
+      "score": 2,
+      "body": "First one's free",
+      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhwfjp0/",
+      "created": 1723552479,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhwg0hf",
+      "score": 2,
+      "body": "Lol now you can’t even sell it at $5 per option ![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4271)",
+      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhwg0hf/",
+      "created": 1723552674,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhwj1oa",
+      "score": 1,
+      "body": "The thread is the definition of \"Your first one is free\" - homeboy doesnt even know how to cash in his profits but is sitting on an 8 bagger",
+      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhwj1oa/",
+      "created": 1723553905,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lhwogs9",
+          "score": 1,
+          "body": "I love how everyone thinks i am a guy 😂",
+          "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhwogs9/",
+          "created": 1723555968,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lhwjzdi",
+      "score": 1,
+      "body": "Sry for your pre market dip",
+      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhwjzdi/",
+      "created": 1723554273,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lhwoupi",
+          "score": 1,
+          "body": "Oh man yes that’s painful 😥",
+          "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhwoupi/",
+          "created": 1723556113,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lhwkp0t",
+      "score": 1,
+      "body": "Never buy options with crap spreads and volume",
+      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhwkp0t/",
+      "created": 1723554550,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhwm6qy",
+      "score": 1,
+      "body": "Man you desperately need to do about at least 24 hours more of straight research and educational YouTube videos about how options work. You're coming to the wrong place for answers. These people in here are idiots. \n\nYou're sitting here asking if you gotta have a buyer to exercise your 44 call options lmao. Whoever sold you those call options, that's who's shares you'd be taking. Options are a zero sum game period, if you gain 100 shares someone else lost them. Secondly if your calls are in the money they will not expire worthless, period. The broker will either exercise for you (and immediately make you sell the shares if you do not have the capital) or in some cases they will sell the options for you. If this happens and volume is that low it's very likely you'll get a dog shit full price. I'd try to sell them before that, you need to lower the price and see if any will sell. Bid/ask spreads are usually ridiculously wide on low volume options. Even though their may be good opportunities on low liquidity options sometimes, this is exactly why nobody trades them. You have to have a buyer.",
+      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhwm6qy/",
+      "created": 1723555120,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhwm766",
+      "score": 1,
+      "body": "Exercise the contracts. Then sell the shares",
+      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhwm766/",
+      "created": 1723555125,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhwr2gj",
+      "score": 1,
+      "body": "When this happened to me, I exercised one call at a time, bought the shares on margin, and then immediately sold. Rinse and repeat till you're out. If you're not in the states then you might be stuck holding options till expiration cause other countries don't let you exercise early. Call your broker as others have mentioned.",
+      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhwr2gj/",
+      "created": 1723556908,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhx2f72",
+      "score": 1,
+      "body": "Welp",
+      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhx2f72/",
+      "created": 1723560719,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhx6kqd",
+      "score": 1,
+      "body": "Contact your broker, you can tell them to exercise and sell the shares in one transaction. You’ll buy shares and sell them at the current market price. You lose options premium (whatever they’re worth above [current share price - strike]), alternatively you can lower your asking price closer to the intrinsic value and should get more buyers willing to step in. Hypothetically you could lower your asking price slightly below intrinsic value and you should get immediate buyers who would then do the exercise and sell I mentioned above.",
+      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhx6kqd/",
+      "created": 1723562034,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhxsf09",
+      "score": 1,
+      "body": "Exercise your options and sell the shares?\n\nCosta a few bucks more, but if you are losing steam fast, might be worth it to just bite the bullet and do it that way to exit your positions.",
+      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhxsf09/",
+      "created": 1723568901,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhvpx4v",
+      "score": 0,
+      "body": "All those telling you that you can exercise fail to mention that some brokers require that you have enough funds to actually exercise, else they will refuse to allow you to exercise. \n\nBy default, the Options Clearing Corporation (OCC), the biggest clearing house for equity options in the US, will automatically exercise it for you as that's their policy for any ITM (in-the-money) options on expiration date, unless you manually request that the option should not be exercised. But if your broker (not all of them do this) sees that you don't have enough funds to receive the shares from the settlement, they may manually place in the request to OCC to not automatically exercise. Find out your broker's policy. Call them and ask to speak with someone knowledgeable of the broker's policies (not some customer service intern). Good luck.",
+      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvpx4v/",
+      "created": 1723538114,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lhvrgrh",
+          "score": 1,
+          "body": "When you say that I have enough funds.. can I borrow on margin (if I am eligible to based on my current portfolio) in order to exercise the calls, or they must be using cash only?\n\nSome mentioned that the broker can even do it 'for me' (i.e. buy and sell at exactly the same time), meaning I don't need any funds to do so... is that a possibility for some brokers? (obviously I will have to call and confirm with them).",
+          "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvrgrh/",
+          "created": 1723539163,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lhvsoyb",
+              "score": 1,
+              "body": ">When you say that I have enough funds.. can I borrow on margin (if I am eligible to based on my current portfolio) in order to exercise the calls, or they must be using cash only?\n\nYes if you have enough margin to cover the purchase. But some brokers can have all sort of additional stringent rules around margin requirements. Regulators only set the minimum rules and brokers can go as stringent as they want and can also change them on the fly.\n\n>Some mentioned that the broker can even do it 'for me' (i.e. buy and sell at exactly the same time), meaning I don't need any funds to do so... is that a possibility for some brokers? (obviously I will have to call and confirm with them).\n\nYes, that's a possibility with some brokers. In reality, they still do take on a risk doing that, because there are several hours between when settlement occurs and when market resumes trading. For options that expire on Fridays, the settlement actually happens on Saturday (many hours after the market has closed) and trading doesn't start for more than 24 hours later. The stock can open with a gap up or down when trading resumes. That's the risk the broker is taking. The risk being that your account gets wiped out and the broker is left carrying the rest of the loss. Brokers with deep pockets can take those risks to offer smoother services to their clients.",
+              "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvsoyb/",
+              "created": 1723540000,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lhvrjot",
+      "score": 0,
+      "body": "This is why you don't trade low liquidity contracts. I was up 7500% on Manchester United options and there were 0 buyers for the contract. Luckily I didn't invest much.",
+      "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvrjot/",
+      "created": 1723539217,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lhvvav9",
+          "score": 3,
+          "body": "You can exercise at any time.",
+          "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhvvav9/",
+          "created": 1723541760,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lhw05ha",
+              "score": 0,
+              "body": "You need the money in the bank to buy the shares though. The stock was just too risky to buy.",
+              "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhw05ha/",
+              "created": 1723544841,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lhy8xhy",
+                  "score": 1,
+                  "body": "No, any broker will exercise on margin and liquidate the shares for you.",
+                  "permalink": "/r/wallstreetbets/comments/1er16e7/up_853_cant_sell_due_to_low_volume/lhy8xhy/",
+                  "created": 1723574073,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

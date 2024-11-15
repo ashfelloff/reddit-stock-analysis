@@ -1,0 +1,438 @@
+{
+  "title": "The other day. &TSLA",
+  "score": 112,
+  "selftext": "Unexpected move. Wish I held for 40sumthin at the top but I’m a bitch. ",
+  "link_flair_text": "Gain",
+  "id": "1cke07k",
+  "num_comments": 48,
+  "created_utc": 1714866624,
+  "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/",
+  "url_overridden_by_dest": "https://i.redd.it/vjbiinzwyhyc1.jpeg",
+  "comments": [
+    {
+      "id": "l2m9sbl",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 4 | **First Seen In WSB** | 1 month ago\n**Total Comments** | 48 | **Previous Best DD** | \n**Account Age** | 3 months | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2m9sbl/",
+      "created": 1714866630,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2mc9h3",
+      "score": 16,
+      "body": "This is a dumb question but we are at Wendy’s, how come on Robinhood it says your break even would be for TSLA to hit a share price of 200.11 how were you up 10,000 with the price at 186?",
+      "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2mc9h3/",
+      "created": 1714867700,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l2md6z9",
+          "score": 16,
+          "body": "Bought em when the stock was at 165 on a Friday close. \n\nThe next Monday they were up huge.",
+          "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2md6z9/",
+          "created": 1714868102,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l2mdqvy",
+              "score": 9,
+              "body": "Ok so that break even price is basically irrelevant ? If the stock moves bullish after you’ve bought a call you make money? That break even price always confuses me ![img](emote|t5_2th52|4271)",
+              "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2mdqvy/",
+              "created": 1714868340,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l2mh0sr",
+                  "score": 22,
+                  "body": "No, the break price is not irrelevant is the most important thing besides IV. His contracts moved up a tremendous amount in a short span of time before his contract expired which made his $11 contracts with 100+ because they moved out towards the strike price very quickly so he took profit",
+                  "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2mh0sr/",
+                  "created": 1714869769,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l2mim8u",
+                      "score": 4,
+                      "body": "Yeah I didn’t let em mature at all it was weekend swing. \nThe run up gave em enough juice.",
+                      "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2mim8u/",
+                      "created": 1714870465,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l2mit5r",
+                          "score": 2,
+                          "body": "Yeah, I was in that day. I had your contracts on my watchlist, but I didn’t go in because I didn’t have enough to play that play at the time but I might re-enter again. The consolidation looks bullish on Tesla right now, so I might load back up on some calls, depending on what it does at the start of the week.",
+                          "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2mit5r/",
+                          "created": 1714870551,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "l2n0598",
+                  "score": 12,
+                  "body": "That is the effect of an increasing IV. If the IV has not increased it will lose value at the rate of Theta which gets more negative as the expiration date approaches. By the expiration theta becomes 0, IV becomes mostly irrelevant (unless there is a huge swing right before expiration), and the value of the contract is almost exactly the price of the asset minus the strike for the contract.   \n  \nYour break even takes into account the cost of acquiring the contract in the first place so your take home value at expiration is price of the asset minus the strike + your buy in for the contract.  \n  \nIV is a trailing indicator that in a way gives leading yields, if it moves a lot either up or down the price will increase or decrease in proportion to the movement giving a profit opportunity that is OFTEN more than the actual underlying value of the contract assuming you had a good buy in and sold during the volatility.   \n  \nWhen IV is high \"IV Crush\" is the IV dropping back to a more normal baseline and your contract becoming less inflated. If you purchase at the top of a volatile spike your call gets fucked with no relation to the value of the strike. ie you buy a $12 strike at 300% IV at a 13.20 underlying price where the contract is valued at like 1.55 or so, and it then goes sideways for 2 days... even if the value is still 12.50 (.50 over strike) you may lose an additional 20-30% of the value of the contract because the IV dropped. So that -0.70 drop in reality could be -1.00 per contract. Even though the call is still in the money the scale of the value has lowered giving you a larger loss than you may have been expecting. \n\nAll of the greeks have impact on options prices",
+                  "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2n0598/",
+                  "created": 1714878420,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l2o1f24",
+                  "score": 1,
+                  "body": "Break even price is if you let it run to it ends and if it will automatically be assigned or not",
+                  "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2o1f24/",
+                  "created": 1714902569,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l2ohpxm",
+                  "score": 1,
+                  "body": "Break even price is simply strike price + premium paid for option. If you were to exercise the contract, you’d purchase it for 200 a share, plus the .11$ you paid for the right to exercise.",
+                  "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2ohpxm/",
+                  "created": 1714912866,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l2uxq62",
+                  "score": 1,
+                  "body": "Breakeven doesn’t really matter for swings on short term price movements. You don’t actually need to hit that target to make money. You do by expiration date though",
+                  "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2uxq62/",
+                  "created": 1715017169,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l2mtt5o",
+          "score": 6,
+          "body": "To simplify, break even price is relevant if contracts expire",
+          "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2mtt5o/",
+          "created": 1714875409,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l2qby3g",
+          "score": 1,
+          "body": "No question is dumb keep do diving ask ur questions. This is the way.",
+          "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2qby3g/",
+          "created": 1714938551,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l2qjgbs",
+              "score": 1,
+              "body": "I’ve been hesitant to try options trading because I still don’t fully understand the way it works. I understand calls are bullish and puts are bearish, but I got confused when the share price was below the break even but obviously you were up 10k. Meaning that if the share moves fast enough in your strikes direction it will make your option more valuable, does that mean that someone else would then buy your option and relieve you from it as you take profit? What does exercising the option mean?",
+              "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2qjgbs/",
+              "created": 1714941370,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l2rgst5",
+                  "score": 3,
+                  "body": "As the price of the underlying stock moves in the direction of the strike in your contract, it becomes more valuable (excluding other factors like time decay or IV). \n\nYou can sell the contract back at any point for whatever the current/new value is. \n\nYou can also choose to exercise the contract which means you’re exercising your right to buy 100 shares (in a call option) at the strike price you selected. \n\nMost people on this sub don’t exercise, they just sell the contract back when it’s in the green. Well actually, most people here probably hold until expiration when it’s worthless. That’s probably a more accurate statement.\n\nEdit: the breakeven price is the price the underlying shares need to reach in order to be able to exercise a contract and then immediately sell the 100 shares you just bought and have it be profitable. Mathematically, it’s the strike price plus the premium paid for the contract.",
+                  "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2rgst5/",
+                  "created": 1714954825,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l2obmt6",
+      "score": 4,
+      "body": "Shout out to the Cult baby!",
+      "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2obmt6/",
+      "created": 1714909572,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2n9ikq",
+      "score": 4,
+      "body": "Risky play but it paid off if you sold",
+      "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2n9ikq/",
+      "created": 1714883210,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l2ncwm2",
+          "score": 5,
+          "body": "Sold.",
+          "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2ncwm2/",
+          "created": 1714885141,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l2o0k89",
+          "score": 3,
+          "body": "I don’t think $600 worth of calls is that risky honestly. Risk to reward ratio checks out",
+          "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2o0k89/",
+          "created": 1714901910,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l2ov0y9",
+              "score": 1,
+              "body": "It’s $720, but still insane",
+              "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2ov0y9/",
+              "created": 1714918864,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l2of7pk",
+      "score": 4,
+      "body": "S/o the cult baby let’s gooo",
+      "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2of7pk/",
+      "created": 1714911558,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2ooaz3",
+      "score": 2,
+      "body": "That option expires so idk what you crying about unless you wanted to lose money by holding.",
+      "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2ooaz3/",
+      "created": 1714916006,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l2p97j2",
+          "score": 1,
+          "body": "Didn’t hold",
+          "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2p97j2/",
+          "created": 1714924352,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l2ovel4",
+      "score": 2,
+      "body": "Nice catch",
+      "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2ovel4/",
+      "created": 1714919018,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2rrnt5",
+      "score": 2,
+      "body": "I think these hit 4-5 when Tesla hit 198",
+      "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2rrnt5/",
+      "created": 1714959557,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2s788s",
+      "score": 2,
+      "body": "Cult baby",
+      "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2s788s/",
+      "created": 1714966705,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l2s7k69",
+          "score": 1,
+          "body": "That’s right!!",
+          "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2s7k69/",
+          "created": 1714966877,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l2m9tne",
+      "score": 3,
+      "body": "PrunedSourEEL is clearly a fool.",
+      "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2m9tne/",
+      "created": 1714866647,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l2md9m4",
+          "score": 1,
+          "body": "A fools fool!!",
+          "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2md9m4/",
+          "created": 1714868133,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l2nqy70",
+      "score": 2,
+      "body": "nice to see a fellow Chad on here",
+      "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2nqy70/",
+      "created": 1714894637,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2ppg3j",
+      "score": 1,
+      "body": "Android masterrace",
+      "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2ppg3j/",
+      "created": 1714930248,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l2pu7go",
+          "score": 1,
+          "body": "Interesting.",
+          "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2pu7go/",
+          "created": 1714931990,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l2mp4tr",
+      "score": 1,
+      "body": "CULTTTT",
+      "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2mp4tr/",
+      "created": 1714873303,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2mamkm",
+      "score": 1,
+      "body": "![img](emote|t5_2th52|31226)",
+      "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2mamkm/",
+      "created": 1714866994,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2n8f67",
+      "score": 0,
+      "body": "You was in a discord that called this one out?",
+      "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2n8f67/",
+      "created": 1714882605,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l2ncw3f",
+          "score": 3,
+          "body": "Nope just me myself and I.",
+          "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2ncw3f/",
+          "created": 1714885132,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l2ncyq2",
+              "score": 1,
+              "body": "What’s that at the bottom of the screen then",
+              "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2ncyq2/",
+              "created": 1714885175,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l2ndfgu",
+                  "score": 1,
+                  "body": "YouTube free insight of what’s going on daily.",
+                  "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2ndfgu/",
+                  "created": 1714885452,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l2ndlq1",
+                      "score": 6,
+                      "body": "I guess I owe it to the cult. Mr. Josh and his friends are SAVAGES day In and day out. \n\nBut all of my plays r my of my doing.",
+                      "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2ndlq1/",
+                      "created": 1714885557,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l2ndopt",
+                          "score": 1,
+                          "body": "Thanks!!",
+                          "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2ndopt/",
+                          "created": 1714885607,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "l2ndidi",
+                      "score": 1,
+                      "body": "Specific channel name if you don’t mind?",
+                      "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2ndidi/",
+                      "created": 1714885500,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l2ndp3j",
+                          "score": 1,
+                          "body": "Stock Market Live",
+                          "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2ndp3j/",
+                          "created": 1714885613,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l2ndpvb",
+                              "score": 1,
+                              "body": "@thestockmarket",
+                              "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2ndpvb/",
+                              "created": 1714885626,
+                              "depth": 6,
+                              "replies": []
+                            },
+                            {
+                              "id": "l2ndsjg",
+                              "score": 1,
+                              "body": "I would pay to tail your plays but that’s kinda degenerate. Need to learn on my own",
+                              "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2ndsjg/",
+                              "created": 1714885671,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "l2ndmju",
+                  "score": 1,
+                  "body": "Good question.",
+                  "permalink": "/r/wallstreetbets/comments/1cke07k/the_other_day_tsla/l2ndmju/",
+                  "created": 1714885571,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

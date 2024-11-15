@@ -1,0 +1,498 @@
+{
+  "title": "Is it just me or is Friday almost ALWAYS a V-shaped day?",
+  "score": 40,
+  "selftext": "The market will always open up high before taking a massive dump at the mid-day point or so. I suspect it's due to the big institutions purposely dumping to avoid getting their short positions assigned at expiry. I searched around and apparently there's contradictory information claiming Friday should be a bull day, whiich I find ludicrous based on my personal observations.\n\nDoes anyone have the hard statistics on this? ",
+  "link_flair_text": "Discussion",
+  "id": "1f4y925",
+  "num_comments": 54,
+  "created_utc": 1725032071,
+  "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/",
+  "comments": [
+    {
+      "id": "lkoqwuk",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 10 | **First Seen In WSB** | 2 months ago\n**Total Comments** | 704 | **Previous Best DD** | \n**Account Age** | 9 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lkoqwuk/",
+      "created": 1725032074,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkoxsnf",
+      "score": 57,
+      "body": "If there would be a predictable pattern, the quants and AI at Renaissance Tech and other big investment firms would find out very quickly. They would act on it and thereby automatically killing the pattern.",
+      "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lkoxsnf/",
+      "created": 1725034210,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lkp2syh",
+          "score": 7,
+          "body": "Can’t say anything obviously for IP of my firm - but what if there is a correlation with stocks and 0DTE options? Hmmmmm….\n\nEdit: it’s not about the V, but the relationship of Friday trading with derivatives and equities",
+          "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lkp2syh/",
+          "created": 1725035797,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lkqdpln",
+              "score": 7,
+              "body": "See me in my office. You're fired.",
+              "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lkqdpln/",
+              "created": 1725050969,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lkv51a8",
+              "score": 2,
+              "body": "What, people with real money make tons selling 0dte to regards while the market trades sideways then dump their premium into the market before unloading on said regards the next Monday",
+              "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lkv51a8/",
+              "created": 1725126703,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "ll7csez",
+              "score": 1,
+              "body": "There will be, net direction affects the market intraday, although most day traders exit before end of day and 0dte options expire, so they're influence will at some point be net zero. Unless they're swing traders, but they barely influence the market since they often don't use leverage and they don't have the funds that Institutions have.\n\nWhy do options affect the market? Because they must be hedged. If I buy a long call contract at 130 for NVDA, the market maker is essentially going short 130. They don't want to have any direction in the market, all they want is to profit off commissions fees, other misc fees, and spreads. So they hedge by BUYING 100 shares. This hedge is dynamic however and is generally calculated using dynamic. If the strike is very far away or has low probability, they won't hedge right away.",
+              "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/ll7csez/",
+              "created": 1725310312,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "llf9oct",
+                  "score": 1,
+                  "body": "I appreciate the response, but I meant the comment as a rhetorical one to spur thinking and discussions - not one where I was looking for the answer. I work in high frequency trading so I deal with markets 24/7 haha",
+                  "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/llf9oct/",
+                  "created": 1725427314,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "llgnnxu",
+                      "score": 1,
+                      "body": "Tell me ur secrets lol",
+                      "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/llgnnxu/",
+                      "created": 1725455888,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "llhom6c",
+                          "score": 1,
+                          "body": "I wish I could - but the things I say have no beneficial effect on lower frequency strategies since the price changes we capture exist for fractions of seconds. Any patterns don’t apply in mid and low frequency (minutes and hours)",
+                          "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/llhom6c/",
+                          "created": 1725468180,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lkpitvm",
+          "score": 4,
+          "body": "or it could be they are indeed acting on it? I mean how else do the big investment firms make so much money everyday every time while retail investors lose money the moment they day trade?",
+          "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lkpitvm/",
+          "created": 1725040896,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lkq2kh8",
+              "score": 9,
+              "body": "Faster trading infrastructure, better sources of information (sometimes insider..), better quantitative models, more leverage, more funds. Not really obvious day-of-the-week patterns",
+              "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lkq2kh8/",
+              "created": 1725047340,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lkqr9sg",
+                  "score": 9,
+                  "body": "don't forget: having a fucking clue",
+                  "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lkqr9sg/",
+                  "created": 1725055562,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lksu71g",
+                      "score": 1,
+                      "body": "But his experience says it should be a V shaped day so who really has no clue: the billions of dollars in infrastructure at rentech or him?",
+                      "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lksu71g/",
+                      "created": 1725089884,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lksd73n",
+                  "score": 2,
+                  "body": "Don't forget, having huge amounts of cash to manipulate shit when things are going against them. Look at LUNR for today (8/30). It was rising on really good news catalyst and then suddenly it gets dumped and held down to around 5.50 and then down to 5 finally closing at 4.991 clearly someone was short a LOT of $5 calls and didn't want to get assigned.",
+                  "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lksd73n/",
+                  "created": 1725079547,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lkrf6t7",
+              "score": 1,
+              "body": "They employ smarter people than the average wallstreetbets user",
+              "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lkrf6t7/",
+              "created": 1725064514,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lks2sw7",
+                  "score": 1,
+                  "body": "Doesnt make sense. Most day traders still lose money, even the smartest most experienced. They clearly have something day traders don't have, likely AI and some complex machines to auto trade margins in miliseconds",
+                  "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lks2sw7/",
+                  "created": 1725074377,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lkti6k5",
+                      "score": 1,
+                      "body": "Guess who programs the machines\n\nYes, the people they hire \n\nResearch rentech or any HFT funds",
+                      "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lkti6k5/",
+                      "created": 1725105250,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lkotfcl",
+      "score": 87,
+      "body": "Usually I take my massive dump mid morning.",
+      "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lkotfcl/",
+      "created": 1725032845,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lkoxucr",
+          "score": 27,
+          "body": "If it comes out v-shape please go have it check at the doctor 🙏",
+          "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lkoxucr/",
+          "created": 1725034225,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lkouyny",
+          "score": 6,
+          "body": "For me it's usually early morning. I drink my first coffee shortly after waking up, it doesn't take long from there ...",
+          "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lkouyny/",
+          "created": 1725033321,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lkpckla",
+          "score": 2,
+          "body": "Did your dump coincide with the market dump today? If so, please post Tuesday when you're about to empty your bowels.",
+          "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lkpckla/",
+          "created": 1725038899,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lkpdei8",
+              "score": 1,
+              "body": "Usually between 930 and 10am ET.",
+              "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lkpdei8/",
+              "created": 1725039165,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lkr7lbe",
+          "score": 1,
+          "body": "Is it usually green or usually red",
+          "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lkr7lbe/",
+          "created": 1725061579,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lkpr7f4",
+      "score": 15,
+      "body": "If you've only ever been in the market for the last week... Yes, you would think this.",
+      "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lkpr7f4/",
+      "created": 1725043604,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkou8ke",
+      "score": 12,
+      "body": "People need money for cocaine and hookers on the weeekend",
+      "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lkou8ke/",
+      "created": 1725033099,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkp3kjj",
+      "score": 22,
+      "body": "Nothing ever always happens in the stock market. I guarantee you could look back at the four last Fridays that occurred and disprove your thesis. Your tiny simian degenerate gambler brain is seeing patterns where there aren't any.",
+      "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lkp3kjj/",
+      "created": 1725036040,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lkpiwmn",
+          "score": -11,
+          "body": "Disprove me then",
+          "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lkpiwmn/",
+          "created": 1725040919,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lkpl2p8",
+              "score": 22,
+              "body": "Your thesis, your burden. I'm not going to waste my time proving shit. My point is the market is chaotic, random and going to fuck you up if you think it ever always does anything.\n\nIt's like saying \"you always win a hand of blackjack after losing seven in a row.\" Completely demonstrably false. Day trading is gambling and you will either play the game the way the market dictates or get wiped the fuck out.",
+              "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lkpl2p8/",
+              "created": 1725041619,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lkpe48x",
+      "score": 8,
+      "body": "its just you.. if its always a simple thing then people would consisting make money on it",
+      "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lkpe48x/",
+      "created": 1725039394,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lkpimev",
+          "score": -4,
+          "body": "How do you know there arent people consistently making money on it indeed?",
+          "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lkpimev/",
+          "created": 1725040828,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lkpjumu",
+              "score": 7,
+              "body": "because everybody would be doing it.",
+              "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lkpjumu/",
+              "created": 1725041223,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lkpofgk",
+                  "score": 7,
+                  "body": "But OP drew some crayon lines on finviz he must be onto something huge we all don’t know!!!",
+                  "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lkpofgk/",
+                  "created": 1725042702,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lks2wxr",
+                  "score": 0,
+                  "body": "People say SPY will keep going up. Some don't believe it and refuse to invest. So no, even when something is obvious, not everyone will dare do it out of doubt",
+                  "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lks2wxr/",
+                  "created": 1725074429,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lks5orn",
+                      "score": 1,
+                      "body": "ok have fun next friday, clearly you can't be unconvinced",
+                      "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lks5orn/",
+                      "created": 1725075719,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lkp0kss",
+      "score": 6,
+      "body": "There will be dumpage due to Labor Day.",
+      "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lkp0kss/",
+      "created": 1725035090,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkq0yht",
+      "score": 6,
+      "body": "Damn dude fucking called it",
+      "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lkq0yht/",
+      "created": 1725046811,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkp6m32",
+      "score": 5,
+      "body": "A lot of investors take profits out before the weekend because something could happen during the market closure. 3 day weekends are usually worse. Something could happen locally or globally to upset the market over the next 3 days.",
+      "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lkp6m32/",
+      "created": 1725037005,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkpynu8",
+      "score": 5,
+      "body": "Wow you figir3d out. Now only trade on Fridays buy at midday and sell at close. You'll be the next billionaire ***",
+      "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lkpynu8/",
+      "created": 1725046051,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkp6dgt",
+      "score": 2,
+      "body": "![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4271)",
+      "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lkp6dgt/",
+      "created": 1725036930,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkrd563",
+      "score": 2,
+      "body": "You have discovered an infallible way to get rich. Leverage it to/ the tits!",
+      "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lkrd563/",
+      "created": 1725063716,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkru9oc",
+      "score": 2,
+      "body": "Options expiration",
+      "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lkru9oc/",
+      "created": 1725070629,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkpc2lq",
+      "score": 1,
+      "body": "Friday historically has been the worst day to trade for me as someone who usually buys shares",
+      "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lkpc2lq/",
+      "created": 1725038742,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkpj8hv",
+      "score": 1,
+      "body": "it is not just you the worst days are always Friday and Monday, heck we got our black Monday a few weeks ago. I also read, shortly before I started gambling, that the best days are Mondays which is obviously not true. The stats are always to get sampled in such a way as to favor what is not true. Will you believe your own eyes?",
+      "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lkpj8hv/",
+      "created": 1725041026,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkpoagr",
+      "score": 1,
+      "body": "How long have you been investing? 20 days, months or years?",
+      "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lkpoagr/",
+      "created": 1725042657,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkq9z0i",
+      "score": 1,
+      "body": "I would think Fridays would be dump-days out of fear of a market-killing Barron's expose on Saturday (.com-era PTSD) or a weekend middle east attack.",
+      "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lkq9z0i/",
+      "created": 1725049763,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkqf41d",
+      "score": 1,
+      "body": "Yep",
+      "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lkqf41d/",
+      "created": 1725051424,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkqkycu",
+      "score": 1,
+      "body": "Usually Fridays are fuckery. I don't trade them often.",
+      "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lkqkycu/",
+      "created": 1725053389,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkrfaqd",
+      "score": 1,
+      "body": "Come back to me tomorrow",
+      "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lkrfaqd/",
+      "created": 1725064556,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkyjc15",
+      "score": 1,
+      "body": "Here a GPT answer:\nThe trend of the S&P 500 declining around the time of the European market closure and then recovering during the trading day is a topic of interest among traders and analysts. Here are some key points regarding this phenomenon:\n\nObservations on the Trend\n\nMarket Dynamics:\n\nThe S&P 500 often reacts to global market movements, including those from Europe. When European markets close, any negative sentiment or economic data can lead to a dip in U.S. markets.\n\nRecovery Patterns:\n\nHistorically, there have been instances where the S&P 500 has shown resilience, recovering losses later in the trading day. This can be attributed to various factors, including:\n\nInvestor Sentiment: U.S. investors may react differently to news than their European counterparts, leading to a rebound.\n\nMarket Adjustments: As the day progresses, traders may reassess their positions, leading to buying opportunities.\n\nRecent Trends:\n\nRecent market behavior has shown that the S&P 500 can recover from initial losses, especially when driven by strong fundamentals or positive economic indicators in the U.S.\n\nConclusion\n\nWhile there is anecdotal evidence and some historical data supporting the trend of the S&P 500 dipping at European market closure and recovering later, it is essential to analyze specific market conditions and broader economic indicators to understand the underlying causes fully. Traders often monitor these patterns to make informed decisions, but they should also consider the volatility and unpredictability of the markets.\n\nSPY",
+      "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lkyjc15/",
+      "created": 1725178112,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ll1v4fs",
+      "score": 1,
+      "body": "There's a trend where market makers exercise their options then close the position. So for example if a bunch of calls were ITM because someone sold them the calls, they would exercise then sell the calls in the morning, dropping the price. The drop in price causes puts to go ITM, and then they exercise those and the price goes back up.\n\n\nLikewise in the last hour stuff loses all its extrensic value, so stuff gets exercised then too.\n\n\nThis pattern happens overnight entering Friday as well. People short overnight then exercise the call to close the position. Whoever got early exercised buys the shares in the morning.",
+      "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/ll1v4fs/",
+      "created": 1725226154,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llj0zd7",
+      "score": 1,
+      "body": "Did you cut your AVGO Calls?",
+      "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/llj0zd7/",
+      "created": 1725483735,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkpoxm2",
+      "score": 0,
+      "body": "![img](emote|t5_2th52|12787)",
+      "permalink": "/r/wallstreetbets/comments/1f4y925/is_it_just_me_or_is_friday_almost_always_a/lkpoxm2/",
+      "created": 1725042865,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

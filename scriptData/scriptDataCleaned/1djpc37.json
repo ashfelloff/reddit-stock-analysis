@@ -1,0 +1,182 @@
+{
+  "title": "What is the relationship between implied volatility in puts and calls and value of the underlying equity? Looking at GME.",
+  "score": 43,
+  "selftext": "[removed]",
+  "link_flair_text": "already posted recently",
+  "id": "1djpc37",
+  "num_comments": 19,
+  "created_utc": 1718819342,
+  "permalink": "/r/stocks/comments/1djpc37/what_is_the_relationship_between_implied/",
+  "comments": [
+    {
+      "id": "l9cf48b",
+      "score": 23,
+      "body": "To answer your first question, there’s no relation between derivative prices and underlying value. Derivatives are a function of stock price, not stock value. \n\nIf people want to trade it like a token, the derivative prices will reflect that.",
+      "permalink": "/r/stocks/comments/1djpc37/what_is_the_relationship_between_implied/l9cf48b/",
+      "created": 1718821302,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9cwgh4",
+          "score": 6,
+          "body": "Stock is also a token. The stock price has not much to do with it’s *real* value. I miss the times when the degenerates dealing in derivatives at least understood how derivatives worked.",
+          "permalink": "/r/stocks/comments/1djpc37/what_is_the_relationship_between_implied/l9cwgh4/",
+          "created": 1718827172,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9d7dwy",
+              "score": 0,
+              "body": "Apes really ruined all trading and degen trading subreddits.",
+              "permalink": "/r/stocks/comments/1djpc37/what_is_the_relationship_between_implied/l9d7dwy/",
+              "created": 1718830865,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l9cgoou",
+          "score": -4,
+          "body": ">To answer your first question, there’s no relation between derivative prices and underlying value. Derivatives are a function of stock price, not stock value.\n\nUm, given f(x) and g(y), f(g(y)) == h(y).",
+          "permalink": "/r/stocks/comments/1djpc37/what_is_the_relationship_between_implied/l9cgoou/",
+          "created": 1718821828,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9cq5n3",
+              "score": 8,
+              "body": "Are you going to argue that the present value of their future cash flows went from $3B to $15B in a week, then down to $7B then back to $18B, then down $6B over the course of a trader’s livestream?  \nAre you going to argue that, at all points over the last month, the price was a fair reflection of the stock’s fundamental value?  Including now?",
+              "permalink": "/r/stocks/comments/1djpc37/what_is_the_relationship_between_implied/l9cq5n3/",
+              "created": 1718825041,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l9cue07",
+                  "score": -4,
+                  "body": "lol\n\nIt's wild how much math hurts some people's feelings.\n\nf(x) could be anything.  It could even be rand(x).  If g(y) was rand(y) then h(y) would be rand(rand(y)).\n\nAnd you know what?  It would still be the case that h is a function of y.",
+                  "permalink": "/r/stocks/comments/1djpc37/what_is_the_relationship_between_implied/l9cue07/",
+                  "created": 1718826475,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l9d8j4t",
+              "score": 4,
+              "body": "The argument is that there is no correlation between stock price and underlying value, at least for GME and other meme stocks. Your “math” only proves there’s correlation between stock price and derivatives, which is true. Derivatives are derived from stock price, not underlying value of the company, which is itself very difficult to calculate. In non meme stocks, stock prices and underlying value tend to correlate long term(and value investors love it), but in meme stocks, not really, it’s a senseless mania that reacts to events wholly unrelated to underlying value, like DFV doing a stream",
+              "permalink": "/r/stocks/comments/1djpc37/what_is_the_relationship_between_implied/l9d8j4t/",
+              "created": 1718831265,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l9d9m24",
+                  "score": -2,
+                  "body": "You're wrong about the argument, you're wrong about what my math \"proves\", and you're really just mad because you don't like meme stocks.\n\nWaah.",
+                  "permalink": "/r/stocks/comments/1djpc37/what_is_the_relationship_between_implied/l9d9m24/",
+                  "created": 1718831646,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l9dgesv",
+      "score": 10,
+      "body": "Didn't you post almost this exact same thing a few days ago in multiple subs?",
+      "permalink": "/r/stocks/comments/1djpc37/what_is_the_relationship_between_implied/l9dgesv/",
+      "created": 1718834097,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9dgkia",
+          "score": -11,
+          "body": "No. I didn't search for a similar question though.",
+          "permalink": "/r/stocks/comments/1djpc37/what_is_the_relationship_between_implied/l9dgkia/",
+          "created": 1718834155,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9dh6bl",
+              "score": 9,
+              "body": "Everything besides the first two paragraphs is a copy paste from something you posted a few days ago lol",
+              "permalink": "/r/stocks/comments/1djpc37/what_is_the_relationship_between_implied/l9dh6bl/",
+              "created": 1718834379,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l9cgthi",
+      "score": 8,
+      "body": "GME has inflated IV.  So unless your expecting big movements soon, your gonna get wrecked by IV crush, theta and probably get dusted by the MM flat lining the stock until they shake off all those call and put buyers who bought in when DFV returned.\n\n\nThere'd a good reason why ppl get torched all the time with options.  And with what is arguably one of the most manipulated stocks out there with short sellers ready to defeat any pumps on top of whatever RC is accomplishing doing what AA does best, you can bet you're fighting a tough battle.",
+      "permalink": "/r/stocks/comments/1djpc37/what_is_the_relationship_between_implied/l9cgthi/",
+      "created": 1718821873,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9caz4w",
+      "score": 12,
+      "body": "I was trying to say this to the superstonk community but DFK has done more for GME than Cohen has.\n\nPro-Cohen advocates cite improved margins, reduced debt, improved warehouses, and renegotiation of supplier contracts as positives but clearly, the market does not appreciate it (the stock price was $10.) \nThe only reason why GME was able to do the offering recently was because of Keith Gill, not Ryan Cohen. Let’s not forget Cohen wasted money on the NFT marketplace and GameStop concept stores. \n\nAt this point, Keith Gill with his small amount of shares but large amount of retail investor influence should go activist.",
+      "permalink": "/r/stocks/comments/1djpc37/what_is_the_relationship_between_implied/l9caz4w/",
+      "created": 1718819906,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9dqdd1",
+          "score": 2,
+          "body": "Those concept stores rake in monster crowds for big events.\n\nDowntown Milan and downtown NYC? PRIME locations.\n\n\nAlso, the nft marketplace was proof of concept. It was a pilot program. Just because it was taken down due to regulatory uncertainty, doesn't mean all the work that went into it suddenly disappears. The framework is there, already had their beta run, and is ready to go when given the green light.\n\nIf it weren't for Ryan Cohen, GameStop would absolutely be dead in the water. DFV was just as important in supplying Cohen with the power to bring in cash from wallstreet to save the company.",
+          "permalink": "/r/stocks/comments/1djpc37/what_is_the_relationship_between_implied/l9dqdd1/",
+          "created": 1718837927,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l9cc31u",
+          "score": -1,
+          "body": "100%. At least they have the option of becoming Yahoo 2.0 now. Beforehand it was just like \"who buys physical games anymore\"",
+          "permalink": "/r/stocks/comments/1djpc37/what_is_the_relationship_between_implied/l9cc31u/",
+          "created": 1718820278,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l9d7u06",
+      "score": 2,
+      "body": "In options, Implied volatility is THE only - the only one and only - metric that’s specific to a unique underlying stock. All other options metrics are not dependent on a specific underlying stock.\n\nThink of IV as the options price tag.\n\nIV is all I care about for options.",
+      "permalink": "/r/stocks/comments/1djpc37/what_is_the_relationship_between_implied/l9d7u06/",
+      "created": 1718831021,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9dhwac",
+      "score": 1,
+      "body": "The company's direction, so far, with Cohen in charge (and Matt Furlong before that) has been to stop the hemorrhaging the retail business caused. And to that end, they have largely succeeded given that last year they were full-year profitable. \n\nHowever, yeah, that retail business won't lead to growth unless they can start offering additional items/services. So what you'd be betting on is how Ryan Cohen approaches GameStop's new existence as a holding company. As much as it pains me to agree with the man, Cramer had it right when he recently said 'this is no longer GameStop, it's now a Ryan Cohen SPAC.' \n\nAnd obligatorily, this is not financial advice, but if you want to throw some funny money at it for long-term purposes, I would target a $13-$15 entry range. Based on cash on hand at the moment, they've got about $10/share, so I would feel relatively okay about my money not likely depreciating *too much* if my cost basis was around the aforementioned range.\n\nThe one caveat I'll throw out to waiting for that price to reappear is that I have no idea whether there will be another run up in August, coinciding with the expiry of any LEAPs purchased during the June 2021 run-up (side note: it seems that this May/June run-up may have been spurred by expiration of LEAPs with the longest-possible contract length [ie, 39 months] that were purchased during the Feb/March 2021 run-up).",
+      "permalink": "/r/stocks/comments/1djpc37/what_is_the_relationship_between_implied/l9dhwac/",
+      "created": 1718834651,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9cczl4",
+      "score": -2,
+      "body": "I agree with you on that GME business model is cooked, and their main business now as you point out is selling into the crowd their equity - and trying to see where else they can burn cash. \n\nas to your question on options & equity price, I recommend you check out how options are priced:  \n[https://en.wikipedia.org/wiki/Black%E2%80%93Scholes\\_model](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model)\n\nmost option models are either using blacksholes model or a derivative of it. Essentially implied vol (which is part of both d1 and d2 components) drive the pricing of the options, the lower the vol, the cheaper the option - put it another way, options get cheaper when statistically it feels less likely that they'll be exercised - but given the extreme vol present in GME, the pricing of options makes this very tricky to hold/price and get a profit that justifies the risk. More likely the more sophisticated players will collect a lot of option premiums, while the general crowd burns through their cash buying very expensive options.",
+      "permalink": "/r/stocks/comments/1djpc37/what_is_the_relationship_between_implied/l9cczl4/",
+      "created": 1718820585,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

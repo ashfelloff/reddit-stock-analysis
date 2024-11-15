@@ -1,0 +1,1449 @@
+{
+  "title": "Snowflake selloff seems like a temporary accident",
+  "score": 391,
+  "selftext": "Daily queries growth of 63% and 131% Net Revenue Retention (NRR) at the low end of the (non AI) cycle show just how much they sandbagged guidance of 22%. Both lead to future revenue growth. For comparison, they just achieved 36% annual revenue growth with daily queries growth of 73% and 158% NRR as the cycle was trending down. Now the cycle is about to trend up. I'd be surprised if revenue growth is lower than 27% this year.\n\nThe new CEO Sridhar Ramasway is better than Slootman in every way. Slootman was a has-been-MBA-suit cashing in on his cachet like John Chen at BlackBerry. Took extreme stock based comp for himself and kept selling shares nonstop, while not keeping up with industry competition. Tech expertise is essential for tech CEOs to lead their companies to a monopolistic outcome. Research on the economics of tires (Slootman), not so much.\n\nThe company is about to become relevant in the AI space due to this change in leadership. And web services companies are probably the biggest long term beneficiaries of AI. They have better economics (network, scale, incremental capital requirements). The new CEO expects several new product launches this year and he delivered one [yesterday](https://www.snowflake.com/blog/unlock-insights-with-snowflake-data-clean-rooms/). That's impressive after a little over one month on the job.\n\nBy now everyone knows the CEO bought $5m worth of shares as part of his compensation contract this week. However, what's actually more interesting is Mark D. McLaughlin bought $501k worth of stock above $165 this month without being required to do so as part of any agreement. He similarly added $300k early last year at a higher price. He's a director of Snowflake and Palo Alto Networks, and Chairman of Qualcomm. Definitely the kind of guy who has his finger on the pulse of the tech scene. So if he's buying more this year than last year at the same price, he is more confident in the company's future now.\n\nFor all the programmers who argue that Snowflake is overpriced vs Redshift, Synapse, etc. and how it is far behind Databricks, please read:\n\n1. [This technical merit comparison on Snowflake vs Databricks](https://twitter.com/convequity/status/1773722517330653337?s=19/).\n2. [This comment about Snowflake vs Synapse](https://www.reddit.com/r/dataengineering/comments/11ybe2d/comment/jd78ksl/?utm_source=share&utm_medium=web2x&context=3/)\n3. [This comment from a couple years ago about how pros misused Snowflake and ended up spending too much](https://www.reddit.com/r/SQLServer/comments/ww2zbc/comment/ilk2aq7/?utm_source=share&utm_medium=web2x&context=3/). My guess is that part of the decline in Net Revenue Retention and Revenue growth rates are partially due to this factor - people optimizing their use of the product for its true intent. The optimized processes still run on Snowflake after all. And there is more data and activity on Snowflake now. Most revenue is optimized, so the impact of that optimization wave on NRR diminishes. NRR rises again and converts $5.2 billion Remaining Purchase Obligations to revenue faster.\n4. Redshift is a dumpster fire according to many sources. [Like this.](https://www.reddit.com/r/dataengineering/comments/12mw1yy/redshift_vs_snowflake//)\n\nThese factors mean Snowflake growth will start to reaccelerate this year. The non-AI tech cycle is about to reaccelerate naturally. Snowflake is about to become more product innovation oriented. That  product innovation will turn its sails to catch the AI wind. They were misunderstood by customers. So they experienced less rapid growth as a result of those customers figuring out how to use the service more effectively. The changes the company made to better compete with Databricks are effective whereas Databricks' attempt to copy Snowflake are nascent in comparison. As more people begin to understand this setup, Snowflake will go back over $400 by next year. Therefore, Snowflake selloff seems like it is a temporary accident.\n\nPosition: 142 x $165c 4/19 exp (check profile for proof post).\n\nEdit: I also found this update on the AI work at $snow from one of its top engineers:\nhttps://twitter.com/rajhans_samdani/status/1770903641630863646?s=19\n\nImpressive that they beat gpt-4 by a good margin when combined with Mistral. And they surpassed everyone but gpt-4 as a standalone.\n\nAlso here's a total cost of ownership post on Databricks vs Snowflake:\nhttps://www.reddit.com/u/moazzam0/s/DDDNMXDKKo\n\nSnowflake AI head pointed out that Databricks cherry picked outdated metrics from 2019 to measure their model's performance. Seems desperate. Must be feeling the heat from Snowflake:\n\nhttps://twitter.com/vivek7ue/status/1774172134732181732?s=19",
+  "link_flair_text": "DD",
+  "id": "1brznws",
+  "num_comments": 161,
+  "created_utc": 1711852608,
+  "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/",
+  "comments": [
+    {
+      "id": "kxcg0r7",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 10 | **First Seen In WSB** | 4 years ago\n**Total Comments** | 1134 | **Previous Best DD** | \n**Account Age** | 4 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxcg0r7/",
+      "created": 1711852618,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxcisl3",
+      "score": 476,
+      "body": "Good DD regard. But most of your DD involves a little bit of medium to long term view.\nAnd then like a true regard you buy 4/19s 😆",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxcisl3/",
+      "created": 1711853861,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kxcneep",
+          "score": 116,
+          "body": "I truly thought he was closing that out with some leaps.",
+          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxcneep/",
+          "created": 1711855993,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "kxcplpm",
+          "score": 40,
+          "body": "Was gonna say the exact same thing, solid DD, dont know why you sare buying basically monthlies, but I might actually go long like you said in the whole DD",
+          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxcplpm/",
+          "created": 1711857051,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "kxcixeo",
+          "score": 63,
+          "body": "![img](emote|t5_2th52|31225)",
+          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxcixeo/",
+          "created": 1711853922,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kxcscks",
+              "score": 16,
+              "body": "Can’t argue with that.",
+              "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxcscks/",
+              "created": 1711858412,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "kxcujjj",
+          "score": 12,
+          "body": "I made it 3 words in",
+          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxcujjj/",
+          "created": 1711859569,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kxddpln",
+              "score": 1,
+              "body": "Same",
+              "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxddpln/",
+              "created": 1711872497,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "kxkpzi4",
+          "score": 3,
+          "body": "i laughed when i saw the 4/19",
+          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxkpzi4/",
+          "created": 1711993966,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "kxekfvp",
+          "score": 2,
+          "body": "Yeah, it’s currently over valued and has been for a long time. Sell off like this is to be expected between hype pumps.",
+          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxekfvp/",
+          "created": 1711897026,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "kxgv2nw",
+          "score": 1,
+          "body": "Yeah, \"I see SNOW at $400 by next year hence I bought 142 x $165c 4/19 :)\"...",
+          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxgv2nw/",
+          "created": 1711927255,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "kxcod6u",
+      "score": 158,
+      "body": "Oh god, you spent 65k on 19dte options? Why don’t you buy longer expiration with that much money?![img](emote|t5_2th52|4640)",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxcod6u/",
+      "created": 1711856456,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kxd0s93",
+          "score": 91,
+          "body": "They don’t even last until after their next earnings. There’s no foreseeable catalyst that would push the stock materially higher, even when his assumptions were correct.",
+          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxd0s93/",
+          "created": 1711863214,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kxdcjs8",
+              "score": 54,
+              "body": "This is the essence of WSB.",
+              "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxdcjs8/",
+              "created": 1711871604,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "kxdmnrn",
+          "score": 17,
+          "body": "Betting on double zero. What can go wrong?",
+          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxdmnrn/",
+          "created": 1711879617,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kxeoh48",
+              "score": 1,
+              "body": "When it hits green but it’s single zero and you didn’t split them",
+              "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxeoh48/",
+              "created": 1711898534,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kxco2l6",
+      "score": 46,
+      "body": "All that and his position is in a few weeks ",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxco2l6/",
+      "created": 1711856316,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kxdmrfp",
+          "score": 14,
+          "body": "Likely hoping regards on here pump into it now, prior to earnings, so he gets a pump, sells his calls with a 30-40% gain, and leaves the rest of the regards holding a bag.",
+          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxdmrfp/",
+          "created": 1711879693,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kxe3gpb",
+              "score": -3,
+              "body": "Plan is to keep rolling the calls.",
+              "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxe3gpb/",
+              "created": 1711889940,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "kxehul3",
+                  "score": 11,
+                  "body": "..... So selling at a gigantic loss instead of just buying further out",
+                  "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxehul3/",
+                  "created": 1711896037,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "kxej0yi",
+                      "score": 1,
+                      "body": "The cost of leverage. Notional $2.3m.",
+                      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxej0yi/",
+                      "created": 1711896487,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "kxh2lpy",
+                  "score": 4,
+                  "body": "Guy plans on rolling the calls so instead of picking something with <1% theta burn per day he picks something with almost 5% theta burn a day. Definitely belongs here",
+                  "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxh2lpy/",
+                  "created": 1711930183,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kxchp52",
+      "score": 81,
+      "body": "Am I having dejavu?",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxchp52/",
+      "created": 1711853364,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kxd1zzh",
+          "score": 37,
+          "body": "A good pump takes more than one post",
+          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxd1zzh/",
+          "created": 1711863994,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "kxcksg5",
+          "score": 60,
+          "body": " This post was definitely up a few days ago",
+          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxcksg5/",
+          "created": 1711854766,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "kxcp80a",
+          "score": 8,
+          "body": "Yeah this is copy pasta I remember seeing this 💩 before",
+          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxcp80a/",
+          "created": 1711856866,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kxdxjk1",
+              "score": 5,
+              "body": "Insiders coming to pump 😶‍🌫️",
+              "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxdxjk1/",
+              "created": 1711886870,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "kxcro3c",
+          "score": 6,
+          "body": "Yeah, I read the same \"this ceo is so much better than the last\"",
+          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxcro3c/",
+          "created": 1711858065,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "kxcr4rf",
+      "score": 78,
+      "body": "Snowflake is down because they changed CEOs and they issued conservative guidance as a result. The stock is most likely going to hover around $160 until next earnings. ",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxcr4rf/",
+      "created": 1711857807,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kxd934v",
+          "score": 9,
+          "body": "Morningstar’s fair value assessment agrees with this statement.",
+          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxd934v/",
+          "created": 1711868971,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kxdcok4",
+              "score": 8,
+              "body": "💀",
+              "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxdcok4/",
+              "created": 1711871706,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "kxqbpvt",
+          "score": 2,
+          "body": "Yea and a lot of employees walked out when that happened. But this is the same CEO who propped up ServiceNow to what it is and let it fly, and left when things were running smoothly.\n\nAnd this is what he's done with snowflake, this is what he does. The selloff was super regarded",
+          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxqbpvt/",
+          "created": 1712080679,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "kxcyliv",
+          "score": -4,
+          "body": "Most accurate comment",
+          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxcyliv/",
+          "created": 1711861869,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "kxcxgm4",
+      "score": 28,
+      "body": "I think the selloff was warranted. As much as Slootman isn’t a tech person, he was highly trusted by both analysts and investors so his announcement to step down was a bit jarring. I’m finding it pretty amusing how bad succession planning in general has been the last few years.  Disney botching Chapek now seems more like the norm than an outlier.  An ex-Googler - Google being the company who seems a step behind and playing catch up on AI (not necessarily my belief but that’s how it’s being portrayed in market) - is now having to play catch up on Snowflake, makes for a really BAD PR story (warranted or not, it’s still bad that it exists).  I think Snowflake did it all in one shot with the announcement though given they knew the stock was going to get punished one way or the other on the ER.\n\nNow your technical arguments make sense BUT in large scale organizations you’re not accounting for how Snowflake is procured.  Redshift and Databricks have lower barriers to entry given their native access through AWS and Azure respectively.  Better technology be damned if you need to involve procurement and finance to get involved with getting a new product.  For both Redshift and Databricks, I can just spin up resources on my pre-existing agreements that have been blessed and go to town.  When you get Snowflake, you’re having to get your procurement and CFO to understand their credit system, look at an agreement with legal, get paperwork signed, allocate funding and budget, and then hopefully if everyone is in a good mood, get things signed in a reasonable amount of time.\n\nThe real issue for them is going to be the barrier to entry given the extra work to even get into a company. It’s not just readily available. I’ve worked on multiple Snowflake deals and while the technical people want the product, it’s back and forth with Finance to make sure everything is right that causes all the frustration and the technical people just giving up to using something with less onboarding friction.\n\nSnowflake’s push into the data market business is probably the biggest growth potential for them.  Their ability to be an agnostic data mart would streamline a lot of work and help smaller businesses from having to deploy expensive multicloud landing zones just for data connectivity. Given how much orgs can spend on data, if they can figure out how to reasonably monetize this and streamline it for technical use, they could create a very wide moat.",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxcxgm4/",
+      "created": 1711861197,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kxd63ku",
+          "score": 2,
+          "body": "Agree with this last point. The real differentiator for snowflake now is its newly forming role as the coordination point for third-party data-sharing. They’re very far ahead of Databricks on this, and most major media cos, publishers and agencies are relying on them for data-sharing. AWS is the only competitor with a strong chance, but they’ll need to rework a lot of Redshift’s fundamental perception in the market to do so. The ability to wall off and control this type of activity within one isolated platform like Snowflake, as opposed to in a wider infrastructure vendor, is seen as beneficial to most enterprises. \n\nVelocity of Snowflake announcements on data partner launches with major media, agency of broker partners (experian, transunion) will be a strong indicator.",
+          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxd63ku/",
+          "created": 1711866779,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kxdv1z6",
+              "score": 3,
+              "body": "The biggest thing AWS has is everything into S3 dumps which a lot of clients already have ingest pipelines and data governance tools in place that can consume this. Snowflake gives the added advantage of consumable tables directly which removes the need for even maintaining dedicated raw data buckets. You can go right into curation to enrich for published internal datasets right away.  As smaller companies that don’t have ingest get involved, the Snowflake option looks extremely attractive as it is a lot less overhead.",
+              "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxdv1z6/",
+              "created": 1711885415,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "kxdqfyz",
+          "score": 2,
+          "body": "Don't know jack shit about tech but am full-time project manager and I am often the appointed \"volunteer\" to align all those departments to get something done/introduce a new product/etc.\n\nJust as you describe: it's fucking exhausting and feels like having to change the direction of a huge ship lol.\n\nIf that's what's required to introduce Snowflake with new customers, it's a very valid point you make.",
+          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxdqfyz/",
+          "created": 1711882403,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kxe1l2s",
+              "score": 1,
+              "body": "It’s potentially worse if you need to set up private link to keep everyone behind the firewall as that then gets networking AND infosec involved to set up all the routing, dns, firewall rules, and etc.",
+              "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxe1l2s/",
+              "created": 1711889017,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "kxeko54",
+          "score": 1,
+          "body": "Agree on the last point. As far as the difficulty of steering the ship, yes cloud related switches are difficult to coordinate and accomplish. However, everyone involved is driven by cost minimization. So if they see the one time pain and cost of switching as lower than the ongoing frustration and cost of engineers laboring on crappy alternatives, they will gladly take the one time pain to switch.",
+          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxeko54/",
+          "created": 1711897113,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kxepnt6",
+              "score": 2,
+              "body": "They will if it’s explainable. The credit system used by Snowflake for burning through the compute in s, m, l, xl scales are extremely opaque if you’re not really technical.  So while the dev teams can say “this is cheaper and better” when they are asked to prove it, you’re like doing multivariable calculus equations to show it. At a quant shop where we had it, they could barely get it and they do that math for a living.  Very few finance teams trust devs to make the right financial decisions lol.",
+              "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxepnt6/",
+              "created": 1711898971,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "kxes1y5",
+                  "score": 1,
+                  "body": "Interesting. Were the quants doing a generalized cost model or using a specific sample of use to compare costs? I would imagine Snowflake (as part of their sales process) could run a sample of use through their system to spit out a cost related to the sample. I'm sure they help with getting finance on board too. \n\nThat's like finance trusting the barber to tell them if they need a haircut, but it at least establishes some official reference for how to run the calculations. It would be fraudulent for Snowflake to misrepresent that, and they actually have a valuable enough product that they don't need to engage in fraud. If anyone reading this has participated in or witnessed a migration to Snowflake, please chime in. \n\nThat's the cost side of the equation. Another big factor is capabilities. While offerings from cloud providers and Databricks are similar, the differences in capability and features at Snowflake can be really important to specific use cases and companies. That could be the sole driver for a migration, too.",
+                  "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxes1y5/",
+                  "created": 1711899843,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "kxezkl9",
+                      "score": 2,
+                      "body": "If you deal with any of these guys, the sales reps never want to deal with hard numbers and only estimates because they don’t want to be taken to town on a contract if there’s overages. So the conversations begin off kind of flaky and wishy washy such that even if they provide estimates - they pound it in that it’s only estimates - so you can do your own math and depending on usage and how you want to calculate it, it becomes very difficult to not end up with a very very large scary number.\n\nNow what’s funny is Capital One has a new tool they are selling which helps optimize dynamically very well to avoid some of those costs, but the saving are by dynamically resizing warehouses.  That’s really the game. And it’s hard to quantify that on a spreadsheet that the accounting staff can get. When the majority of contracts are pay X and get Y or X per hour it’s fine. It’s the credit burns that make it difficult since you have to get a conversion done in your head or displayed visually and make that consumable on top of everything else.",
+                      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxezkl9/",
+                      "created": 1711902560,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "kxfldvi",
+                          "score": 1,
+                          "body": "Really interesting, thank you. Sounds like Snowflake's sales strategy benefits from products like Capital One's to sway cost focused, skeptical customers. It was probably created for existing customers who don't want to switch to Snowflake alternatives.",
+                          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxfldvi/",
+                          "created": 1711910334,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "kxfmxej",
+                              "score": 2,
+                              "body": "Capital One built it internally to help control their costs and they just spun out a new unit to try to sell their internal solutions to others.  This is one of their lowest hanging fruits.",
+                              "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxfmxej/",
+                              "created": 1711910892,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "kxgweb5",
+              "score": 1,
+              "body": "Just a quick reminder that companies don't always pick the most optimal options usually because of internal factions. It's very common to see a project about optimizing internal tools and processes fizz out because some other department determines that the new tools does not help them and they would rather take an extra bonus than reduce the overall pain of current processes. After all, who cares if someone else is in pain?",
+              "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxgweb5/",
+              "created": 1711927766,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "kxey4z4",
+          "score": 1,
+          "body": "Well put, I've think they've don't pretty damn good considering the two monsters already in the space. \n\nIf they can keep it up idk.\n\nI did buy this \"dip\" none the less",
+          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxey4z4/",
+          "created": 1711902042,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kxf0ld5",
+              "score": 1,
+              "body": "Well I guess I do a poor job of actually describing my thoughts. The selloff is warranted but I would still want to be LONG the stock.  The data mart is very very compelling and I think it has a lot of potential.  I’m mot thrilled with how they changed up the management but I know many in the sales org and I don’t think they are really beaten down yet.  I think this price level reset is warranted until new leadership gets it together, but they have a pretty big customer base and there’s plenty of businesses that live on top fortune 500 companies if not Fortune 100 (like Pegasystems).\n\nIf the next quarter results are not BAD - I don’t care of they are great, just not BAD, I’ll start looking at how and when to enter in a long position.",
+              "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxf0ld5/",
+              "created": 1711902927,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kxclhvz",
+      "score": 22,
+      "body": "Also remember that their forecast is conservative, which is usual practice to make new CEO look good. \n\nI have 170c LEAPS loaded to the tits. Will be printing soon.",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxclhvz/",
+      "created": 1711855093,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kxf0fr2",
+          "score": 2,
+          "body": "Curious the date on those. What do people define as leaps around here?",
+          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxf0fr2/",
+          "created": 1711902871,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kxf28r3",
+              "score": 2,
+              "body": "Longer than a year.",
+              "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxf28r3/",
+              "created": 1711903517,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "kxkqlig",
+              "score": 2,
+              "body": "4/19",
+              "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxkqlig/",
+              "created": 1711994165,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kxchhnd",
+      "score": 86,
+      "body": "What the fuck is a temporary accident? That is some serious mental gymnastics… did you break a sweat coming up with that?  It could be temporary, but it’s not an accident and for damn sure not a temporary accident. I award you no updoots and may god have mercy on your soul.",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxchhnd/",
+      "created": 1711853270,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kxcsg1a",
+          "score": 6,
+          "body": "Yeah I was thinking OP was going to detail some flash crash I missed. But nope.",
+          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxcsg1a/",
+          "created": 1711858460,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "kxcotm3",
+          "score": 8,
+          "body": "Everybody my age pees their pants,  it's the coolest",
+          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxcotm3/",
+          "created": 1711856673,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "kxcwemt",
+          "score": 4,
+          "body": "Lol it's like a parent trying to explain to a child that them having another child is just a \"happy accident\" . Except this guy is trying to explain a stock dropping because it's fundamentals suck and it's guidance was poor to himself as a happy accident.",
+          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxcwemt/",
+          "created": 1711860597,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "kxcqtno",
+      "score": 26,
+      "body": "I work in data engineering and think that Snowflake is a very solid plattform.",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxcqtno/",
+      "created": 1711857661,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kxd7gke",
+          "score": 7,
+          "body": "I use databricks but I’ve heard nothing but good things about snow.\n\nDoes the snow billing work similar to databricks? Op mentions “queries” but I don’t think number of queries tells you anything. You could do 10 million simple queries and it would use less compute than 1000 massive queries.\n\nDatabricks bills by DBU (databricks units) on their clusters. So the more data you are processing, the more you’ll pay, regardless of query count.",
+          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxd7gke/",
+          "created": 1711867766,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kxfcxvv",
+              "score": 2,
+              "body": "Effectively Snowflake and Databricks take the same approach.  You pay for usage at the warehouse level.  Databricks Serverless is essentially exactly what Snowflake is where you're paying for a compute \"size\" and for how long it's on.  This is why resource monitors (ensuring cost is within spec) and auto scaling policies (shut off when not in use for X duration) are critical as you're paying when the warehouse is on.\n\nSo it's really not about how much data you're processing... But rather a mix of how much compute you request and how long you use it for.  Generally speaking that's driven by the amount of data you need to process and the types of manipulation you're doing.\n\nAs an example, if I was processing 10 records and chose the biggest warehouse possible, I would pay a ton of money (even though it wouldn't take too long but you have cluster spin-up and cooloff time).  Alternatively if I chose the smallest warehouse possible, I would pay significantly less and my workload may even finish in the same amount of time.  This doesn't scale linearly generally though so basic recommendation is always to pick the smallest warehouse and see what your run times look like against your desired SLA... And scale the warehouse accordingly.",
+              "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxfcxvv/",
+              "created": 1711907294,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "kxczhcr",
+          "score": 6,
+          "body": "Which of their products do you use? Do you think they are better than competition?",
+          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxczhcr/",
+          "created": 1711862403,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kxd4wo0",
+              "score": 15,
+              "body": "The competition is like MS sql server, Amazon redshift, etc databases native to cloud service providers.\n\nSnowflake is alot better if you utilize it correctly however is really expensive if you're using it for your whole etl instead of databricks or dbt. \n\nFrom what I've seen and launched, I think snowflake has a role in the front end interaction with AI/ML/GENaI stuff. But I don't think they have a role in AI in terms of training, hosting, other heavy lift functions",
+              "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxd4wo0/",
+              "created": 1711865937,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "kxefc2n",
+                  "score": 4,
+                  "body": "Snowflake plus DBT here. Very happy user, team of 150 people.",
+                  "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxefc2n/",
+                  "created": 1711895067,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "kxevz19",
+                  "score": 5,
+                  "body": "I don't think you have a correct understanding of what dbt is.  It's just generating SQL and submitting that to Snowflake in an order driven by the DAG it generates.  All the compute/transformation happens within Snowflake, thus no real cost savings directly (assuming equally performant and solid code being ran through streams/tasks/whatever.\n\nPeople like to say Databricks is cheaper than Snowflake, and while that's true from a strictly dollars per credit perspective, it's really not the full picture.  In Databricks you also have to take into account cloud compute, networking, and all the personnel/training involved to upskill on cloud infrastructure and its best practices.  You also generally need to know how to write pyspark (although for a lot of data engineering you can just use dbt or delta live table)\n\nAlternatively, Snowflake is all inclusive and everything is SQL.  That means you can either leverage your existing DBAs or source someone much cheaper with a DBA skillset.\n\nToss in dbt, and everything is still SQL.\n\nI work with billion dollar companies on both platforms from both a DE/ML/Analytics space as a chief architect in consulting for context.",
+                  "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxevz19/",
+                  "created": 1711901263,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "kxexqns",
+                      "score": 1,
+                      "body": "Last time I checked most people were using dbt cloud or compute instances to do the etl then write back to snowflake. Otherwise then yes I am missing the point of dbt. Dag orchestration can be better done in airflow or other solutions \n\nI agree it's much easier to hire sql coders, in fact this is some what the theme of the start up I work at. We ingest raw client data through data bricks, master it, then write it back to client snowflake. It's particularly compelling because our target industry has a ton of legacy infra.\n\nBut any ways how is SF for ml in the real world? I'm highly skeptical of ml on SF. Databricks makes it pretty easy with ml flow and other tools",
+                      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxexqns/",
+                      "created": 1711901902,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "kxf3rod",
+                          "score": 1,
+                          "body": "dbt cloud is just a runner.  No compute happening there.  It submits the same SQL as dbt core.\n\nSnowflake for ML has some good stuff in private/public preview but I wouldn't use it for ML in production yet (except for very specific instances).\n\nAirflow is a great addition if you need to orchestrate things along with dbt.  There's also cosmos which is an Airflow operator for dbt that takes your dbt DAG and integrates it into your Airflow DAG.  You can also just trigger your dbt cloud job/runner from Airflow via API as well.\n\nHowever, if all you care about is orchestrating your transformations (separate of ingestion) then dbt is a great solution.\n\nI would argue in your situation Snowflake would be better for your use case as you could just provide the data to them via a share instead of having to do write back.  Less compute, networking, and faster data availability for your consumers.  That being said, then you need an ingestion mechanism into Snowflake.  There's ways to do this via UDF with external networking or just use Lambdas/Glue/whatever (assuming AWS)",
+                          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxf3rod/",
+                          "created": 1711904061,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kxd76o0",
+          "score": 2,
+          "body": "Same. I prefer databricks but snow is great too.",
+          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxd76o0/",
+          "created": 1711867566,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "kxgd2k3",
+          "score": 1,
+          "body": "issue is that the using a data lake provided by big 3 GCP, aws, azure seems like a more straightforward approach. \n\nAs you get trapped whoever data lake solution you use so better to negotiate with one csp than to cross negotiate. \n\nSnowflake is not providing you anything useful that you can’t get from big 3",
+          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxgd2k3/",
+          "created": 1711920378,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "kxcoe09",
+      "score": 9,
+      "body": "Good, maybe my $21 290 call option will print lol",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxcoe09/",
+      "created": 1711856467,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxch14h",
+      "score": 34,
+      "body": "I’m not gonna lie, I’m not reading all that. I will say this though, keep me a 10ft dildo away from snow. My portfolio is still crippled from their earnings😭.",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxch14h/",
+      "created": 1711853065,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kxcila5",
+          "score": 15,
+          "body": "![img](emote|t5_2th52|31224)",
+          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxcila5/",
+          "created": 1711853768,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kxcjnrs",
+              "score": 11,
+              "body": "I wish I had the balls to, but sadly… like many of my fellow idiots, I’m down money in a bull market… I’ve been neutered.",
+              "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxcjnrs/",
+              "created": 1711854251,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "kxcsl1w",
+              "score": 3,
+              "body": "Hey there is nothing wrong with selling your balls. So long as it’s for gambling money.",
+              "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxcsl1w/",
+              "created": 1711858532,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kxcfzyh",
+      "score": 17,
+      "body": "Our AI tracks our most intelligent users. After parsing your posts, we have concluded that you are within the 5th percentile of all WSB users.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxcfzyh/",
+      "created": 1711852608,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kxcgywt",
+          "score": 30,
+          "body": "5th percentile of regards is still regarded.  ![img](emote|t5_2th52|33495)",
+          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxcgywt/",
+          "created": 1711853037,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kxcv61m",
+              "score": 18,
+              "body": "Haha. 5th percentile means you’re smarter than only 5 percent.",
+              "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxcv61m/",
+              "created": 1711859905,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "kxempfh",
+                  "score": 1,
+                  "body": "Invert, always invert.\n\n- Charlie Munger",
+                  "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxempfh/",
+                  "created": 1711897874,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kxcjq7g",
+      "score": 16,
+      "body": "No product out there is as good as snowflake and Databricks. Databricks seems to have machine learning capabilities built in early in the product because of the nature of spark open source… I think snowflake is playing catch up in this area but these two are the better than Amazon redshift or google big query built or acquired by the big guys.",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxcjq7g/",
+      "created": 1711854282,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxchv5g",
+      "score": 4,
+      "body": "Big wigs know the market as a whole is balanced on a razors edge. Taking some money off the table for the dust settles.",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxchv5g/",
+      "created": 1711853438,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxd1rlg",
+      "score": 4,
+      "body": "If tech continues to get leaner than companies like Snowflake will get squeezed out. I've always been bearish on them because while it seems to be a great platform it's an accessory for many companies and its functionality can be achieved by a few different platforms that could at any point out compete them. Essentially no moat in tech with customers having the ability to quickly change platforms means you're constantly battling to stay relevant.",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxd1rlg/",
+      "created": 1711863845,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kxfsmaf",
+          "score": 1,
+          "body": "Snowflake actually helps companies get leaner so I don't really know what you're talking about.",
+          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxfsmaf/",
+          "created": 1711912945,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "kxd3l7r",
+      "score": 4,
+      "body": "I work with snowflake everyday and it’s actually a really great product. My snowflake implementation \nprocesses billion of events a day solidly and with ease. I haven’t tried AWS Redshift or GCP big query but I’ve tried AWS Athena over large s3 datasets and it was difficult to use.\n\nOne of the advantages of AWS/GCP products is native integration within those cloud providers. Not only makes it easier for approving finance of the project but seamless integration with a company’s infrastructure and systems. However, snowflake was also very easy to integrate with different cloud providers (because I believe it’s actually built on AWS, azure, GCP).  Whoever built that part of snowflakes product knew what they were doing.",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxd3l7r/",
+      "created": 1711865043,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kxeey94",
+          "score": 3,
+          "body": "Do you approve the snowflake invoice each month?   That’s the challenge after a few months when you get that bill and you’ve blown two years budget because of storage and compute over runs",
+          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxeey94/",
+          "created": 1711894918,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kxf0dm1",
+              "score": 1,
+              "body": "Absolutely not that's someone else problem lmao",
+              "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxf0dm1/",
+              "created": 1711902849,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "kxfmgha",
+              "score": 1,
+              "body": "I do not approve the invoices but I’m very involved in cost management and forecasting. The cost we spend is not significant to our revenue (.015% of ~700M) but still a good chunk. Probably would be “cheaper” if we went with cloud native solutions but then we’d be managing 3 different use cases which costs more in labor. We have a very unique use case since our platform runs in 3 different cloud providers, and we also hook into a ton of different external systems.",
+              "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxfmgha/",
+              "created": 1711910721,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "kxfnbzb",
+              "score": 1,
+              "body": "Snowflake is easily compatible with other systems. Makes it easy for companies to adopt. Once adopted you are hooked in for the long haul. Sometimes it takes 1-2 years to fully integrate solutions utilizing snowflake as a data warehouse, so it’s not cheap to replatform.",
+              "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxfnbzb/",
+              "created": 1711911037,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kxdjj1f",
+      "score": 6,
+      "body": "It's a database with lots of competition. Netezza had a similar marketshare but was making money and ibm bought it for 1.7b. Snowflake has a similar market lose a billion a year and are valued at 50b. They would need to quadruple revenue and get a 30% profit margin I.e. quadruple revenue while only doubling costs to make this work. And the number of competitors are galore\n\n- oracle, IBM, teramaster sap hana the classics\n- big query, redshift and whatever Microsoft offers the cloud platforms\n- vertica databricks greenplum the direct competitors\n- hive the Hadoop system\n- presto kylin druid the open-source competitors \n\nAnd by and large its all sql so companies can switch without too much effort this is not 2005 when oracle got every company into using proprietary stored procedures and locked them in companies learned from that. And ai is laughable just because your data is in a companies warehouse doesn't mean they will use your ai tools and its not their core competency companies will use tools like spark, flink or one of the cloud ai platforms for that.\n\nSummary they may be a great product in a crowded borderline commodity area 50b is laughable once vc money runs dry",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxdjj1f/",
+      "created": 1711877215,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kxkr6uz",
+          "score": 1,
+          "body": "use some fucking commas (,) please i beg of you",
+          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxkr6uz/",
+          "created": 1711994358,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "kxchqln",
+      "score": 8,
+      "body": "Still below 200SMA.  Until it gets above, it's a dog",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxchqln/",
+      "created": 1711853382,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxcqfrn",
+      "score": 5,
+      "body": "If you have $50k to throw in for five years then you might make it big, but it’s still a gamble and at best it’s a long-term growth investment",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxcqfrn/",
+      "created": 1711857468,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxcyh3v",
+      "score": 4,
+      "body": "Again, buy longer fucking dated options.",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxcyh3v/",
+      "created": 1711861796,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxcsyjy",
+      "score": 5,
+      "body": "wtf do you mean accident 😂😂. They sold off because their growth is rapidly slowing. You better pray they sandbagged the rev growth number and it’ll go uppies.",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxcsyjy/",
+      "created": 1711858728,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxdoi1b",
+      "score": 2,
+      "body": "Time sink challenge complete.\n\nInitiate loss porn.",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxdoi1b/",
+      "created": 1711880998,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxe7tyd",
+      "score": 2,
+      "body": "That play is betting on a runup to earnings but doesnt even capture earnings lmfao. I looked at SNOW after the giant selloff and was selling puts 2 weeks ago for some premium but I wouldnt touch this yet unless its shares or LEAPS, 19x price/sales vs 2-5 for the rest of the competition. I get its poised for major major profits but I dont see it happening anytime soon, can get a better entry point.",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxe7tyd/",
+      "created": 1711891954,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxe8x1x",
+      "score": 2,
+      "body": "BB is better",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxe8x1x/",
+      "created": 1711892427,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxeutxt",
+      "score": 2,
+      "body": "I was looking at buying, this post made me re-think entry ![img](emote|t5_2th52|4271)",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxeutxt/",
+      "created": 1711900849,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxexrd9",
+      "score": 2,
+      "body": "Frank Slootman is one of the best tried & trusted silicon valley CEOs there is out there; he already did it with ServiceNow before and did it with Snowflake.  Analysts & Wall St love him and the new CEO (bit of a no-name at this time) will be guilty until proven capable - not that he is uncapable, but Frank is a legend in the valley.  \n\n\nPS - if you want more, read Frank Slootman's Amp It Up - great software ceo sales book on execution - he has been featured on many podcasts as well.  The guy has skills & conviction & led with intensity, hence SNOW's prior meteoric rise",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxexrd9/",
+      "created": 1711901909,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxckq9k",
+      "score": 3,
+      "body": "This is what I just read about SNOW:\n\nThe Chief Executive Officer purchased 31,542 shares at a price of $158.52, resulting in an investment of approximately $5.0 million.",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxckq9k/",
+      "created": 1711854738,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxcgupi",
+      "score": 2,
+      "body": "[deleted]",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxcgupi/",
+      "created": 1711852986,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kxch40u",
+          "score": 4,
+          "body": "He’s spamming it on all subs too.\n\nI’m personally concerned as a snowflake 4/12 call holder.",
+          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxch40u/",
+          "created": 1711853101,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kxcja7e",
+              "score": 6,
+              "body": "He’s not wrong…. Although I’m a fully regarded long snowflake holder",
+              "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxcja7e/",
+              "created": 1711854080,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "kxchk7h",
+              "score": 4,
+              "body": "All subs? You mean one other sub.",
+              "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxchk7h/",
+              "created": 1711853302,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kxct6bx",
+      "score": 1,
+      "body": "So many just looking for Oracle alternatives. I don't see any competitive advantage other than a race to the bottom in prices. AI/ML has less to do with rational databases and more to do with information in all forms.",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxct6bx/",
+      "created": 1711858840,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxctghc",
+      "score": 1,
+      "body": "Post like this will jinx it ?",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxctghc/",
+      "created": 1711858985,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxcylz9",
+      "score": 1,
+      "body": "I have shares and leaps on ❄️",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxcylz9/",
+      "created": 1711861877,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxd0kph",
+      "score": 1,
+      "body": "Ramasway is better than Slootman at selling enterprise software?  This is Ramasway’s first time having any enterprise software customers",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxd0kph/",
+      "created": 1711863082,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kxd1ysa",
+          "score": 0,
+          "body": "Google have enterprise products and he did work at Google on products that had enterprise customers.\n\nSo not exactly the first time, but first time as a CEO.",
+          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxd1ysa/",
+          "created": 1711863973,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kxd3btb",
+              "score": 2,
+              "body": "He led the search ads team, not GCP",
+              "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxd3btb/",
+              "created": 1711864867,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "kxd3gy6",
+                  "score": 2,
+                  "body": "And what makes you think search ads doesn’t have an enterprise platform for advertisers?",
+                  "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxd3gy6/",
+                  "created": 1711864962,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "kxfli0j",
+                      "score": 0,
+                      "body": "Couple reasons (note: based off my fairly superficial understanding of how search ads work):\n1. It’s a platform for buying ads, you don’t really need a sales team to lock in enterprise contracts and customer success teams to manage health of accounts.  Customers just go online and buy ads, and mostly on a pay-as-you-go basis.\n2. The product the customers are buying (impressions and clicks) is a commodity… It’s not something that requires getting feature requests and customer interviews to product manage.  Customers just care about advertising ROI (impressions —> clicks —> sales per dollar), and that’s the main driver of spend.\n\nI could be wrong.  Curious where you see the parallels between search ads and a enterprise database software in terms of sales and product management.",
+                      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxfli0j/",
+                      "created": 1711910375,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "kxhkarh",
+                          "score": 0,
+                          "body": "Companies spending millions of dollars on ads need an enterprise level platform for security, monitoring and measuring ad performance. \n\nAn individual displaying ad for his shopify store vs McDonald’s promoting their happy meals have way too different complexities and needs. \n\nThere are marketing budgets and marketers decide how much to spend on Google ads vs meta ads and so on…..and they do request features from time to time. \n\nwhy do you think Google have 30,000 staff in ad sales team?\n\nRunning multiple campaigns across a business unit which is spread across multiple locations promoting multiple products can be challenging and a consumer grade platform just can’t handle that.",
+                          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxhkarh/",
+                          "created": 1711937365,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kxd2dms",
+      "score": 1,
+      "body": "Usually when a popular CEO leave a company their henchmen follow. This seems to be the case with Snowflake based on the amount of job openings for senior level management since Sloot left.",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxd2dms/",
+      "created": 1711864242,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxd4h7f",
+      "score": 1,
+      "body": "Puts it is",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxd4h7f/",
+      "created": 1711865641,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxd516n",
+      "score": 1,
+      "body": "Gd op at least get them calls for the next er",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxd516n/",
+      "created": 1711866023,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxd51ac",
+      "score": 1,
+      "body": "RemindMe! 12 hours",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxd51ac/",
+      "created": 1711866025,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kxd54f9",
+          "score": 1,
+          "body": "I will be messaging you in 12 hours on [**2024-03-31 18:20:25 UTC**](http://www.wolframalpha.com/input/?i=2024-03-31%2018:20:25%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxd51ac/?context=3)\n\n[**CLICK THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Fwallstreetbets%2Fcomments%2F1brznws%2Fsnowflake_selloff_seems_like_a_temporary_accident%2Fkxd51ac%2F%5D%0A%0ARemindMe%21%202024-03-31%2018%3A20%3A25%20UTC) to send a PM to also be reminded and to reduce spam.\n\n^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%201brznws)\n\n*****\n\n|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|\n|-|-|-|-|",
+          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxd54f9/",
+          "created": 1711866085,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "kxd6mx4",
+      "score": 1,
+      "body": "Ah yes, classic pump. Nice repost from the regard earlier this week.",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxd6mx4/",
+      "created": 1711867166,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxd7rnl",
+      "score": 1,
+      "body": "When is next earninfs",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxd7rnl/",
+      "created": 1711867992,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxdfrbt",
+      "score": 1,
+      "body": "Your dd is all medium to long term but you bought short term calls ![img](emote|t5_2th52|4271)",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxdfrbt/",
+      "created": 1711874161,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxe0zq0",
+      "score": 1,
+      "body": "Yeah, already got some leaps.",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxe0zq0/",
+      "created": 1711888711,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxe32yq",
+      "score": 1,
+      "body": "4/19? Bruh you should at least wait for it to catch some support. Goodness all that work for nothing. Thanks for the dd I'll keep an eye on it.",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxe32yq/",
+      "created": 1711889757,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxe3n6s",
+      "score": 1,
+      "body": "Even if your thesis is correct, Market can stay irrational longer than you can stay solvent (4/19)",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxe3n6s/",
+      "created": 1711890027,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxeawje",
+      "score": 1,
+      "body": "Snowflake has no moat whatsoever. What does it do that other companies such as Google or Microsoft cannot do?",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxeawje/",
+      "created": 1711893272,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxei7zc",
+      "score": 1,
+      "body": "I too hold Snow from before their CEO fucked my year",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxei7zc/",
+      "created": 1711896179,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxexfez",
+      "score": 1,
+      "body": "!remindme 12 days",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxexfez/",
+      "created": 1711901789,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxexflk",
+      "score": 1,
+      "body": "No DD makes me feel more secure than those referencing twitter and other Reddit posts.",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxexflk/",
+      "created": 1711901791,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxf1r00",
+      "score": 1,
+      "body": "Strange I am going the other way here. Old ceo was very business driven giving share holders value. New guy not so much, I think this thing is still over valued my price target is $110",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxf1r00/",
+      "created": 1711903340,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxf8asw",
+      "score": 1,
+      "body": "I read Dairy Queen",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxf8asw/",
+      "created": 1711905669,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxfs3mk",
+      "score": 1,
+      "body": "I've been holding snow since about the beginning, fantastic company and fantastic product. Was actually already considering to sell. Now I'll have to increase my holdings and hold on to it a bit longer. \n\n\nBut I am fairly certain it will rebound within the year.",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxfs3mk/",
+      "created": 1711912756,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxfyxo5",
+      "score": 1,
+      "body": "Compare it to when Microsoft got its new and current CEO!",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxfyxo5/",
+      "created": 1711915249,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxg1f1k",
+      "score": 1,
+      "body": "$SNOW calls it is then",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxg1f1k/",
+      "created": 1711916155,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxg6erf",
+      "score": 1,
+      "body": "The fwd pe is 200. Fundamentally this is shit.",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxg6erf/",
+      "created": 1711917944,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxgiu7f",
+      "score": 1,
+      "body": "Remindme! 3 months",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxgiu7f/",
+      "created": 1711922545,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kxgiz6c",
+          "score": 1,
+          "body": "I will be messaging you in 3 months on [**2024-06-30 22:02:25 UTC**](http://www.wolframalpha.com/input/?i=2024-06-30%2022:02:25%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxgiu7f/?context=3)\n\n[**CLICK THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Fwallstreetbets%2Fcomments%2F1brznws%2Fsnowflake_selloff_seems_like_a_temporary_accident%2Fkxgiu7f%2F%5D%0A%0ARemindMe%21%202024-06-30%2022%3A02%3A25%20UTC) to send a PM to also be reminded and to reduce spam.\n\n^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%201brznws)\n\n*****\n\n|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|\n|-|-|-|-|",
+          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxgiz6c/",
+          "created": 1711922599,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "kxgs6q7",
+      "score": 1,
+      "body": "Unfortunately due to the calls I purchased, snowflake has also caused a temporary accident in my port.",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxgs6q7/",
+      "created": 1711926141,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxh042u",
+      "score": 1,
+      "body": "$170 by end of this week!",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxh042u/",
+      "created": 1711929207,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxh2oey",
+      "score": 1,
+      "body": "DD: 🤓\n\nexpiry date: 🥴",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxh2oey/",
+      "created": 1711930213,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxhk20i",
+      "score": 1,
+      "body": "Snowflake is also working on a direct competitor to Pinecone (company that sells vector database) which are absolutely critical for ML/AI capabilities. \n\nI’m very bullish on Snowflake with the onset of the AI economic boom",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxhk20i/",
+      "created": 1711937262,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxhkmdf",
+      "score": 1,
+      "body": "$54bn valuation with $2.8bn revenue, it’s way overvalued. Sorry but snowflake is not the money maker you think it is and this post is a pumper.",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxhkmdf/",
+      "created": 1711937504,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxhs8zz",
+      "score": 1,
+      "body": "This is gonna rip.\n\nCEO buying shares tells you everything you need to know.",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxhs8zz/",
+      "created": 1711940891,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxjkh3x",
+      "score": 1,
+      "body": "I do data for my job. Snowflake overcharges. Many companies have moved to custom codes + redshift during the tech downturn last two years. TBH that combo is as good as and significantly cheaper than snowflake.",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxjkh3x/",
+      "created": 1711979603,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxxsmki",
+      "score": 1,
+      "body": "Our AI tracks our most intelligent users. After parsing your posts, we have concluded that you are within the 5th percentile of all WSB users.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxxsmki/",
+      "created": 1712189255,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxycoku",
+      "score": 1,
+      "body": "Outrageous write up for calls a couple weeks out lol ",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxycoku/",
+      "created": 1712196978,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ky3z5fy",
+      "score": 1,
+      "body": "Our AI tracks our most intelligent users. After parsing your posts, we have concluded that you are within the 5th percentile of all WSB users.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/ky3z5fy/",
+      "created": 1712282241,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kz96x0r",
+      "score": 1,
+      "body": "How’d we do?",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kz96x0r/",
+      "created": 1712939419,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lb3hasm",
+      "score": 1,
+      "body": "Remindme! 3 months",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/lb3hasm/",
+      "created": 1719819653,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lb3hdds",
+          "score": 1,
+          "body": "I will be messaging you in 3 months on [**2024-10-01 07:40:53 UTC**](http://www.wolframalpha.com/input/?i=2024-10-01%2007:40:53%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/lb3hasm/?context=3)\n\n[**CLICK THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Fwallstreetbets%2Fcomments%2F1brznws%2Fsnowflake_selloff_seems_like_a_temporary_accident%2Flb3hasm%2F%5D%0A%0ARemindMe%21%202024-10-01%2007%3A40%3A53%20UTC) to send a PM to also be reminded and to reduce spam.\n\n^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%201brznws)\n\n*****\n\n|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|\n|-|-|-|-|",
+          "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/lb3hdds/",
+          "created": 1719819703,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "kxcizly",
+      "score": 0,
+      "body": "ANY IINVESTMENT IN SNOWFLAKE IS SPECULATION THUS US A PROFITLESS BUSINESS.",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxcizly/",
+      "created": 1711853949,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxch2be",
+      "score": 1,
+      "body": "Totally an accident lol. What the fuck is this market thinking??? /s",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxch2be/",
+      "created": 1711853080,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxcqsik",
+      "score": 1,
+      "body": "Loaded 175/180s like a crackhead all week.  Everyone in the data domain business is aware of Snowflake's past, but that's because they had a shit-for-brain CEO. I'm expecting it to jump out this week.",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxcqsik/",
+      "created": 1711857646,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxd65wb",
+      "score": 1,
+      "body": "Some dude bought $500k worth of stock and you consider that enough of a signal to follow?\nPsh, that could be anyone.\nthat's only like 100 more than what I can buy.\nI can basically be that dude",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxd65wb/",
+      "created": 1711866825,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxe90am",
+      "score": 1,
+      "body": "Snowflake is ungodly expensive and companies are moving away",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxe90am/",
+      "created": 1711892467,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxcxjer",
+      "score": -1,
+      "body": "New CEO (used to be CEO of the company they acquired) is a semi-god in tech circles, being one of the early engineers in Google search product. They will be one of the biggest AI boomers, also featured in the latest Nvidia keynote with praise from Jensen.",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxcxjer/",
+      "created": 1711861244,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxenpgn",
+      "score": -1,
+      "body": "I have no idea how Snowflake will do in the coming years. \n\nI have an idea that Palantir is the better company, and the better stock. \n\nThe only thing SNOW has on PLTR is around 20% higher institutional holdings. PLTR will catch up soon, being S&P inclusion eligible. \n\nSnowflakes SBC is off the charts. \n\nI guess good luck.",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxenpgn/",
+      "created": 1711898244,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxckby3",
+      "score": -6,
+      "body": "Ban",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxckby3/",
+      "created": 1711854556,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxcmbi6",
+      "score": -10,
+      "body": "Snowflake was always supposed to be lower than Pltr",
+      "permalink": "/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/kxcmbi6/",
+      "created": 1711855481,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

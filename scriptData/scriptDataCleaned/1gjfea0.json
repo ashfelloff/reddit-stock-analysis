@@ -1,0 +1,449 @@
+{
+  "title": "The Overlooked Risk in AI Stocks: It Has to Do With Data",
+  "score": 68,
+  "selftext": "Hi, everyone. I'm not formally trained in computer science or finance. I'm just someone who is passionate about the transformative potential of AI, financial markets and investing, among other topics.   \n  \nI've been working on an \"investment thesis\" of sorts (shown below) that involves a potential risk that seems to be somewhat overlooked in discussions about AI stocks. I am sharing it here in the hope that it might spark some interesting and fruitful conversation, particularly among those more experienced in the field of AI.  \n\n\n**The Overlooked Risk in AI Stocks:** While investors focus on the AI hardware race and GPU shortages, a more fundamental challenge looms: the growing scarcity of high-quality, diverse data for training advanced AI systems, particularly AGI. This overlooked bottleneck could significantly impact AI company valuations and the timeline for AGI development (if it can be achieved at all).  \n  \n**Current Market Narrative**  \n◾Investors fixate on computing power, driving up valuations of hardware-focused companies.  \n◾The prevailing logic: more GPUs equal more AI capability and value, which overlooks a critical flaw in the race towards AGI.  \n  \n**The Real Bottleneck**  \nAI performance, especially for AGI aspirations, hinges on three data factors:  \n◾ Quality: Accuracy and reliability  \n◾Quantity: Volume of useful examples  \n◾Diversity: Range of scenarios represented  \n  \nWhile data quantity grows exponentially, we face a 'data wall' - the supply of high-quality, novel, human-generated data becoming insufficient for advanced AI training and development. This poses critical risks:  \n◾Closed-loop AI content generation leading to digital entropy and degraded data quality/diversity  \n◾Amplification of biases and errors in AI outputs  \n◾Fundamental limitations on achieving true general intelligence  \n  \nEmerging AI techniques like few-shot learning offer potential ways to scale this data wall but may not fully address the complex data needs for AGI development. Notably, while synthetic data can augment datasets, it cannot replace the richness and variability of real-world data essential for true understanding.  \n  \n**Key Takeaways:**  \n◾ Data scarcity is a critical risk in AI investment.  \n◾ The \"data wall\" limits advancements in AI/AGI.  \n◾ Quality, Quantity, and Diversity of data are essential for AI performance.  \n◾ Emerging techniques may help but have limitations.  \n◾ Synthetic data cannot fully substitute for real-world data.\n\n**Overvaluation Risks**  \n◾ Companies valued primarily on computational capacity  \n◾ Firms lacking robust data acquisition strategies  \n◾ Businesses dependent on public/synthetic data  \n  \n**Hidden Opportunities**  \n◾ Companies with unique data access  \n◾ Firms innovating in data collection and curation  \n◾ Enterprises focused on diverse, high-quality datasets crucial for AGI  \n  \n**Regulatory Considerations**  \n◾ Evolving privacy regulations (GDPR, CCPA) create new challenges  \n◾ Data access restrictions limit large-scale dataset use  \n◾ Cross-border data flow regulations risk creating regional \"data silos\"  \n◾ Demands for algorithmic transparency necessitate diverse, well-documented training data  \n  \n**Investment Framework**  \n**Key Questions:**  \n◾ What’s their data sourcing strategy for advanced AI and potential AGI?  \n◾ Do they have unique high-quality data access?  \n◾ How sustainable is their data advantage in the AGI race?   \n◾ What if data becomes the primary constraint for AGI achievement?  \n  \n**Risk Indicators:**  \n◾ Over-reliance on public datasets  \n◾ Lack of proprietary data sources  \n◾ Limited data diversity for general intelligence tasks  \n◾ No clear data quality maintenance strategy  \n  \n**Portfolio Implications**  \n**Large Cap AI Stocks:**  \n◾ Reassess hardware-centric valuations  \n◾ Seek evidence of sustainable data advantages for AI development  \n◾ Consider data quality risk exposure in long-term AI/AGI strategies  \n  \n**Emerging Players:**  \n◾ Identify genuine data moat builders with AGI potential  \n◾ Seek innovative data acquisition approaches for general intelligence  \n◾ Prioritize quality and diversity over mere quantity  \n  \n**The Long View**  \n◾ The demand for high-quality data transcends economics, entering geopolitical realms  \n◾ \"Data wars\" may emerge as nations battle for data supremacy  \n◾ AGI achievement may prove more complex than current valuations suggest  \n  \n**Questions for Investors**  \n◾ How are you factoring data constraints into AI valuations, especially for companies pursuing AGI?  \n◾ What metrics evaluate a company's data advantages in the context of general intelligence development?  \n◾ How might data bottlenecks reshape the AI landscape and AGI timelines?\n\nI hope this perspective provides new insights into AI investment risks and opportunities, especially regarding the pursuit of AGI. I'm eager to hear others' thoughts on these potential market dynamics and data challenges in the journey towards general artificial intelligence. ",
+  "link_flair_text": null,
+  "id": "1gjfea0",
+  "num_comments": 49,
+  "created_utc": 1730730157,
+  "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/",
+  "comments": [
+    {
+      "id": "lvd2yur",
+      "score": 18,
+      "body": "Data is KING\n\nAI will make or break on the basis of data, curation of data, and structuring of databases. Any company with human generated data has a great moat for AI.\n\nPersonally, GOOGL, RDDT, META and AAPL are my favs for this. Either there will be massive lawsuits on AIs trained on YouTube videos (looking at you Sora), or it cannot be proven and we basically cracked the entire copyright system. \n\nI still believe there is a huge potential in pharma/biotech, but the problem around confidentiality etc. is hard. I assume that is why Xaira Therapeutics raised USD 1B and got top dogs from big pharma (who I assume can get some licensing deals done for getting all small molecule data from big corps).",
+      "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvd2yur/",
+      "created": 1730735291,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lvd8c15",
+          "score": 8,
+          "body": "\"Whoever controls the data, controls the world. Data is the ultimate differentiator.\"",
+          "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvd8c15/",
+          "created": 1730736940,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lvdrp7v",
+              "score": 9,
+              "body": "As a Data engineer, when I look in the mirror I see the engineer from prometheus 🤣",
+              "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvdrp7v/",
+              "created": 1730742671,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lvdugcj",
+                  "score": 5,
+                  "body": "Prometheus, as I understand it, represents foresight, so, your comment is fitting at multiple levels in this discussion!",
+                  "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvdugcj/",
+                  "created": 1730743467,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lvduskb",
+                      "score": 3,
+                      "body": "Haha",
+                      "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvduskb/",
+                      "created": 1730743566,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lvlce3q",
+              "score": 1,
+              "body": "The data must flow",
+              "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvlce3q/",
+              "created": 1730842262,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lvdmzdb",
+          "score": 5,
+          "body": "AI and bots already taint this site and everywhere else. Any given day there's bots posting and reposting the same links that make it to the front pages, and the same comments get posted across Reddit by bot accounts.",
+          "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvdmzdb/",
+          "created": 1730741295,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lve75y3",
+              "score": 0,
+              "body": "Agree that there are some issues but I think Reddit is impressively well moderated. I get all info from here, way less ‘bots’ than normal media where most content is AI written and repeats same information from Ritzau over and over agaim",
+              "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lve75y3/",
+              "created": 1730747179,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lvehzai",
+                  "score": 4,
+                  "body": "How you use Reddit hasn't changed by content aggregation and moderation to other sites.\n\nBut the value of Reddit data is the user generated content in comments to be sold and used for AI training, and targeting ads to users.\n\nI could be a bot. Or you could be a bot. How do we tell. How do customers buying RDDT's data tell the difference between genuine people or just LLM's botted AI slop.",
+                  "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvehzai/",
+                  "created": 1730750379,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lvht9p8",
+                      "score": 1,
+                      "body": "I think we can all agree that bots are fairly OK to identify (still). My bet is you are not a bot, you tell me.\n\nI agree that bots will be more prevalent and harder to if not impossible to distinguish from a human being. But at that point, doesn't the question really become - why would you care?\n\nIf I am asking someones opinion on a stock or sharing my own, I get human responses XYZ, and bot responses XYZ. If a bot presented to me relevant news and DCF in a format equivalent to a human, why would I bother? The information is equally valid and equally needs to be validated. Same as if a human wrote, yeah, pretty much anything in a post.",
+                      "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvht9p8/",
+                      "created": 1730796584,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lvi6xf4",
+                          "score": 1,
+                          "body": "Would really doubt people can identify as many bots that exist just through text. And that seriously wouldn't bother you that you could just be conversing with bots and not people? \n\n\nAll of those assumptions are from a neutral perspective. Maybe there's a sea of bots that have a set goal or intent. What if this sub was flooded with bots that pushed a bias of stock ABC instead of XYZ? Or have answers that weren't what people would normally give.\n\n\nMaybe people really like GOOG stock on this sub. Or maybe it's just a couple people with tens of hundreds of bot accounts and a chat gpt plug in.",
+                          "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvi6xf4/",
+                          "created": 1730805481,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lvia72r",
+                              "score": 1,
+                              "body": "I agree, but your getting 90% bot written text whenever you read a newspaper online. They will in your corporate email inbox, personal email, tailored ads on all your platforms, in TV, etc.\n\nMy point being that the problem is not isolated to here, and it is already extremely common that you are reading text generated from bots/AI.\n\nPersonally, of course I would prefer chatting with people, but this dystopian thought that all text will be taken over by bots and all posts/answers will be bots - I don't agree with. If it would become true here, it would become true everywhere - and no one would communicate with eachother anymore? Come on, that would entail an incredible mistrust among humans and basically make any communication between humans obsolete.\n\nSure Skynet could be a thing, we don't really know what is going on with AI, and we have zero idea on their level of understanding. It could very well lead to humans being the second most intelligent species on earth, and that could in fact be very dystopian. I 100% agree with this, but to me it has nothing to do with bots on Reddit tho.\n\nNot sure I follow the GOOG comment, I (non-bot) like Google because of they very broad set of technologies in development. Of course search engine drives most revenue, but mind you recent nobel prize winner David Baker won for a DeepMind/Google moonshot project, Alphafold, which not only is open source and free of charge, it broke the biological world wide open for AI/big data analysis to develop new drugs, diagnostics, etc. for real people in areas that were not possible before.  \nAll this on top of possibly the best place to find documentaries, reviews, entertainment which also is free to use - YouTube.  \nEven so it is packaged in a sub-25 P/E, and they are one of the main gate-keepers to the Internet, yes all of the internet is controlled by private corporations. Including in-house developed chipsets which may/may not start competing with e.g. nvidia (I personally bet on and hope that GOOGL and APPL will challenge NVDA dominance on chip market by using tjheir own chips for their own solutions).\n\nTL;DR bot summary above \\\\s",
+                              "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvia72r/",
+                              "created": 1730807246,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lvct5pq",
+      "score": 35,
+      "body": "> Companies with unique data access\n\nCompanies with unique ***human generated*** data access.\n\nWe are moving more and more towards as stale internet where lots of data is AI generated (i.e. not particularly useful for training purposes and devoid of any understanding of what the generated data represents). Just scouring the internet is going to be more of a hindrance than a boon to improving AI performance as it increasingly turns into 'navel gazing' and learning from inherently flawed data.\n\nOf course you can sidestep this investment quandary by focusing on those that don't do AI themselves but simply supply the hardware (either for processing power or for data acquisition).",
+      "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvct5pq/",
+      "created": 1730732208,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lvgo4r6",
+          "score": 2,
+          "body": "It's this kind of thinking that makes me wanna buy some reddit stock when it dips.",
+          "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvgo4r6/",
+          "created": 1730775917,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lvhutia",
+              "score": 4,
+              "body": "I dunno of reddit counts as 'quality' data.",
+              "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvhutia/",
+              "created": 1730797651,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lvcrcxd",
+      "score": 13,
+      "body": "I think you hit on a theme with training data integrity that I've been concerned about for software companies focused on \"AI\" for awhile. I think the software companies have a lot more hurdles long term than the hardware/infrastructure companies that are already showing concrete growth. This data challenge is also why I'm so bullish on Google long term- they have the best data collection and analysis processes in the world which is why they have been working on machine learning and AI for such a long time already. The issue they have is a secondary issue all of these companies will need to figure out after the more difficult data issue- which is monetization and marketshare capture strategy for AI. Microsoft is better positioned on that front but their proprietary training data isn't as good as Google's. This is all without going down the rabbit hole of the copyright and trademark legal risk that the software vendors could open themselves up to if they're used in enterprise.",
+      "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvcrcxd/",
+      "created": 1730731629,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lveadp0",
+      "score": 6,
+      "body": "Im in the process of signing up with outlier for some beer money, they contract people to write prompt replies, its minimum wage and they have opened it to multiple worlkdwide locations so looks like a massive workforce will be used to provide training data for AI LLM.",
+      "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lveadp0/",
+      "created": 1730748127,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lveb25g",
+          "score": 7,
+          "body": "Sounds slightly dystopian! Thank you for sharing, nonetheless.",
+          "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lveb25g/",
+          "created": 1730748329,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lvf6ttj",
+          "score": 1,
+          "body": "The parent company is called Scale AI, and yes it's quite powerful",
+          "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvf6ttj/",
+          "created": 1730757788,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lvdoxx1",
+      "score": 8,
+      "body": "Reason #9475 to be insanely bullish on Google:\n\nThey are not bottlenecked on neither compute nor data, as they have TPU as well as YouTube",
+      "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvdoxx1/",
+      "created": 1730741869,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lveeudw",
+          "score": 4,
+          "body": "And they know a thing or two about sorting through monumental amounts of that data since they've spent the last 20 years trying to \"organize the world's data.\"",
+          "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lveeudw/",
+          "created": 1730749456,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lvd3rtc",
+      "score": 5,
+      "body": ">the growing scarcity of high-quality, diverse data for training advanced AI systems, particularly AGI.\n\nwhere is this coming from?  These models are trained using the internet, the largest and most vast repository of human data the world has ever devised.  The amount of scrapeable information being uploaded daily is staggering.  I don't see how \"reliance on public datasets\" is a negative here provided it is used accurately.\n\n>No clear data quality maintenance strategy\n\nthis, however, I think is spot on and speaks to the data accuracy issue.  Google's AI implementation for Search is a great example.  I was googling curb weights of cars recently and it was providing objectively incorrect information, even while it's cited source did have the correct figures.  There seems to be no plan yet for ensuring the data used by these models is both accurate initially, and understood by the language model in order to relay good information.",
+      "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvd3rtc/",
+      "created": 1730735538,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lvdp89z",
+          "score": 3,
+          "body": "LLMs in general can’t be accurate and companies need to stop building products that assume they will be.  It’s baked into the invention itself — hallucinating is a feature not a bug",
+          "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvdp89z/",
+          "created": 1730741953,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lvdge6v",
+          "score": 4,
+          "body": "I listen to some investors and VC guys talk about AI, they commonly say that current models are always trained on most/all public data already. OPs point on data being a limiting factor is already being discussed in some circles. \n\nFor instance one idea that is being tried is using model generated data to for training of other models.\n\nAlso the example you gave about Google search is not a data issue but a hallucination issue. Even with accurate contextual information (think RAG) LLMs still hallucinate.",
+          "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvdge6v/",
+          "created": 1730739382,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lvd9xxi",
+          "score": 2,
+          "body": "While the internet does provide a staggering amount of data, not all of it is of high quality or sufficiently diverse for training advanced AI systems, especially when striving for AGI. Relying on public datasets can lead to significant issues, particularly as we move towards a \"stale internet,\" where much of the generated content lacks depth and understanding.\n\nAs you've pointed out with Google's AI Search implementation, even when accurate sources are available, the information relayed can still be incorrect. This underscores the importance of not just quantity, but also the rigorous curation of data to ensure that what we train on is both accurate and meaningful.",
+          "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvd9xxi/",
+          "created": 1730737444,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lvgvazp",
+      "score": 2,
+      "body": "I'll name an interesting underdog in this space: Thomson Reuters. They have a war chest of legal research tools, buying up AI competition (Casetext, Pagero, Imagen), Reuters News for news, Clear and tax auditing products.\n\nI think they have have the data needed for AI development in the professional space.  They're quite heavily invested in the AI part now too and have the data to back it.",
+      "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvgvazp/",
+      "created": 1730778550,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lvopw1j",
+      "score": 2,
+      "body": "AI will eventually advance to use realtime data and become hyper specialized.",
+      "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvopw1j/",
+      "created": 1730889852,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lvdaeqy",
+      "score": 3,
+      "body": "In genral yes, but for specific applications like coding, it's going to keep getting better.\n\nPools of high quality data are all you need, and there are plenty of data to tap.",
+      "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvdaeqy/",
+      "created": 1730737590,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lvdirq6",
+      "score": 4,
+      "body": "The evolution of chess AI exemplifies the shift from “fast thinking” to “slow thinking,” emphasizing deliberate reasoning. Initially, chess engines were trained on extensive databases of human-played games, enabling them to outperform human players. \n\nHowever, contemporary chess AI, such as AlphaZero, has advanced by employing reinforcement learning techniques. These systems train by playing numerous games against themselves, optimizing their strategies based on reward functions rather than relying solely on human game data. This approach allows AI to develop novel strategies and achieve superhuman performance.\n\nPeople are aware of the limitations of supervised learning, reinforcement learning is the future. Data is important, but simultaneously less important than you think. It’s about developing new “strategies” to solve a problem, rather than relying on the problem existing in the dataset. That is what is meant by “emerging properties”. o1 was trained on chain of thoughts, but not cot specified by humans, it’s cot that itself developed through its reward functions — that is the paradigm.",
+      "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvdirq6/",
+      "created": 1730740079,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lvdph7r",
+          "score": 3,
+          "body": "[removed]",
+          "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvdph7r/",
+          "created": 1730742026,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lvdq22u",
+              "score": 3,
+              "body": "[removed]",
+              "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvdq22u/",
+              "created": 1730742195,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lvfzhl9",
+          "score": 3,
+          "body": "Chess is a closed system that gives instant and unambiguous results.  Novel problems looking for novel solutions can't be attacked in the same way.  I think that's where \"AI\" hits its biggest wall.",
+          "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvfzhl9/",
+          "created": 1730767291,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lvechxd",
+      "score": 1,
+      "body": "YAHOO FINANCE Update as of 2:26 p.m. EST, Bolt Metals Corp. ($BOLT.CN)",
+      "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvechxd/",
+      "created": 1730748757,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lvecjp7",
+          "score": 0,
+          "body": "As of 2:26 p.m. EST, Bolt Metals Corp. ($BOLT.CN) is trading at 0.5300 CAD, up 0.0300 CAD (6.00%) from the previous close. The stock has a 52-week range between 0.2800 and 0.5500 CAD",
+          "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvecjp7/",
+          "created": 1730748772,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lvfezga",
+      "score": 1,
+      "body": "RDDT investment thesis",
+      "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvfezga/",
+      "created": 1730760411,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lvfl15u",
+      "score": 1,
+      "body": "It's fine, just add CAPTCHAS and find out who is human /S",
+      "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvfl15u/",
+      "created": 1730762397,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lvfuswf",
+      "score": 2,
+      "body": "> \"Data wars\" may emerge as nations battle for data supremacy\n\nThis is already a thing.  It is just not as flashy as real war, and only failures get known about.  Edward Snowden made it all very visible for a short time.  \n\nI think the reason AI hardware is getting all the noise right now, is because it is new, fast changing, and requirement.  Data, dataharvesting, data retention, has been around for a long time.  How that data gets interpreted to generate new data is the key.  \n\nRegarding integrity, one thing I learned recently is the big AI neural networks don't care as much about errors, they want their system to adapt to their errors.  So in the case of a hardware failure, they rather keep the network going with an acceptable downaged, as opposed to reset/resync with 100% accuracy (like service providers).  \n\nMy perspective is only a few people/companies really understand AI, and there's a lot to really flush out, and fix.  NVIDIA/GOOGLE/META.  I personally don't think Microsoft or Apple is close to the AI side of things. Microsoft has identified people who are making large strides (openai) and apple typically 2nd adopters to have a much more clean experience.   Everyone else needs to have another revenue avenue to be worthy of investment.  There will be other winners and places to make big gains.  But they are much more risky.  And there's a lot of companies on the speculation wave of AI.",
+      "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvfuswf/",
+      "created": 1730765679,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lvcufjf",
+      "score": 1,
+      "body": "I think the need for data will change as we develop better models. \n\nWhen you consider the fact that it makes many orders of magnitude more data to get an LLM to the same spot that’s even close to human performance, it strikes me as an optimization problem, not a data problem.",
+      "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvcufjf/",
+      "created": 1730732614,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lvcw89o",
+          "score": 3,
+          "body": "You make a good point about data needs evolving as more advanced models are developed.   \n  \nWhile I agree that optimization will play a significant role in enhancing AI performance, I believe that the quality and diversity of data will remain crucial.  \n  \nEven with better models, high-quality, diverse datasets are essential for training AI systems that can generalize effectively across various tasks.   \n  \nThe challenge isn't just about having more data; it's about having the right kind of data that reflects real-world complexities.",
+          "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvcw89o/",
+          "created": 1730733184,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lvd4xs5",
+              "score": 4,
+              "body": "I feel like I am engaging with a ChatGPT conversation, but whatever:\n\nThe point about optimization also applies to current data sets. We don’t need to wait for untold terabytes of new data if we can also create datasets from existing data with better curation. \n\nYes, data scarcity may be an issue for LLMs as we have known them for the last couple years, but I think that will soften as models and datasets evolve.",
+              "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvd4xs5/",
+              "created": 1730735890,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lvd8691",
+                  "score": 0,
+                  "body": "Your senses were correct! I used AI to help format my notes, so you were probably detecting that in my original post.",
+                  "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvd8691/",
+                  "created": 1730736892,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lvdfkqy",
+              "score": 3,
+              "body": "> The challenge isn't just about having more data; it's about having the right kind of data that reflects real-world complexities.\n\nI think there are implicit biases in your thinking here that the \"right kind of data\" is human data, that human data is good data, and that we have hit a soft threshold on good human data, so AI won't continue to improve, as it has continued to improve thus far. If all of these postulates are true, then your thesis is right. I would argue that there is no evidence that any of these are true. \n\nOpen AI did an interesting AMA a few days ago, and your post reminded me of [this question about hallunications](https://old.reddit.com/r/ChatGPT/comments/1ggixzy/ama_with_openais_sam_altman_kevin_weil_srinivas/luq6uch/?context=3). The open AI SVP responded:\n\n>We're putting a lot of focus on decreasing hallucinations, but it's a fundamentally hard problem - our models learn from human-written text, and humans sometimes confidently declare things they aren't sure about.\n\n>Our models are improving at citing, which grounds their answers in trusted sources, and we also believe that RL will help with hallucinations as well - when we can programmatically check whether models hallucinate, we can reward it for not doing so.\n\nI agree with them that human data is not good data. I know that when I am wrong, I am confidently wrong until someone points out why I'm wrong. \n\nIf high-quality data isn't human data, the GPUs, algorithms, and reinforcement learning are still the solution to improving model performance. For example, a recent paper pointed out that LLM math performance benchmarks are polluted by human data, and that when you replace the names or numbers in story problems, the models will give wrong answers based on the original names and numbers. This paper didn't analyze o1-preview, which implicitly adopts the \"think step-by-step\" prompt that is essential for getting AI to correctly solve a complex math or programing programming model. The other way to solve it is by brute forcing training on each story problem, and replace any name with hundreds of thousands of names and any number by hundreds of thousands of numbers, until the LLM begins to internalize the logic. But, right now, if you ask an LLM to give you a 1-shot answer to a random story problem that is highly similar to a story problem on the Internet, there is a good chance it give you the wrong answer, which is the right answer to the story problem posted on the Internet. Note that even with reduced performance, the AI solutions to mutated story problems are still right most of the time, and perform far better than your average college student, and they are still getting better over time. \n\nAlso, all mathematical proofs can be reduced to strings of numbers, Goedel numbering, and you can generate infinite synthetic data from that using GPUs, and then train using GPUs. Math problems can be reduced to lists and solved via a set of list operations (this is what Mathematica does), and you can generate infinite completely accurate synthetic data from that. Note that it is computationally simpler to train the transformers on this synthetic data than it is to generate the actually accurate synthetic data, also pointing to the need for GPUs and ASICs to improve AI. \n\nAnother criticism is that AI doesn't understand the real world when it is trained only on text input. Multimodal AI is starting to come out, mostly trained on videos, but making it better will require a lot of compute. Awhile ago, based on the resolution of human vision, I read that 4-year-old has transmitted more information in their optical nerves than the entire text corpus of the Internet. Right now, there are no LLM-based robots with human-resolution vision that have explored the world for four years, but there will be. Getting vision right requires compute.\n\nAlso, it's a completely accurate statement that someday AI-related cloud demand will saturate and that cloud margins will go down, demand for GPUs and ASICs will go down, and associated stocks will crash if they have high multiples. However, the fact that a technology adoption curve presents itself over time doesn't mean that it is rigorously mathematical or has predictive value. It was proposed by a sociologist decades ago, it's not an algorithm you can use to long or short stocks. All high-growth stocks with high PE and revenue multiples are risky investments, but all stocks huge price appreciation experienced it with high multiples through most of the run-up. \n\nFinally, since the early nineties, people have pointed out what AI can't do right now, and confidently assert that this points to a fundamental limit of what AI can't do that humans can do. So far, every time people have asserted that current limits are global limits to AI, they have been really wrong. \n\nPosition disclosures: current large stakes in NVDA, TSM, and AVGO, smaller stakes in GOOG, MSFT, QCOM. I won't hold large and risky exposures forever, but nothing in the earnings reports this quarter has me concerned, with 20-35% hyperscaler cloud growth and optimistic 2025 demand forecasts. A GPU doesn't have to pay for itself the year you buy it (when ramping spend, it doesn't make sense to highlight that this year's spend exceeds this year's revenue), it only has to pay for itself over 8-10 years, to get an ROI that exceeds treasury and typical S&P 500 returns. I will sell when billionaires and hyperscalers give up on AGI and start cutting spend, which will almost certainly be after the top. Also, even with the technology adoption curve as gospel, the first peak followed by a multi-year crash usually isn't the all-time peak.",
+              "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvdfkqy/",
+              "created": 1730739143,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lvdogbt",
+                  "score": 1,
+                  "body": "Thanks for such a thorough response! You raised a number of good points for further questioning and consideration.  \n  \nFirst, if we define \"inherently good data\" as, say, data that is inherently accurate, relevant, complete, consistent, timely, bias-free and structured, well, does such a thing even exist? I think not. But as a human being, I can't separate myself from the problem! lol If anything, perhaps we can say that the relative \"goodness\" of data is context-dependent.  \n  \nSo, yes, with the above in mind, I agree that human data is not \"inherently good\" data. Human inputs can indeed be flawed --for instance, we hallucinate, too-- leading to confidently incorrect outputs from AI models. This is echoed in the OpenAI AMA you mentioned, where the challenge of hallucinations was clearly articulated.   \n  \nWhile synthetic data can augment training efforts, I believe that it can never fully replace human-generated data. Again, although the latter can be flawed, it often contains the nuances and complexities of real-world experiences that synthetic data may lack. \n\nThe potential of multimodal AI is exciting, and it underscores the importance of compute power in achieving human-like understanding and perception. As you pointed out, the vast amount of information processed by a four-year-old’s visual system far exceeds that of current AI models. Achieving a similar depth of understanding will require substantial advances in computational capabilities, but also a nuanced understanding of the real-world context that synthetic data alone cannot capture.",
+                  "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvdogbt/",
+                  "created": 1730741725,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lvht4g9",
+                      "score": 1,
+                      "body": "How does AI grade data ?  ahhhh",
+                      "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvht4g9/",
+                      "created": 1730796483,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lvdxhfh",
+      "score": -2,
+      "body": "Actually I know a way that a company could easily get around that problem, but I'd never mention it, unless I had the attention of the industry. Then I'd give it to everyone.",
+      "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvdxhfh/",
+      "created": 1730744354,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lvly1bp",
+          "score": 1,
+          "body": "Ya ok bro",
+          "permalink": "/r/stocks/comments/1gjfea0/the_overlooked_risk_in_ai_stocks_it_has_to_do/lvly1bp/",
+          "created": 1730848953,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

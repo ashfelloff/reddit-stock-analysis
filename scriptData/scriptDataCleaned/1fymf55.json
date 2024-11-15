@@ -1,0 +1,243 @@
+{
+  "title": "Why dont stock charts show true returns (with dividends?)",
+  "score": 63,
+  "selftext": "Am I crazy or just uneducated - but why in the world dont all stock charts (google finance, yahoo, bloomberg, TV, newspapers, etc) show TRUE returns on investments - including dividends?\n\nWouldnt charts that show growth with dividends be a lot more useful for the reader?\n\nFor example, if you look from 1/1/2010 to now..  \nSPY with dividends invested return: 13.66%  \nSPY without dividends invested return: 12.46%\n\nCVX (Chevron) is 7.1% vs 8.6% (thats 21% different!!)\n\nThe whole point is to see how much your money would have grown if you had invested it - and not including dividends makes you miss out on quite a bit of the full story!\n\nNot just that - it makes stocks that give dividends appear less attractive on the charts when you are comparing to other stocks.\n\nAre there websites / resources that show stock returns with dividends reinvested? I feel like I would be picking a lot more stocks with dividends that could be hidden gems as their actual return is far higher than would appear at a glance on traditional charts!!!",
+  "link_flair_text": "Industry Question",
+  "id": "1fymf55",
+  "num_comments": 27,
+  "created_utc": 1728345239,
+  "permalink": "/r/stocks/comments/1fymf55/why_dont_stock_charts_show_true_returns_with/",
+  "comments": [
+    {
+      "id": "lqv9np0",
+      "score": 88,
+      "body": "There’s plenty of total return calculators that will do this for any stock. But no it’s not useful for day to day stock charts. I want to know what price I can buy Apple stock at today. Not what arbitrary price it would be for someone who bought it 40 years ago and reinvested every dividend",
+      "permalink": "/r/stocks/comments/1fymf55/why_dont_stock_charts_show_true_returns_with/lqv9np0/",
+      "created": 1728348522,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lqz5abg",
+          "score": 1,
+          "body": "Besides, should the calculator assume dividend reinvestment? dividend invested in money market? Or dividend staying as cash?",
+          "permalink": "/r/stocks/comments/1fymf55/why_dont_stock_charts_show_true_returns_with/lqz5abg/",
+          "created": 1728411273,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lqv7al6",
+      "score": 45,
+      "body": "Here you go:\nhttps://totalrealreturns.com/s/CVX",
+      "permalink": "/r/stocks/comments/1fymf55/why_dont_stock_charts_show_true_returns_with/lqv7al6/",
+      "created": 1728347672,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lqv6udm",
+      "score": 12,
+      "body": "Some do. Try it here:\n\nhttps://www.barchart.com/stocks/quotes/BAC/interactive-chart/fullscreen\n\nGo to Settings. Under Scale select \"% Value\" and under Events click \"Dividends Back Adjust\".\n\nYou have to use the percentage return over a particular time period to see the effect because if you select the price scale then it's what you get: the price. And the price is not a rate of return, it's what the stock is traded at. Dividends are independent from that trading price, so it's not so informative to combine them.",
+      "permalink": "/r/stocks/comments/1fymf55/why_dont_stock_charts_show_true_returns_with/lqv6udm/",
+      "created": 1728347511,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lqych4l",
+      "score": 5,
+      "body": "why would dividend reinvestment be considered the default? I don’t like reinvesting dividends personally so for someone like me this would just be misleading.",
+      "permalink": "/r/stocks/comments/1fymf55/why_dont_stock_charts_show_true_returns_with/lqych4l/",
+      "created": 1728401875,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lr5by0r",
+          "score": 3,
+          "body": "to have a fair comparison between stocks that pay dividend and those that don't",
+          "permalink": "/r/stocks/comments/1fymf55/why_dont_stock_charts_show_true_returns_with/lr5by0r/",
+          "created": 1728505738,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lqzcbgb",
+      "score": 4,
+      "body": "You're not crazy or uneducated, a bit overzealous though. \n\nPersonally, I have no reason to know that info from 20 years ago. It's not going to determine any of my investing patterns tomorrow. \n\nOther tidbits are that what if you bought when the div was high, bought when it was low, or some company stopped for 4 years then restarted giving divs? There are too many factors to correlate.",
+      "permalink": "/r/stocks/comments/1fymf55/why_dont_stock_charts_show_true_returns_with/lqzcbgb/",
+      "created": 1728413629,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lqv4qyz",
+      "score": 4,
+      "body": "I agree about the usefulness.",
+      "permalink": "/r/stocks/comments/1fymf55/why_dont_stock_charts_show_true_returns_with/lqv4qyz/",
+      "created": 1728346739,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lqvbg5v",
+      "score": 2,
+      "body": "Shhhh because they don't want supplies running out before loading up on more!!😉",
+      "permalink": "/r/stocks/comments/1fymf55/why_dont_stock_charts_show_true_returns_with/lqvbg5v/",
+      "created": 1728349164,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lqxddde",
+      "score": 2,
+      "body": "Because the total return with dividend reinvested is entirely dependent on when you bought it. \n\nAlso dividend reinvestment buys more shares which if that share is denominated in reinvested returns it would be a self referential loop that wouldn’t actually make any sense.",
+      "permalink": "/r/stocks/comments/1fymf55/why_dont_stock_charts_show_true_returns_with/lqxddde/",
+      "created": 1728388936,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lqvelcr",
+      "score": 2,
+      "body": "Now add inflation adjusted returns to the mix !",
+      "permalink": "/r/stocks/comments/1fymf55/why_dont_stock_charts_show_true_returns_with/lqvelcr/",
+      "created": 1728350322,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lqvr17n",
+          "score": 8,
+          "body": "That would be depressing. ",
+          "permalink": "/r/stocks/comments/1fymf55/why_dont_stock_charts_show_true_returns_with/lqvr17n/",
+          "created": 1728355058,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lqxqibn",
+      "score": 1,
+      "body": "Total return with dividend reinvestment is  more applicable if the investment is in a tax advantaged account.  Otherwise, you would be paying tax each time a dividend is earned, so amount you would reinvest would be less than dividend received.\nI think Total Return doesn't take into consideration tax payments?  Let me know if you guys disagree.",
+      "permalink": "/r/stocks/comments/1fymf55/why_dont_stock_charts_show_true_returns_with/lqxqibn/",
+      "created": 1728394395,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lqxsxh1",
+          "score": -1,
+          "body": "True but those taxes aren't paid from the investment account, right? You just pay as normal come tax season.\n\nEDIT: Thanks for the replies! Leaving my comment up for educational purposes.",
+          "permalink": "/r/stocks/comments/1fymf55/why_dont_stock_charts_show_true_returns_with/lqxsxh1/",
+          "created": 1728395296,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lqz26b1",
+              "score": 3,
+              "body": "Sure but they have to be paid. If you make $4 but have to pay $1 when taxes are due, do you book that as a $4 gain or $3?",
+              "permalink": "/r/stocks/comments/1fymf55/why_dont_stock_charts_show_true_returns_with/lqz26b1/",
+              "created": 1728410239,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lr49zwg",
+              "score": 2,
+              "body": "To add to ambitious economics reply, the tax payments have to come from somewhere. If you elect to reinvest the full $4 dividend payment, then you will have to sell something else to pay the tax?  You can say, that i will pay the tax from my money market holdings, but then you are still poorer by the tax paid as well as any interest income or gains that money paid out, would have earned in futue. Bottome line, tax payments for non tax advantaged account matter economically.  This is why they created all these tax advantaged retirement accounts.",
+              "permalink": "/r/stocks/comments/1fymf55/why_dont_stock_charts_show_true_returns_with/lr49zwg/",
+              "created": 1728493639,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lqy5rbr",
+      "score": 1,
+      "body": "You can look at \"total return\" on Seeking Alpha and Koyfin. These are the two I use",
+      "permalink": "/r/stocks/comments/1fymf55/why_dont_stock_charts_show_true_returns_with/lqy5rbr/",
+      "created": 1728399682,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lqzvml0",
+      "score": 1,
+      "body": "This has always bothered me in every app. Why do I care that my cost basis is higher (other than tax purposes) if I just reinvested distributions?! All I care about is how much money that security made me.",
+      "permalink": "/r/stocks/comments/1fymf55/why_dont_stock_charts_show_true_returns_with/lqzvml0/",
+      "created": 1728420096,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lqvcuj5",
+      "score": 1,
+      "body": "Love this post. I've been asking the same question but wasn't able to bc i don't have enough comment karma.",
+      "permalink": "/r/stocks/comments/1fymf55/why_dont_stock_charts_show_true_returns_with/lqvcuj5/",
+      "created": 1728349676,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lqv7tn4",
+      "score": 1,
+      "body": "Suppose your chart shows returns including dividend. How are you going to match with the price to sales, price to earning metrics? Your whole chart wouldn’t align with the metrics.",
+      "permalink": "/r/stocks/comments/1fymf55/why_dont_stock_charts_show_true_returns_with/lqv7tn4/",
+      "created": 1728347863,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lqv2rpx",
+      "score": 0,
+      "body": "Commenting to return to later. I can see why it isn't standard but it's certainly useful.",
+      "permalink": "/r/stocks/comments/1fymf55/why_dont_stock_charts_show_true_returns_with/lqv2rpx/",
+      "created": 1728345992,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lqw0nvp",
+      "score": 0,
+      "body": "You're lucky if the charts actually show accurate information. Especially with statistics. General price trends and action usually or accurate but not always. Verify everything, you'll most likely find flaws in actual things like dividend yield or compounded return or something like that. I find mistakes with free online information frequently",
+      "permalink": "/r/stocks/comments/1fymf55/why_dont_stock_charts_show_true_returns_with/lqw0nvp/",
+      "created": 1728359180,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lqvkefv",
+      "score": -2,
+      "body": "Short answer it’s ’baked in’ the stock price is short all dividends paid. Slightly longer answer 1 is income, the other is capital gains",
+      "permalink": "/r/stocks/comments/1fymf55/why_dont_stock_charts_show_true_returns_with/lqvkefv/",
+      "created": 1728352505,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lqv33dj",
+      "score": -7,
+      "body": "Dividends are just sucked out of the value of the stock. ",
+      "permalink": "/r/stocks/comments/1fymf55/why_dont_stock_charts_show_true_returns_with/lqv33dj/",
+      "created": 1728346117,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lqv75g8",
+          "score": 6,
+          "body": "They're still added to the total gain over time. ",
+          "permalink": "/r/stocks/comments/1fymf55/why_dont_stock_charts_show_true_returns_with/lqv75g8/",
+          "created": 1728347621,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

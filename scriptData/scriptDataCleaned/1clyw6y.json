@@ -1,0 +1,670 @@
+{
+  "title": "AAPL up & NVDA down afterhours - Apple building new AI chips for datacenters",
+  "score": 150,
+  "selftext": "Looks like Apple is planning some big announcements for WWDC 24 around AI chips and getting into datacenters ([source](https://www.macrumors.com/2024/05/06/apple-building-m2-ultra-and-m4-servers/)). Markets already reacting after hours. Nothing special here since all the big tech & cloud providers will make their own AI chips, funny that NVDA fell some points.",
+  "link_flair_text": "News",
+  "id": "1clyw6y",
+  "num_comments": 67,
+  "created_utc": 1715042287,
+  "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/",
+  "comments": [
+    {
+      "id": "l2wuarr",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 5 | **First Seen In WSB** | 4 years ago\n**Total Comments** | 288 | **Previous Best DD** | \n**Account Age** | 4 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2wuarr/",
+      "created": 1715042291,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2wycr3",
+      "score": 104,
+      "body": "Last time Apple tried building rackable servers for datacenters, they crashed into the wall not realizing 99% of the server market didn't want to run OSX, and the ones that did had no need for a rack full of apple servers.  \n\nI hope they learned something for this go around.",
+      "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2wycr3/",
+      "created": 1715043963,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l2xerqi",
+          "score": 78,
+          "body": "https://preview.redd.it/psckslww5xyc1.jpeg?width=680&format=pjpg&auto=webp&s=302c19c4d7b0ed98afcc27992e9d442a0d8095e0",
+          "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2xerqi/",
+          "created": 1715050583,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l2ysmhx",
+              "score": 23,
+              "body": "God, I miss this show",
+              "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2ysmhx/",
+              "created": 1715081977,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l2x59e9",
+          "score": 24,
+          "body": "But, A. I.",
+          "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2x59e9/",
+          "created": 1715046739,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l2yzaw8",
+          "score": 6,
+          "body": "I’m finally able to remove and dispose of the apple rack servers in our data center from 20+ years ago. They have been off for 18 years. They are total shit. But man did Apple go hard on the luxury design. The heatsinks are like a brick of copper and so much pure aluminum used",
+          "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2yzaw8/",
+          "created": 1715085238,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l2yzif0",
+              "score": 2,
+              "body": "They really were pretty inside 😭",
+              "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2yzif0/",
+              "created": 1715085332,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l2xq5vc",
+          "score": 13,
+          "body": "The thing about ML is this is not a generic server it is an appliance device.    \n\nApple would not be shipping it with macOS they would ship it with a cut down Darwin hypervisor host.   The goal is not to run macOS the goal is to run *MLX* workloads, the cpu that manages these would not be within the server it would be over a network in some other intel or AMD server that is managing 100s of these.",
+          "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2xq5vc/",
+          "created": 1715056037,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l300x8w",
+          "score": 2,
+          "body": "They're building these AI servers for themselves.",
+          "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l300x8w/",
+          "created": 1715099346,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l301f80",
+              "score": 3,
+              "body": "I love how you went from a rumor that they might be working on something to arguing specifically what their strategy is.\n\nThe only thing we know for sure is that they're ordering chips and server hardware for manufacturing. Nothing more.",
+              "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l301f80/",
+              "created": 1715099520,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l303ezf",
+                  "score": 2,
+                  "body": "Yes I'm extrapolating based on past actions, I seriously doubt they'll care to try and sell this on the market. Their models will already have been optimized for the same architecture that's running on local devices. If they can build something themselves and save money, they will.",
+                  "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l303ezf/",
+                  "created": 1715100222,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l2ynxaw",
+          "score": 1,
+          "body": "Apple could be the only customer using these servers and this would still be great for them.  Tesla, meta, and Google just made multi billion dollar orders for Nvidia chips.  \n\nApple’s chips are also likely to be many many times more power efficient if they base the technology on their current designs.  Apple started from phones, Nvidia started from graphics cards. \n \nPower is then limiting factor in a data center, not money.",
+          "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2ynxaw/",
+          "created": 1715079359,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l2ythzd",
+              "score": -2,
+              "body": "Phone power is a battery engineering problem. Datacenter power is not; it is literally a money problem. The power is there, the only hurdle to drawing it is money.",
+              "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2ythzd/",
+              "created": 1715082421,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l2yu8sp",
+                  "score": 5,
+                  "body": "[this](https://www.datacenterdynamics.com/en/opinions/space-and-power-whats-really-limiting-data-center-capacity/) is a lazy google for proof,  yet I’m not wrong.  I’ve managed over a million servers.  If we could have paid for more rack space we would have.  In every DC we had a very finite power limit.  \n\nEven data center locations focus on where will offer the most power.  At some point the choice is powering local homes or the DC.  Why else are we in the middle of nowhere running fiber?\n\nThere is a reason Altman wants to move into nuclear for AI.  Problems at scale are not the problems of small companies",
+                  "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2yu8sp/",
+                  "created": 1715082799,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l2yvfii",
+                      "score": -1,
+                      "body": ">this is a lazy google for proof,  yet I’m not wrong.  I’ve managed over a million servers.\n\nDid they run on batteries? No? Then why are you talking about cell phone engineering?\n\nThe M2 (and eventually M4) are already designed for efficiency. Beyond that, there is no similarities with smartphone architecture.\n\nAlso you sound like this\n\nhttps://preview.redd.it/94dgtfr1wzyc1.jpeg?width=748&format=pjpg&auto=webp&s=24a502669c1e1d6a731f839661ea1b780f376798",
+                      "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2yvfii/",
+                      "created": 1715083391,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l2yporm",
+          "score": 1,
+          "body": "Xserve was an externally facing product for other people to buy, I don't think this is. Just like every cloud vendor of scale i.e Microsoft, Google etc started making their own chips to diversify off of Nvidia, Apple is too, it'll be used mostly for server side inferencing and training. \n \nThey're still all going to be buying a lot of Nvidia training chips lest they fall behind and CUDA has huge existing ML libraries and is where a lot of the science is happening, but they all want to make their own chips as both a bargaining chip and a hedge against Nvidia margins.",
+          "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2yporm/",
+          "created": 1715080391,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l2wz9gv",
+          "score": -18,
+          "body": "They think they can corner the tech bros bc they have cornered all the karens.",
+          "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2wz9gv/",
+          "created": 1715044328,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l2x27qi",
+              "score": 9,
+              "body": "wut",
+              "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2x27qi/",
+              "created": 1715045501,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l2x5jug",
+      "score": 40,
+      "body": "Apple goggles?![img](emote|t5_2th52|4259). Apple car??![img](emote|t5_2th52|4259). Apple AI???![img](emote|t5_2th52|31225)",
+      "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2x5jug/",
+      "created": 1715046856,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2x06ls",
+      "score": 30,
+      "body": "Great cause you know.. designing, prototyping, testing, manufacturing, research is easy and all. They got this.",
+      "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2x06ls/",
+      "created": 1715044699,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l2xmzsr",
+          "score": 15,
+          "body": "To be fair, Apple announced they were making the M1 Nov 2020 and today in 2024 the M3 has comparable/better performance to top of the line INTC and AMD processors…",
+          "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2xmzsr/",
+          "created": 1715054374,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l2xnq57",
+              "score": -12,
+              "body": "Not according to Linus Tech Tips",
+              "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2xnq57/",
+              "created": 1715054752,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l2y9flk",
+                  "score": 15,
+                  "body": "Linus tech tips💀😭",
+                  "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2y9flk/",
+                  "created": 1715069114,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l2ys69q",
+                  "score": 2,
+                  "body": "I tried searching and it appears most his complaints were Apple comparing M series to only the Apple version of Intel chips. Which were super bad but weren’t industry leading for similar tdp chips.\n\nPer watt the M series is pretty insane compared to the x86 counterparts. To the point that similar ARM chips are quickly taking over the datacenter. ",
+                  "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2ys69q/",
+                  "created": 1715081741,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l2ys72z",
+                      "score": 2,
+                      "body": "How the mighty have fallen, another victim of the ARM revolution.",
+                      "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2ys72z/",
+                      "created": 1715081753,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "l2xnybw",
+                  "score": 0,
+                  "body": "Got a link?",
+                  "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2xnybw/",
+                  "created": 1715054870,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l2z161l",
+          "score": 1,
+          "body": "Like Tim just fucked the bag on stock buybacks to stabilize the stock instead of going all-in ai like zuck. We know your priorities Tim",
+          "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2z161l/",
+          "created": 1715086076,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l2x99ok",
+      "score": 29,
+      "body": "NVDA was up like 40 fucking dollars today.",
+      "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2x99ok/",
+      "created": 1715048329,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l2xr7st",
+          "score": 6,
+          "body": "I know! If I had waited 1 day to sell, I'd be up over 1k today :cry:",
+          "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2xr7st/",
+          "created": 1715056605,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l2yuv6a",
+              "score": 1,
+              "body": "Came back down over night...  This 24 hour market is a nightmare",
+              "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2yuv6a/",
+              "created": 1715083106,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l2wxa23",
+      "score": 18,
+      "body": "That’s incredible! Apple $245 calls. Let’s go!\n\nI’ll hang my hat on that $110 billion buyback all day long.",
+      "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2wxa23/",
+      "created": 1715043520,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l2xq6b8",
+          "score": 3,
+          "body": "I'm loaded up with AAPL calls and shares.  Back the truck up!",
+          "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2xq6b8/",
+          "created": 1715056043,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l2y2cnb",
+              "score": 1,
+              "body": "I’m getting back in line. Back the truck up SpongeBob.",
+              "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2y2cnb/",
+              "created": 1715063711,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l2zs9i1",
+          "score": 1,
+          "body": "How is aapl planning to buback 110B they don’t have that much in bank?",
+          "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2zs9i1/",
+          "created": 1715096304,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l304ao7",
+              "score": 2,
+              "body": "So add up cash + cash equivalents plus $110 billion of cash per year generated. Easy. They can do $110 billion buyback while paying a dividend and might end the year with another $100 billion in cash left over",
+              "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l304ao7/",
+              "created": 1715100529,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l2x8gyp",
+      "score": 29,
+      "body": "All AAPL cynicism aside, I have tens of thousands of family photos and videos sitting in Apple’s servers. I can see how they could leverage AI to generate movies from my life, sort through photos, recount stories, make photo books. There is no way I am ever going to move that stuff or edit it.",
+      "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2x8gyp/",
+      "created": 1715048009,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l2xcaxi",
+          "score": 28,
+          "body": "You mean what Google already does and Apple said we won't cos of privacy",
+          "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2xcaxi/",
+          "created": 1715049559,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l2xby86",
+          "score": 14,
+          "body": "Them servers do not belong to Apple 😬",
+          "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2xby86/",
+          "created": 1715049411,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l2xxquc",
+              "score": 1,
+              "body": "Some do.",
+              "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2xxquc/",
+              "created": 1715060552,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l2y8mdt",
+                  "score": 3,
+                  "body": "[deleted]",
+                  "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2y8mdt/",
+                  "created": 1715068462,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l34z5z7",
+                      "score": 1,
+                      "body": "Please tell me about how Apple runs infrastructure, I have no idea how it works.\n\n(I literally ran a huge percentage Apple's server for ~7 years until I left in January)",
+                      "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l34z5z7/",
+                      "created": 1715179970,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l34zdec",
+                          "score": 1,
+                          "body": "[deleted]",
+                          "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l34zdec/",
+                          "created": 1715180042,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "l2ynoqh",
+                      "score": 0,
+                      "body": "nothing enterprise relevant is on gcp as a general rule",
+                      "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2ynoqh/",
+                      "created": 1715079217,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l2yz7pl",
+          "score": 2,
+          "body": "![img](emote|t5_2th52|4271)",
+          "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2yz7pl/",
+          "created": 1715085197,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l2xqeid",
+      "score": 6,
+      "body": "AAPL is building AI servers for internal use and won't be reselling them to competitors.",
+      "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2xqeid/",
+      "created": 1715056167,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2ypuwn",
+      "score": 5,
+      "body": "Apple's wheelhouse is high margin consumer goods. Data-centers are a race to the bottom and largely b2b.\n\nThey have their internal cloud services and maybe they'll deploy these there to improve their services but I don't see them renting out access to raw compute/storage the way AWS, GCP, Azure do.\n\nHow much this will hurt Nvidia depends entirely on how much apple buys from Nvidia, my guess is not that much, at least when compared to the other tech giants.",
+      "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2ypuwn/",
+      "created": 1715080486,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2x77mm",
+      "score": 5,
+      "body": "Remember….Apple answer to the wheel. \n\nhttps://www.apple.com/us-edu/shop/product/MX572ZM/A/apple-mac-pro-wheels-kit",
+      "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2x77mm/",
+      "created": 1715047529,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l2xuc2k",
+          "score": 3,
+          "body": "I am in complete disbelief that apple charges $630 for 4 wheels.",
+          "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2xuc2k/",
+          "created": 1715058408,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l2y50ld",
+          "score": 1,
+          "body": "🤑",
+          "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2y50ld/",
+          "created": 1715065673,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l2xbl0n",
+          "score": 1,
+          "body": "This shit makes the wheel look like a good deal:  [Apple Mac Pro Feet Kit - Education - Apple](https://www.apple.com/us-edu/shop/product/MXNM2ZM/A/apple-mac-pro-feet-kit)",
+          "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2xbl0n/",
+          "created": 1715049259,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l2x480g",
+      "score": 5,
+      "body": "Just like the apple car?",
+      "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2x480g/",
+      "created": 1715046313,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2xq1ss",
+      "score": 3,
+      "body": "They can’t even replace Qualcomm chips .. now they tried to replace nvidia chips?![img](emote|t5_2th52|4271)",
+      "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2xq1ss/",
+      "created": 1715055976,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l2yio2l",
+          "score": 1,
+          "body": "They already put a neural engine in your iPhone.",
+          "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2yio2l/",
+          "created": 1715075908,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l2xd6dk",
+      "score": 2,
+      "body": "Throw 110 billion at it, if you can't figure it out for that much then idk",
+      "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2xd6dk/",
+      "created": 1715049911,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2xrgio",
+      "score": 2,
+      "body": "I have no doubt that Apple can build a good chip but I'm skeptical if they can compete with Nvidia, which seem to be years ahead of everyone in development. Despite that, I'm sure the perception of this will boost stock. Who cares if reality pans out.",
+      "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2xrgio/",
+      "created": 1715056742,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l2xw5xw",
+          "score": 4,
+          "body": "They don’t need to compete with nvda they need to not be dependent on nvda. This is a supply chain move and a smart one.\n\nThey’re building a chip that they can use in their data centers for their own requirements. They don’t need to sell it, it will save costs long term. I bet they’re building in India reducing their reliance on china. \n\nI’m bullish.",
+          "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2xw5xw/",
+          "created": 1715059540,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l2y4boz",
+              "score": -2,
+              "body": "Ah, so just like how East Germany wasn't dependent on corrupt and decadent capitalist countries because they had the Trabant.",
+              "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2y4boz/",
+              "created": 1715065153,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l2yvn50",
+      "score": 1,
+      "body": "Not a huge fan of this move for Apple",
+      "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2yvn50/",
+      "created": 1715083496,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2zxmmu",
+      "score": 1,
+      "body": "I’ll believe it when I see it, as of late, Apple has been over promising and under delivering. And ever since jobs passing innovation is almost non existent…. Cook is not the one, someone else needs to take over…",
+      "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2zxmmu/",
+      "created": 1715098181,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l300ucr",
+      "score": 1,
+      "body": "Was already priced in. Apple was never going to buy anything from Nvidia.",
+      "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l300ucr/",
+      "created": 1715099319,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l31sro6",
+      "score": 1,
+      "body": "Good move by Apple, and they have the hardware design chops to pull it off.",
+      "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l31sro6/",
+      "created": 1715121831,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2y9f8n",
+      "score": 1,
+      "body": "Apple uses Google to host iCloud",
+      "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2y9f8n/",
+      "created": 1715069106,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2xmo10",
+      "score": -4,
+      "body": "[deleted]",
+      "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2xmo10/",
+      "created": 1715054210,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l2yg5f5",
+          "score": 3,
+          "body": "Lol conveniently ignoring that they are a market leader in like multiples other categories, including wearables.\n\nTyping this on a MacBook lmao. \n\n\n\nWhat is the difference between Mac and Samsung right now?",
+          "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2yg5f5/",
+          "created": 1715074023,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l2ydnzz",
+          "score": 1,
+          "body": "IBM maybe coming back soon",
+          "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2ydnzz/",
+          "created": 1715072079,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l2z8ira",
+          "score": 1,
+          "body": "At your peril",
+          "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2z8ira/",
+          "created": 1715089133,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l2xwes9",
+          "score": -1,
+          "body": "This ain’t a bad take tbh.   It’s being masked by Wall Street loving the sweet divs and buy backs.    I still love the iPhone though and will pay top dollar for it.  In Tim Apple we trust 🙌",
+          "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2xwes9/",
+          "created": 1715059695,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l2wz2c3",
+      "score": 2,
+      "body": "Apple is just throwing things and seeing what sticks huh. First EV then Meta Quest and now AI.",
+      "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2wz2c3/",
+      "created": 1715044248,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2x0zzx",
+      "score": -1,
+      "body": "Just so everyone knows, designing the chip is step1 out of a very VERY long qualification process",
+      "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2x0zzx/",
+      "created": 1715045011,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2x3xaz",
+      "score": -3,
+      "body": "Will their venture into chips work as well as their venture into electric cars?",
+      "permalink": "/r/wallstreetbets/comments/1clyw6y/aapl_up_nvda_down_afterhours_apple_building_new/l2x3xaz/",
+      "created": 1715046192,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

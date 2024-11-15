@@ -1,0 +1,493 @@
+{
+  "title": "GOOG - Bull Case - Custom TPU leading to successful AI products",
+  "score": 54,
+  "selftext": "I've been experimenting text based GPT from OpenAI's ChatGPT to Google Bard to now Gemini AI.\n\nSince late '22 when the world was caught in attention on the magic of ChatGPT, people have been flocking to buy the next best accelerator cards (Nvidia), hoping they can be the next one to come out with the killer app - that ambitious goal to reach AGI first.\n\nIt's only up until very recently that I was made known that Gemini AI is entirely trained on Google custom TPU. I read a little about it (I found that TPU discussion is very little over here) and found that in the earlier days since Alexnet deep learning approach back to 2012.\n\nPrevious generalized computing (thank you Intel Xeon) tries to cope with big data workload. Accelerators were found to be particularly efficient in those machine learning workload. Early exploration by Google on designing custom TPU for themselves so they can have more flexibility catering to specific workloads. This decision alone turns out to be very valuable in today's Gen AI era.\n\nWith recent news from Apple that they have been training their AI models with Google's TPU, also the performance of Gemini AI to be on par with industry leading ChatGPT (heard that Antropic's Sonnet is even better - but Gemini is really good enough for my daily use).\n\nThese observations make strong statements to the Gen AI community, i.e.,  you can bypass Nvidia and still perform adequately well (even supercede for some reports) in your AI product offering.\n\nThe fact that Google does not hoard all its computing power to its own Gemini training, and the ability to extend its compute to customers like AAPL speak volume on the native TPU effectiveness.\n\nCost and time wise, Google is the prime candidate in AI era as TPU helps smoothen out the training cost. With ads revenue fueling the AI training (heard that OpenAI now needs more money), and superior TPU working natively, I'm of the opinion that Google will create a lot of value many years from now.",
+  "link_flair_text": "Company Discussion",
+  "id": "1es01n4",
+  "num_comments": 49,
+  "created_utc": 1723637688,
+  "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/",
+  "comments": [
+    {
+      "id": "li3g325",
+      "score": 35,
+      "body": "Google won’t pump till my $200 9/20 calls expire worthless currently 90% down.",
+      "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/li3g325/",
+      "created": 1723652656,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "li3uyqp",
+          "score": 3,
+          "body": "This how I feel, except I have 180 1/16/26. Down a decent amount. Hopefully you recover soon.",
+          "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/li3uyqp/",
+          "created": 1723657299,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "liazi5o",
+              "score": 2,
+              "body": "You are in a much better place lol, barring something insane happening Google should more or less hit/exceed $180 by Jan 2026.\n\n  \nWhat was your cost for that? Naked or covered?",
+              "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/liazi5o/",
+              "created": 1723756684,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "libbsmf",
+                  "score": 3,
+                  "body": "I purchased close to all time high so it was around 35-3800$ since then I have averaged down and now it’s 3 contracts. My average is 2500. Currently down 2700$. \n\nIt’s why I always buy a minimum of a year and a half out. Give myself some time. Anything under a year seems way short.",
+                  "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/libbsmf/",
+                  "created": 1723760824,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "liu4a45",
+          "score": 1,
+          "body": "Won't even get close to 200 by 9/20... Because I have 195s for the same day",
+          "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/liu4a45/",
+          "created": 1724049241,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lmeqzh9",
+              "score": 1,
+              "body": "Shit. I’ll buy 190 to be safe",
+              "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/lmeqzh9/",
+              "created": 1725957236,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "li5v9un",
+      "score": 7,
+      "body": "This is why Google is now #3 in terms of datacenter chip design and will be #2 before the end of the year.\n\nhttps://blog.svc.techinsights.com/wp-content/uploads/2024/05/DCC-2405-806_Figure2.png",
+      "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/li5v9un/",
+      "created": 1723681225,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "li335su",
+      "score": 20,
+      "body": "People forget that this whole craze started with Google inventing transformer architecture. The only thing nvidia has that’s a bottle neck on the industry is cuda. The only thing holding people back is that a lot of ml engineers and data scientists working on ai are script kiddies / mat labbers when it comes to programming. Make the software layer an ez swap and the whole industry opens up to other accelerators. Oh look coding Ai is about to make full repo refactors a 1 shot prompt process. You’re right, the nvidia bubble will pop and spread out to amd / Google / Broadcom / new start up’s focused on chip architecture. It will happen sooner than people think.",
+      "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/li335su/",
+      "created": 1723648559,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "li37y8n",
+          "score": 6,
+          "body": "I don’t think that if the only chance to succeed is that the leader has to fail is a great investment thesis.\n\nThese companies should all have their own story and Google quite clearly has their focus on their search business and cloud.",
+          "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/li37y8n/",
+          "created": 1723650077,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "li3ikti",
+              "score": 8,
+              "body": "Google does have their own story though? Look at the developments of AI over the last decade. Look at what compute platform most training happens on. Kubernetes which is basically an open source project derived from BORG (googles revolutionary internal orchestration platform) that Google led to put in everyone’s hands with players like IBM helping get it off the ground. I’m not trying to simp, the whole ai hype is being blinded by hype around a small set of companies that are standing on the shoulders of giants.",
+              "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/li3ikti/",
+              "created": 1723653447,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "li3r8os",
+                  "score": 1,
+                  "body": "But how did a company that has been apparently working on these things for more than a decade turn into a company that is seen as a lagging? Why did they just implement AI into search after the whole OpenAI hype making them look as if they are playing catch up? Nevermind the missteps they had.\n\nI don’t know the products you named but do they generate revenue?",
+                  "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/li3r8os/",
+                  "created": 1723656147,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "li3w3t8",
+                      "score": 5,
+                      "body": "Innovator's dilemma ? \n\nWhy would Google want to be the first to put out AI results when : it's more expensive to generate those results AND less amenable to showing advertisements.\n\nBut yeah, they could have led with that in their Cloud division.",
+                      "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/li3w3t8/",
+                      "created": 1723657648,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "li5swol",
+                          "score": 7,
+                          "body": "Risk, guardrails, ethics. OpenAI had nothing to lose if it said ‘hitler is Jesus’ on twitter, they are open source and researching! Google does that to kick off the llms in the public stage?  Stock loses 10% overnight and congress eyes them. That’s just one short justification but I’m eating chili and don’t feel like typing :)",
+                          "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/li5swol/",
+                          "created": 1723680362,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "li3a7fb",
+          "score": 9,
+          "body": "I read that AMD is working to make CUDA applications run seamlessly (without modifications) on their HIP/ROCm stack. The incentives for them to break CUDA's dominance are certainly there.",
+          "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/li3a7fb/",
+          "created": 1723650787,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "li9mmb9",
+              "score": 3,
+              "body": "bruh, we ai engineers dont deploy models on RTX or GTX devices. We deploy them on on-prem/huge GPUs in the clouds that are dominated by NVIDIA -- V100, A10G, etc. AMD doesn't even have a presence on that at all. It's not just CUDA too. The ML frameworks such as Tensorflow, Pytorch, and JAX have to create entire codes to communicate with non-CUDA applications similar to how they do it with Apple Silicon using MPS.\n\nNVIDIA's moat is ridiculously difficult to overcome. Moreover, TPUs are Google products which means you have to  run youyr code on Google Cloud instead of having versatility using available NVIDIA GPUs on Amazon, Azure (Microsoft), Google, etc.",
+              "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/li9mmb9/",
+              "created": 1723741239,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "li3pobv",
+              "score": -3,
+              "body": "LOL",
+              "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/li3pobv/",
+              "created": 1723655664,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "li9r6pi",
+          "score": 3,
+          "body": "except it's much more complicated than that? NVIDIA's moat is both CUDA and hardware but there are other indirect moats -- for example, ML frameworks integration with CUDA is strong (Pytorch, Tensorflow, JAX) and open source models such as ONNX and ONNXRuntime are sort of heavily influenced by Microsoft. It's not as simple as creating an \"ez software layer\" when Sagemaker and Vertex AI have been around for quite some time now. Besides, CUDA and cuDNN is not even in the software layer. First, they have to be able to create an incredibly efficient chip for both training and inference, second a CUDA-equivalent, third to steer ML frameworks to force it to adopt a new non-CUDA architecture, fourth is to force researchers and developers to develop new models catered to the new hardwares alongside all dependencies, etc. People who hasn't trained complex models or created them or deployed them are so uninformed about how tightly integrated NVIDIA is to everything.\n\nTech moats are a different kind of moat. Integrations are one strong thing in tech. And NVIDIA's moat is just incredibly complex. Companies that serve AI products will have to redesign their huge pipeline, re-do bunch of their codes, retrain some models, etc. when a new non-CUDA thing and non-NVIDIA hardware happens. This is incredibly expensive for sometimes such a little gain. \n\nEdit: added more",
+          "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/li9r6pi/",
+          "created": 1723742671,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lid7spu",
+              "score": 1,
+              "body": "Thank you. It is rare to see an actual AI engineer answer questions in here. I appreciate it. May I ask:\n\n* Given your understanding of Nvidia's moat, how much would you allocate your investments between Nvidia, AMD, and Google? \n\n*  How long do you think Nvidia will hold on to the majority of the market? How bullish are you on this stock?",
+              "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/lid7spu/",
+              "created": 1723789635,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lidartu",
+                  "score": 3,
+                  "body": "Not an FI, and I am a long term investor but only on things I understand that's why my portfolio is like 60% ETFs and about 30% individual tech stocks since I have spare money and I'm fine with high risks.\n\nI dont hold any of AMD and Google just because I am still incredibly confused as to what their goals are. Personally I dont think Google will outpace NVIDIA and they are two different companies. Google is software and Nvidia is hardware + CUDA (which isnt really a replicable software). Google's direct competitor is Microsoft and somehow META. I just think that Google's software side is incredibly replicable and that the shift from perspectives that their sales are gonna go from ads to AI will have a tough time. On the software end, I got Microsoft or even META. META just because Gen AI tools is going to be extremely connected to their biggest shtick which is content creator platforms, and the fact that META, IMHO, has the best AI research team. FAIR has been producing the best AI papers for the past years most esp in computer vision. People dont know that things such as Magic Eraser, Magic Lasso Tool root itself from META's Segment Anything which is the most ground breaking thing in Computer Vision alongside Diffusion Models. Microsoft too have strong integrations with software from Teams to MS Office suite and Windows. Most underrated is Github and Github Copilot. They literally \"own\" a shit ton of \"free code\" to train LLM models.\n\nFor AMD, I am not so well versed on their products. They wont be able to compete with NVIDIA some time in the future. Honestly, if I were them, I would just try to completely dunk on the sinking ship that is Intel and fabricate CPUs that tightly integrate with NVIDIA GPUs on cloud clusters (i do have a local AMD Ryzen laptop with RTX i use for local small training of models). Current virtual machines right now still have Intel + NVIDIA GPUs (e.g. V100, A10G). If AMD will just focus on beating Intel instead of NVDA, they could just win the AI race alongside them. If NVIDIA gets tired of Intel's bullshit, I can see them fabricating their own CPUs.\n\nNVIDIA will still be the strongest contender by a mile for atleast 5-7 years. I can't see anyone coming closely to rivaling their moat until then. Even if a war breaks out in Taiwan and new chips halt in production for some time, the remaining functioning data centers can still function IMO. One company that I suggest worth looking at is definitely Qualcomm. They are trying to enter the desktop space and making the edge device (phones, etc.) much beefier to have its own Neural Processing Unit that are capable to run multimodal models. As phones get better in that, they have less need to access cloud servers which in turn means less need for GPU servers (NVIDIA). Although Qualcomm's direct competitor at that space is Apple which is gonna do the same.\n\nI am not an FI, but as an AI engineer, I am bullish on NVIDIA. I would definitely think that it is quite overhyped by people right now because it has been an AI arms race and every one is trying to race which AI product will be the first to profit. The purchasing will slow down. However, believe it or not, we are just scratching the surface for what AI can do. Diffusion models are just only around for about 3 years, LLMs for 2.5 years, and we havent reached those breakthroughs to the \"traditional\" AI real money makers yet such as detection and reinforcement learning but I have a feeling that it will come out sooner.\n\nBut the thing is that comparing it to crypto is crazy because AI has business use cases and profitable as long as it has the proper market. NVIDIA is just creating more data centers to keep up with the cloud service demands from AWS, Azure, etc. but even if the demand gets low, they can always sell the access to services for cheap and still get money from it.\n\nBut who knows, that's the free market for you.",
+                  "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/lidartu/",
+                  "created": 1723791472,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lidfrdv",
+                      "score": 2,
+                      "body": "Wow thank you. I've been on Reddit for like 18 years and this is among the top 5 responses I've gotten to an investment question. I really appreciate this thoughtful answer. \n\nI'm surprised to learn that Meta has the best AI research team. There's a lot of people out there doubting Meta's vision for AI. Good to know from an expert like you that they are a strong contender.\n\nI hope you post more in this subreddit, we can all benefit a lot from your insights.",
+                      "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/lidfrdv/",
+                      "created": 1723794739,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lj88qsx",
+                          "score": 1,
+                          "body": "> Meta's vision for AI\n\nI too have doubts with the MetaVerse thing. But it's the Yahoo-Google scenario where you lose more by not investing to something that booms rather than investing and gaining nothing. META's AI strategy is in fact weird. But the open source AI community has shown that open-sourcing models such as META's own LLM as well as Segment-Anything have better benefits to some extent. \n\nMETA's FAIR have been producing papers such as Segment-Anything, DINO, video understanding, etc. They have Yann Lecun who's one of the godfathers of AI. Imagine a model that parses the image you uploaded and understands the skirt you are wearing, the bag you are carrying, the place you are in, the kind of coffee you are drinking, the style of dress you have, etc. This is groundbreaking in terms of advertising. They already have models that can do that. Whether they are already implementing it in the background, I do not know. They also have really great papers on 2D-to-3D reconstruction which can be ridiculously good for MetaVerse.",
+                          "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/lj88qsx/",
+                          "created": 1724256040,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lj978cv",
+                              "score": 1,
+                              "body": "> Imagine a model that parses the image you uploaded and understands the skirt you are wearing, the bag you are carrying, the place you are in, the kind of coffee you are drinking, the style of dress you have, etc. This is groundbreaking in terms of advertising. \n\nI'm very interested in this, since my company does some facebook advertising. This would indeed be a game changer. Are they close to getting this right? Thank you for the extensive and thoughtful comment.",
+                              "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/lj978cv/",
+                              "created": 1724266655,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "ljd0mtl",
+                                  "score": 2,
+                                  "body": "Atleast the models already exists for both scene understanding and image parsing. Whether they have been already using it in the background, I do not know. Haha!",
+                                  "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/ljd0mtl/",
+                                  "created": 1724325899,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "li3e9af",
+          "score": 2,
+          "body": "[deleted]",
+          "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/li3e9af/",
+          "created": 1723652076,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "li3j5f8",
+              "score": 1,
+              "body": "That’s why CSPs and modern data center companies exist",
+              "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/li3j5f8/",
+              "created": 1723653627,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "li4bkwv",
+      "score": 3,
+      "body": "I knew about this months ago and have been accumulating as much GOOGL as I can afford.",
+      "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/li4bkwv/",
+      "created": 1723662486,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "li6o17v",
+          "score": 1,
+          "body": "i am what people called a typical google fan, but to my own shame i only knew about the existence of TPU like a month ago. I always have thought that killer app stuff like ChatGPT / Google Bard can only be efficiently and exclusively trained on Nvidia's accelerators.",
+          "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/li6o17v/",
+          "created": 1723692527,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "li5wuwm",
+      "score": 3,
+      "body": "The issue with TPUs from a companies perspective is you have to use Google stack. Yes that is similar for GPUs and Nvidia but the difference is every cloud provider sells Nvidia and only Google has TPU. It also requires you to use training languages that are TPU compatible which for now are purely built and maintained by Google. \n\nI doubt many companies would be willing to choose TPUs over a Nivida GPU but right now a TPU might be the only thing available for a company to get their hands on. Time will tell if they have real sticking power beyond internal Google.",
+      "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/li5wuwm/",
+      "created": 1723681811,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "li6npat",
+          "score": 1,
+          "body": "Native TPU is good for Google themselves. My view on it changed when AAPL announces they have been training their AI models with TPU, and also Anthropic AI. It does create some impressions that the software /native barrier is not too hard to cross.\n\nIs it cheaper to run AI models with TPU? Google appears to suggests so. Customers can choose between TPU or Nvidia's GPU. Since AI training is a long term game, every cost saving measure will help. TPU does shine from a cost perspective.",
+          "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/li6npat/",
+          "created": 1723692379,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "li9n3e7",
+              "score": 2,
+              "body": "TPU is only available in Google Cloud. Which means you have to constraint yourself using GCP services versus being able to use others like Amazon and Azure. Moreover, NVIDIA is now working on building more efficient GPUs that can take on TPUs (which are actually a pain in the ass to use when training models based on personal experience)",
+              "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/li9n3e7/",
+              "created": 1723741390,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "li34fcb",
+      "score": 10,
+      "body": "This only works if Google doesn’t get broken up…",
+      "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/li34fcb/",
+      "created": 1723648961,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "li3cs7l",
+          "score": 22,
+          "body": "I highly doubt Google gets broken up, if they do Amazon, Apple, MSFT will be targeted too.\n\nAll of them are monopolies in their own space.",
+          "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/li3cs7l/",
+          "created": 1723651602,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "li42013",
+              "score": 0,
+              "body": "as they should be",
+              "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/li42013/",
+              "created": 1723659491,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "li5yefs",
+      "score": 3,
+      "body": "I'm a long term investor in Google, but I'm suspicious that this whole thing is a lot of expense and no revenue. Google makes its money from ads. And if no one scrolls past the AI response at the top of the page, Google loses the revenue they have now. What's worse, generating that blurb at the top of the page is costing many times what the regular search results were costing. I'm holding for now, because I suspect all this is going to blow over as a fad, but if they're going to keep spending in this direction, they need to show some income stream.",
+      "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/li5yefs/",
+      "created": 1723682378,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "li6memh",
+          "score": 2,
+          "body": "I too share the same concern. I'm more to the financial viability of OpenAI (since rumors had pointed to its needing more cash, again). Not surprising because how can we expect those $20 monthly subscriptions to fund those billions of Nvidia's chip, and to procure it year after year just to get enough compute to edge out other competitors like Gemini and Sonnet.",
+          "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/li6memh/",
+          "created": 1723691811,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lj897kn",
+              "score": 1,
+              "body": "at this point, think of OpenAI as one of Microsoft's arm.",
+              "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/lj897kn/",
+              "created": 1724256183,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "li9p04n",
+      "score": 2,
+      "body": "Claude and Gemini are both Google Products. And TPU is only available within Google Cloud since it's a Google thing. It's literally Tensor Processing Unit (the same name of their phone's SOC). So ofc, they are gonna use TPUs lol. It's all about not being constrained with one cloud provider. AWS itself is way better than GCP right now with more mature products. AWS Sagemaker >>> Google Vertex AI. NVIDIA GPUs are available across AWS, Azure, GCP, etc.\n\nI'm an AI Engineer and training with TPUs are a pain in the ass. Way behind support on ML Frameworks versus CUDA. Current NVIDIA Cloud GPUs like V100s, A10G are still way more efficient and cost-effective than TPUs for inference. \n\nBottomline is, dont bank yourself with Google and hardware (TPUs). They have a poor track record when it comes to hardwares that they create. Big AI players like Meta, Apple, and Microsoft will definitely create their own version of multimodal models that they will either house using Google TPU or a way more available NVIDIA GPUs that they can just either host themselves or have plenty of options with multiple cloud providers to choose from.",
+      "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/li9p04n/",
+      "created": 1723741990,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "li9srfy",
+          "score": 2,
+          "body": "your insight is very instrumental for my investment decision. As a non-technician I can only see the iceberg (i.e., the products made available for consumer use like Claude and Gemini). Since TPU is harder to train AI models than CUDA, I expect more competitions from the latter to put more pressure on Gemini, and just of today the news had released that OpenAI has once again reclaim the LLM leadership position.",
+          "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/li9srfy/",
+          "created": 1723743157,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "li9uj7m",
+              "score": 2,
+              "body": "LLM Leaderboards are useless to me at this point in telling which is good or not. The benchmark process is still broken IMHO and there will be more research about how to gauge them better since these are new things. Most application uses anyway such as assistants, chatbots, etc. are finetuned versions anyway, some even using open-source applications. \n\nMy personal thinking is that Google is gonna bottleneck itself with their own TPU hardware sooner or later as they are either gonna fully commit to it or just suddenly pivot using NVIDIA again (similar to their switch from Qualcomm to Tensor G1-G4 with Samsung fabs to TSMC moving foward). They will, however, be perpetually contending within the leaderboards for LLM although my personal favorites leading these would still be META and OpenAI for different reasons. GOOG has a personal motivation to do it tho since they have the Google Assistant thing which is probably their biggest usage of this in addition to GSuite additions. \n\nBottomline, pick GOOG for software reasons but never because of their TPU \"advantage\".",
+              "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/li9uj7m/",
+              "created": 1723743708,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "li9vt7a",
+                  "score": 1,
+                  "body": "I very much agree to the software side. A lot of useful google services embedded as extension to Gemini are helpful such as maps, workspace, photos on drive etc. Honestly at this point I can't no longer distinguish, on a meaningful level, between the performance of chatgpt and Gemini AI. That's just me as a normal user going about daily 'googling' and searching.",
+                  "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/li9vt7a/",
+                  "created": 1723744103,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "li29g5b",
+      "score": 4,
+      "body": "Nvidia GPUs are far more versatile than Google TPUs. Companies don't know exactly what they will need to build in the future with their GPUs, so that versatility has a lot of value.",
+      "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/li29g5b/",
+      "created": 1723638074,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "li2r8nr",
+          "score": 13,
+          "body": "Ok but out of the big three known AI’s people are using (chatgpt, claude and gemini) two of those are trained on TPUs. Also google is in self driving, OS, cloud, search, streaming etc etc and while you are correct that companies don’t know exactly what to build google and their tpu usage exists in a lot of those fields where AI will be applied already so it isn’t like tpus are only good for chatbots j mean just a few weeks ago they demonstrated a robot that can play ping pong at amateur level all on tpus.",
+          "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/li2r8nr/",
+          "created": 1723644675,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "li3jw8t",
+              "score": 4,
+              "body": "I tried bard and I can feel the significant gap trailing ChatGPT back then. Then I tried Gemini and feels wow, it's a lot closer, and now with extensions to my email and workspace.\n\nI have always thought that Google AI relies on Nvidia gpu since they also bought it for their cloud customers. This TPU finding is surprisingly hidden even for a typical google fan like me.\n\nAdded things like google deepmind and pioneering research leading to transformer, the Gemini AI progress (now multimodal) is very encouraging.\n\nI for one encourage competition so that users like us can benefit. I can feel that Google is now leading the AI race but they are just humble. If I were Sundar, I would have directed all TPU compute toward Gemini already.",
+              "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/li3jw8t/",
+              "created": 1723653861,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "li6qqip",
+              "score": 2,
+              "body": "claude is trained on a combination of aws (Trainium and Inferentia chips) and google cloud. With that said, it's very encouraging to see Gemini that is solely trained on native TPU can catch up not too far behind the AI race.\n\n  \n[https://www.datacenterdynamics.com/en/news/amazon-to-invest-up-to-4bn-in-generative-ai-startup-anthropic-becomes-primary-cloud-provider/](https://www.datacenterdynamics.com/en/news/amazon-to-invest-up-to-4bn-in-generative-ai-startup-anthropic-becomes-primary-cloud-provider/)",
+              "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/li6qqip/",
+              "created": 1723693726,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "li9nnip",
+              "score": 1,
+              "body": "Because Claude and Gemini are both Google Products. And TPU is only available within Google Cloud. So ofc, they are gonna use TPUs lol. It's all about not being constrained with one cloud provider. AWS itself is way better than GCP right now with more mature products. AWS Sagemaker >>> Google Vertex AI. \n\nI'm an AI Engineer and training with TPUs are a pain in the ass. Way behind support on ML Frameworks versus CUDA. Current NVIDIA Cloud GPUs like V100s, A10G are still way more efficient and cost-effective than TPUs for inference. Dont bank yourself with Google and hardware. They have a poor track record when it comes to hardwares that they create.",
+              "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/li9nnip/",
+              "created": 1723741567,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "li2r3na",
+          "score": 1,
+          "body": "Unless you want to actually use it for computer graphics, not really.",
+          "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/li2r3na/",
+          "created": 1723644627,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "li3nqea",
+      "score": 0,
+      "body": "Google won’t get broke up. They haven’t even struck back yet.",
+      "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/li3nqea/",
+      "created": 1723655060,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "li2akw7",
+      "score": -33,
+      "body": "[deleted]",
+      "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/li2akw7/",
+      "created": 1723638544,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "li3d43s",
+          "score": 5,
+          "body": "Solid investment thesis champ",
+          "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/li3d43s/",
+          "created": 1723651709,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "li3mkvq",
+              "score": 6,
+              "body": "This was him 4 days ago:   \"Google is such a hideen gem, it has much lower marketcap than Nvidia and everyone is only Nvidia this or Nvidia that but no one ever mentions Google, they are so massive you don't even need to invest in an ETF because they are an ETF.\"",
+              "permalink": "/r/stocks/comments/1es01n4/goog_bull_case_custom_tpu_leading_to_successful/li3mkvq/",
+              "created": 1723654694,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

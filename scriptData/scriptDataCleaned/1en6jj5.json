@@ -1,0 +1,574 @@
+{
+  "title": "What is the reason for the Pre and Post market?",
+  "score": 45,
+  "selftext": "The market moves a lot in pre-market and post-market, but only a few can trade it? Why?\n\nI understand markets are closing, but why is there a partial close for retail while some still trade it when it's 'closed'   \nThis seem unfair to retail traders and an easy way to manipulate things for big guys. They can see stops, where liquidity lays and such...",
+  "link_flair_text": null,
+  "id": "1en6jj5",
+  "num_comments": 63,
+  "created_utc": 1723125161,
+  "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/",
+  "comments": [
+    {
+      "id": "lh46uck",
+      "score": 69,
+      "body": "> I understand markets are closing, but why is there a partial close for retail while some still trade it when it's 'closed'\nThis seem unfair to retail traders and an easy way to manipulate things for big guys. They can see stops, where liquidity lays and such...\n\nRetail traders have access to all of that, too. You just need to use a real broker.",
+      "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh46uck/",
+      "created": 1723128748,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lh3wyqx",
+      "score": 69,
+      "body": "My brokerage Charles Schwab allows me as a retail investor to trade during extended hours, and I have done so many times. All orders must be limit orders, and if volume is low for the stock you are trading there is no certainty the order will fill.",
+      "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh3wyqx/",
+      "created": 1723125545,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lh3xi8w",
+          "score": 5,
+          "body": "If you have limit orders that were not placed during extended hours, will they still work for extended hours or you need to do something different?",
+          "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh3xi8w/",
+          "created": 1723125726,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lh47e6p",
+              "score": 15,
+              "body": "When I enter a limit order with Schwab, under Timing it gives me the following options:\n\n* Day\n* Day + extended hours\n* GTC (good till cancelled)\n* GTC + extended hours\n* Extended-hours a.m.\n* Extended-hours p.m.\n* FOK (fill or kill)\n\nSo if you enter a limit order during regular market hours with \"Day + extended hours\" or \"GTC + extended hours\" Timing the order can fill either during regular market hours or during extended hours.",
+              "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh47e6p/",
+              "created": 1723128923,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lh7eaqw",
+                  "score": 2,
+                  "body": "What does fill or kill mean?",
+                  "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh7eaqw/",
+                  "created": 1723165962,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lh83zg1",
+                      "score": 14,
+                      "body": "I place an order for 1000 shares. Only 999 are available. \n\n\nI don't want that order unless I can get the full 1k. So the order is killed because it can't be filled",
+                      "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh83zg1/",
+                      "created": 1723176624,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lh7jx9j",
+                      "score": 5,
+                      "body": "https://www.investopedia.com/terms/f/fok.asp",
+                      "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh7jx9j/",
+                      "created": 1723168128,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lh3y24f",
+              "score": 10,
+              "body": "Generally your broker will have an option that you have to explicitly select to order in extended hours. Otherwise it will just execute it the following day provided the order gets triggered.",
+              "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh3y24f/",
+              "created": 1723125911,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lh475j4",
+              "score": 2,
+              "body": "Someone told me even Robinhood trades in after hours now I think. \n\nI felt the same way in 2021. I looked in to it and used Webull stock trading app for a year. It allows full pre-market and after-hours with no minimum that I can remember. I think I joined with like $100",
+              "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh475j4/",
+              "created": 1723128848,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lh49sq4",
+                  "score": 4,
+                  "body": "Robinhood now has 24 hour trading 5 days a week.",
+                  "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh49sq4/",
+                  "created": 1723129680,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lh4l4b9",
+                      "score": 4,
+                      "body": "Yeah, I finally figured out it is HOOD dumping all those overnight trades at 7:45-8am every morning that causes those weird spikes in premarket.",
+                      "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh4l4b9/",
+                      "created": 1723133186,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lh7wjdr",
+                          "score": 5,
+                          "body": "I don't know why you got downvoted ..here have an upvote :)",
+                          "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh7wjdr/",
+                          "created": 1723173239,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lhczwle",
+                      "score": 2,
+                      "body": "why can we not trade at the weekend?",
+                      "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lhczwle/",
+                      "created": 1723247647,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lh7wgzh",
+                      "score": 4,
+                      "body": "It's not actually over night trading, rather a \"rack em pack em and stack em\" until the market opens.",
+                      "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh7wgzh/",
+                      "created": 1723173210,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lhm76nk",
+                          "score": 1,
+                          "body": "Yeah I was going to say that overnight trading is impossible. The best you can get is full pre-market and full after hours trading. Webull was really good for pre-market and after hours. I changed up from Robin Hood back when they only traded during market hours",
+                          "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lhm76nk/",
+                          "created": 1723396904,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lh70qe3",
+              "score": 0,
+              "body": "No, you need something else. And retail traders can trade it, but you’re right, it is unfair. Retail traders don’t know how to google “how to trade pre / post market” and professional traders do. It creates quite the disparity.",
+              "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh70qe3/",
+              "created": 1723160830,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lh7wntj",
+                  "score": 2,
+                  "body": "People won't google something if they don't know it exists.. \\[rolling eyes\\]",
+                  "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh7wntj/",
+                  "created": 1723173292,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lhb67ss",
+                      "score": 1,
+                      "body": "The question was literally how come they can pre market trade and we can’t. The correct question to Google was the original prompt.",
+                      "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lhb67ss/",
+                      "created": 1723225640,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lhdn29v",
+                          "score": 1,
+                          "body": "Literally.",
+                          "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lhdn29v/",
+                          "created": 1723256926,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lh3ykzf",
+      "score": 17,
+      "body": "I am also a retail investor and my brokerage, Fidelity, allows me to place orders for pre-market and extended hours trades. I sometimes try, and more often than not do not get my orders filled...due to limited volumes/availability of the stock I am looking to buy or sell. The big companies with huge market caps, like META or AAPL, usually will go through, but I recently tried to buy PAA and my order went unfilled. The bid-ask spread is usually larger than during regular market hours too.",
+      "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh3ykzf/",
+      "created": 1723126085,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lh430hv",
+      "score": 7,
+      "body": "IBKR allows me to mark my limit orders to be executed outside of normal trading hours. It's a toggle button",
+      "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh430hv/",
+      "created": 1723127533,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lh7w66k",
+      "score": 7,
+      "body": "If your broker doesn't allow after hours trading, find another broker. ..FYI, not all stocks are traded after hours, just a lot of them.\n\nDuring after hours the brokers will show the price changes ..but won't show it on a chart. Those big gaps you see in charts are from the after hours trades.  \n\n\nIf you want 'fair' ..you shouldn't be in the stock market ;)",
+      "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh7w66k/",
+      "created": 1723173081,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lh3ylfl",
+      "score": 11,
+      "body": "It used to be a way for institutional traders to make moves more directly with each other while bypassing market makers.\n\nThere's lots of retail brokers that will give you access to Extended-Hours Trading. The problem is there isn't the same level of liquidity, so it gets much harder to fill orders.",
+      "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh3ylfl/",
+      "created": 1723126089,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lh3zmnj",
+      "score": 32,
+      "body": "To screw over retail investors giving institutional investors a chance to make their moves before we can adapt.",
+      "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh3zmnj/",
+      "created": 1723126431,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lh41569",
+          "score": 12,
+          "body": "This. I saw a thing once that over the last few decades, most (like 90%) of the largest price movement in securities occur in after-hours trading, when it’s incredibly challenging for a household investor to take advantage of it. Sure, you can request and be granted access to pre-market and after-hours trading, but the odds of our measly 35 share order being filled is slim to none.",
+          "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh41569/",
+          "created": 1723126931,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lh41z2a",
+              "score": 6,
+              "body": "I've been having a lot of orders filled pre/post market on Webull",
+              "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh41z2a/",
+              "created": 1723127199,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lh44991",
+                  "score": 0,
+                  "body": "I’m sure it’s possible for some. I believe it’s largely dependent on your order size. For most of us peons, we don’t make the cut. It’s just silly that I can apply to trade in after-hours, but I still basically can’t because I’m a poor. \n\nAnd also, I presume orders that are filled for small time household investors are internalized whenever possible.",
+                  "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh44991/",
+                  "created": 1723127930,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lh44yqj",
+                      "score": 3,
+                      "body": "Might be worth looking into - I don’t think I applied for it but could be wrong, and I do not place large orders at all",
+                      "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh44yqj/",
+                      "created": 1723128155,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lh456vz",
+                          "score": 1,
+                          "body": "Into Webull? Nah, I’m a Fidelity Stan.",
+                          "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh456vz/",
+                          "created": 1723128227,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lh5jsnb",
+                      "score": 3,
+                      "body": "I trade small amounts in pre or post market and have no issues getting orders through. Who is your broker??",
+                      "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh5jsnb/",
+                      "created": 1723143700,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lh5lx4e",
+                          "score": 2,
+                          "body": "I use Fidelity.",
+                          "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh5lx4e/",
+                          "created": 1723144354,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lh5iooe",
+              "score": 4,
+              "body": "I've never had issues trading in pre or post market as a retail investor.",
+              "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh5iooe/",
+              "created": 1723143366,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lh7wuqy",
+                  "score": 1,
+                  "body": "Even with ETF's?",
+                  "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh7wuqy/",
+                  "created": 1723173374,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lh8w29a",
+              "score": 1,
+              "body": "Knuteson, B. (2022). They Still Haven’t Told You.",
+              "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh8w29a/",
+              "created": 1723193348,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lh5kxo4",
+      "score": 3,
+      "body": "It's more of an options thing imo. The market makers hate having to pay out huge sums to 0dte traders. By ensuring all the big moves happen before and after standard trading hours, it eliminates the 0dte risk. That's why you're seeing more moves happen pre and post at the same time 0dte is being widely adopted",
+      "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh5kxo4/",
+      "created": 1723144052,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lh81gtf",
+          "score": 4,
+          "body": "So you're saying 1dte is the new 0dte?",
+          "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh81gtf/",
+          "created": 1723175442,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lh6f9ra",
+      "score": 3,
+      "body": "Pre/After market doesn’t usually have as much volume and spreads can be wider, which can equate to bigger loses for you or even the broker. Most retail brokers (Schwab, E*Trade, etc.) allow premarket trading starting at 7:00am EST and aftermarket until 8:00pm EST.\n\nReal Brokers like IB, Centerpointe, LightSpeed and even Speedtrader will allow Premarket trading as early as 4:00am though.",
+      "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh6f9ra/",
+      "created": 1723153304,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lh81xca",
+      "score": 2,
+      "body": "Didn’t know I was a ‘big guy’. Lol. Seriously though I don’t know why markets aren’t just open like the forex market which is 5 pm sunday est to 5 pm friday. If you want to trade extended hours you can. Just use the right broker.",
+      "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh81xca/",
+      "created": 1723175653,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lh92ccm",
+      "score": 2,
+      "body": "I'd say 99% of all brokers allow pre and post market trading. There has been talk of opening the markets 24 hours a day. The purpose? That's a good question. The entire market opening and closing is based on arbitrary times that people follow. It's silly, I know.",
+      "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh92ccm/",
+      "created": 1723197443,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lh99w6y",
+      "score": 2,
+      "body": "I used this with Schwab and got absolutely burnt - ended up buying 4000 shares of Intc for 24$ while I was sleeping 😅\n\n Even forgot I had the order in place as the only reason I had on was to sell the dead cat bounce - just that Intc never got one while crap like CRWD keep bouncing up and down after their fiasco somehow",
+      "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh99w6y/",
+      "created": 1723201800,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhc1xp0",
+      "score": 2,
+      "body": "Get a real broker",
+      "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lhc1xp0/",
+      "created": 1723235732,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lh4c4xp",
+      "score": 3,
+      "body": "Pretty much all platforms allow after hours trading.  Some require an additional consent/approval and some don’t.  All of them require you to select the order type signaling you are selecting after hours such as “extended hours.” \n\nJust remember, just because your buy order is placed, the lower volume means there may not be an actual seller at said price or there may be other orders in the queue ahead of you.",
+      "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh4c4xp/",
+      "created": 1723130415,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lh4fdux",
+      "score": 1,
+      "body": "PsyOps, to get you to sell at a loss.",
+      "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh4fdux/",
+      "created": 1723131421,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lh63k8t",
+      "score": 1,
+      "body": "ETrade allows you to trade at any time. I think most \"real\" brokerages do. Even a few of the meme ones, i.e. Robinhood, Webull, etc.",
+      "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh63k8t/",
+      "created": 1723149651,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lh711f4",
+      "score": 1,
+      "body": "[deleted]",
+      "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh711f4/",
+      "created": 1723160943,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lh7x1zy",
+          "score": 2,
+          "body": "It's not actually over night trading, rather a \"rack em pack em and stack em\" until the pre market opens.",
+          "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh7x1zy/",
+          "created": 1723173462,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lh7z22n",
+              "score": 0,
+              "body": "No. You can buy and sell stocks 24/7 besides weekends. Currently it’s unavailable for “reasons”.",
+              "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh7z22n/",
+              "created": 1723174339,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lh82pt8",
+                  "score": 1,
+                  "body": "It's not actually over night trading, rather a \"rack em pack em and stack em\" until the pre market opens.",
+                  "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh82pt8/",
+                  "created": 1723176023,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lh7u2c8",
+      "score": 1,
+      "body": "1. You can trade after hours as a retail trader\n\n2. Stop paying attention to stock prices after hours. You can watch the market, you can do technical analysis, you can read the news, but more often than not opening prices will be wildly different from after hours prices.",
+      "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh7u2c8/",
+      "created": 1723172184,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lh8stma",
+      "score": 1,
+      "body": "Pre-market and post-market trading can be tricky due to lower liquidity and wider spreads, which often makes it harder for retail traders to get orders filled at good prices. Institutions have the advantage here because they can handle the volatility and access advanced tools better. If you’re looking to trade during these times, make sure you’re with a broker that supports it and be aware of the risks. Personally, I find tools like Tamap useful for managing these trades, as they offer solid analytics to navigate these less liquid periods.",
+      "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh8stma/",
+      "created": 1723191201,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lh8vla6",
+      "score": 1,
+      "body": "First time? No body tell him.",
+      "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh8vla6/",
+      "created": 1723193035,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lh8wcki",
+      "score": 1,
+      "body": "\"The world's stock markets display a decades-long pattern of overnight and intraday returns seemingly consistent with only one explanation: one or more large, long-lived quant firms tending to expand its portfolio early in the day (when its trading moves prices more) and contract its portfolio later in the day (when its trading moves prices less), losing money on its daily round-trip trades to create mark-to-market gains on its large existing book. In the fourteen years since this extraordinary pattern of overnight and intraday returns was first noted in the literature, no plausible alternative explanation has been advanced. The main question remaining is therefore which of the few firms capable of profitably trading in this manner are guilty of having done so. If any of this is news to you, it is because the people you trust to alert you to such problems still haven't told you.\"\n\nKnuteson, B. (2022). They Still Haven’t Told You.",
+      "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh8wcki/",
+      "created": 1723193537,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lh9mcds",
+      "score": 1,
+      "body": "> but only a few can trade it? Why?\n\nThat is definitely not true anymore. Even big retail brokers now offer 24/5 trading.",
+      "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh9mcds/",
+      "created": 1723207392,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lha3yfj",
+      "score": 1,
+      "body": "SC allows pre and post not sure what other sites allow",
+      "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lha3yfj/",
+      "created": 1723213705,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhi0rpq",
+      "score": 1,
+      "body": "there are also other stock markets around the globe and some stocks in Europe are clones of US stocks just in Euros with a small arbitrage, but their movement are tethered. So a big move in Frankfurt can affect the pre price in NYSE",
+      "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lhi0rpq/",
+      "created": 1723326991,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lh59dyb",
+      "score": 1,
+      "body": "Depends on the brokerage you are using.  Robinhood I hear has 24 hour market.",
+      "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh59dyb/",
+      "created": 1723140560,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lh7p2ct",
+      "score": 1,
+      "body": "People can buy and sell stocks at anytime of day. It's literally just an agreement between two people. You can't not let someone buy or sell a stock. The market is just something that makes it much easier to find buyers and sellers that match. The market closing also can't stop people from finding buyers and sellers and matching them. You seem to be not understanding what the market is.",
+      "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh7p2ct/",
+      "created": 1723170139,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lh3zbe7",
+      "score": -2,
+      "body": "Retail can also trade outside the regular trading hours. The goal is to allow price discovery outside regular trading hours, so that the intraday volatility is reduced and market orders can be placed with confidence.",
+      "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh3zbe7/",
+      "created": 1723126328,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lh5m7pb",
+      "score": -1,
+      "body": "Unfair to retail traders?\n\nIt’s almost all retail traders!\n\nIt’s ECNs and other alternative markets that extend their hours. Mostly small-fry who can’t escape their boss’s eyes to day trade at work. /s\n\nMany to most retail brokers provide access. But it’s poor liquidity and wide spreads except on the biggest names.\n\n>”You should be so lucky/priviledged!” - ancient curse",
+      "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh5m7pb/",
+      "created": 1723144446,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lh7o8ki",
+      "score": -2,
+      "body": "I think after hours is mostly retail traders to be honest. The volumes are so low that it's definitely not the \"big guys\" doing anything of note.\n\nIt sounds fun to make it and \"us v them\" thing, but I think the big guys are already on their third martini and second secretary of the evening in post market.",
+      "permalink": "/r/stocks/comments/1en6jj5/what_is_the_reason_for_the_pre_and_post_market/lh7o8ki/",
+      "created": 1723169808,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

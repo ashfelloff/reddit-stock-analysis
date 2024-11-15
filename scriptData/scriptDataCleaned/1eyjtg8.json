@@ -1,0 +1,1461 @@
+{
+  "title": "How many stocks is too many? I hold 50 now.. Better just go for an index ETF?",
+  "score": 114,
+  "selftext": "So over years, I've been gathering over 50 stocks. Of course, some have performed great, largely because my timing, mid-2022, was an excellent entry point. But of course, I can't help brag about my selection choice. For example, Qualcomm, AMD, JPM, MSFT, GOOG, Citi.\n\nI (think), I hit most of the semiconductor names, except NVDA. For some reason, it never felt like a good investment. I have my skepticism about LLMs and Gen-AI hype. Besides, generating cat pics or idle plays with Chat-GPT, I haven't ***yet*** seen a business effectively using Gen-AI as a compelling competitive edge. So, please educate me here as well. AMD is different because of data center servers product line - which is more solid story.\n\nBesides missing such obvious biggies, not all of what I touched has performed. I felt, European carmakers (BMW, VW, MBG) were deep value at PE 3-5 and 8-9% yields, but obviously I was wrong. They were cheap for a reason.\n\n**Main question** - I was wondering if I can do a simulation of hypothetical scenario where I had simply invested in index, saving me enormous time in research. If so, please suggest tools/sites?\n\nNote that the amounts and time of entry/exit are not constant, so I can't use the simple lumpsum or periodic investing calculators that assume regular constant amounts and intervals.\n\nWith 50 stocks in my portfolio, I wonder if it is just mirroring the index, or generating any real alpha. Obviously, when I buy something, I am highly convinced of my reasonings. So, it's hard to part with what I feel are \"my gems\". How do you cope with these emotional aspects of investing?",
+  "link_flair_text": null,
+  "id": "1eyjtg8",
+  "num_comments": 169,
+  "created_utc": 1724334577,
+  "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/",
+  "comments": [
+    {
+      "id": "ljdzrt3",
+      "score": 98,
+      "body": "How is your performance vs the S&P?",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljdzrt3/",
+      "created": 1724339043,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ljet3d2",
+          "score": 59,
+          "body": "That's what they are trying to figure out and can't",
+          "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljet3d2/",
+          "created": 1724348079,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ljf4k6x",
+              "score": 33,
+              "body": "That's easy enough to figure out, just time consuming to do the math.\n\nStep 1) Select an S&P 500 index fund that you'd have invested in instead (like VOO).\n\nStep 2) Look up a chart listing the opening and closing price of said fund every day the market was open over whatever time period you were investing (I use Yahoo Finance for this, but I'm sure there's plenty of other options that have the same data).\n\nStep 3) If you don't already have it, track all of your individual buys and sells of your stock in a spreadsheet.\n\nStep 4) Add some columns in the spreadsheet for assuming you bought into your S&P 500 index instead with the same dollar amount. Be consistent, like using the closing price of your index on that date (unless you just so happened to also buy into that index on the same day, in which case you can use that price instead).\n\nStep 5) Now that you have the number of \"share\" you'd own of that index see how the number tracks compared to your real world outcome.\n\nI find this to be a very helpful exercise for me. I tend to consistently under perform the index in the year I buy into stocks, but then a lot of those buys tend to outperform the index in later years as I continue to hold.",
+              "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljf4k6x/",
+              "created": 1724351579,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "ljfeycz",
+              "score": 15,
+              "body": "You can put them all into Yahoo Finance and it will compare for you",
+              "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljfeycz/",
+              "created": 1724354821,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ljge2bi",
+                  "score": 9,
+                  "body": "No, it thinks everything was bought on the same day, and then just gives me daily NAV of that mix. That's not real life scenario ",
+                  "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljge2bi/",
+                  "created": 1724366215,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ljhd87t",
+                      "score": 16,
+                      "body": "Your brokerage does not have a performance tab? It should compare you to the major indexes.",
+                      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljhd87t/",
+                      "created": 1724379186,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "ljsb6rs",
+                          "score": 1,
+                          "body": "some (most?) brokerages cant differentiate between gains and transfers/contributions, making the 'performance' data very useless\n\nlooking at you Fidelity",
+                          "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljsb6rs/",
+                          "created": 1724545276,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "ljsct1y",
+                              "score": 1,
+                              "body": "Really? I think my Schwab account normalizes for deposits in the performance tab.",
+                              "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljsct1y/",
+                              "created": 1724545938,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "ljjc71j",
+                      "score": 1,
+                      "body": "You want to calculate the CAGR, XIRR and the Rolling Return of your stocks and compare them to the results of the S&P 500, then adjust for risk.",
+                      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljjc71j/",
+                      "created": 1724416788,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "ljgflss",
+                  "score": 3,
+                  "body": "Yahoo finance just backtracks your current holdings so it doesn't give you an accurate result.",
+                  "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljgflss/",
+                  "created": 1724366778,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "ljlht3d",
+              "score": 3,
+              "body": "There's a tool that you can use to do the work for you. It's called portfolio analyzer. \n\n>It offers six different categories of analysis including portfolio backtesting, factor analysis, Monte Carlo simulations, asset analytics, portfolio optimization, and tactical asset allocation.",
+              "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljlht3d/",
+              "created": 1724442208,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "ljsdib1",
+              "score": 1,
+              "body": "If OP don't know much less can tra k his performance YtD and compare to an index...he should very much get an index fund/ETF. That's pretty basic knowledge and certainly *critical knowledge*, if you don't know performance you litterary don't know if you should sell, hold or buy.\n\n\n\n15 stocks is a rule of thumb for individual portfolios, more then that and you'll never be able to stay up to date on news regarding them all.",
+              "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljsdib1/",
+              "created": 1724546225,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ljdnug8",
+      "score": 124,
+      "body": "I’ve got the same problem and what I’ve found from experience is I’ve missed some exits because I can’t keep track of all 50 companies and their wins and losses. I’ve also missed being able to buy more of some of the winners because my money was stretched across so much of the market. What I’ve also found is that i am not as susceptible to fluctuations in the market. I keep trying to thin down my portfolio to just a handful of tickers, but sometimes I just enjoy trying to pick winning stocks and supporting companies that I enjoy spending money at.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljdnug8/",
+      "created": 1724335162,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ljedxj0",
+          "score": 13,
+          "body": "If I had 50 stocks I'd probably have a separate computer monitor dedicated specifically to showing a finviz list for it or something \n\n  \nthat way you can monitor trends, watch for peaks and crashes, and maybe better time when to get out?",
+          "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljedxj0/",
+          "created": 1724343421,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ljefm07",
+              "score": 10,
+              "body": "This is just something I do for fun during the workday so there is no way I could ever commit that much energy even to the process.",
+              "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljefm07/",
+              "created": 1724343941,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ljf4y4n",
+                  "score": 1,
+                  "body": "are you not working on a computer? I have four monitors in my office setup :x\n\nThe more discreet investments you have, the more active monitoring they will require, unless you just set stop/loss for everything as you said before...which can cause issues if there's significant movement over ight due to temporary circumstances etc",
+                  "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljf4y4n/",
+                  "created": 1724351699,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lje71y8",
+          "score": 15,
+          "body": "With this, I could end up trimming my winners and bag-holding all losers. As the saying goes, 'let the winning horse run'. \n\n\nBy that logic, I should hold onto SMCI. But I'm glad, I trimmed that one.",
+          "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/lje71y8/",
+          "created": 1724341310,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lje5lj4",
+          "score": 6,
+          "body": "How do you manage this now? Do you go for specific allocations and rebalance?",
+          "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/lje5lj4/",
+          "created": 1724340863,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lje7j1q",
+              "score": 11,
+              "body": "I saw a comment I liked where you have 80% of your portfolio is set investments in ETFs and established companies. 10% is for businesses that you are interested in and think have room to grow and then 10% for options. I try to stick with that now.",
+              "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/lje7j1q/",
+              "created": 1724341454,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ljg7951",
+                  "score": 1,
+                  "body": "And are you actively rebalancing your portfolio every now and then?",
+                  "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljg7951/",
+                  "created": 1724363824,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ljg8elr",
+                      "score": 1,
+                      "body": "Long story but I didn’t sell all of my positions before filing for divorce so there was a period I couldn’t buy or sell anything. I’m back to being able to so I’ve been going through trimming positions and selling off positions that I was never going to regain.",
+                      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljg8elr/",
+                      "created": 1724364220,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ljeuwhe",
+          "score": 7,
+          "body": "Use M1 Finance, with the pie settings and holding tab about win loss ratio, it should be easy to see the performance.",
+          "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljeuwhe/",
+          "created": 1724348626,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ljdto17",
+          "score": 10,
+          "body": "Stop/Loss so you can set and forget them?",
+          "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljdto17/",
+          "created": 1724337104,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ljdudgx",
+              "score": 5,
+              "body": "I’ve been working on getting better at this. Haven’t been taking nearly as bad of a loss as in the past.",
+              "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljdudgx/",
+              "created": 1724337333,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lje3d94",
+                  "score": 9,
+                  "body": "The reason I have to do it is because it forces me to set a profit goal immediately and not \"What if it goes even higher?\" my way into losing everything haha",
+                  "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/lje3d94/",
+                  "created": 1724340172,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ljed2td",
+                      "score": 3,
+                      "body": "Good suggestion - this is the way it you hold a bunch of stocks and want to protect the investment.",
+                      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljed2td/",
+                      "created": 1724343155,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lje4zb8",
+          "score": 5,
+          "body": "It has been a long time since I took finance, but I want to say if you pick stock from different industries you are at low diversification at around 6-8 stocks, moderate around 9-12. Any recent business grads chime in lol.\n\nEdit: a more recent grad answered already",
+          "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/lje4zb8/",
+          "created": 1724340671,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ljetnfj",
+              "score": 10,
+              "body": "There's a recent paper that almost all the gains in stocks (compared to just buying treasuries) come from a very few big winners. Like < 10% of the market. So, if you're confident you have picked the winners, fine. Otherwise, just 10 companies is too few.",
+              "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljetnfj/",
+              "created": 1724348247,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lje4wby",
+          "score": 4,
+          "body": "why do you need to keep track of them? Just buy stuff and forget about it. Maybe every year or so go through them and see if you still like them or not",
+          "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/lje4wby/",
+          "created": 1724340645,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lje757r",
+              "score": 8,
+              "body": "I was heavy in a stock for a company I contracted with. Liked the company and where they were headed. They bought another company, then cleaned house, then had a hostile takeover and now their business model is questionable at best. Had I been paying closer attention I could have found a safe exit. Instead I am now married to that position until they do something great. Now imagine that times 50 positions.",
+              "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/lje757r/",
+              "created": 1724341338,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ljeajts",
+                  "score": 6,
+                  "body": "I think you bring up an interesting point. A working person can't really do their DD on 50 companies - it just isn't feasible unless you're a professional in that industry. But no one is to say every ETF is equal - if you have a thesis on a large group of companies there just might be an actively managed ETF that has the same idea and carries mostly the companies you were thinking of - and they *do* have the time to do DD\n\n\nI'm personally a fan of picking 1-4 stocks and then going VOO but you make me want to do a deep dive on the ETFs out there",
+                  "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljeajts/",
+                  "created": 1724342370,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ljefhmd",
+                      "score": 2,
+                      "body": "This is what I’ve been doing as I close out smaller positions. I am moving the money into ETFs like instead of owning all of the cyber security I’ve been looking at selling those and just buying a cyber security ETF. Having a small handful of stocks to research and invest in is still going to happen, but it certainly won’t be as many as I used to.",
+                      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljefhmd/",
+                      "created": 1724343904,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "ljevbwz",
+                  "score": 3,
+                  "body": "Once you're at 50 positions you're basically an ETF dude. Plus, you think the market is stupid? Did you really think you could \"safe exit\" before the stock price corrects?\n\nOnce you have 50 positions you just take all the wins and losses. You'll have some positions at -33%, and others at +50%. Just live with it. I mean, this is basically what an ETF is like, except you don't see the underlying stocks.",
+                  "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljevbwz/",
+                  "created": 1724348755,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ljfega9",
+                      "score": 1,
+                      "body": "This is actually a legitimate strategy. At the end of the year, sell off all the losers for the tax loss and keep the winners. You might outperform if your picks are decent, but the tax benefits will provide an advantage over an ETF. Over time, filtering out winners will boost your portfolio's performance significantly over an index.",
+                      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljfega9/",
+                      "created": 1724354660,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ljo2ks9",
+          "score": 1,
+          "body": "Alerts are your friend",
+          "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljo2ks9/",
+          "created": 1724480558,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ljdrhs0",
+      "score": 28,
+      "body": "If you have to check a list to remember all the companies you own, it's too many. You don't have to play every sector of the market. You're not \"missing out\" if you didn't know what you were investing in to begin with. \n\nWarren Buffet said no one every got rich from their 7th best idea. Have your gems, keep yourself informed and up to date on everything going on with them, and let the rest go.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljdrhs0/",
+      "created": 1724336396,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ljenvov",
+          "score": 9,
+          "body": "> no one ever got rich from their 7th best idea\n\nI think the strategy is to have so many stocks that through nothing but blind luck, one of those will return 400%  overnight.",
+          "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljenvov/",
+          "created": 1724346490,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ljh65m6",
+          "score": 1,
+          "body": "...quality over quantity.",
+          "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljh65m6/",
+          "created": 1724376500,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ljdqofr",
+      "score": 31,
+      "body": "It’s not about quantity it’s about quality, if your many stocks are from good, profitable companies then nothing wrong with holding them.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljdqofr/",
+      "created": 1724336126,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ljdvch1",
+          "score": 4,
+          "body": "Exactly. I’d it is what you want to do, do it. People are correct you’ll probably work harder to make less, but how else will you learn?",
+          "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljdvch1/",
+          "created": 1724337643,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ljdukb3",
+      "score": 100,
+      "body": "If you have $2.5M invested, 50 isn't too many.  If you have $10,000 invested, you have 48 too many.\n\nI continue to be amazed at the people who think that buying 2 shares of this, 4 of that and 7 of that is getting them somewhere.  If you want a mutual fund buy one.  If you want to invest in stocks buy enough to matter.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljdukb3/",
+      "created": 1724337394,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ljdww3r",
+          "score": 22,
+          "body": "Best advice I've heard here. Kinda what I thought.i used to buy a bunch also. Now I only own 3. But sitting cash gang,looking for 1 or 2 to buy. Markets a little over bought right now",
+          "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljdww3r/",
+          "created": 1724338136,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ljdxkoh",
+              "score": 11,
+              "body": "Most of the people with a huge collection of stocks don't know anything about any of them.  When you see someone say, \"I threw $$ at ABBV\" you know they are playing \"stock market\".  \n\nBut you have to learn somehow.  I traded commodities, chased dividends, bought stocks I didn't have a clue about when I first started.  Now I have a formula that I follow but it took a decade to figure out how much I didn't know.",
+              "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljdxkoh/",
+              "created": 1724338354,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ljdy7zg",
+                  "score": 2,
+                  "body": "Yeh, I started about 4 yrs ago. I figured out more isn't better. as far as companies",
+                  "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljdy7zg/",
+                  "created": 1724338557,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "ljjqql4",
+                  "score": 1,
+                  "body": "I’m ~3 years in and learning. Any good reads/watches, or specific people, to keep building on? \n\nI’m mostly buy and hold/trim winnings and put into VTI. I’m not sure I want to keep going deeper with options, commodities, etc., but I do enjoy gaining knowledge.",
+                  "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljjqql4/",
+                  "created": 1724422060,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "ljdylye",
+                  "score": 0,
+                  "body": "Thanks tx",
+                  "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljdylye/",
+                  "created": 1724338679,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ljeni4m",
+          "score": 8,
+          "body": "Being new to trading, I’ve found that buying a small amount of a stock allows me to strike at low risk (and low reward) if my intuitions are showing a good buy but if I haven’t done enough due diligence to be as confident as I’d like to be.  Once the stock is in my portfolio, I become way more motivated to research and listen for news updates that might affect the stock or its industry.",
+          "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljeni4m/",
+          "created": 1724346374,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ljh6cdx",
+              "score": 5,
+              "body": "Nothing like losses to light that research fire under your ass :)",
+              "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljh6cdx/",
+              "created": 1724376572,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ljgnfac",
+          "score": 1,
+          "body": "I just read an article that said Most billionaires own just 2-4 companies but own 400,000 shares of $ko or 1/2 a million shares of a company that’s been around for more than 25 yrs. I just started investing less than 2 yrs ago. I read every day at least an hour or 2 about stocks or investments. Just started the book the intelligent investor.  One of WB favorites.   It’s so exciting when it’s green and even more interesting in the red.",
+          "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljgnfac/",
+          "created": 1724369603,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ljgnow2",
+              "score": 1,
+              "body": "I don’t know why I don’t hear more people owning $coke not $ko.  ??",
+              "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljgnow2/",
+              "created": 1724369700,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ljjcwg2",
+          "score": 1,
+          "body": "It is perfectly fine to see a position as a percentage of your overall portfolio. High conviction becomes something like 5-10%, high risk becomes something like 1-2%.",
+          "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljjcwg2/",
+          "created": 1724417070,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ljkfsmq",
+          "score": 1,
+          "body": "What would you call enough? Like help with an example maybe?",
+          "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljkfsmq/",
+          "created": 1724430044,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ljnwz1p",
+          "score": 1,
+          "body": "I don’t understand the difference between investing a dollar vs a hundred million? If a portfolio performs well, it performs well, regardless of the total dollar amount?",
+          "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljnwz1p/",
+          "created": 1724477104,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lje6f5s",
+          "score": -10,
+          "body": "Actually the worst comment on this thread. Whether it's $100 or $100M, the percent performance is what's in question here - ignoring any fixed fees.\n\n\nAlso, what's 2.5M for one person can 'feel like' 25K to another or 250M to someone else.",
+          "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/lje6f5s/",
+          "created": 1724341116,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lje8i08",
+              "score": 29,
+              "body": "Actually as you have more money to invest your strategy should change accordingly. Say if you only had $1000 to invest, then your opportunity cost of spending time researching 50+ companies and maintaining a reasonable assessment of the global economy will be much higher than someone who has $2.5 million to invest and you would probably be better off spending your time just working somewhere that would give you a paycheck.  \n\nIf I have to put in 4 hours a week to earn 20% a year on a $1000 investment, then by the end of the year I just spent 200 hours to make $200, meaning I got a $1 return for every hour I spent actively investing. If someone with $2.5 million to invest spends 4 hours a week to earn 20%, they will have made $2,500 an hour on their efforts.",
+              "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/lje8i08/",
+              "created": 1724341749,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "ljei27c",
+              "score": 3,
+              "body": "Wrong. When you have low you want to make it grow fast. When you have more now you want to keep it",
+              "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljei27c/",
+              "created": 1724344705,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lje7hgq",
+              "score": 4,
+              "body": "Says the guy who can't even spell stocks.",
+              "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/lje7hgq/",
+              "created": 1724341441,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "ljeb70g",
+              "score": 1,
+              "body": "It's about risk of ruin and income. If 1k is all you have - ever - then you're going to die in a couple months anyways and you aren't in the market\n\n\nLosing 1k is easily recoverable. Losing 10m probably isn't\n\n\nHence risk tolerance changing between the 2",
+              "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljeb70g/",
+              "created": 1724342569,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ljdo7ah",
+      "score": 28,
+      "body": "I had an investment course in college and this one was of the math problems. 18 was the sweet spot for diversification vs returns. Anymore than 18 didn’t reduce the risk in any significant way",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljdo7ah/",
+      "created": 1724335282,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ljdxia9",
+          "score": 29,
+          "body": "This is highly dependent on the stocks. If you're investing in 18 tech stocks then it probably isn't very diversified.",
+          "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljdxia9/",
+          "created": 1724338333,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ljdyxdg",
+              "score": 12,
+              "body": "There’s a big difference between company and sector diversification",
+              "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljdyxdg/",
+              "created": 1724338778,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "ljhnvck",
+              "score": 5,
+              "body": "You’re 100% correct. That class was a long time ago and now that I think about it there was a covariance value for each stock. High covariance would indicate same sector, or supply chain, etc. low covariance would indicate orthogonal sectors. Those covariance values would directly change the answer to that question, so without that info 18 is arbitrary. Thanks for pointing that out",
+              "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljhnvck/",
+              "created": 1724383512,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lje1ncb",
+      "score": 6,
+      "body": "Somewhat new to this sub and personal investing outside of index funds and retirement accounts. You are clearly way more knowledgeable on your investments and the market as a whole. But I'd say, assuming your 50 stocks are somewhat diversified, you have created your own personal index fund of sorts. It would just get tricky if you are actively monitoring each very closely and are able to get emotionally swayed on short term ups/downs. Long-term it would depend on what exactly your risk profile is.\n\nIn an ideal scenario everything booms and you see colossal gains, but on average your likely to see less than ideal results. Given the time and effort it sounds like you have put into it, it might be slightly more ideal (to you) than any other index, but your time/effort doesn't matter to the market. If its something you like doing and there is weight within each of the 50 stocks then I don't see an issue. If you have 10-15 stocks making up a large percentage of your portfolio, I might consider reducing the smaller impact ones, or at least reducing your effort with those. Might makes sense to employ some type of threshold to make each investment more worth your time. EG. either make your all of your 'gems' worth it or reduce your footprint to your top tier gems.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/lje1ncb/",
+      "created": 1724339636,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lje2oj7",
+      "score": 6,
+      "body": "there is no absolute best answer here. Tradeoffs in both directions for different things. People that say \"having > X is too many\" are just making it up. The S&P500 is literally 500 stocks and outperforms most people over the long run.\n\nA good rule of thumb though is don't hold more stocks than what you can keep track of. Ideally you should be aware of how each of your stocks is performing and trending. For most people, that's probably somewhere between 5-20.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/lje2oj7/",
+      "created": 1724339957,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljeh8yz",
+      "score": 5,
+      "body": "There's no such thing as too many stocks.\n\nPeter Lynch had as much as 1400 positions at the same time. And let's face it, that's probably more air tight than 20, 50 or even 100 stocks. Only a small portion of stocks provide those exceptional returns over long periods of time.\n\nThe question is if you can handle that. Probably not. You need a team or you need automation (and even with automation you still need time).\n\nYou can buy an ETF like FTSE All-World and have as much as 4000 stocks (indirectly). Or you can use ETFs for some countries but simulate your own ETF for others. I aways believed in extreme global diversification.\n\n20 stocks is nothing unless you can pick them really well. Wood has 100 stocks, they're all high P/E or no P/E overvalued companies to me. I do not expect her ETFs to do well even with that level of diversification.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljeh8yz/",
+      "created": 1724344452,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ljf40nl",
+          "score": 4,
+          "body": "Lynch said he often bought one share of many companies because it was easier to keep track of how they are doing that way",
+          "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljf40nl/",
+          "created": 1724351411,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ljetweu",
+          "score": 2,
+          "body": "Well there is a such thing as being overexposed setting yourself up to take major losses",
+          "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljetweu/",
+          "created": 1724348322,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lje380g",
+      "score": 4,
+      "body": "50 is too many. Studies show there is little added diversification benefit after 30 stocks.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/lje380g/",
+      "created": 1724340126,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljdtf5k",
+      "score": 9,
+      "body": "# How many stocks do I really have in stock: 1,2,3,4 5 + 5",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljdtf5k/",
+      "created": 1724337025,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ljfcqo4",
+          "score": 2,
+          "body": "This is the winning answer for 2024.",
+          "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljfcqo4/",
+          "created": 1724354118,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ljdye8i",
+      "score": 3,
+      "body": "Why do you hold 50?\n\nPortfolio management isn't Pokemon... You don't *\"gotta catch them all\".*\n\nYou're taking away from your #1 pick to allocate to your #50 pick.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljdye8i/",
+      "created": 1724338612,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ljecu9p",
+          "score": 3,
+          "body": "Nothing is certain in investing. You can have what seems to be the best business in the world and it goes up in smoke in a few years. Investors rarely know the full picture.\n\nLook at how many holdings Buffett has. Sure, he'll say he only has one stock, Berkshire Hathaway, but Berkshire shares more in common with an ETF than an individual stock.",
+          "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljecu9p/",
+          "created": 1724343082,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lje46oa",
+      "score": 3,
+      "body": "My portfolio has about 25 that I rebalance in a systematic fashion based on some quantitative measures. I could see increasing it to 50 at some point, but 50 is quite a lot.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/lje46oa/",
+      "created": 1724340424,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljhzfyf",
+      "score": 3,
+      "body": "I own 62 stocks and dollar cost average in about 40 of them per month - $45 to $100 each. I also pick up deep valued  stocks if they are pretty beaten down then I buy $500 -$1000 worth  some examples ( Shopify, Draft Kings, Coupang, Under Armor and Uber)  I bought when they were pretty low and I’m doing very well on them and still holding them . I hold some stocks long term  and some I just look at charts then buy some shares and dump when it hits my price ( another example .. bought GAP at 9 a few years back and sold it at 22.  Probably never touch it again. It’s  kind of what I’m doing with Under Armor now. \nPersonally I like it better than an ETF. \nI do pretty well. \nBut I  really like my  core holdings: here are half of them\nNvda, Goog, MSFT, Cost, Orly, MELI, PANW, AAPL, ABBV, Unp, Leco, RPM, TRV, amzn, NFLX, WM, SPOT, PLTR, ZTS, TSCO, AVGO, MPWR, RPM, PLD, CRWD, XOM, NEE, TSLA, DKNG, Lulu, Uber,DOV, SHOP, V, LOW, HUM, CPNG and many more \nI like my portfolio and I easily outperform Cathy Wood. But of course everybody does. \nYear to date up 29.2%\nOne year - 60.59% \n\nRight now the beaten down stocks I’m buying more of then the usual amount the past few months are HUM, LULU and V. \nTo each their own but I have been doing this for 35 years and I was a Financial Advisor for Merrill Lynch so I learned alot there and I  really enjoy investing as a fun activity and I am very disciplined. \nI dollar cost average each month - irregardless whether the market is up or down.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljhzfyf/",
+      "created": 1724389074,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ljoy39v",
+          "score": 1,
+          "body": "Do YTD return percentages include money deposits?",
+          "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljoy39v/",
+          "created": 1724501042,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ljtn55t",
+              "score": 1,
+              "body": "No",
+              "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljtn55t/",
+              "created": 1724568551,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ljdov4e",
+      "score": 6,
+      "body": "I can only speak from personal experiences.\n\nI’m probably 99% in index funds (U.K. versions of 401k & Roth IRA) but I’m starting to move to a position of 90/10 split where I just take the 10% as “fun money” to pick stocks/asset classes as the total value of investments continues to churn upwards.\n\nWithin that 10% I’ll probably look to get to 10-15 stocks with a couple of those being gambles on finding the next Tesla/Nvidia/AST etc. I think that is a healthy number to be able to moderately cover their earnings/documentations alongside a full time career. You can do fairly well by looking at the S&P 500/insert Index of choice and filtering out the trash depending on your investment style (Loss Making, anaemic growth, high dividend yield, etc)\n\nMy brokerage offers a portfolio X-Ray (AJ Bell - U.K. market) which contrasts prior growth against benchmarks. It’s a pretty handy tool, I can’t speak for US based investment tools.\n\nIt shouldn’t be hard to view periodic growth rates for different indexes and contrast what your current portfolio looks like.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljdov4e/",
+      "created": 1724335508,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lje5if1",
+      "score": 2,
+      "body": ">With 50 stocks in my portfolio, I wonder if it is just mirroring **the index**, or generating any real alpha.\n\nWhich index? S&P500?\n\nI think you're fine",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/lje5if1/",
+      "created": 1724340837,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lje5qee",
+      "score": 2,
+      "body": "I’d keep the ones that pay dividends, sell the ones that don’t and use those funds to buy an ETF or 2",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/lje5qee/",
+      "created": 1724340904,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljedgnz",
+      "score": 2,
+      "body": "I started off like you\n\n\nEventually i buckled down...sound a bunch at a loss...and now i focus on 7 to 10\n\n\nAnything more then that is a mind fuk to keep track for me\n\n\n2 tech\n\n\n2 index\n\n\nAnd 6 companies i believe in, mostly because of their net profit margin and their market cap\n\n\nCant go wrong with the top dogs when it comes to market cap",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljedgnz/",
+      "created": 1724343274,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ljjddms",
+          "score": 1,
+          "body": ">  their market cap\n\nOther than using it as a filter to remove questionable companies in terms of business quality, I don't see this as important at all.",
+          "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljjddms/",
+          "created": 1724417260,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ljksv0j",
+              "score": 1,
+              "body": "everyone has their process, thats just  mines\n\n\nPeople  told me net profit margins dont matter too but for my portfolio  they do",
+              "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljksv0j/",
+              "created": 1724434165,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ljedpar",
+      "score": 2,
+      "body": "Bros portfolio is an index fund",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljedpar/",
+      "created": 1724343350,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljekci7",
+      "score": 2,
+      "body": "50 stocks is way too much to keep track of. If you really want to go down the path of picking individual stocks, pick 10-15 that you’ve researched well and know the business model inside out. Also, just because a stock is cheap, doesn’t mean it’s good. Most airline and car companies trade at a very cheap multiple, but they’re cheap for a reason.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljekci7/",
+      "created": 1724345407,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljf0r8i",
+      "score": 2,
+      "body": "Buffet says 7.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljf0r8i/",
+      "created": 1724350411,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljdq3hw",
+      "score": 4,
+      "body": "118 eft, stock…. I’m fine with it",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljdq3hw/",
+      "created": 1724335933,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljdrdke",
+      "score": 2,
+      "body": "18 is viewed as the golden line between diversification and returns",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljdrdke/",
+      "created": 1724336357,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lje39wm",
+          "score": 4,
+          "body": "18 different stocks but how many should be in different sectors?",
+          "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/lje39wm/",
+          "created": 1724340142,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ljetjch",
+              "score": 2,
+              "body": "I think the logic is more in tech (2-4) and the larger sectors and less in the ones like utilities and real estate (1 each) and then for all others 2ish",
+              "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljetjch/",
+              "created": 1724348212,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ljdvfgw",
+      "score": 2,
+      "body": "How many stocks is too many, I mean there’s too many options!",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljdvfgw/",
+      "created": 1724337670,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljdsx3i",
+      "score": 1,
+      "body": "I think it's too much.\n\nWhether it paid of or not is only something you can tell.\n\nDid you do an extensive DD for all of those 50 companies?  \nWhat do you do to maintain knowledge and keep up with news?\n\nBecause if done properly, that's a shit-ton of work and with that many companies to keep track off you might miss a thing or two if you don't have multiple hours per day to invest into them.\n\nWhether it's worth it is also something we could only tell retrospectively and in the long run. My current inclination would be to say it's not worth it to manage and maintain 50 different stocks because I don't think you'll deliver significant outperformance in the long-term.  \nHowever, if your process turns out to be a real winner and you somehow manage to compound at 20% annually for the next 5-10 years, I'll have been proven wrong. \n\nThere's also the aspect of probably having to pay more order fees since you add individually to each position.\n\nI've always thought of 15-25 positions as reasonable while allowing for potentially significant outperformance.\n\nAlso, welcome to the club. I also fell for Volkswagen because no matter how you looked at them at the time, they seemed good value.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljdsx3i/",
+      "created": 1724336863,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljdvaue",
+      "score": 1,
+      "body": "Depends if you wanna sell them\n\nThen it´s not to many\n\nIf you wanna hold \n\nETF would be more practical",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljdvaue/",
+      "created": 1724337629,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lje0f7l",
+      "score": 1,
+      "body": "From what I've read, it depends on how much money you have invested.  Sell some of the ones you have that are mediocre and invest them into the ones that are doing well. Or sell the mediocre ones and put those funds in a mutal fund. Buy the book, You Have More Than You Think by the Gardner brothers, it will show you how to allocate them into stocks depending on how much money you have to invest.  Most people don't need more than 20 stocks.  If you are investing a smaller amount say $50,000. even less stocks.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/lje0f7l/",
+      "created": 1724339250,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ljefi2o",
+          "score": 1,
+          "body": "The thing is, most stocks actually provide really bad or unreliable returns.\n\nThe S&P500 is only a small portion of the entire US market which has like 10000+ stocks (probably 20000+, but some have such bad liquidity they don't even show up on the software I use to scan the market).\n\nI can go through an entire stock market from A to Z using a financial data aggregator and I'll dismiss about 75-80% of stocks as fundamentally garbage and half of the rest as evidently overvalued. Only a small portion of the market is even remotely worth my time.\n\nAnd I have a similar experience with non-US markets.\n\nSo you're sure those 20 you picked will provide returns that at least match if not surpass a 10% annualized return in USD?",
+          "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljefi2o/",
+          "created": 1724343907,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ljem6h0",
+              "score": 2,
+              "body": "Yes.  I've been invested since around 2007 or so.  I forget when I started doing all this.  I remember it being TD Ameritrade, then Waterhouse, now Schwab.  Not every stock I have picked will match that 10% annualized gain, just like they won't in a fund either.  But the ones I did pick created such a large gain, it offsets the losers.   It's why you want to be diversified, but not over diversified.",
+              "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljem6h0/",
+              "created": 1724345964,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lje0jtx",
+      "score": 1,
+      "body": "50 is good if you are retired or manage a hedge fund. 3-8 is more than enough. If you want to diversify, just buy an etf at this point.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/lje0jtx/",
+      "created": 1724339290,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lje5z3a",
+      "score": 1,
+      "body": "1 or 2 mega caps, 1 or 2 small caps, and the rest in index funds is I think the secret sauce.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/lje5z3a/",
+      "created": 1724340978,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lje698a",
+      "score": 1,
+      "body": "If you have convictions for 50 comapnies, I am geniuenly impressed lol. I will never pick  more than 10 stocks no matter how large my portfoilio is rn its 1.5m with 5 stocks and 3 etfs",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/lje698a/",
+      "created": 1724341065,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lje7oef",
+      "score": 1,
+      "body": "At that point you have your own mutual fund.\n\nI would either simplify to 5 or fewer stocks or put it all in an index fund.\n\nNo point in trying to manage all of that.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/lje7oef/",
+      "created": 1724341500,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lje8ib0",
+      "score": 1,
+      "body": "I hold about 20 + 5 ETFS",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/lje8ib0/",
+      "created": 1724341751,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljeb7xb",
+      "score": 1,
+      "body": "I don’t have the math on hand but I remember reading that if you manager to have 8 positions in different companies (one tech, one energy, one finance, etc) you have 98% market diversification. Anymore positions above that and the gain is diminishing. \n\nAlso, I believe Warren buffet says that you cannot know 50 companies well enough to be invested in them all with confidence in your investments. There is no way you are even reading what Edgar filings the companies you own file. Let alone news related to their industries etc",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljeb7xb/",
+      "created": 1724342577,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ljeo852",
+          "score": 1,
+          "body": "There is factor investing, a middle ground between stock picking and just buying an ETF. It's like making your own custom ETF. Although you do need the right model if you want to outperform or at least match the global market. And you need automation, I don't see how it could be done the old fashioned way.",
+          "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljeo852/",
+          "created": 1724346598,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ljeqj5c",
+              "score": 1,
+              "body": "Even then. The slippage you will experience vs a large etf could kill your returns. Automating investing personally is very difficult. There is a reason the ETFs and hedge funds have teams of engineers developing the system",
+              "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljeqj5c/",
+              "created": 1724347304,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ljedmiz",
+      "score": 1,
+      "body": "I say 100 stocks is limit",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljedmiz/",
+      "created": 1724343325,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljegg0e",
+      "score": 1,
+      "body": "Compare your returns to a highly diversified fund like XEQT. Google XEQT, open the chart on Yahoo finance and see if you are outperforming that fund. If you’re not, it could be easier to just buy that instead of managing 50 stocks.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljegg0e/",
+      "created": 1724344200,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljeijpw",
+      "score": 1,
+      "body": "If you can put it the time to effectively reflect on your investment thesis for each, then it’s okay. Personally, I wouldn’t think it’s worth the time but I don’t know how you value yours",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljeijpw/",
+      "created": 1724344856,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljeo4uo",
+      "score": 1,
+      "body": "Just buy a total market index lol",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljeo4uo/",
+      "created": 1724346570,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljeo54f",
+      "score": 1,
+      "body": "You shouldn’t own more than 30 stocks.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljeo54f/",
+      "created": 1724346572,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljeob61",
+      "score": 1,
+      "body": "I used to have 20+ stocks, but after some big losses because I couldn't babysit all of them all the time, I reduced my portfolio to 5 stocks, 2 of them are ETF with global market and snp500",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljeob61/",
+      "created": 1724346623,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljepwso",
+      "score": 1,
+      "body": "How many growth stocks or very low dividend stocks do you own?  How many have very high dividend but have not performed when it comes to share price?   This is only personal ideas, but I would maybe cut it down to 25-30 stocks just to easier keep track. Take some growth stocks with no dividend or some very low dividend stocks and use the money to increase position size in some medium dividend stocks. Same with maybe some higher dividend stocks you may be down on share price or right near break even. Don’t completely eliminate either area of your portfolio, but trim it down some.  As for ETF’s I like SPYI, they hold many S&P companies and they leverage options to give you 12% dividend. Basically they do the leg work of options so you don’t have to, and use the money to pay I high dividend. You can look it up, see if it is right for you. Maybe it isn’t. But regardless of if you enter an ETF, I would cut your portfolio down to 25-30 positions and increase position size.  Plus if your broker is offering interest on unused cash right now, you can hold cash and just buy in when you feel a stock is taking a dip even if that takes a few months.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljepwso/",
+      "created": 1724347117,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljepzw4",
+      "score": 1,
+      "body": "The 50 stocks what has been your return ? My guess less then you get from s&p 500. Time horizon is factor short term you might best  s&p or Nasdaq  but long will be impossible.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljepzw4/",
+      "created": 1724347143,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljf02wg",
+      "score": 1,
+      "body": "50 stocks? That's too many. What are you trying to do? Diversification? You can diversify just by getting shares from 3 - 4 mutual funds.\n\nYou should only focus on 10-20 stocks and 3 - 4 Mutual funds/ETFs and nothing more.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljf02wg/",
+      "created": 1724350204,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljf24qw",
+      "score": 1,
+      "body": "50 stocks at this point you are creating your own ETF\nnothing wrong having this many as long as it perfoms as well as sp500.\n\nmine is 2 big cap, 2 medium cap and 2 small caps, the rest on etf",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljf24qw/",
+      "created": 1724350834,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljf5wex",
+      "score": 1,
+      "body": "Instead of just dumping everything into an index fund you could go with a Core Satellite portfolio. Basically the gist of it is your biggest holding is some kind of an index fund which makes up the \"core\" of your portfolio. And your \"satellites\" are individual stocks that you feel good about being able to outperform the market with.\n\nYour \"Core\" holding will ensure that you don't get too beaten down if your \"satellite\" stocks do badly, while your satellite stocks can ensure that you still outperform the index if you're good at picking them and investing in the right time. This is the philosophy that I follow for my investing.\n\nAlso I've actually reduced my number of holdings as my portfolio has gotten bigger, and just made bigger more concentrated bets on my top picks, for a lot of the reasons that you mention. I do think that with my limited time it helps me track my portfolio much better. And with a core holding of VTI it helps address my concerns about lack of diversification due to all of the sectors that I don't invest in because of a lack of understanding of them.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljf5wex/",
+      "created": 1724351994,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljf6906",
+      "score": 1,
+      "body": "My limit is 12...but I am a cheater and one of them is BRK which might as well be an ETF\n\nHow many can you actively monitor on a daily basis?  Unless it's your job I doubt it's 50",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljf6906/",
+      "created": 1724352102,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljf6vg7",
+      "score": 1,
+      "body": "if you knew what you do , and monitor  all the times everydays as the real job. yes you can do it but if it's side job and you have another career. \n\nit xan make you miss a lot of whole scenario in that stock or total markets that why etf or index fund are better for casual investors",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljf6vg7/",
+      "created": 1724352294,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljf7zul",
+      "score": 1,
+      "body": "I can tell you with absolute certainty that you are not generating any \"alpha\" by doing this.\n\nAlpha is a statistical artifact that arises when a security's beta is not estimated correctly. It usually occurs if there's a problem with the model, and as soon as that problem is found out, the model gets corrected and alpha vanishes - which is why CAPM keeps getting additional terms tacked onto it. The other time you might see some alpha is when someone has an unexpectedly good or bad quarter and then next quarter their performance regresses to the mean. *Every* stock, security, mutual fund and hedge fund, without exception, runs into this exact problem - that is to say, the fact that alpha is illusory at absolute best. At the end of the day, if you don't have a diversified portfolio, what you're really doing is putting some chips on red or black. For retail investors, Alpha is not predictable, it's not a better approach, it's not something you can reasonably chase in any meaningful way, and it may not actually exist at all, so you may as well not worry about it. For commercial investors, the only Alpha that genuinely exists is the insider trading that happens before some kind of announcement. But by the time *you* hear about it, it's already priced in.\n\nSecond, it doesn't quite seem like you have a diverse portfolio. It sounds like you have a few concentrations in specific industrial sectors, so your investment correlation is quite high, which may increase your beta and standard deviation outside of an optimal or near-optimal envelope. A properly constructed diverse portfolio would do something like this in terms of your risk profile: https://imgur.com/s695O9Q. Ideally, you will have a capital allocation line tangent to the efficient frontier and then you push or reduce your leverage depending on your appetite for risk. But you always want to be tangent to the efficient frontier, either by building a diverse portfolio yourself, or by just buying some ETF which does that for you.\n\nI would suggest that the aggregated legion of MIT math PhDs working for Vanguard and doing nothing but studying a few specific companies and are on the phone with their respective CFOs three times a week are better at assembling a  diverse and efficient portfolio than you or me.  So you are genuinely better off just by going with those guys.\n\nTo simply backtest your portfolio, just take your total shares and run them back to your start date, then compare that with the same dollar amount invested into VOO, and separately, with VT. You'll get a better idea about how things turned out than if you did a very detailed breakdown where you're accounting for the prices on the days you increased your investments. The former is a real performance metric.  The latter is measuring how well your dice throws happened to fall into a randomly walking market.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljf7zul/",
+      "created": 1724352641,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljf9lpm",
+      "score": 1,
+      "body": "1,234",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljf9lpm/",
+      "created": 1724353135,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljfb0vz",
+      "score": 1,
+      "body": "I would just put a trailing stop loss on them. Sell the losers for tax loss harvest. Put the money from the losing stocks in a etf like VTI/voo… or in Nvidia (they probably run if the earnings are good)",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljfb0vz/",
+      "created": 1724353580,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljfchi9",
+      "score": 1,
+      "body": "I remember from statistics class that a sample size of 30 is enough to represent the whole population.  It’s not a coincidence that it’s the Dow 30.  I would think once you get beyond 30 it will be extremely hard to outperform the overall market and you might as well buy a general index just to save on administrative costs and time managing the portfolio etc.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljfchi9/",
+      "created": 1724354038,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljfjk8n",
+      "score": 1,
+      "body": "Answer to the main question \nhttps://www.portfoliovisualizer.com/\nPersonally I'm using snowball, but I'm on paid subscription. Don't know of this tool available for free account\n\nhttps://snowball-analytics.com/",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljfjk8n/",
+      "created": 1724356278,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljfk80e",
+      "score": 1,
+      "body": "I’ve never understood this approach. You’re diversified so your potential returns are lower than more concentrated portfolios, but you’re highly unlikely to outperform the S&P500 with your pick of 50 in the long term. It’s kind of the worst of both worlds. In my opinion, if you’re going to pick stocks, you are saying you are willing to accept risk exceeding the S&P’s with hopes of higher return. It makes much more sense to have a concentrated portfolio in this case, something like 5-10 stocks.  Buffett and Ackman say as much as well. Concentration builds wealth, diversifying preserves it.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljfk80e/",
+      "created": 1724356482,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljfnzhc",
+      "score": 1,
+      "body": "You don’t know how to go big into your winners. You’re just holding your performance back.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljfnzhc/",
+      "created": 1724357642,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljfo5vf",
+      "score": 1,
+      "body": "Learn how to sell covered calls, way out if the money , you add to whatever dividend they pay or make one for those that don’t. Go slowly at first, besides the extra $$ it’s kinda fun",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljfo5vf/",
+      "created": 1724357696,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljfpy18",
+      "score": 1,
+      "body": "15-30 is considered diversified \nhttps://www.edwardjones.com/sites/default/files/acquiadam/2022-07/IPC-7080-A.pdf",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljfpy18/",
+      "created": 1724358245,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljfw7z3",
+      "score": 1,
+      "body": "I own 3 stocks in a $1m portfolio ",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljfw7z3/",
+      "created": 1724360193,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ljlltpk",
+          "score": 1,
+          "body": "what 3?",
+          "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljlltpk/",
+          "created": 1724443506,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ljlp5qa",
+              "score": 1,
+              "body": "Frontier Developments (a little UK games developer). Had a rough 3 years but their games pipeline is solid. Trading sub 1x sales. Peers on 2-3x.\n\n\nGeneDx (a US gene testing company). Riding the momentum here. Still a decent enough valuation but probably towards the end of the run here.\n\n\nRosebank (a UK investment vehicle). Recent IPO. I know the management team. They buy industrials and turn them round. Looking for a big jump when they announce their first deal.\n\n\nI used to own more stocks. A lot of US tech but feel it's all a little frothy there.",
+              "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljlp5qa/",
+              "created": 1724444590,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ljg00jf",
+      "score": 1,
+      "body": "When you buy these stocks, do you buy them with an exit strategy in mind? I feel like that’s the biggest problem here. It sounds like you’re accumulating stocks, not accumulating wealth.\n\nYou could have 5-10 that you bought with an exit strategy in mind and use the money from the others to DCA into those. They’d be a lot easier to monitor. I don’t believe having more stocks lessens your exposure to risk. It’s about the strategy. If you create a plan for yourself and stick to it, there’s no room for emotion.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljg00jf/",
+      "created": 1724361421,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljg2hsc",
+      "score": 1,
+      "body": "The # I learned in college was 25 for an adequately diversified portfolio.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljg2hsc/",
+      "created": 1724362236,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljges5d",
+      "score": 1,
+      "body": "Number holds little weight if you don't have a specific strategy, in which case an index would work better for you if you want to minimise risks.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljges5d/",
+      "created": 1724366475,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljggjkk",
+      "score": 1,
+      "body": "An easy way I use to gauge performance is I have the portfolio's highest value and portfolio's lowest value for each year, average that out. Then I backtrack out the net deposits from the total for the year and compare it to last years total and it gives me a general CAGR. In a single year it may be off, compared to the arbitrary rule of choosing portfolio value on Dec 31st. But over multiple years it balances out to being very accurate. Now that Schwab is my broker it actually just gives me a return performance that adjusts for deposits. It's the one good thing I like about Schwab.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljggjkk/",
+      "created": 1724367119,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljgyfof",
+      "score": 1,
+      "body": "I wish I had only 50. Cant be a bag holder with so few.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljgyfof/",
+      "created": 1724373627,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljhbmb5",
+      "score": 1,
+      "body": "I'd suggest staying out of an ETF. The reason is because you can sell your biggest losers for capital loss tax deductions. You can only deduct $3k of capital losses each year but if you have a big capital gain such as selling a home for profit then you can sell your stock losers to offset it. ETFs don't have that ability.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljhbmb5/",
+      "created": 1724378571,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljhbx98",
+      "score": 1,
+      "body": "Index ETFs will miss the dramatic upside swings you have in individual stock names, I know there are downsides, but if you buy quality names and watch them you should do as well or better than an index fund.   ETFs will rebalance to include the high flyers, but by then that horse has  left the barn.\n\n\n\nTake care.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljhbx98/",
+      "created": 1724378688,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljhd19s",
+      "score": 1,
+      "body": "I’m not convinced 95% of stock pickers can beat the sp500",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljhd19s/",
+      "created": 1724379113,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lji56zu",
+      "score": 1,
+      "body": "You can calculate total returns in Google Sheets, pulling down prices from GoogleFinance(), if you kept good records.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/lji56zu/",
+      "created": 1724392297,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljibe1g",
+      "score": 1,
+      "body": "5 long term holds (many years) and 5-10 swing trades in my trading portfolio, in my ROTH IRA (not selling for 30/40 years) I have 5 total holdings really one main ETF a close 2nd two more growth focus mutual funds and BRK.B",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljibe1g/",
+      "created": 1724396104,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljirhc3",
+      "score": 1,
+      "body": "How many of your stocks have strong correlations? For instance, are large cap and in the same sector?  There is no point in owning stocks like that.  Pick your winners.\n\nYou need to refine your criteria for investing if you have that many stocks.  I have 10.  I know of maybe 10 more that fit my criteria as backups if my thesis changes on one of my holdings. I equal weight my stocks.  I keep sectors and market cap diversified. I also keep my stocks equal weight to my total market index. I rebalance quarterly.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljirhc3/",
+      "created": 1724406579,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljixu80",
+      "score": 1,
+      "body": "Let me do you a solid here.\n\nIf nvidia didn’t even make your top 50 then you should stick with index…",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljixu80/",
+      "created": 1724410305,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljjflfp",
+      "score": 1,
+      "body": "I didn't read all the comments,  so I'll apologize if it's been covered.   50 is a lot, to try to stay truly up to speed, do research,  etc, unless you truly love delving into them.  I personally would say no more than between 5 and 10 core stocks and one or 2 speculative, long shot types.  The more stocks you get, the more your performance is forced to mirror the market.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljjflfp/",
+      "created": 1724418102,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljn3xea",
+      "score": 1,
+      "body": "The odds of you beating the index with 50 stocks is incredibly low—maintaining that outperformance would put you in a very small group of investment advisors.  It’s very hard to do when it’s a full time job and you have training, experience, etc.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljn3xea/",
+      "created": 1724463366,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljnbhf0",
+      "score": 1,
+      "body": "It can be done with rigorous calculations, but doesn’t necessarily need to be.  A lazy thumbnail approach would probably reveal how the performance compares.  From the fact you don’t know and are asking these questions, plus some of the investing thesis you’ve stated, the odds are extremely against you outperforming.  \n\nAlso, a 2 year test is nearly meaningless in terms of actual “investing”.\n\nThe rudimentary thumbnail can be this easy: tell me what lump sums and dates and/or if you did any regularly monthly type contributions and what size.  Then tell me today’s portfolio balance.\n\nRule of thumb is you should be spending 1-2 hours per position per week.  \n\nSo it is possible to have 50 positions (I’ve managed up to 40 for a fund) if you put in the time and discipline and patience and are actively managing it.  I enjoyed being able to look at the portfolio any given day or week and see overbought positions that could be used to harvest gains, and marry them up to watch lists that had desirable names that were oversold.  Out of 40, there’s almost always at least a few that are suitable for trading.  And of the 40, there could certainly be some that you can tolerate being dead money for months or even years, then they’d move 40% in a day and could be sold to still meet our overall long term investing target return.  With 4 positions, it would be much harder to let a dormant position tie up capital for so long.\n\nIf you’re managing a portfolio full time, having a continual schedule of earnings and dividends keeps one engaged and sharp with markets and sentiments.  \n\nUntil you give your numbers, best educated guess is you’d be far better off with a small bundle of ETFs for the vast majority of your capital.  Maybe you could alot yourself a tiny fund that you give you herself permission to lose every cent, restrict yourself to 5 equal size positions, and then trade your heart out.  See if you are the rare exception who can trade well.  If you do well with your 5 stock mini-port over a ten-plus year period, you could consider whether to expand on it.\n\nBut whatever you do, think of your time versus value.  Suppose you being active nets you 12% and passive does 8%, then what’s that 4% worth and what’s your time worth.\n\nOn a million portfolio, that’s $40,000 and maybe 20x50=1000 hours.  Your work and risk is thus worth $40/hour.  Maybe that’s good for you.\n\nOn $100k portfolio that’s $4/hour, and you might realize you’d be better off waiting tables for $20/hour and taking less risk.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljnbhf0/",
+      "created": 1724466548,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljpa8tv",
+      "score": 1,
+      "body": "I think you’ve made solid choices with individual stocks, but it might be helpful to trim your positions down to 30-35 stocks to make managing your portfolio less overwhelming.  \n\nI was losing money due to over-diversification. Then I trimmed my positions, added more alpha, blue chip, and income stocks, and picked fewer growth stocks. As a result, I’ve been making great gains over the past few years.\n\nIf you’re concerned about NVDA, which I think it should be fine over the next five years, go with AVGO. That’s the blue chip stock for AI.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljpa8tv/",
+      "created": 1724506388,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljwwycs",
+      "score": 1,
+      "body": "I studied this in college and anything over 20 is way too much and the ideal amount is 5 to 10 with chances of benefiting long term lowering the more individual stocks that are added",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljwwycs/",
+      "created": 1724619024,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljxk5h1",
+      "score": 1,
+      "body": "You know you can just compare your RoR with that of SPY or whatever index you choose, over a span of time.. But being successful on indiv stocks will net you a greater return.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljxk5h1/",
+      "created": 1724627559,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljzcifx",
+      "score": 1,
+      "body": "I’ve half only 2 for 5 years. So 3 is too many for me:)",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljzcifx/",
+      "created": 1724658924,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lk6a5kh",
+      "score": 1,
+      "body": "  \n\"I was wondering if I can do a simulation of hypothetical scenario where I had simply invested in index, saving me   \nenormous time in research. If so, please suggest tools/sites?\"\n\nIf you have data in excel/spreadsheet, XIRR is the function you are looking for. \n\nIn one column you will get all your deposits/withdrawals, and lastly final value of portfolio. Mind +/- sings.  In the second column you will have dates for this transactions. XIRR will give you your avg return. \n\nFor other part of the question, in next columns you can simply calculate what return would be from pure index portfolio. As if you just buy/sell some ETF on any given date and what would be final value of this hypothetical portfolio. Make fist column with historical value of given index funds(e.g. =INDEX(GOOGLEFINANCE(\"<Index ticker>\",\"price\",<date>),2,2)), second column for count of shares that would be amount(deposits/withdrawals) divided by previous column.. Sum of this will give you total number of shares, just multiply it witch current index ETF price and you have your total value of portfolio you could have.\n\nIf you already have data in excel or can export it from broker it is quite easy job. I find this simpler as third party tools, but it less flashy. \n\nIt can get little tricky when you are dealing with multiple currencies, but not impossible.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/lk6a5kh/",
+      "created": 1724766315,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkqio47",
+      "score": 1,
+      "body": "I hold 80% etf and 20% random stocks I like. But i’m a regard so maybe don’t take advice from me",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/lkqio47/",
+      "created": 1725052619,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljdrgo0",
+      "score": 1,
+      "body": "I have 26 now down from close to 50.  My goal is about 20.  Just waiting for a couple to get green and sell and out more shares in my others.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljdrgo0/",
+      "created": 1724336386,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljdtk98",
+      "score": 1,
+      "body": "dreamer deworsification. I'd say trim it down to 10 or less. No need to go Peter Lynch over here. \n\nRegarding the tool you ask.. if you have the patience to feed in all your positions buys etc.. google finance portfolio feature allows you to compare your portfolio easily with any other etf stock (s)",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljdtk98/",
+      "created": 1724337071,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljdvow2",
+      "score": 1,
+      "body": "you can backtest here \n\n[Backtest Portfolio Asset Allocation (portfoliovisualizer.com)](https://www.portfoliovisualizer.com/backtest-portfolio#analysisResults)",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljdvow2/",
+      "created": 1724337753,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljebi89",
+      "score": 1,
+      "body": "I was in the same boat until this week. Too hard for me to keep track of. I have sold a ton, moved most to funds and have about 20 stocks now.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljebi89/",
+      "created": 1724342665,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljdotie",
+      "score": 0,
+      "body": "It’s never too many :)",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljdotie/",
+      "created": 1724335492,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljdo8up",
+      "score": 0,
+      "body": "I had the same problem but i used the recent dip to get rid of most positions i didn't wanted to hold any longer and went straight into an ETF.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljdo8up/",
+      "created": 1724335297,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljdqvbl",
+      "score": 0,
+      "body": "You did an extensive DD for 50 stocks? Wow\n\nIf not...erm...wow? Good luck, I guess.",
+      "permalink": "/r/stocks/comments/1eyjtg8/how_many_stocks_is_too_many_i_hold_50_now_better/ljdqvbl/",
+      "created": 1724336188,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

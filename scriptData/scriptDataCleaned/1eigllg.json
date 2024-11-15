@@ -1,0 +1,593 @@
+{
+  "title": "Nvidia antitrust probe: Which competitors to buy?",
+  "score": 32,
+  "selftext": "Let's say our criteria is that it is a competitor that stands to benefit from the antitrust probe *and* it is a decent company in it's own right.\n\nAMD just had a good earnings call and should benefit from the probe (if it is successful). What other companies could benefit? Is Intel a possible contender? Google with its TPUs? Or Apple, Amazon or Microsoft who are also likely to build their own AI solutions? Or some small companies like Graphcore, Cerebras Systems or Habana Labs?\n\nAlso, does the probe have to succeed in order for competitors to benefit? Or is simply the shadow of the probe enough to give these competitors enough breathing room to increase their chances of success.\n\nLove to hear your thoughts. Please note we're not here to debate whether this investigation is justified. Just want to know who could benefit.",
+  "link_flair_text": null,
+  "id": "1eigllg",
+  "num_comments": 62,
+  "created_utc": 1722621265,
+  "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/",
+  "comments": [
+    {
+      "id": "lg6j937",
+      "score": 99,
+      "body": "Intel..   ok ok I'll see myself out",
+      "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg6j937/",
+      "created": 1722623727,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lg6wl79",
+          "score": 68,
+          "body": "Grandson is that you?????",
+          "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg6wl79/",
+          "created": 1722628039,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lg7gnuw",
+          "score": 16,
+          "body": "700k or GTFO",
+          "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg7gnuw/",
+          "created": 1722634676,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lg79ipn",
+          "score": 8,
+          "body": "Buy the ~~dip~~ cliff",
+          "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg79ipn/",
+          "created": 1722632259,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lg9xme7",
+          "score": 1,
+          "body": "Intel would only be proper competitor when figuring out how to incorporate the knowledge gained through their Mobileye purchase… which they are not even thinking about right now.",
+          "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg9xme7/",
+          "created": 1722676969,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lga31lm",
+          "score": 1,
+          "body": "Wait …wait, so intel should buy stock in nvda",
+          "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lga31lm/",
+          "created": 1722680661,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lg6seol",
+      "score": 23,
+      "body": "Really the only true competitor at this point is Google with the TPUs.\n\nIt is why Google is now the third largest datacenter chip designer and will be #2 before the end of the year.\n\nhttps://blog.svc.techinsights.com/wp-content/uploads/2024/05/DCC-2405-806_Figure2.png",
+      "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg6seol/",
+      "created": 1722626677,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lg7rrwe",
+          "score": 1,
+          "body": "Why are they the true competitor and not microsoft and amazon which are also making chips. also amazon and microsoft are much higher in ranking of biggest cloud providers",
+          "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg7rrwe/",
+          "created": 1722638693,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lg7vel4",
+              "score": 13,
+              "body": "You do not understand.    Microsoft and Amazon both use Nvidia.\n\nGoogle developed their own starting over 12 years ago.  Now on the sixth generation in production and actively developing the seventh.\n\nGoogle is really the only competition right now to Nvidia.  But I sure would think AMD would get there at some point.",
+              "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg7vel4/",
+              "created": 1722640063,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lg81yh4",
+                  "score": 3,
+                  "body": "Amazon also have their own chips but that don't make them Nvidia competitors.",
+                  "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg81yh4/",
+                  "created": 1722642562,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lgap37n",
+                      "score": 1,
+                      "body": "You’re assuming that all new chips are created equally. Google literally invented the algorithm that run large language models. They have a significant advantage to designing and optimizing for AI workflows",
+                      "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lgap37n/",
+                      "created": 1722691939,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lg9w4uu",
+                  "score": 1,
+                  "body": "Microsoft and Amazon obviously both use AMD , they just couldn't say that due to the reasons in the antitrust suit. /s  No but seriously the whole thing is about Nvidia supposedly punishing anyone who even thought about buying from it's competitor's.",
+                  "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg9w4uu/",
+                  "created": 1722675933,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lg82k7m",
+                  "score": -1,
+                  "body": "you dont understand, msft and amzn have tpu competitors, lol. tpu is a brand name. \n\nits like you heard about jordans and now your investment thesis is nike is the only company in the world who is making shoes",
+                  "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg82k7m/",
+                  "created": 1722642791,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lg9e18i",
+                      "score": 2,
+                      "body": "Point still stands. I believe they’re on TPU gen 4 or 5 at this point? Microsoft and Amazon have just entered into this space, and are only on their first or second gen. And that’s not even talking about the software Google has built out for their TPUs. Half the process is the chip, the other half is the compiler/ inference engine / runtime environment, another aspect where Google’s time in the market benefits them, as they’ve had much more time than Google and Amazon to build out their software stack. \n\nNo, they probably won’t end up selling their TPUs individually to businesses. But what they probably will do is keep expanding their GCP services, specifically their cloud TPU offerings.",
+                      "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg9e18i/",
+                      "created": 1722664247,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lga0wl9",
+                      "score": 0,
+                      "body": "Sorry not following this comment.   There are really only two choices for handling LLM efficiently right now.   \n\nThere is Nvidia chips and there are Google chips.\n\nAmazon and MSFT both use Nvidia.  Google has their own.\n\nThe wildcard will be AMD. I would expect them to get into the race soon.  Some think they are already there but I do not.",
+                      "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lga0wl9/",
+                      "created": 1722679238,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lgflz4v",
+                          "score": 1,
+                          "body": "Amazon does indeed have its own set of chips, inferentia and trainium, and they've been out for a while. 2+ years from what I understand and have a growing customer base. \n\nFor companies and people looking at training on known and fixed DL architecture custom chips/asics from Amazon, Google etc are better off than Nvidia. There's a place and nice. \n\nLLMs so far aren't generating meaningful revenue for end customers (while different story, I digress) and as most LLMs converge in terms of performance, the game then changes to who can perform inference faster and cheaper. Not a lot of companies will take the trouble to train or fine tune models. In such cases Asics/dl specific hardware will underpin the demand for these other chips.",
+                          "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lgflz4v/",
+                          "created": 1722767371,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lgfma7b",
+                              "score": 0,
+                              "body": "Amazon is NOT able to run LLMs on their chips.  So has little value.\n\nThere is only two options right now. TPUs and then Nvidia.\n\nThe next one that will likely become possible is AMD.\n\nIt is why Google is now #3 in terms of datacenter chip design and will move to #2 before the end of the year.\n\nhttps://blog.svc.techinsights.com/wp-content/uploads/2024/05/DCC-2405-806_Figure2.png\n\nWhich is just very bullish for Google as they now have the best LLM in the world as they are now on top of the leader board.\n\n\n\nhttps://chat.lmsys.org/?leaderboard\n\n\nGoogle is the clear #1 in terms of AI.   Meta is now a distant second.",
+                              "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lgfma7b/",
+                              "created": 1722767577,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lgfnafd",
+                                  "score": 1,
+                                  "body": "I'm not sure where you got that Amazon can't run LLMs. [Here's an example where llama was set up to run on inferentia, and had presumably better throughput and cost efficiency. ](https://www.philschmid.de/inferentia2-llama-70b-inference#5-benchmark-llama-2-70b-on-inferentia2)\n\nI'm sure if you search, you'll find AWS official benchmarks for their chips including LLMs. \n\nAMD is laughably behind in this game. And I know of folks who've played around with Intels Gaudi HAbana  GPUs. Not to say they won't catch up. But catching up to Nvidia is a tall tall task for anyone. \n\nNo one cares, which LLM is at the top. Those performances converge quickly. And we are hitting a plateau/point of diminishing return with our current training strategies. It's whoever monetizes these LLMs is who's winning that war. OpenAI is already losing ground to anthropic and Gemini.\n\nFwiw: goog is a great investment if that's what your trying to get to. But just pointing out that it isn't the only alt player in the ai chips race.",
+                                  "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lgfnafd/",
+                                  "created": 1722768243,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "lgfnu7a",
+                                      "score": 1,
+                                      "body": "Efficiently.  You missed this important caveot.   Only Google TPUs and Nvidia today.\n\nAMD probalby soon.\n\nBut Amazon can NOT run LLMs efficiently on their own silicon and stuck using Nvidia.   \n\nThis gives Google a HUGE competitive advantage over everyone else.",
+                                      "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lgfnu7a/",
+                                      "created": 1722768594,
+                                      "depth": 8,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lg9wwb6",
+              "score": 0,
+              "body": "Google have been making them for 12 years. Amazon and Microsoft have been making them for less than 12 months.",
+              "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg9wwb6/",
+              "created": 1722676462,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lg72xzt",
+      "score": 27,
+      "body": "Probably still NVDA.\n\nThese antitrust probes couldn't kill MSFT,  GOOG, or AMZN, what makes you think it will kill NVDA?",
+      "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg72xzt/",
+      "created": 1722630099,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lg7tevn",
+          "score": 9,
+          "body": "Also, good luck switching from cuda",
+          "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg7tevn/",
+          "created": 1722639308,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lg8erut",
+              "score": 0,
+              "body": "This guy GPUs",
+              "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg8erut/",
+              "created": 1722647602,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lg8yr81",
+              "score": 0,
+              "body": "Look up ZLUDA, CUDA won’t be necessary in the near future",
+              "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg8yr81/",
+              "created": 1722656175,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lg8dr37",
+          "score": 0,
+          "body": "I don't think it will kill NVDA, but rather it might slow them down enough to create a good opening for competitors to grab more market share.",
+          "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg8dr37/",
+          "created": 1722647189,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lg6e39i",
+      "score": 13,
+      "body": "Idk how much impact this probe will actually have, but if you're looking for competitors to Nvidia's networking side (Mellanox), I think AVGO is a good pick.\n\n(Since it seems this investigation is looking into how they're bundling networking + GPUs, among other things)",
+      "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg6e39i/",
+      "created": 1722622082,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lg6g91h",
+      "score": 14,
+      "body": "Will the probe actually lead to anything or are people just fearful of it? I used the opportunity to buy more NVDA at a discount.",
+      "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg6g91h/",
+      "created": 1722622773,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lg7nrwz",
+      "score": 4,
+      "body": "AMD should be the best competitor, followed by AVGO.",
+      "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg7nrwz/",
+      "created": 1722637212,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lg6cbxi",
+      "score": 18,
+      "body": "Nvidia has only competitor in the AI space and that is AMD.",
+      "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg6cbxi/",
+      "created": 1722621527,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lg6rh5t",
+          "score": 7,
+          "body": "Google TPUs. Apple is using Google TPUs to train their AI models.",
+          "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg6rh5t/",
+          "created": 1722626375,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lgbndf6",
+              "score": -2,
+              "body": "Google TPU also use nvidia chips. Not sure if all are",
+              "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lgbndf6/",
+              "created": 1722704128,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lgbyf79",
+                  "score": 2,
+                  "body": "That’s not correct. It’s their own chip design.",
+                  "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lgbyf79/",
+                  "created": 1722707897,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lg6xjsf",
+      "score": 3,
+      "body": "Most likely this probe won’t go anywhere just remember that the us government also got n vda to limit its sale of cards to china and there is most likely some for of subsidizing with the us gov highly doubt we see this go anywhere even if the claims are founded",
+      "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg6xjsf/",
+      "created": 1722628350,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lg7iiru",
+      "score": 2,
+      "body": "It’s like asking “now that Michael Jordan stubbed his toe, would you rather have Reggie Miller?” No you still want MJ with a stubbed toe",
+      "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg7iiru/",
+      "created": 1722635324,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lg8e8vw",
+          "score": 1,
+          "body": "I already have a lot of Nvidia stock though...",
+          "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg8e8vw/",
+          "created": 1722647387,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lg7voik",
+      "score": 2,
+      "body": "Nvda. Because it's a nothing burger. They almost ended the day green after being down like 6%",
+      "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg7voik/",
+      "created": 1722640169,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lg6w4lu",
+      "score": 3,
+      "body": "Wait about 6 weeks and buy Cerebras after they IPO",
+      "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg6w4lu/",
+      "created": 1722627891,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lg8duvv",
+          "score": 1,
+          "body": "Thanks this is a good tip.",
+          "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg8duvv/",
+          "created": 1722647230,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lg9v79g",
+              "score": 2,
+              "body": "let me add more info, since you seem interested. \n\nTheir last round of valuation was $4.5B about 3 years, and that was before the AI hype cycle started. I think it's fair to assume they should be worth $10B-$15B based on conservative multipliers around sales/growth.\n\nBut we all know IPOs can cause some crazy valuations. Personally, I would be hesitant to invest in the first 6 months of the IPO if their valuation is anything above $20B (take a look at $SNOW's crazy valuation history).\n\nIf you can get some around $10B-$15B from IPO, then it's probably worth it.",
+              "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg9v79g/",
+              "created": 1722675305,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lgcvxaq",
+                  "score": 1,
+                  "body": "Thank you for the details I really appreciate it!",
+                  "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lgcvxaq/",
+                  "created": 1722719607,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lg9l42e",
+              "score": 1,
+              "body": "I highly doubt they will be profitable. There’s a reason no one wants to build big chips. In fact, the industry is moving toward a completely different direction - making smaller chips and connect them together. And the reason is because smaller chip is more cost effective to make and design.  ",
+              "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg9l42e/",
+              "created": 1722668658,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lg9ri54",
+                  "score": 1,
+                  "body": "They're already cash-flow positive.",
+                  "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg9ri54/",
+                  "created": 1722672823,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lg9t803",
+                      "score": 1,
+                      "body": "How do you know? Do you have vested interest in the company?",
+                      "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg9t803/",
+                      "created": 1722673966,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lg9tb1p",
+                          "score": 1,
+                          "body": "The CEO mentioned it in several interviews.",
+                          "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg9tb1p/",
+                          "created": 1722674023,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lg9tyx0",
+                              "score": 1,
+                              "body": "Damn that’s interesting. It goes against the traditional wisdom of making chip small for higher yield, lower cost. One can build redundancy but it will cost more area. And also scalability. Routing to the middle of the wafer is also gonna be challenging.\n\nIf it proves to work economically, that will open up a lot of possibilities. ",
+                              "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg9tyx0/",
+                              "created": 1722674470,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lg9up8m",
+                                  "score": 1,
+                                  "body": "Supposedly they developed a technique to achieve very high yields across the whole wafer, so the main downside of large chips is negated.\n\nhttps://www.anandtech.com/show/16626/cerebras-unveils-wafer-scale-engine-two-wse2-26-trillion-transistors-100-yield",
+                                  "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg9up8m/",
+                                  "created": 1722674963,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lglfne9",
+          "score": 1,
+          "body": "I bought Cerebras pre-ipo on Linqto (my invite with a join bonus is on my X called lelapinroi) they still have supply (even though price went up) but I guess that's the best advice otherwise for a regular investor",
+          "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lglfne9/",
+          "created": 1722859382,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lhjv7nr",
+              "score": 1,
+              "body": "I also bought on Linqto 10k ( I think valuation basis was 7.1b) and almost instantly regretted as I think it’s unlikely that I won’t be able to pick it up after ipo for a cheaper valuation but I’ll be happy if I’m proved wrong.",
+              "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lhjv7nr/",
+              "created": 1723356432,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lhk4ft9",
+                  "score": 1,
+                  "body": "you can always trade shares on Linqto, right now you can trade your Cerebras shares for $51.26 a piece for another company, I keep mine but that's always an option.",
+                  "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lhk4ft9/",
+                  "created": 1723362316,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lg75xtt",
+      "score": 4,
+      "body": "I don't see any anticompetitive practices from nvidia tbh. It supplies hardware and it supplies a library that can leverage that hardware really really well. There is just a few folks salty about their success. Heard a lot of folks referring to how 100B are going just to nvidia and it's not fair etc. It's perfectly fair, if it wasn't for Nvidia this market would not exist today.",
+      "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg75xtt/",
+      "created": 1722631083,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lg9w8vz",
+          "score": 1,
+          "body": "First GPP and now this? Are you even paying attention?",
+          "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg9w8vz/",
+          "created": 1722676010,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lgayqwc",
+              "score": 1,
+              "body": "clearly i am not. what's GPP.",
+              "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lgayqwc/",
+              "created": 1722695649,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lgdf8p8",
+                  "score": 1,
+                  "body": "GeForce Partners Program. A program where Nvidia board manufacturers were dropped if they sold any AMD gpus.\nToday if NVIDIA finds out you are buying AMD gpus, your Nvidia GPU shipment will experience \"delays\".",
+                  "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lgdf8p8/",
+                  "created": 1722726792,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lg7uf89",
+      "score": 1,
+      "body": "None, nobody made anything close to CUDA, GPU is only 1/2 the AI toolkit.",
+      "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg7uf89/",
+      "created": 1722639692,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lg8idpy",
+      "score": 1,
+      "body": "TINA",
+      "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg8idpy/",
+      "created": 1722649080,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lg72z83",
+      "score": 1,
+      "body": "To the best of my knowledge intel and nvidia are not competitors. Why risk your money in the semiconductor industry if you’re too lazy to even research the supply chain?",
+      "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg72z83/",
+      "created": 1722630110,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lg8kdb8",
+          "score": 2,
+          "body": "Intel’s trying hard to compete with them though, so much so that they’re willing to sacrifice much of their core business for it.",
+          "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg8kdb8/",
+          "created": 1722649892,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lg8ovfq",
+              "score": -1,
+              "body": "No, Intel is planning on switching to the fabrication business and competing with TSMC, and becoming a supplier for chip designers like Nvidia.",
+              "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg8ovfq/",
+              "created": 1722651777,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lg8u8uc",
+                  "score": 2,
+                  "body": "They’re entering the foundry space, but are not switching to it entirely. And it’s ironic: they’re both designing chips to compete with Nvidia, but are also hoping to manufacture Nvidia’s chips too. In any case, foundry is a brand new business for them, and it’s going to be unprofitable for a long time. I personally think that Intel has sacrificed far too much for it.",
+                  "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg8u8uc/",
+                  "created": 1722654102,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lg7bv8h",
+      "score": -3,
+      "body": "IF Trump wins in November, that will be the end of such DOJ foolishness",
+      "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg7bv8h/",
+      "created": 1722633040,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lg7bzwl",
+      "score": 0,
+      "body": "NVDA",
+      "permalink": "/r/stocks/comments/1eigllg/nvidia_antitrust_probe_which_competitors_to_buy/lg7bzwl/",
+      "created": 1722633083,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

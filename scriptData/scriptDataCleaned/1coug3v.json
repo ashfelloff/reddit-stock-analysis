@@ -1,0 +1,1475 @@
+{
+  "title": "Informed traders can show you how and when to double your money",
+  "score": 431,
+  "selftext": "Corporate insiders know more about the company than anyone in the professional and retail community can ever know. There is conflicting research about the value of tracking and mimicking the trades of insiders, as is usual with all academic research.\n\nHowever, thus far no public paper has synthesized market conditions and corporate insider trading which are quantifiable into a multi-factor quantitative model. In addition, and this it not unexpected, no paper has attempted to formulate opportunistic trades when such model offers a signal to buy or sell a stock.\n\nThe idea is to use several combined market conditions and insider trading information and create a weekly scan or stocks which are poised for mean reversion over the 30-45 days or so, and to trade the signals with options, but in a way that if the move does not happen in the time frame, the loss should be minimal.\n\nSo the question is what are these market conditions and how do we formulate the trades?\n\nI start with [Lakonishok](https://www.jstor.org/stable/2696757) who finds that insiders trade in a contrarian way, and buy stock, rather than sell, on asymmetric information, and the firms they trade and work in are small. This makes sense to me and these factors are easily quantifiable. Next, I agree with [Kacperczyk and Pagnotta](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2695197) that informed trading happens in periods of high volume, high volatility and high liquidity, so that informed traders can disguise their trading more easily. One key metric in their paper is OTM option volume versus total volume, tracked as ratio, but since this requires a lot of modeling, I will manually examine the OTM volume and open interest as a final qualification of the trade. Finally, I will not blindly chase the trade with OTM call options, but I will create spreads which will benefit from price increases, but will limit the downside risk, e.g. call ratio spreads. Each trade will be different, and it will match not only the implied move in the underlying, but also it will depend on the option prices for the stock and the liquidity as very few small firms have liquid options.\n\nA simple search for companies which have experienced a large decline in their stock and an immediate insider buying results in a few stocks:\n\nhttps://preview.redd.it/0udk3go3rmzc1.png?width=712&format=png&auto=webp&s=d97aaea66c39d87cdcbb30fff42d48c81e7cb0ce\n\nSo far, I have traded VSTS because it has declined on an earnings miss, but immediately, two directors and a hedge fund that owns more than 10% invested in the company stock. \n\n**EDIT:** another insider [bought over 100K worth of stock above $11.5 yesterday](https://www.sec.gov/Archives/edgar/data/1171341/000121390024041801/xslF345X01/marketforms-65826.xml). He is an EVP and chief attorney for the company. This is reinforcing news.\n\nAlso, there was new open interest in the 12.5 call, which may or may not be a confirmation of the thesis, because it might be a covered call trade, or any other sort of spread trade. Regardless, my trade in this stock is a 1x6 call ratio spread, albeit a short term one, and I will probably need to reload for the next expiration. Here is the spread for illustration only, but these are my actual entry prices:\n\nhttps://preview.redd.it/o45fldg8rmzc1.png?width=183&format=png&auto=webp&s=807f3f342448267e0c82941eea80bbddb1a0eb0b\n\nIf the stock remains between 10.7 and 12.5 next week, I will lose money. If the stock goes above 12.5 then the thesis will be right an the ratio spread will work. If the stock tanks back to below 10.7 then I will make money on the spread because of the single short call at 10.\n\nI will look into trading longer duration spreads on the other stocks. These are speculative trades so keep the exposure small, and always finance the trade with other options so if the trade reverses, the loss is minimized.\n\nHope you enjoyed the trade idea, and the rationale behind it.\n\nCheers!",
+  "link_flair_text": "DD",
+  "id": "1coug3v",
+  "num_comments": 165,
+  "created_utc": 1715360458,
+  "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/",
+  "comments": [
+    {
+      "id": "l3gfzq3",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 10 | **First Seen In WSB** | 3 years ago\n**Total Comments** | 639 | **Previous Best DD** | \n**Account Age** | 3 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3gfzq3/",
+      "created": 1715360461,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l3gybu7",
+      "score": 157,
+      "body": "My CEO doubled the stake in the company and the stock crashed by about 60% in the following quarter",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3gybu7/",
+      "created": 1715367202,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l3hchpz",
+          "score": 40,
+          "body": "one of us one of us",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3hchpz/",
+          "created": 1715372325,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l3j6bqa",
+              "score": 24,
+              "body": "The karma felt sweet as this cunt had fired about 20-30% of the company to increase the stock price",
+              "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3j6bqa/",
+              "created": 1715400619,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l3gzm4w",
+          "score": 22,
+          "body": "I am sure he was an exception. My trade might be a similar exception and it might be a losing trade. I might extend it a couple of expirations until it turns a profit.\n\nThe goal is to make many similar but small trades so that on average, you ride the informed traders' coattails and make more money then them.",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3gzm4w/",
+          "created": 1715367655,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l3h02dy",
+              "score": 39,
+              "body": "Oh he was a dumbass. This is pretty good, I think we should exclude CEO's who are founders as they can behave emotionally during downturns",
+              "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3h02dy/",
+              "created": 1715367816,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l3h1yll",
+                  "score": 15,
+                  "body": "This is interesting for sure. They have all kinds of biases if they are founders, I agree.\n\nIn this case, it as a hedge fund that owns more than 10% that bought 34M worth of stock, and two directors ho bought a combined 1.2M in stock, after it dropped due to the earnings miss.\n\nTo me this signals that the miss was a blip and that the stock should recover...whether 12.5 calls will print is another story, but if not, I will regroup and reload for june and other expirations. I kind of hope that if I am wrong that the stock tanks enough so that the short 10 call is iped out and I make a gain. That would be a nice anti-thesis win, and the beauty of the ratio will show.\n\nGood luck!",
+                  "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3h1yll/",
+                  "created": 1715368494,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l3htaao",
+                      "score": 2,
+                      "body": "It might recover or it might not. So while you base your assumptions on the value of the stock Vs insiders ownership of the stock. The one thing you miss is that the insiders are always able to wait much much long for the stock to recover or don't even care about the stock recovery as they get their fair value from inside the company with their base pay, bonuses, other benefits etc. \n200k USD might be quite a sum for you, but for them it's pocket money and on top of that it's pocket money they are not bothered to lose if that's what happens.    \nSo as per logic, most of your assumptions should be correct, but the market is rarely logical and is mostly irrational.    \nBetter bet would be to follow congres members buys, the ones that have a history of successful trades.",
+                      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3htaao/",
+                      "created": 1715378704,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "l3h2a5a",
+                      "score": 2,
+                      "body": "Yes in this case it should be good. My thoughts whenever I see such a post is to create a strategy which can be applied in long term to different companies",
+                      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3h2a5a/",
+                      "created": 1715368609,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l3h3f36",
+                          "score": 5,
+                          "body": "Same here. Hence the research and quoting papers etc...",
+                          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3h3f36/",
+                          "created": 1715369016,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l3ghbhp",
+      "score": 226,
+      "body": "Citing actual papers, wow.",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3ghbhp/",
+      "created": 1715360925,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l3giik9",
+          "score": 78,
+          "body": "Yep, if only for the stock to remain in the losing range of the ratio ![img](emote|t5_2th52|4271)",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3giik9/",
+          "created": 1715361341,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l3iidzf",
+              "score": 8,
+              "body": "It will, then hit it will shoot to $13 on Monday ![img](emote|t5_2th52|4271)",
+              "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3iidzf/",
+              "created": 1715389308,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l3jmeh4",
+                  "score": 1,
+                  "body": "I am reloading for june and the following expirations until it hits",
+                  "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3jmeh4/",
+                  "created": 1715410849,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l3kos1u",
+                      "score": 2,
+                      "body": "Why not leaps?",
+                      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3kos1u/",
+                      "created": 1715435351,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l3l87j7",
+                          "score": 1,
+                          "body": "No liquidity, but more importantly, I can't do a decent ratio spread with LEAPS.",
+                          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3l87j7/",
+                          "created": 1715443330,
+                          "depth": 5,
+                          "replies": []
+                        },
+                        {
+                          "id": "l3kshvm",
+                          "score": 0,
+                          "body": "25% spreads for OTM leaps, no liquidity in that",
+                          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3kshvm/",
+                          "created": 1715436967,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l3i0ibi",
+          "score": 18,
+          "body": "I need a ticker and \"uppies\" or \"downies\" on it.",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3i0ibi/",
+          "created": 1715381685,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l3hcv8h",
+          "score": 25,
+          "body": ">hoW3veR ThuS Fªr\n\ngtffffoh with your're bigly word's!\n\nhttps://preview.redd.it/mpx33dp4rnzc1.jpeg?width=573&format=pjpg&auto=webp&s=34542a74499f3d121552074e25b295da2654a5ce",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3hcv8h/",
+          "created": 1715372461,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l3gj7a4",
+      "score": 117,
+      "body": "Sometimes insiders will make a token purchase of a stock after a drop as a show of confidence. It might be important to distinguish between small and meaningful insider buying.",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3gj7a4/",
+      "created": 1715361580,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l3gk6vq",
+          "score": 63,
+          "body": "Right, so the 10% owner bought 34M worth, one director over 1M and the other one 200K.\n\nThere is research that I need to add stating at least 3 different insiders need to make at least 100K worth for it to be statistically significant...I will edit when I find the paper.\n\nGood point.",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3gk6vq/",
+          "created": 1715361924,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l3ix1b2",
+              "score": 3,
+              "body": "Is there a platform where you can see recent insider trades or you have to wait for quarterly report to come out?",
+              "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3ix1b2/",
+              "created": 1715395904,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l3jn93u",
+                  "score": 9,
+                  "body": "Many websites show insider transactions, but EDGAR is where they show immediately\n\n[https://finance.yahoo.com/quote/VSTS/insider-transactions/](https://finance.yahoo.com/quote/VSTS/insider-transactions/)\n\n[https://developer.edgar-online.com/docs/InsiderTradeData](https://developer.edgar-online.com/docs/InsiderTradeData)",
+                  "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3jn93u/",
+                  "created": 1715411444,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lljxouq",
+                      "score": 1,
+                      "body": "Do you use this API to get the data?",
+                      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/lljxouq/",
+                      "created": 1725495797,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lllrkdd",
+                          "score": 1,
+                          "body": "Not yet...",
+                          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/lllrkdd/",
+                          "created": 1725529543,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l3gxtfp",
+          "score": 41,
+          "body": "When I’m an insider I like to sell 5k of my 100million shares and let my buddies get rich by leveraging the dip that follows.  \n\nShowing value to rich friends gets me invited to the secret society cookouts.",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3gxtfp/",
+          "created": 1715367021,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l3ievlj",
+              "score": 2,
+              "body": "Now that Epstein is gone they meet at Branson's island?",
+              "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3ievlj/",
+              "created": 1715387773,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l3kuxhj",
+                  "score": 3,
+                  "body": "Nice try Valkanaa, but you know why you aren’t invited anymore.",
+                  "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3kuxhj/",
+                  "created": 1715437978,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l3gj8hg",
+          "score": 12,
+          "body": "Sounds like a peasant throwing her pennies at a wishing well.",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3gj8hg/",
+          "created": 1715361591,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l3gzii5",
+      "score": 73,
+      "body": "Didn't read, I'm in.",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3gzii5/",
+      "created": 1715367619,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l3h4ds9",
+          "score": 10,
+          "body": "lol, please read trade at your own risk ![img](emote|t5_2th52|4271)",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3h4ds9/",
+          "created": 1715369362,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l3h4ojg",
+              "score": 69,
+              "body": "Read. Didn't understand. I'm all in.",
+              "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3h4ojg/",
+              "created": 1715369471,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l3h4voh",
+                  "score": 5,
+                  "body": "lol, there is a tldr don below...good luck!",
+                  "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3h4voh/",
+                  "created": 1715369542,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l3hbdnk",
+                      "score": 7,
+                      "body": "lol /s to my previous comments. \n\nI do like the idea, so I bought 2 sets of contracts to see where it goes.",
+                      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3hbdnk/",
+                      "created": 1715371915,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l3hzx6j",
+                          "score": 7,
+                          "body": "Wait. You mean when I see a redditor say “I’m in” it really is because they are being funny?\n\nFuck. All my years of Reddit trading analysis down the drain.",
+                          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3hzx6j/",
+                          "created": 1715381440,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l3i8emc",
+                              "score": 9,
+                              "body": "I mean, I did buy in and did nothing more than read this post and look at robinhood.",
+                              "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3i8emc/",
+                              "created": 1715384985,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l3jz0uj",
+                                  "score": 3,
+                                  "body": "Living up to his username",
+                                  "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3jz0uj/",
+                                  "created": 1715420490,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l3hjyzr",
+      "score": 20,
+      "body": "Back before the bitcoin ETFs were approved, there was a Coinbase senior VP that bought millions of the stock when it was bottoming out around￼ $65\n\nI remember thinking, he really must know something. \n\n*Narrator: he did know something*",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3hjyzr/",
+      "created": 1715375099,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l3hlrgc",
+          "score": 5,
+          "body": "Exactly the type of trade that this post is all about...",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3hlrgc/",
+          "created": 1715375784,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l3gk5p9",
+      "score": 13,
+      "body": "Hold on, so what you are saying is the C level guys all know the real numbers and will position themselves to be in the best possible position to benefit from it?",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3gk5p9/",
+      "created": 1715361912,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l3gkctr",
+          "score": 16,
+          "body": "As ironic as that sounds, it is true ;)",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3gkctr/",
+          "created": 1715361981,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l3gkv08",
+              "score": 17,
+              "body": "You don't belong here, get out of here with this logic of yours. If the other regards could read what you've written they'd be very upset.",
+              "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3gkv08/",
+              "created": 1715362156,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l3glgn0",
+                  "score": 7,
+                  "body": "LOL, I actually enjoy the feedback I get here much more than whatever they say in other regarded trading subs.",
+                  "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3glgn0/",
+                  "created": 1715362365,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l3gmikv",
+                      "score": 5,
+                      "body": "that's the worst part of it all. Once you get past the dick jokes there are some real gems you could possibly make some money with.",
+                      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3gmikv/",
+                      "created": 1715362737,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l3gmq78",
+                          "score": 5,
+                          "body": "Totally agree with that",
+                          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3gmq78/",
+                          "created": 1715362813,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l3gfzev",
+      "score": 25,
+      "body": "Our AI tracks our most intelligent users. After parsing your posts, we have concluded that you are within the 5th percentile of all WSB users.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3gfzev/",
+      "created": 1715360459,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l3gg6pu",
+          "score": 18,
+          "body": "Thanks automod, good bot.",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3gg6pu/",
+          "created": 1715360530,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l3icd36",
+              "score": 11,
+              "body": "[deleted]",
+              "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3icd36/",
+              "created": 1715386674,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l3jl1k1",
+                  "score": 7,
+                  "body": "I know, this is why I thanked him to reinforce him to put people down...",
+                  "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3jl1k1/",
+                  "created": 1715409878,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l3k1kba",
+                      "score": 3,
+                      "body": "[deleted]",
+                      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3k1kba/",
+                      "created": 1715422442,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l3l8hv8",
+                          "score": 2,
+                          "body": "![img](emote|t5_2th52|4271)",
+                          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3l8hv8/",
+                          "created": 1715443447,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "l3iqxp1",
+                  "score": 2,
+                  "body": "LOL",
+                  "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3iqxp1/",
+                  "created": 1715393084,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l3gm99k",
+      "score": 11,
+      "body": "ok, this is extremely interesting! thanks for the post OP!!",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3gm99k/",
+      "created": 1715362646,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l3gmijd",
+          "score": 7,
+          "body": "You are welcome, good luck!",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3gmijd/",
+          "created": 1715362737,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l3gtqwm",
+      "score": 11,
+      "body": "Damn this is kinda refreshing to read, thanks for the read OP. Good work.",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3gtqwm/",
+      "created": 1715365549,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l3gtzub",
+          "score": 8,
+          "body": "Thanks brother, you are welcome and good luck!",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3gtzub/",
+          "created": 1715365638,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l3gg394",
+      "score": 42,
+      "body": "Those losers chasing after the scraps of the ultra-rich are deplorable. Absolutely disgusting.",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3gg394/",
+      "created": 1715360496,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l3j7mro",
+          "score": 1,
+          "body": "Nah, I like it",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3j7mro/",
+          "created": 1715401332,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l3h7ccm",
+      "score": 9,
+      "body": "Insiders play a long game. You try to play fast and risky game...",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3h7ccm/",
+      "created": 1715370440,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l3h871x",
+          "score": 1,
+          "body": "Yep, there is a whole thing on the insider trading horizon that I did not want to get into here. But you are right that most play a long game. I realize that this is a short term trade, but the P/L profile looked go to me. I will reload for June and the following months if this particular trade does not work out.",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3h871x/",
+          "created": 1715370750,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l3gibph",
+      "score": 6,
+      "body": "How you get the insider trades information?",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3gibph/",
+      "created": 1715361275,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l3gkifc",
+          "score": 6,
+          "body": "it's usually published in company reports, I believe there is a DB of filings also",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3gkifc/",
+          "created": 1715362035,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l3hiibv",
+              "score": 3,
+              "body": "I always check with my pal Edgar",
+              "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3hiibv/",
+              "created": 1715374546,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l3jm7ag",
+              "score": 2,
+              "body": "Doesn’t that mean it’s always a month late so the opportunity to capitalize on the insiders trade already gone?",
+              "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3jm7ag/",
+              "created": 1715410705,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l3k2jxa",
+                  "score": 4,
+                  "body": "It’s more along the lines of if all the c level people are selling you should sell also \n\nIf they are all buying you’d probably want to do the same ",
+                  "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3k2jxa/",
+                  "created": 1715423167,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l3hmjmb",
+      "score": 4,
+      "body": "Buy btc and sell at 130k.",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3hmjmb/",
+      "created": 1715376082,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l3hvnvj",
+      "score": 3,
+      "body": "How do you manually analyze the OTM volume and open interest as a final qualification?\n\nWhat does that look like? Are you just trying to see if there’s liquidity and if call options are being sold at a discount during the high volume/volatility?\n\nThank you. I agree with your play, I’ve been in VSTS since yesterday with just stocks.",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3hvnvj/",
+      "created": 1715379673,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l3jkyyw",
+          "score": 1,
+          "body": "All manual so far, since doing it in an automated fashion requires a ton of modeling. And yes, looking at options for volume, open interest, narrowing spreads, and so on...good luck!",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3jkyyw/",
+          "created": 1715409827,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l3gicue",
+      "score": 5,
+      "body": "someone TLDR this",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3gicue/",
+      "created": 1715361286,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l3hmxti",
+          "score": 13,
+          "body": "Insiders bought VSTS on 5/3 - 5/8 so he bought calls expiring 5/17. \n\nDont wanna be rude to Op but trading on insider buys is nothing new and you need a longer horizon. They don't have earnings for months. \n\nInstead of doing all the nonsense limiting your downside with extra entries and exits with spreads, just buy some long dated Itm calls.",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3hmxti/",
+          "created": 1715376232,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l3giv5c",
+          "score": 5,
+          "body": "Stock drops, insiders buy, we also buy, but call ratios, screw the insiders with their peasant share purchases.",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3giv5c/",
+          "created": 1715361463,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l3gist5",
+          "score": 9,
+          "body": "Something something buy vsts something something profit or loss",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3gist5/",
+          "created": 1715361440,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l3hd3na",
+          "score": 2,
+          "body": "doesnt say 0DTE, dont read",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3hd3na/",
+          "created": 1715372545,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l3hotm1",
+      "score": 2,
+      "body": "OP. EXPLAIN LIKE I'M FIVE. I'm too dumb to understand your words",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3hotm1/",
+      "created": 1715376955,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l3huvzr",
+          "score": 4,
+          "body": "buy discounted stock that insiders buy ez money ok bye",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3huvzr/",
+          "created": 1715379357,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l3htezj",
+      "score": 2,
+      "body": "Don’t have the patience to read all of that. Please tell me what to buy/sell or suck dick",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3htezj/",
+      "created": 1715378757,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l3hympb",
+      "score": 2,
+      "body": "If I was an insider trader I'd still be holding these bags.",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3hympb/",
+      "created": 1715380903,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l3ikf19",
+      "score": 2,
+      "body": "wtf is this actual research",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3ikf19/",
+      "created": 1715390207,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l3jnc7j",
+          "score": 3,
+          "body": "It's research, nothing for gigaregards",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3jnc7j/",
+          "created": 1715411506,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l3pec2s",
+      "score": 2,
+      "body": "Insiders buying stock can be motivated by many different reasons, but they sell stock only when they expect the price to go down. I like your post and the DD. I have been looking at Rumble these past few days and when researching noticed that their traffic has decreased nearly by half in q1. More importantly despite the recent dip and sell off of the stock insiders have continued to sell their stock despite the decreasing price. I think this could\nindicate a poor earnings and guidance report this Tuesday.",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3pec2s/",
+      "created": 1715518997,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l3gvk5z",
+      "score": 1,
+      "body": "Hold, average regarded redditors can too",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3gvk5z/",
+      "created": 1715366209,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l3h4esy",
+          "score": 1,
+          "body": "![img](emote|t5_2th52|4276)",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3h4esy/",
+          "created": 1715369372,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l3hgeo0",
+      "score": 1,
+      "body": "Super interesting read, thanks!",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3hgeo0/",
+      "created": 1715373760,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l3hj7jr",
+          "score": 0,
+          "body": "Thanks brother!",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3hj7jr/",
+          "created": 1715374807,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l3hua0v",
+      "score": 1,
+      "body": "[deleted]",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3hua0v/",
+      "created": 1715379109,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l3hv6se",
+      "score": 1,
+      "body": "You know you don't make money on a call spread if it goes below your short call... your entire spread becomes worthless.  Other than that, cool.",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3hv6se/",
+      "created": 1715379479,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l3jjkji",
+          "score": 2,
+          "body": "It's a 1x6 ratio that I got 80 cents credit on. I sold the 10 for 1.7 and paid 0.9 for 6 12.5 calls...if it tanks I make money, if it moons I make even more money, if it stays the same I lose some money...read about ratios some more.",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3jjkji/",
+          "created": 1715408832,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l3lz9qm",
+              "score": 2,
+              "body": "Bro... umm I trade spreads exclusively.  What happens under the most likely scenario it ranging up near your 12.5 strike?  You're 12.5s end worthless and you're on the hook for the 10 strike for 200+ with only 80 credit.",
+              "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3lz9qm/",
+              "created": 1715454070,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l3m7wcm",
+                  "score": 1,
+                  "body": "First, the most likely scenario is the stock staying where it is. \n\nIf it goes near 12.5, I have 6 12.5s - are they not going to move as they move toward 50 delta? \n\nIf it goes back toward 10, I still make money overall.\n\nIt sounds to me like you have a ton of learning to do, but by all means, do whatever you think is right for you, I am in no mood to argue ad nauseam with you because you are not trying to understand what I am saying.\n\nTake care bro",
+                  "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3m7wcm/",
+                  "created": 1715457510,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l3mrt44",
+                      "score": 1,
+                      "body": ">\nIf it goes near 12.5, I have 6 12.5s - are they not going to move as they move toward 50 delta? \n\nI mean since your so short dated on the expiry, Theta is going to eat your lunch over the weekend unless you run through or close to your 12.5 strike.  Your topside breakeven will be at least 12.80 I would guess and you'd be needing to thread that pretty early in the week.  (Your long call will cover the short with $2.5 difference needed to be covered by your other 5 long calls)\n\n>If it goes back toward 10, I still make money overall.\n\nUnder 10, not close to.  Your breakeven is 10.80 technically, anything 10.80-12.50 you are on the hook for your short call with little help from your longs.  Under 10 you make your premium + whatever you get out of your longs before they go worthless.\n\nI mean I'll watch it to see how this plays out, just seems like an overly complicated play that you could simplify a bit with an Iron Condor or something for the same outcome and a much better R:R.  \n\nStill unsure about what your ideal outcome on the trade would be (presumably a breakout way beyond 12.5)  But still when you consider the most likely outcome leaves you on the hook for your short call idk how this would be any different from an Iron Condor with worse R:R, if you can explain I'm all ears.",
+                      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3mrt44/",
+                      "created": 1715465356,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "l3nr4rs",
+                      "score": 1,
+                      "body": ">It sounds to me like you have a ton of learning to do, but by all means, do whatever you think is right for you, I am in no mood to argue ad nauseam with you because you are not trying to understand what I am saying.\n\nNot trying to argue at all my guy, and I am trying to understand what youre saying.  I am just honestly trying to understand the strategy itself, and what the benefit would be over a simpler Condor.\n\nIt seems like you are just combining an ITM credit spread which would be a Bearish play (usually bearish/neutral but your short call is 10% down from current price taking alot of neutrality out) and using the credit to buy OTM calls which would be a massively bullish play.  Anything less than a 10% movement in either direction and you lose money... Even with that big of a movement you still face assignment risk to the topside and needing to manage the position.\n\nJust looking at the profit calculator your breakeven on Monday is already 12.60 to the topside and just grows toward 13 through the week.\n\nAnd since you are dealing with the ITM short call which can and will most likely be assigned if we were to open up that high on Monday, it doesn't leave alot of breathing room to manage the position being that you will be forced to cover the assignment with the remaining calls before they are able to run further...\n\nOn top of that early assignment risk could still fuck you and make you manage the position anywhere from the 10-12.50 range throughout the week.\n\nAgain, I'm not trying to argue, just have never seen this strategy before and would like to know if there is something I am missing here?",
+                      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3nr4rs/",
+                      "created": 1715480963,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l3o8r45",
+                          "score": 1,
+                          "body": "Here's just a hypothetical (not super hypothetical though, just search \"why did I get assigned\" and there is dozens of posts)\n\nYou get assigned at the closing price ($11.50) at Monday close\n\nYou have to cover the assignment which would be ~$150\n\nYour premium covers $80, at that price on Monday your 12.5s will be worth $12 a piece ($72 total) (That's also assuming you got out on Monday, more than likely though you would get assigned at Monday close and have to sell the calls the following day at which point they'd be worth $8 each.\n\nSo a $6 loss to a $2 gain on the trade.\n\nSame numbers if we dropped to $11?\n\n$100 assignment cost, $80 premium, calls worth $2-4, $8 loss or up to a $4 profit.\n\nWhat if we go up to 12?\n\n$200 assignment cost, $80 premium, calls worth $20-24, Breakeven or up to a $24 profit\n\nAn ITM call is very likely to get exercised sometime during week of expiration, these numbers only get worse as the week goes on.\n\nThe R:R just doesn't make sense to me when you could just buy a put and a call and have the same general outcome if you're going for that large of movement.",
+                          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3o8r45/",
+                          "created": 1715490556,
+                          "depth": 5,
+                          "replies": []
+                        },
+                        {
+                          "id": "l3olvtt",
+                          "score": 1,
+                          "body": "\"Again, I'm not trying to argue, just have never seen this strategy before and would like to know if there is something I am missing here?\"\n\nBro, you are killing me....I have been trading options since 1999, which is probably longer than you have been alive. Yes, I am that old.\n\nWhat you are missing is that this can be deconstructed as a single short 10/12.5 spread, which makes money from a downturn, and 5 single 12.5 calls. All done for a net credit. Think of it that way, if it helps you.\n\nJust because you have not seen the spread being traded, it does not mean that the P/L is not valid. Hint: most funds trading long 0DTE on SPY hoping for a big move trade a variation of this spread that if it moves against you, you don't lose the entire premium you paid.\n\nI am writing this as a sort of a diary so that my one year old can read it and learn from it when he grows up, both the good and the bad.\n\nFollow if you wish to learn some more, or if you want to get updates. Take care!",
+                          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3olvtt/",
+                          "created": 1715499808,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l3pfiy3",
+                              "score": 1,
+                              "body": "You didn't really tell me what I was missing though and just explained the same thing I did without preceding to tell me why this is any better than a Condor or why/how the assignment risk isn't relevant.  \n\n(Comparing it to some hypothetical 0DTE strategy really wouldn't be relevant because this isn't 0DTE and your largest risk is early assignment)\n\nAlso since we're making comparisons to SPY... your volume and OI on this trade are going to eat your lunch too.  All of those numbers I gave you earlier subtract about $5 per option because you will be coming up to the ask for fills due to liquidity.\n\n>What you are missing is that this can be deconstructed as a single short 10/12.5 spread, which makes money from a downturn, and 5 single 12.5 calls. All done for a net credit. Think of it that way, if it helps you.\n\nI mean idk how I'm missing that since I literally said \"it seems like you're just running a credit spread and buying OTM calls with the premium\"  So yes that's what you're doing, I'm asking what am I missing in the numbers I presented to you in the R:R being shit?\n\nYour underlying is 11.50, anything 10.80-12+ (increasing throughout the week) is a loss for your position  on top of that your downside profit is limited to the premium you've already made on the position, and topside is heavily limited by assignment risk.\n\nYou literally need a 10% move in either direction to profit on this, when I could just buy a Call and a Put and a 5% move either way would catch IV on either option and already put me in the positive offsetting the loss on the other.\n\nLook please just if you ignore everything else, just explain the early assignment risk and how you are mitigating this (or more likely I'm just assuming a fingers crossed approach?)",
+                              "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3pfiy3/",
+                              "created": 1715519526,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l3pfks7",
+                                  "score": 1,
+                                  "body": "Poopnpunch, simply put, investing is for the wealthy. It's not for peasants like you.",
+                                  "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3pfks7/",
+                                  "created": 1715519551,
+                                  "depth": 7,
+                                  "replies": []
+                                },
+                                {
+                                  "id": "l3plawp",
+                                  "score": 1,
+                                  "body": "I will quote VisualMod:\n\n\"Poopnpunch, simply put, investing is for the wealthy. It's not for peasants like you.\"",
+                                  "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3plawp/",
+                                  "created": 1715522105,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "l3plkew",
+                                      "score": 1,
+                                      "body": "Okay bro, kindly hit me with a dm and let's compare our accounts, since you can't seem to answer a simple question.\n\nAssignment risk?  No?  Do you even know what assignment risk is?",
+                                      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3plkew/",
+                                      "created": 1715522222,
+                                      "depth": 8,
+                                      "replies": []
+                                    },
+                                    {
+                                      "id": "l3pm1hu",
+                                      "score": 1,
+                                      "body": "Simple question.\n\nHow is your overly complicated never before used strategy that you came up at 2am in a fever dream that I've laid out all of the shit R:R for any better than a simple Iron Condor.\n\nCut the hyperbole.  Just answer the simple question.  I mean we both know it's not.  I laid out to you why it's not.  But please go on and explain.",
+                                      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3pm1hu/",
+                                      "created": 1715522434,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "l3pmnxq",
+                                          "score": 1,
+                                          "body": "Ok bruh,,,,since a ratio spread has never been traded before...and other idiotic shit you just spewed...\n\nI bid farewell to you, and I am wishing you good luck in life.",
+                                          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3pmnxq/",
+                                          "created": 1715522708,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l3iff3s",
+      "score": 1,
+      "body": "I don't see how 2 calls covers you ass in the event of the stock tanking. Wait, you SOLD the 10 and BOUGHT the 12.5? \n\nHow is that better than just having a straddle?",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3iff3s/",
+      "created": 1715388010,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l3jmbgm",
+          "score": 1,
+          "body": "It's a 1x6......1.7 credit from the 10 short call, and 0.9 debit for the 6 12.5 long calls. The difference to a straddle is huge, because the upside potential is 6X and the downside potential is limited.",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3jmbgm/",
+          "created": 1715410790,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l3iibne",
+      "score": 1,
+      "body": "[removed]",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3iibne/",
+      "created": 1715389280,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l3iibot",
+          "score": 1,
+          "body": "Stop with the microcaps. Read the posting guidelines.  You guys are insufferable.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3iibot/",
+          "created": 1715389280,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l3ik18d",
+      "score": 1,
+      "body": "Can’t read looked at the picture and put my house on $LODE Cumstock Inc.",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3ik18d/",
+      "created": 1715390039,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l3inasu",
+      "score": 1,
+      "body": "RemindMe! 7 days",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3inasu/",
+      "created": 1715391475,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l3infxx",
+          "score": 1,
+          "body": "I will be messaging you in 7 days on [**2024-05-18 01:37:55 UTC**](http://www.wolframalpha.com/input/?i=2024-05-18%2001:37:55%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3inasu/?context=3)\n\n[**2 OTHERS CLICKED THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Fwallstreetbets%2Fcomments%2F1coug3v%2Finformed_traders_can_show_you_how_and_when_to%2Fl3inasu%2F%5D%0A%0ARemindMe%21%202024-05-18%2001%3A37%3A55%20UTC) to send a PM to also be reminded and to reduce spam.\n\n^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%201coug3v)\n\n*****\n\n|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|\n|-|-|-|-|",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3infxx/",
+          "created": 1715391535,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l3iyt03",
+      "score": 1,
+      "body": "If this works loll",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3iyt03/",
+      "created": 1715396770,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l3j87kt",
+      "score": 1,
+      "body": "Nice thesis for an ape.\n\nHow are you going about creating the scanner for this?",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3j87kt/",
+      "created": 1715401658,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l3jmzv1",
+          "score": 1,
+          "body": "It's hard to create it, needs manual research...",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3jmzv1/",
+          "created": 1715411264,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l3jris3",
+              "score": 1,
+              "body": "I agree that Vestis certainly looks like the right setup for a play.\n\nThere was a broad buying across multiple high level insiders and with 9.42 PE you do see the deal they saw as well.",
+              "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3jris3/",
+              "created": 1715414637,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l3jghd9",
+      "score": 1,
+      "body": "Too much text. Am I doing calls or puts?",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3jghd9/",
+      "created": 1715406719,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l3jo8i8",
+          "score": 1,
+          "body": "I did a 1x6 call ratio, but you do you",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3jo8i8/",
+          "created": 1715412158,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l3jvec0",
+      "score": 1,
+      "body": "Need to try it",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3jvec0/",
+      "created": 1715417626,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l3jw46p",
+          "score": 1,
+          "body": "At your own risk ; )",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3jw46p/",
+          "created": 1715418189,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l3k6455",
+      "score": 1,
+      "body": "!RemindMe 6 Months",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3k6455/",
+      "created": 1715425608,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l3ki0zp",
+      "score": 1,
+      "body": "How do you identify company insiders making trades?",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3ki0zp/",
+      "created": 1715432215,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l3ks4et",
+      "score": 1,
+      "body": "People are biased in general, with regard to everything, but most certainly with the companies they work for. Many of the richest people in the world involved (with wealth related to companies) have all of their wealth in the stock of their own companies “invest in yourself”. In short I think it means insider trading is an adjacent metric that may coincidentally be right at times.",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3ks4et/",
+      "created": 1715436807,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l3l806j",
+          "score": 1,
+          "body": "Did you read the research papers I quoted? Because they are not saying hat you are saying.",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3l806j/",
+          "created": 1715443249,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l3kx4cn",
+      "score": 1,
+      "body": "I just want a robust and consistant 15-20% per annum portfolio for the next 20 years.",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3kx4cn/",
+      "created": 1715438875,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l3l7u2w",
+          "score": 2,
+          "body": "SPY+Deep OTM call spreads on it.",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3l7u2w/",
+          "created": 1715443183,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l3ln1wm",
+              "score": 1,
+              "body": "I'll research this",
+              "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3ln1wm/",
+              "created": 1715449182,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l3m72ww",
+      "score": 1,
+      "body": "Someone summarize this for me and tell me, what are we buying here? 🦍... 🚀🚀🚀💵",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3m72ww/",
+      "created": 1715457190,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l3vujff",
+      "score": 1,
+      "body": "You’re almost there!",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3vujff/",
+      "created": 1715623881,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l3vvcs0",
+          "score": 1,
+          "body": "Almost being the key word lol...",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3vvcs0/",
+          "created": 1715624159,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l3vwzar",
+              "score": 1,
+              "body": "It will happen i feel it.",
+              "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3vwzar/",
+              "created": 1715624714,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l3vzf7a",
+                  "score": 2,
+                  "body": "thanks bro, good luck to you as well!",
+                  "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3vzf7a/",
+                  "created": 1715625549,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l406vdc",
+                      "score": 1,
+                      "body": "Thank you!! Came back to say congratulations!! 🥳",
+                      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l406vdc/",
+                      "created": 1715696205,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l41tulv",
+                          "score": 1,
+                          "body": "Not there yet...might need to reload for next June expiration to make any money. Shoulda coulda woulda traded the same 12.5 option for the same price one day prior the post...that one is at more than 4X right now.",
+                          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l41tulv/",
+                          "created": 1715716284,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l3xz18a",
+      "score": 1,
+      "body": "Seems like a good strategy but I'm too regarded to understand options lmfao",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3xz18a/",
+      "created": 1715652117,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l3y0zjv",
+      "score": 1,
+      "body": "Well OP. Ended on 12.40 After hours. So far seems like you made a power play.",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3y0zjv/",
+      "created": 1715652928,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l3yq1ax",
+          "score": 1,
+          "body": "So far I am not making any real money on it. Lets see how it plays out. \n\nI might need to extend to another expiration.\n\nCheers!",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3yq1ax/",
+          "created": 1715665728,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l3yxa7s",
+      "score": 1,
+      "body": "Okay",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3yxa7s/",
+      "created": 1715670801,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4irpmb",
+      "score": 1,
+      "body": "What were the results btw?",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l4irpmb/",
+      "created": 1715984542,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l4ke6re",
+          "score": 1,
+          "body": "No significant gains to write home about, but gains nonetheless. I closed the short as a vertical spread and sold the remaining calls a couple of days later at a net gain. I will need to think about extending the play in duration, and/or exploring other similar stocks.",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l4ke6re/",
+          "created": 1716013305,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l5bvvsp",
+      "score": 1,
+      "body": "curious which website provided this simple search",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l5bvvsp/",
+      "created": 1716475609,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l609hlt",
+      "score": 1,
+      "body": "You cashed out on this stock or still in? Just recently saw some other insider (May 24th) purchase this stock few times around 12 USD price",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l609hlt/",
+      "created": 1716893189,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l60as6x",
+          "score": 3,
+          "body": "Cashed out with a small gain. Might reenter again at a lower price.",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l60as6x/",
+          "created": 1716893986,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lk8e13c",
+      "score": 1,
+      "body": "Sorry but where you the insider trade info? Also where do you recommend to see companies that had a significant drop?",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/lk8e13c/",
+      "created": 1724790527,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l3h0flq",
+      "score": 1,
+      "body": "Forgive me if this is a dumb question as I’m newish to this. But given your numbers, the premium on the short call would be $70 on an investment of $1070. If the stock goes to 10.10 and stays there, wouldn’t you be even money once the buyer exercises? And if it goes under 10.00 and he doesn’t exercise then you have the $70 premium and whatever 100 shares, minus the premium of the 12.5 calls? I guess I’m just confused by you saying that you make money if it goes down as well. Thanks!",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3h0flq/",
+      "created": 1715367948,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l3h39vu",
+          "score": 3,
+          "body": "Sure...first, I don't own the stock, but I own a call ration spread - its a short call at 10 that I sold for 1.70 and then I bought 6 12.5 calls for 15 cents each for 90 cents total. These are the prices for a single spread, for illustration.\n\nIf the stock is 10.1 at expiration, the 10 call will be worth 10 cents, and I will make 1.6 on it, but I will lose 90 on the 6 12.5 calls, for a net of 70 cents.\n\nIf the stock is below 10, then all calls will be worthless and I will make 1.7 I took in credit, minus 0.9 I paid = 0.8 net credit on the spread.",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3h39vu/",
+          "created": 1715368964,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l3h69q8",
+              "score": 2,
+              "body": "That makes a lot of sense I just had bad numbers. So when the stock was 10.70 you got 1.7 for selling a 10 call?",
+              "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3h69q8/",
+              "created": 1715370050,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l3h6q7a",
+                  "score": 2,
+                  "body": "No, I got that today, when the stock was trading at 11.6 or something.",
+                  "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3h6q7a/",
+                  "created": 1715370219,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l3h7vyb",
+                      "score": 2,
+                      "body": "Got it, the 10.7-12.5 range of losing money is because you bought at 11.6 and have .9 either direction because of premium costs. That makes a lot of sense, thanks",
+                      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3h7vyb/",
+                      "created": 1715370638,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l3hip5l",
+      "score": 1,
+      "body": "Im sorry, I have the attention span of a walnut. Are you saying I should buy, or sell?",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3hip5l/",
+      "created": 1715374616,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l3hjp0j",
+          "score": 2,
+          "body": "Insiders buy when the stock goes down. We trade like insiders. \n\nBut we use options, i.e. I bought a 1x6 call ratio with the 10 call short and 6 12.5 calls long....this trade only loses money if the stock stays about the same...if it tanks I make money, if it moons I make money again....but you do you brother, this is just an example trade.",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3hjp0j/",
+          "created": 1715374991,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l3hm71r",
+              "score": 2,
+              "body": "Sorry just a joke. I like the strategy, inventive",
+              "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3hm71r/",
+              "created": 1715375949,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l3h4rcg",
+      "score": 0,
+      "body": "The stock market is a carnival of madness and irrationality.",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3h4rcg/",
+      "created": 1715369499,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l3h4ycc",
+          "score": 2,
+          "body": "We are all mad in here.",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3h4ycc/",
+          "created": 1715369568,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l3h568l",
+      "score": 0,
+      "body": "[deleted]",
+      "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3h568l/",
+      "created": 1715369648,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l3hyfxg",
+          "score": 1,
+          "body": "Did it catch the third time or do you need to let your brain rest and come back to it a fourth time?",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3hyfxg/",
+          "created": 1715380825,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l3h68aa",
+          "score": 0,
+          "body": "Thanks, and good luck!",
+          "permalink": "/r/wallstreetbets/comments/1coug3v/informed_traders_can_show_you_how_and_when_to/l3h68aa/",
+          "created": 1715370035,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "stockTickers": {
+    "post_summary": "The post discusses using insider trading information to trade stocks like VSTS with options strategies such as call ratio spreads.",
+    "companies": [
+      "VSTS"
+    ],
+    "tickers": [
+      "VSTS"
+    ],
+    "main_ticker": [
+      "VSTS"
+    ]
+  },
+  "sentimentAnalysis": {
+    "post_summary": "The post discusses using insider trading data along with market conditions to create a strategy for trading stocks and options.",
+    "stock_recommendations": "The user is recommending to trade VSTS stock, specifically using a call ratio spread.",
+    "is_recommending_stock_buying_or_selling": true,
+    "buy_or_sell": "buy",
+    "sentiment_summary": "There is positive sentiment as the author is optimistic about the VSTS stock trade and has a strategy in place to benefit from potential price increases.",
+    "sentiment": "positive"
+  }
+}

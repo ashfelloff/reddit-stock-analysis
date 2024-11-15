@@ -1,0 +1,1883 @@
+{
+  "title": "CRWD is going to die.",
+  "score": 2482,
+  "selftext": "Im sure you all saw that video of the microsoft dev telling us why the bug happened. If you havent, Crowdstrike is a virus/malware security company that packaged their program as a \"driver\", so they have access to the kernel. On top of that its a bootable driver, so it loads as soon as you turn on the computer. I cant speak for all drivers, but at least in the case of NVDA driver updates to graphics cards, they have to go through Microsoft testing, which is done by Microsoft to determine it is functional and doesnt cause any issues before providing a certificate to let that driver be published. \n\nAs for Crowdstrike, being the incredibly fast and up to the minute protection, they dont have time to do a certificate test to get an approval from microsoft, so they change 1 text file, and push it to all of the machines using their driver. Well on friday, we all saw that driver failed to boot due to an error in the text file. I believe it was a file full of 0's?\n\nBlame the EU for allowing Kernel access in the first place, as they didnt want MSFT to have a monopoly on a virus protector. \n\nWhat could very well happen in the long term is Crowdstrike will get their kernel access removed, or be required to update their certificate every time they have an update. **Getting their kernel access removed, would make the an average run of the mill virus scanner, and if they are required to update their certificate every time, they would then be behind the ball in terms of protection as a threat would potentially have days/weeks to infiltrate before Crowdstrike gets to update.** \n\nIn the short term, I also believe customers will break their contracts and move to competitors. Lawsuits will also happen for all the loss of business, as negligence isnt covered under insurance. \n\nPUTS!!! If youre buying calls, or stock, youre nutty. \n\n  \nTL;DR Crowdstrike is fked. Buy puts. Fuck your calls. ",
+  "link_flair_text": "Discussion",
+  "id": "1ea75vl",
+  "num_comments": 1288,
+  "created_utc": 1721739420,
+  "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/",
+  "comments": [
+    {
+      "id": "lejcbxi",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 10 | **First Seen In WSB** | 3 years ago\n**Total Comments** | 292 | **Previous Best DD** | \n**Account Age** | 12 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejcbxi/",
+      "created": 1721739425,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lejf3pv",
+      "score": 3047,
+      "body": "Calls it is!",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejf3pv/",
+      "created": 1721740509,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lejxx58",
+          "score": 1569,
+          "body": "Yeah, I work in cybersecurity and unfortunately some of these companies have too many connections to fail.   They’ll get chided and fined and resume business as usual in a few months this will blow over.",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejxx58/",
+          "created": 1721747042,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lek5nbs",
+              "score": 744,
+              "body": "Even if someone isn't in cybersecurity, you just need to look as far as Boeing to see OP's conclusion is wrong. They lost parts... from multiple planes... while they were fucking flying!\n\nEdited to add: afterwards they got people stranded in outer space",
+              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lek5nbs/",
+              "created": 1721749499,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "leke4ri",
+                  "score": 216,
+                  "body": "Funny part is when companies are so heavily relied on and they fuck up, they usually get MORE money thrown at them to make sure it doesn’t happen again lol",
+                  "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/leke4ri/",
+                  "created": 1721752192,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lelxqs3",
+                      "score": 22,
+                      "body": "They learn lessons and gain experience.\nWho would you rather hire, an experienced company or an untested company.",
+                      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lelxqs3/",
+                      "created": 1721769638,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lelzs7f",
+                          "score": 26,
+                          "body": "Yep next time their fuckups will be even bigger. When you remove competition you can expect terrible results",
+                          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lelzs7f/",
+                          "created": 1721770310,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "leoir90",
+                              "score": 9,
+                              "body": "They are the competition! They're the fresh up-and-comers in a highly concentrated market that was controlled by a few vendors like Checkpoint and Microsoft.",
+                              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/leoir90/",
+                              "created": 1721811804,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "lek7vbs",
+                  "score": 209,
+                  "body": "[removed]",
+                  "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lek7vbs/",
+                  "created": 1721750200,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lek9yrt",
+                      "score": 122,
+                      "body": "They killed people after that too and still up and running like nothing happened",
+                      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lek9yrt/",
+                      "created": 1721750865,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lekmfw5",
+                          "score": 93,
+                          "body": "They killed people for trying to talk about their failures",
+                          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekmfw5/",
+                          "created": 1721754790,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lelbn09",
+                              "score": 34,
+                              "body": "Make sure you spend the next few days with your loved ones...",
+                              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lelbn09/",
+                              "created": 1721762690,
+                              "depth": 6,
+                              "replies": []
+                            },
+                            {
+                              "id": "lekztfz",
+                              "score": 21,
+                              "body": "Allegedly!\n\nEveryone with information supporting that it was murder is afraid they too will commit convenient suicide",
+                              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekztfz/",
+                              "created": 1721758953,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "leksmka",
+                      "score": 9,
+                      "body": "Yeah but this cost Boeing money. Noone fucks with Boeings money.",
+                      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/leksmka/",
+                      "created": 1721756700,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lekvwb0",
+                      "score": 15,
+                      "body": "The difference here though is that they fucked with rich peoples/corporations money; not the lives of peons",
+                      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekvwb0/",
+                      "created": 1721757718,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "leka8ra",
+                  "score": 25,
+                  "body": ">afterwards they got people stranded in outer space\n\nwhy didn't they call the tesla Uber that's up there?",
+                  "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/leka8ra/",
+                  "created": 1721750952,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lel7wde",
+                  "score": 13,
+                  "body": "In Boeing’s defense they do have a very strong hit man te……I mean a PR team that does alot of the heavy lifting of recent.",
+                  "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lel7wde/",
+                  "created": 1721761496,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lekdrlr",
+                  "score": 22,
+                  "body": "Boeing is America's aircraft manufacturer. The most powerful/richest government in the world effectively exclusively licensed them.\n\nDoes CRWD have a similar license/moat? I work in government contracting and the only people in my network that were effected by CRWD's outage was the IT helpdesk...",
+                  "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekdrlr/",
+                  "created": 1721752075,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lek9ilq",
+                  "score": 52,
+                  "body": "Id say that argument is invalid. Boeing is the sole major manufacturer for the US government. Too big to fail. Crowdstrike not so much.",
+                  "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lek9ilq/",
+                  "created": 1721750722,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lekegdw",
+                      "score": 26,
+                      "body": "Boeing makes the F-15 and F-18. They're not going fucking anywhere except up",
+                      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekegdw/",
+                      "created": 1721752294,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lekxiyt",
+                      "score": 33,
+                      "body": "Yep, a completely different industry with completely different rules. Boeing has one single competitor for all of the affected aircraft types. And Airbus is at capacity. Airlines can't just buy from Airbus, they're already fully sold out years in advance. They have a choice between buying new Boeing planes or flying the Boeing planes they already have. Even if you somehow squeeze the balls of everyone of Airbus to get in front of the line, you need to retrain and recertify all of your pilots. Hire new mechanics. Get new equipment and parts to be able to service new planes. Switching from Boeing to Airbus needs to be planned years in advance and would cost extra tens of millions beyond the cost of the planes themselves.\n\nCrowdstrike has plenty of competition. And it's a software product which is infinitely more scalable. If every one of those customers wanted to switch to say Microsoft Defender tomorrow they could. Sure, MS reps would struggle for a few months, but it's nowhere near as burdensome and regulated as aviation.",
+                      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekxiyt/",
+                      "created": 1721758232,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lekrm09",
+                      "score": 13,
+                      "body": "This. Although, comparing CRWD to Boeing is what I'd expect of regards here",
+                      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekrm09/",
+                      "created": 1721756382,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lekjt9i",
+                  "score": 20,
+                  "body": "Boeing is down 50% over the last 5 years. Seems about right on my conviction",
+                  "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekjt9i/",
+                  "created": 1721753967,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lel2doa",
+                      "score": 9,
+                      "body": "Yep, in reality the common stock could go to zero and the company still wouldn’t “go anywhere”.  Just the common stock go to zero - kinda like what happened to GM if anyone remembers that.",
+                      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lel2doa/",
+                      "created": 1721759759,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lelxgk4",
+                          "score": 3,
+                          "body": "And that’s why I own GM stock.",
+                          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lelxgk4/",
+                          "created": 1721769546,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lek58ya",
+              "score": 37,
+              "body": "All time highs before September",
+              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lek58ya/",
+              "created": 1721749374,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lek7myv",
+              "score": 182,
+              "body": "[deleted]",
+              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lek7myv/",
+              "created": 1721750128,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lekgsob",
+                  "score": 34,
+                  "body": "Exactly.   This was a business continuity stress test for companies.",
+                  "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekgsob/",
+                  "created": 1721753031,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lek96bs",
+                  "score": 55,
+                  "body": "Nothing was compromised, no PDB, no loss of data, so yea things can go wrong but their core business of protection was not impacted.",
+                  "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lek96bs/",
+                  "created": 1721750613,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lekeas0",
+                      "score": 59,
+                      "body": "It’s so protected the customers couldn’t even access the data :)",
+                      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekeas0/",
+                      "created": 1721752245,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lekj3co",
+                          "score": 25,
+                          "body": "The abstinence method of protection",
+                          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekj3co/",
+                          "created": 1721753746,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lekdzwx",
+                      "score": 5,
+                      "body": "Of course not. The most secure system in the world is one that does nothing.",
+                      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekdzwx/",
+                      "created": 1721752149,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lekkiu3",
+              "score": 16,
+              "body": "Just logically looking at the situation I can’t see making drastic changes that could bring lawsuits, anti competitive regulatory hearings etc. all because of a single (albeit massive) fuckup.  \n\nIn B2B relationships if someone is good at something and they fuck up once you usually give them a break, run them through the wringer with threats, monetary compensation, and make sure they put in safeguards so the problem doesn’t happen again and the parties responsible are held accountable. But you don’t just nuke another major company’s business model overnight unless they are maliciously causing you problems.  \n\nNow if it’s a repetitive behavior then you probably deleverage that relationship and cozy up with another in the meantime.  And if it’s malicious then again, you nuke them, scorched earth.  But it would be exceptional for MSFT to nuke CRWD in this instance.",
+              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekkiu3/",
+              "created": 1721754190,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lekp0ss",
+              "score": 8,
+              "body": "You also have 1-3 year contracts. They can try and fight it over an outage, but they won't have things like a failed response time for SLAs (assuming CS was proactive about notifications and responding to inquiries) to claim a breach of terms. \n\nIt's software, software breaks. Endpoint/forwarder level software is highly invasive because it can operate at the kernel level, and can touch layer 3 & 4 traffic actively and not just passively via a network tap or similar. \n\nAlternatives like S1 and PAN are going to have the same potential risks, it's just a matter how of robust their QA & testing processes are at an organizational level. And they've likely already been POV'd/POC'd before said customers opted for CS instead.",
+              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekp0ss/",
+              "created": 1721755569,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lel9kh4",
+              "score": 6,
+              "body": "I'm in cyber too. This is unfortunately part of the price of doing business as we are asked to protect more. There has been issues with other software like this before, and luckily in this case it was an oops vs a hacker.\n\nThis will most likely have some looking to make sure not all of their eggs are in the same basket. Or, even more important go back to software updates 101, slow roll out to production with a test group, then larger test group, then full company. \n\nToo many companies are fully trusting their vendors these days. It goes back to third-party risk review and mitigation. Clearly many firms don't do this all that well at this time.",
+              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lel9kh4/",
+              "created": 1721762032,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lekgc1u",
+              "score": 16,
+              "body": "Endpoint market has tons of competition. It’s not too big to fail. Kaspersky has a massive market share 10 years ago and now don’t exist in the states",
+              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekgc1u/",
+              "created": 1721752886,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "leks7w4",
+                  "score": 21,
+                  "body": "yeah the government banned it lol",
+                  "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/leks7w4/",
+                  "created": 1721756571,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lekq4l8",
+              "score": 3,
+              "body": "I always laugh when I read these theories and conclusions. It always seems to be coming from people who have never worked with C-suites in a cash lubricated shit machine. Yeah, the machine might be shit, but it’s still lubricated by cash and connections.",
+              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekq4l8/",
+              "created": 1721755917,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lekc76y",
+              "score": 15,
+              "body": "[deleted]",
+              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekc76y/",
+              "created": 1721751576,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lekulvh",
+                  "score": 11,
+                  "body": "And a big reason they’re so good is BECAUSE of the kernel access OP insists is a “mistake”\n\nMost user space EDR is very easy to bypass",
+                  "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekulvh/",
+                  "created": 1721757315,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lekpnp3",
+                  "score": 12,
+                  "body": "Same.   We evaluated all of them and it came down to crowdstrike vs carbon black.   We chose carbon black because of pricing but the feature set provided by crowd strike is definitely so much better.  They will get sued, they will offer discounts for new customers and then continue to grow.",
+                  "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekpnp3/",
+                  "created": 1721755768,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lekvz06",
+              "score": 3,
+              "body": "Agreed, seeing how much disruption one CS update caused showed me all i needed to know in regard to how far their reach and adoption goes. They are too big to fail now.",
+              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekvz06/",
+              "created": 1721757741,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "leldocg",
+              "score": 3,
+              "body": "Yeah, remember when sophos pushed an updated definition file that quarantined all dll files on Windows machines? That was a shite week.",
+              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/leldocg/",
+              "created": 1721763338,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "len27c5",
+              "score": 3,
+              "body": "Same industry but I think this is different. CEO has similar tendencies at previous company. I am not saying they go away, but people will look to alternatives, especially those with better efficacy.",
+              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/len27c5/",
+              "created": 1721784280,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lek3nhg",
+              "score": 11,
+              "body": "Blast that fuckin forward PE to 500 so it matches the reg pe.",
+              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lek3nhg/",
+              "created": 1721748868,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lekrymz",
+              "score": 2,
+              "body": "they and all the companies that experienced outages need a lesson in change management 101",
+              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekrymz/",
+              "created": 1721756491,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lejp9by",
+          "score": 108,
+          "body": "This shit made me laugh. Thanks homie",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejp9by/",
+          "created": 1721744168,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lekqi7y",
+              "score": 12,
+              "body": "While funny, he's right. OP doesn't understand technology.\n\nThat means buy calls because OP isn't the only tech-noob out there who thinks they have it figured out.",
+              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekqi7y/",
+              "created": 1721756035,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lek3e8z",
+          "score": 47,
+          "body": "Cathie has been buying. Trader beware, you’re in for a scare.",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lek3e8z/",
+          "created": 1721748786,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lek71pp",
+          "score": 13,
+          "body": "The only issue is that catihlyin bought",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lek71pp/",
+          "created": 1721749942,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lejsuku",
+          "score": 44,
+          "body": "Kernel access? Pfftt. They are definitely too big to fail.",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejsuku/",
+          "created": 1721745375,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lelnayk",
+              "score": 13,
+              "body": "Literally every antivirus needs this. You can't monitor memory or attacks at that level without ring-0 access.",
+              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lelnayk/",
+              "created": 1721766334,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lejzmom",
+          "score": 15,
+          "body": "Fuck who do I inverse",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejzmom/",
+          "created": 1721747594,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lejyowq",
+          "score": 7,
+          "body": "You are regarded 2.0 ![img](emote|t5_2th52|52627)",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejyowq/",
+          "created": 1721747293,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lek0g4u",
+          "score": 9,
+          "body": "literally up 4% already... lmfao",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lek0g4u/",
+          "created": 1721747853,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lelq2k2",
+          "score": 2,
+          "body": "If you're in this sub and looking to gamble on CRWD, keep doing what you're going to do. If you're looking to stack your port with growth stocks, CRWD shouldn't be one of them.",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lelq2k2/",
+          "created": 1721767195,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lejfvbw",
+      "score": 451,
+      "body": "So it bounced after this post or am I tripping?",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejfvbw/",
+      "created": 1721740802,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lejoppn",
+          "score": 127,
+          "body": "Dead cat bounce 🤷🏼‍♂️",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejoppn/",
+          "created": 1721743984,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lek2g99",
+              "score": 49,
+              "body": "a second dead cat bounce?",
+              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lek2g99/",
+              "created": 1721748488,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lek66fb",
+                  "score": 67,
+                  "body": "There were multiple dad cats\n\nEdit: Fuck it I'm going to leave the typo as is.",
+                  "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lek66fb/",
+                  "created": 1721749667,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "leka02e",
+                      "score": 54,
+                      "body": "https://preview.redd.it/85wtej9fmaed1.png?width=871&format=png&auto=webp&s=578568865b1dce6ec7efdc567fa2dfda5f7ca2ee",
+                      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/leka02e/",
+                      "created": 1721750876,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "leklgir",
+                  "score": 36,
+                  "body": "cats have 9 lives, so we should see 7 more",
+                  "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/leklgir/",
+                  "created": 1721754483,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lel4uts",
+                  "score": 19,
+                  "body": "Sir, a second dead cat has hit the towers.",
+                  "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lel4uts/",
+                  "created": 1721760536,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lekbuyn",
+                  "score": 3,
+                  "body": "Bought (3) 90p 9/20\n\nExtremely bearish.\n\nEither I’m highly regarded (but only out not even $30), or highly genius 🤓\n\nhttps://preview.redd.it/yuyz9s4zmaed1.jpeg?width=1178&format=pjpg&auto=webp&s=bb22a26596a571aaeb5b38a28ef6d3610a1a90b8",
+                  "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekbuyn/",
+                  "created": 1721751468,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "leki5qn",
+          "score": 9,
+          "body": "Rigor mortis my friend",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/leki5qn/",
+          "created": 1721753457,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lekijgc",
+          "score": 10,
+          "body": "I bought few puts in morning and hence it jumped ..",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekijgc/",
+          "created": 1721753575,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lejrkv8",
+      "score": 602,
+      "body": "Everyone an expert on Cybersecurity and Law all of a sudden",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejrkv8/",
+      "created": 1721744950,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lejz588",
+          "score": 290,
+          "body": "as someone who actually works in cybersecurity its incredible how regarded people are and how smart they THINK they are. I know im regarded, thats why i dont make shit up in my head and post it as dd lol",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejz588/",
+          "created": 1721747438,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lek4q4r",
+              "score": 57,
+              "body": "Having self awareness is brutal in this day and age, but it saves a lot of embarrassment.",
+              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lek4q4r/",
+              "created": 1721749211,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lekkn93",
+              "score": 58,
+              "body": "This 'DD' post is a true example of someone blinded by their perceived intelligence, when they really have no idea what they are talking about",
+              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekkn93/",
+              "created": 1721754229,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lemb4s8",
+                  "score": 21,
+                  "body": "LOL at \"blame the EU\".",
+                  "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lemb4s8/",
+                  "created": 1721774227,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lemzy57",
+                      "score": 6,
+                      "body": "highly regarded... like a whole new level. Blaming MSFT is regarded enough as it is.",
+                      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lemzy57/",
+                      "created": 1721783400,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lelhrrv",
+              "score": 24,
+              "body": "Nothing more sobering than reading a really stupid post you’re an expert on (not me here) with thousands of upvotes. Makes you wonder how much other stupid shit you’ve bought into because of the upvotes",
+              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lelhrrv/",
+              "created": 1721764611,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lelij2p",
+                  "score": 9,
+                  "body": "This is why i check post history before i agree with anything on here. Always do a regard check.",
+                  "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lelij2p/",
+                  "created": 1721764845,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lel2vhx",
+              "score": 33,
+              "body": "Nah bro they’re gonna get their kernel access revoked 😂",
+              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lel2vhx/",
+              "created": 1721759915,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lelnsvk",
+                  "score": 18,
+                  "body": "Yeah Microsoft is going to revoke WHQL signatures for software they're running themselves...  \nCompletely stupid post by OP.",
+                  "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lelnsvk/",
+                  "created": 1721766489,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "leotezg",
+              "score": 6,
+              "body": "Seriously, the worst thing about the incident itself isn't the actual crash but rather all the pseudo-experts coming out of nowhere with the hot takes all over the place. Michael, you've been doing B2B sales for 6 months, literally stfu about kernel dev, QA testing and system architecture/redundancy.",
+              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/leotezg/",
+              "created": 1721818559,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lek2v5b",
+          "score": 75,
+          "body": "[deleted]",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lek2v5b/",
+          "created": 1721748617,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lelat4w",
+              "score": 29,
+              "body": "I've seen so many people calling Crowdstrike a rootkit like they aren't one of the biggest cybersecurity companies in the world and have some of the best tech. I work in infosec too and the amount of bullshit I've seen the past few days getting a ton of upvotes is insane.",
+              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lelat4w/",
+              "created": 1721762425,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lelrf1w",
+                  "score": 15,
+                  "body": "too many gov contracts to fail imo. They will hurt a bit and get hit with some lawsuits but they aren’t going anywhere. IMO pretty safe stock to hold",
+                  "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lelrf1w/",
+                  "created": 1721767611,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lelt5pr",
+          "score": 3,
+          "body": "Cybersecurity professional here and this post legit irritated me, bunch of armchair experts on the internet",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lelt5pr/",
+          "created": 1721768154,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lejeqcv",
+      "score": 679,
+      "body": "Not gonna lie I thought CRWD was a path of exile build ",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejeqcv/",
+      "created": 1721740368,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lejfjou",
+          "score": 115,
+          "body": "Im so hyped for the league start on Friday. Feels like GGG put in some of their best work in years.",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejfjou/",
+          "created": 1721740678,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lejljfa",
+              "score": 43,
+              "body": "What is that? A porn tournament?",
+              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejljfa/",
+              "created": 1721742881,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lejo79k",
+                  "score": 51,
+                  "body": "For us it is",
+                  "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejo79k/",
+                  "created": 1721743809,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lejgmww",
+          "score": 23,
+          "body": "Cast Reboot When Done",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejgmww/",
+          "created": 1721741092,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lejoq0g",
+              "score": 9,
+              "body": "cast reboot when damaged.. good for HC",
+              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejoq0g/",
+              "created": 1721743987,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lejx4gd",
+          "score": 18,
+          "body": "Cast Retardation When Dead",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejx4gd/",
+          "created": 1721746780,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lejryx6",
+          "score": 17,
+          "body": "Still sane, exile?",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejryx6/",
+          "created": 1721745080,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lejtlmp",
+          "score": 7,
+          "body": "Is this post the delirium map ?\n\nYou guys are just voices in my head",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejtlmp/",
+          "created": 1721745626,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "leko78f",
+          "score": 5,
+          "body": "You're thinking of COC",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/leko78f/",
+          "created": 1721755324,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lek8uhl",
+          "score": 5,
+          "body": "I bet money you gamble all your divs on div cards dont you.\n\nI definitely do.  One season I ran a doctor card all the way up to having a shit ton of mirror cards. Had like 20 mirrors worth at one point. Lost it all yoloing",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lek8uhl/",
+          "created": 1721750508,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "leje0mr",
+      "score": 989,
+      "body": "As a software engineer, this is the most regarded DD I have ever read. Godspeed!",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/leje0mr/",
+      "created": 1721740089,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lejxxxl",
+          "score": 254,
+          "body": "Yeah, this dude knows literally nothing about this shit. He probably just copy pasted someone else's comment because he thought it sounded smart. I do believe CRWD is in for a world of hurt the coming 6-12 months, but not for any of the reasons this guy thinks",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejxxxl/",
+          "created": 1721747049,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lek1vr4",
+              "score": 107,
+              "body": "I really don't think it is. CRWD is software designed to just run quietly and be ignored. Replacing it would be a ginormous amount of work, it is already fixed so everyone will happily go back to ignoring it. \n\nIt would have to get consistently bad for people to go through the pain of replacing it on all their systems.",
+              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lek1vr4/",
+              "created": 1721748308,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lek4jie",
+                  "score": 29,
+                  "body": "The caveat is that everybody will remember this when they see the Crowdstrike name. I mean the name sounds like a zero day exploit in itself (e.g. \"heartbleed\"). They could easily become a pariah and will if they don't provide a satisfactory post-mortem report.",
+                  "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lek4jie/",
+                  "created": 1721749152,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lek7poc",
+                      "score": 52,
+                      "body": "Equifax stock went from $140 to $70 after the breach. It’s now $265. That was only 7 years ago (it’s been in the $200’s mostly since 2021…)",
+                      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lek7poc/",
+                      "created": 1721750152,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lel79mc",
+                          "score": 8,
+                          "body": "A cautionary tale for 🌈🐻 truly.",
+                          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lel79mc/",
+                          "created": 1721761293,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lekaksa",
+                      "score": 32,
+                      "body": "You think billion dollar corporations with execs who are making millions in total compensation are doing deals with CRWD another billion dollar corporation and saying shit like \"your name scares me\" or \"reddit said your name is tarnished\". I feel like most in this thread have never closed an IT deal in their lives and have no idea how Fortune 500 companies decide who to contract with/procure items from.",
+                      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekaksa/",
+                      "created": 1721751060,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lekw8yw",
+                          "score": 9,
+                          "body": "Yep, its also not like this is some unique situation either. SolarWinds had a massive hack that resulted in thousands of compromised systems and people are still using their products. If the issue has been fixed and the software provides value people are still going to keep using it.",
+                          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekw8yw/",
+                          "created": 1721757830,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lekhbum",
+          "score": 22,
+          "body": "Right?\n\nNot only they won't get their \"kernel access removed\"(how would that even work?), but OP worded as if their entire software ran in kernel space. Which is not true. And says it will turn it into just another virus scanner. Never mind that virus scanners often have kernel hooks as well, scanning for viruses is not the purpose of the falcon sensor, although it has some capabilities there. \n\nReplacing crowdstrike is not an easy or quick task for most organizations, they probably spent months or years rolling it out, fighting for budget, etc. Unless in dire circumstances, execs won't admit they made such a mistake. And if they do, expect it to take a long time. If this is the only event, it will be forgotten. \n\nLong term they may have lower guidance as the new client pipeline shrinks. Whoever hasn't started deploying them might look into the competition. \n\nIf congress \"invites\" the CEO to explain himself, that would be more interesting.",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekhbum/",
+          "created": 1721753198,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lek7p1j",
+          "score": 10,
+          "body": "This. Lol at anyone who actually believes crowdstrike is going anywhere.",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lek7p1j/",
+          "created": 1721750146,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lejn2jh",
+          "score": 29,
+          "body": "Oooh can you explain? I love hearing how people’s DD are regarded.",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejn2jh/",
+          "created": 1721743419,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lejr2t7",
+              "score": 134,
+              "body": "CrowdStrike won’t be singled out for punishment from Microsoft. Whatever reforms/controls happen will affect every company equally",
+              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejr2t7/",
+              "created": 1721744781,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lejufaf",
+                  "score": 61,
+                  "body": "Seconding this as a long time software engineer and former Microsoft employee - Microsoft themselves explicitly gave the CrownStrike Falcon Sensor a level of access that no other device you connect / install would ever be able to receive without explicit partnership / poor decision making from MS. \n\nMicrosoft and CrowdStrike both have culpability here and the reality is that CrowdStrike will continue to thrive as their addition to the Windows system has helped mend a previously terrible security reputation Microsoft had (albeit one that is largely due to unpatched and unsupported legacy systems).",
+                  "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejufaf/",
+                  "created": 1721745900,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lek16c3",
+                      "score": 31,
+                      "body": "\"without explicit partnership\" ... you say that like it was exclusive.   All kernel level antivirus and encryption have  similar access and partnership.\n\ni dont disagree with you sentiment though, similar to BA dropping planes out of the sky... there arent many options and switching or fixing anything properly is just too much work with zero motivation\n\ni wouldnt be surprised if reversing OPs position ends up being the proper CALL now :)",
+                      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lek16c3/",
+                      "created": 1721748085,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lekdlkw",
+                          "score": 6,
+                          "body": "Hahaha right, I’d bet opposite for sure!\n\nCandidly while you’re absolutely correct about a standard antivirus, this is not the case for CrowdStrike. I was involved in this projects integration, it is not a third party utility that gets the same permissions as AVG / Kaspersky / other antiviruses etc. This has also been documented extremely thoroughly by many researchers investigating the issue which having worked on it they got correct. \n\nAdditionally something included in Windows without my authorization is not comparable to a third party antivirus tool i (or my\nIT team) consciously installs.",
+                          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekdlkw/",
+                          "created": 1721752021,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "lek6vsp",
+                  "score": 7,
+                  "body": "Exactly the thought i had reading his dd without knowing anything about software engineering.\n\nIf the problem is having kernel access then why would migration to competitors that also have it solve anything?\n\nIf without kernel access it is just an average run of the mill virus scanner then is he implying the world is now going to run only on those?\n\nMakes no sense.",
+                  "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lek6vsp/",
+                  "created": 1721749890,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lekak50",
+                      "score": 4,
+                      "body": "Every anti-virus application (Crowdstrike does more than that, but it's basically an anti-virus applciation) works this way on Windows. Microsoft is working on a Windows implementation of eBPF to allow these sort of applications to run outside of the kernel. Until that's done, anti-virus applications are going to be running this way on Windows.\n\nCrowdstrike just finished moving to eBPF on Linux. I'm sure they'll move quickly once the Windows implementation is ready.",
+                      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekak50/",
+                      "created": 1721751053,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "leksnaq",
+                          "score": 4,
+                          "body": "The Windows implementation of eBPF is extremely limited, and won't allow Crowdstrike to do what it does. Windows basically just [implemented the networking hooks](https://microsoft.github.io/ebpf-for-windows/ebpf__structs_8h.html#a0f8242763b15ec665eaa47c6add861a0). Compare that to the implementation of [eBPF on Linux](https://ebpf-docs.dylanreimerink.nl/linux/program-type/), which is far more extensive.\n\nThis entire thing might convince Microsoft to actually implement eBPF as a whole though.",
+                          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/leksnaq/",
+                          "created": 1721756706,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lekn83p",
+              "score": 12,
+              "body": "It's pretty evident that OP is a person who has a surface level understanding of how this shit works, but uses terminology that makes him sound like he knows what he's talking about to any layman.",
+              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekn83p/",
+              "created": 1721755024,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lek94m7",
+          "score": 5,
+          "body": "Right? 😂\n\nThe two paragraphs where he says to blame the EU for a good thing and then why it would be crippling for everyone to have Kernel access removed. Juxtaposed, is… \\**chef’s kiss*\\* peak ridicule.",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lek94m7/",
+          "created": 1721750598,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lejwxhn",
+          "score": 8,
+          "body": "Yeah man this made my morning",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejwxhn/",
+          "created": 1721746718,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lekd0mv",
+          "score": 6,
+          "body": "I work in Cyber Security in Big Tech. The OP doesn't know what he is talking about. One of the big things crowdstrike does well is allow for a huge amount of customization in threat hunting that lets big companies tune their alerts way better to actually find the real threats vs the massive amounts of false positives from less customizable EDR. Also many SEIM products have easy out of the box integrations with crowdstrike as well. Pivoting to another solution would involve a ton of investment in redesigning all that threat hunting, automation and integrations to work with something else (that is probably inferior). I am sure some smaller companies might bail and bigger companies might try to figure out a way to architect around this single point of failure, so sales will probably go down some and lawsuits will get settled but it is not going to kill the company. Hell remember McAfee is still around today after it had a similar screw up AND it's dogshit compared to everything else yet still in business. What it does do is create a little room for competitors to pick up some sales and steal a little market share.",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekd0mv/",
+          "created": 1721751837,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lejrcll",
+      "score": 296,
+      "body": "holy crap this DD is so incredibly uneducated lol written like someone who has watched a single video explaining what “kernel access” is",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejrcll/",
+      "created": 1721744872,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lejxon5",
+          "score": 57,
+          "body": "It was incredibly painful to read.",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejxon5/",
+          "created": 1721746964,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lekwmgx",
+          "score": 13,
+          "body": "It’s when you finally get that piece of popcorn out of your teeth right?",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekwmgx/",
+          "created": 1721757948,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lel90ts",
+          "score": 12,
+          "body": "Not only that, the Dave's Garage video had errors in it - he said Ring 1 is userspace, which made me cringe and stop the video.\n\nHow does a former Microsoft dev not know something that is learned in the first chapters of a Microsoft sysadmin or developer cert?\n\nProper DD is understanding the tech, understanding the market, why CrowdStrike is/was a ~$100B company, speak to customers etc. \n\nSince the incident I've heard stories or spoken to ~dozen impacted CrowdStrike customers/partners. Of them only twice have I heard someone say they're contemplating switching away - and even in those cases it seemed half-hearted. \n\nThey're going to get _a lot_ of compensation to stay with CrowdStrike - and this will pass in months and be forgotten in years. CrowdStrike has plenty of market cap, sales margin, government integration and market lead to survive this.",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lel90ts/",
+          "created": 1721761856,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lemy1qg",
+              "score": 3,
+              "body": "Almost immediately after the crowdstrike outage started people were working on automating their way out of this mess. now there are multiple automation methods to resurrect downed systems, several of them require almost no knowledge from the end user to execute. At this point if you have a significant portion operationally vital systems offline, it is because your IT team is woefully understaffed and/or under skilled(short those companies). Can't blame Crowdstrike (or Microsoft for some reason) for that. The execs at those organizations are to blame for offshoring, outsourcing, and generally cutting budgets and headcount for IT departments for years in order to take home yet another bonus for cutting overall costs at a company. They won't take the blame though.",
+              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lemy1qg/",
+              "created": 1721782667,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lekd1wg",
+      "score": 71,
+      "body": "Yeah it's totally the EU's fault that Crowdstrike does not use a checksum verification before pushing files /s.",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekd1wg/",
+      "created": 1721751848,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lel9iws",
+          "score": 49,
+          "body": "\"Blame the EU\" was one of my favourite parts as well. Amazing post.",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lel9iws/",
+          "created": 1721762018,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lelb1s7",
+          "score": 5,
+          "body": "When in doubt, just blame Europe :)",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lelb1s7/",
+          "created": 1721762501,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lenkqzn",
+          "score": 2,
+          "body": "Exactly.  All they proved is that yet another security firm didn't learn anything from solar winds.",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lenkqzn/",
+          "created": 1721791826,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lejp2o2",
+      "score": 37,
+      "body": "I’m guessing OP bought put?",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejp2o2/",
+      "created": 1721744107,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "len04wk",
+          "score": 7,
+          "body": "They are selling them. This post is generating demand for them.",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/len04wk/",
+          "created": 1721783473,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lek5p01",
+      "score": 26,
+      "body": "CRWD doesn’t have any competition that’s as big or as comprehensive as they are. Sure they’ll prolly lose off this for the next few months, but a year from now they’ll be back to ATHs",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lek5p01/",
+      "created": 1721749513,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lel7wex",
+          "score": 16,
+          "body": "So... buy the dip?",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lel7wex/",
+          "created": 1721761496,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "len09jc",
+              "score": 13,
+              "body": "If you can find the bottom, buy it.",
+              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/len09jc/",
+              "created": 1721783523,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lelpmkr",
+          "score": 5,
+          "body": "MDE and Crowdstrike have the majority share for EDR. This incident if anything will add stock price to Palo Alto for Cortex which is next in-line for best EDR after Crowdstrike.\n\nMost likely though, this won't affect CS too much. Redeploying EDR is one thing, fine tuning it is another. People will have spent years getting their CS configuration in line, and rewriting that YARA in a new language would be a massive pain.",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lelpmkr/",
+          "created": 1721767056,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lemsnfr",
+              "score": 5,
+              "body": "PA, S1, and MSFT'S success in capitalizing on this probably directly correlates on how quiet they stay about this. (S1 has already kinda screwed the pooch on this one). IT teams want help (which is what MSFT and CRWD are doing right now), not a lecture about how this would NEVER happen on your product. I've seen several smaller security companies on LinkedIn getting huge backlash for ambulance chasing. Everyone in the space knows that this was inevitable for one of the major players and the smart ones are waiting with bated breath for the RCA so that they can review their own practices.",
+              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lemsnfr/",
+              "created": 1721780619,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "len26d9",
+                  "score": 3,
+                  "body": "> a lecture about how this would NEVER happen on your product.\n\nEveryone says this when selling. nobody believes it. What they do believe is what they can see, and like you said, Crowdstrike has been super effective at supporting their customers during this outage. That will win them points that will carry on for a while. if they can avoid anything similar for the next 6 months, they won't feel anything from existing customers, only new sales. By the 6 month mark they should start to see new sales return to expected rates and not have people referencing this outage as heavily when considering a new contract.",
+                  "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/len26d9/",
+                  "created": 1721784269,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lemkf1l",
+          "score": 2,
+          "body": "Their current customers will sue them and I am guessing that new installs will be affected - this sucker is probably going lower until the news cycle changes",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lemkf1l/",
+          "created": 1721777580,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lejq2uf",
+      "score": 42,
+      "body": "CRWD is not the only one like this. Almost all virus scanners work like this using a driver. \n\nEDIT - malware protection i should say, not so much the virus scanner itself.",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejq2uf/",
+      "created": 1721744447,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lekul0c",
+          "score": 25,
+          "body": "People are really overestimating how rare kernel drivers are. They are extremely common. Installed an AAA game that has anticheat (EasyAnticheat, Battleye, etc)? You probably have a kernel driver running that checks if you're running cheat software. \n\nLike [here](https://www.leagueoflegends.com/en-us/news/dev/dev-null-anti-cheat-kernel-driver/)'s an article from Riot Games mocking people worrying about the new kernel driver anticheat they were introducing.",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekul0c/",
+          "created": 1721757307,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lek47jf",
+      "score": 88,
+      "body": "OP is overestimating the willingness of an enterprise to change infrastructure.\n\nWhen you know, you know.",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lek47jf/",
+      "created": 1721749048,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lel1uoi",
+          "score": 32,
+          "body": "We aren’t changing. We haven’t heard anyone changing other than Elon’s twitter post. \n\nI asked my CTO why not and he said “why leave now? They are going to be giving credits and under the most scrutiny to not screw up again”",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lel1uoi/",
+          "created": 1721759592,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lelqdz9",
+              "score": 6,
+              "body": "They are about to get a $1+ billion dollar spanking in terms of refunds and/or temporary lost revenue. \n\nWhy wouldn't they make damn sure they don't make a mistake of this magnitude again.",
+              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lelqdz9/",
+              "created": 1721767293,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lek4198",
+      "score": 32,
+      "body": "Bookmark this person. These are the OGs we are supposed to inverse!",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lek4198/",
+      "created": 1721748992,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lek3gso",
+      "score": 38,
+      "body": "I love how a bloke posting on WSB is now a security expert. You have no idea how good CS is. People are not going to give up on it. There will be pain, and prob testing enhancements but it will become old news.",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lek3gso/",
+      "created": 1721748809,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lekidde",
+          "score": 10,
+          "body": "no kidding.  it is best in class EDR.  all they need to do to shut all the detractors up is pass on the n, n-1 update staggering, WITH DISCLAIMER THAT MUST BE APPROVED BY THE ADMIN, to definitions as well as sensors.",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekidde/",
+          "created": 1721753523,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lektqhh",
+          "score": 4,
+          "body": "If the stock takes a big enough hit, it would not surprise me if Microsoft tried to buy them assuming they were able to get through antitrust legislation.",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lektqhh/",
+          "created": 1721757044,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lejpdih",
+      "score": 47,
+      "body": "Sentinel loads as a driver as well.",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejpdih/",
+      "created": 1721744208,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lek27qw",
+          "score": 61,
+          "body": "everyone and their mothers can load drivers, even your shitty Chinese RGB mouse",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lek27qw/",
+          "created": 1721748414,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lelr2sd",
+          "score": 11,
+          "body": "literally all of their edr competitors function like this",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lelr2sd/",
+          "created": 1721767504,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lemq7v8",
+              "score": 3,
+              "body": "Facts. Therefore, the competition sales team need to craft up some lies lol 😂",
+              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lemq7v8/",
+              "created": 1721779703,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "leji3u6",
+      "score": 144,
+      "body": "Crowdstrike is not going to lose kernel access. Average Joe thinks this whole thing was an azure problem.  They are going to come out and explain how they have improved testing and  QA on windows machines an it'll be back to normal, sans the possibility of lawsuits which I have to assume they were not stupid enough to include a critical error like this in the ToS",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/leji3u6/",
+      "created": 1721741639,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lejsyi8",
+          "score": 55,
+          "body": "A terms of service doesn’t prevent you from getting sued.",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejsyi8/",
+          "created": 1721745411,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lek8i7q",
+              "score": 11,
+              "body": "Exactly. ToS does not absolve the parties of negligence.",
+              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lek8i7q/",
+              "created": 1721750400,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lejxhfe",
+          "score": 13,
+          "body": "The average Joe isn’t the one using CRWD services though right? They rely on contracts with businesses. Who’s going to want to use them after this?",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejxhfe/",
+          "created": 1721746898,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lekyyoa",
+              "score": 5,
+              "body": "My work still uses SolarWinds despite the hack that compromised thousands of systems including a few of our own and I imagine we'll continue using CloudStrike after this incident as well. The contracts for these products costs a lot of money and require a lot of dedicated infrastructure and support to use. Replacing them is also an arduous task since you have to carefully match contract pricing and product capabilities to ensure you are getting a similar product for a similar price. No company is going to go through all that effort over a single incident especially when there is no guarantee that there won't be similar issues with whatever product was chosen as a replacement.",
+              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekyyoa/",
+              "created": 1721758685,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lek4hi2",
+              "score": 11,
+              "body": "Yeah, that was the dumbest thing said in this thread. The average Joe has never heard of azure and only heard about crowdstrike because they crashed the internet.",
+              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lek4hi2/",
+              "created": 1721749134,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lekhd77",
+                  "score": 11,
+                  "body": "As a software engineer, when it comes to technical decision making, your average business leader (even in technical departments) has essentially zero specialized knowledge. For all intents and purposes they are no different in technical knowledge than an average joe.",
+                  "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekhd77/",
+                  "created": 1721753209,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lejom9y",
+          "score": 19,
+          "body": "[deleted]",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejom9y/",
+          "created": 1721743952,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lemyn7o",
+              "score": 2,
+              "body": "Even so, if CRWD is sued for an extraordinary amount of damages for interruption of daily operations successfully, the entire PAAS, SAAS and IAAS industry goes belly up. AWS, cloudflare, and azure have taken down the internet on multiple occasions. Tenable used to take down the network at two of my jobs monthly.  Solarwinds became the first supply chain hack in history. Microsoft allowed straight up malware on its store for months after reports started.  Every name in the space either has or will have an event like this.  \n\nAll they have to prove to disprove negligence is to prove that they use the industry standard for testing on virus definitions, which you won't be shocked to hear is a very low bar. That TOS also explicitly states that it is not to be used on any endpoint that could cause damage to life or property so that likely throws out any wrongful death suits since CRWD can argue that their product was not cleared to work on that type of IS.",
+              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lemyn7o/",
+              "created": 1721782896,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lejdmzs",
+      "score": 53,
+      "body": "Calls it is then ![img](emote|t5_2th52|29637)",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejdmzs/",
+      "created": 1721739941,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lejdqkz",
+      "score": 20,
+      "body": "You'd be shocked how easy it is to sign kernel binaries.",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejdqkz/",
+      "created": 1721739981,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lejpqsf",
+      "score": 6,
+      "body": "Link to said video of why this happened?",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejpqsf/",
+      "created": 1721744334,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lejq82f",
+      "score": 6,
+      "body": "The issue is with deployment processes not with the product, keep that in mind please.\n\nKind regards.",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejq82f/",
+      "created": 1721744495,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lek329w",
+      "score": 9,
+      "body": "Lmao, im not a bull or bear in this scenario but your post makes it clear you really don’t understand the dynamics of this industry",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lek329w/",
+      "created": 1721748679,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lejr9gh",
+      "score": 26,
+      "body": "the crowdstrike CEO was the CTO at Mcafee when they destroyed the internet.  The ended up so dead MSFT bought them.  This is a repeat.",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejr9gh/",
+      "created": 1721744843,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lekt1af",
+          "score": 5,
+          "body": "I think it was intel that bought them",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekt1af/",
+          "created": 1721756827,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lejwy2m",
+          "score": 10,
+          "body": "Deep DOD and Intel agency ties. CS is going nowhere. Hell, if they go under the govt will probably bail them out.",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejwy2m/",
+          "created": 1721746724,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "letj9m0",
+              "score": 2,
+              "body": "more likely someone will buy them out for pennies, or just buy the IP leaving the liabilities with crowdstrike.",
+              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/letj9m0/",
+              "created": 1721879731,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lejebze",
+      "score": 16,
+      "body": "Show us your puts then",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejebze/",
+      "created": 1721740212,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lejvhv1",
+          "score": 26,
+          "body": "https://preview.redd.it/1v6o5eaj7aed1.png?width=748&format=png&auto=webp&s=e4144e091f6c40e2a82f904ca6d2b91f6251729d\n\nput my money where my mouth is.",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejvhv1/",
+          "created": 1721746250,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lek8hol",
+              "score": 21,
+              "body": "Lmfao you really let WSB bully you into buying more",
+              "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lek8hol/",
+              "created": 1721750396,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lekczld",
+                  "score": 12,
+                  "body": "might as well nut up or shut up when im the one who thinks itll die. the bullying just helped me grow balls.",
+                  "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekczld/",
+                  "created": 1721751828,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "leloy7r",
+                      "score": 5,
+                      "body": "You sir, know how to buy puts ![img](emote|t5_2th52|27189)\n\nhttps://preview.redd.it/dctuvf5twbed1.jpeg?width=1284&format=pjpg&auto=webp&s=1ee07460de7fdc20b4277edfdef195215157c55a",
+                      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/leloy7r/",
+                      "created": 1721766844,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lelpszp",
+                          "score": 3,
+                          "body": "Can’t drop $100 without a little retrace haha. No news warranted the pump today so I pulled the trigger",
+                          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lelpszp/",
+                          "created": 1721767112,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lelt1s8",
+          "score": 2,
+          "body": "https://preview.redd.it/m0yu2uef0ced1.jpeg?width=1178&format=pjpg&auto=webp&s=b90e86a76a54ea10c04d77735d553938c003a44a\n\nGot almost 4k, my first gain on shorts. Thinking on Aug 270 put",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lelt1s8/",
+          "created": 1721768120,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lejrklz",
+      "score": 16,
+      "body": "This is a classic overreaction. Great buying opportunity. Reminds me of the time everyone said Meta was over.",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejrklz/",
+      "created": 1721744947,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lek6b1i",
+      "score": 3,
+      "body": "Sooo your telling me that the government would not want to support CrowdStrike ability to access your kernel and thus your entire computer in the future. Yeah. I’m saying buy the dip on this one. \nFor reference See what happens to apple when the cia couldn’t open a terrorizers iPhone.",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lek6b1i/",
+      "created": 1721749708,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lek8gr9",
+      "score": 4,
+      "body": "Today there was a report that Microsoft blamed the EU for this - because of anti-competitive laws and settlements, the EU mandated in **2009** that Microsoft needs to open up endpoint protection (examples CRWD and others) at the kernel level, whereas Apple avoided that (in 2009) by playing their usual \"**victim**\" card (*we are a poor second to Microsoft in the PC business*).\n\nEssentially, the EU said that Microsoft Defender (which is endpoint threat mitigation) should **NOT** be bundled with Windows (if you remember around 15 years ago, we used to get Defender pre-installed, and then it changed to an option where you could select from a list of options).\n\nErgo, because of that **idiotic law/settlement**, Microsoft \\*has\\* to allow kernel access to outsiders, and as much as the EU is trying, Apple is not doing so. Microsoft is actually right here - they need to lock down and say **FU** to the EU.\n\nThis is hugely important - it's **not a level playing field** for Microsoft versus Apple  and Linux.\n\nIt's a different matter that CRWD fired their QA engineers (because the CEO needs a new yacht, and who needs them anyway? they're an unnecessary expense...), and refused to do a pilot run before deploying a kernel level module/code worldwide.\n\n**Fucking idiots! That's where they are culpable.**\n\n**For home users (who were not affected as much anyways)** - just enable Defender and do not use 3rd party endpoint mitigation (usually home users do not pay for CRWD). It's slightly slow, but I'd trust Microsoft Defender for personal use more for a kernel access module than CRWD or Kaspersky or McAfee or others.\n\nEDIT 1: More info here:\n\n[https://stocks.apple.com/ASICBuJJqQjCfukfI-rWq1w](https://stocks.apple.com/ASICBuJJqQjCfukfI-rWq1w)\n\n  \nEDIT 2:\n\nDave, one of the (retired) Windows OS developers talks the deets about how CRWD fucked up (this is for SW/HW folks mainly):\n\n[https://www.youtube.com/watch?v=wAzEJxOo1ts](https://www.youtube.com/watch?v=wAzEJxOo1ts)\n\nTo get to the relevant bits, start at 5:00 as the first five minutes are describing OS kernel vs. user modes in general.",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lek8gr9/",
+      "created": 1721750387,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lekgjgc",
+      "score": 5,
+      "body": "There is such a sensational hum of print money brrrr machines in the ape’ry that is Microsoft double dipping creating the security issues that give rise to the market they’re also competing in to “solution”.\n\nBut you have to be fair ape, there are other kernel-level vendor solutions of which CS is just one. Considering that Microsoft gives a 2/5 banana scale toothy-beej when it has come to security for years, kernel isn’t going away anytime soon but I give you a C+ for your regards.\n\nTLDR: your forecast shouldn’t come from reading the wrinkles on your ball-bag",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekgjgc/",
+      "created": 1721752951,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "leufi07",
+      "score": 3,
+      "body": "IMO CrowdStrike will be sued and fined into oblivion. You look at these threads from the Monday morning lawyers saying their contracts limit liability, absurd. Negligence negates contractual language, and a contract that limits negligence is illegal on its face.  By Crowdstrike failing to do proper beta testing, one could argue gross neglect, especially looking at the outcome. Again, all in my legal opinion. Their lawyer bill alone will be astronomical being sued and fined in every corner of the globe.",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/leufi07/",
+      "created": 1721899149,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lf4eoef",
+      "score": 3,
+      "body": "As a cyber professional, I agree with all of your thoughts above. I sell a lot of solutions that compete with CRWD - it’s hard to get complete parity in comparisons because of different feature sets and approaches on the things that ride on top of their core EDR solution, but there are two other products on the market that do just as good of a job, if not better, than CRWD at preventing malware. S1 and Cortex. We test EDR efficacy (false negs/pos, etc) and efficiency (resource load, etc) and, unlike Mitre, we don’t allow reconfigurations. S1 routinely beats CRWD on their aggregate scoring (CRWD will win in certain areas, for example they have a small resource load advantage due to their architectural approach) and Cortex is right there with both of them.  We get paid to do these bake offs by our customers and therefore do them multiple times a year.  The three of them are so close on EDR outcomes that you’ll see each of the three win on different bake-offs where the scoring weighting is different - but all three of them are always neck and neck. \n\nSo, short version - I agree, they’re hosed. They were beating their competitors based on brand name, and now the brand name is tarnished.  And, given that their liability was capped at “price paid”, aren’t they about to lose a significant amount of their profitability in the next quarter or two to reparations?",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lf4eoef/",
+      "created": 1722041398,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lf4eofp",
+          "score": 2,
+          "body": "Our AI tracks our most intelligent users. After parsing your posts, we have concluded that you are within the 5th percentile of all WSB users.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lf4eofp/",
+          "created": 1722041398,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lek23jz",
+      "score": 7,
+      "body": "Really? Because the stock is going up",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lek23jz/",
+      "created": 1721748377,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lejiduf",
+      "score": 25,
+      "body": "(I am already betting with different instruments on crowdstrike dying before the end of the year)\n\nCrowdstrike is only propped up by the thesis of it being a growth company with exceptional margins. However, its barely profitable. They have only have 3.7bill in Cash. \n\nOnce that revenue cut hits in Q2 and Guidance gets fucked (they probably wont give guidance for the rest of fiscal 25) its already gonna crater. Then the Suits hit. EULA and TS won’t protect them against Gross negligence suits. They will have to prove that wasn’t gross negligence and Cali does not cap damages on gross negligence. In no fucking way will they have enough cash to cover 1/10 of claims.\n\nChapter 11 is absolutely likely before Q3. The only bull case basically is that Amazon, Google, Microsoft wush in and buy their stuff and all my lovely options and warrants get fucked once the underlying stops trading.\n\n\n(The pre market rebound is just a dead cat bounce regards, this shit will die)",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejiduf/",
+      "created": 1721741743,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lejrz5r",
+          "score": 27,
+          "body": "Im a Software Engineer and i just don’t know how what they did could be considered anything but gross negligence.  Slow rollouts, UATs, and error handling are just basic things that would have prevented this issue.   In small niche systems its not uncommon to have all three of these working together, the fact that CrowdStrike had none is shocking and speaks to some deep ineptitude in their tech team.  \n\nImo though Microsoft shares some of the blame as well.   Even though kernel level code should be trusted the windows OS shouldn’t just enter a BSOD loop because some of it failed, at least go into safe mode on fail #3 or so.  I could see them trying to kind of brush this whole thing under the rug so that their enterprise clients don’t realize they have been duped into using a shitty OS.",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejrz5r/",
+          "created": 1721745083,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lek2khj",
+          "score": 3,
+          "body": ">  its barely profitable\n\nThe competition isn't even profitable\n\n> Then the Suits hit\n\nprobably a valid concern, I have no idea honestly",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lek2khj/",
+          "created": 1721748525,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lekbm5p",
+          "score": 5,
+          "body": "As a security engineer you are completly removing the technology from your thesis. CrowdStrike is still by far the number 1 and it’s not close. Defender and SentinelOne do not come close to the level Crowdstrike provides. Yes there will be some fallout but this is a classic overreaction. Their product is incredible and better than the rest. Best of class will survive a black eye. If this was a breach on the other hand most of the lawsuits would hit and then we could talk about it dying. I reread the terms of use and they are literally protected except under a breach.",
+          "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lekbm5p/",
+          "created": 1721751390,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lek6778",
+      "score": 3,
+      "body": "Insurance already said they aren't gonna take a big hit, calls it is cuz I'm a nutty regard",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lek6778/",
+      "created": 1721749674,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lelp5d9",
+      "score": 3,
+      "body": "Literally every antivirus loads kernel drivers otherwise it cannot protect computer and itself from viruses and tampering.\n\nI don’t agree with everything, but the CRWD going out of business is a real thing. Furthermore, I think Wiz breaking the deal might have been influenced by CRWD fuckup as they saw instant opportunity to grab more market share. For Wiz, they also wanted to brag before IPO to polish reputation for higher IPO price so they could tank from higher position 😂",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lelp5d9/",
+      "created": 1721766908,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lek0fe0",
+      "score": 4,
+      "body": "nothing happened, it will bounce back to the original price",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lek0fe0/",
+      "created": 1721747846,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "leje5b4",
+      "score": 7,
+      "body": "Calls are already printing!",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/leje5b4/",
+      "created": 1721740140,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lejq6sp",
+      "score": 2,
+      "body": "![img](emote|t5_2th52|4267)",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejq6sp/",
+      "created": 1721744483,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lejuqus",
+      "score": 2,
+      "body": "Agreed, I am hearing chatter of many large companies going to break their contracts.  What money would CRWD have to sue them? lol they will get buried in legal fees.",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejuqus/",
+      "created": 1721746006,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lejy4hb",
+      "score": 2,
+      "body": "lol not today Pal",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lejy4hb/",
+      "created": 1721747108,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lek4x9z",
+      "score": 2,
+      "body": "Call it is for sure. I like when people put in all this work only to have sed ticker have a pretty green day",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lek4x9z/",
+      "created": 1721749274,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lennevy",
+      "score": 2,
+      "body": "The only thing that will happen is a new market cap for disaster recovery companies",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lennevy/",
+      "created": 1721793051,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "leo43t4",
+      "score": 2,
+      "body": "Holy hell you can't be this daft, of fucking course they have internal testing, then they send it to Microsoft, then after it cleared all that, it's released.\n\nYes, they get to bypass having Microsoft release the update, but Microsoft still tested it and gave it a pass.\n\nWhat blows me away is the update actually worked for allot of their clients. Had it actually been a full-blown cluster fuck it would legitimately been biblical...\n\nEdit: What I'm saying is they are way more intrenched into the system than anyone here can imagen. The only way they go bust is by being nationalized and that sure as fuck isn't going to happen.",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/leo43t4/",
+      "created": 1721802079,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "levbqy0",
+      "score": 2,
+      "body": "S1 is presenting they don't \n\nI have someone send me the email explaining this",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/levbqy0/",
+      "created": 1721914980,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "leyj7vn",
+      "score": 2,
+      "body": "I bought $6000 worth of puts expiring November and March at 270.\n\nI have no intention of selling till we break 200",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/leyj7vn/",
+      "created": 1721953235,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "leyk4iq",
+      "score": 2,
+      "body": "Reading everyone’s responses here is very indicative of the posts made six days ago when CRWD was >320 about how over valued it was and everyone said the same. “Too big to fail” “best CS in the market” “growth prospects are massive” and then they’ll see it drop 30% because of a “understandable mistake” and continue repeating the same bullshit.\n\nDon’t worry OP I have puts also and I am confident this will fall below $100/share this year.",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/leyk4iq/",
+      "created": 1721953589,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfds1ok",
+      "score": 2,
+      "body": "I don't think that customers will break their contracts and move to competitors. \n\nWhy? \n\nBecause the board won't allow a swap to happen (now when the system is operational again).\n\nAlso I belief that the stock value will slowly return to normal. This given we do see any general corrections.\n\nWe will see ;-)",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lfds1ok/",
+      "created": 1722195782,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lki7tsq",
+      "score": 2,
+      "body": "This didn't age well, CRWD is popping off!",
+      "permalink": "/r/wallstreetbets/comments/1ea75vl/crwd_is_going_to_die/lki7tsq/",
+      "created": 1724940701,
+      "depth": 0,
+      "replies": []
+    }
+  ],
+  "stockTickers": {
+    "post_summary": "The post suggests that Crowdstrike is in trouble due to kernel access issues and recommends buying puts.",
+    "companies": [
+      "Crowdstrike",
+      "Microsoft"
+    ],
+    "tickers": [
+      "CRWD",
+      "MSFT",
+      "NVDA"
+    ],
+    "main_ticker": [
+      "CRWD"
+    ]
+  },
+  "sentimentAnalysis": {
+    "post_summary": "The user explains why Crowdstrike's inability to quickly update their certificate might lead to customers leaving and potential lawsuits, due to a recent technical failure.",
+    "stock_recommendations": "The user is recommending to buy put options for CRWD.",
+    "is_recommending_stock_buying_or_selling": true,
+    "buy_or_sell": "sell",
+    "sentiment_summary": "There is negative sentiment because the author believes Crowdstrike is facing technical and legal challenges that will harm the company, recommending to buy puts.",
+    "sentiment": "negative"
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "title": "All my savings into $TSLA LEAPS, see y'all in a year or so ✌️",
+  "score": 74,
+  "selftext": "",
+  "link_flair_text": "YOLO",
+  "id": "1e5cck9",
+  "num_comments": 26,
+  "created_utc": 1721202114,
+  "permalink": "/r/wallstreetbets/comments/1e5cck9/all_my_savings_into_tsla_leaps_see_yall_in_a_year/",
+  "url_overridden_by_dest": "https://i.redd.it/4v2ksuxk91dd1.png",
+  "comments": [
+    {
+      "id": "ldktbbk",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 1 | **First Seen In WSB** | just now\n**Total Comments** | 0 | **Previous Best DD** | \n**Account Age** | 10 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1e5cck9/all_my_savings_into_tsla_leaps_see_yall_in_a_year/ldktbbk/",
+      "created": 1721202120,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldktn1d",
+      "score": 63,
+      "body": "Today Opening Red with this one🗣️🔥",
+      "permalink": "/r/wallstreetbets/comments/1e5cck9/all_my_savings_into_tsla_leaps_see_yall_in_a_year/ldktn1d/",
+      "created": 1721202345,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldkvk1b",
+          "score": 12,
+          "body": "Pre market confirmed red",
+          "permalink": "/r/wallstreetbets/comments/1e5cck9/all_my_savings_into_tsla_leaps_see_yall_in_a_year/ldkvk1b/",
+          "created": 1721203662,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldl7wrm",
+          "score": 4,
+          "body": "Lmfao",
+          "permalink": "/r/wallstreetbets/comments/1e5cck9/all_my_savings_into_tsla_leaps_see_yall_in_a_year/ldl7wrm/",
+          "created": 1721211970,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldkus0z",
+      "score": 48,
+      "body": "The question is not if you could, but if you should.\n\n  \nBTW the Tesla leap options are severely mispriced on the upside. You can see that there is not much difference between the strikes above $400.\n\n  \nHeh, I would argue that buying 1 contract at $320, instead of 2 at $540 would have been much better. Same cost, much higher probability to make a profit, and much higher return until TSLA reaches $760 (But even then, at that point it would not matter much).\n\n  \nHeh, you could buy a vertical $300 (buy call)/$400 (sell call), and have 4 contracts, to make even more money, same cash outlay.\n\n  \nAnyway, you belong here, fellow regard.",
+      "permalink": "/r/wallstreetbets/comments/1e5cck9/all_my_savings_into_tsla_leaps_see_yall_in_a_year/ldkus0z/",
+      "created": 1721203126,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldkvq68",
+          "score": 2,
+          "body": "How do you calculate that 2 at 540 is worse than 1 at 320 till 760",
+          "permalink": "/r/wallstreetbets/comments/1e5cck9/all_my_savings_into_tsla_leaps_see_yall_in_a_year/ldkvq68/",
+          "created": 1721203781,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldky2fd",
+              "score": 25,
+              "body": "Assuming that contract cost is the same.\n\n  \nLet’s assume that TSLA is at $540 on Dec 18 2026. OP’s calls are worth $0. The $320 call is worth ($540-$320)=$220 in the money, so $22k profit (for a $8k risk).\n\n  \nIf TSLA is $760 (so $220 higher, so same difference), the two $540 calls are worth $44k total, and the single $320 call is also worth $44k. Above that, OP’s call will double the profits compared to the $320 call. But by that point, the probability becomes lower and lower for that to realize.\n\n  \nIn any case, never ever buy a straight leap (long dated), always buy a vertical instead, so you reduce your cost, don’t pay the full volatility and theta (someone else is paying a good portion of it). You will end up with a better risk profit profile overall.",
+              "permalink": "/r/wallstreetbets/comments/1e5cck9/all_my_savings_into_tsla_leaps_see_yall_in_a_year/ldky2fd/",
+              "created": 1721205379,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ldmryz7",
+                  "score": 5,
+                  "body": "Now explain the math behind the vertical so I can ape my life savings into it",
+                  "permalink": "/r/wallstreetbets/comments/1e5cck9/all_my_savings_into_tsla_leaps_see_yall_in_a_year/ldmryz7/",
+                  "created": 1721233847,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ldohuiv",
+                      "score": 4,
+                      "body": "Easy as f.  \nLet's say Tesla is at 250$.  \nYou can buy a call at 300$ which cost 20$. This makes you profitable (at expiration) when tesla is > 320$.  \nIf on top of that you sell a call at 350$ for (let's say) 10$ what happens is that you overall become profitable at 310$ (not 320$), but above 350$ what you gain with the 300$ call you'll lose with the 350$ call you're short.\n\nYou basically lower your entry cost, while limiting the upside potential.",
+                      "permalink": "/r/wallstreetbets/comments/1e5cck9/all_my_savings_into_tsla_leaps_see_yall_in_a_year/ldohuiv/",
+                      "created": 1721253771,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ldlg96o",
+      "score": 19,
+      "body": "Wow.\n\nYou can close this out and not lose your money.\n\nOr lose it over the next year and cry.\n\nAbsolute moron.",
+      "permalink": "/r/wallstreetbets/comments/1e5cck9/all_my_savings_into_tsla_leaps_see_yall_in_a_year/ldlg96o/",
+      "created": 1721216483,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldlp224",
+      "score": 3,
+      "body": "You haven't worked at Wendy's your whole life just to throw your savings away like this",
+      "permalink": "/r/wallstreetbets/comments/1e5cck9/all_my_savings_into_tsla_leaps_see_yall_in_a_year/ldlp224/",
+      "created": 1721220396,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldlvbba",
+      "score": 3,
+      "body": "RIP your savings",
+      "permalink": "/r/wallstreetbets/comments/1e5cck9/all_my_savings_into_tsla_leaps_see_yall_in_a_year/ldlvbba/",
+      "created": 1721222871,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldm529t",
+      "score": 3,
+      "body": "You would have been better off actually putting this down at a blackjack table.",
+      "permalink": "/r/wallstreetbets/comments/1e5cck9/all_my_savings_into_tsla_leaps_see_yall_in_a_year/ldm529t/",
+      "created": 1721226383,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldm9ew3",
+      "score": 1,
+      "body": "not too late to close this and save your money",
+      "permalink": "/r/wallstreetbets/comments/1e5cck9/all_my_savings_into_tsla_leaps_see_yall_in_a_year/ldm9ew3/",
+      "created": 1721227848,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldma5a4",
+      "score": 1,
+      "body": "See you at Wendy’s",
+      "permalink": "/r/wallstreetbets/comments/1e5cck9/all_my_savings_into_tsla_leaps_see_yall_in_a_year/ldma5a4/",
+      "created": 1721228086,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldmhi0g",
+      "score": 1,
+      "body": "this feels very similar to just buying the stock.  \nOn a 2year+ leap on a stock that has generally at least doubled/year... \nare stock gains and option cost basically the same?\n\nlike if the stock goes up 10% are these options up 10%? or 20%? or 5%?",
+      "permalink": "/r/wallstreetbets/comments/1e5cck9/all_my_savings_into_tsla_leaps_see_yall_in_a_year/ldmhi0g/",
+      "created": 1721230486,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldmhut8",
+      "score": 1,
+      "body": "oof",
+      "permalink": "/r/wallstreetbets/comments/1e5cck9/all_my_savings_into_tsla_leaps_see_yall_in_a_year/ldmhut8/",
+      "created": 1721230602,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldmi791",
+      "score": 1,
+      "body": "Why buy them that far OTM? If you are too poor for proper LEAPs this play will only make you more poor.",
+      "permalink": "/r/wallstreetbets/comments/1e5cck9/all_my_savings_into_tsla_leaps_see_yall_in_a_year/ldmi791/",
+      "created": 1721230714,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldmode9",
+      "score": 1,
+      "body": "Bruh ![img](emote|t5_2th52|12787)",
+      "permalink": "/r/wallstreetbets/comments/1e5cck9/all_my_savings_into_tsla_leaps_see_yall_in_a_year/ldmode9/",
+      "created": 1721232702,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldo0v8q",
+      "score": 1,
+      "body": "Not going to end well",
+      "permalink": "/r/wallstreetbets/comments/1e5cck9/all_my_savings_into_tsla_leaps_see_yall_in_a_year/ldo0v8q/",
+      "created": 1721248115,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldpab5j",
+      "score": 1,
+      "body": "Goodbye savings",
+      "permalink": "/r/wallstreetbets/comments/1e5cck9/all_my_savings_into_tsla_leaps_see_yall_in_a_year/ldpab5j/",
+      "created": 1721264379,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldqdlih",
+      "score": 1,
+      "body": "Hi Cathie.",
+      "permalink": "/r/wallstreetbets/comments/1e5cck9/all_my_savings_into_tsla_leaps_see_yall_in_a_year/ldqdlih/",
+      "created": 1721282529,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lechl5s",
+      "score": 1,
+      "body": "see us at wendy’s",
+      "permalink": "/r/wallstreetbets/comments/1e5cck9/all_my_savings_into_tsla_leaps_see_yall_in_a_year/lechl5s/",
+      "created": 1721631655,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldmuytv",
+      "score": 0,
+      "body": "Orange man isn't even sparing his GF Elong from the bloodbath",
+      "permalink": "/r/wallstreetbets/comments/1e5cck9/all_my_savings_into_tsla_leaps_see_yall_in_a_year/ldmuytv/",
+      "created": 1721234792,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "title": "Arm Holdings to cancel Qualcomm chip design license, Bloomberg News reports",
+  "score": 41,
+  "selftext": "",
+  "link_flair_text": "News",
+  "id": "1ga7j9m",
+  "num_comments": 7,
+  "created_utc": 1729680519,
+  "permalink": "/r/wallstreetbets/comments/1ga7j9m/arm_holdings_to_cancel_qualcomm_chip_design/",
+  "url_overridden_by_dest": "https://www.reuters.com/technology/arm-holdings-cancel-qualcomm-chip-design-license-bloomberg-news-reports-2024-10-23/",
+  "comments": [
+    {
+      "id": "ltbkvnb",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 5 | **First Seen In WSB** | 3 years ago\n**Total Comments** | 764 | **Previous Best DD** | \n**Account Age** | 11 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1ga7j9m/arm_holdings_to_cancel_qualcomm_chip_design/ltbkvnb/",
+      "created": 1729680525,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltbzq29",
+      "score": 10,
+      "body": "hmm QCOM only makes ARM chips, so....wtf are they going to do if they can't any more?",
+      "permalink": "/r/wallstreetbets/comments/1ga7j9m/arm_holdings_to_cancel_qualcomm_chip_design/ltbzq29/",
+      "created": 1729687370,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltcrlfa",
+          "score": 5,
+          "body": "RISC-V is an open architecture. But it may need some additional work to get an ARM-like experience within the Android ecosystem.",
+          "permalink": "/r/wallstreetbets/comments/1ga7j9m/arm_holdings_to_cancel_qualcomm_chip_design/ltcrlfa/",
+          "created": 1729696846,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ltd4x1q",
+      "score": 12,
+      "body": "This is lawfare. \n\nHere's the story.\n\n* The Apple M1 SoC design team broke off and formed a startup called Nuvia. They bought an ARM license for dirt cheap.\n\n* Qualcomm bought out Nuvia, and set those guys to work building them a new ARM-based laptop CPU (the cringily named \"Snapdragon X Elite\"). \n\n* But Qualcomm didn't pay ARM for a new CPU license. They argued that they had inherited Nuvia's dirt-cheap license when they bought out the company.\n\n* ARM is calling bullshit, and wants Qualcomm to pay full mega-cap freight.\n\nBoth sides are very financially motivated here, because the difference in startup licensing fees and megacap licensing fees is probably worth a hundred million annually. And ARM is looking to sell themselves off or IPO, so they could use a nice shot of revenue growth to attract buyers. They are giving Qualcomm an arm-twist here (no pun intended) to pressure them towards a favorable settlement.\n\nAt the end of the day, Qualcomm is still going to be using ARM instruction sets in the short term, it's just a matter of how much or how little this case ends up costing them. Long term, ARM is going to alienate more of their customers if they keep suing them, and push them towards free instruction sets like RISC-V. \n\nIMO, ARM's best play would just be to lay low and keep skimming nearly risk-free profit off the mobile market. But investors are more enamored by growth than by steady earnings.",
+      "permalink": "/r/wallstreetbets/comments/1ga7j9m/arm_holdings_to_cancel_qualcomm_chip_design/ltd4x1q/",
+      "created": 1729700923,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltid37u",
+          "score": 1,
+          "body": "Thank you for the great synopsis!",
+          "permalink": "/r/wallstreetbets/comments/1ga7j9m/arm_holdings_to_cancel_qualcomm_chip_design/ltid37u/",
+          "created": 1729776808,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ltbkviq",
+      "score": 4,
+      "body": "Puts on QCOM?\n\ntheir own design department that produced more advanced chips than vanilla was their MOAT basically (at least that's how it was 10 years ago).",
+      "permalink": "/r/wallstreetbets/comments/1ga7j9m/arm_holdings_to_cancel_qualcomm_chip_design/ltbkviq/",
+      "created": 1729680523,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltcd5k4",
+      "score": 6,
+      "body": "Article title is misleading. This is a 60 day notice ahead of a ARM vs. QCOM trial and is ARM trying to strongarm partners. This will most likely be settled before the 60 days and I would say thanks for the reduced QCOM price.",
+      "permalink": "/r/wallstreetbets/comments/1ga7j9m/arm_holdings_to_cancel_qualcomm_chip_design/ltcd5k4/",
+      "created": 1729692237,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

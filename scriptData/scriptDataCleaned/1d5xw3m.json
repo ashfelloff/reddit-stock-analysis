@@ -1,0 +1,684 @@
+{
+  "title": "Huge market movement in last ~25 minutes",
+  "score": 208,
+  "selftext": "I’m looking for some clarity. Listening to CNBC yesterday, they were commenting on the near total, sharp market reversal yesterday was d/t “automated” buying in the last minutes of the market being open, somehow linked to the end of the month and institutions.\n\nHere’s my question: Large institutions know they’re going to buy in the final minutes of market open, are they holding those orders all day? Is it purely institutional buys or a mix? Could they not buy up a ton of dirt cheap calls minutes from expiry on say SPX and make a fortune each time?\n\nApparently these are not abnormal market movements and not illegal. So if it’s not manipulation then why aren’t they buying calls on top of their huge, deliberate end of day market buy ins?\n\nGenuinely curious.\n\n",
+  "link_flair_text": null,
+  "id": "1d5xw3m",
+  "num_comments": 78,
+  "created_utc": 1717278871,
+  "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/",
+  "comments": [
+    {
+      "id": "l6ouros",
+      "score": 188,
+      "body": "Fund managers generally have to rebalance/purchase back holdings at the end of the month/quarter in order to exit out of positions they aren't supposed to be holding and adding ones that they are. Pretty much [window dressing](https://www.investopedia.com/terms/w/windowdressing.asp#:~:text=You%20may%20have%20heard%20that,attractive%20to%20investors%20and%20lenders).\n\nThe S&P 500 also had a huge market on close buy imbalance around \\~$4.5B roughly 10 minutes before the close, which are orders that needed to be matched off prior to the close. It's likely there weren't enough sellers shares for the order to be matched off prior to the run up at the close. As funds have to hold certain shares by the end of month/quarter prior to reporting to their investors, many of the imbalances likely had to be filled through market orders which squeezed the price higher.",
+      "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6ouros/",
+      "created": 1717281744,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6ovdac",
+          "score": 33,
+          "body": "Thank you for the detailed response.\n\nIf they know they have to balance these “books” so to speak by EoM, shouldn’t they be buying in earlier in the day? It seems like it’s awfully close to, if not entirely, painting the tape.",
+          "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6ovdac/",
+          "created": 1717281992,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6rkz55",
+              "score": 25,
+              "body": "Professional trader here. Most of these institutions are not as price sensitive as you think. At least not in an intraday manner. They care about fills and not being front run. Volume on any given day is skewed around the two crosses (the morning and closing auctions that set their respective official prices). \n\nPainting the tape requires a collusion and coordination to make it appear that a stock is being actively traded. Imbalances are bona fide trading activity. It's just a quirk of how these institutions execute orders and is a way for savvy investors to capitalize on. \n\nCongratulations, you've now stumbled across your first real potential edge.",
+              "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6rkz55/",
+              "created": 1717335937,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l6oy84u",
+              "score": 26,
+              "body": "Mind you yesterday, markets were already -0.7% down after opening up +0.3% and hitting the 1-day expected move ceiling, so it was a much better timing to buy at bottom than at open. I’m sure they were watching the PCE and PMI, and watched the option chains develop throughout the day. They had a fair prediction of price moment based on options volumes.\n\nThe put/support floor on SPX was at 5200 so when SPX bounced off of it, it became clear there’s no going lower. What was truly unexpected was last 20 minutes. SPX closed right where the gamma level would change direction from negative gamma (the area under strike that is majority negative gamma) to positive gamma (the area above strike that is majority positive.) This made me think there were large iron condors set there - price had to be bought up to unwind it in addition to EOM rebalancing.\n\nAlso, they bought up prices back to Wednesday’s price. It’s not like they really overpaid anything.",
+              "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6oy84u/",
+              "created": 1717283187,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6pob0d",
+                  "score": 4,
+                  "body": "How did you get the 5200 number? Just curious.",
+                  "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6pob0d/",
+                  "created": 1717294764,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l6r5ur3",
+                      "score": 11,
+                      "body": "There are quants that give the likely statistical range for SPX.  I follow tradingedge on reddit as  he gives the quant numbers for SPX and QQQ daily, in the morning.  Plot those points and, statistically, they will give you the estimated high and low for the day.  Sometimes there are runs that demolish those estimates but it is a fairly reliable piece of information. \n\nOn Friday, I saw there was a turnaround at about 12:30 or so  (quant low of day was 2197) and bought spy calls.  Sold two hours later for 81% profit.  I did not catch the run up in the last half hour because I didn't expect that kind of recovery. \n\nIt doesn't bother me that I missed that last half hour profits because, as the saying goes, no one goes broke taking profits.",
+                      "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6r5ur3/",
+                      "created": 1717328259,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l6s2qdu",
+                          "score": 2,
+                          "body": "Trading edge the user or the subreddit? Appreciate your help.",
+                          "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6s2qdu/",
+                          "created": 1717343041,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l6somxs",
+                              "score": 3,
+                              "body": "TradingEdge, the subreddit.  \n\nThe poster/OP is tearrepresentative56. \n\nI usually follow the poster because he does post in several subreddits.",
+                              "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6somxs/",
+                              "created": 1717351197,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "l6oypwt",
+                  "score": -7,
+                  "body": "That makes more sense. But I guess what I’m thinking is that overall they shouldn’t be allowed to bang the close like that, it creates an artificial market environment that erodes market integrity.",
+                  "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6oypwt/",
+                  "created": 1717283395,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l6pm2by",
+                      "score": 18,
+                      "body": "If you're investing for the long term, this is mostly irrelevant.",
+                      "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6pm2by/",
+                      "created": 1717293738,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l6pqont",
+                          "score": -3,
+                          "body": "We know a lot of people are playing 0DTE options these days. Heck, there are even 0DTE ETFs now. I think if these things are going to be allowed, there needs to be greater enforcement of market integrity.",
+                          "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6pqont/",
+                          "created": 1717295876,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l6qenti",
+                              "score": 19,
+                              "body": "Most people are not playing options just the degenerate gamblers at wsb",
+                              "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6qenti/",
+                              "created": 1717308798,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l6vk0mc",
+                                  "score": 1,
+                                  "body": "Retail participation in options has never been higher. Pretty much every metric of note regarding retail participation reflects record breaking figures. Share of options held by retail, % of retail traders utilizing options, aggregate dollars spent on options. Etc etc. \n\nThe current level of retail participation and general options utilization is unprecedented.",
+                                  "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6vk0mc/",
+                                  "created": 1717396232,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "l6vor99",
+                                      "score": 1,
+                                      "body": "It is, thanks to gamification of it by apps that make it easy.\n\nThey’re still degenerate gamblers",
+                                      "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6vor99/",
+                                      "created": 1717399585,
+                                      "depth": 8,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "l6r4fth",
+                              "score": 5,
+                              "body": "People who gamble with 0DTE options do so at their own peril.  There aren't enough protections in the world that can keep them safe from their own risky behavior.",
+                              "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6r4fth/",
+                              "created": 1717327395,
+                              "depth": 6,
+                              "replies": []
+                            },
+                            {
+                              "id": "l6rc7um",
+                              "score": 1,
+                              "body": "What does market “integrity” mean to you? People can do whatever they want as long as they dont break the SEC rules.",
+                              "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6rc7um/",
+                              "created": 1717331823,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l6s10g2",
+                                  "score": 1,
+                                  "body": "The SEC defines market integrity",
+                                  "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6s10g2/",
+                                  "created": 1717342383,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "l6q3xe3",
+                      "score": 8,
+                      "body": "Can you explain why them choosing to buy at the end of the day is an \"artificial market environment\"? What's a real market environment? Should they be banned from trading at the end of the day?",
+                      "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6q3xe3/",
+                      "created": 1717302429,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l6q4ru2",
+                          "score": 1,
+                          "body": "“Marking the close\" is a manipulative trading tactic where traders or institutions attempt to influence the closing price of a security, fund or futures contract by executing buy or sell orders near the close of trading.\n\nDo you think huge spikes (or dips) that completely reserve the day’s market movement with 30% avg volume occurring in minutes are signs of a healthy market?",
+                          "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6q4ru2/",
+                          "created": 1717302882,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l6q5n5h",
+                              "score": 8,
+                              "body": "Sure? I don't understand why high-volume trades, at the close or at any other time frankly, are a bad thing. If they decided to do all of their buys/sells at 1pm est would that be better? And what would be the proposed rule? Like would you ban trading more than some % of the DV in the final X minutes?",
+                              "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6q5n5h/",
+                              "created": 1717303355,
+                              "depth": 6,
+                              "replies": []
+                            },
+                            {
+                              "id": "l6q64id",
+                              "score": 0,
+                              "body": "And just to add to this, these aren’t “people” investing. They’re multi-billion dollar institutions and yes they can and do have more restrictions placed on how they can trade because of how much they *can* move a market. The level and frequency of enforcement is another issue though.",
+                              "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6q64id/",
+                              "created": 1717303629,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "l6q9sls",
+                      "score": 1,
+                      "body": "There’s a lot Wall Street shouldn’t be able to do but they run this country",
+                      "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6q9sls/",
+                      "created": 1717305745,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "l6qwwef",
+              "score": 2,
+              "body": "It's like the original prisoner's dilemma experiment. If you could predict that there will be a pop by 12:59, the incentive is to buy a minute earlier. Unless your analysis relies on extensive insider knowledge, this pattern will be common knowledge/identified by supercomputers. Knowing that, 12:57 is the logical entry point. Repeat ad nauseum until logically, everyone is already \"too late\". \n\n\nThe main point is that arbitrage opportunities are to markets as a vacuum is to nature. Imho, successful investing requires frequent DD/monitoring. This can either be done by spending the time yourself or by paying a small fee to a fund that meets your objectives/time horizons.",
+              "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6qwwef/",
+              "created": 1717322121,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l6rj96q",
+              "score": 2,
+              "body": "The bigger question is, does this happen at the last 30min of every last day of the month, and why don't we just buy 0DTE straddles for $0.02 per contract 30min before close that will 100x?",
+              "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6rj96q/",
+              "created": 1717335177,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l6oz9js",
+              "score": 1,
+              "body": "Probably the same reason why stores are packed the day before Christmas holidays. People wait until the last minute.",
+              "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6oz9js/",
+              "created": 1717283626,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6p1336",
+                  "score": 0,
+                  "body": "People can make that poor choice. Should not be an “oopsie” large market participants / broker-dealers are allowed to make when it creates an artificial market environment or move.",
+                  "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6p1336/",
+                  "created": 1717284403,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l6pl40m",
+                      "score": 13,
+                      "body": "nothing artificial or illegal about  \"not showing your hand\" sooner.",
+                      "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6pl40m/",
+                      "created": 1717293312,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l6prdoo",
+                          "score": -1,
+                          "body": "The SEC specifically considers creating an artificial market environment an affront to market integrity and illegal. Completely reversing market trend and sentiment ***across all indices*** in the last 20 minutes of a trading day is one example of that.",
+                          "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6prdoo/",
+                          "created": 1717296196,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l6pu9az",
+                              "score": 9,
+                              "body": "Wake me up when you can get a SEC that enforces that. Until then, the game doesn't change.",
+                              "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6pu9az/",
+                              "created": 1717297538,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l6punso",
+                                  "score": 2,
+                                  "body": "I agree with you. But at least if we talk about it, it may slowly drip into the public consciousness.\n\nWe’re forced to have market based retirements these days, we need fair markets.",
+                                  "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6punso/",
+                                  "created": 1717297733,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "l6rqog9",
+              "score": 1,
+              "body": "A mutual fund's (and plenty of other vehicle's) trading benchmark is the closing price. Its not manipulation: they're not trying to outperform, move the market a certain way, or anything like that. They're just trying to match the closing price as closely as possible with the amount they need to buy or sell.\n\nIn the mutual fund example they have investors coming in and leaving, the size of their orders and direction the swing will be depend on the in/out flows they've received (from people's paycheck auto-deposit or automated rebalancing, for example). \n\nIt was likely more pronounced because the end of the month fell on a Friday. Either way, its not painting the tape, its just market mechanics doing their thing.",
+              "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6rqog9/",
+              "created": 1717338328,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l6z1x5t",
+              "score": 1,
+              "body": "Market on close orders are guaranteed to be executed, there is no risk of the order not being filled...\n\n**Market On Close Order (MOC) Explained**\n\nEver wonder why there are giant spikes of volume during the last minute of trading? That’s the end of day closing action, and this is the period of highest liquidity during the stock market session. And this late session spike of volume is mainly because this is when the market on closer orders (MOC) are being executed.\n\nAt the close of the day is where most investment funds, end-of-day algorithmic traders, and index rebalancing occurs. The market-on-close order is primarily the mechanism used by institutions to buy or sell on the close.\n\n**What is a Market-on-Close Order?**\n\nMarket-on-close orders are market orders that execute at the closing bell, or 16:00 EST. Because they’re market orders, they don’t specify any price, and instead the order receives the closing print. They guarantee the time of execution, not the price.\n\nYou have to submit your MOC orders for NYSE stocks before 15:45 EST, and before 15:50 for Nasdaq stocks.",
+              "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6z1x5t/",
+              "created": 1717450359,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l6orteu",
+      "score": 59,
+      "body": "When you’re throwing around enough capital to move the entire market the money they’d make off last minute calls is probably irrelevant",
+      "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6orteu/",
+      "created": 1717280519,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6osat6",
+          "score": 18,
+          "body": "But it’s not. We are talking $9 to $3,200 in minutes. Maybe they’re not on an institutional level, but their traders knowing the large buy ins are coming could.",
+          "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6osat6/",
+          "created": 1717280721,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6otlva",
+              "score": 30,
+              "body": "For the mega institutions I think it really would be. For example, Buffet says it all the time, even a 100 million dollar move would be completely irrelevant to Berkshire. They aren’t playing the same game at all.\n\nAs for traders reacting based off such knowledge, I believe that would qualify as insider trading.",
+              "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6otlva/",
+              "created": 1717281265,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6p8xfi",
+                  "score": 23,
+                  "body": "You need to listen to young Cramer talk. He has a good video about how he would manipulate the market and gives an example of only spending a million dollars to move the price pre-market on a low-volume stock. That one million in low volume pre-market hours can look like a moonshot or a crater, and either way a lot of retail will react hard to the news and keep the price action going. So his one million may have spiked the stock 5%, and by end of day its up 15%.",
+                  "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6p8xfi/",
+                  "created": 1717287806,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l6sfmw8",
+                      "score": 3,
+                      "body": "But isn't that illegal? Classic pump and dump?",
+                      "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6sfmw8/",
+                      "created": 1717347887,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l6ta8es",
+                          "score": 5,
+                          "body": "A pump and dump is when you advise others to buy something that you own, and then once the price spikes you sell.\n\nIf you don't actually advise anyone to buy it, it isnt illegal. So what Cramer did was just buy it himself at an above market price during a low volume time, thus making it appear that the price spiked to the market at large. He never told anyone to buy it. Thus, no, not illegal.",
+                          "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6ta8es/",
+                          "created": 1717359204,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "l6ovwg0",
+                  "score": 9,
+                  "body": "Next month you have another chance to make a months worth of income.",
+                  "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6ovwg0/",
+                  "created": 1717282212,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l6ouom0",
+                  "score": 5,
+                  "body": "I used to think it would be insider trading too. But they could just be buying calls on SPY/SPX. When it’s an ETF or index they have broader deniability and more leeway (though they know it’ll move), even if they know large META/NVDA/MSFT/whatever buys are going through at 3:40. It’s a lot blurrier and more rarely enforced by the SEC, because the SEC barely enforces anything to begin with.\n\n*Shadow trading is the industry term",
+                  "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6ouom0/",
+                  "created": 1717281709,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l6rex0k",
+                      "score": 1,
+                      "body": "If they buy calls before hand, and their volume entirely is what moves up the price, even if they execute those calls, when they try to sell what they got from calls, because the price increase was caused by them, there wouldn't be enough buyers and the price would fall as they are trying to sell the stocks from exercised calls.\n\nSo the point is they wouldn't make any more profit from the calls.\n\nLike let's say the stock is at $495, and they buy $500 calls, knowing they will start buying. They will put in massive volume, making the stock go $510. Now they execute the opts to buy stock at $500. So they have more stocks than the volume they bought in with, because they also had option calls. Now they want to sell as much as they can at $510, but the catch is that there's nothing to hold up $510, so the moment they start selling it starts go back to $495 at the same pace, so they could be just break even - transaction costs.\n\nActually normally doing this strategy you would lose money.",
+                      "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6rex0k/",
+                      "created": 1717333160,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "l6s1lzf",
+              "score": 2,
+              "body": "[deleted]",
+              "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6s1lzf/",
+              "created": 1717342613,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6t3jeb",
+                  "score": 1,
+                  "body": "Maybe foresight for some",
+                  "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6t3jeb/",
+                  "created": 1717356707,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l6p3yls",
+      "score": 9,
+      "body": "Are you saying you have picked up on a pattern that happens in the last 25 min of the last trading day of the month?",
+      "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6p3yls/",
+      "created": 1717285629,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6t59rg",
+          "score": 1,
+          "body": "This event is pretty “rare”\n\nLast day of the month falls on the last trading day of the month on top of the quarter ending. \n\nJust a trading day on the last day of the month isn’t a pattern or a big deal. It has to fall in line with the quarter ending \n\nNext time this happens is years away.",
+          "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6t59rg/",
+          "created": 1717357351,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6uugib",
+              "score": 2,
+              "body": "Is May 31 “quarter ending”? I thought that would be June 30?",
+              "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6uugib/",
+              "created": 1717382191,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l6ptyq4",
+      "score": 7,
+      "body": "The large institutions who trade at end of day are those with large funds and thus retail fund flows that come in and accumulate during the day. They want to know with 95%+ certainty what the net figure is going to be; otherwise, they’ll be short on cash for redemptions or they’ll have too much cash and suffer tiny but nontrivial cash drag.",
+      "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6ptyq4/",
+      "created": 1717297397,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6rn5sn",
+      "score": 7,
+      "body": "Lol watching Cnbc for financial advice.\n\nMight aswell burn your money.",
+      "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6rn5sn/",
+      "created": 1717336877,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6org7h",
+      "score": 6,
+      "body": "I thought people were buying because of the economic reports that come out on Monday. Guess I was wrong lol",
+      "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6org7h/",
+      "created": 1717280368,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6orm00",
+          "score": 13,
+          "body": "Yeah the sudden reversal after 3:30pm wasn’t retail buyers.",
+          "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6orm00/",
+          "created": 1717280435,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l6otora",
+          "score": 6,
+          "body": "I thought people buying because they shouldn’t have been selling earlier. Stupid day",
+          "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6otora/",
+          "created": 1717281299,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6p4ffp",
+      "score": 19,
+      "body": "Institutions don’t play these kinds of game. The money is not in managing money well, it’s in guaranteeing mediocre returns while minimizing big losses. That way, customers keep paying commissions.\n\nDaytrading bullshit is the realm of algorithms and they would not use insider information for that. This would bring unwanted scrutiny and is typically the opposite of what they want to do, i.e. limit the overall impact of their large trades on the overall market.",
+      "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6p4ffp/",
+      "created": 1717285831,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6oqf52",
+      "score": 22,
+      "body": "If they were holding their orders all day, they’d be “marking the close” which is illegal. SEC would look into stuff like this and I’m sure they’ll investigate it",
+      "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6oqf52/",
+      "created": 1717279945,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6ouwxz",
+          "score": 24,
+          "body": "You forgot the /s",
+          "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6ouwxz/",
+          "created": 1717281804,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l6or2rl",
+          "score": 6,
+          "body": "Hmm, sounds pretty much like marking the close. Doubt the SEC would do/does anything though.",
+          "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6or2rl/",
+          "created": 1717280216,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l6rg447",
+          "score": 2,
+          "body": "Isn't marking the close for a very specific reason where they must get something from marking the close. E.g. if close price mattered for them for some reason, but if you just hold orders and then buy, that's fine if you don't benefit in anyway from having high close price.",
+          "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6rg447/",
+          "created": 1717333735,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l6pwu8o",
+          "score": 6,
+          "body": ">I’m sure they’ll investigate it\n\nAhhh shit. Some major institution is getting hit with a $100k fine. Good thing they made 1000X that on the trade. /s",
+          "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6pwu8o/",
+          "created": 1717298798,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6s6l4d",
+      "score": 3,
+      "body": "So, you'd expect a large options order sometime early in the day to catch the end of day move they knew was coming?  Maybe out of the money, cheap call options?  That's....exactly what happened.  I can't post a screenshot here, but look back at the volume for the SPX 5250c from 10:32am-10:35am EST.  Price was between $1.30 and $1.50.  Someone bought over 10,000 contracts in less than 5 minutes.  Then just waited.  Looks like they closed most of them a bit early in the EOD pump, but those contracts closed at $38. Each.",
+      "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6s6l4d/",
+      "created": 1717344492,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6t3h6b",
+          "score": 1,
+          "body": "And they held all those contracts through being almost worthless at 3:30pm. Interesting. That’s some surety there.",
+          "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6t3h6b/",
+          "created": 1717356684,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6r4569",
+      "score": 4,
+      "body": "Your first problem is listening to CNBC.",
+      "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6r4569/",
+      "created": 1717327207,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6ooy7c",
+      "score": 4,
+      "body": "Following to learn",
+      "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6ooy7c/",
+      "created": 1717279342,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6pi2to",
+      "score": 6,
+      "body": "Trying to understand the market on a day to day basis is something you and I aren’t in the tax bracket to be capable of.\n\nThe only way to know is to either be a congressman, a major hedge major fund manager, or a CEO/owner of a multi billion dollar org. Those people aren’t going to tell us anything",
+      "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6pi2to/",
+      "created": 1717291916,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6paqzq",
+      "score": 4,
+      "body": "Confluence of end of month flows, gamma buyback, vol sellers, and dip buyers.",
+      "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6paqzq/",
+      "created": 1717288611,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6rftdg",
+      "score": 2,
+      "body": "It was fairly clear a ripper was coming IMO as soon as tech finished up selling, the surprise was that it came Friday instead of the next week, even if EoM movements can really influence things.\n\nEverything outside of tech had already been touched up pretty good and it was clear it was done selling wise on Thursday as software and chips were dragging the tech sector, and effectively the market lower, kicking and screaming. \n\nIf that sticks, this was a minor version of April where the others led tech stocks on a move lower.",
+      "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6rftdg/",
+      "created": 1717333594,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6rwh4i",
+      "score": 1,
+      "body": "For index funds, it’s to minimise tracking error compared to the benchmark as they use end of day prices to meander performance. so to track the benchmark as close as possible they trade as close as possible to market close.",
+      "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6rwh4i/",
+      "created": 1717340624,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6sm47c",
+      "score": 1,
+      "body": "CNBC employees are reporter’s just in case that’s not clear",
+      "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6sm47c/",
+      "created": 1717350277,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6t3prm",
+          "score": 1,
+          "body": "Eh many are also financial “experts” or former industry. And they consult a lot of experts too",
+          "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6t3prm/",
+          "created": 1717356773,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6t45a8",
+              "score": 1,
+              "body": "Like Kramer.\nTop bullshit artist",
+              "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6t45a8/",
+              "created": 1717356932,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l6ufyk6",
+      "score": 1,
+      "body": "The old month end mark up was what that was folks",
+      "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6ufyk6/",
+      "created": 1717375932,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6opa0l",
+      "score": -6,
+      "body": "They probably do money talks shit walks.",
+      "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6opa0l/",
+      "created": 1717279476,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6pivwb",
+      "score": -2,
+      "body": "Lots of reasons are possible: covering naked options, hedging, coming to terms with the market, or just random walks being beautiful.",
+      "permalink": "/r/stocks/comments/1d5xw3m/huge_market_movement_in_last_25_minutes/l6pivwb/",
+      "created": 1717292291,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

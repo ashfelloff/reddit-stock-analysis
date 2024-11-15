@@ -1,0 +1,941 @@
+{
+  "title": "APPLE CONFIRMS COLLABORATION WITH CHATGPT $AAPL $MSFT",
+  "score": 733,
+  "selftext": "",
+  "link_flair_text": "Discussion",
+  "id": "1dct3vp",
+  "num_comments": 107,
+  "created_utc": 1718045142,
+  "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/",
+  "url_overridden_by_dest": "https://i.redd.it/p0brm6f8is5d1.png",
+  "comments": [
+    {
+      "id": "l80385r",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 10 | **First Seen In WSB** | 2 years ago\n**Total Comments** | 583 | **Previous Best DD** | \n**Account Age** | 8 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l80385r/",
+      "created": 1718045146,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l80jk49",
+      "score": 357,
+      "body": "Turned out that OpenAI was more of an icing on the cake option for AAPL users. They are using Apple silicon on servers otherwise and also on device. \n\nSo they have an AI data enter, with Apple Chips, and a functional LLM already that works on device. \n\nIMO I feel like people are not paying attention. Tim just decided to check every box and say sure, why not, give em everything we got",
+      "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l80jk49/",
+      "created": 1718050610,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l81po9k",
+          "score": 68,
+          "body": "Yeah this is the huge news. The offering 3rd party llm option is smart from the whole gov angle so they cant say theyre a monopoly/walled garden ala browser wars microsoft had to deal with, they are offering the 3rd party intergrations and prob youll be able to point siri to fb’s lama or whatever other ones. Except Musk’s one just because lol. ",
+          "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81po9k/",
+          "created": 1718066470,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l84tc9h",
+              "score": 4,
+              "body": "Yeah Apple is about to become basically the only AI player which doesn't depend on NVIDIA hardware.  Remains to be seen whether their models are competitive, but if they are, they are going to have a huge competitive advantage on capex over basically everyone else.\n\nWould be interesting to see if they ever tried to move into the services space and lease compute to others.",
+              "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l84tc9h/",
+              "created": 1718121913,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l81e3rf",
+          "score": 3,
+          "body": "Yeah and it’s not bad",
+          "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81e3rf/",
+          "created": 1718061747,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l80lbm8",
+          "score": 9,
+          "body": "Saw some speculation from the folks on the AMD stock subreddit that Apple’s chips aren’t powerful enough to run an AI data center so maybe they’re custom AMD chips instead ",
+          "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l80lbm8/",
+          "created": 1718051192,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l80lfwj",
+              "score": 129,
+              "body": "They literally said “Apple Silicon” in the keynote boi",
+              "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l80lfwj/",
+              "created": 1718051230,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l82ljg7",
+                  "score": 9,
+                  "body": "As things are currently, if you go spin up an ARM macOS VM in AWS, it spins up on a M2 Mac Mini in some cluster in a rack somewhere.\n\nI imagine in practice, this new feature is just a nice marketing term for edge computing over their private internet relay or something….all being powered by some Mx chip Mac Minis, lol",
+                  "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l82ljg7/",
+                  "created": 1718080680,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l80lob3",
+                  "score": 6,
+                  "body": "“Hey AMD can you make us a custom chip with an Apple processor on top for specialized tasks to run our AI data center?” Slap an Apple Silicon label on it and there you go.",
+                  "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l80lob3/",
+                  "created": 1718051306,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l80m7h6",
+                      "score": 61,
+                      "body": "Except they design their own silicone for everything, maybe, but it be really surprised if it was AMD.",
+                      "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l80m7h6/",
+                      "created": 1718051484,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l81d1nl",
+                          "score": 15,
+                          "body": "True. While intel was laying people off from the Sacramento area, Apple was recruiting said people to their Cupertino campus.",
+                          "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81d1nl/",
+                          "created": 1718061324,
+                          "depth": 5,
+                          "replies": []
+                        },
+                        {
+                          "id": "l81rmva",
+                          "score": -2,
+                          "body": "AMD and Apple both buy their chips from the same place though ..?",
+                          "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81rmva/",
+                          "created": 1718067253,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l81wgjk",
+                              "score": 23,
+                              "body": "Yeah, I heard they buy sand for the silicon from the same beach",
+                              "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81wgjk/",
+                              "created": 1718069264,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l81x1id",
+                                  "score": -2,
+                                  "body": "They get it flown in from those famous beaches in Taiwan right?",
+                                  "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81x1id/",
+                                  "created": 1718069512,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "l81x8da",
+                                      "score": 7,
+                                      "body": "Yes, also Heard it’s actually blessed by the same Rabbi First as well prior to production",
+                                      "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81x8da/",
+                                      "created": 1718069593,
+                                      "depth": 8,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "l815ag3",
+                      "score": 26,
+                      "body": "You’re acting as if Apple chips suck. Sure, Intel and AMD might beat out Apple in terms of raw performance (although barely as seen by M3), but the efficiency of M is second to none. In other words, Apple silicon has gotten really fucking good",
+                      "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l815ag3/",
+                      "created": 1718058287,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "l81hdjf",
+              "score": 8,
+              "body": "I think you’re mixing up AMD with ARM.",
+              "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81hdjf/",
+              "created": 1718063068,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l80y53s",
+              "score": 10,
+              "body": "Then the amd stock subreddit is smoking copium. Apple has been investing in ML on swift/M-series for a while now. They are closer to Nvidia than AMD",
+              "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l80y53s/",
+              "created": 1718055618,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l84th7l",
+                  "score": 1,
+                  "body": "Yeah they have had custom inference hardware in their chips since long before it made sense from the outside",
+                  "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l84th7l/",
+                  "created": 1718121959,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l847dpn",
+          "score": 1,
+          "body": "One that needs an iPhone 15 pro/max or M1 CPU and at least 8GB of ram. That's only a small subset of their user base\nThey may get a bunch of people upgrading for the \"free\" AI service. But given they already are talking about how much maybe sent to private cloud, and / or \"upgraded function with chatGPT account\" . \nSo there maybe a good iCloud subscription play to store that \"private\" data, but the computational cost to run all the cloud based AI queries is gonna be a huge deal vs classical search. Add in Google unlikely to be kicking in that large contribution for default search anymore, which whilst Googleidt gave values it to no, that's still free cash flow to apple by bundling.",
+          "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l847dpn/",
+          "created": 1718114338,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l84tp2h",
+              "score": 1,
+              "body": "Knowing how stingy Apple is with loss-leading, they'll probably offer a super limited quota of cloud access, and use it to up-sell you to either new hardware, or a more expensive iCloud subscritption",
+              "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l84tp2h/",
+              "created": 1718122033,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l855tly",
+              "score": 1,
+              "body": "Apple is in it to make money. This is how they make money. You’re explaining exactly how they make money. They are not going to build the infrastructure for you to use it for free. All it takes is one new teacher that you see everyone else around you using it’s finally time to upgrade, and either way, even if you don’t decide to upgrade now when you do decide to upgrade, it will keep you even more tightly knit closed in to the ecosystem depending on how good they execute and expand on the intelligence",
+              "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l855tly/",
+              "created": 1718126042,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l81jdzw",
+          "score": -1,
+          "body": "Yep. And a few things will stick",
+          "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81jdzw/",
+          "created": 1718063883,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l8065kf",
+      "score": 76,
+      "body": "All those Gemini stories were false. They probably used Gemini to sweeten the deal with OpenAI",
+      "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l8065kf/",
+      "created": 1718046117,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l81q1hy",
+          "score": 11,
+          "body": "I anticipate them offering the abikity to choose your 3rd party LLM’s (think like default s EA rch engines so they dont get into gov troubles). Goog prob wanted exclusivity like the search engine and apple said meh. I anticipate other llm’s will become avail via siri in time and folks can pick with ones they want siri to send whatever to.",
+          "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81q1hy/",
+          "created": 1718066616,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l84tr41",
+          "score": 1,
+          "body": "As they should",
+          "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l84tr41/",
+          "created": 1718122052,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l80bm66",
+      "score": 143,
+      "body": "ChatGPT is just an extension. Apple basically made the leader of AI into a simple feature that has to ask Siri for permission lololol",
+      "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l80bm66/",
+      "created": 1718047954,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l80ezrg",
+          "score": 62,
+          "body": "“You’ll need to unlock you iPhone first”",
+          "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l80ezrg/",
+          "created": 1718049087,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l81905s",
+              "score": 13,
+              "body": "Voice recognition unlock would be the shit, saving thousands of button press",
+              "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81905s/",
+              "created": 1718059733,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l81jh4w",
+                  "score": 7,
+                  "body": "They presented face unlock",
+                  "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81jh4w/",
+                  "created": 1718063919,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l81e8qz",
+              "score": -1,
+              "body": "Did you pay attention? Yes unlock to send your shit to the cloud",
+              "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81e8qz/",
+              "created": 1718061801,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l815s46",
+          "score": 15,
+          "body": "*Siri, search open AI for…*\n\n\n*I’m sorry, I cannot open your ass..”",
+          "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l815s46/",
+          "created": 1718058473,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l81hgyo",
+              "score": -4,
+              "body": "Haha!  Ass vs your your face",
+              "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81hgyo/",
+              "created": 1718063107,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l81q5c8",
+          "score": 6,
+          "body": "Musk is so mad lolol ",
+          "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81q5c8/",
+          "created": 1718066658,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l80u1u0",
+          "score": -8,
+          "body": "really? because to me it sounded like aapl is gonna have to pay OpenAI to serve a large chunk of those 1.5 billion daily Siri requests, but keep stroking Timmy cook. \n\nthey used to be able to _charge_ Google billions for letting them run. tad bit different, wouldn’t you say?",
+          "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l80u1u0/",
+          "created": 1718054156,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l810xz1",
+              "score": 8,
+              "body": "No. It runs Apple’s AI unless you specifically request and grant permission for chetgpt.",
+              "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l810xz1/",
+              "created": 1718056634,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l8119xq",
+                  "score": -6,
+                  "body": "yeah regard that’s why I said a subset of the total requests. It was clear that for something even slightly complicated like cooking recipe instructions or whatever that ChatGPT’s needed — as they demonstrated",
+                  "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l8119xq/",
+                  "created": 1718056756,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l82ozy2",
+                      "score": 1,
+                      "body": "You won’t need it much. I never use it for cooking recipes 😂",
+                      "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l82ozy2/",
+                      "created": 1718082617,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l80s4af",
+      "score": 24,
+      "body": "Even Apple needs the AI pump",
+      "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l80s4af/",
+      "created": 1718053482,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l80bkq4",
+      "score": 31,
+      "body": "Priced in",
+      "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l80bkq4/",
+      "created": 1718047940,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l84qw00",
+          "score": 3,
+          "body": "Lol",
+          "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l84qw00/",
+          "created": 1718121104,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l818esp",
+      "score": 16,
+      "body": "Bout time Siri got a refresh",
+      "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l818esp/",
+      "created": 1718059501,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l805m9p",
+      "score": 82,
+      "body": "Nividia to the moon ![img](emote|t5_2th52|4258)",
+      "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l805m9p/",
+      "created": 1718045941,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l81hqlp",
+          "score": 7,
+          "body": "Nope",
+          "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81hqlp/",
+          "created": 1718063216,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l80bfof",
+          "score": -58,
+          "body": "Apple 💯 is gonna eat them over time.",
+          "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l80bfof/",
+          "created": 1718047892,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l80xhh1",
+              "score": 25,
+              "body": "You’re being down voted but people also laughed when people said Apple will surpass Intel. Now we have Apple silicone, and Apple Silicone runs laps around Intel with breaking a sweat \n\nApple has more cash on hand than any other company in the world.",
+              "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l80xhh1/",
+              "created": 1718055381,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l8198tn",
+                  "score": 7,
+                  "body": "Apple makes dildos? Moon",
+                  "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l8198tn/",
+                  "created": 1718059827,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l81i9if",
+                      "score": 7,
+                      "body": "Yes 2999$ comes in white and purple color. Doesn’t ship with charger . You gotta insert it to charge first",
+                      "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81i9if/",
+                      "created": 1718063429,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "l80blfs",
+              "score": 21,
+              "body": "![img](emote|t5_2th52|4259)![img](emote|t5_2th52|31226)",
+              "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l80blfs/",
+              "created": 1718047947,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l82dz1c",
+      "score": 13,
+      "body": "I’ve said this here for months. APPL has the most efficient chip technology in existence. They just built GPT into their custom stack and now it’ll run at the edge and offer Apples privacy shield. \n\nThis is literally the only way anyone should use OpenAi products.",
+      "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l82dz1c/",
+      "created": 1718076810,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l80v0hy",
+      "score": 20,
+      "body": "Meh nothing really popped out in the presentation. I think apple game plan remains to bring this in house (I would be curious if they start poaching people in 3rd or 4th quarter)",
+      "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l80v0hy/",
+      "created": 1718054496,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l81hnen",
+          "score": 8,
+          "body": "Yep, and better. They still respect privacy Amen",
+          "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81hnen/",
+          "created": 1718063180,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l803zav",
+      "score": 40,
+      "body": "If nothing else (there was basically nothing else), bringing ChatGPT to every iPhone user is a major step forward for AI",
+      "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l803zav/",
+      "created": 1718045398,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l80auk7",
+          "score": 54,
+          "body": "Social media has been bad enough at giving mouthpiece to every idiot with thumbs. Now we're going to make it so they don't even have to write their own rantings. Gross.",
+          "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l80auk7/",
+          "created": 1718047697,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l80w2v7",
+              "score": 3,
+              "body": "Hell yeah",
+              "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l80w2v7/",
+              "created": 1718054873,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l808vek",
+          "score": 26,
+          "body": "Oh great so now I can get made up hallucinated garbage from Siri instead of directly from the ChatGPT iOS app.",
+          "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l808vek/",
+          "created": 1718047032,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l81efgf",
+              "score": 0,
+              "body": "Did you watch? Were you there? Looks pretty good to me",
+              "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81efgf/",
+              "created": 1718061876,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l81fejp",
+                  "score": 9,
+                  "body": "It’s a general comment about the realities of LLMs as probabilistic models. They frequently hallucinate and return garbage. A successful demo doesn’t tell you anything about the reliability of the technology.",
+                  "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81fejp/",
+                  "created": 1718062267,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l81fq0y",
+                      "score": 5,
+                      "body": "Ever try to use it to your advantage? It’s pretty f’ing good, my experience",
+                      "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81fq0y/",
+                      "created": 1718062397,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l81g6xc",
+                          "score": 10,
+                          "body": "I have used it successfully and unsuccessfully (as a software developer). The problem is you as a user don’t know if you’re getting good information back unless you double check which limits the usefulness.",
+                          "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81g6xc/",
+                          "created": 1718062590,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l81gj3h",
+                              "score": 3,
+                              "body": "Eh. For programming/ development you’re 100% right. For an average person common sense prevails",
+                              "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81gj3h/",
+                              "created": 1718062729,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "l81fk93",
+                      "score": 0,
+                      "body": "Yeah no shit, especially if you try to trick it",
+                      "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81fk93/",
+                      "created": 1718062331,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l81foq9",
+                          "score": 2,
+                          "body": "Nah I’m just talking about using it as intended. No trickery required.",
+                          "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81foq9/",
+                          "created": 1718062382,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l81hz2a",
+                              "score": -4,
+                              "body": "Using what?  Nothing announced today is available",
+                              "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81hz2a/",
+                              "created": 1718063312,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l82age6",
+                                  "score": 5,
+                                  "body": "You haven't seen the example of asking AI if roaches crawl in your dick and it said \"yes and it's completely normal. They do it on average multiple times a year.\" Now imagine people asking it other more mundane questions. The problem with AI is its assumed to be the authority one shop stop for information. It's not like a search engine where you can browse the sources and choose which one to believe. AI gives you one answer. And that can be dangerous. Do you really want Apple/microsoft/Google in control of the answer to every question?",
+                                  "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l82age6/",
+                                  "created": 1718075185,
+                                  "depth": 7,
+                                  "replies": []
+                                },
+                                {
+                                  "id": "l81k1dr",
+                                  "score": 2,
+                                  "body": "Are you purposefully being obtuse here? You said \"especially if you try to trick it\". I responded \"no trickery required\".",
+                                  "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81k1dr/",
+                                  "created": 1718064149,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "l81ny79",
+                                      "score": 0,
+                                      "body": "Nope. What do I miss?",
+                                      "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81ny79/",
+                                      "created": 1718065758,
+                                      "depth": 8,
+                                      "replies": []
+                                    },
+                                    {
+                                      "id": "l81o3tf",
+                                      "score": 0,
+                                      "body": "And I replied if you to try it in good faith the shit works. Better on the horizon , way better",
+                                      "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81o3tf/",
+                                      "created": 1718065822,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "l81p7ne",
+                                          "score": 0,
+                                          "body": "Echo Possible, our messages are asynchronous Probs we agree more than apparent",
+                                          "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81p7ne/",
+                                          "created": 1718066282,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "l81fypl",
+                      "score": -2,
+                      "body": "Learn how to use it, it’s a tool",
+                      "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81fypl/",
+                      "created": 1718062497,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l81gk5y",
+                          "score": 8,
+                          "body": "Pretty low effort response here. Thanks though.\n\nIf someone is asking Siri for information and they can’t be sure they’re getting good information back then it’s value is limited. You’ll have to go to a search engine to verify anyway.",
+                          "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81gk5y/",
+                          "created": 1718062740,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l81gxwu",
+                              "score": -1,
+                              "body": "Sometimes, yes. It depends what you’re asking. Anyway, that’s premature. We’re waiting for iOS 18, for day to day convenience, are we not?",
+                              "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81gxwu/",
+                              "created": 1718062894,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l81hjar",
+                                  "score": 5,
+                                  "body": "There’s a reason ChatGPT has taken little to no market share from Google in the last 1.5 years like many predicted. It’s not a reliable replacement for a search engine. It can be used as a writing aid but needs to be fact checked. And even then it all starts to converge and sound the same and your average Joe can quite easily distinguish AI generated text now.",
+                                  "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81hjar/",
+                                  "created": 1718063134,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "l81okpl",
+                                      "score": 0,
+                                      "body": "Your experience is different than mine, on google search I get useful ai summaries multiple times a day. You don’t?",
+                                      "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81okpl/",
+                                      "created": 1718066017,
+                                      "depth": 8,
+                                      "replies": []
+                                    },
+                                    {
+                                      "id": "l81phhy",
+                                      "score": 0,
+                                      "body": "Google is using AI in every search I do. Not you?",
+                                      "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81phhy/",
+                                      "created": 1718066394,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "l81r3tn",
+                                          "score": 2,
+                                          "body": "I assume you're referring to \"AI Overviews\" that is being displayed at the top of the search results. Google has scaled back the rollout of that feature because of how unreliable it was and poor feedback from users with it returning garbage. Only 11% of searches are getting the AI Overview now. They're basically testing the feature and seeing how users respond, and it's been negative thus far. \n\n[https://www.androidauthority.com/ai-overview-scaled-back-3448793/](https://www.androidauthority.com/ai-overview-scaled-back-3448793/)\n\nGoogle in general has been slow walking roll out of any LLM based search summarization. This is because 1) its not economical compared to regular search 2) its not reliable enough to guarantee a positive user experience.",
+                                          "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81r3tn/",
+                                          "created": 1718067038,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l80w9tc",
+      "score": 10,
+      "body": "Priced in. The street doesnt care, neither do I..",
+      "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l80w9tc/",
+      "created": 1718054942,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l84u24j",
+          "score": 5,
+          "body": "Lol this aged like milk",
+          "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l84u24j/",
+          "created": 1718122155,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l81c2ak",
+      "score": 12,
+      "body": "I’m doubling down on Apple, super like their privacy stance plus their something for all AI",
+      "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81c2ak/",
+      "created": 1718060935,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l81guic",
+      "score": 6,
+      "body": "So calls on MSFT?",
+      "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81guic/",
+      "created": 1718062855,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l81dgcd",
+      "score": 5,
+      "body": "I’m all in baby. Just found the Bronski Beat on google, I trust apple WAY more to find this tune for me",
+      "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81dgcd/",
+      "created": 1718061489,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l81xu0z",
+      "score": 4,
+      "body": "Holy monopoly",
+      "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81xu0z/",
+      "created": 1718069852,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l80xov0",
+      "score": 4,
+      "body": "Spreading AI to the masses and getting huge amounts of data to train new models while not just keeping costs low with on-device processing but even better, incentivizing users to pay for the infrastructure by making them get new phones. Apple could actually be profiting more than most other players from AI.",
+      "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l80xov0/",
+      "created": 1718055455,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l838acj",
+      "score": 1,
+      "body": "Seems OpenAI pulled a microsoft on microsoft, lol!",
+      "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l838acj/",
+      "created": 1718095744,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l83xfi5",
+      "score": 1,
+      "body": "Apple 200 eow",
+      "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l83xfi5/",
+      "created": 1718110348,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l853fsm",
+      "score": 1,
+      "body": "🤢🤮\n\nBig fan of Apple, big fan of AI.\n\nI hate the shoving of OpenAI GPT models into everything, that shit is a trashy fidget spinner for the stupid. Just makes noise like a lobotomized clippy",
+      "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l853fsm/",
+      "created": 1718125251,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l88z3bf",
+          "score": 1,
+          "body": "Leave clippy alone",
+          "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l88z3bf/",
+          "created": 1718187638,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l86cf6x",
+      "score": 1,
+      "body": "Siri is frikin useless lol",
+      "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l86cf6x/",
+      "created": 1718140153,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l81egjx",
+      "score": 1,
+      "body": "Everything is priced in, nvidia just a cash grab like always in the end of the rally there is something going vertical",
+      "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81egjx/",
+      "created": 1718061889,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l816oca",
+      "score": 0,
+      "body": "Gay men to the moon",
+      "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l816oca/",
+      "created": 1718058821,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l839387",
+      "score": 0,
+      "body": "I feel like the real winner with this Apple / OpenAI deal is RDDT.",
+      "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l839387/",
+      "created": 1718096335,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l82ayt2",
+      "score": -5,
+      "body": "Not good for Apple.  Submitting to being Microsofts bitch and the stock is supposed to go up?  Nah",
+      "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l82ayt2/",
+      "created": 1718075411,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l80cgeo",
+      "score": -9,
+      "body": "Oh fucking stop lol",
+      "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l80cgeo/",
+      "created": 1718048235,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l823m0n",
+      "score": -1,
+      "body": "[deleted]",
+      "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l823m0n/",
+      "created": 1718072254,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l82oz2h",
+          "score": 6,
+          "body": "profit is profit i'd take",
+          "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l82oz2h/",
+          "created": 1718082603,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l81yb2x",
+      "score": -2,
+      "body": "[deleted]",
+      "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l81yb2x/",
+      "created": 1718070053,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l82ax2y",
+          "score": 0,
+          "body": "Please just DCA into Voo man",
+          "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l82ax2y/",
+          "created": 1718075390,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l80o223",
+      "score": -7,
+      "body": "Bought Apple at $177",
+      "permalink": "/r/wallstreetbets/comments/1dct3vp/apple_confirms_collaboration_with_chatgpt_aapl/l80o223/",
+      "created": 1718052106,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

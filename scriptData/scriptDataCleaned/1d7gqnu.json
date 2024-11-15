@@ -1,0 +1,449 @@
+{
+  "title": "Best way to earn yield on cash at Schwab, without losing ability to trade it?",
+  "score": 56,
+  "selftext": "Schwab pays a near 0% on idle cash, compared to other brokers paying nearly 5%.  They have money market mutual funds, but your cash is tied up until next business day should you wish to access it.\n\n  \nCurious what others are doing in my boat... active trader who sometimes goes multiple days (sometimes weeks) without making a trade, but doesn't want to not be able to make the trade when the market conditions say to.\n\nHow to earn yield on cash at Schwab without being unable to access funds?\n\n  \nThanks all",
+  "link_flair_text": null,
+  "id": "1d7gqnu",
+  "num_comments": 49,
+  "created_utc": 1717451664,
+  "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/",
+  "comments": [
+    {
+      "id": "l6zqd69",
+      "score": 28,
+      "body": "As soon as you place a sell order on the MMF, the Schwab system lets you use that cash to buy a security using that money. Since T+1 change, they would both settle on the same day so no issues. Hell, even with T+2 there be no issues since the stock would've settled after the MMF did\n\nEdit: I should add, margin does need to be enabled on your account for this to work. I was trading in an IRA with limited margin enabled",
+      "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l6zqd69/",
+      "created": 1717459713,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l71yr2y",
+          "score": 2,
+          "body": "You’d think, but I still got charged margin interest last month for selling a mutual fund and buying a bond on the same day. TDA used to not chargue margin interest for that. ",
+          "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l71yr2y/",
+          "created": 1717503936,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l74xp3k",
+              "score": 3,
+              "body": "I dont even have margin trading turned on on my account, and I can sell MMF and buy immediately.  Maybe set up an account without margin and keep your MMF and non-leveraged trades there.",
+              "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l74xp3k/",
+              "created": 1717541418,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l72qd90",
+          "score": 2,
+          "body": "Doesn’t T+1 means it’d get settle the next day tho?",
+          "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l72qd90/",
+          "created": 1717514494,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l74kpld",
+              "score": 1,
+              "body": "Correct",
+              "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l74kpld/",
+              "created": 1717536628,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l74knxp",
+          "score": 1,
+          "body": "Is this new? I don’t ever remember being able to do this. I thought you needed to wait for market close for the trade to execute since it’s a mutual fund",
+          "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l74knxp/",
+          "created": 1717536612,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l77zfty",
+              "score": 2,
+              "body": "They might have implemented it during the early stages of the TDA transition. But what I do is figure out how much I wanna spend on a stock, sell that amount from the MMF, and turn around and buy the stock immediately. \n\nSince MMF trade was placed before 4 pm EST, it settles next day. Since stock trade was bought before end of extended hours, it will settle next day as well. No margin interest because both settle on same day with cash available to cover",
+              "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l77zfty/",
+              "created": 1717597108,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l7akz27",
+                  "score": 2,
+                  "body": "Yup, the margin side makes perfect sense. I’ve done that myself.\n\nBut I have never seen something like: Put in sell order of SWVXX of $1000, $1000 now shows up as “tradable cash” in my account immediately.",
+                  "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l7akz27/",
+                  "created": 1717629208,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l7al8o1",
+                      "score": 1,
+                      "body": "The trick is they won't show it as available cash, but if you place the sell order and then go back and buy a stock, it will go through with no repercussions. I can come back and confirm tomorrow once that CSCO trade settles if you'd like. \n\nIt will show a negative cash balance in the account after the buy, but it will clear up by settlement and be fine next day.",
+                      "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l7al8o1/",
+                      "created": 1717629312,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l7ale6w",
+                          "score": 2,
+                          "body": "Nah I get what you’re saying now. But like someone without margin enabled wouldn’t be able to do that.",
+                          "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l7ale6w/",
+                          "created": 1717629373,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l7alqg5",
+                              "score": 2,
+                              "body": "My apologies, you are correct I should have clarified. I'll edit the parent comment. I was trading in an IRA with limited margin enabled so no interest is even allowed to be charged, which also helps.",
+                              "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l7alqg5/",
+                              "created": 1717629508,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l7amel8",
+                                  "score": 1,
+                                  "body": "All good! I catch your drift now. Editing the comment is probably a good idea to avoid confusion for the masses",
+                                  "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l7amel8/",
+                                  "created": 1717629770,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l6z7ast",
+      "score": 27,
+      "body": "Just get a margin account use USFR or SGOV and just sell when you need margin relief or cash.",
+      "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l6z7ast/",
+      "created": 1717452298,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6z9eh2",
+          "score": 12,
+          "body": "I feel pretty stupid not having done this the last many years.  Probably left $10-20k free money just sitting on the table.\n\n  \nThanks\n\n  \nJust loaded full account in SGOV",
+          "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l6z9eh2/",
+          "created": 1717453084,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6zatm7",
+              "score": 5,
+              "body": "Yup, same thing with my broker sweep account is trash.",
+              "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l6zatm7/",
+              "created": 1717453616,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l740iae",
+              "score": 2,
+              "body": "It's only around the summer of 2022 that SGOV paid you some real $.  Before that, you get a fraction of a cent for every $100 dollars a month.",
+              "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l740iae/",
+              "created": 1717529891,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l6zkeul",
+          "score": 3,
+          "body": "I'm in this same boat with cash. How does SGOV work?  Do i just buy the amount I need and it increases in value small amounts daily (5% in total  annually)?  \n\nI hope I'm making sense. Thanks in advance!",
+          "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l6zkeul/",
+          "created": 1717457327,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6zmi9a",
+              "score": 23,
+              "body": "sgov buys treasury bills.  that's where annual 5% comes from.  the underlying security (treasurty bills) accrue interest over the period of time until they mature.  \n\nsgov collects the interest and passes most of it to you and call it dividend.  once a given treasure bill matures and sgov receives principal and interest, they buy new bills and repeat the cycle.\n\nwhen you buy/sell sgov, you are basically trading the treasury bill among the market participants.  everybody knows when treasury released the bills, how much interest they accrued.  this keeps the sgov share price in check.  nobody will pay more than the bill is worth and nobody will ask less.  \n\nthe difference between sgov and treasury bill is that sgov is much easier to buy/sell.  it is more liquid.  it is listed like a stock, traded like a stock, even though it represents government short term bonds.",
+              "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l6zmi9a/",
+              "created": 1717458160,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l739gqh",
+                  "score": 1,
+                  "body": "Great explanation, info. Thnx.",
+                  "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l739gqh/",
+                  "created": 1717520883,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l6zkqjm",
+              "score": 7,
+              "body": "Yea they pay you a monthly dividend, you can also use BOXX if you want the same effect without receiving dividends",
+              "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l6zkqjm/",
+              "created": 1717457457,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l70c9ea",
+                  "score": 4,
+                  "body": "So with BOXX, everyday is a small gain which ends up being a total of 5% annual?  So if I sold some boxx after say 15 days I would have those days gains whereas with sgov I'd need to wait for the dividend. Am I understanding that right?",
+                  "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l70c9ea/",
+                  "created": 1717468846,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l70ccpt",
+                      "score": 6,
+                      "body": "Yea you got it 100%",
+                      "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l70ccpt/",
+                      "created": 1717468887,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "l704czr",
+                  "score": 2,
+                  "body": "What is BOXX and how does it work if no dividend?",
+                  "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l704czr/",
+                  "created": 1717465491,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l705u40",
+                      "score": 6,
+                      "body": "They just write box spreads its a synthetic long and synthetic short on SPX that returns the risk free rate.",
+                      "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l705u40/",
+                      "created": 1717466103,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l70505h",
+      "score": 14,
+      "body": "I have a bunch of cash in SWVXX, which is Schwab's money market fund for lower amounts. They have another one that gives a little bit better return but there's a pretty high minimum - maybe a million or something like that?",
+      "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l70505h/",
+      "created": 1717465756,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l710aal",
+          "score": 3,
+          "body": "SWVXX pays 5.15% interest.",
+          "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l710aal/",
+          "created": 1717481811,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l70cup7",
+          "score": 1,
+          "body": "Yep. $1,000,000 min",
+          "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l70cup7/",
+          "created": 1717469110,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l70ilh5",
+      "score": 6,
+      "body": "I have our money in SNSXX, it's a mutual fund with no state income tax (helpful if you're in CA). It gives you \\~5% with monthly dividends.",
+      "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l70ilh5/",
+      "created": 1717471789,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l722c2y",
+          "score": 1,
+          "body": "How does it not have state income tax? Is it the same for SGOV and BOXX? Thanks",
+          "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l722c2y/",
+          "created": 1717505541,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l74re3i",
+              "score": 1,
+              "body": "SGOV was 96% state tax exempt in 2023 https://www.ishares.com/us/literature/tax-information/2023-ishares-us-government-source-income-information-stamped.pdf\n\nInterest from treasuries is subject to federal taxes but state tax exempt, if you own a fund where some % of dividends came from treasury interest, that % of the dividend is exempt from state taxes. SNSXX and SGOV are very similar here.\n\nBOXX is much different in structure and tax treatment but seems the subject of scrutiny / unclear on if there might be corrective action down the road.",
+              "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l74re3i/",
+              "created": 1717539028,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l70zch0",
+      "score": 5,
+      "body": "Just buy treasury bills. 99 percent marginable immediately.",
+      "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l70zch0/",
+      "created": 1717481196,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6ziiy0",
+      "score": 21,
+      "body": "I moved my money to Fidelity. Earn nearly 5% on idle cash. Schwab is not a customer friend brokerage. They like to suck every dollar from you they can. Besides not paying interest, notice that they do not put dividends paid to you in your account until a day later. Fidelity makes the money available the day the dividend is paid by the company you own.",
+      "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l6ziiy0/",
+      "created": 1717456591,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l70v2fv",
+          "score": 3,
+          "body": "And Schwab has some of the highest margin rates around, too...",
+          "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l70v2fv/",
+          "created": 1717478551,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l739mq9",
+              "score": 1,
+              "body": "PREDATORY rates.",
+              "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l739mq9/",
+              "created": 1717520939,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l710jzw",
+          "score": 2,
+          "body": "Schwab money market fund pays 5.15% interest.   currently.  You can keep cash in the money market fund, place a trade, then sell enough to settle the trade.",
+          "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l710jzw/",
+          "created": 1717481990,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l73c2lo",
+              "score": 5,
+              "body": "fidelity does this automatically. it's a big improvement if you're have money moving frequently",
+              "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l73c2lo/",
+              "created": 1717521754,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l6zsqwp",
+      "score": 8,
+      "body": "I have various accounts at Schwab and when I’m holding cash positions in an account, I keep it in SNSXX. It’s a money market fund that invests in US Treasuries. Current yield is around 5%.",
+      "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l6zsqwp/",
+      "created": 1717460681,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l70jq21",
+      "score": 3,
+      "body": "Huh? Schwab pays 5.15% money market SWVXX. Would take a day to get the money if you wanted to trade or cash out.",
+      "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l70jq21/",
+      "created": 1717472341,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l710u4f",
+          "score": 3,
+          "body": "If you buy shares, you don’t settle till the next day — so you can sell SWVXX shares to cover the settlement the next day.",
+          "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l710u4f/",
+          "created": 1717482174,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l709yps",
+      "score": 2,
+      "body": "You can buy BIL - treasury bill ETF that pays ~5.25%.",
+      "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l709yps/",
+      "created": 1717467847,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l70c46o",
+      "score": 2,
+      "body": "I have some money in SNVXX...It's 5 percent yearly paid monthly.  I can use that $ any time to trade and sell my SNVXX.",
+      "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l70c46o/",
+      "created": 1717468783,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l704o7g",
+      "score": 1,
+      "body": "I have CMA since you get banking features and uninvested goes into a sweep, it's not great like 2-3% back for interest. I normally don't let much money just sit there, my hysa pays more. So try getting a CMA acct since you can trade in there too, I use fidelity. Investing wise there's a bunch of dividend stocks, I've been getting a few of those that pay higher",
+      "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l704o7g/",
+      "created": 1717465618,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l71hzws",
+      "score": 1,
+      "body": "You still trade and put concurrent sell order for money market fund.  Simple.",
+      "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l71hzws/",
+      "created": 1717494425,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l74cwqb",
+      "score": 1,
+      "body": "SWVXX the cash and then use margin to trade. Or move to Fidelity.",
+      "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l74cwqb/",
+      "created": 1717533977,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l791bt0",
+      "score": 1,
+      "body": "Follow up, I just sold $1525 worth of SWVXX, turned around and bought 33 shares of CSCO. Trade went through no issues.",
+      "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l791bt0/",
+      "created": 1717609969,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l7391i4",
+      "score": 0,
+      "body": "I’m guilty same as OP. & imo, Schwab (13%+ margin) & their ilk are PREDATORY lenders. Webull, Interactive Brokers the way to go. I’m TRYING to get there, but stuck in margin. I did NOT realize you have to liquidate stocks in margin before transferring to a new broker account. Man, that’s a ‘rich man’s’ ‘law’. Selling would bring tax issues, & more.  It’s friggin’ killing me. Schwab’s overall is ok, but the margin % is absurd for CLIENTS, imo. GLTA.",
+      "permalink": "/r/stocks/comments/1d7gqnu/best_way_to_earn_yield_on_cash_at_schwab_without/l7391i4/",
+      "created": 1717520739,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

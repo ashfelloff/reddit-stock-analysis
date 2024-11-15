@@ -1,0 +1,1108 @@
+{
+  "title": "What's wrong with this 0dte strategy?\n",
+  "score": 159,
+  "selftext": "Say you have a budget of $1000. You buy $100 SPY/QQQ calls every day. Most will go to 0 but if the move is towards the upside (and stocks/options tend to convex to the upside) you would see a huge gain.\n\nThe math comes to you needing a 10x move at least 1/10 times to break even.\n\nWhat do you think?\n\n**UPDATE**\n\nI never said this was some genius strategy but a lot of these comments are truly dumb.\n\n1. there is no theta. It's 0dte.\n2. there is no assignment. you are buying the call\n3. there is no tits up/ lose it all scenario...since you only lose that one small bet at any given time.\n4. strike price blah blah doesnt matter since you are betting on direction - however i guess it ideally has to be close to in the money for it to actually have a chance to make a big jump\n\nHow you actually lose: by bleeding out. by winning less than your starting principal. so the calculus is if you can expect to make more than $1000 over 10 bets on avg or not.",
+  "link_flair_text": "Advice Request",
+  "id": "1fhmf8c",
+  "num_comments": 129,
+  "created_utc": 1726432343,
+  "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/",
+  "comments": [
+    {
+      "id": "lnbgizc",
+      "score": 239,
+      "body": "Look up black swan trading. This is a real thing- low probability plays with capped losses but large upside. Think of it like playing the lottery, because that's what it is.",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnbgizc/",
+      "created": 1726437434,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lnc1j98",
+          "score": 81,
+          "body": "A black swan strategy can be profitable. Playing the lottery is not. I don’t think they are comparable",
+          "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnc1j98/",
+          "created": 1726445117,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lnc9yt8",
+              "score": 80,
+              "body": "Winning the lottery is the black swan event. If you buy thousands of dollars in tickets for years then win powerball for $300M, then you benefited from a black swan.",
+              "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnc9yt8/",
+              "created": 1726448418,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lncaftt",
+                  "score": 24,
+                  "body": "The difference to me is the lotto is rigged against you. While a black sawn trade is supposed to be priced fairly. So in theory, you should lose in the long run playing the lottery, and you should break even in the long run taking black swan trades. My personally opinion is black swan trades are underpriced, so it should be profitable in the long run",
+                  "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lncaftt/",
+                  "created": 1726448605,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lnce2an",
+                      "score": 25,
+                      "body": "If they are priced fairly, then you will still lose on fees you have to pay for every transaction",
+                      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnce2an/",
+                      "created": 1726450022,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lncnvlm",
+                          "score": 3,
+                          "body": "Agreed. That’s why I added my personal opinion at the end for why I believe black swan trading can be loooong term profitable",
+                          "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lncnvlm/",
+                          "created": 1726453931,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lncvhs5",
+                      "score": 6,
+                      "body": "Actually you can buy up all the lotto numbers and guarantee a win. That’s what they did in TX. \n\nhttps://www.texasstandard.org/stories/texas-lotteries-gaming-system-rook-tx-numbers/",
+                      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lncvhs5/",
+                      "created": 1726457053,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lndw54q",
+                          "score": 10,
+                          "body": "With that you are also banking that no one else also wins and cuts your prize in half.  Turns your guaranteed win into a loss real fast",
+                          "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lndw54q/",
+                          "created": 1726480087,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lnerqja",
+                              "score": 2,
+                              "body": "Yeah. They did the math. There is a jackpot size that (nearly) eliminates those risk.",
+                              "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnerqja/",
+                              "created": 1726495202,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lnechle",
+                      "score": 5,
+                      "body": "Say a black swan is something that has a 1% chance of happening. Probabilistically, you would need to make 100 trades to profit once. lPus, because of the extreme convexity of fat tails, these low delta options are always priced expensive relative to their delta.\n\nThere are no free lunches in markets.\n\nI was an options market maker for 15 years, when customers wanted to lift me on some ridiculous OTM option, I would price it so outrageously expensive because I knew I'd have a headache if they were right",
+                      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnechle/",
+                      "created": 1726489067,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lnfcjsm",
+                          "score": 5,
+                          "body": "I don't understand how anyone could look at an options heat map and not instantly see an odds table. \n\nPeople seem to think there is some magic pick hidden in there, when it's just probabilities designed and priced by someone who likely understands market dynamics far better.",
+                          "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnfcjsm/",
+                          "created": 1726502232,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lnd6hgt",
+                      "score": 2,
+                      "body": "The black swan trade is based on the idea that the market underestimates the risk of black swan events, thus making the pricing of those events not actually fair, but rather, in your favor. Otherwise why make the trade?",
+                      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnd6hgt/",
+                      "created": 1726462449,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lnf37tn",
+              "score": 2,
+              "body": "profitable if you have enough capital to burn through until the variance plays in your favor",
+              "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnf37tn/",
+              "created": 1726499172,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lncdsrm",
+              "score": 2,
+              "body": "If the price of a lottery ticket is less than the expected value of the return, this is incorrect. It's not a perfect comparison, though you're right.",
+              "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lncdsrm/",
+              "created": 1726449920,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lnf54pu",
+              "score": 1,
+              "body": "statements made by quitters. 99% of lottery players stop playing the day they would have bought their winning ticket!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+              "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnf54pu/",
+              "created": 1726499809,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lndn4d6",
+          "score": 3,
+          "body": "Isnt that essentially what was eluded to in what the 2 friends did in \"the big short\" movie?",
+          "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lndn4d6/",
+          "created": 1726473364,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lnb59xo",
+      "score": 143,
+      "body": "[The Fastest Options Are the Most Fun](https://archive.is/mtUZx)\n\n> I am sorry, I am sure he has lots of profitable trades and I don’t mean to be rude, but just, statistically speaking, for equity market makers, there are few more beautiful phrases in the English language than “day trader and volleyball-programs coordinator.” If you walk into the offices of Susquehanna International Group and say “hi I am a day trader and volleyball-programs coordinator from Louisville, Ky., and I love short-dated options but I wish they were shorter-dated, can you help,” they will treat you like a celebrity and give you anything you ask for. You are their muse.",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnb59xo/",
+      "created": 1726433656,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lnecu5s",
+          "score": 6,
+          "body": "True.\n\nI was an MM in commodities for many years. Whenever the HNW/UHNW line rang, we would all scream 'free money on line one'",
+          "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnecu5s/",
+          "created": 1726489224,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lnb1i0z",
+      "score": 261,
+      "body": "You're surely the only person in the history of investing to ever think of that! Give it a try with a simulated investing account and see how it goes.",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnb1i0z/",
+      "created": 1726432445,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lnbafot",
+          "score": 2,
+          "body": "[deleted]",
+          "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnbafot/",
+          "created": 1726435358,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lnbdyuy",
+              "score": 10,
+              "body": "Back testing would probably be better to show why this would fall to bits",
+              "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnbdyuy/",
+              "created": 1726436545,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lne2us7",
+                  "score": 3,
+                  "body": "How do you backtest this? Where do you get the historic data for options prices?",
+                  "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lne2us7/",
+                  "created": 1726484320,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lneuln9",
+                      "score": 2,
+                      "body": "https://wrds-www.wharton.upenn.edu/pages/about/data-vendors/optionmetrics/#:~:text=OptionMetrics%20is%20the%20premier%20provider,empirical%20research%20and%20econometric%20studies.\n\nI have never used this personally so not sure how relevant it is, just know of it’s existence.",
+                      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lneuln9/",
+                      "created": 1726496239,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lnb5ftk",
+          "score": -57,
+          "body": "I don't even know of any simulated investing accounts",
+          "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnb5ftk/",
+          "created": 1726433708,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lnb9gob",
+              "score": 41,
+              "body": "SMH 🤦🏻‍♂️this is why people shouldn’t be trading",
+              "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnb9gob/",
+              "created": 1726435029,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lnb7few",
+              "score": 7,
+              "body": "Webull Paper Trading but not sure it has an options ability for paper trading. Think or Swim may have that function. Robinhood has an option tracker for a contract.",
+              "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnb7few/",
+              "created": 1726434356,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lnbf6dc",
+                  "score": 7,
+                  "body": "You can paper trade options on Webull. That's how I learned about 0 DTEs.",
+                  "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnbf6dc/",
+                  "created": 1726436960,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lnbk65l",
+                      "score": 4,
+                      "body": "That’s awesome. Im going to try it out today",
+                      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnbk65l/",
+                      "created": 1726438754,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lnbo1fk",
+      "score": 75,
+      "body": "What do you mean there’s no theta on 0dte??  LOL who is gonna tell him?????",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnbo1fk/",
+      "created": 1726440148,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lnci1eq",
+          "score": 54,
+          "body": "Time does not exist in increments smaller than 24 hours",
+          "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnci1eq/",
+          "created": 1726451584,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lncvv9j",
+              "score": 16,
+              "body": "Smh If it isn't theta, what causes drops in value for 0DTE contracts?",
+              "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lncvv9j/",
+              "created": 1726457212,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lnd8m0y",
+                  "score": 5,
+                  "body": "Don’t tell OP the SECRET STRAT!",
+                  "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnd8m0y/",
+                  "created": 1726463656,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lndat5m",
+                  "score": 2,
+                  "body": "u/wrecklord0 is joking",
+                  "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lndat5m/",
+                  "created": 1726464976,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lnckqv4",
+              "score": 2,
+              "body": "Lol",
+              "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnckqv4/",
+              "created": 1726452670,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lnda90e",
+          "score": 4,
+          "body": "Confused on that as well, I wonder what OP thinks OTM 0DTE options are worth at the end of the day",
+          "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnda90e/",
+          "created": 1726464638,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lnbj8qf",
+      "score": 35,
+      "body": "yea.... reading the edit also you have never traded",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnbj8qf/",
+      "created": 1726438413,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lnbn96b",
+          "score": 24,
+          "body": "[deleted]",
+          "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnbn96b/",
+          "created": 1726439869,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lndg1q7",
+              "score": 3,
+              "body": "I will not rethink some of my investment decisions if it’s $100 yolo on an otm call or put lol thats just for fun sport",
+              "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lndg1q7/",
+              "created": 1726468349,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lncwra0",
+              "score": 1,
+              "body": ">If you’ve never experienced 0dte options, just buy some and when it drops and you lose 50% within a short time span, cause it goes the other way you’ll rethink some of your “investment” decisions.\n\nWorse than that - it drops so quickly that before you can even fill out a sell order to protect the downside you're already down 50%",
+              "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lncwra0/",
+              "created": 1726457600,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lnb5alh",
+      "score": 33,
+      "body": "Can't possibly go tits up",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnb5alh/",
+      "created": 1726433662,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lndvsiq",
+          "score": 0,
+          "body": "At least he's trying to buy calls here not sell them.",
+          "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lndvsiq/",
+          "created": 1726479841,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lnbf6ft",
+      "score": 43,
+      "body": "Well boys, it finally happened… u/alvisanovari stepped in the ring and changed options trading forever. Poverty? World hunger? Gone, all thanks to this mastermind at work.",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnbf6ft/",
+      "created": 1726436960,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lnbnrxy",
+          "score": 15,
+          "body": "its the least I can do!",
+          "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnbnrxy/",
+          "created": 1726440059,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lnbfhtu",
+      "score": 19,
+      "body": "You’d be better off buying a straddle, hoping one goes to zero and the other goes to > 100%. I’ve made 400% and 0% on some large overnight moves before. But it’s extremely rare. Most of the time you’re mitigating losses. This might work with NVdia because the moves are so large",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnbfhtu/",
+      "created": 1726437069,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lndgnsd",
+          "score": 1,
+          "body": "> This might work with NVdia because the moves are so large\n\nIn the last 2 months, Daily Nvidia straddles have been profitable 2/3 of days for me.",
+          "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lndgnsd/",
+          "created": 1726468767,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lnbpont",
+      "score": 8,
+      "body": "Lmfao when I have a budget of $1000 and was thinking of SPY calls",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnbpont/",
+      "created": 1726440743,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnb6zig",
+      "score": 29,
+      "body": "[Answer](https://www.amazon.com/Probability-Dummies-Deborah-J-Rumsey/dp/0471751413?dplnkId=2afb8dd6-ccd7-4ab3-b38a-489e29e16eb9&nodl=1)\n\nWait, he’s not finished. [Here’s what else you’ll need](https://a.co/d/8L7eSSb)",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnb6zig/",
+      "created": 1726434207,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lnbe46z",
+          "score": 8,
+          "body": "Why’s Bill Hwang talking about probably??",
+          "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnbe46z/",
+          "created": 1726436597,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lnc1b9r",
+              "score": 5,
+              "body": "I can change\n\nI can change\n\nI can change",
+              "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnc1b9r/",
+              "created": 1726445030,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lncdff8",
+          "score": 3,
+          "body": "Pure gold",
+          "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lncdff8/",
+          "created": 1726449775,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lnbjocd",
+      "score": 7,
+      "body": "Just buy in on the pullback around roughly 10:30-11:30 and ride it for a little, easy extract",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnbjocd/",
+      "created": 1726438570,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lne96hl",
+          "score": 3,
+          "body": "Been doing exactly that! 73% time make money… don’t get what everyone is complaining about🤦‍♀️",
+          "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lne96hl/",
+          "created": 1726487537,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lncqxfv",
+          "score": 2,
+          "body": "This is my strat 😂",
+          "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lncqxfv/",
+          "created": 1726455152,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lnbc9m6",
+      "score": 4,
+      "body": "Evrything is wrong with it",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnbc9m6/",
+      "created": 1726435975,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnbi8l2",
+      "score": 5,
+      "body": "Backtest it and see the results. You’re not even sure on what strike you’re going for. 0DTE calls aren’t free money. You’re betting against the downside AND time, and the risk of spy having a flat day. Time is against you, Theta will destroy any value of those contracts.\n\nYou need to use support and resistance, price action, volume, etc… can’t just blindly buy calls. You need more forms of confluence.\n\nNot a good strategy imo. If it was that easy everyone would be doing it!",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnbi8l2/",
+      "created": 1726438051,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lnddebw",
+          "score": 1,
+          "body": "Wow OP is actually fucking regarded with that edit. LOL. No way Op doubled down instead of actually educating himself. He asks for help and instead, makes baseless claims.\n\n\nBtw. 0dte’s have theta and it’s even more significant BECAUSE it’s a 0DTE.",
+          "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnddebw/",
+          "created": 1726466591,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lnblfwd",
+      "score": 5,
+      "body": "Try it out. If it works it works. There are also simulators that you can do using historic data",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnblfwd/",
+      "created": 1726439209,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lncbrkr",
+      "score": 4,
+      "body": "Update to your update:\n1. 0 DTE definitely have theta, it will rapidly approach 0 throughout the day\n\nThe problem with this strategy is most of the time markets will stay within the implied move and it won’t ever gain any value. Just because it goes up doesn’t mean the option will gain anything. To expand, you don’t win by just betting and getting the direction right, you have to do that and get lucky that the size of the move is greater than what the market prices it at.",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lncbrkr/",
+      "created": 1726449119,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lndse3o",
+          "score": 1,
+          "body": "Maybe that's why credit spread 0dte is more profitable over time.",
+          "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lndse3o/",
+          "created": 1726477340,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lnettku",
+              "score": 1,
+              "body": "Credit spreads are excellent",
+              "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnettku/",
+              "created": 1726495955,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lnofdic",
+          "score": 1,
+          "body": "I think op confused delta with theta.",
+          "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnofdic/",
+          "created": 1726628517,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lncdsfo",
+          "score": 0,
+          "body": "yes - its likely going to 0 and you need a big move to offset. my question was even with that would it be possible to sustainably make a return.",
+          "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lncdsfo/",
+          "created": 1726449917,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lnce9q9",
+              "score": 3,
+              "body": "Definitely not, let’s say you lose 9/10 times and the 1/10 you win has an expected 1 standard deviation away.\n\nThat means you lose $900, then you make $100 on your 10th spin, meaning your strategy returned minus $800. A two standard deviation move would probably get you breakeven, but two standard deviation moves are rare, probably happens maybe 1-2 times a quarter.",
+              "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnce9q9/",
+              "created": 1726450105,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lncl4lr",
+                  "score": 0,
+                  "body": "hmm yeah fair. perhaps then there is a way to mitigate\n\n1) some stop loss to limit loss on a single trade\n\n2) restrict trades to only highly volatile days/stocks like nvda/tsla etc",
+                  "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lncl4lr/",
+                  "created": 1726452825,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lncnq8d",
+                      "score": 4,
+                      "body": "1. Stop loss would stop you out of a trade most likely before you ever turned a profit, it would be death by a thousand cuts, the better way to do it would be to set a limit trade and sell once you hit say 10-20% profit.\n\n2. Highly volatile days or stocks would only increase the implied volatility hurdle you would have to clear, would make no difference on a risk adjusted basis.",
+                      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lncnq8d/",
+                      "created": 1726453869,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lncq96o",
+                          "score": 1,
+                          "body": "good points!",
+                          "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lncq96o/",
+                          "created": 1726454884,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lnbihof",
+      "score": 7,
+      "body": "\"strategy\"",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnbihof/",
+      "created": 1726438142,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnc5871",
+      "score": 3,
+      "body": "It wouldn’t work broski. You gotta figure out a safer strat like scalping. Me and the boys in the GC scalp",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnc5871/",
+      "created": 1726446571,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lndavy8",
+      "score": 3,
+      "body": "Idk who gave you the impression that 0DTEs don’t suffer from theta decay but please stop listening to them lol",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lndavy8/",
+      "created": 1726465024,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lndu4xp",
+      "score": 2,
+      "body": "I'm going to try to give what I think is genuine advice, since this is tagged, fairly in my option, as an advice request.\n\nWhat you are describing is simple in principle but very difficult to execute.\n\nTo have a trading edge in this scenario, it's simple: you need to win at least 10% of your trades - which is very low. But your wins need to be at least 9x the size of your loss. (1 win at 9 vs. 9 losses at 1 cancel each other out.)\n\nSo your stats need to be at least this or higher. Sounds very simple and it is. But everyone who is trading on the market knows this. That causes difficulty for you in these two seemingly simple areas.\n\n10% of wins. It sounds so easy - but everyone on the market is competing to get these 10% of wins. So a difference of say, 9.9% - 10.09% is the maximum range you need to hit. Otherwise, the option you buy is priced for you to lose. And the hedge fund algorithms who are trading this market you are participating in know more than you about the right pricing. So, what's your strategy for staying in that narrow band? How are you identifying what separates the 9.8% probability option from the 11% probability? Because if you can't get that right, you're not going to hit the 10% wins target.\n\nBut you say, your 1 win out of 10 will be so big! Yes it's true, but it has to be 9x your losses. What are you doing when you take a bunch of losses in a row? Suddenly, you need more than 9x to make up for it. What do you do when you hit a bunch of solid wins, that are only 8x? Yes, they barely made it, and they are amazing wins, but you are STILL BEHIND. Now you start going for riskier trades because you need more to make up for it, and those are less than 9.9% probability. Uh oh. Do you have a strategy to navigate that?\n\nBecause most of the other participants in the market have strategies. They've tested them with Ph.Ds and high level ai. So you need to grind edge in like tenths of percents against them. And if you can't do that then you lose, and they take money from you, and that's where the fuel for the finance industry comes from --at your level at least.\n\nSo it's not that you can't do these things, but just realize they are hard. Try to understand what it really takes to succeed consistently if you want to trade in this particular area.",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lndu4xp/",
+      "created": 1726478645,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lnfke38",
+          "score": 1,
+          "body": "Thanks for the reply! Yes yo're right this is a risky and unlikely to pay off strategy. I'll caveat one thing its not that you need 9x on one trade but enough cumulative wins over 10 trades to make back principal and more. however your analysis still stands.",
+          "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnfke38/",
+          "created": 1726504774,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lnb3ssm",
+      "score": 2,
+      "body": "QE will be the thing that delivers 0dte and TQQQ to Valhalla.",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnb3ssm/",
+      "created": 1726433182,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnbf467",
+      "score": 2,
+      "body": "lol I tried it with IWM and if you get assigned and underlying tanks. Premium is dead unless you wanna write calls below what you got assigned at.",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnbf467/",
+      "created": 1726436938,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnbmv3w",
+      "score": 2,
+      "body": "It works. Just mustn’t be greedy and move fast. To my mind the amount wagered is the stop loss.",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnbmv3w/",
+      "created": 1726439728,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnb66nb",
+      "score": 3,
+      "body": "What do you mean? 100 strike or $100 worth of calls every day? What strike would you buy them at? Now I'm curious about buying very deep itm 0dte calls/puts on a given day that you expect to be either green/red. You could get a spy 300c for tomorrow for $26,220. I wonder what would happen",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnb66nb/",
+      "created": 1726433949,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lnb9zhb",
+          "score": 6,
+          "body": "i doubt anyone would even be buying such an option lol",
+          "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnb9zhb/",
+          "created": 1726435205,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lnbazj0",
+              "score": 3,
+              "body": "That makes me want it even more..",
+              "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnbazj0/",
+              "created": 1726435545,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lncysm2",
+                  "score": 1,
+                  "body": "But why would you do that? Very deep in the money calls are essentially priced at intrinsic value. Just buy the underlying at that point",
+                  "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lncysm2/",
+                  "created": 1726458497,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lnbefo2",
+      "score": 1,
+      "body": "You actually call that a strategy? Well it still puts you one up on the “I have a strategy but I can’t tell you what it is because everyone will use it and it won’t work anymore” guys. Kudos for effort!",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnbefo2/",
+      "created": 1726436706,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnbnffh",
+      "score": 1,
+      "body": "Oh, but theta still eats, so one must be very fast to get ahead (I think basics taking a day of gamma.) It honestly seems like a gamble with maybe slightly better odds than usual. So it’s not my thing. But, if one sets the parameters up and wishes to do so, could gamble with the ‘edge’ being the bull market or trend. Not my thing. Just don’t like the negativity around it. It’s a choice. I think there are better uses of capital and brain power and time, personally.",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnbnffh/",
+      "created": 1726439934,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnbv5fy",
+      "score": 1,
+      "body": "How often does it go up, how often does it go down and how often does it stay flat? Two much of 2/3rds and you are fucked.\n\nWhat happens when it goes up, but too late in the afternoon so you can't recoup your costs",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnbv5fy/",
+      "created": 1726442728,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnbzmz7",
+      "score": 1,
+      "body": "Doing this at noon last week would have been nice.",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnbzmz7/",
+      "created": 1726444382,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lncfee5",
+      "score": 1,
+      "body": "I’ll have to read more about this tomorrow",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lncfee5/",
+      "created": 1726450552,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnck7d5",
+      "score": 1,
+      "body": "do call debit spreads to save money",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnck7d5/",
+      "created": 1726452452,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lncrgqv",
+      "score": 1,
+      "body": "Just buy OTM calls for few Pennies everyday you might hit it big one day.",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lncrgqv/",
+      "created": 1726455374,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lncritd",
+      "score": 1,
+      "body": "This just sounds like a very expensive lottery ticket with marginally better odds.\n\nIt’s great strategy if you have a money tree but for normal people, trading based on actual analysis or simply holding for an extended period of time is a far superior alternative.",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lncritd/",
+      "created": 1726455398,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnd43vf",
+      "score": 1,
+      "body": "Yes, there absolutely is theta on 0DTE. Otherwise all of the options out of the money would be worth 0 before expiration.\n\nIf you're going to be simplistic and only one side buy 0DTE calls or puts, you'll want to buy a strike that's at least 2 to 3 deep in the money so at the very least there is more intrinsic value than there is extrinsic. Extrinsic is made up of mostly theta, but also IV and other greeks. Out of the money contracts are pure extrinsic. They have no intrinsic value and will become worth 0 at expiration.\n\nIf you buy too far out of the money, even if the price direction is correct but it doesn't move far enough, you can still lose money. So yes, strike price ABSOLUTELY matters.",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnd43vf/",
+      "created": 1726461157,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnd9lqp",
+      "score": 1,
+      "body": "Interesting, you can grab 100 random dates and sinulate results, make sure to grab it in both bull and bear markets",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnd9lqp/",
+      "created": 1726464250,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lndb5ca",
+      "score": 1,
+      "body": "If this is really the strategy you wanna go with. Why not buy a leveraged S&P index? \n\nYou can already buy S&P 500 index funds that return/lose 2x, 3x, 4x, 5x the S&P. \n\nSame general idea that the S&P will grow over time and gains will outweigh losses. This is a much less tedious way to achieve that.",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lndb5ca/",
+      "created": 1726465186,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lndeyhl",
+      "score": 1,
+      "body": ">Say you have a budget of $1000. You buy $100 SPY/QQQ calls every day. (...)\n\n>The math comes to you needing a 10x move at least 1/10 times to break even.\n\nNo, the math does not come to that. You fundamentally misunderstand options.",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lndeyhl/",
+      "created": 1726467613,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lndeyuw",
+      "score": 1,
+      "body": ">Say you have a budget of $1000. You buy $100 SPY/QQQ calls every day. (...)\n\n>The math comes to you needing a 10x move at least 1/10 times to break even.\n\nNo, the math does not come to that. You fundamentally misunderstand options.",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lndeyuw/",
+      "created": 1726467620,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lndibt6",
+      "score": 1,
+      "body": "No theta?? Dude, look a little deeper into 0dte options. Their time decay is through the roof. I sell 0dte options BC of the time decay. I only need them to go in my favor for a few hours in order to jump out with a profit…BC of their time decay. Btw- feel free to thank me later for the strategy I just gave you.",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lndibt6/",
+      "created": 1726469907,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lndiqax",
+          "score": 1,
+          "body": "When I said no theta I mean't most of the value has already been taken out at the point. But yeah there will be a steep decline to 0 for whatever is left. That sounds like a good strategy if you can avoid being assigned.",
+          "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lndiqax/",
+          "created": 1726470190,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lndjcjf",
+              "score": 1,
+              "body": "Another million dollar tip- sell the options on cash-settled instruments. Most are European style.",
+              "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lndjcjf/",
+              "created": 1726470626,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lnfromj",
+                  "score": 1,
+                  "body": "I bought a clarinet. What now?\n\nShould I have gone for the trumpet?",
+                  "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnfromj/",
+                  "created": 1726507104,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lndimq9",
+      "score": 1,
+      "body": "Also- why did you post this in r/stocks and not r/options?",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lndimq9/",
+      "created": 1726470121,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lndmfbv",
+      "score": 1,
+      "body": "There absolutely is theta. This should be super obvious if you've traded 0dte even 1 time.\n\nIt's not enough to just go up. It has to go up by a couple bucks. If it doesn't go up enough you'll still lose money.",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lndmfbv/",
+      "created": 1726472851,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lndrsgh",
+      "score": 1,
+      "body": "Making money in the stock market, options especially, really boils down to predicting the unknown and making a bet that is slightly aspirational compared to the overall market consensus. When you participate in an option play that gives almost no time for that to occur, you’re almost guaranteed to lose money in the long term.\n\n0DTEs are basically get rich quick schemes sold by people getting scammed to people that are getting scammed lol",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lndrsgh/",
+      "created": 1726476891,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lndsp33",
+      "score": 1,
+      "body": "Just go to a casino, join a rullet table and put a sum on red or black, if you lose double the sum and bet again on red or black. Same-same but difrent.",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lndsp33/",
+      "created": 1726477568,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lndvfqs",
+      "score": 1,
+      "body": "So are you the guy that bought my 0DTE $70 OTM calls last friday?",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lndvfqs/",
+      "created": 1726479592,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lndzkfb",
+      "score": 1,
+      "body": "What is wrong with going to a casino and putting money on red daily? The house always win in the end and this is the problem. And what about the cost to trade?",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lndzkfb/",
+      "created": 1726482373,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lne1jfc",
+      "score": 1,
+      "body": "There is theta lol its even the highest day-of",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lne1jfc/",
+      "created": 1726483583,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnebxck",
+      "score": 1,
+      "body": "1. There is Theta, which will accelerate if the price moves towards your strike  \n2. There is assignment risk if the call expires ITM  \n3. There is >0% probability that all 10 trades are duds  \n4. Strike price matters because it alters the probability and convexity of the payout",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnebxck/",
+      "created": 1726488814,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnecr9n",
+      "score": 1,
+      "body": "The main thing I like about them for newish investors, you get immediate feedback if you are wrong. I sold calls months out that are already ITM so I have to stress a bit about them for months. ",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnecr9n/",
+      "created": 1726489188,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnehlxk",
+      "score": 1,
+      "body": "“There is no theta” lol everytime tick doesnt change, it’s 0.01 off your option which is a significant amount to 0dte. There is always theta",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnehlxk/",
+      "created": 1726491280,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnej2ul",
+      "score": 1,
+      "body": "The problem with your strategy I see is it’s not fleshed out at all. What is your entry and exit plan? What strikes are you buying? You claim there’s no theta on 0DTE but that is not true, currently the ATM 0DTE strike on spy is 50% premium. \n\nYou can make money day trading SPY but it doesn’t seem like you have a real strategy yet\n\nEdit: also, 10% of your account size on 1 position is quite large especially if it’s a straight call",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnej2ul/",
+      "created": 1726491888,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnjrs95",
+      "score": 1,
+      "body": "your emotions are what is wrong. Forget technicalities .I'm 100% sure you will fumble before having completed 5 days.",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnjrs95/",
+      "created": 1726568423,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnqmuwd",
+      "score": 1,
+      "body": "Try posting over at r/options",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnqmuwd/",
+      "created": 1726670207,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lo6t0ye",
+      "score": 1,
+      "body": "Just try it bro. It works til it don’t work. Then try something else. Jesus Christ everyone on this g-d thing over-analyzes everything to death to the point where the analysis is meaningless",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lo6t0ye/",
+      "created": 1726915263,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnc4yav",
+      "score": 1,
+      "body": "This has got to be one of the most uniformed things I've ever read on Reddit ever.",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnc4yav/",
+      "created": 1726446463,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnb397y",
+      "score": 0,
+      "body": "V crush",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnb397y/",
+      "created": 1726433007,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnbawsw",
+      "score": 0,
+      "body": "Theta",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnbawsw/",
+      "created": 1726435520,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnc5m2j",
+      "score": -1,
+      "body": "Yea, there’s no need to even have any kind of discussion about anything with the trading community. A bunch of clowns that literally shoot down every idea and yet they are on Reddit acting as if they actually know shit hahaha. All you have to do is get the direction and timing right and anyone that says that’s not possible is a complete idiot and knows very little if anything at all about chart analysis.",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnc5m2j/",
+      "created": 1726446720,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lncadzb",
+          "score": -1,
+          "body": "yeah - i've learned this lesson now. these guys really dont know anything. half the ppl just shitting on this without giving me a valid reason it wont work and the other half didnt even understand the strategy.",
+          "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lncadzb/",
+          "created": 1726448584,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lncqzn8",
+              "score": 2,
+              "body": "probably because a good portion of us really dont' know anything.  There are channel like wallstreetbets for a reason.  And probably other reddit channel about options.  I was expecting you to tell us if it work instead of us telling you.  Did you do any back testing?  I dont' know anything about option trading.",
+              "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lncqzn8/",
+              "created": 1726455177,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lncs5mg",
+              "score": 2,
+              "body": "Instead of $100 on 0dte put this on swing plays buy the dip far OTM calls - 10 swing plays you have high probability of hitting one of them.",
+              "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lncs5mg/",
+              "created": 1726455660,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lnd2n2x",
+      "score": -1,
+      "body": "The odds are still 50/50",
+      "permalink": "/r/stocks/comments/1fhmf8c/whats_wrong_with_this_0dte_strategy/lnd2n2x/",
+      "created": 1726460377,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

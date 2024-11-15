@@ -1,0 +1,578 @@
+{
+  "title": "Broadcom says it will sell $12 billion in AI parts and custom chips this year",
+  "score": 344,
+  "selftext": "Broadcom reported fiscal third-quarter results on Thursday that beat Wall Street expectations for revenue and earnings.\n\nBroadcom shares fell 7% in extended trading after guidance was in-line with expectations.\n\nHere is how the chipmaking conglomerate did versus LSEG consensus estimates for the quarter that ended Aug. 4:\n\nEarnings per share: $1.24 adjusted vs. $1.20 expected\n\nRevenue: $13.07 billion vs. $12.97 billion expected\n\nBroadcom projects current-quarter revenue of $14 billion, versus $1.36 per share on $14.04 billion expected.\n\nBroadcom reported a net loss of $1.88 billion, or a loss of 40 cents per share, versus net income in the year-ago quarter of $6.12 billion, or $1.24 per share.\n\nThe company said the net loss for the third quarter includes a one-time tax provision of $4.5 billion related to trading intellectual property rights from one company segment to another based in the U.S. as part of supply chain management.\n\nBroadcom stock is up 75% in the past year as investors have come to appreciate that the company produces several parts that are required for big data centers or can be used to create infrastructure for artificial intelligence. For example, Broadcom works on Google’s TPU chip, which Apple used to train some of its AI features.\n\nBroadcom CEO Hock Tan said in a statement that the company expects to record $12 billion in sales from AI parts and custom chips in fiscal 2024, up from a previous forecast of $11 billion.\n\n“Broadcom’s third quarter results reflect continued strength in our AI semiconductor solutions and VMware,” Tan said in a statement. The company reported $7.27 billion in semiconductor sales during the quarter, up 5% annually. It is still larger than Broadcom’s infrastructure software segment, which reported $5.8 billion in sales, much of which is from the company’s VMware acquisition.\n\nSource: https://www.cnbc.com/2024/09/05/broadcom-avgo-earnings-report-q3-2024.html",
+  "link_flair_text": null,
+  "id": "1fa2ai9",
+  "num_comments": 67,
+  "created_utc": 1725583252,
+  "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/",
+  "comments": [
+    {
+      "id": "llq76v6",
+      "score": 76,
+      "body": "They better have a plan because they are absolutely destroying VMware's price model that is causing a lot of big customers to look at alternatives (I work for a VAR in the pnw)",
+      "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llq76v6/",
+      "created": 1725586604,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "llq7wps",
+          "score": 41,
+          "body": "That’s part of their business model. Buy a company and squeeze its customers for enough to buy the next company. They’ve done it to Brocade, CA, Symantec, and now VMware.",
+          "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llq7wps/",
+          "created": 1725586859,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "llwraus",
+              "score": 2,
+              "body": "It's part of the business model but I think they are scaring away customers sooner than they expect. They aren't going to get the return on investment they expected at the rate they are running the company into the ground.",
+              "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llwraus/",
+              "created": 1725683021,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "llqaso0",
+          "score": 33,
+          "body": "Pretty sure this is by design because they just want the whales not the small shops. It’s risky but it can work for a company that’s diversified.",
+          "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llqaso0/",
+          "created": 1725587893,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "llxx28y",
+              "score": 3,
+              "body": "This was very clear since the acquisition. Tons of smoke in r/sysadmin about being shafted",
+              "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llxx28y/",
+              "created": 1725709570,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "llqg91y",
+          "score": 18,
+          "body": "Customer here.  We’re out as soon as our hardware cycle is up.  Nutanix here we come.",
+          "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llqg91y/",
+          "created": 1725589936,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "llqdjki",
+          "score": 5,
+          "body": "My company using prox mox now.",
+          "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llqdjki/",
+          "created": 1725588906,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "llq025z",
+      "score": 82,
+      "body": "Without VMware, their sales were up 4%, they can tout AI AI AI all they want.",
+      "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llq025z/",
+      "created": 1725584044,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "llqtlpn",
+          "score": 5,
+          "body": "AI is Outlook email rules now lol. Holy shit is that AI? YEAH! I mean I programmed it to work this way but yes it is!!!",
+          "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llqtlpn/",
+          "created": 1725595417,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "llq98e9",
+          "score": 18,
+          "body": "Actually the long story short if you were to go off this summary:\n\nhttps://x.com/EricJhonsa/status/1831815358128545871\n\nWould be that the AI side of their business is fine, and if you made AI stuff disappear, it looks like an absolute, stone cold lock that the chip cycle is peaking, and the Nasdaq is headed for #3 on bear markets other than the COVID crash from 2018 on.",
+          "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llq98e9/",
+          "created": 1725587336,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "llqf2he",
+              "score": 11,
+              "body": "I got the opposite impression listening to earnings call, saying certain non-ai segments were bottoming",
+              "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llqf2he/",
+              "created": 1725589480,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "llqhhs0",
+                  "score": 3,
+                  "body": "Broadcom makes the majority of the optical interconnect used for memory transfer for nvidia.  Also other components in DGX. Its one line item and im not sure how much of their revenue is from it. \n\nBut if rev is showing sub 5% growth, i think hyperscaler arent buying additionally more much more DGX with each quarter.\n\nSales aren't collapsing but exponential growth has slowed alot.",
+                  "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llqhhs0/",
+                  "created": 1725590410,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "llreome",
+              "score": 4,
+              "body": "Non-AI chips have been in a long bottoming process for like 2 years, with some exceptions. Many chip companies have indicated bottoms over the last few quarters. Broadcom is no exception. Idk where you get 'peaking from.",
+              "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llreome/",
+              "created": 1725607456,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "llqcyj3",
+              "score": 2,
+              "body": "Good stuff here but are you saying that the chip market has peaked (and thus Nasdaq is headed for a crash? Or that it would crash if the AI side of the business was actually weak? Thanks ",
+              "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llqcyj3/",
+              "created": 1725588688,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "llqgl6t",
+              "score": 1,
+              "body": "following",
+              "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llqgl6t/",
+              "created": 1725590063,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "llq0cy7",
+          "score": -12,
+          "body": "AI is such bullshit\n\nWhere is the ROI?\n\nWhat more developer productivity to auto gen some malformed code with loopholes? An auto generated marketing image to not offshore for a designer anymore?\n\nI'll buy when I see the tangible use case\n\nOh and let's assume AI is the future (like the metaverse) then someone provide me a power grid plan to sustain it\n\nBecause ours is about tapped out",
+          "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llq0cy7/",
+          "created": 1725584152,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "llq5g6w",
+              "score": 8,
+              "body": "Traditionally, it can take years for a cloud provider to get an ROI on a GPU. If it takes 6-8 years to pay for itself, then that is an investment that beats the returns that most companies will ever see. If this is the case for LLM/Transformer GPUs, you will have to wait at least 6 years before you are convinced of a use case. There are some outlandish claims of 400-700% return on Nvidia GPUs, which I am pretty skeptical of, though that would be nice. \n\nIf you don't think that the huge and increasing upfront investments in chips and AVGO's custom chips are a disastrous financial decision, then don't get mad, short (I don't think this is good investment advice, to be clear). I own NVDA, AVGO, and TSM, and I'll keep buying shares from people who are shorting whenever there is a crisis of the month, while waiting for the Fed funds rate to eventually drift down. \n\nI'm not inflexible though, when AI spend hits a wall and margins trend towards zero, I'll cash in (probably a mere 20-30% lower than the high) and look for more conservative investments. Let me know when that happens!",
+              "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llq5g6w/",
+              "created": 1725585972,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "llq5ocd",
+                  "score": 3,
+                  "body": "I'm long on SOXL \n\nI know it will go up \n\nMy statement was people are divorced from reality on what AI actually is and it is reminiscent of metaverse hype",
+                  "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llq5ocd/",
+                  "created": 1725586054,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "llqsjzz",
+              "score": 5,
+              "body": "[deleted]",
+              "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llqsjzz/",
+              "created": 1725594967,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "llrvtvu",
+                  "score": 2,
+                  "body": "Great insights.\n\n\nFact of the matter is most of the world didn't start paying attention until ChatGPT, and now most of those same people are saying progress is now peaked.\n\n\nIf it felt like progress slowed, it's because the level of compute hasn't risen significantly yet. But that is imminently changing, with models from new build outs being sampled behind closed doors, with reveals likely by EoY.\n\n\nIf and when it can be proven that scale no longer provides benefits for every possible ML algorithm and application, then we can see exponential growth slow and it will just be infra build out for serving current sized models. But that is an incredibly difficult proof, and it might not even be correct. \n\nAll signs point to scale being the key in ML, gating new levels of performance. The Bitter Lesson from Sutton really encapsulates what is happening and will continue to happen.",
+                  "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llrvtvu/",
+                  "created": 1725619049,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "llxxjde",
+                  "score": 0,
+                  "body": "This is still AI gives us savings territory, a very far cry from AI is making us money territory. Eliminating technical debt is an excellent application of AI, but it wouldn't do anything if there wasn't technical debt in the first place. All this means is now developers will be even more confident to borrow from the future because \"time to market is now and when we have some spare time the AI will fix it\".",
+                  "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llxxjde/",
+                  "created": 1725709822,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "llq8j35",
+              "score": 5,
+              "body": "100%. The current generation of AI is not disruptive to absolutely any part of software development except ruining Jr engineers ability to learn anything.\n\nThe easiest way to understand the incredible mediocrity of the LLM is to grill it on a subject you are a bona fide fucking expert at. And really see just how utterly pathetic it is.\n\nNow realize it's that pathetic at everything, including all the other things you're not that qualified to judge it on. \n\nI still laugh seeing AI charlatans pretending the smoke and mirrors of their marketing videos is real.",
+              "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llq8j35/",
+              "created": 1725587084,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "llrre5t",
+                  "score": 3,
+                  "body": "Human intelligence is pyrimedial, i.e. very few at peak intelligence, or knowledge of subject.  Your argument is that \"AI\" or LLMs are not effective for the top of that pyramid.   When even those at the top of this pyramid can already see ways to increase their own effectiveness in utilizing these new tools.  While those below that, if willing, have a lot of new power to learn in ways faster than ever before, and deeper if willing to be inquisitive.  If the \"lesser minds\" at a company are more capable and efficient,  than the \"greater minds\" can be more focused on the creative/transformative tasks.\n\n\nLLMs are not chat bots, they are pattern recognition and the language part is more abstract than many credit.  Human brains learn much the same way, albeit with more sensors.  \n\n\nThese semiconductor companies are surely in for a long haul of growth.\n\n\nHaving said all that, I think ChatGPT premium is vastly better than Copilot, maybe the quality of the LLMs is why their is so much disparity of opinion.",
+                  "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llrre5t/",
+                  "created": 1725616284,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "llrwggo",
+                      "score": 2,
+                      "body": "This is still first iteration - LLMs are not meant to be intelligent, they are meant to understand language. The emergent truth is that understanding language is surprisingly entangled with developing some barebones intelligence, Chomskey be damned!\n\n\nIteration two - q*/strawberry and whatever it is that Sutskever has in his mind - will leverage the fact we can now programmatically understand language to begin constructing intelligence. \n\n\n\nAnd we will go all the way to iteration n - the fact people are trying to boldly step in the way and claim \"this is all fluff and hype\" is.... silly. It is especially not a powerful mindset for investing as you just close off all these possibilities due to pessimism masquerading as rationale.",
+                      "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llrwggo/",
+                      "created": 1725619415,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "llq4xzy",
+              "score": -10,
+              "body": "[deleted]",
+              "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llq4xzy/",
+              "created": 1725585790,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "llq7xui",
+                  "score": 11,
+                  "body": "You have no clue what the current AI is. You think it's the kind of sci-fi AI from movies, and that ain't it.",
+                  "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llq7xui/",
+                  "created": 1725586871,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "llq5aiw",
+                  "score": 4,
+                  "body": "no, the time to invest in AI was a year ago. everything is disgustingly overpriced right now and the cracks are showing. there will be a good buying opp sometime next year once there's actual profits after a nice big haircut",
+                  "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llq5aiw/",
+                  "created": 1725585915,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "llq57m5",
+                  "score": 2,
+                  "body": "I'm a software engineer and I have seen zero compelling use for it and the only people that make these wild grand gestures, as you have done are people that have no idea what AI even truly is\n\nDo you even know the problem with AI?\n\nHow they are built?\n\nSo on and so forth?\n\nLearning? Oh. Please. Anytime anything changes - at all - you have to retrain *the entire model from the ground up*",
+                  "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llq57m5/",
+                  "created": 1725585886,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "llq9ega",
+                      "score": 2,
+                      "body": "As a dentist I can think of a number of practical uses for it to increase my productivity. \n\nIt’s wonderful for referral letters. It’s a wonderful tool to educate patients and spot cavities at early stages and it’s a lot harder to argue with AI (for most patients at least) than doctors. \n\nI’d love a program that could pursues my notes to produce summaries of a certain tooth or condition to better inform my decision making.",
+                      "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llq9ega/",
+                      "created": 1725587398,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "llq9t8b",
+                          "score": 6,
+                          "body": "Yes, but that's not \"artificial intelligence\"\n\nIt's basic language processing algorithms (notes example) determining parts of speech tagging the most heavily weighted topics with probability and summarizing based upon those.\n\nNatural language processing is an entire field. It's not AI nor is it revolutionary albeit useful \n\nThis is the problem with AI products and the hype I referenced\n\nMedical imagery evaluations is a valid use case. But again that's not artifice. It's just probabilistic determinations at a higher depth search than a human can perform and as such flags things we often miss\n\nThats just software engineering",
+                          "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llq9t8b/",
+                          "created": 1725587547,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "llqal61",
+                              "score": 1,
+                              "body": ">Medical imagery evaluations is a valid use case. But again that's not artifice. It's just probabilistic determinations at a higher depth search than a human can perform and as such flags things we often miss\n\nIsnt this machine learning, which is also a field of AI?",
+                              "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llqal61/",
+                              "created": 1725587823,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "llqb3sx",
+                                  "score": 4,
+                                  "body": "AI can be anything and everything which is again my point\n\nPeople started AI out with INTELLIGENCE i.e. can we train a neural net to think for itself via intensive machine learning to a point it rivals a human being such that it's intelligence is indistinguishable upon a Turing test (which are quite bad fyi)\n\nBeyond that can it *exceed* and continuously learn *for its own conclusions and adapt as a human can*\n\nIn current verbiage people just slap AI on whatever bullshit they find useful when it's not AI it's just a routine algorithm \n\nMachine learning is just a complicated ass linear algebra with some exceedingly heavy statistics in a neural net\n\nAnd now it's look at AI it's going to revolutionize us when it's not any better than it's ever been per point #1\n\nIt's just bandwagoned hype for various spectrums across tech of improved algorithmic models",
+                                  "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llqb3sx/",
+                                  "created": 1725588000,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "llqi8i4",
+                                      "score": 1,
+                                      "body": "Thoughts on NVDA?",
+                                      "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llqi8i4/",
+                                      "created": 1725590708,
+                                      "depth": 8,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "llq9cn1",
+          "score": 0,
+          "body": "right, sales were up even without VMware ,AI hype only goes so far",
+          "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llq9cn1/",
+          "created": 1725587380,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "llqz68o",
+      "score": 12,
+      "body": "[removed]",
+      "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llqz68o/",
+      "created": 1725598118,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "llsssqd",
+          "score": 3,
+          "body": "Seriously, they’re looking more and more like #2 to me ",
+          "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llsssqd/",
+          "created": 1725632824,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lludg75",
+              "score": 1,
+              "body": "I get what you mean, but remember it’s different type of AI workloads, when discussing Broadcom remember their patent business for a long term investment, just look at the Wireless category from the expectation of the iPhone 16 alone. \n\nNVIDIA GPU business for AI and LLM will continue to be the lonely “king” at the top as they are 5 years ahead of the competition and CUDA continues to reign",
+              "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/lludg75/",
+              "created": 1725650973,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "llqzwfk",
+      "score": 5,
+      "body": "Are they refering to how they aquired and jacked the price on PLX PEX PCI switches?",
+      "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llqzwfk/",
+      "created": 1725598499,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llpz9aj",
+      "score": 33,
+      "body": "Beat earnings and tank nonetheless. Good dip opportunity in coming week.",
+      "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llpz9aj/",
+      "created": 1725583766,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "llq483d",
+          "score": 52,
+          "body": "They are up 40% YTD, so again, what do you want exactly? At 65x multiple, they are priced to sell, and the reason they dropped is the lower guidance \n\n“Broadcom provided revenue guidance for the current quarter of $14 billion versus the $14.11 billion consensus.”\n\nThey diluted their shareholders for a segment that is growing in low single digit, but who cares? Opportunity according to a strange reddit intelligent investor",
+          "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llq483d/",
+          "created": 1725585530,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "llrexsm",
+              "score": 3,
+              "body": "Forward estimates didn't change. 65x trailing when non-AI segments are just bouncing off the bottom and ASIC revenues set to accelerate while being flat this quarter. I mean, if you don't believe in the ASIC story then fine, but this has been playing out pretty much exactly like they said it would except, oh yea, guiding for HIGHER yearly ASIC revenue. We could see some weakness. AI could be a flop, but the guidance was typically conservative and - unless something changes - this will be viewed as a buying opportunity.",
+              "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llrexsm/",
+              "created": 1725607630,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lluf57i",
+                  "score": 3,
+                  "body": "Lots of words, not a single number mentioned. Your sentiment is meaningless when their financials are showing lack of core growth despite being valued to grow.\n\nIs the company worth 60%  more than it did 10 months ago or is it worth 10% less than yesterday? \n\nBut since we are here, At 120x TTM earnings, of course every drop is buying opportunities because of course, stocks go only one way",
+                  "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/lluf57i/",
+                  "created": 1725651523,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "llx4rkl",
+                      "score": 1,
+                      "body": "Broadcom has only ever gone up and their custom chips are more important than ever, VMware, an extremely high-revenue business is now theirs. So, yes, I'd expect that they'll continue to go up. I could be wrong, of course, but I think it'd be quite lucky to catch the very last top in the stock. Forward P/E under 30, btw, and a 16B revenue run-rate of ASICS for next year with room for significant upside with new design wins. This will regain a hefty premium to the market, mark my words, especially as its core business bounces back - including tailwinds around the next Apple upgrade cycle. Getting it at a forward P/E under 30 is a deal. Getting it under 20 is a dream. A lot of happy institutions will gobble it up at those levels, if they don't start next week. If you're expecting the stock to get to an 18 trailing P/E I'd say you're hoping for too much.",
+                      "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llx4rkl/",
+                      "created": 1725690732,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lmnx155",
+                      "score": 1,
+                      "body": "Vindication",
+                      "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/lmnx155/",
+                      "created": 1726087621,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "llq5ulm",
+              "score": 1,
+              "body": "remindme! 1 year",
+              "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llq5ulm/",
+              "created": 1725586118,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "llq5you",
+                  "score": 1,
+                  "body": "I will be messaging you in 1 year on [**2025-09-06 01:28:38 UTC**](http://www.wolframalpha.com/input/?i=2025-09-06%2001:28:38%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llq5ulm/?context=3)\n\n[**2 OTHERS CLICKED THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Fstocks%2Fcomments%2F1fa2ai9%2Fbroadcom_says_it_will_sell_12_billion_in_ai_parts%2Fllq5ulm%2F%5D%0A%0ARemindMe%21%202025-09-06%2001%3A28%3A38%20UTC) to send a PM to also be reminded and to reduce spam.\n\n^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%201fa2ai9)\n\n*****\n\n|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|\n|-|-|-|-|",
+                  "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llq5you/",
+                  "created": 1725586159,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "llqifm2",
+                  "score": 1,
+                  "body": "What exactly do you disagree with?",
+                  "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llqifm2/",
+                  "created": 1725590789,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "llrbwh5",
+                  "score": 1,
+                  "body": "Didn’t answer the question still.",
+                  "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llrbwh5/",
+                  "created": 1725605623,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "llqax6z",
+              "score": 0,
+              "body": "RemindMe! 10 months",
+              "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llqax6z/",
+              "created": 1725587937,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lmo1dmc",
+              "score": 0,
+              "body": "Broadcom retraced in 3 trading sessions. Where are you now?",
+              "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/lmo1dmc/",
+              "created": 1726089037,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "llqg15l",
+          "score": 5,
+          "body": "[deleted]",
+          "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llqg15l/",
+          "created": 1725589850,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "llqiev2",
+              "score": 0,
+              "body": "NVDA also killed it and tanked. Point?",
+              "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llqiev2/",
+              "created": 1725590780,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "llqanjk",
+          "score": 2,
+          "body": "What are the catalysts for this company after VMWare acquisition?",
+          "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llqanjk/",
+          "created": 1725587845,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "llrg8e4",
+      "score": 3,
+      "body": "Man, I have to stop reading the conversations tab on Yahoo! Finance.  The discussions there depress the hell out of me.",
+      "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llrg8e4/",
+      "created": 1725608535,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llqd7ry",
+      "score": 1,
+      "body": "Loved hearing this earnings report today — buying the dip tomorrow!",
+      "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llqd7ry/",
+      "created": 1725588783,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llqhljr",
+      "score": 2,
+      "body": "I mean does anyone actually want to invest in the company that bought VMWare? That’s the real question.",
+      "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llqhljr/",
+      "created": 1725590452,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lr4tmzn",
+      "score": 1,
+      "body": "Broadcom is up nearly 40% in less than a month. The dudes that said it was overpriced have deleted their posts 😂",
+      "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/lr4tmzn/",
+      "created": 1728499938,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llrpxr0",
+      "score": 1,
+      "body": "Bedford Metals Corp.",
+      "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llrpxr0/",
+      "created": 1725615307,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llqcmtk",
+      "score": -18,
+      "body": "Garbage earnings report. A correction of 45% is necessary. This shows their business is slowing down tremendously.",
+      "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llqcmtk/",
+      "created": 1725588567,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "llqdk5z",
+          "score": 6,
+          "body": "Every comment in your short user history is a troll comment.",
+          "permalink": "/r/stocks/comments/1fa2ai9/broadcom_says_it_will_sell_12_billion_in_ai_parts/llqdk5z/",
+          "created": 1725588911,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

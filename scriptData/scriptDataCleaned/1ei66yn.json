@@ -1,0 +1,1171 @@
+{
+  "title": "ARM and Qualcomm could be trillion-dollar companies by 2030, while Intel's only chance is to become a TSMC-style foundry on U.S. soil.",
+  "score": 142,
+  "selftext": "After Intel's disastrous report yesterday and ARM's solid earnings beat (but cautious guidance), let me make a prediction:  The era of Intel's x86 processor architecture for personal computers is over. \n\nThe age of power efficient ARM-based processors for all personal devices, from PCs to laptops to cell phones, has begun. Apple led the way with its M1-M4 processors, and with Qualcomm's Snapdragon chips, ARM-based Windows laptops are now available. Even if Snapdragon is underwhelming today, its time will come.  \n\nThe software industry will follow, releasing more and more applications in ARM-optimized versions. We are already familiar with this kind of duality in applications for MacOS, where two versions of an application, one optimized for Apple Silicon (ARM) and one optimized for Intel (x86), are now almost always released.  \n\nFuture applications that rely on AI on the edge will require ARM-based systems. One day there will be an AI application that blows everyone away and forces the last users to ARM-based systems, dealing the final death blow to Intel. \n\nThe only way for Intel to survive (or even thrive in the long run) would be to stop developing chips and become a TSMC-style foundry on U.S. soil.",
+  "link_flair_text": "Discussion",
+  "id": "1ei66yn",
+  "num_comments": 127,
+  "created_utc": 1722592787,
+  "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/",
+  "comments": [
+    {
+      "id": "lg47pi9",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 10 | **First Seen In WSB** | 1 year ago\n**Total Comments** | 112 | **Previous Best DD** | [x](https://www.reddit.com/r/wallstreetbets/comments/xyz1pg/why_not_att/) \n**Account Age** | 1 year | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg47pi9/",
+      "created": 1722592790,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lg499m1",
+      "score": 253,
+      "body": "Pepsi is a better chip company than Intel at this point.",
+      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg499m1/",
+      "created": 1722593771,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lg4arhd",
+          "score": 40,
+          "body": "Pepsi has better capex & opex for their chip business.and also better net margins.",
+          "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4arhd/",
+          "created": 1722594680,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lg67rob",
+              "score": 1,
+              "body": "Damn PepsiCo has like 55% gross margin and 13% operating margin. People betting on the wrong chip producer smh",
+              "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg67rob/",
+              "created": 1722620093,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lg49gqu",
+          "score": 13,
+          "body": "Thanks, that made me laugh :-D",
+          "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg49gqu/",
+          "created": 1722593892,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lg4hjaw",
+          "score": 19,
+          "body": "Yeah but when you buy chips from Pepsi half of them are broken. Oh wait, same with Intel actually",
+          "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4hjaw/",
+          "created": 1722598331,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lg4hixx",
+      "score": 88,
+      "body": "Arm still does only 20% of the revenue of Intel and their revenue model is still horrible. They are ubiquitous but they aren’t becoming a trilly company without a major change, and if they make major changes, it will possibly help their competitors.\n\nArm is only popular because it’s letting big tech fleece them.",
+      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4hixx/",
+      "created": 1722598326,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lg5kgr0",
+          "score": 14,
+          "body": "ARM isn't without competition either, RISC-V is making steady progress with none of the licensing fees nessecary. Remember ARM isn't making those chips, they design them.",
+          "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg5kgr0/",
+          "created": 1722612740,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lg9x8ki",
+              "score": 2,
+              "body": "RISCV is only making gains in specific cost sensitive sectors that don’t care about performance as much, eg. Embedded systems\n\nIt won’t really compete with smartphones or laptops or infra etc because RISCV is just that, an ISA, without the billions of dollar in R&D to pack the latest trends and features into optimised, power efficient designs, with specialised tooling and support to reduce time to market. A huge part of arms business is being there to support their OEMs in software. And the guy running that used to do it for NVidia.",
+              "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg9x8ki/",
+              "created": 1722676699,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lgbfgby",
+                  "score": 1,
+                  "body": "RISC-V is progressing quickly currently. It's chinese companies that are pushing R&D of actual implementations of the RISCV ISA. Some of it is due to sanctions.\n\nThere's 8-core RISC-V latops now (https://riscv.org/news/2024/06/worlds-first-risc-v-laptop-gets-a-massive-upgrade-and-equips-with-ubuntu/), Raspberry Pi like devices and desktop boards (https://milkv.io/jupiter) including a 64 core 2GHz RISC-V workstation (https://milkv.io/pioneer). All released in 2024.\n\nThe biggest problem isn't the CPU for RISC-V devices, there's currently no open source GPU design for a SoC.",
+                  "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lgbfgby/",
+                  "created": 1722701406,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lg8663t",
+              "score": 1,
+              "body": "Hopefully RISC-V will beat ARM and intel eventually",
+              "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg8663t/",
+              "created": 1722644198,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lg5hs4b",
+          "score": 13,
+          "body": "Yea it’s like saying Google should be bigger than Apple because the number of android devices is far higher",
+          "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg5hs4b/",
+          "created": 1722611887,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lg68b6s",
+          "score": 4,
+          "body": "ARM is making progress in market penetration in PC and Server processors. The bull case is in several years they can start extorting their customers for crazy royalties and it will take many years to transition away. RISC-V looks interesting as a long term solution but that's nowhere near the readiness level of the ARM ecosystem. ",
+          "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg68b6s/",
+          "created": 1722620262,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lg9wuc5",
+          "score": 1,
+          "body": "Well the revenue model is actually pretty insane, albeit quite unique. Customers pay you to license IP, then pay you to license software to develop for that IP, then pay you royalties for every chip produced, rinse and repeat with multi year contract and a constant stream on new shiny IP.\n\nAs companies try to pack more hardware features into their devices (compute subsystems) and the IP increases in complexity, arm have every excuse to start jacking up royalties to boost their revenue into the 10s of billions, and with huge market share in key sectors (smartphone), and growing market share in infra/AI/laptop/etc, that could absolutely be sustainable.\n\nIssue is they only make 3 bil or so with 99+% market share in smartphone so the argument for trillion dollar valuation is shaky unless x86 really goes the way of the dodo, which isn’t gonna happen for quite some time, even in laptops due to AMDs competition in efficiency markets.",
+          "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg9wuc5/",
+          "created": 1722676423,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lg4aiik",
+      "score": 40,
+      "body": "I'm reading Chip War by Chris Miller, it's fascinating to learn about the history of the industry. NVDA has barely 1 paragraph. QCOM gets covered.",
+      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4aiik/",
+      "created": 1722594531,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lg4c3z4",
+          "score": 11,
+          "body": "Amazing book from beginning to end. Ray Kurzweil's 1999 \"The Age of Spiritual Machines\" is also absolutely worth reading today!",
+          "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4c3z4/",
+          "created": 1722595468,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lg48ymt",
+      "score": 24,
+      "body": "Are we moving towards arm based pcs ?",
+      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg48ymt/",
+      "created": 1722593582,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lg495nf",
+          "score": 34,
+          "body": "According to Apple, yes.\n\nAccording to Microsoft, maybe.",
+          "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg495nf/",
+          "created": 1722593704,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lg4as4h",
+              "score": -21,
+              "body": "The latest Snapdragon Elite X is way superior to the i7 ultra 155h in the dell XPS 13.\n\nNot only the performance is better, but the laptop lasts almost 20 hours rather than 6.\n\nx86 architecture will exist forever but it will move to the server for those softwares that really benefit from the custom instructions like AVX, etc.",
+              "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4as4h/",
+              "created": 1722594691,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lg4c1zm",
+                  "score": 32,
+                  "body": "This isn't even remotely true. The 6 vs 20 hour figure is completely crazy and couldn't be further from the truth. Real life reviews have shown that it has like 20-30% better battery life currently, not 350%.",
+                  "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4c1zm/",
+                  "created": 1722595438,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lg4c6ah",
+                      "score": -12,
+                      "body": "Here's a review by tomshardware:  \n[Dell XPS 13 (9345) review: Same great looks, now with Snapdragon X Elite | Tom's Hardware (tomshardware.com)](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/dell-xps-13-9345-review)\n\nBattery life comparison is with another Dell XPS powered by Intel.\n\nCare to show more data of laptops with the same hardware/monitor but different CPUs?",
+                      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4c6ah/",
+                      "created": 1722595504,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lg4dyci",
+                          "score": 28,
+                          "body": "And then you realize the 6h 30 come from a nearly 2 year old i7-1360P using a near 4k OLED screen compared to a FHD+ IPS screen while the battery test is rather biased against OLED as they use more white screens.",
+                          "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4dyci/",
+                          "created": 1722596495,
+                          "depth": 5,
+                          "replies": []
+                        },
+                        {
+                          "id": "lg4evju",
+                          "score": 8,
+                          "body": "https://www.pcworld.com/article/2411004/benchmarked-amds-ryzen-ai-300-brings-serious-performance-to-copilot-laptops.html\n\nHere the new Ryzen 9 HX 370 is not much worse (it uses a bigger 78Wh vs 55 Wh battery!) but it is 16 vs 14 inch screen and it's higher resolution OLED on white background as well.",
+                          "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4evju/",
+                          "created": 1722596986,
+                          "depth": 5,
+                          "replies": []
+                        },
+                        {
+                          "id": "lg4nprj",
+                          "score": 5,
+                          "body": "Now compare to the new amd ryzen chips. x86 is far from dead and will likely continue to be the standard for another 1-2 decades at least due to much better software support.",
+                          "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4nprj/",
+                          "created": 1722601163,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "lg4b98w",
+                  "score": 8,
+                  "body": "Doubtful, it will take years before businesses move on from x86 laptops and desktops. Unless the emulation is crazy good and works with everything, but the Apple one didn’t, so I don’t think the Microsoft one does.",
+                  "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4b98w/",
+                  "created": 1722594974,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lg4bh6i",
+                      "score": -6,
+                      "body": "> it will take years before businesses move on from x86 laptops and desktops\n\nIt actually happened since Apple moved away from Intel 4 years ago as large part of the industry used macbooks anywhere.\n\nThe transition will happen in Windows world too, it's already happening and the latest Dell XPS (or surface) are clear statements that x86 on laptops is also going to become increasingly rare.\n\nPeople refusing to acknowledge that x86 days in general computing are numbered have their eyes plastered with ham at this point.",
+                      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4bh6i/",
+                      "created": 1722595106,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lg4c853",
+                          "score": 9,
+                          "body": "It’s not the same to compare business that use Macs vs Windows computers, the businesses that work with Macs are definitely not using legacy software, or have no problem updating their software for dealing with the change.\n\nThe whole point and advantage of using Windows for most businesses is almost seamless backwards compatibility. This ARM transition might not offer that, which will most definitely make it not as quick as it was with Apple computers and will most definitely delay it a couple of years.\n\nI’m an engineer btw, I never worked for a single company that doesn’t use some legacy software that only works on Windows machines, and that as an engineer you can even choose to have an Apple computer since most software won’t even work there. \n\n\nI’m not saying that ARM will not replace x86, just don’t get your hopes up that it will happen as quickly as it did for Apple, it will take time.",
+                          "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4c853/",
+                          "created": 1722595533,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lg4p3a6",
+                              "score": 2,
+                              "body": ">legacy software that only works on Windows machines,\n\nDsmn right...\n\nAll the way back to W2003 server :) and that makes use modern by many standards.",
+                              "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4p3a6/",
+                              "created": 1722601745,
+                              "depth": 6,
+                              "replies": []
+                            },
+                            {
+                              "id": "lg4clvr",
+                              "score": -8,
+                              "body": "Don't know what line of engineering you are, I'm a software engineer and I have worked in only one company that gave Windows laptops by default.\n\nAll the rest have always been Macbooks.\n\nI know that there is definitely lots of legacy software and x86 ain't gonna die in few years, but most businesses really use the office suite + teams and little more and those will transition to ARM sooner than you think.\n\nNicher software will keep living on x86, but what kind of an argument it is? We also have datacenters using 4/5 decades old mainframes for the same reasons, that's not where the money is though.",
+                              "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4clvr/",
+                              "created": 1722595747,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lg4dfa2",
+                                  "score": 10,
+                                  "body": "Literally only software engineers can do most work on macs, basically all others need a Windows computer. This might also not be completely true for all types of software engineers, if you work with embedded systems you will most likely need a Windows computer as well.\n\nYeah sure, but that doesn't bode well in general for all companies, usually laptops are bought in bulk and they just buy the same 2 models for everyone, one 15 inch and another 13 inch. I have a hard time believing a lot of the IT offices will want to offer more options than they already do. It doesn't make sense to give different Windows computers to people that are only using office suite + teams, and even then a lot of companies already give Macs to these people as Macs are a lot more user friendly and have less problems for IT to deal with overall.\n\nAgain I'm pretty sure ARM will take over x86 eventually, I just don't expect it to happen as fast as it did with Apple computers for Windows machines. I think we are looking at least at a 5 year, probably even longer, window here for a 80% transition to happen.",
+                                  "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4dfa2/",
+                                  "created": 1722596202,
+                                  "depth": 7,
+                                  "replies": []
+                                },
+                                {
+                                  "id": "lg4pof5",
+                                  "score": 2,
+                                  "body": ">Don't know what line of engineering you are, I'm a software engineer and I have worked in only one company that gave Windows laptops by default.\n\nI have worked for 15 years in IT and 4 companies... all have Windows machines.\n\nYour view of the world may not be reality.\n\nWorldwide Windows outnumbers MacOS 7 to 1.",
+                                  "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4pof5/",
+                                  "created": 1722601989,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "lg4qw5h",
+                  "score": -1,
+                  "body": "Intel chips are pieces of shit, and you're conveniently leaving out AMD's Ryzen AI 9 HX 370, which is the best laptop processor out there in terms of performance at a very low wattage",
+                  "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4qw5h/",
+                  "created": 1722602485,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lg4vigl",
+      "score": 19,
+      "body": "possibly, intel is a national security company,  folks don't really understand that the US won't let them die a fast death.  the problem is that govt prop up tends to make companies lazy, see boeing.    if they figure it out, they will do great, if they don't, it will be a money tar pit.",
+      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4vigl/",
+      "created": 1722604287,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lg9qe5y",
+          "score": 2,
+          "body": "Existing as a company doesn't imply being successful or even relevant, let alone having the stock price go back to where it was.",
+          "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg9qe5y/",
+          "created": 1722672100,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lganbw6",
+              "score": 1,
+              "body": "There are companies that can exist as a shell of themselves for a while. Chips companies can't. Intel can't exist as a chips company without products.   They are going to need to make themselves relevant fast or die.    Without AMD, they would have a moat and folks would be forced to stay with them due to x86, but there's AMD.    If it means the entire world moving to AMD that's exactly what would happen.   But my point is that they won't die faster than normal, the US would inject cash into them, AMD might even be forced to help rescue them.",
+              "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lganbw6/",
+              "created": 1722691203,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lg4lq04",
+      "score": 36,
+      "body": "as a gamer, not buying it if i cant play AAA games on an ARM cpu.",
+      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4lq04/",
+      "created": 1722600282,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lg5h296",
+          "score": 11,
+          "body": "Most people aren’t PC gamers.",
+          "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg5h296/",
+          "created": 1722611656,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lg5mxfy",
+              "score": 6,
+              "body": "Most consoles are basically nothing but a small form factor PC.",
+              "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg5mxfy/",
+              "created": 1722613523,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lg5n33l",
+                  "score": 0,
+                  "body": "You forgot being incredibly cheap in comparison too!",
+                  "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg5n33l/",
+                  "created": 1722613573,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lg5pxzo",
+                      "score": 0,
+                      "body": "I wouldn't call a $600 like the ps5 pro console with no games cheap, especially when you can do nothing else but play, have none of the benefits of a PC but all the negatives. Just add those $600 on top of the PC you're going to buy anyway because you are going to need one and you have a decent gaming PC that can last well beyond 5 years (and play a massive library of older games on top of being able to mod the absolute hell out of them),",
+                      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg5pxzo/",
+                      "created": 1722614472,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lg5rfwk",
+                          "score": 2,
+                          "body": "I think the advantages you mentioned are pretty minor in comparison to the sheer cost difference. I say that as someone who built a small form factor PC literally 3 months ago (you can check my history of my various woes doing so).\n\nA ps5 pro is equivalent is about a 3070ti PC build which with all the various parts will cost significantly more. Games also whilst cheaper on PC aren’t free so the money saved from buying a console can be put towards games (which can be heavily subsidised by game passes). And that’s not to mention console exclusives (GTA 6 coming to PC a year later probably), games being optimised for consoles which means PC specs creeping higher and most people already owning laptops for the non gaming aspects.\n\nI built my SFF PC for the reasons you mentioned but the overwhelming majority of people would be far better served with a laptop+console combo compared to building a gaming PC.",
+                          "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg5rfwk/",
+                          "created": 1722614953,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lg5u2jg",
+                              "score": 1,
+                              "body": "How is it equivalent to a 3070ti? Games are always cheaper on PC, especially during sales, you save money buying games on PC rather than on consoles (unless you have to own your games on day 1, have fun with that). Never used game passes, never plan to waste money on yet another subscription, especially an overly expensive one. If 2-3 games that are exclusive to consoles for a single year, I think you have a problem. Optimized for consoles meaning looking significantly worse in every aspect compared to PC or being a bad port. But never mind all that, that's an age old discussion that well beyond the point anyway, to each his own.\n\nMy entire point was that consoles ARE PCs, they have PC hardware, console gamers are purely from a hardware standpoint, PC gamers, not ARM mobile gamers.",
+                              "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg5u2jg/",
+                              "created": 1722615795,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lg5vm22",
+                                  "score": 2,
+                                  "body": "You have a very limited outlook of gaming on the console and you’re regurgitating talking points that were true maybe 5-10 years ago but really aren’t anymore. Game passes are ridiculously economically efficient for consoles comparable to steam sales. You get an unlimited games library and can buy them for 80% discounts. \n\nAnd by optimised for consoles, I meant a severe increase in fps relative to quality for the hardware they’re packing. Devs know what the exact specs of consoles are and can make sure they hit exactly what they need for consoles as opposed to PC where far stronger hardware can still mean a much worse fps and quality compared to consoles.\n\nI agree we’re straying far from the topic though. My entire point was the overwhelming majority of people would rather buy a laptop with insane battery lives for cheap on ARM and a console compared to the select few that buy gaming laptops (which fucking suck).",
+                                  "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg5vm22/",
+                                  "created": 1722616287,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "lg63vox",
+                                      "score": 0,
+                                      "body": "> y entire point was the overwhelming majority of people would rather buy a laptop with insane battery lives for cheap on ARM\n\nthe woa laptops aren't cheap.  or they weren't a month ago...",
+                                      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg63vox/",
+                                      "created": 1722618873,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "lg647uy",
+                                          "score": 1,
+                                          "body": "https://www.theverge.com/2024/7/31/24210783/qualcomm-promises-snapdragon-x-pcs-will-cost-as-little-as-700-next-year\n\nThe end goal is probably cripple all x86 laptop production.",
+                                          "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg647uy/",
+                                          "created": 1722618978,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lg5kr19",
+          "score": 0,
+          "body": "Once there are normal desktop mainboards for ARM they'll have PCI-E slots and then you just plug in a GPU and you can play those AAA games.\n\nTop of line qualcomm X is already fast enough on the CPU front.",
+          "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg5kr19/",
+          "created": 1722612830,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lg4s2p0",
+          "score": -15,
+          "body": "It's a matter of time, because developers want to develop apps and games on one architecture that would work on phones, tablets and PCs. Right now, it has to be done separately.",
+          "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4s2p0/",
+          "created": 1722602960,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lg4v25m",
+              "score": 3,
+              "body": "This is completely false.",
+              "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4v25m/",
+              "created": 1722604116,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lg59glm",
+                  "score": -2,
+                  "body": "You must be doing high level software and not the X86 emulators for ARM...",
+                  "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg59glm/",
+                  "created": 1722609180,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lg5ed1t",
+                      "score": 1,
+                      "body": "If you use Unreal Engine the game will compile to any platform.\n\nNone does it because it simply doesn't make sense because of machine vs phone spec difference.",
+                      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg5ed1t/",
+                      "created": 1722610759,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lg5evht",
+                          "score": -1,
+                          "body": "So I was right then... You'd think it's this simple. Check the list of applications currently not supported on ARM laptops and think why.",
+                          "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg5evht/",
+                          "created": 1722610937,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lg5p6li",
+                              "score": 1,
+                              "body": "Because it doesnt make sense to produce a game for both phone and pc. Controllers, memory, graphics are too different. The compilation is just a choice at the end lol. The CPU instruction set is irrelevant.",
+                              "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg5p6li/",
+                              "created": 1722614231,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lg4xcnd",
+          "score": -23,
+          "body": "you can easily via Geforce Now. Gaming on silent, cold M2 macbook air + big monitor on Ultra setting is next level stuff",
+          "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4xcnd/",
+          "created": 1722604974,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lg4xzvx",
+              "score": 33,
+              "body": "He said he was a gamer, not a youth pastor trying to relate to the younger generation.  ",
+              "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4xzvx/",
+              "created": 1722605212,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lg4yr1n",
+                  "score": -17,
+                  "body": "you gatekeeping on being a gamer or what? \nyou need to touch grass.",
+                  "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4yr1n/",
+                  "created": 1722605486,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lg57wo4",
+                      "score": 8,
+                      "body": "Bruh, you said gaming on Mac. How'd you think you weren't going to be clowned for that??",
+                      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg57wo4/",
+                      "created": 1722608666,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lg5ksnb",
+                          "score": 1,
+                          "body": "I've thought this for ages until I recently picked up an M3 MBP. Decided to throw steam on it and see what games from my library are even compatible, and it honestly runs surprisingly well. \n\nBiggest issue rn is just getting devs to go through the trouble of making the games compatible",
+                          "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg5ksnb/",
+                          "created": 1722612844,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lg5cnwp",
+                      "score": 3,
+                      "body": "“You need to touch grass” 🤓👆🏻",
+                      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg5cnwp/",
+                      "created": 1722610217,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lg4u7bq",
+      "score": 10,
+      "body": "I’ve been hearing about the death of intel for 30+ years.  While I don’t think much of their business, I don’t think that intel is going to die on us.  Windows on arm is not a great product yet, it still has a long ways to go.  Just acting like intel will die is a bad idea.  \n\nFrom an intel going away standpoint, there is too much hardware and software that only runs on x86 and intel.  From a stock holder standpoint, I wouldn’t be investing in intel either.  Intel has definitely screwed the pooch with this massive recall that they are facing.",
+      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4u7bq/",
+      "created": 1722603789,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lg5l6bw",
+          "score": 3,
+          "body": "There might be something to it now. Intel is apparently selling CPUs that kill themselves after a while and Qualcomm X is doing really well in benchmarks. Also Intel stock isn't exactly painting a rosy picture right now.",
+          "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg5l6bw/",
+          "created": 1722612966,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lg5n92d",
+              "score": 2,
+              "body": "Intel is down 28% as I type this.  Bet Pat is sh*ting bricks right now.  I wouldn’t invest in them.\n\nThe world runs on x86 desktops and servers along with mainframes, as400s, some Linux/unix systems.  X86 isn’t going away.  Amd is probably a better option right now on the technical side.\n\nIntel’s problem is that they were an engineering company, just like Boeing.  Now they are run by accountants, and it shows.  It takes years to clear these types of messes up.",
+              "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg5n92d/",
+              "created": 1722613625,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lg66lq8",
+                  "score": 3,
+                  "body": "The world already runs on ARM processors as well. Server market share is about 10% and growing rapidly, most of that is from Amazon AWS. They have their own ARM CPU (graviton) and the instances are very energy efficient. This also means they are cheaper.",
+                  "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg66lq8/",
+                  "created": 1722619729,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lg73cr5",
+                      "score": 1,
+                      "body": "Absolutely.  ARM processors are really good in mobile and we'd be fools to think that mobile isn't a part of the world.  I haven't deployed anything to an ARM server.  I don't have an arm desktop for development, but I don't need on at this time either beyond my mac m.  Apple has a lot of experience in software translation and the fact that they have a relatively closed world makes it easier for them.  Windows on ARM is still a bit off, but I'd guess it would move forward at some point.  Msft made a big effort to improve running x86 apps on ARM systems.\n\nIntel is still paying for moving from an engineering company to one run by accountants.  I have no sympathy for them.  I was just saying this to another investor friend of mine that I ran into at dinner last night.",
+                      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg73cr5/",
+                      "created": 1722630233,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lg8cyxm",
+                  "score": 2,
+                  "body": "Pat is a shitty ceo. He ran VMware to the ground and now same results with intel.",
+                  "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg8cyxm/",
+                  "created": 1722646880,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lg8d23h",
+                      "score": 1,
+                      "body": "PS: I worked for vmw when Pat was the ceo.",
+                      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg8d23h/",
+                      "created": 1722646915,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lg9a4c5",
+                      "score": 1,
+                      "body": "I can’t speak to his quality as a ceo or his past track record.  I only hold out hope that as an engineer he might be able to right the ship at intel.  Or should the baton be passed to amd or Qualcomm?  I don’t know on any of this.",
+                      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg9a4c5/",
+                      "created": 1722661982,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lg65hjv",
+                  "score": 1,
+                  "body": "> Bet Pat is sh*ting bricks right now. I wouldn’t invest in them.\n\n> Intel’s problem is that they were an engineering company, just like Boeing. Now they are run by accountants, and it shows. It takes years to clear these types of messes up.\n\npatty's an engineer",
+                  "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg65hjv/",
+                  "created": 1722619377,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lg75bmb",
+                      "score": 2,
+                      "body": "Yes, Pat Gelsinger comes from the engineering gene pool. :-) It takes years to undo the damage of  accountants running engineering companies.  Chips are hard and capital intensive, you have to have an engineering focus but you also have to have some accounting skills.  I think the new ARM chips from Qualcomm might be formidable for them.  They have lost a lot of folks due to the current chips problems they are having.",
+                      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg75bmb/",
+                      "created": 1722630879,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lg8b2ss",
+                          "score": 0,
+                          "body": ">It takes years\n\n...he's been there for years.\n\n> I think the new ARM chips from Qualcomm might be formidable for them. \n\nlolz.  really?!  THAT'S your hot take?  you think those pieces of shit are formidable, and not epyc/ryzen, that's been clobbering the shit out of them?",
+                          "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg8b2ss/",
+                          "created": 1722646126,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lg561mp",
+      "score": 6,
+      "body": "Even if x86 is dead that doesnt mean ARM wins, or that intel loses. \n\nArm vs x86 has nothing to do with AI, they both suck at it as it stands which keeps Jensen in shiny Jackets.\n\nThere's also nothing stopping Intel from developing their own RISC chips or pushing risc-v. Or doing this while moving x-86 to a legacy platform and still making money supporting it for 50+ years as it slowly dies, like IBM. \n\nIf ARM wins yeah you are right intel could license it and just be a foundry, or do more and be like Qualcomm.\nOr we can remain with the current mix of ARM slanted moble market and x86 on desktop and server. \n\nIf risc-v wins ARM could be worth nothing at all. \n\nIntel loses because that is the nature of the Intel, not because of x-86.",
+      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg561mp/",
+      "created": 1722608037,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lg55qcu",
+      "score": 12,
+      "body": "I daily a ARM Windows laptop for nearly a year now. My desktop runs an AMD CPU. I don't have any modern Intel products as I think they are shit. I am an Intel investor. \n\nSome ARM processors might be better than some x86 processors, but its a misunderstanding that you can't achieve the efficiency of ARM processors with x86. Modern CPUs all run microcode, so the architecture is pretty much irrelevant, the performance and efficiency depends on the design of the chip and the manufacturing process.\n\nApple Silicon is great because they allow very big dies and the most modern manufacturing techniques, which results in expensive and very good chips. Every chip manufacturer has its own go at those decisions.\n\nAI is overhyped. \n\nThe PC architecture (that includes the use of x86 processord) will NOT die. Take a look at the number of attempts that have been made, including from intel! I'm writing those lines from an ARM device, that is - for me - a lot more attractive than any PC notebook can be. But it doesn't replace the consistancy the PC platform has offered, and which is oftentimes critical for the applications PCs are used in. Be realistic.\n\nIntel splitted up in 2 parts now: chip design and manufacturing. Both are shit at the moment. All 12th, 13th and 14th gen products are inefficient as hell and pretty much defective. Meteor Lake is most obviously a stop-gap. But they heard the call and the next design (manufactured by TSMC) looks very promising. Manufacturing will take a little bit longer to recover, but the investments have been made, they do have all the best stuff coming up again.\n\nThose were my objective arguments, now to the stuff I don't understand and probably will never: Investors\n\nIntel itself has big challenges at the moment. Their recent chips are essentially dying. They are trying to lie themselves out of the issues, but a complete recall of not only desktop chips, but (at least the more powerful) notebook chips is very possible. I can imagine this takes a dent into the stock again in the coming months, this is when I will buy more stock.",
+      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg55qcu/",
+      "created": 1722607930,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lg55qdv",
+          "score": 1,
+          "body": "Holy shit. It's Chad Dickens.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",
+          "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg55qdv/",
+          "created": 1722607931,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lg4gagj",
+      "score": 10,
+      "body": "Qualcomm is beating earnings YoY consistently. With Edge AI, IoT for automotive, and releasing 5G chips for sub $100 phones to compete with Mediatek I think they’re going to see huge growth. \n\nAt 22X PE ratio, they’re a bargain right now.",
+      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4gagj/",
+      "created": 1722597709,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lg4sz9l",
+      "score": 3,
+      "body": "People here think about the densiest chips like high-end CPUs and memories, but forget that there are way more other components that must be built on larger node process: transceivers, power supply devices, PHYs, modems, level shifters, smaller microcontrollers that go into appliances, cars, etc. A lot of things have electronics inside today.\n\nCompanies like TXN, INTC, NXPI won't go anywhere soon.",
+      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4sz9l/",
+      "created": 1722603313,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lg5iubt",
+      "score": 2,
+      "body": "arm is barely profitable, nvidia is the way",
+      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg5iubt/",
+      "created": 1722612221,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lg5ovv5",
+      "score": 2,
+      "body": "Intel needs to lay off the useless overpaid middle and upper management entirely and offer better pay and above competitive working conditions for the people designing and building their chips.\n\nMiddle and upper management is the cause for Intel being shit, at this point it's nothing but a massive tumor that needs to be removed completely.\n\nIf Intel wants to save face, it better gets it's shit together and start producing good hardware at competitive prices instead of reheating decade old garbage.\n\nYes I'm a bag holder and I'm beyond disappointed in the shit they've pulled in over a decade.",
+      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg5ovv5/",
+      "created": 1722614136,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgiam12",
+      "score": 2,
+      "body": "Holy fucking Intel bears everywhere. Time to buy",
+      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lgiam12/",
+      "created": 1722804554,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lg4q6rc",
+      "score": 5,
+      "body": "Arm could be replaced by something like riscv.",
+      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4q6rc/",
+      "created": 1722602197,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lg5dc7u",
+          "score": 0,
+          "body": "They’re different architectures for completely  different use cases.",
+          "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg5dc7u/",
+          "created": 1722610433,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lg5dkb1",
+              "score": 0,
+              "body": "Not really. What makes ARM better for AI than riscv ? Except the supply chain already in place.",
+              "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg5dkb1/",
+              "created": 1722610504,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lg5dutb",
+                  "score": 0,
+                  "body": "I’m not talking about AI, just the architecture in general. What are your thoughts on the core ISA of RISCV vs ARM?",
+                  "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg5dutb/",
+                  "created": 1722610598,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lk59aw1",
+                      "score": 1,
+                      "body": "The question is too broad. However to make my point just as you see now lots of smartphones, laptops and servers using ARM the same devices can be built using riscv. https://www.tomshardware.com/tablets/rsic-v-cpu-arrives-on-a-tablet-starting-at-dollar149-dc-roma-risc-v-pad-ii-features-an-octa-core-cpu-and-up-to-16gb-ram-and-128gb-emmc-storage",
+                      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lk59aw1/",
+                      "created": 1724748044,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lk5xn7v",
+                          "score": 1,
+                          "body": "The question is not too broad. I purposely worded it that way. \n\nI’m familiar with that chip. Take a look at the Geekbench results and tell me if they compete with ARM chips.",
+                          "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lk5xn7v/",
+                          "created": 1724761500,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lk5y3wt",
+                              "score": 1,
+                              "body": "You could have said the same thing about ARM few years ago…take a look at that benchmark and tell me how ARM can compete with Intel in the server/desktop/laptop market…and here we are",
+                              "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lk5y3wt/",
+                              "created": 1724761696,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lk5zbr7",
+                                  "score": 1,
+                                  "body": "I hope you’re right",
+                                  "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lk5zbr7/",
+                                  "created": 1724762203,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "lk7o421",
+                                      "score": 1,
+                                      "body": "See also https://box86.org/2024/08/box64-and-risc-v-in-2024/\nI think RiscV’s future is bright but also depends by ARM’s greed and/or laziness. ARM would not be so popular today if Intel wouldn’t have botched several generations of CPU and made several bad bets(i.e ignored the mobile market)",
+                                      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lk7o421/",
+                                      "created": 1724782392,
+                                      "depth": 8,
+                                      "replies": []
+                                    },
+                                    {
+                                      "id": "ll4jbqx",
+                                      "score": 1,
+                                      "body": "Also https://pypy.org/posts/2024/08/pypy-v7317-release.html",
+                                      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/ll4jbqx/",
+                                      "created": 1725272735,
+                                      "depth": 8,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lg4l0vx",
+      "score": 2,
+      "body": "The only way Intel becomes a viable stock  in the next decade is if a war breaks out on taiwan and the chip factories there shut down. But let's hope we never get to that point.",
+      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4l0vx/",
+      "created": 1722599971,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lg4u6uj",
+          "score": -4,
+          "body": "We will definitely get to that point. China is fully aware of their demographic situation and the 30-50 year advantage they will have in manufacturing, population, and tech. It remains to be seen how it will shake out, but the question is when, not if.",
+          "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4u6uj/",
+          "created": 1722603783,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lg5hjuf",
+              "score": 9,
+              "body": "China invading Taiwan would be the economic equivalent to the nuclear apocalypse. For every country around the world. Even discussing it with any semblance of seriousness is stupid.",
+              "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg5hjuf/",
+              "created": 1722611814,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lg4qk8k",
+      "score": 3,
+      "body": "I’m an old fart and Intel is still king in my mind as they were kinda it back in the 90s.. put 35k and lost 15 already 😗😗",
+      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4qk8k/",
+      "created": 1722602351,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lg4v2zv",
+      "score": 3,
+      "body": "Snapdragon isn’t that underwhelming from a hardware perspective. Raw benchmark-wise, it competes with an M2 and sometimes an M3. What it really comes down to in the end is how much MS wants to support Windows for ARM. Their translation layer is nowhere near as good as Rosetta at launch so there really needs to be improvement there. I think history can also teach us that just because Apple does something doesn’t mean Microsoft will also successfully do something. Look at the iPod versus the zune. The iPhone versus windows mobile. I personally do think ARM is the future but it’s far from guaranteed and needs Microsoft to actually want it",
+      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4v2zv/",
+      "created": 1722604124,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lg4uosu",
+      "score": 4,
+      "body": "$ARM makes 147M in operating income mate.\nTouch some grass ffs.",
+      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4uosu/",
+      "created": 1722603974,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lg494st",
+      "score": 2,
+      "body": "as soon as intel reaches process close to TMSC, China is getting green light from CIA/pentagon/US administration for invasion, mark my words, that will bring Intel to lead place in manufacturing and things will look a lot different",
+      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg494st/",
+      "created": 1722593690,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lg4axa3",
+          "score": 17,
+          "body": "Problem is, Intel has been playing catch up for a decade at this point, and we've heard little more than promises all the time.\n\nIf their failed 10nm node disaster taught me anything is that I don't trust anymore Intel having the necessary leadership, focus and mentality to fight on fabs anymore.",
+          "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4axa3/",
+          "created": 1722594776,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lg5dkdh",
+              "score": 3,
+              "body": "Intel took a pass on the last machine from asml that has given tsmc the advantage in chip manufacturing. This time around, they are the first adopter of the next round of innovation from asml. \n\nThis has the \"potential\" to bring in a ton of business for Intel as they would be the first ones to be able to manufacture at scale with that tech. Tsmc would then be the one playing catch up. The new machines are not limited to Intel processors, and Intel, IIRC, already has contracts lined up to manufacture some arm based chips on it.\n\nI'm bullish long on Intel, but nothing will turn around for them until this new equipment from asml has the bugs worked out, is fully operational and is manufacturing at or near its capacity.",
+              "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg5dkdh/",
+              "created": 1722610505,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lg4bn81",
+              "score": 1,
+              "body": "i agree but it will be higher ups that will decide",
+              "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4bn81/",
+              "created": 1722595204,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lg4ckrx",
+          "score": 6,
+          "body": "That would be amongst the stupidest decisions we’ve made in foreign policy in decades. Yes, worse than the stuff two years ago. Most of our leaders recognize the value of pax America and won’t put all our eggs in one basket.",
+          "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4ckrx/",
+          "created": 1722595730,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lg4cqn9",
+              "score": -5,
+              "body": "well I agree that it would be stupid but it is what it is, its interest of small number of individuals/corporations that will decide, not nirmal folks...",
+              "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4cqn9/",
+              "created": 1722595820,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lg4deww",
+                  "score": 3,
+                  "body": "Let presume you are correct, a small handful decide. You think they have no foreign stock? No companies with massive assets in other nations? Our actions since ww2 are why such trade is possible, you’re suggesting they shoot themselves.",
+                  "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4deww/",
+                  "created": 1722596196,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lg4e8rt",
+                      "score": -3,
+                      "body": "oh i wouldnt call it small, its most of big corporations, and dont worry about their assets they will manage that ;)\nActions after WW2 are exact why I am saying that, it was always the interest of big companies and military&industrial complex, also politicians.\nNow dont get me wrong I hope it will be peaceful as it can be but you do remember that Taiwan was once China in UN.... and bum overnight China is rightful bearer of that name, and people dont even consider Taiwan as a nation to discuss about.\nI would remind you also about that video interview during Covid pandemic whan WHO representative didnt want to say Taiwan 🤣🤣🤣 and then did... \"I cant hear you\"/hang up trick from movies 🤣🤣🤣\n\n\nIt is inevitable that China and Taiwan will unite it is just a matter of time, China plays a long game, but some US interests could make it shoter",
+                      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4e8rt/",
+                      "created": 1722596650,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lg4hpi5",
+          "score": 1,
+          "body": "Tsmc is currently building a chip factory in the US. Intel does not need to succeed.",
+          "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4hpi5/",
+          "created": 1722598415,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lg4i488",
+              "score": -2,
+              "body": "yes and as im aware its going rather slow, it will be one more tumbs up for invasion, and one fab will just mitigate production downfall in Taiwan",
+              "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4i488/",
+              "created": 1722598613,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lg4z1sl",
+      "score": 1,
+      "body": "What's wrong with a TSMC gameplan? It's done quite well for them.",
+      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4z1sl/",
+      "created": 1722605594,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lg5c22o",
+      "score": 1,
+      "body": "It was over when Intel declined jobs and and started rising.  That’s why the stock never moved",
+      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg5c22o/",
+      "created": 1722610023,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lg5tucz",
+      "score": 1,
+      "body": "Do you really think it’s that easy to make chips on the cutting edge process node? Like, just buy some expensive EUV lith machines from ASML, plug them in, and spit out chips in no time? \n\nAnd what happens as we approach the limits of EUV? What will Intel do then?",
+      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg5tucz/",
+      "created": 1722615724,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lg5z7bc",
+      "score": 1,
+      "body": "Lmao",
+      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg5z7bc/",
+      "created": 1722617409,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lg6v7u2",
+      "score": 1,
+      "body": "Buying more ARM... it's the king of cpu's and will be big time in GPU for mobiles soon... and will be eating the market for laptops and desktops from Intel and amd... also once market picks up it will be back to $160 to $170 within days...",
+      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg6v7u2/",
+      "created": 1722627594,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lg4abri",
+      "score": 0,
+      "body": "hey, regard - there's this company called amd and their CPUs are x86.\n\nthey're also best in class in datacenter and they shit all over the recent qualcomm windows on arm disasters.",
+      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4abri/",
+      "created": 1722594417,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lg4b0ra",
+          "score": -1,
+          "body": "Where is the disaster?\n\nBetter performance than Intel's best laptop processor with a battery life better than a macbook air m3?\n\nThis review is from 3 days ago.\n\n[Dell XPS 13 (9345) review: Same great looks, now with Snapdragon X Elite | Tom's Hardware (tomshardware.com)](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/dell-xps-13-9345-review)\n\nAlso, ARM has been taking market share in servers for a long time with Amazon on progress to have 25% of their data centers ARM powered by next year, and that's the biggest cloud vendor on planet.\n\nYou think Apple, Amazon, Microsoft, etc, are moving away from x86 just for the lulz?",
+          "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4b0ra/",
+          "created": 1722594834,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lg4srsf",
+              "score": 1,
+              "body": "> Where is the disaster?\n\ngee, i dunno... people want laptops that can actually run the programs/games they need, for starters.  then there's the price tag.  then there's the performance, even when it does run, often having to emulate x86 and taking a hit to perf.\n\nthey're hyped up chromebooks.\n\nand yes - even when cheaping out with arm, graviton gets rekt by epyc.  \n\nffs, if x86 is dead, why is amd unable to meet demand?",
+              "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4srsf/",
+              "created": 1722603232,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lg4njm9",
+      "score": 1,
+      "body": "I hope the future will be Risk V and not arm based at least.",
+      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4njm9/",
+      "created": 1722601089,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lg5e1x6",
+      "score": 2,
+      "body": "1. ARM is a 30some year old company. They are already in almost everything. There is little growth left. \n2. To elaborate on the previous sentence, ARM has been terrible at negotiating their deals (deals in which they have no competitors, by the way) and thus get literal pennies for every device produced using their intellectual property. \n3. RISC-V is essentially an open source version of ARMs architecture that will be ready in 5-10 years. Apple has already started to threaten ARM that they could make the switch when their contract ends. Others will follow suit, especially if ARM tries to up their pricing (which is one of the only ways they can make more money).",
+      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg5e1x6/",
+      "created": 1722610660,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lg4p4wz",
+      "score": 1,
+      "body": "What about Nvidia?",
+      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4p4wz/",
+      "created": 1722601764,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lg519g2",
+      "score": 1,
+      "body": "Fuck intel and fuck me for buying it",
+      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg519g2/",
+      "created": 1722606388,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lg4ab5z",
+      "score": -5,
+      "body": "Have you actually seen the Snapdragon X Elite? It is rather disappointing. ARM isn't inherently better than x86, Apple is just cracked.\n\nIn the smartphone market Mediatek has also been catching up to Qualcomm in the last few years.",
+      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4ab5z/",
+      "created": 1722594406,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lg4hmjx",
+      "score": 0,
+      "body": "I ain't reading allat but I agree",
+      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4hmjx/",
+      "created": 1722598374,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lg4l7lq",
+      "score": 1,
+      "body": "Don't forget about POET and Luxshare:\n\n[POET Technologies (TSXV:PTK)](https://stockhouse.com/companies/quote/v.ptk/poet-technologies-inc) and Luxshare Technology will develop more optical module products to improve the speed and fidelity of artificial intelligence (AI) networks and services.\n\n[https://stockhouse.com/news/the-market-online-news/2024/08/01/poet-and-luxshare-expand-artificial-intelligence-offering](https://stockhouse.com/news/the-market-online-news/2024/08/01/poet-and-luxshare-expand-artificial-intelligence-offering)",
+      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4l7lq/",
+      "created": 1722600055,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lg4p6ir",
+      "score": 0,
+      "body": "When a company that makes phones makes a better processor than you (And that's your primary business), it's time to fix your shit. Or in INTC's case, time for more bonuses/dividends!\n\nPuts on INTC",
+      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4p6ir/",
+      "created": 1722601783,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lg4fgah",
+      "score": -4,
+      "body": "[deleted]",
+      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4fgah/",
+      "created": 1722597282,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lg4i683",
+      "score": -3,
+      "body": "Lol.\nIntel will fail as foundry maker \nBest to keep designing chips and have TSMC produce them.",
+      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4i683/",
+      "created": 1722598642,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lg4m58a",
+      "score": -3,
+      "body": "conveniently omitting AMD",
+      "permalink": "/r/wallstreetbets/comments/1ei66yn/arm_and_qualcomm_could_be_trilliondollar/lg4m58a/",
+      "created": 1722600473,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

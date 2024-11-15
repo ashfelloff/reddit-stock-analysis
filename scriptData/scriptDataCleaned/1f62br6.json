@@ -1,0 +1,205 @@
+{
+  "title": "Some Historical Data Analysis on the S&P 500",
+  "score": 33,
+  "selftext": "I'm just sharing some shit I calculated about the S&P 500, which I'll just call the SP 500.\n\nWhen you look at the yearly returns on the index since 1928 everything seems pretty normal. You can find 20+ percent returns on the SP 500, even really early (e.g. 1933, 1943, 1958, 1980 etc.) When calculating the moving average of these returns I got 7.97%. When looking at averages from a date to today we find these values:\n\n|1928|7.97%|\n|:-|:-|\n|1950|9.41%|\n|1980|10.48%|\n|2000|7.13%|\n|2009|12.99%|\n|2020|13.27%|\n\nIt seems as if the average yearly return is growing. The outlier of 2000-2024 is caused by the massive dot com losses without the bubble's growth.\n\nBut I wanted to get the growth in real terms. Side note here if we look at this in a physics perspective, we can look at the SP 500 as a position of something, say a point. Every year it moves, this can be up or down and measured as points or percentage. This growth can be seen as velocity (change in position per time period). The table above is the average velocity of the SP 500.\n\nBut the yearly change of the SP 500 is not constant. There will be stretches of good years and bad gay bear years. The change of growth could be called acceleration as in physics that is the name for change of velocity. That is what the above table somewhat shows. There has been change in the the growth SP500. In the linked excel document (will be in bottom in TLDR) I calculated the change of a moving average from one year to the next. And I found the moving average of that; which is constantly decreasing since the more data added to the moving average the less each data point affects it. But we can see general ideas.\n\nThe average return of the SP500 grows by 8 basis points (0.08%) every year. At this point I'm kinda confused by WTF I'm doing or even calculating. I calculated some more shit but I'm not sure what it means or even is.\n\nBut from what I can see, the index has been growing fast every year. So while some people who say that the SP is growing too fast just because they looked at the normal chart that is just because of how exponential growth works. But there is data to suggest the growth rate is increasing in the SP 500.\n\nGoogle Drive Link to xlsx file: [https://docs.google.com/spreadsheets/d/1aY28Z5syAMYXnq1K\\_qP3CRZVify2zKQs/edit?usp=sharing&ouid=113853431990622128066&rtpof=true&sd=true](https://docs.google.com/spreadsheets/d/1aY28Z5syAMYXnq1K_qP3CRZVify2zKQs/edit?usp=sharing&ouid=113853431990622128066&rtpof=true&sd=true)\n\nTLDR: The S&P 500 is growing faster and faster every year. Buy calls",
+  "link_flair_text": "DD",
+  "id": "1f62br6",
+  "num_comments": 23,
+  "created_utc": 1725152276,
+  "permalink": "/r/wallstreetbets/comments/1f62br6/some_historical_data_analysis_on_the_sp_500/",
+  "comments": [
+    {
+      "id": "lkx4ca9",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 4 | **First Seen In WSB** | 3 years ago\n**Total Comments** | 67 | **Previous Best DD** | \n**Account Age** | 4 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1f62br6/some_historical_data_analysis_on_the_sp_500/lkx4ca9/",
+      "created": 1725152282,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkx67h0",
+      "score": 59,
+      "body": "Waiting for comments to tell me how to react to this. ",
+      "permalink": "/r/wallstreetbets/comments/1f62br6/some_historical_data_analysis_on_the_sp_500/lkx67h0/",
+      "created": 1725153039,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lkxehyl",
+          "score": 28,
+          "body": "Bullshit. Inflation, debt, war, %",
+          "permalink": "/r/wallstreetbets/comments/1f62br6/some_historical_data_analysis_on_the_sp_500/lkxehyl/",
+          "created": 1725156482,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lkxkpif",
+              "score": 1,
+              "body": "That about sums it up.",
+              "permalink": "/r/wallstreetbets/comments/1f62br6/some_historical_data_analysis_on_the_sp_500/lkxkpif/",
+              "created": 1725159032,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lkxlrex",
+      "score": 15,
+      "body": "That's what it looks like when you're looking back down from a peak, if you ran these numbers with 2007 or 1999 as the end point, they'd look very similar, but with 2001 or 2009 as the endpoint (after both earnings and valuations had given up a couple years worth of gains) they'd look very different.  I don't know if it'll be 2025 or 2030, but I bet there'll be a year when it'll look like the overall growth trend is decelerating, and I'll be buying whatever I can on my unemployment check",
+      "permalink": "/r/wallstreetbets/comments/1f62br6/some_historical_data_analysis_on_the_sp_500/lkxlrex/",
+      "created": 1725159476,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lkxw2xh",
+          "score": 1,
+          "body": "My unemployment checks ran out 1 1/2 years ago.",
+          "permalink": "/r/wallstreetbets/comments/1f62br6/some_historical_data_analysis_on_the_sp_500/lkxw2xh/",
+          "created": 1725164201,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lkybifs",
+      "score": 14,
+      "body": "Sorry but it's sampling error. Data starting at 1928 includes the great depression. That weighs down the data for years following. If you don't go back that far you will see higher averages. Basically, depressions are rare events and there isn't a recent one in the dataset. You are taking averages on data which has severe and rare events in it. Therefore where you choose to sample will determine how representative it is. If you started your data from when the s&p was recovering in the '30's you'd see a very different trend.",
+      "permalink": "/r/wallstreetbets/comments/1f62br6/some_historical_data_analysis_on_the_sp_500/lkybifs/",
+      "created": 1725173019,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkxkbhe",
+      "score": 4,
+      "body": "Priced in",
+      "permalink": "/r/wallstreetbets/comments/1f62br6/some_historical_data_analysis_on_the_sp_500/lkxkbhe/",
+      "created": 1725158870,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lky857g",
+      "score": 2,
+      "body": "So… puts? 9/6?",
+      "permalink": "/r/wallstreetbets/comments/1f62br6/some_historical_data_analysis_on_the_sp_500/lky857g/",
+      "created": 1725170902,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ll2v4v4",
+      "score": 2,
+      "body": "Congrats. You’ve discovered inflation is getting worse and worse over the years.",
+      "permalink": "/r/wallstreetbets/comments/1f62br6/some_historical_data_analysis_on_the_sp_500/ll2v4v4/",
+      "created": 1725239925,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ll54hke",
+      "score": 1,
+      "body": "historical data on just one variable... returns are not enough to define anything.\n\nnow think about returns + S&P 500 valuation + equity risk premium\n\nsomething like this has only happened once in history. Prob a 3 - Sigma scenario.\n\nSo you cannot extrapolate returns from the past in this case.",
+      "permalink": "/r/wallstreetbets/comments/1f62br6/some_historical_data_analysis_on_the_sp_500/ll54hke/",
+      "created": 1725283147,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmd5xlj",
+      "score": 1,
+      "body": "Don’t quit your day job",
+      "permalink": "/r/wallstreetbets/comments/1f62br6/some_historical_data_analysis_on_the_sp_500/lmd5xlj/",
+      "created": 1725928492,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkxoikt",
+      "score": 0,
+      "body": "Need to keep in mind that it’s designed to grow. The 500 companies get reshuffled every year and only the strongest get on the index.",
+      "permalink": "/r/wallstreetbets/comments/1f62br6/some_historical_data_analysis_on_the_sp_500/lkxoikt/",
+      "created": 1725160660,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ll0q5o3",
+          "score": 1,
+          "body": "Damn ! Seriously ?! This whole time I thought it was designed to lose money !",
+          "permalink": "/r/wallstreetbets/comments/1f62br6/some_historical_data_analysis_on_the_sp_500/ll0q5o3/",
+          "created": 1725212306,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lkx7tm3",
+      "score": 1,
+      "body": "US national debt grows even faster. Calls are very logical",
+      "permalink": "/r/wallstreetbets/comments/1f62br6/some_historical_data_analysis_on_the_sp_500/lkx7tm3/",
+      "created": 1725153709,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkxlce9",
+      "score": 1,
+      "body": "Sir, this is Wendy's",
+      "permalink": "/r/wallstreetbets/comments/1f62br6/some_historical_data_analysis_on_the_sp_500/lkxlce9/",
+      "created": 1725159298,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkxdk0u",
+      "score": 1,
+      "body": "When accounting for inflation, since after WWII, S&P 500 grew on average ~7% per year, having max 2 - 2.5 years zero growth stretches. Everything else is extraneous.",
+      "permalink": "/r/wallstreetbets/comments/1f62br6/some_historical_data_analysis_on_the_sp_500/lkxdk0u/",
+      "created": 1725156094,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkxnlwo",
+      "score": 1,
+      "body": "Taxes have a huge part to play in the overall growth of the S&P 500, along with regulatory policy change (stock buybacks for example). If you expect corporate tax rates, and tax rates for the wealthy to continue on the downward trend that they have been on, of course buy calls.",
+      "permalink": "/r/wallstreetbets/comments/1f62br6/some_historical_data_analysis_on_the_sp_500/lkxnlwo/",
+      "created": 1725160262,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkxdruc",
+      "score": -1,
+      "body": "Guess: As larger companies become larger and larger, this number will keep increasing. We will get megacorporations and either grandkids of Jensen or Bill Gates will win the Monopoly: Real World Edition.\n\nP.S. Props to you that took time to get those numbers out. This just proves that capitalism once more that the current system leads to consolidation.",
+      "permalink": "/r/wallstreetbets/comments/1f62br6/some_historical_data_analysis_on_the_sp_500/lkxdruc/",
+      "created": 1725156183,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ll0ison",
+      "score": -2,
+      "body": "Well most of these idiots vote D and they think they are doing the right thing. \n\nTake a good look",
+      "permalink": "/r/wallstreetbets/comments/1f62br6/some_historical_data_analysis_on_the_sp_500/ll0ison/",
+      "created": 1725209902,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkxftka",
+      "score": -1,
+      "body": "Physics? this guy must work at renaissance.",
+      "permalink": "/r/wallstreetbets/comments/1f62br6/some_historical_data_analysis_on_the_sp_500/lkxftka/",
+      "created": 1725157032,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

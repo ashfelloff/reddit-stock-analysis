@@ -1,0 +1,1135 @@
+{
+  "title": "Can Gitlab (GTLB) be a serious contender to Github (MSFT)?",
+  "score": 74,
+  "selftext": "Couple reasons why I think Gitlab >> Github, and their earnings report is gonna go well:\n\n* gitlab-ci is ahead of it's time, makes devops so much easier to test and deploy pipelines, which are the lifeblood of most tech companies, basically when either gitlab or github is down most developers touch grass\n* When it comes to AI you gotta host your models and ML infrastructure somewhere, I think as more companies (chatGPTs) build code for AI, this code needs to get deployed, these deployments require CI/CD cycles which see point above\n* last quarter they became cash flow positive, expecting this to continue upwards along with better guidance\n* Just this month Google tripled their ownership from 7% to 22% so I imagine their compute costs are competitive to Github, meaning Gitlab will be able to scale up free tier operations to continue to capture new business. Where Gitlab might be at a disadvantage is storage, since I'm pretty sure Azure has the cheapest storage options around right now.\n\n&#x200B;\n\nhttps://preview.redd.it/5989lla7k24d1.png?width=1554&format=png&auto=webp&s=4017e45ed52f5a39c1ff50ba3876396fb1833513",
+  "link_flair_text": "Discussion",
+  "id": "1d637qf",
+  "num_comments": 118,
+  "created_utc": 1717295364,
+  "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/",
+  "comments": [
+    {
+      "id": "l6pplw5",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 4 | **First Seen In WSB** | 2 weeks ago\n**Total Comments** | 15 | **Previous Best DD** | \n**Account Age** | 3 weeks | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6pplw5/",
+      "created": 1717295369,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6px1gz",
+      "score": 268,
+      "body": "Nope. GitLab is nice and I hope they keep growing.. but GitHub includes free CI/CD, free unlimited storage, and unlimited users for public repositories... which means it'll remain the primary platform for open source work. And as long as that holds, GitLab will always be 2nd.",
+      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6px1gz/",
+      "created": 1717298900,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6uoj0p",
+          "score": 8,
+          "body": "The difference really lies in the security and data of your platform. Microsoft has a lot of reasons to take a loss on GitHub if it helps train their AI endeavors, allows them insight into startup ideas, and for control of the ecosystem to update to their other products. It's a trap that a lot of people fall into because \"other people are doing it\". In reality gitlab is a much better platform for technical people that understand devops. Also, what the fuck is a pull request?!? Just call it what it is... A merge request.",
+          "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6uoj0p/",
+          "created": 1717379591,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l6q2waz",
+          "score": 57,
+          "body": "Being 2nd doesn't mean they won't make $$$ and stock won't go up.",
+          "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6q2waz/",
+          "created": 1717301907,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6s3p10",
+              "score": 50,
+              "body": "[deleted]",
+              "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6s3p10/",
+              "created": 1717343403,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6s7c0j",
+                  "score": 6,
+                  "body": "In which it probs wont",
+                  "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6s7c0j/",
+                  "created": 1717344775,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l6qfl3x",
+          "score": 36,
+          "body": "GitLab allows you to self-host on-prem. Any medium to large size company will want to own their Git servers and not host it on Github's servers. I can see them becoming the default in Enterprise.",
+          "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6qfl3x/",
+          "created": 1717309418,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6qgr10",
+              "score": 54,
+              "body": "GitHub Enterprise Server",
+              "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6qgr10/",
+              "created": 1717310218,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l6qhon3",
+              "score": 10,
+              "body": "Already has more than half the fortune 100:\n\nhttps://www.globenewswire.com/news-release/2024/05/13/2880863/0/en/GitLab-To-Announce-First-Quarter-Fiscal-2025-Financial-Results.html\n\nNvidia, Goldman Sachs, UBS, Barclays, T-Mobile, Airbus, Lockheed Martin, Siemens, etc",
+              "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6qhon3/",
+              "created": 1717310860,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6ryt8y",
+                  "score": 7,
+                  "body": "These same companies also use Github and AzureDevOps. Companies of this size have thousands of applications and lots of redundancies. I know, I work in one.",
+                  "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6ryt8y/",
+                  "created": 1717341534,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l6twt57",
+                      "score": 4,
+                      "body": "[deleted]",
+                      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6twt57/",
+                      "created": 1717367954,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l6udnz9",
+                          "score": 1,
+                          "body": "We use code commit as our backup for gitlab and our main repo for libraries and packages that gets pushed to our instances",
+                          "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6udnz9/",
+                          "created": 1717374987,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l6vdk4s",
+                              "score": 1,
+                              "body": "[deleted]",
+                              "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6vdk4s/",
+                              "created": 1717392099,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l6vgn09",
+                                  "score": 1,
+                                  "body": "Gitlab repo -> gets synced with gitlab -> puppet master grabs it from code commit -> pushes libraries and packages to host instances by puppetfile. We are a AWS shop so it makes sense",
+                                  "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6vgn09/",
+                                  "created": 1717394017,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "l6vh8br",
+                                      "score": 2,
+                                      "body": "[deleted]",
+                                      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6vh8br/",
+                                      "created": 1717394398,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "l6vldcp",
+                                          "score": 1,
+                                          "body": "For server configuration while terraform for infrastructure  plus we don't need mult region for code commit if puppet does that for us",
+                                          "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6vldcp/",
+                                          "created": 1717397170,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "l6qkvpu",
+              "score": 12,
+              "body": "GitHub let you host on-perm too. Just pay for the enterprise license",
+              "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6qkvpu/",
+              "created": 1717313135,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l6rjw4w",
+              "score": 11,
+              "body": "Not a single big company I’ve worked for or with used Gitlab. So no, not all of them want to self host. Also, Github has self-host too anyway.",
+              "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6rjw4w/",
+              "created": 1717335460,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6rxs73",
+                  "score": 12,
+                  "body": "Weird all the big companies I worked for used/use Gitlab.",
+                  "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6rxs73/",
+                  "created": 1717341134,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l6rzlg1",
+                  "score": 7,
+                  "body": "My experience has been the opposite. I've only worked at large enterprise and all of them use GitLab.",
+                  "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6rzlg1/",
+                  "created": 1717341835,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l6tw2yw",
+                  "score": 3,
+                  "body": "tell me you aren't fortune 500 without telling me bruh.",
+                  "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6tw2yw/",
+                  "created": 1717367662,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l6wwnkq",
+                      "score": 1,
+                      "body": "There are a lot of non-American companies on this planet",
+                      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6wwnkq/",
+                      "created": 1717424221,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l758mrk",
+                          "score": 1,
+                          "body": "I mean sure, but the Fortune 500 produces ~10% of the World GDP per year. If you work in another country, national laws are a lot more important than  individual company policy.",
+                          "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l758mrk/",
+                          "created": 1717545690,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "l6rbiud",
+              "score": 0,
+              "body": "That all takes ops work and sysadmin salary is expensive.",
+              "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6rbiud/",
+              "created": 1717331460,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6rh35u",
+                  "score": 6,
+                  "body": "Wtf are you doing with AI and MLbusiness model and not having a sysadmin? Just all cloud no brakes? Lol",
+                  "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6rh35u/",
+                  "created": 1717334190,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l6rzgb4",
+                  "score": 2,
+                  "body": "Enterprise would rather pay that premium to own their code.",
+                  "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6rzgb4/",
+                  "created": 1717341780,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l6r5cor",
+          "score": 4,
+          "body": "Open source you say? Tell me more about this lucrative  business model.",
+          "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6r5cor/",
+          "created": 1717327957,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l6qxfn1",
+          "score": 2,
+          "body": "If you aren't paying, it's because you're the product",
+          "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6qxfn1/",
+          "created": 1717322519,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l6q47jj",
+          "score": 1,
+          "body": "[deleted]",
+          "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6q47jj/",
+          "created": 1717302580,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6q5ld1",
+              "score": 1,
+              "body": "[deleted]",
+              "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6q5ld1/",
+              "created": 1717303328,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l6s1dto",
+          "score": 1,
+          "body": "How long till it gets enshitified like google’s “free unlimited” bullshit?",
+          "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6s1dto/",
+          "created": 1717342525,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l6rzkt9",
+          "score": -1,
+          "body": "[deleted]",
+          "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6rzkt9/",
+          "created": 1717341828,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6tr738",
+              "score": 2,
+              "body": "Would you mind sharing features that makes GitHub so much better ? What do you feel is missing on Gitlab ? Im genuinely curious ",
+              "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6tr738/",
+              "created": 1717365678,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l6sjqmg",
+          "score": 0,
+          "body": "Copilot and copilot chat even though it’s an add on is best in class.",
+          "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6sjqmg/",
+          "created": 1717349415,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6pxpg4",
+      "score": 64,
+      "body": "I wish you were right, because this idiot sandwich bought $GTLB thinking it was GitHub 😭.",
+      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6pxpg4/",
+      "created": 1717299226,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6qei4f",
+          "score": 23,
+          "body": "I'd hold man. Honestly I love gitlab. I've boost rapped a few startups and I always pitch for gitlab over github. I've been wheeling gitlab for years now",
+          "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6qei4f/",
+          "created": 1717308692,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6rk18d",
+              "score": 18,
+              "body": "Man your rhymes must be fire 🔥",
+              "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6rk18d/",
+              "created": 1717335522,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l6teu7a",
+              "score": 3,
+              "body": "> boost rapped\n\nMy sides 🤣🤣",
+              "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6teu7a/",
+              "created": 1717360913,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l6xzpiz",
+          "score": 3,
+          "body": "I could see an AI play here.  Google (or Meta) could buy Gitlab to train AI.  Similar to what Microsoft did with Github to create Co-pilot.  \n\nDevelopers get paid a premium and the more of that opex that can be replaced by AI the better.\n\n(Spare me the emotional downvotes, I'm a software developer; but what I say is factual).",
+          "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6xzpiz/",
+          "created": 1717437568,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l6x7qka",
+          "score": 1,
+          "body": "You thought GitHub had its own ticker?",
+          "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6x7qka/",
+          "created": 1717428135,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l761jwz",
+          "score": 1,
+          "body": "You're not the only one.",
+          "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l761jwz/",
+          "created": 1717557979,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l7638gs",
+              "score": 1,
+              "body": "😂💀",
+              "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l7638gs/",
+              "created": 1717558788,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l6tl8mj",
+      "score": 13,
+      "body": "I work as a consultant in one of the big tech companies, and what I see (I often implement a lot of these systems net-new for customers):\n\n- GitHub is better for forking as a first class citizen. It’s great for big wide orgs that don’t need a lot of organization of their projects, or project management tooling. Their calling card is *accessibility* over feature richness: great APIs, centralized SSO, big flat open organization page UX, public and free storage options. GitHub on its own is extremely anemic when it comes to kanban/scrum “project” tooling- which is where Atlassian has the primary advantage with Jira. It’s common to see Jira bolted onto other VCS solutions to fill the gap. GitHub also has a paid-only onprem solution. The FOSS analogous option is Gitea, which is tiny in comparison to everything else. GitHub wins with CI/CD simplicity with its @modular system which lets people curate libraries of CI functions and share/reuse them. Highly pluggable, more accessibility. They have free package repos built in. Their releases API is best in class. \n\n- Gitlab is free as fuck. As in, nearly its entire featureset works OOTB without slip-and-sliding people into buying anything at all. CI just works. Single board Kanban is there. Private orgs just work. Runners work. Releases are all there. It has a more than sufficient toolset for kanban/scrum tooling, issue management, builds, k8s integration, whole 9. Running it on-premise though is archaic. It’s still designed like a fat monolith with 12 different services composing the stack. It still does not have a good k8s implementation for running on k8s clusters, and people opt to just run the single monolithic pod or VM (native packages) version instead. I think over half of the fortune 100 use it for on prem because it’s TRULY free, whereas GitHub’s onprem option is paid only, same with bitbucket. It’s THE ONLY real on-prem free option with full features batteries included. The SaaS platform (Gitlab.com) is not anywhere near as popular as GitHub because it’s really a tool more designed for private use, and as such it’s not as UX-focused to be a big “public portal” for projects. I don’t event think that’s gitlab’s goal.\n\n- Bitbucket sucks on its own. It’s minimal in featureset because Atlassian sells their *suite* of tools in bundles, and it’s intended to be sold alongside Bamboo, Jira, and Confluence to be feature-complete. \n\nEvery one of these primary options has their own market strategy and niche it’s trying to hit. I’d argue Gitlab is king of on prem, GitHub is king of SaaS, and bitbucket is king of economy of scale (institutional adopters).\n\nWhere Gitlab is “failing” is pushing their primary business model of CALs+Support:\n\n1. SO MUCH of the product featureset is free, most consumers can avoid paying for it at all. \n\n2. WHEN YOU DO need support, their support sucks major donkey dick because they’re frankly understaffed/underskilled to solve some of those more complex issues (when they seldom occur). They don’t have as large of a support engineering foundation as say, Red Hat, and many of the engineers that built Gitlab came from there, and never took the time to capture/outline their strategy for running a services based revenue generating part of the business- a case of too much engineering not enough business sense.\n\n3. Their upsell to paid enterprise edition (EE vs CE) is nonexistent. I have never seen them try to push us or anyone else to turn on EE-only features, and they’re just *not that compelling* to do so. Their marketing and sales strategy is just milk-toast. You can install EE, and run it in free mode which is the same as just having CE.\n\nFrom what I’ve seen, most consumers just use one or two features of Gitlab that they really need, which is just proper on-premise isolation of proprietary code and content. There is so little incentive to base an entire company’s operations on JUST Gitlab that the sales exposure and opportunity there is slim unless GTLB decided to grow a pair and more aggressively upsell people to EE. \n\nThis is my experience and opinion, and I’m a $350k/yr TCO engineer in the space.\n\nWe ourselves use multiple Gitlab EE (free mode) instances on-prem, just for internal stuff that houses sensitive data and our skeletons in the closet, but majority of our real world product development occurs on both GitHub.com and Gitlab.com SaaS because we’re a FOSS leader.",
+      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6tl8mj/",
+      "created": 1717363340,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6udcoa",
+          "score": 2,
+          "body": "Great breakdown thanks",
+          "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6udcoa/",
+          "created": 1717374856,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l6tl8nz",
+          "score": 1,
+          "body": "Holy shit. It's Chad Dickens.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",
+          "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6tl8nz/",
+          "created": 1717363341,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6pzrr3",
+      "score": 32,
+      "body": "Don’t take advice from people whose primary interaction is via open source. Enterprise is what makes the money. Talk to someone who’s moved from GitHub to gitlab or vice versa",
+      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6pzrr3/",
+      "created": 1717300265,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6qgbhj",
+          "score": 11,
+          "body": "+1 for moving from Github to Gitlab. Yes we do pay for the product.",
+          "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6qgbhj/",
+          "created": 1717309922,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6qxrh6",
+              "score": 15,
+              "body": "[deleted]",
+              "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6qxrh6/",
+              "created": 1717322764,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6re9jz",
+                  "score": 8,
+                  "body": "Microsoft lobbies really hard for Github and Github copilot. Their pitch to upper management was that copilot could replace half the developers.",
+                  "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6re9jz/",
+                  "created": 1717332846,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l6pt15z",
+      "score": 34,
+      "body": "I don't know. \n\nI feel like every large company that uses github already has a separate CI systems. I don't see major companies deciding to just swap their repo over to gitlab to use their CI tools. \n\nEverything google touches turns to shit, so I'm going to put an equal and opposite PUT on your call.",
+      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6pt15z/",
+      "created": 1717296953,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6qi0dw",
+          "score": 5,
+          "body": "Well gitlab is definitely better than githubactions for ci cd yeah, also better than bitbucket",
+          "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6qi0dw/",
+          "created": 1717311086,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6r1u3d",
+              "score": 7,
+              "body": "Bitbucket is hot garbage... Or at least the way it's configured at my current employer.",
+              "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6r1u3d/",
+              "created": 1717325696,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l6tmhsh",
+              "score": 2,
+              "body": "I actually think GHA and GitlabCI are feature parity with each other now, and I was an early GCI advocate. \n\nGHA is a lot better with modular @ functionality to source other user’s CI workflows in your own pipeline defs. GCI you can do this as well, but it’s not as nice UX wise.\n\nThis leads to huge QoL differences like being able to get  the OOTB Jekyll GitHub.io driven project webpages off the ground ASAP, because now the CI structures are inbuilt and layerable.",
+              "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6tmhsh/",
+              "created": 1717363830,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l6r5rdj",
+          "score": 2,
+          "body": "Are these other systems here in this thread with us? I’d heavily discount any ci that rhythms with yenkins or named after a shape",
+          "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6r5rdj/",
+          "created": 1717328203,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6rldd4",
+              "score": 1,
+              "body": "Drone! which rhymes with cone... we all know your talking about circle ci but nobody has used that for half a decade.",
+              "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6rldd4/",
+              "created": 1717336111,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l6qliv4",
+      "score": 25,
+      "body": "For what it’s worth, I’m a software engineer at a tech company and we’re moving off of Gitlab onto GitHub. It’s just more convenient",
+      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6qliv4/",
+      "created": 1717313606,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6u9ytp",
+          "score": 1,
+          "body": "How so?",
+          "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6u9ytp/",
+          "created": 1717373449,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6udseo",
+              "score": 1,
+              "body": "Price probably",
+              "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6udseo/",
+              "created": 1717375037,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6vo6uc",
+                  "score": 1,
+                  "body": "Convenience is orthogonal to price",
+                  "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6vo6uc/",
+                  "created": 1717399169,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l6pscud",
+      "score": 19,
+      "body": "Thanks for the confirmation on the puts I’m buying Monday!",
+      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6pscud/",
+      "created": 1717296640,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6qdbxt",
+      "score": 6,
+      "body": "but do they have AI?",
+      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6qdbxt/",
+      "created": 1717307924,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6qi1oh",
+          "score": 1,
+          "body": "Google codey for code\n\nAnthropic Claude 3 (released 2 months ago) for chat",
+          "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6qi1oh/",
+          "created": 1717311111,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6pwidv",
+      "score": 4,
+      "body": "I am calling this put! You see what i did there?",
+      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6pwidv/",
+      "created": 1717298633,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6px17m",
+          "score": 4,
+          "body": "Its .04 cent earning if lucky but that cannot move a needle we are looking for on upside. Plus downside needed moves much bigger and faster so PUTS?!",
+          "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6px17m/",
+          "created": 1717298896,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6prg4t",
+      "score": 25,
+      "body": "I've been linked to more GitLab repos than GitHub recently.\nJust a measurement from a random person on the Internet.",
+      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6prg4t/",
+      "created": 1717296226,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6qn4x9",
+          "score": 26,
+          "body": "I have been in software development for a decade now and never once seen or been linked to a gitlab repo. Maybe it is a geographical thing (i am uk based) or industry (mobile development)",
+          "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6qn4x9/",
+          "created": 1717314790,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6rk6q0",
+              "score": 2,
+              "body": "It's a more recent thing I've noticed, US based.",
+              "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6rk6q0/",
+              "created": 1717335589,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l6r5mez",
+              "score": 2,
+              "body": "But how many mercurial repos have you been linked to?",
+              "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6r5mez/",
+              "created": 1717328121,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l6qbgqj",
+      "score": 6,
+      "body": "Micro$oft is heavily pushing GitHub, along with Teams and Copilot. We are moving from BitBucket to GitHub probably because of Copilot. \"Copilot integration built right in\" whatever that means.",
+      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6qbgqj/",
+      "created": 1717306755,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6r6hkl",
+          "score": 5,
+          "body": "> Copilot integration built right in\n\nAlso known as a free tech debt generator. Guaranteed future work for all SWE.",
+          "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6r6hkl/",
+          "created": 1717328633,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6pwiwb",
+      "score": 3,
+      "body": "Puts it is!",
+      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6pwiwb/",
+      "created": 1717298640,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6q9hjp",
+      "score": 7,
+      "body": "I have such incredible disdain for gitlab",
+      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6q9hjp/",
+      "created": 1717305565,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6r0ohb",
+          "score": 3,
+          "body": "Same. When I briefly had to use it, I was like \"wtf is this crap?!\" They were just implementing features that were standard in Jenkins 5 years prior.",
+          "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6r0ohb/",
+          "created": 1717324899,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6q49lj",
+      "score": 7,
+      "body": "SWE here, gitlab ci is not that much better than GitHub action nowadays. \n\nThey WERE ahead of their time when it got released but whenever gitlab is ahead feature wise, GitHub is sure to follow.\n\nThe thing they still get right on the ci side is the ability to build your own ci server for gitlab or even use your own machine if you really want to. That's not half bad when it comes to privacy, security etc...\n\n---\n\nSidenote\n\n- bunch of people still use Jenkins (Big players like netflix) so I don't think gitlab will eat up market share because of the ci server AT ALL. \n\n- the real bleeding edge tech for CI is dagger.io and I would bet my left nut that if they manage to take off it's gonna take over the world",
+      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6q49lj/",
+      "created": 1717302610,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6q54f0",
+          "score": 4,
+          "body": "If you are going to go all caps on a word, at least make sure that you are using the correct spelling of it…. WERE.",
+          "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6q54f0/",
+          "created": 1717303069,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6q770e",
+              "score": 1,
+              "body": "Sorry just woke up. Will fix that up",
+              "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6q770e/",
+              "created": 1717304245,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l6qnp0a",
+          "score": 2,
+          "body": "I think we can all agree they are both better than bitbucket too :P",
+          "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6qnp0a/",
+          "created": 1717315193,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6t7k6s",
+              "score": 3,
+              "body": "Atlassian in general is a plague",
+              "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6t7k6s/",
+              "created": 1717358201,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l6r66tu",
+          "score": 1,
+          "body": "Yeah dagger is legit, been following them for a while. They will get bought out by someone other than MSFT for $$$$$. Gitlab’s edge I think is the ability to run your pipeline locally. GHA hasn’t figured that out, and it’s frustrating as heck to have to keep pushing changes to test your ci, especially if it impacts a protected or prod branch.",
+          "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6r66tu/",
+          "created": 1717328460,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6t80nu",
+              "score": 1,
+              "body": "Gitlab runner is the whatever compute solution you are talking about.\n\nGHA is avoiding self portable ci on purpose... Because msft",
+              "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6t80nu/",
+              "created": 1717358375,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l6tww6j",
+          "score": 1,
+          "body": "100% on dagger. You can forecast the entire market by looking up what people are writing in go, because the most talented backend engineers naturally gravitate towards go on balance.",
+          "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6tww6j/",
+          "created": 1717367988,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6vxb94",
+              "score": 1,
+              "body": "This was true to some extent but as Go gets more popular you'll start having too much noise to get a clear signal.\n\n  \nI would personally avoid linking programing languages and \"Ze Market\" because a language is only a tool. You can write useless crap in Zig and Rust and build cathedrals in PHP.  \n  \nAlso historically it's been really profitable to build stuff using, Python, JS and PHP, which are not \"hard core engineering\" languages.\n\n  \nDagger is amazing because it solves:  \n- a problem (CI as Code rather than YAML nightmare)   \n- while killing a somewhat \"dark\" pattern (vendor lock-in because gitlab yaml is not compatible with GHA yaml which itslef is not compatible with Jenkins etc....)   \n- using an elegant and super standard solution (docker).  \n- all this with a focus on high performance and extensibility (open source tools, nice SDKs etc...).\n\nGo is just a nice fit but it could all be writen in Zig and be just as good.",
+              "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6vxb94/",
+              "created": 1717406062,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l75apd6",
+                  "score": 1,
+                  "body": "It COULD be written in zig, but talented engineers aren’t going to write “cloud native” software in a language that requires manual memory handling, among other things. They’ll gravitate towards the right tool for the job. \n\nIf you only invested in IPO’s that used backend stuff written in go, you would have outperformed FANG by a significant margin. This is because it was the best language to quickly create solutions for scaling problems, which is indicative of growth. \n\nAnd yes, you could write your entire stack in mindfuck, or php or w/e, but the companies hiring the best talent won’t make decisions like that, because they’ll use the best tools for the job.",
+                  "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l75apd6/",
+                  "created": 1717546531,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l6quu5z",
+      "score": 2,
+      "body": "No, but that doesn't mean the stock won't randomly go up 20% for no reason.",
+      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6quu5z/",
+      "created": 1717320554,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6ue26q",
+          "score": 1,
+          "body": "Earnings they will like 2 earnings ago",
+          "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6ue26q/",
+          "created": 1717375149,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6reu1z",
+      "score": 2,
+      "body": "Fortune500 company I work for uses GitHub.",
+      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6reu1z/",
+      "created": 1717333121,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6rqyiu",
+      "score": 2,
+      "body": "GitLab is literally what Linux is to GitHub\n\nFWIW, the USG prefers GitLab due to self hosted and isolation options",
+      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6rqyiu/",
+      "created": 1717338441,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6s44dq",
+      "score": 2,
+      "body": "Grabbing puts",
+      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6s44dq/",
+      "created": 1717343564,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6qh5zn",
+      "score": 4,
+      "body": "No, GitHub is way better, also gitlab pricing is too high.",
+      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6qh5zn/",
+      "created": 1717310503,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6qhezh",
+      "score": 4,
+      "body": "Software Developer here.\n\nI have used both. Gitlab used to be (and still is) sort of a standard in IT world. However, GitHub offers some nice features for free, while Gitlab is very expensive if organisation grows.\n\nBoth of them are good CI/CD tools. However, I would say Gitlab is better. If you can afford it, that is.",
+      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6qhezh/",
+      "created": 1717310677,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6qhkbl",
+      "score": 2,
+      "body": "Github provides free unlimited storage. Unlimited collaborates and free private repos. It almost acts like an artifact management system in a lot of cases and has become ubiquitous in the open source world and libraries. Most libraries are open source.\n\nI think Github is way ahead with their copilot as well. Every company that uses Github is buying copilot.",
+      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6qhkbl/",
+      "created": 1717310776,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6s1mej",
+      "score": 3,
+      "body": "If I can recall correctly, gitlab had a problem with their servers a few years ago, an all the code from their customers was lost, the backups and the backups of the backups didn’t worked… and for some reason they were able to get back up because an engineer had a backup of everything in one of his disks. \n\nSo, yeah, I would not put my money there.",
+      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6s1mej/",
+      "created": 1717342617,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6svhzp",
+          "score": 1,
+          "body": "Interesting story from 2017 but not exactly… looks like they lost 6 hours of data because of some malicious activity + a mistake\n\nhttps://medium.com/@kanani-nirav/gitlab-dev-deletes-entire-production-database-719756f4a2cep",
+          "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6svhzp/",
+          "created": 1717353721,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6q1n4r",
+      "score": 4,
+      "body": "GTLB is garbage",
+      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6q1n4r/",
+      "created": 1717301245,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6qi6m1",
+      "score": 2,
+      "body": "As an engineer I thought they were the same thing.",
+      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6qi6m1/",
+      "created": 1717311207,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6r0adz",
+      "score": 2,
+      "body": "Investors don't care about how good their CI CD is.",
+      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6r0adz/",
+      "created": 1717324621,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6r6n3q",
+          "score": 3,
+          "body": "Sorry that was I typo I mean their AI CD\n\nThere fixed it for investors.",
+          "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6r6n3q/",
+          "created": 1717328726,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6qimkh",
+      "score": 2,
+      "body": "ever heard of jenkins？",
+      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6qimkh/",
+      "created": 1717311521,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6ro5v6",
+          "score": 2,
+          "body": "Groovy man",
+          "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6ro5v6/",
+          "created": 1717337300,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6qlul8",
+      "score": 1,
+      "body": "GitLab was a serious contender until 2022. Then it started losing out because GitHub Copilot. \n\nGitLab doesn’t have a credible answer to Copilot.",
+      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6qlul8/",
+      "created": 1717313848,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6y1bi5",
+          "score": 2,
+          "body": "But it does have the data that could be used to train AI to create a copilot equivalent.  I could see gitlab as an acquisition / buyout target.",
+          "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6y1bi5/",
+          "created": 1717438110,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6y5pt1",
+              "score": 2,
+              "body": "More so is Google going to buy GitLab as a distribution channel for a code specific variant of Gemini. Google recently upped its ownership to like 20%.",
+              "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6y5pt1/",
+              "created": 1717439578,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l6r37we",
+      "score": 1,
+      "body": "Gitlab is always the go-to for peeps upset about MS actions regarding GitHub, so no, it's never going to be a serious contender.",
+      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6r37we/",
+      "created": 1717326621,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6r4acf",
+      "score": 1,
+      "body": "No. Almost all companies I worked for either already use or have used GitLab before. Often I've seen them move away to some M$ product. I see no growth potential.",
+      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6r4acf/",
+      "created": 1717327297,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6rb5cj",
+      "score": 1,
+      "body": "GitREKT!",
+      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6rb5cj/",
+      "created": 1717331262,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6rqc40",
+      "score": 1,
+      "body": "SWE at a large enterprise here. We use neither, we use bitbucket (because Jira) and have a Jenkins running with a 1.5TB volume attached and about 40 worker nodes. Cloud platform is too busy to change this but if we do we’re more likely to containerize our Jenkins jobs than actually moving away from Jenkins",
+      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6rqc40/",
+      "created": 1717338190,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6s0i9d",
+          "score": 4,
+          "body": "damn, sending you thoughts and prayers.",
+          "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6s0i9d/",
+          "created": 1717342188,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l6y150v",
+          "score": 1,
+          "body": "You know it's 2024 right?",
+          "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6y150v/",
+          "created": 1717438049,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6ygy60",
+              "score": 2,
+              "body": "Bruh we are still using informix. Send help",
+              "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6ygy60/",
+              "created": 1717443293,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l6tczh1",
+      "score": 1,
+      "body": "Short answer: no\n\nLong answer: code repositories are sticky. People don’t like moving from one to another just cause of a few features.",
+      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6tczh1/",
+      "created": 1717360223,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6tgpj3",
+      "score": 1,
+      "body": "gitlab-ci is clunky AF",
+      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6tgpj3/",
+      "created": 1717361610,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm0qh5e",
+      "score": 1,
+      "body": "I think eventually all companies will move to Github since it's free from Microsoft. Companies will save money. Similar to Slack and Teams app.",
+      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/lm0qh5e/",
+      "created": 1725746299,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6pwgi3",
+      "score": 1,
+      "body": "I think this might be a good call.  I am not sure about options, but it might be worth holding a few shares.  \n\nMy questions are --  do they also work with AWS, and if so, does that make it less likely Google will aquire them?   Also, how do they doing against Atlatssian?",
+      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6pwgi3/",
+      "created": 1717298606,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6q549n",
+          "score": 3,
+          "body": "Any git/CI/CD product can be used together with AWS. AWS also has its own offerings for that, but they suck.",
+          "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6q549n/",
+          "created": 1717303067,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6q8jak",
+              "score": 1,
+              "body": "A side note. They suck because AWS offers them just because others do, it's not the money maker for Amazon, just like Cloudformation. \n\nThere are better tools",
+              "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6q8jak/",
+              "created": 1717305018,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l6rjr16",
+      "score": 1,
+      "body": "Gitlab has been around for over q decade, I’m yet to find someone that uses it over github. The only reason was that they offered team private projects, which way behind github’s paywall before Microsoft took over.\n\nNo one uses Gitlab. I’m guessing they have a niche market with direct contact with enterprise projects or something similar",
+      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6rjr16/",
+      "created": 1717335398,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6q9u9j",
+      "score": 1,
+      "body": "I can confirm our whole company just swapped to Gitlab, Tech software.",
+      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6q9u9j/",
+      "created": 1717305772,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6q54n5",
+      "score": 0,
+      "body": "As an occasional github user, I have to admit that I never even heard of gitlab...",
+      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6q54n5/",
+      "created": 1717303073,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6q43s9",
+      "score": -2,
+      "body": "Gitlab is a good product but GitHub has the enterprise market pretty handedly.",
+      "permalink": "/r/wallstreetbets/comments/1d637qf/can_gitlab_gtlb_be_a_serious_contender_to_github/l6q43s9/",
+      "created": 1717302525,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

@@ -1,0 +1,760 @@
+{
+  "title": "Limit Order after Hours in case NVIDIA misses earnings",
+  "score": 73,
+  "selftext": "I’ve been a long time holder of Nvidia but sold at $136 because I had a feeling it had reached peak until next earnings.\n\nI missed buying back in due to health issues, and now that I’m “back”, it’s risky to buy today - unless I set a limit after hours, correct?\n\n\nCan I set a limit sell order for after hours a few dollars under the price before earnings (like 4:45 pm). Wouldn’t that protect me from losses in case NVIDIA misses targets?\n\nEDIT:\nI bought shares for $117 after hours by listening to the call and waiting for a nice entry. \n",
+  "link_flair_text": "Advice Request",
+  "id": "1f36zrw",
+  "num_comments": 84,
+  "created_utc": 1724841850,
+  "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/",
+  "comments": [
+    {
+      "id": "lkbtyio",
+      "score": 73,
+      "body": "If the volatility is great enough, your order might not be executed in time.",
+      "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkbtyio/",
+      "created": 1724847033,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lkcsgdz",
+          "score": 26,
+          "body": "100% chance it won’t fill and he gets fucked",
+          "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkcsgdz/",
+          "created": 1724858861,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lkcssbx",
+              "score": 5,
+              "body": "My thoughts exactly.",
+              "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkcssbx/",
+              "created": 1724858961,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lkedx3h",
+              "score": 2,
+              "body": "gets fucked as in not getting the shares, right? Like if he sets a limit he shouldn't pay more for it, is there still some risk in there during high vol?",
+              "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkedx3h/",
+              "created": 1724879618,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lkcparo",
+          "score": 6,
+          "body": "Lol completely missing the point that OP wants to place a sell order below the actual price which will lead to an immediate execution of the order. So when you say “your order might not be executed in time” it makes zero sense because that order will get executed the second OP sends it.",
+          "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkcparo/",
+          "created": 1724857907,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lkcpmg6",
+              "score": -5,
+              "body": "Not if the volatility results in his price being skipped but alright. I guess you know better (lol)",
+              "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkcpmg6/",
+              "created": 1724858006,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lkcrko0",
+                  "score": -2,
+                  "body": "OP is placing the order BEFORE earnings per his post. Not sure what volatility you expect before the actual earnings release... It’s not that “I know better” it’s just common sense. \n\nPlease explain to us what would happen NVDA is trading at $130 before earnings and OP places an order to sell the stock at $125 5 mins before the earnings release. I get what you are saying about volatility and it is true, but that is once the earnings are out. OP is specifically asking about placing an order before earnings which will lead to an instant execution of his trade. What OP is describing is a stop loss which doesn’t work after hours.",
+                  "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkcrko0/",
+                  "created": 1724858598,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lkcrql5",
+                      "score": -1,
+                      "body": "The order is set for after hours - don’t you read the comment?",
+                      "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkcrql5/",
+                      "created": 1724858646,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lkcsc7d",
+                          "score": 6,
+                          "body": "Placing a sell order for $125 when the stock is trading at $130 will lead to an instant execution even after hours… you either have no clue or you don’t understand what OP is asking.",
+                          "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkcsc7d/",
+                          "created": 1724858825,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lkcsm21",
+                              "score": -3,
+                              "body": "Okay, buddy. Let’s just leave it at that. I have no interest in arguing with a know-it-all, who literally cannot read a post correctly. He has not specified a price, so his price can easily be skipped due to volatility. Have a great day.",
+                              "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkcsm21/",
+                              "created": 1724858908,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lkctmud",
+                                  "score": 8,
+                                  "body": "Basically there are two features at play here:\n\n1.)  Stop loss -  a limit where if the stock drops far enough, you sell at this price.  Not available after hours.\n\n2.). Sell limit order - a limit where if the stock is above this price, you will sell at market price.  Available after hours.\n\nIf you set a sell limit order after hours and the stock is above the sell limit, it will execute at the current price.  If you set a sell limit above the current price, it will execute only when it’s above the limit price.\n\nThey can set a stop loss for market hours, but it won’t execute if the stock drops after hours.",
+                                  "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkctmud/",
+                                  "created": 1724859217,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "lkcz9iv",
+                                      "score": 1,
+                                      "body": "I thought OP meant stop loss, and that they just messed up the terms.\n\nBut yeah, it does seem they won't be executed. \n\nAlthough in theory someone could write a script to do their own stop loss after hours, right.\n\n\nSo you have a script polling if a price gets below 125, and then put an order to sell at bid price.",
+                                      "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkcz9iv/",
+                                      "created": 1724860925,
+                                      "depth": 8,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lkc20xm",
+      "score": 42,
+      "body": "Your limit order won’t work since stop orders don’t work after hours. Lets say NVDA closes at $130 today and you place a limit order for $125, as soon as you send that order it will get executed since the shares are trading at a higher price than the one you are comfortable selling at. The only thing that would protect from your order being executed early at a lower price would be a stop limit order but stop orders don’t work after hours.",
+      "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkc20xm/",
+      "created": 1724850212,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lkdgxrs",
+          "score": 6,
+          "body": "\"certain brokers\" allow after hours trading so I assume it would there.",
+          "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkdgxrs/",
+          "created": 1724866409,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lkek6di",
+              "score": 2,
+              "body": "They don’t work after hours",
+              "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkek6di/",
+              "created": 1724881703,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lkcl2si",
+          "score": 1,
+          "body": "Yep said the same and get downvoted lol",
+          "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkcl2si/",
+          "created": 1724856611,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lkcng68",
+          "score": -6,
+          "body": "What about a buy limit order a few bucks above the closing price. So instead of buying now, I buy if the price increases.",
+          "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkcng68/",
+          "created": 1724857339,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lkd1ejw",
+              "score": 4,
+              "body": "Bro just sit this one out. So much risk for little reward. Wait till next week",
+              "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkd1ejw/",
+              "created": 1724861600,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lkd4goa",
+                  "score": 3,
+                  "body": "Yeah, thats what I've decided to do.",
+                  "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkd4goa/",
+                  "created": 1724862547,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lkcpixt",
+              "score": 2,
+              "body": "No",
+              "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkcpixt/",
+              "created": 1724857977,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lkbjz4e",
+      "score": 32,
+      "body": "Nothing wrong with selling at $136 if you made a good profit. If it were me, I’d wait to buy the inevitable dip that’s coming in the next couple of weeks. Buying today might see a temporary $10-$15 per share increase, but I’m betting the farm it will be short lived and you’ll be able to buy back in around the $12X.00 range. If so, then nothing lost by you waiting.",
+      "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkbjz4e/",
+      "created": 1724842350,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lkbkjyg",
+          "score": 28,
+          "body": "Yeah I made a nice $300k profit, though I lost $100k when SOXL dropped.",
+          "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkbkjyg/",
+          "created": 1724842650,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lkbkrbr",
+              "score": 9,
+              "body": "That’s awesome. Congratulations on that! Great win.",
+              "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkbkrbr/",
+              "created": 1724842758,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lkblr2u",
+                  "score": 4,
+                  "body": "Thanks, fellow trader :)",
+                  "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkblr2u/",
+                  "created": 1724843264,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lkbvb34",
+          "score": 2,
+          "body": "Yes it can be the other way",
+          "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkbvb34/",
+          "created": 1724847595,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lkbpvf5",
+          "score": 1,
+          "body": "[deleted]",
+          "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkbpvf5/",
+          "created": 1724845251,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lkbpy5s",
+              "score": 1,
+              "body": "I will be messaging you in 14 days on [**2024-09-11 11:40:51 UTC**](http://www.wolframalpha.com/input/?i=2024-09-11%2011:40:51%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkbpvf5/?context=3)\n\n[**CLICK THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Fstocks%2Fcomments%2F1f36zrw%2Flimit_order_after_hours_in_case_nvidia_misses%2Flkbpvf5%2F%5D%0A%0ARemindMe%21%202024-09-11%2011%3A40%3A51%20UTC) to send a PM to also be reminded and to reduce spam.\n\n^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%201f36zrw)\n\n*****\n\n|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|\n|-|-|-|-|",
+              "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkbpy5s/",
+              "created": 1724845286,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lkdqfye",
+          "score": 1,
+          "body": "Why do you think it’ll drop? Don’t think they’ll make earnings?",
+          "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkdqfye/",
+          "created": 1724869339,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lmleqpu",
+          "score": 1,
+          "body": "You were way off just so you know",
+          "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lmleqpu/",
+          "created": 1726057793,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lkbmhvb",
+      "score": 15,
+      "body": "lol. They ain’t missing. Just getting started.",
+      "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkbmhvb/",
+      "created": 1724843636,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lkc4amu",
+          "score": 7,
+          "body": "I also doubt that they miss but that doesn't mean that the market will shoot them up. We will see how to plays out.",
+          "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkc4amu/",
+          "created": 1724851045,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lkd076o",
+              "score": 1,
+              "body": "Very true.",
+              "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkd076o/",
+              "created": 1724861220,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lkdom84",
+          "score": 3,
+          "body": "They don't have to miss for the stock to drop. They just have to beat earnings by less than expected or deliver less than stellar guidance\n\nedit: Yup, I was right. Revenue and earnings were both well ahead of analyst estimates, stock is still down a bit.\n\nIf Nvidia ever misses earnings, the stock will tumble.",
+          "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkdom84/",
+          "created": 1724868778,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lkcgpmb",
+          "score": 1,
+          "body": "I don’t follow $NVDA, but isn’t expected that they’re going to lower rest-of-year guidance and finger point at macro-economic conditions in Q1 2025, while expected strong performance in 2025 as a whole? Any mention of lowered guidance and this thing is dropping in my opinion? Regardless of how strong Q2 2024 earnings were.\n\nIf this is indeed the case, the amount of comments in tonight’s thread that say “beats earnings but still drops what the f**k” will just evidence how people don’t understand how earnings calls impact price movement.",
+          "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkcgpmb/",
+          "created": 1724855247,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lkbmxc9",
+          "score": -8,
+          "body": "Bubble talk",
+          "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkbmxc9/",
+          "created": 1724843847,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lkbnunt",
+              "score": 9,
+              "body": "If its a bubble, its made of liquid titanium and cannot be popped.",
+              "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkbnunt/",
+              "created": 1724844294,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lkc62ds",
+                  "score": 3,
+                  "body": "What about that famous old ship called The Titaniumic",
+                  "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkc62ds/",
+                  "created": 1724851685,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lkc7bt4",
+                      "score": 5,
+                      "body": "The Titaniumic had no AI technology to power anti-iceberg-collision.",
+                      "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkc7bt4/",
+                      "created": 1724852135,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lkhjogf",
+                  "score": 1,
+                  "body": "Hahahaha truly deserve being called regard for that claim",
+                  "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkhjogf/",
+                  "created": 1724931684,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lkbnqdq",
+              "score": 3,
+              "body": "Industrial Revolution talk.",
+              "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkbnqdq/",
+              "created": 1724844238,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lkc7a63",
+      "score": 4,
+      "body": "Limit order is limit. It might move too quick for you to be able to sell your entire lot. For example, your sell limit is $125, NVDA drops like a rock to $120… boom, your limit order had prevented you from selling it and you’re stuck with it.\n\nStop is probably what you’re looking for… price reaches your limit, then order turns to market and your lot is sold along the way down, no matter how quick the move is.\n\nFinally, just make sure to set your order to work in after hours and good till cancelled.",
+      "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkc7a63/",
+      "created": 1724852118,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lkdnaho",
+          "score": 1,
+          "body": "Stop doesn’t work after hours. But yes, that’s what I’m looking for.",
+          "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkdnaho/",
+          "created": 1724868365,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lkdrghy",
+              "score": 1,
+              "body": "Not sure what brokerage you use but IBKR does offer the following:\n\nAfter hours (up to 4 hours after close) - Stop orders are supported\n\nOvernight trading (8pm - 3:50am ET) - limit orders only\n\n\nConsidering 4:45pm target, stop orders should work in the ‘after hours session’ at least on IBKR.",
+              "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkdrghy/",
+              "created": 1724869650,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lkdxnd8",
+                  "score": 1,
+                  "body": "Looks like I need to switch to IBKR, if only for overnight trading. I don't trust Robinhood. How do you like it compared to ToS (if you've used)?",
+                  "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkdxnd8/",
+                  "created": 1724871548,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lke3p04",
+                      "score": 1,
+                      "body": "I quit ToS for IBKR and never looked back. Especially with TradingView for any charts I wanted.",
+                      "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lke3p04/",
+                      "created": 1724873588,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lkbjxhh",
+      "score": 5,
+      "body": "It won’t go through,\n\nYou can buy the stock and buy a put for protection though",
+      "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkbjxhh/",
+      "created": 1724842327,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lkbkblw",
+          "score": 1,
+          "body": "Do you mind elaborating why it wouldn’t it go through?",
+          "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkbkblw/",
+          "created": 1724842531,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lkcldru",
+              "score": 3,
+              "body": "The price can fall so fast that it can skip right through your stop loss. For your order to execute, there needs to be a buy order for your price. However, if the price falls so fast that few or no buy orders are executed at your price then your stop loss doesn’t go through.",
+              "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkcldru/",
+              "created": 1724856707,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lkbw4y5",
+              "score": 4,
+              "body": "You can trade shares aftermarket depending on the broker. Liquidity is thinner though. None of that nonsense of hurf durf BaNks out to get us like this idiot below thinks.  \nThe real reason why your idea might not be good cause the initial vol spike when the earnings report comes out can stop hunt you.  (for example it drops -2% then up 10%).  Its hard to gauge how wide your stop should be.",
+              "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkbw4y5/",
+              "created": 1724847931,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lkbkqyz",
+              "score": -8,
+              "body": "Let's just say, after hours give order priority to the big buys, having said that you can be lucky, but don't count on that, the banks are 100 steps ahead.\n\nIf you are worried buy a put indeed, it will help",
+              "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkbkqyz/",
+              "created": 1724842753,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lkblohl",
+                  "score": 2,
+                  "body": "Sorry, I don’t know shit about options. How would a put help and how do I do it for this strategy? I understand if you’re too busy for this.",
+                  "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkblohl/",
+                  "created": 1724843229,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lkbo5hh",
+                      "score": 3,
+                      "body": "A put is an option giving you the right to sell at a certain price. If you buy a put for current price, for the price of the option premium, you can sell your share at that price regardless of its new price. If market price is higher, you lose the premium, but if it’s lower you get to sell the share higher than market price.",
+                      "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkbo5hh/",
+                      "created": 1724844440,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lkbqunc",
+                      "score": 1,
+                      "body": "Stock is say 130, you buy the 130 strike put for 4 points which is $400 (expiring this Friday)\n\nSo you’re protected if it goes under 126 fully for your 100 shares \n\nIf stock goes above 134 the put is paid for and everything else on top is all gains so long as you have 100 shares\n\nEvery put or call is the option of 100 shares",
+                      "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkbqunc/",
+                      "created": 1724845693,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lkc5paf",
+      "score": 1,
+      "body": "I sold puts and used the premiums to buy slightly OTM calls.",
+      "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkc5paf/",
+      "created": 1724851555,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkci8iw",
+      "score": 1,
+      "body": "Suspect the earning results do not significantly impact the volatility.  Too many investors speculate they will deliver stellar results.",
+      "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkci8iw/",
+      "created": 1724855728,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkdgote",
+      "score": 1,
+      "body": "You made your decision already, and i think there is nothing wrong with it. Just to highlight, how difficult it may be to make the right decision when the numbers are going to be release. \nWith the release of the last earnings the first move was from 0% to -3%. It took a couple of seconds for Algos and investors to digest both the numbers and Nvidia's split-announcement, which eventually than was sending it up +4%. Resulting in a 7 % move within the first minute. Some might have panic sold in the first seconds. \n\nSo what ever ist going to happen, you have to be right with your interpretation of the report extremly fast but also be right with how you think the the market will reacts.",
+      "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkdgote/",
+      "created": 1724866332,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lke0zqr",
+      "score": 1,
+      "body": "lol can't do that.",
+      "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lke0zqr/",
+      "created": 1724872710,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lke8z21",
+      "score": 1,
+      "body": "I love opening Robinhood when I see my nvidia investment is up 103% from what I paid. I plan on holding long term but still worry I may miss out if I don’t buy another couple thousand dollars.",
+      "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lke8z21/",
+      "created": 1724875327,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkek1eg",
+      "score": 1,
+      "body": "Limit orders don’t execute after hours ?",
+      "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkek1eg/",
+      "created": 1724881658,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkks7qa",
+      "score": 1,
+      "body": "You did good OP!",
+      "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkks7qa/",
+      "created": 1724969198,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkbqljz",
+      "score": 1,
+      "body": "Stocks don’t care about your feelings",
+      "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkbqljz/",
+      "created": 1724845579,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lkczugt",
+          "score": 2,
+          "body": "Stocks don't care about your facts either.",
+          "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkczugt/",
+          "created": 1724861110,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lkczoc3",
+      "score": 1,
+      "body": "NVDA won’t be missing targets",
+      "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkczoc3/",
+      "created": 1724861054,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkbz4dg",
+      "score": -2,
+      "body": "Seems people who don’t even know how to place orders are now speculating in nvidia. Can’t be good sign for the stock, wallstreet is mostly undefeated in taking retails money. To answer your question you could place the sell limit after hours, assuming the stock is higher it would sell your shares at current stock bid. No you can’t trigger stop loss automatically. You shouldn’t be invested if you don’t know this.",
+      "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkbz4dg/",
+      "created": 1724849114,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lkc2s9k",
+          "score": -2,
+          "body": "Assuming much? If you would have taken the time to read the other replies in this thread, you’d see I’ve been invested since 2021 and made 300k off this stock. So no, I’m not “speculating”. I was a long term investor, sold at the top, and deciding whether it’s worth it to buy back in. I use these orders all the time, just never to protect against an earnings miss.",
+          "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkc2s9k/",
+          "created": 1724850494,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lkcasx2",
+              "score": 1,
+              "body": "Make sure you have enough to pay your tax bill and understand wash sales",
+              "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkcasx2/",
+              "created": 1724853327,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lkd6mm8",
+              "score": 1,
+              "body": "Why the downvotes?",
+              "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkd6mm8/",
+              "created": 1724863233,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lkcl0f6",
+      "score": 0,
+      "body": "Not sure why I’m being downvoted. Taken from your own post “can I set a limit sell order under the price after hours?” A limit sell order is just a sell order and there are no stop orders allowed in aftermarket. It would be a static order and trigger if price hit the limit. Google could tell this with AI overview…",
+      "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkcl0f6/",
+      "created": 1724856591,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkbrgp9",
+      "score": -3,
+      "body": "About a month after the last few earnings reports are where you'll see the most growth in stock price. Short-term plays can be profitable. However, until the bubble bursts, there is still great money to be made by investing in this stock for the long-haul.",
+      "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkbrgp9/",
+      "created": 1724845963,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkdoejl",
+      "score": 0,
+      "body": "No- hypothetically, if you set a limit sell order at $120 and it opens to $90 tomorrow, you will sell at $90.",
+      "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkdoejl/",
+      "created": 1724868711,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkbkpw2",
+      "score": -15,
+      "body": "Jensen selling stock like it's nobody's business, definitely a miss.",
+      "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkbkpw2/",
+      "created": 1724842738,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lkblkdl",
+          "score": 5,
+          "body": "He’s also doing an interview on Bloomberg post earnings. Why would he do that unless he knew they were going to smash expectations. I see that as a highly bullish sign.",
+          "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkblkdl/",
+          "created": 1724843171,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lkbnufv",
+              "score": 3,
+              "body": "He does the interview because he's expected to. What's the alternative? \"\n\nJensen refuses to face public after earnings result\".",
+              "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkbnufv/",
+              "created": 1724844291,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lkc0639",
+                  "score": 1,
+                  "body": "Could be announcing health issues and retirement…..\n\n/s",
+                  "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkc0639/",
+                  "created": 1724849514,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lkbu48y",
+              "score": 1,
+              "body": "Him giving an interview post earnings doesn’t say anything. It could just as easily be a way of pulling the media in a different direction if earnings aren’t stellar.",
+              "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkbu48y/",
+              "created": 1724847098,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lkblt5b",
+              "score": -7,
+              "body": "To recruit more bagholders maybe😂.",
+              "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkblt5b/",
+              "created": 1724843293,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lkbmru4",
+                  "score": 3,
+                  "body": "Nah. Real value. I’m converting my business to use AI workflows and I’m ready to drop 20k on workstation gpus once they release them. The demand for more VRAM gpu is through the roof. GPUs are literally workers.",
+                  "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkbmru4/",
+                  "created": 1724843773,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lkblqy7",
+          "score": 4,
+          "body": "If only things were actually this simple",
+          "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkblqy7/",
+          "created": 1724843262,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lkdgu08",
+          "score": 1,
+          "body": "you make WSB look smart",
+          "permalink": "/r/stocks/comments/1f36zrw/limit_order_after_hours_in_case_nvidia_misses/lkdgu08/",
+          "created": 1724866377,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

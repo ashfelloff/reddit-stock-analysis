@@ -1,0 +1,462 @@
+{
+  "title": "2300 stocks in one place",
+  "score": 108,
+  "selftext": "Update 07.16:\nFrom now on INTERESTING STOCK INVESTING IDEAS (in my personal opinion) will be shared in the first column of the watchlist. \n\nOnce again I share my stock watchlist. \n\nThe list includes ~2300 companies from the whole world grouped into 11 sectors. \n\nAll companies from the 11 sectors are put into 6 columns:\n\nColumn number 1: Financials\nColumn number 2: Consumer Discretionary \nColumn number 3: Consumer Staples & Materials \nColumn number 4: Healthcare, Real Estate & Utilities \nColumn number 5: IT & Communication Services\nColumn number 6: Energy & Industrials\n\nThe work on this watchlist is still in progress. As of today I am editing the last part of the Consumer Discretionary sector (80% done). In the end the whole stock watchlist will look like 1st column aka Financial Sector. \n\nSo what are the biggest updates from the last time I shared it? I added AVERAGE revenue and AVERAGE net income for the last few years for each company. It helps me understand at what AVERAGE price/sales and p/e company currently trades. Why average? I believe that valueing company based ONLY on last or next year's earnings is irrational. \n\nEnjoy:\n https://docs.google.com/spreadsheets/d/1K2Wmqi2evfMWILp3Dxr7j0GH5h-g5WmwYHyAQpndPyw/edit?usp=drivesdk\n\nWill answer all your questions in the comments section. \n\n\n",
+  "link_flair_text": null,
+  "id": "1e0k3qc",
+  "num_comments": 53,
+  "created_utc": 1720687358,
+  "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/",
+  "comments": [
+    {
+      "id": "lcrmt2x",
+      "score": 12,
+      "body": "If this is working for you then more power to you and please share your secret for how you are constantly gathering info, synthesizing the info, and actioning on 2,300 tickers.\n\nI go by the adage, if everything is important then nothing is important. In this context, unless you are trading algorithmically I don't know how you can stay informed and take action on 2,300 different companies as an individual investor.",
+      "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcrmt2x/",
+      "created": 1720747080,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lct1v4t",
+          "score": 8,
+          "body": "I never took action on 2300 stocks man. Never will. I think i will never buy more than 10% of all the stocks included in this list in my lifetime. I use this watchlist for two reasons only: 1) to filter interesting ideas based on stock price actions (52 weeks lows etc) and valuations (low pe for example) and only then I dig deeper. 2) to understand the general dynamic of stock market: what sector is up, what is down, what companies trade at all time highs vs what trade at all time lows etc.",
+          "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lct1v4t/",
+          "created": 1720773353,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldeomgk",
+              "score": 1,
+              "body": "So just finviz but without like 99.999% of the features.",
+              "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/ldeomgk/",
+              "created": 1721106466,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lco97jj",
+      "score": 7,
+      "body": "Wow, I never knew about the GOOGLEFINANCE forumula. I was looking at stock APIs to try and create something similar. This is much easier\n\nThanks",
+      "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lco97jj/",
+      "created": 1720705483,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lcoa3nt",
+          "score": 5,
+          "body": "This formula is a game changer for stock watchlists. It gives you a lot of possibilities",
+          "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcoa3nt/",
+          "created": 1720705816,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lcq2ba8",
+              "score": 3,
+              "body": "No option data though right?",
+              "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcq2ba8/",
+              "created": 1720726899,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lcq3z9f",
+                  "score": 6,
+                  "body": "I do not trade options. So no option data. Maybe some day..",
+                  "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcq3z9f/",
+                  "created": 1720727443,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lcqf4dj",
+          "score": 2,
+          "body": "Even works with some of the more well-known crypto too. e g. \n\n=GOOGLEFINANCE(\"ETHUSD\")",
+          "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcqf4dj/",
+          "created": 1720731076,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lcopw0f",
+      "score": 3,
+      "body": "Ehi great job",
+      "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcopw0f/",
+      "created": 1720711216,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lcp0t08",
+          "score": 0,
+          "body": "Thanks",
+          "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcp0t08/",
+          "created": 1720714751,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lcpwt0a",
+      "score": 3,
+      "body": "Haha was looking at the previous post just recently. Appreciate your work",
+      "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcpwt0a/",
+      "created": 1720725086,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lcq3cuo",
+          "score": 1,
+          "body": "Thanks man!",
+          "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcq3cuo/",
+          "created": 1720727239,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lcnbrl0",
+      "score": 5,
+      "body": "What does PE (my own) mean?\nWhat columns are you most heavily weighting when making investment decisions?",
+      "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcnbrl0/",
+      "created": 1720688143,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lcncuc6",
+          "score": 2,
+          "body": "It is based on my conservative (and of course subjective) evaluation of the company's earnings power. This is how it works: I look at the company's net income for the last few years and calculate on average what the company earned during that period. Based on this average income the PE ratio is calculated. \nPE column and dividend yield column.",
+          "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcncuc6/",
+          "created": 1720688905,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lcsvl2g",
+      "score": 2,
+      "body": "An amazing spreadsheet thank you so much",
+      "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcsvl2g/",
+      "created": 1720769090,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lct1x3r",
+          "score": 1,
+          "body": "Appreciate that",
+          "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lct1x3r/",
+          "created": 1720773390,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lcp715d",
+      "score": 1,
+      "body": "Very nice job.  Well designed and beautifully executed.  Thank you for sharing.",
+      "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcp715d/",
+      "created": 1720716766,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lcp7zyj",
+          "score": 1,
+          "body": "Appreciate your feedback",
+          "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcp7zyj/",
+          "created": 1720717077,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lcpjypb",
+      "score": 1,
+      "body": "I can't seems to access the doc, I can browse the web well, but not access the doc as it says \"no Internet\" 😭",
+      "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcpjypb/",
+      "created": 1720720922,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lcplguo",
+          "score": 1,
+          "body": "I have no idea why.. Try again 🙂",
+          "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcplguo/",
+          "created": 1720721415,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lcq15t9",
+      "score": 1,
+      "body": "This is awesome. Thanks for sharing!",
+      "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcq15t9/",
+      "created": 1720726519,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lcq3snj",
+          "score": 0,
+          "body": "No problem 👍 share it with your fellow investors too",
+          "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcq3snj/",
+          "created": 1720727384,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lcq2nyg",
+      "score": 1,
+      "body": "Wtf usually can make a copy, don't see it",
+      "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcq2nyg/",
+      "created": 1720727014,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lcq50ud",
+          "score": 1,
+          "body": "You can't copy it. View only.",
+          "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcq50ud/",
+          "created": 1720727779,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lcq6gwg",
+              "score": -1,
+              "body": "Booooo",
+              "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcq6gwg/",
+              "created": 1720728251,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lcqaeyr",
+      "score": 1,
+      "body": "Do you do target prices?",
+      "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcqaeyr/",
+      "created": 1720729537,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lcqdz0j",
+          "score": 1,
+          "body": "Yes",
+          "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcqdz0j/",
+          "created": 1720730700,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lcuk8az",
+      "score": 1,
+      "body": "Wowww!! The formula is a game changer for me. Impressive work! \n\nTell me the top3 takeaways you take from this sheet when you open it or want to make decisions based on this sheet.",
+      "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcuk8az/",
+      "created": 1720798156,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lculs17",
+          "score": 1,
+          "body": "Thanks man! Appreciate that\n\n1. Stocks trading near 52 weeks low\n2. Looking at stocks with \"lower\" PE ratios\n3. Daily stock price movements. Number is changing to red color if the price is down more than 5%",
+          "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lculs17/",
+          "created": 1720798656,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lcveis7",
+      "score": 1,
+      "body": "Thanks for the hard work. This is helpful",
+      "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcveis7/",
+      "created": 1720807884,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lcvld0x",
+          "score": 1,
+          "body": "Appreciate the feedback",
+          "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcvld0x/",
+          "created": 1720810116,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lcvj7lc",
+      "score": 1,
+      "body": "this is incredible",
+      "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcvj7lc/",
+      "created": 1720809415,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lcvlef1",
+          "score": 1,
+          "body": "Thanks!",
+          "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcvlef1/",
+          "created": 1720810129,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lcnroe0",
+      "score": 0,
+      "body": "Do you have any opinion or insight on NOC? Thanks for sharing",
+      "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcnroe0/",
+      "created": 1720697979,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lcnsld2",
+          "score": 1,
+          "body": "Great, profitable company. Market cap is 63 billion. Earns ~3b per year. So investors are paying 20-21 pe at the current prices. I think it's too much. I don't have it in my portfolio, but I would gladly add it at lower prices.",
+          "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcnsld2/",
+          "created": 1720698427,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lcnsz1g",
+              "score": 1,
+              "body": "Got it, makes sense. Was surprised to see it not there. Thanks for exposing me to new names!",
+              "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcnsz1g/",
+              "created": 1720698613,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lcnt8gb",
+                  "score": 0,
+                  "body": "You mean you can't find it in the watchlist? It's in the 6th column. Industrials sector.",
+                  "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcnt8gb/",
+                  "created": 1720698737,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lcntxs1",
+                      "score": 1,
+                      "body": "Wow, see it now. Totally missed it. Should be using a monitor and not my small phone haha. Sorry about that.",
+                      "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcntxs1/",
+                      "created": 1720699072,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lcnuaz5",
+                          "score": 2,
+                          "body": "No problem. I personally use a 34 inch monitor for this file",
+                          "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcnuaz5/",
+                          "created": 1720699247,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lcnsvl5",
+          "score": -6,
+          "body": "Overpriced trash that tried and failed to get a foothold in Europe and the world. A weak wannabe energy drink without Kyle™ energy, half the effective ingridients, bad taste and high price. Good enough for virtue signaling vegan yoga girls but no real staying power. Small possible market and low growth",
+          "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcnsvl5/",
+          "created": 1720698566,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lcnt52v",
+              "score": 5,
+              "body": "I was referring to Northrop Grumman. Are you talking about an energy drink?",
+              "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcnt52v/",
+              "created": 1720698692,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lcoqm5d",
+      "score": 0,
+      "body": "CHPT-ChargePoint Holdings Inc",
+      "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcoqm5d/",
+      "created": 1720711453,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lcp0zjw",
+          "score": 5,
+          "body": "Never heard about them",
+          "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcp0zjw/",
+          "created": 1720714808,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lcpfzmm",
+              "score": 1,
+              "body": "Theyre one of the main players in EV charging, but they mostly just build and sell chargers and don’t usually operate them. They weren’t doing very well a while ago, and I think it’s definitely more of a speculative play at this point (almost on par with weed stocks)",
+              "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcpfzmm/",
+              "created": 1720719648,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lcpiwgm",
+                  "score": 3,
+                  "body": "The decision for me here is simple. In the last 7 years the company earned nothing and only lost money. It's a PASS for me.",
+                  "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcpiwgm/",
+                  "created": 1720720579,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lcpigu4",
+          "score": 2,
+          "body": "How heavy are your bags?",
+          "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcpigu4/",
+          "created": 1720720440,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lcqp8e0",
+          "score": 1,
+          "body": "Have you used charge point? I have. Same with blink and a few others. They're all garbage. Bucky's will have a far more reliable network in Texas. Otherwise it's Teslas charging network that dominates.",
+          "permalink": "/r/stocks/comments/1e0k3qc/2300_stocks_in_one_place/lcqp8e0/",
+          "created": 1720734532,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "title": "Divident Yield in Google Sheets",
+  "score": 35,
+  "selftext": "Hi,\n\nI've tried a couple code snippets to get the div % into google sheets and nothing seems to be working. I'm not trying to pay for a subscription for an API, was wondering if anyone had some working code snippets that can pull the div yield. Doesn't have to be real time, just has to update when I reload the sheet. \n\n\nThanks so much.",
+  "link_flair_text": "Advice Request",
+  "id": "1fn4ov3",
+  "num_comments": 13,
+  "created_utc": 1727041910,
+  "permalink": "/r/stocks/comments/1fn4ov3/divident_yield_in_google_sheets/",
+  "comments": [
+    {
+      "id": "lofn78t",
+      "score": 5,
+      "body": "Can try this. \n\nA7 = voo \n\n=IfError(IF(isblank(A7),””, substitute(index(IMPORTHTML(“http://finviz.com/quote.ashx?t=“&A7,”table”, 10),7,2),”*”,””)))",
+      "permalink": "/r/stocks/comments/1fn4ov3/divident_yield_in_google_sheets/lofn78t/",
+      "created": 1727042754,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "log0c07",
+          "score": 3,
+          "body": "=SUBSTITUTE(index(IMPORTHTML(\"http://finviz.com/quote.ashx?t=AVUV\", \"table\",10),7,2),\"*\",\"\") \n\n\nTo get the total annual in dollars:\n\n\n=IFERROR(((MID(N28,SEARCH(\"(\",N28)+1,SEARCH(\")\",N28)-SEARCH(\"(\",N28)-1)+0)*H28),\"-\")\n\n\nWhere N28 is the cell you pasted the first formula and H28 has your total dollar value of AVUV. ",
+          "permalink": "/r/stocks/comments/1fn4ov3/divident_yield_in_google_sheets/log0c07/",
+          "created": 1727047397,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lospxwp",
+          "score": 1,
+          "body": "This worked for me, but there seems to be an error when copying and pasting the formula from Reddit, into Google Sheets. If you delete and re-type the quotes, Google sheets seems to recognize the inputs and it works.",
+          "permalink": "/r/stocks/comments/1fn4ov3/divident_yield_in_google_sheets/lospxwp/",
+          "created": 1727232629,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lofyxo1",
+          "score": 1,
+          "body": "Does not work, just says unresolved error",
+          "permalink": "/r/stocks/comments/1fn4ov3/divident_yield_in_google_sheets/lofyxo1/",
+          "created": 1727046896,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "log0lhq",
+              "score": 1,
+              "body": "I wasn't able to get it to work with the stock symbol in a different cell but the one above works for me. ",
+              "permalink": "/r/stocks/comments/1fn4ov3/divident_yield_in_google_sheets/log0lhq/",
+              "created": 1727047488,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "log3lp7",
+              "score": 1,
+              "body": "You should be able to break apart the function and remove the substitutions and build it with the above as guidance.",
+              "permalink": "/r/stocks/comments/1fn4ov3/divident_yield_in_google_sheets/log3lp7/",
+              "created": 1727048561,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "loh49uj",
+      "score": 3,
+      "body": "I was never able to get this to work for me.\n\nI just added a spreadsheet where I document the dividend for each company, and just reference it in my other spreadsheets that need dividend information.",
+      "permalink": "/r/stocks/comments/1fn4ov3/divident_yield_in_google_sheets/loh49uj/",
+      "created": 1727063279,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lohfduj",
+      "score": 2,
+      "body": "https://support.google.com/docs/answer/3093281?hl=en",
+      "permalink": "/r/stocks/comments/1fn4ov3/divident_yield_in_google_sheets/lohfduj/",
+      "created": 1727069282,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lohan6g",
+      "score": 1,
+      "body": "For this to work you’ll need a table with two columns with values for the exchange a stock is listed on and the ticker.\n\nIn the example below A1 is the exchange, and B1 is the ticker (eg., NYSE, BN).\n\n=IMPORTXML(“https://www.google.com/finance/quote/“&$A1&”:”&$B1, “//c-wiz//main/div/div/div[8]/div[@class=‘P6K39c’]”)",
+      "permalink": "/r/stocks/comments/1fn4ov3/divident_yield_in_google_sheets/lohan6g/",
+      "created": 1727066584,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "loixfib",
+      "score": 1,
+      "body": "Not perfect, it returns a negative number but the percent is correct.\n\nB4 = ticker\n\n=SUBSTITUTE(index(IMPORTHTML(\"http://finviz.com/quote.ashx?t=\"&B4, \"table\",10),7,2),\"\\*\",\"\")\n\nThat returns this:\n\n1.52 (0.68%)\n\nAnd then split that on space: =split(M4,\" \")\n\nwhich will return 2 columns:\n\n$1.52     -0.68%\n\nI haven't figured out a way to get the % a positive number.",
+      "permalink": "/r/stocks/comments/1fn4ov3/divident_yield_in_google_sheets/loixfib/",
+      "created": 1727099661,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lonecux",
+      "score": 1,
+      "body": "Use stockscafe and save some time. Thank me later !!",
+      "permalink": "/r/stocks/comments/1fn4ov3/divident_yield_in_google_sheets/lonecux/",
+      "created": 1727156848,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lp0o0ro",
+      "score": 1,
+      "body": "Put the nasdq plus share symbol in the 1st cell, those below, Leave out the nasdq part and put only the stock symbol",
+      "permalink": "/r/stocks/comments/1fn4ov3/divident_yield_in_google_sheets/lp0o0ro/",
+      "created": 1727357980,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

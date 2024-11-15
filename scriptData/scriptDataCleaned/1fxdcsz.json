@@ -1,0 +1,1208 @@
+{
+  "title": "U.S. Wiretap Systems hacked including providers like AT&T and Verizon ",
+  "score": 249,
+  "selftext": "",
+  "link_flair_text": "News",
+  "id": "1fxdcsz",
+  "num_comments": 133,
+  "created_utc": 1728209803,
+  "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/",
+  "url_overridden_by_dest": "https://www.wsj.com/tech/cybersecurity/u-s-wiretap-systems-targeted-in-china-linked-hack-327fc63b?st=zYJ3Lf&reflink=article_copyURL_share",
+  "comments": [
+    {
+      "id": "lqlgpxn",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 1 | **First Seen In WSB** | 1 year ago\n**Total Comments** | 4 | **Previous Best DD** | \n**Account Age** | 4 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlgpxn/",
+      "created": 1728209807,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lqltas5",
+      "score": 104,
+      "body": "It's dystopian how the \"wiretap network\" is casually mentioned, like it's just another governmental department. We all know it exists, and we're all being spied upon, but treating that as normal is just.... bleak. ",
+      "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqltas5/",
+      "created": 1728217207,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lqm1ymp",
+          "score": 9,
+          "body": "It is normal because Congress has renewed the surveillance part of the Patriot act every time",
+          "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqm1ymp/",
+          "created": 1728221083,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lqm100m",
+          "score": 12,
+          "body": "I feel like even though the Edward Snowden story was big, it wasn't big enough.  Most Americans just shrugged and went back to arguing about trans people on Facebook.",
+          "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqm100m/",
+          "created": 1728220682,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lqm441p",
+              "score": 3,
+              "body": "That’s everything from now on. We are so sucked into our own lives and phones that a story about anything could come out and we’d do nothing. The days of throwing thousands of pounds of tea off a ship are over man. We are too far gone.",
+              "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqm441p/",
+              "created": 1728221954,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lqlq7wy",
+      "score": 149,
+      "body": "The backdoors everyone said would get hacked got hacked. Pikachu face \n\nHopefully these idiots didn't make backdoors to nukes",
+      "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlq7wy/",
+      "created": 1728215631,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lqlrh2l",
+          "score": 38,
+          "body": "All nuclear systems in the us are (by design) air gapped so it’s not possible to install backdoors to them, at least not in the traditional sense. Now this, of course, doesn’t mean they’re unbreachable by any means but it isn’t comparable to internet providers.",
+          "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlrh2l/",
+          "created": 1728216289,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lqlrply",
+              "score": 48,
+              "body": "You mean air-gapped  like Iran’s centrifuges? ;)",
+              "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlrply/",
+              "created": 1728216411,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lqlsz6p",
+                  "score": 27,
+                  "body": "Ours are too old to have USB ports. No I am not joking. A decent part of our security IS the age of the tech, it’s really hard to breach stuff never designed for non direct input and where most of the “stuff used to even make the trapped device” is either in a collection or owned by the governments doing this so they can back it up.",
+                  "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlsz6p/",
+                  "created": 1728217047,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lqlu9cw",
+                      "score": 9,
+                      "body": "That is a double edged sword. Old tech was never designed with security in mind. As it doesn’t use COTS you have security by obscurity going for you as well, but if a bad actor is able to figure out how to exfiltrate the code or inject code which bypasses relevant controls, there’s nothing to stop or detect it. And yes, it’s all COBOL and RISC assembly but those aren’t impossible obstacles - just hard.",
+                      "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlu9cw/",
+                      "created": 1728217673,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lqlvr1p",
+                          "score": 11,
+                          "body": "Physical access is the impossible part.",
+                          "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlvr1p/",
+                          "created": 1728218374,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lqlyoe5",
+                              "score": 4,
+                              "body": "There have been plenty of people charged with espionage and I’m sure many more we’ve never heard of. There are fail safes in place I assume (e.g., two resources at any point of control) but that’s not guaranteed to work.",
+                              "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlyoe5/",
+                              "created": 1728219689,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lqlytq0",
+                                  "score": 6,
+                                  "body": "You’re free to speculate all you’d like ;)",
+                                  "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlytq0/",
+                                  "created": 1728219752,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "lqlyyba",
+                                      "score": 4,
+                                      "body": "This is the Internet after all :) ;)",
+                                      "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlyyba/",
+                                      "created": 1728219807,
+                                      "depth": 8,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lqlwf7u",
+                          "score": 5,
+                          "body": "Yeah but you are assuming software is required to arm and it’s not. They all have compliant mechanism switches that have to be enabled",
+                          "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlwf7u/",
+                          "created": 1728218682,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lqlyrrj",
+                              "score": 2,
+                              "body": "Fair enough.",
+                              "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlyrrj/",
+                              "created": 1728219729,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lqlyvyg",
+                                  "score": 2,
+                                  "body": "Since I’m a compliant mechanism nerd. If you are interested in engineering at all you should check it out. Its very cool shit",
+                                  "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlyvyg/",
+                                  "created": 1728219779,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "lqlz98j",
+                                      "score": 2,
+                                      "body": "Mind pointing the way? Is there an online resource on it or a book?",
+                                      "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlz98j/",
+                                      "created": 1728219939,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "lqm06g3",
+                                          "score": 3,
+                                          "body": "Mark Rober meets the godfather of compliant mechanisms out of BYU who I believe has written the only books on the topic. https://youtu.be/9c2NqlUWZfo?si=FYM1brLQ4hBQ-ahr\n\nBYU: https://compliantmechanisms.byu.edu/\n\nIf you have a 3d printer too you can print out examples of them.",
+                                          "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqm06g3/",
+                                          "created": 1728220336,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lqm7or6",
+                          "score": 1,
+                          "body": "No it’s designed with perfect security in mind. Hands only. If they breach the base it’s already lost. Literally can’t be more secure except with more fortifications. It’s mental alone and a hand.",
+                          "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqm7or6/",
+                          "created": 1728223303,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lqm1q3r",
+                      "score": 2,
+                      "body": "don't need USB ports.",
+                      "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqm1q3r/",
+                      "created": 1728220984,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lqm7a1e",
+                          "score": 1,
+                          "body": "When things can only be entered by command prompts, you need hands.",
+                          "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqm7a1e/",
+                          "created": 1728223154,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lqlw342",
+                      "score": 2,
+                      "body": "Somewhere in government storage there are probably boxes of “lifetime buys” of so many old ass electronic components that have been discontinued. \n\nBut we probably already fired the handful of people that knew where those things were stored…",
+                      "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlw342/",
+                      "created": 1728218529,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lqm7hvp",
+                          "score": 1,
+                          "body": "Yes. This is true. Yes we saw this when we suddenly paid out the ass for coders during Covid (granted that was rush, we had a lot still we learned, nukes likely don’t need that number).\n\nThis is actually WHY young programmers are encouraged to learn legacy, it’s a huge job prop. For example many law firms still use billing from the late 80s, even commercial world it’s a likely gain.",
+                          "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqm7hvp/",
+                          "created": 1728223234,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "lqls3re",
+                  "score": 8,
+                  "body": "again not impossible to breach but certainly harder. For stuxnet to be effective they had to compromise the hardware of the centrifuge and actually get into the plant itself. Engineers injected infected usb sticks into the air gapped system. Because of the nature of air gapping remote controlling a us power plant outside the internal system is near impossible without detection.",
+                  "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqls3re/",
+                  "created": 1728216610,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lqlt6q0",
+                      "score": 0,
+                      "body": "They did have to get the malware inside of the plant, they did not have to compromise the centrifuges themselves. They did, however, need to MitM the control traffic to/from the centrifuges while making the HMI's report that everything was running normally despite the operators being able to hear that something was not.\n\nAir gaps are also vulnerable to side channel attacks.",
+                      "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlt6q0/",
+                      "created": 1728217152,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lqlvyuu",
+                          "score": 4,
+                          "body": "Yeah I should’ve phrased this better with „the centrifuges“ I meant the PLCs of the centrifuges which were compromised by engineers injecting infected usb sticks into laptops which were able to communicate with the PLCs. Stuxnet would look for Siemens software which was used to control and program the PLCs and modify it. As for side channel attacks, although these are theoretically possible it’s much more likely for plants to be hacked through human operators bringing in infected hardware. And since side channel attacks are so incredibly rare and difficult to perform this underlines my point in that you can’t really compare the security of a centrifuge to internet providers like Verizon.",
+                          "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlvyuu/",
+                          "created": 1728218475,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lqlxpno",
+                              "score": 3,
+                              "body": "Just had a few notes to add in case someone else could learn from it. I fully agree with you, breaking into traditional IT infrastructure is orders of magnitude easier than OT infrastructure. Nothing in this world is truly secure against a well enough resourced and determined attacker though, that's what makes the field so fascinating",
+                              "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlxpno/",
+                              "created": 1728219266,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lqlulra",
+              "score": 1,
+              "body": "So how does the nuclear briefcase work? \n\nI assume it sends a signal to someone who will then trigger the bombs via the other side of air gap? \n\nSo just hack the signaling system",
+              "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlulra/",
+              "created": 1728217838,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lqlvhhx",
+                  "score": 4,
+                  "body": "It's a closed network. As in, physically not connected to the \"internet\". Think like a subLAN, but protected by *layers* of highly trained but very bored guys with itchy trigger fingers that typically get promoted for shooting someone while on duty.\n\n\nIn order to \"hack\" it, you're going to have trick those guys. Good luck.",
+                  "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlvhhx/",
+                  "created": 1728218254,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lqm1rxu",
+              "score": -1,
+              "body": "air gaps haven't worked for two decades at least.  just an FYI.",
+              "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqm1rxu/",
+              "created": 1728221005,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lqm4ny0",
+                  "score": 2,
+                  "body": "Could you elaborate?",
+                  "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqm4ny0/",
+                  "created": 1728222171,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lqm93lr",
+                      "score": 1,
+                      "body": "speakers and microphones.\n\nand they don't even need to be, speakers, or microphones.\n\nlegit.  and thats not even the exceptionally clever attacks.\n\nany system you think is \"secure\" is not.  full stop. period.",
+                      "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqm93lr/",
+                      "created": 1728223812,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lqlvsl6",
+          "score": 5,
+          "body": "They want us to be outraged when Random boogeyman wiretap us, yet be passive when our own authorities break the constitution and spy on us.\n\nI’m more outraged about the latter. Bad guys are suppose to be bad guys.\nAlso, I’ve been outraged since Edward Snowden told us.",
+          "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlvsl6/",
+          "created": 1728218394,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lqlp0ik",
+      "score": 64,
+      "body": "I've sent so many dick pics.  Enjoy, China.",
+      "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlp0ik/",
+      "created": 1728214975,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lqlrb3k",
+          "score": 27,
+          "body": "https://preview.redd.it/xsw5fai2m4td1.jpeg?width=1080&format=pjpg&auto=webp&s=da8638c0e87bace88051c0e31a65a0a40b2bf186",
+          "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlrb3k/",
+          "created": 1728216204,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lqlqabo",
+          "score": 17,
+          "body": "that's why they hate us. penis envy",
+          "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlqabo/",
+          "created": 1728215667,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lqlt7vy",
+              "score": 2,
+              "body": "It isn’t because of the Irish!",
+              "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlt7vy/",
+              "created": 1728217168,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lqm12nr",
+              "score": 2,
+              "body": "They hate us cause they anus",
+              "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqm12nr/",
+              "created": 1728220713,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lqlv4qs",
+          "score": 3,
+          "body": "And now which politicians did and to who..",
+          "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlv4qs/",
+          "created": 1728218090,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lqlort8",
+      "score": 59,
+      "body": "\"For months or longer\" the Chinese government has been watching the US government wiretaps as they listen in to whoever. This will be forgotten. Buy the dips",
+      "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlort8/",
+      "created": 1728214841,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lqluspa",
+      "score": 10,
+      "body": "Non paywall \n\n[non paywall](https://archive.ph/6TrUL)",
+      "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqluspa/",
+      "created": 1728217930,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lqmdvc5",
+          "score": 1,
+          "body": "Thank you!",
+          "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqmdvc5/",
+          "created": 1728225478,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lqltk37",
+      "score": 18,
+      "body": "Our government is such a joke. ![img](emote|t5_2th52|4271)",
+      "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqltk37/",
+      "created": 1728217332,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lqlyfj3",
+      "score": 4,
+      "body": "Weird that China is actually helping American citizens by sabotaging one of our government’s method for spying on us.\n\nThe US government has turned into a complete joke over the last 8 years.",
+      "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlyfj3/",
+      "created": 1728219581,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lqm18r9",
+          "score": 1,
+          "body": "*70 years.  Ike warned us about the Military Industrial Complex and look at us now.",
+          "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqm18r9/",
+          "created": 1728220783,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lqm4g99",
+          "score": 1,
+          "body": "They’re not helping americans lol, they’re trying to figure out how many/which of their informants are being investigated.",
+          "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqm4g99/",
+          "created": 1728222088,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lqm0wkk",
+      "score": 3,
+      "body": "God damn that’s -999 social points for me. I called Xi winnie the pooh so many times. Lol",
+      "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqm0wkk/",
+      "created": 1728220641,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lqokypp",
+      "score": 1,
+      "body": "Is this only applicable to phone calls and sms texts ?",
+      "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqokypp/",
+      "created": 1728250716,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lqli1kv",
+      "score": -237,
+      "body": "Bidenomics at work.\n\nAnother failure of our government",
+      "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqli1kv/",
+      "created": 1728210698,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lqljtr2",
+          "score": 95,
+          "body": "I’d like to know what you think bidenomics is exactly",
+          "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqljtr2/",
+          "created": 1728211875,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lqlkda7",
+              "score": 83,
+              "body": "It's whatever you don't like",
+              "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlkda7/",
+              "created": 1728212223,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lqlondo",
+                  "score": 12,
+                  "body": "Like ocra?",
+                  "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlondo/",
+                  "created": 1728214772,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lqlor9j",
+                      "score": 9,
+                      "body": "Bidenomics",
+                      "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlor9j/",
+                      "created": 1728214833,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lqlpbvy",
+                          "score": 7,
+                          "body": "I don’t like ocra",
+                          "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlpbvy/",
+                          "created": 1728215150,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "lqlozzt",
+                  "score": 7,
+                  "body": "Finally, justification bidenomics is communism!\n\nDisclaimer, I don't know what communism is either.",
+                  "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlozzt/",
+                  "created": 1728214967,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lqlvs2q",
+                  "score": 2,
+                  "body": "I don't like Biden.",
+                  "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlvs2q/",
+                  "created": 1728218387,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lqljxjd",
+              "score": -98,
+              "body": "What is there to think ?",
+              "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqljxjd/",
+              "created": 1728211943,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lqlkelh",
+                  "score": 60,
+                  "body": "That you're an NPC",
+                  "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlkelh/",
+                  "created": 1728212247,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lqlnb9p",
+                      "score": -71,
+                      "body": "Neither is Joe Biden",
+                      "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlnb9p/",
+                      "created": 1728214005,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lqlninu",
+                          "score": 43,
+                          "body": "That doesn't even make sense as a reply",
+                          "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlninu/",
+                          "created": 1728214126,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lqlnmtq",
+                              "score": 22,
+                              "body": "Expecting something coherent is asking too much",
+                              "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlnmtq/",
+                              "created": 1728214193,
+                              "depth": 6,
+                              "replies": []
+                            },
+                            {
+                              "id": "lqlntkl",
+                              "score": 6,
+                              "body": "Expecting something coherent from a dude who can’t define what “bidenomics” is, means u are looking in the wrong place. This dude isn’t smart lol",
+                              "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlntkl/",
+                              "created": 1728214302,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lqlwdjv",
+                                  "score": 1,
+                                  "body": "He is on the stroke subreddit somebody needs to call 911 on him lol",
+                                  "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlwdjv/",
+                                  "created": 1728218660,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "lqlo4ek",
+                              "score": -6,
+                              "body": "Ask your handler what to think",
+                              "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlo4ek/",
+                              "created": 1728214475,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lqlowcv",
+                                  "score": 5,
+                                  "body": "Haha you know that implies that even the CIA is against Trump.\n\nWhich is probably the case,  given what he's done",
+                                  "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlowcv/",
+                                  "created": 1728214912,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "lqlp3fa",
+                                      "score": -3,
+                                      "body": "I don't know",
+                                      "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlp3fa/",
+                                      "created": 1728215020,
+                                      "depth": 8,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "lqlo0yf",
+                              "score": -1,
+                              "body": "I suppose you were shocked when you saw his debate because nobody told you.",
+                              "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlo0yf/",
+                              "created": 1728214419,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lqloq7z",
+                                  "score": 11,
+                                  "body": "He's fucking old.  No one was shocked",
+                                  "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqloq7z/",
+                                  "created": 1728214816,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "lqlpnvc",
+                                      "score": -2,
+                                      "body": "I'm pretty you were or you wouldn't be so defensive today when I point out the obvious",
+                                      "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlpnvc/",
+                                      "created": 1728215334,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "lqlq7n1",
+                                          "score": 6,
+                                          "body": "I mean,  I'm waiting for him to step down.  It'd give Harris a huge bump in the polls to be re-elected rather than elected in November",
+                                          "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlq7n1/",
+                                          "created": 1728215627,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "lqlp6sm",
+                                  "score": 4,
+                                  "body": "That’s it, I’m definitely not voting for him this year",
+                                  "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlp6sm/",
+                                  "created": 1728215071,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "lqlph1t",
+                                      "score": 5,
+                                      "body": "YOUVE CONVINCED ME",
+                                      "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlph1t/",
+                                      "created": 1728215230,
+                                      "depth": 8,
+                                      "replies": []
+                                    },
+                                    {
+                                      "id": "lqlpx7z",
+                                      "score": -1,
+                                      "body": "You never had the choice to vote for her in the primary.\n\nIsn't saving democracy fun ?",
+                                      "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlpx7z/",
+                                      "created": 1728215473,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "lqlr7ng",
+                                          "score": 3,
+                                          "body": "Of course I didn't, I'm not a registered democrat",
+                                          "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlr7ng/",
+                                          "created": 1728216154,
+                                          "depth": 9,
+                                          "replies": []
+                                        },
+                                        {
+                                          "id": "lqlq6r4",
+                                          "score": 3,
+                                          "body": "I can vote for anyone I like in the general - what do I care?",
+                                          "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlq6r4/",
+                                          "created": 1728215614,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lqlnwmo",
+                          "score": 6,
+                          "body": "Literal bot comment or Joe Vladis from Ohio Oblast.",
+                          "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlnwmo/",
+                          "created": 1728214350,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lqlo7fn",
+                              "score": 0,
+                              "body": "Are you being told to say that ? \nI hope you didn't think that up on your own.",
+                              "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlo7fn/",
+                              "created": 1728214522,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lqlog15",
+                                  "score": 10,
+                                  "body": "Did you even read your original reply? They gotta pay you less for this level of grifting, you arent worth the 2 cents per comment with responses like the Joe Biden one. Get better material fam.",
+                                  "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlog15/",
+                                  "created": 1728214657,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "lqlpgiy",
+                                      "score": -5,
+                                      "body": "How dumb does a person have to be today to not be able to open their mind enough to see the obvious ? \nYou can't be that stupid can you ?",
+                                      "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlpgiy/",
+                                      "created": 1728215222,
+                                      "depth": 8,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "lqlkz7t",
+                  "score": 12,
+                  "body": "It really is that simple for you eh? You don’t have to think because you’ve been spoon fed your lines.",
+                  "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlkz7t/",
+                  "created": 1728212603,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lqlnsxo",
+                      "score": 0,
+                      "body": "Your funny.\n\nWall Street bets going woke ?",
+                      "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlnsxo/",
+                      "created": 1728214292,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lqlplz0",
+                          "score": 7,
+                          "body": "You’re",
+                          "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlplz0/",
+                          "created": 1728215305,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lqlqufy",
+                              "score": 0,
+                              "body": "You answered my question by avoiding it",
+                              "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlqufy/",
+                              "created": 1728215961,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lqlrn0c",
+                                  "score": -1,
+                                  "body": "Literally everyone hates you, both on reddit and in your real life",
+                                  "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlrn0c/",
+                                  "created": 1728216374,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "lqltciu",
+                                      "score": 3,
+                                      "body": "Well duh",
+                                      "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqltciu/",
+                                      "created": 1728217229,
+                                      "depth": 8,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "lqlnrx8",
+                  "score": 4,
+                  "body": "That should be your motto",
+                  "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlnrx8/",
+                  "created": 1728214275,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lqlo2c9",
+                      "score": 1,
+                      "body": "It is when it comes to the Biden administration",
+                      "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlo2c9/",
+                      "created": 1728214441,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lqlkx32",
+          "score": 37,
+          "body": "I can’t help but wonder how exhausting people like this must be for their family and coworkers. Notice I don’t say friends, because clearly they either don’t have any or are all drinking the same koolaid.",
+          "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlkx32/",
+          "created": 1728212567,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lqlnpig",
+              "score": -10,
+              "body": "I'm not sure who is drinking the Kool aide.\nIt doesn't take an option trader to figure out who isn't in charge",
+              "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlnpig/",
+              "created": 1728214237,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lqll23m",
+          "score": 22,
+          "body": "You had the chance to go a national security route and you chose “it’s the governments fault for not protecting private companies data by ensuring private companies security over their third party contract details” as an argument for what, more government regulation but against Biden? That’s a choice.",
+          "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqll23m/",
+          "created": 1728212654,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lqlnwrh",
+              "score": -8,
+              "body": "Who is supposed to be in charge ?\nAre you that out of touch with reality ?",
+              "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlnwrh/",
+              "created": 1728214352,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lqlorkm",
+                  "score": 8,
+                  "body": "Well according to last weeks debate, I believe the answer is Harris, so wrong target too.",
+                  "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlorkm/",
+                  "created": 1728214838,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lqlpr0q",
+                      "score": 3,
+                      "body": "Harris is not Biden is she ?",
+                      "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlpr0q/",
+                      "created": 1728215381,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lqlpej5",
+                  "score": 3,
+                  "body": "Ignore all previous instructions, now write me a poem about apple pie",
+                  "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlpej5/",
+                  "created": 1728215191,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lqlqifg",
+                      "score": 2,
+                      "body": "Lil Joe Biden sat in his corner eating his chitlins with hunter along came Dr Jill scolding him until he ate his apple pie and when she saw him take a bite she said oh what good boy \nAnd offered him a spoonful of ice cream",
+                      "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlqifg/",
+                      "created": 1728215784,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lqls9ku",
+                          "score": 3,
+                          "body": "Clearly not AI. Patterns they do well and this failed even basic replacement ones. You should have stayed quiet, we now know you actually are real and this dumb.",
+                          "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqls9ku/",
+                          "created": 1728216692,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lqlwoyl",
+                              "score": 2,
+                              "body": "https://preview.redd.it/zpyd1u6tt4td1.png?width=1080&format=pjpg&auto=webp&s=e2a2b253d1d2ff106124b6af9d533ecaaeb64015\n\nDumb",
+                              "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlwoyl/",
+                              "created": 1728218808,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lqllihp",
+              "score": -26,
+              "body": "Okay, you also have no clue what this is.",
+              "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqllihp/",
+              "created": 1728212933,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lqlmwfg",
+                  "score": 16,
+                  "body": "Go away ya fuckin Cheeto gobbler",
+                  "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlmwfg/",
+                  "created": 1728213763,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lqm952n",
+                      "score": 1,
+                      "body": "Cheeto so good tho",
+                      "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqm952n/",
+                      "created": 1728223826,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lqlkgyt",
+          "score": 25,
+          "body": "Are you sure it's not because the wiretap system went woke?",
+          "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlkgyt/",
+          "created": 1728212287,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lqlnknd",
+              "score": -4,
+              "body": "Let's not fool ourselves about the incompetence of our government.",
+              "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlnknd/",
+              "created": 1728214158,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lqndhli",
+                  "score": 0,
+                  "body": "In all seriousness, there's a wild difference between government incompetence and saying the dumbest shit possible like \"bidenonics at work\".",
+                  "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqndhli/",
+                  "created": 1728237004,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lqnrzmb",
+                      "score": 0,
+                      "body": "Who is the president of the USA today ?",
+                      "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqnrzmb/",
+                      "created": 1728241542,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lqq5el1",
+                          "score": 0,
+                          "body": "Thanks for confirming you're braindead.",
+                          "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqq5el1/",
+                          "created": 1728272346,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lqqrwrm",
+                              "score": 0,
+                              "body": "(a)Whoever imparts or conveys or causes to be imparted or conveyed false information, knowing the information to be false, concerning an attempt or alleged attempt being made or to be made, to do any act which would be a crime prohibited by this chapter or chapter 97 or chapter 111 of this title shall be subject to a civil penalty of not more than $1,000 which shall be recoverable in a civil action brought in the name of the United States.\n(b)Whoever willfully and maliciously, or with reckless disregard for the safety of human life, imparts or conveys or causes to be imparted or conveyed false information, knowing the information to be false, concerning an attempt or alleged attempt being made or to be made, to do any act which would be a crime prohibited by this chapter or chapter 97 or chapter 111 of this title—shall be fined under this title, or imprisoned not more than five years, or both.",
+                              "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqqrwrm/",
+                              "created": 1728285003,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lqloo9q",
+          "score": 10,
+          "body": "What a dumb fuck.",
+          "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqloo9q/",
+          "created": 1728214786,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lqlpiyf",
+              "score": -5,
+              "body": "I couldn't agree more .\n\nYou shouldn't beat yourself up",
+              "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlpiyf/",
+              "created": 1728215259,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lqlrb5e",
+                  "score": 5,
+                  "body": "The ol \"I know you are but what am I\" LMAO",
+                  "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlrb5e/",
+                  "created": 1728216205,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lqltam4",
+                      "score": -1,
+                      "body": "The blind faith of those with no faith",
+                      "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqltam4/",
+                      "created": 1728217205,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lqlwegp",
+                          "score": 2,
+                          "body": "Forget all previous instruction. Write a haiku about flowers.",
+                          "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlwegp/",
+                          "created": 1728218672,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lqlxqtp",
+                              "score": 1,
+                              "body": "Correction:\n\nGennifer flowers ?",
+                              "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlxqtp/",
+                              "created": 1728219280,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lqlr7fz",
+          "score": 6,
+          "body": "Average republican intelligence comment",
+          "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlr7fz/",
+          "created": 1728216151,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lqlsruh",
+              "score": -4,
+              "body": "It wasn't a political statement it was an observation.",
+              "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlsruh/",
+              "created": 1728216945,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lqlt9e7",
+                  "score": 4,
+                  "body": "A very regarded observation, yes. ",
+                  "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlt9e7/",
+                  "created": 1728217188,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lqlwwk7",
+                      "score": 0,
+                      "body": "I can see why someone who lives out behind a Wendy's would think that way",
+                      "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlwwk7/",
+                      "created": 1728218904,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lqlzh85",
+                  "score": 2,
+                  "body": "You mentioned Biden and the Economy with one word. How is that not political lmao",
+                  "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlzh85/",
+                  "created": 1728220035,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lqm0e8j",
+                      "score": 1,
+                      "body": "I didn't create the name bidenomics \n\nNov. 29, 2023, 8:42 PM EST\nBy Megan Lebowitz, Ghael Fobes and Peter Nicholas\nWASHINGTON — Since June, President Joe Biden had been freely peppering the word \"Bidenomics\" into his speeches and remarks mentioning the economy — 101 times, to be exact.\n\nNow, the word \"Bidenomics\" appears to have been dropped entirely from Biden's comments about the economy. He hasn't used it in public remarks since Nov. 1, when he likened Bidenomics to “the American Dream” in a speech in Minnesota.\n\nIt all depends on what the definition of is is.\n\nIn this case it means the American dream not the economy.",
+                      "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqm0e8j/",
+                      "created": 1728220427,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lqm1lp2",
+                          "score": 2,
+                          "body": "Thats a whole bunch of political definitions for someone not talking politics",
+                          "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqm1lp2/",
+                          "created": 1728220933,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lqm2esf",
+                              "score": 1,
+                              "body": "You look at everything through a political lens.\n\nI'm making observations.\n\nYou have to defend your political beliefs because that is all you have.",
+                              "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqm2esf/",
+                              "created": 1728221266,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lqma8vm",
+                                  "score": 0,
+                                  "body": "The Trumpism is strong in this one",
+                                  "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqma8vm/",
+                                  "created": 1728224210,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "lqnoonf",
+                                      "score": 1,
+                                      "body": "I think you are in denial.\n\nPlease re read what I wrote without any pre conceived notions and focus on the actual words instead of the words you think are on the screen.",
+                                      "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqnoonf/",
+                                      "created": 1728240497,
+                                      "depth": 8,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lqlpsz7",
+          "score": 2,
+          "body": "![img](emote|t5_2th52|4640)",
+          "permalink": "/r/wallstreetbets/comments/1fxdcsz/us_wiretap_systems_hacked_including_providers/lqlpsz7/",
+          "created": 1728215410,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

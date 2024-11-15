@@ -1,0 +1,985 @@
+{
+  "title": "Can someone run me through the worst case scenario of trading covered calls?",
+  "score": 87,
+  "selftext": "With the NVIDIA split happening tomorrow, I'll have over 100 shares and am considering switching from standard call options to covered calls. I've been reading up on them and the general consensus I'm finding is that there is basically no way to lose money, you're just putting a ceiling on your potential earnings. Is this accurate? Is there anything I should be wary about when trading them?",
+  "link_flair_text": "Discussion",
+  "id": "1dc9pqn",
+  "num_comments": 117,
+  "created_utc": 1717982655,
+  "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/",
+  "comments": [
+    {
+      "id": "l7weem6",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 1 | **First Seen In WSB** | 3 months ago\n**Total Comments** | 2 | **Previous Best DD** | \n**Account Age** | 8 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7weem6/",
+      "created": 1717982660,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l7wesb1",
+      "score": 184,
+      "body": "There's 2.\n\n1.) The underlying tanks, and your loss on that is more than you took in on the sold call.\n\n2.) The underlying keeps going up and you end up back here asking what to do.",
+      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7wesb1/",
+      "created": 1717982820,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l7wezur",
+          "score": 31,
+          "body": "Gotcha. In the event that it keeps going up, it's possible to just buy to close right?",
+          "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7wezur/",
+          "created": 1717982909,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l7wgesz",
+              "score": 111,
+              "body": "Yes but you will lose money. If you're in the money it will probably be more that you would lose letting the other party exercise.\n\nIf I sell covered calls in my mind I'm already planning on selling the stock at the strike and this is just a way to make a little more when selling. It's an exit strategy.",
+              "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7wgesz/",
+              "created": 1717983515,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l7wgqo3",
+                  "score": 21,
+                  "body": "That makes sense. Thanks for the info",
+                  "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7wgqo3/",
+                  "created": 1717983652,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l7wku0f",
+                      "score": 11,
+                      "body": "you could also sell cash covered puts if/when you get assigned… same concept though. \n\nIf the underlying dips below your strike price, you would be buying shares at the strike price price unless you were to buy to close before being assigned",
+                      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7wku0f/",
+                      "created": 1717985338,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l7zgb4e",
+                          "score": 3,
+                          "body": "I'm a bull so I usually sell conservative covered calls. Haven't regretted any of my sold calls yet.\n\nBut being a bull means I'm fucking bullish. Got hit pretty hard a few times (most notably in 2022) selling cash covered puts. Sometimes stocks can fall a lot more than you imagine. Still haven't had a stock go to $0 on me (maybe that's why I'm still taking the risk of cash covering my puts^(that and the 5% cash payout stacking) instead of buying a lower put).",
+                          "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7zgb4e/",
+                          "created": 1718037547,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l80qavd",
+                              "score": 2,
+                              "body": "Covered calls is more neutral strategy when you think it will be flat or slightly up",
+                              "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l80qavd/",
+                              "created": 1718052861,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "l7xe4vk",
+                  "score": 19,
+                  "body": "What's an exit strategy?",
+                  "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7xe4vk/",
+                  "created": 1718000739,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l7xvc8r",
+                      "score": 24,
+                      "body": "[deleted]",
+                      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7xvc8r/",
+                      "created": 1718013174,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l7y6jxv",
+                          "score": 3,
+                          "body": "...after getting assigned...",
+                          "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7y6jxv/",
+                          "created": 1718019957,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "l7xwyil",
+                      "score": 5,
+                      "body": "Pull before\nThe squirt",
+                      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7xwyil/",
+                      "created": 1718014284,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "l7y6tqn",
+                      "score": 1,
+                      "body": "A strategy to exit.",
+                      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7y6tqn/",
+                      "created": 1718020094,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "l7y7avb",
+                      "score": 1,
+                      "body": "It’s what you have in case of a fire",
+                      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7y7avb/",
+                      "created": 1718020336,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "l812uz1",
+                      "score": 1,
+                      "body": "Lol @ all the replies who don't know this legendary meme",
+                      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l812uz1/",
+                      "created": 1718057355,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "l7y78iu",
+                  "score": 1,
+                  "body": "Second part is my thoughts as well",
+                  "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7y78iu/",
+                  "created": 1718020303,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l83ksa6",
+                  "score": 1,
+                  "body": "As a stock goes ITM the extrinsic value is much less than the intrinsic value. Most of the times you can still exit your position with almost your max gain your call would have achieve if expired just under your strike price. However, if it runs up too fast you might not be able to get your 100 shares back.  You can also roll to a father expiry with the hope that it dips in the future and still collect more premium.",
+                  "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l83ksa6/",
+                  "created": 1718104149,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l7wftue",
+              "score": 19,
+              "body": "On a covered call that goes in the money it will be assigned at closing on expiry, or possibly even before. You could close it before that, often at a significant loss, or you could wait for the shares to get called away on assignment and take your profit. The pain here on a ticker like NVDA is watching it moon while your shares get called away much lower.",
+              "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7wftue/",
+              "created": 1717983269,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l7x1351",
+                  "score": 4,
+                  "body": "Yes this happened to me with Carvana. Sold CC at 50, 60, and 70, back when it was at like 90 thinking to itself no fucking way it goes up again, and then it went up another 30%.",
+                  "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7x1351/",
+                  "created": 1717992916,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l7wffp6",
+              "score": 4,
+              "body": "At a loss.  Depending when you take action and the price, you can possibly roll further out for a credit though.",
+              "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7wffp6/",
+              "created": 1717983099,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l7wgxa2",
+                  "score": 8,
+                  "body": "Gotcha. I'll keep looking into everything - my portfolio is finally getting to the point where I feel more comfortable taking on risk and I'm doing my best to learn everything as best as I can before making a massive mistake for your guys' entertainment lmao",
+                  "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7wgxa2/",
+                  "created": 1717983729,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l7z77jv",
+              "score": 2,
+              "body": "Yes, usually accompanied by selling another CC further out that results in a larger credit to cover the cost. It's called rolling. In that situation you'd want to roll up and out and try to catch up to the share price.\n\nOr be one of those guys with NVDA calls for half the share price they've been rolling for a year and just be unable to sell for the foreseeable future unless you come to terms with your loss.",
+              "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7z77jv/",
+              "created": 1718034474,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l7xdvlr",
+              "score": 2,
+              "body": "Your best bet is prob sell Friday, wait for it to surge and then sell the cc with same day exp. U will only make pennies, but its passive income. \n\nU can also take the maximum price over the past 5 days, and sell cc with a strike price 10 - 20% higher than that. \n\nIts all risky, and some may say its the equivalent of picking up quarters in front of a freight train.",
+              "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7xdvlr/",
+              "created": 1718000570,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l7z840y",
+              "score": 1,
+              "body": "Option 2 worst case is you make money and pay taxes…. You might just lose out on possible extra $$",
+              "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7z840y/",
+              "created": 1718034775,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l7zurjq",
+              "score": 1,
+              "body": "It is. And you'll feel good while it keeps going up for a while. You took a hit to save your gains! It was worth it! Then it will tank and you'll spend weeks or months praying it gets back to the strike price of the CCs you spent a fortune buying back to save your shares from being profitably called away.",
+              "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7zurjq/",
+              "created": 1718042344,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l80qoeh",
+              "score": 1,
+              "body": "The risk of buying to close is that it is effectively the same as letting the shares get called away, and rebuying at the higher price. In other words, if the price then falls you’ll have given yourself effectively a new, higher total cost, but the same low cost basis (so if you sell you’ll still pay full taxes). If your fine letting your shares get called away and won’t FOMP into buying to close the CC, then this isn’t a problem (but then the trade-off is, of course, you limit your upside)",
+              "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l80qoeh/",
+              "created": 1718052989,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l7x7qyp",
+              "score": 1,
+              "body": "in event it keeps going up you can always buy more shares again.  i.e. say you sold covered for 150 and shares were 125 and you got 15 for the calls... so now you can assume you sold you shares for 165. once share price reaches 165 you can always buy more shares again sell another set of covered... keep in mind your position holdings grow and you are hilding the shares till they get called so if tanks then you loose more if you bought again and your prior didint get called yet... you can also buy calls to close but you pretty much loose your profit potentially at that point as the cost to close will be high at that point...",
+              "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7x7qyp/",
+              "created": 1717996708,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l7woyz8",
+      "score": 158,
+      "body": "It depends how you define \"worst case.\"\n\n1. Stock market skyrockets and you make 4% while everyone else makes 40%\n\n2. stock market tanks and you lose 36% while everyone else loses 40%",
+      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7woyz8/",
+      "created": 1717987051,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l7xa9a8",
+          "score": 52,
+          "body": "This sounds regarded.\n\nOP, you should do it and tell us what happens",
+          "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7xa9a8/",
+          "created": 1717998239,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l7xl9sa",
+          "score": 28,
+          "body": "Why is this up voted? Point 2 is wrong the way it's worded.\n\nPoint 1 is right in that you have 4% realized gains while everyone else will have 40% unrealized gains. (Realized only if they sell their shares)\n\nBut in point 2 you will still have 4% realized gains.(The premium that you sold the covered calls for)\nWhile still holding shares which have tanked 40% this having a total 36% unrealized loss. While everyone else has 40% unrealized loss.\n\nThe \"unrealized\" terminology of point 2 is important because you can sell another covered call for the shares that you still hold to squeeze out some more profits. So it's not a straightforward 36-40",
+          "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7xl9sa/",
+          "created": 1718005695,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l7xungh",
+              "score": 21,
+              "body": "Nerd, this is why people don’t get options",
+              "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7xungh/",
+              "created": 1718012689,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l80oumo",
+              "score": 2,
+              "body": "Oh you are right, the stock leg gains count and the stock leg losses don’t, so covered calls are free money with zero risk! /s",
+              "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l80oumo/",
+              "created": 1718052373,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l7xhagq",
+          "score": 3,
+          "body": "Cool explanation.  I wish somebody give such simple and clear sample for other cases as puts, calls, etc.",
+          "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7xhagq/",
+          "created": 1718002860,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l7whet1",
+      "score": 19,
+      "body": "Welcome to the casino ![img](emote|t5_2th52|4275)",
+      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7whet1/",
+      "created": 1717983928,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l7whfxj",
+      "score": 14,
+      "body": "https://preview.redd.it/d2webhgagn5d1.jpeg?width=1242&format=pjpg&auto=webp&s=acace4b84c7ff3e26c15493ca9492f4c4720d682\n\nPrepare",
+      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7whfxj/",
+      "created": 1717983941,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l7whocf",
+          "score": 11,
+          "body": "My position is up over 300% all time and I'm really hoping that continues lol",
+          "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7whocf/",
+          "created": 1717984038,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l7wi5od",
+              "score": 5,
+              "body": "If it doesn't hold u will be okay 👍🏾",
+              "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7wi5od/",
+              "created": 1717984234,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l7z8tcn",
+              "score": 3,
+              "body": "So here is the thing to also keep in mind. If you sell the covered call, and the option ends up being exercised, you get to keep your premium, loosing out of the additional gains, but now you also get to pay taxes on your 300% gains on the stock that you were forced to sell. It's another risk you need to aware of and take into account.\n\nI've sold a lot of covered calls on NVDA, and had to buy myself out of a hole a few times to avoid a gigantic tax burden had I allowed the option to be exercised. Those losses ate up several months of solid profits.",
+              "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7z8tcn/",
+              "created": 1718035010,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l7wf3u8",
+      "score": 24,
+      "body": "If you're 100% okay holding the stock long-term even if it tanks... you cannot lose\n\nAs long as you're also ready to sell your shares at a specified price and not cry when it goes above that price.",
+      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7wf3u8/",
+      "created": 1717982956,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l7wxobb",
+          "score": 9,
+          "body": "You kinda explained this weird. If it tanks, the cc is going to the gutter too so you can simply exit the cc for profit regardless then sell the stock. Youd end up with more money than not selling a cc and selling the stock at the same price. \n\nSelling a cc means you have to 100% be willing to let the stock go. If you 100% want to hold the stock, dont do cc. \n\n/u/nightcrawleryt\n\nPersonally i sell a cc on nvda right now since i already am holding it. I just wait for a 5%+ day and sell like 30% otm on a cc like 3 weeks out. It did almost hit once but ran down on friday. \n\n\nThe only negative to selling CCs is being hit with taxes. If it hits ima have a 20% tax bill if I dont want losses to offset or idk, i always daydream of being fired and just living abroad for a year where I can just take the <45k tax free",
+          "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7wxobb/",
+          "created": 1717991127,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l7wyr67",
+              "score": 0,
+              "body": "Thanks for the more detailed response. Could you elaborate on the tax portion? I'm assuming you're referring to the fact that if it hits you then have $x in realized gains? Wouldn't that be the same as just selling the stock, save for the premium credit from the CC sale, or is there something I'm missing?",
+              "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7wyr67/",
+              "created": 1717991677,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l7x1083",
+                  "score": 4,
+                  "body": "Correct. The only caveat comes in when youre wheeling. You might create a wash sale. \n\nBuy stock at 100. Sell near itm 110 cc. Stock tanks so doesnt hit. Sell near itm cc again but its lower than your entry and all others above arent worth. Like a 90 dollar cc. It hits, so you exit with a 10 dollarx100 loss. Now if you sell a csp at 90 and it hits, you reentered at 90 so that 1000 loss is washed. You may have made $333 on prem on all 3 sales, so the $1000 loss is offset, but the government will tax you like you made 1000 so youre really ~ -200, not even",
+                  "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7x1083/",
+                  "created": 1717992873,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l7xe7zb",
+                  "score": 1,
+                  "body": "I find its best to do cc shenanigans on a roth ira, or another non taxable account. Otherwise u need to save 20 - 40% of all gains for uncle sam. If u do smth like daily spy cc, it becomes a pain during filing season.",
+                  "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7xe7zb/",
+                  "created": 1718000796,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l7wfabt",
+          "score": 0,
+          "body": "Is it pretty common for the premium to make up for \"losses\" in the event someone exercises and you buy back?",
+          "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7wfabt/",
+          "created": 1717983035,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l7wfghq",
+              "score": 15,
+              "body": "Nope.",
+              "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7wfghq/",
+              "created": 1717983108,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l7wg2ig",
+              "score": 14,
+              "body": "I run the wheel pretty regularly and can tell you that it's possible to make up for the \"losses\" as you describe. It might require taking on additional risk though.\n\nSomething I should mention to your take on \"losses\". You're not losing anything with a successful CC and the sooner you recognize that, the better. A gain is gain, and contrary to popular belief, stocks do not always go up (which is the biggest killer of any CC).",
+              "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7wg2ig/",
+              "created": 1717983371,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l7wgjxq",
+                  "score": 0,
+                  "body": "Thanks for the info. Cash secured puts make me a little nervous, mainly because I don't really have the capital to back them up with some of the bigger players. I'll keep this strategy in mind though!",
+                  "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7wgjxq/",
+                  "created": 1717983573,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l7wh6d7",
+                      "score": 8,
+                      "body": "Before I started getting into the wheel, I ran CCs on my shares. This helped me get a better understanding on the system. CSP are basically the same thing as a CC - except the leverage is cash vs shares. If you own 100 shares of a stock, you have enough cash to sell a put on that same stock. Hope that makes sense.",
+                      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7wh6d7/",
+                      "created": 1717983832,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "l7wlcni",
+                      "score": 3,
+                      "body": "You would only do the cash secured put if your covered call got assigned. Then you'd have the cash from the sale of the shares at the strike price. You'd only write the put at a price you're willing and able to buy them back at.",
+                      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7wlcni/",
+                      "created": 1717985555,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l7wsg3b",
+                          "score": 2,
+                          "body": "Didn't even think of that. That makes so much more sense haha, maybe I'll give this a shot after the split. Thanks!",
+                          "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7wsg3b/",
+                          "created": 1717988597,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "l7wqe1g",
+                      "score": 2,
+                      "body": "The big dogs play in cash covered puts and covered calls",
+                      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7wqe1g/",
+                      "created": 1717987668,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "l7wgasl",
+              "score": 2,
+              "body": "Depends how many times you've written covered calls on the same shares that expired OTM. If it's only once, then the cost to buy them back at break even is the strike price plus what you received in premium. More common is to switch to writing cash secured puts. See: \"the wheel\" strategy.",
+              "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7wgasl/",
+              "created": 1717983469,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l7wyjk2",
+              "score": 2,
+              "body": "Answer is actually yes lol. If it gets called on friday, it has the whole weekend to tank. Most stocks dont go straight up. Unless you mean buy after hours on friday, then no, thats almost never going to make up for the potential profit lost",
+              "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7wyjk2/",
+              "created": 1717991568,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l7wu5wt",
+              "score": 1,
+              "body": "This also depends on your emotional attachment to the stock, of which you should have none. If you feel like you should be holding a ticker long-term, just do that instead.",
+              "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7wu5wt/",
+              "created": 1717989400,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l7xc3s4",
+      "score": 4,
+      "body": "Gme in 2021 gained 15k but could have made like 90k if I didn’t cover",
+      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7xc3s4/",
+      "created": 1717999411,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l7xdcps",
+          "score": 4,
+          "body": "That's rough man. I'm a fairly new trader and my biggest loss so far was NVDA $910 calls in April. Like a dumbass I bought on a Friday, stock proceeded to drop to $800 and I lost a little over $3k from the premium alone. If I had just hit that put button instead of call, I'd be in a whole other situation.",
+          "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7xdcps/",
+          "created": 1718000225,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l7zwgke",
+              "score": 1,
+              "body": "the key is that you should plan an entry and exit for your strategy. don't just dartboard it. i wouldn't recommend covered calls unless you're running a multipart strategy that makes use of their risk mitigation, etc.",
+              "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7zwgke/",
+              "created": 1718042905,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l7x770j",
+      "score": 4,
+      "body": "For me, CC for NVDA has burned me last 2 years.  I basically lost 600 shares (got assigned to sell from $190-280) due to assignment from covered calls because the stock went up so fast.   However I don’t think nvda will have the same run as its market cap is 3T. At least not near term.",
+      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7x770j/",
+      "created": 1717996373,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l7wsddc",
+      "score": 7,
+      "body": "Personally I prefer cash covered put with strike prices where I’d like to buy the stock anyways…",
+      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7wsddc/",
+      "created": 1717988562,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l7z9gzs",
+          "score": 2,
+          "body": "These are fine except you're sitting on huge cash positions (unless you're talking naked puts). So if Nvidia or some other stock is mooning, you're pocketing the premium from selling CSPs, but you're missing out on most of the gains from the stock going up.\n\nIt's a great play if you think a stock is super overvalued though. But otherwise, I'd rather just own the stock.",
+          "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7z9gzs/",
+          "created": 1718035229,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l7zo59i",
+              "score": 1,
+              "body": "I don't disagree with you at all, just saying that I prefer selling cash covered puts versus selling stock covered calls.",
+              "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7zo59i/",
+              "created": 1718040166,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l807ysa",
+                  "score": 3,
+                  "body": "Totally hear yah - I’m just a hater of CSPs cuz id rather just go buy another stock with that capital rather than collect premium.",
+                  "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l807ysa/",
+                  "created": 1718046730,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l811chl",
+              "score": 1,
+              "body": "Aside from interest paid/received and tax consequences writing puts and covered calls are effectively the same thing.",
+              "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l811chl/",
+              "created": 1718056782,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l7wqvmq",
+      "score": 3,
+      "body": "if you intend to hold the stock for long term there is very little risk. if the underlying keeps going up and you dont want to get assigned you can just keep rolling the call",
+      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7wqvmq/",
+      "created": 1717987884,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l7x6340",
+      "score": 3,
+      "body": "No sorry I barely know the alphabet",
+      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7x6340/",
+      "created": 1717995717,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l7xamz5",
+      "score": 3,
+      "body": "No. Nothing can go wrong.",
+      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7xamz5/",
+      "created": 1717998476,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l7xf0di",
+      "score": 3,
+      "body": "The worse case is actually the stock tanking.\n\nBut it usually feels worse when it goes up a lot and gets calles away, even though this is actually the max profit scenario.",
+      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7xf0di/",
+      "created": 1718001319,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l7xg7q5",
+      "score": 2,
+      "body": "It’s all about opportunity cost. You won’t lose money, other than if it keeps going up, you are no longer participating past your strike price unless you buy your call back, at most likely a loss.",
+      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7xg7q5/",
+      "created": 1718002128,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l7yyj77",
+      "score": 2,
+      "body": "Decent premium from covered calls comes from those with higher volatility which by definition means you either lose out on bigger gains or suffer bigger losses when it goes down.",
+      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7yyj77/",
+      "created": 1718031496,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l7z2tbh",
+      "score": 2,
+      "body": "Ill tell you the worst thing that can happen you sell covered calls 1 year out for a close price. NVDA rockets youd be up 100k on nvda but you sold covered calls for 2k profit now you missed out on 98k",
+      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7z2tbh/",
+      "created": 1718032981,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l7x85hi",
+      "score": 2,
+      "body": "selling covered calls for ARM is a juicy business right now for june 2026... you can net close to 35%+ on some plus some appreciation to the call value...",
+      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7x85hi/",
+      "created": 1717996948,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l7xsxy4",
+      "score": 1,
+      "body": "Stocks also go down sometimes.",
+      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7xsxy4/",
+      "created": 1718011431,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l7xyz97",
+      "score": 1,
+      "body": "sp tanks in pre or post market and you can't get out of your positions due to the short calls, so you have to watch it tank further til 9:30am.",
+      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7xyz97/",
+      "created": 1718015608,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l7y560f",
+      "score": 1,
+      "body": "You have to declare bankruptcy, move into a cardboard box under a bridge, and become a yogurt specialist behind your local wendys.",
+      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7y560f/",
+      "created": 1718019233,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l7yl93n",
+      "score": 1,
+      "body": "Covered calls are a good part of an options strategy, but I don’t know that they’re a replacement for buying call options, which is what it sounds like you’re considering. \n\nYou’re essentially capping your gains without mitigating losses in order to collect a small premium. If the gain + premium + downside risk doesn’t outweigh current yields on bonds or GICs (which they often don’t), then you’re not seeing the forest through the trees with your dollars and should probably reevaluate. Anyone in the past 18 months who’s sold covered calls on NVDA has most likely had them called away or been forced to close and massively underperformed compared to people who just held the stock. \n\nCC’s are mostly meant for swing or momentum traders who are looking to play both stock rises and stock declines with multiple options strategies",
+      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7yl93n/",
+      "created": 1718026604,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l7yyvo3",
+      "score": 1,
+      "body": "Sounds like it literally cannot go tits up. Go all in",
+      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7yyvo3/",
+      "created": 1718031617,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l7z5llc",
+      "score": 1,
+      "body": "Cover calls are generally terrible. They cap you potential earnings while they don't minimize your risk. The entire point of investing is to take calculated risk and enjoy the potential reward, not pick pennies.",
+      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7z5llc/",
+      "created": 1718033930,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l7za6wl",
+      "score": 1,
+      "body": "When NVDA goes 2x from here, u will feel max pain",
+      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7za6wl/",
+      "created": 1718035474,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l7zj8pt",
+      "score": 1,
+      "body": "Worst case is nvda rips, past the moon, past urANUS, past pluto, past this solar system and you have to end up selling your nvda stocks to cover the option losses. \nTLDR: if covered calls rip you give your stonks to someone else.",
+      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7zj8pt/",
+      "created": 1718038524,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l7znl6p",
+      "score": 1,
+      "body": "Bernie Madoff",
+      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7znl6p/",
+      "created": 1718039980,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l7zs2ck",
+      "score": 1,
+      "body": "Not really much of a risk but you can also just set a automatic sell point. \n\nSelling covered calls is good if you think they stock will trade really flat for a while.\n\nIf you think it's going to go down just sell. If you think it's still going to go up just set a sell point.",
+      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7zs2ck/",
+      "created": 1718041470,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l808evd",
+      "score": 1,
+      "body": "Worst case scenario?  Me last Friday when my CRWD $350 covered call was assigned after the market closed with the stock at $349.something but it shot up in extended hours when it was announced that it would be included in the S&P 500.",
+      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l808evd/",
+      "created": 1718046879,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l80ttw0",
+      "score": 1,
+      "body": "Getting called and losing all of ur beloved shares at a discount",
+      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l80ttw0/",
+      "created": 1718054079,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l81ijbv",
+      "score": 1,
+      "body": "Covered calls are a guarantee",
+      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l81ijbv/",
+      "created": 1718063539,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l829wri",
+      "score": 1,
+      "body": "If I am writing covered calls my goal is to be satisfied with the following 2 scenarios:\n1. Receive premium and must hold onto stock due to price below strike on exercise date or;\n2. Receiving the premium  + the profit if the strike finishes in the money. On the day I write the option I will purchase 100 shares with the intent of selling those shares if the option finishes ITM.",
+      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l829wri/",
+      "created": 1718074939,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l843gao",
+      "score": 1,
+      "body": "Covered calls are written on pretty much stagnant sideways stocks which have a bullish tendency. Writing covered calls is a source of income. The moment the stock skyrockets, you lose the opportunity cost. Your shares will hedge the loss from the calls sold and you will end up where you already were. Your intention was to make the regular income so you shouldn't be worried about the opportunity loss. Ideally, you buy more shares and write covered calls on like 20-50% of your shares to avoid opportunity loss. \n\nBiggest problem is if the stock tanks. Then you lose your stocks value :( Hopefully you made enough income already and you kept your exit strategy on the stock updated with real time to avoid these scenarios\n\nIf you are writing covered calls on a bearish stock, better exit and sell naked calls 🤡 /s please don't do this if you were into covered calls.",
+      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l843gao/",
+      "created": 1718112822,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l88f5ey",
+      "score": 1,
+      "body": "Worst case you go to wsb for advice",
+      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l88f5ey/",
+      "created": 1718173532,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8fmiof",
+      "score": 1,
+      "body": "Learn how to roll your position first before you sell the calls.",
+      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l8fmiof/",
+      "created": 1718290490,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l7x1kli",
+      "score": 0,
+      "body": "Google could.",
+      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7x1kli/",
+      "created": 1717993176,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l7xfu66",
+      "score": 0,
+      "body": "I love that I’m trading against regards like this… cheers",
+      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7xfu66/",
+      "created": 1718001873,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l7xlusm",
+          "score": 2,
+          "body": "Trading WITH regards like this. We're one in the same brother 🫡",
+          "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7xlusm/",
+          "created": 1718006121,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l805p13",
+      "score": 0,
+      "body": "You’re under the impression that there’s an investment where the worst-case scenario is putting a ceiling on your gains?\n\nA true regard. You’re in the right place.",
+      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l805p13/",
+      "created": 1718045966,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l7wvv4t",
+      "score": -2,
+      "body": "Someone just gave up on their position and decided to make money off writing calls",
+      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7wvv4t/",
+      "created": 1717990220,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l7ww2vd",
+          "score": 1,
+          "body": "Nope, just excited to have the opportunity to get some trading done with a big player. Even if I had given up on my position, I don't see the problem with that!",
+          "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7ww2vd/",
+          "created": 1717990325,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l7xiqiv",
+      "score": -5,
+      "body": "I find it amazing that all this information is available on YouTube and they all have very rich and detailed descriptions and these people still need wsb to describe the “worst case scenario”. If you’re asking this, then you should not be trading options my friend. If you had done the research, you would know what the worst case scenario.",
+      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7xiqiv/",
+      "created": 1718003875,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l7xivdb",
+          "score": 4,
+          "body": "Sometimes it's nice to get an actual response from actual people and have a conversation about it. Just doing my due diligence!",
+          "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7xivdb/",
+          "created": 1718003969,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l7xjg8w",
+              "score": -1,
+              "body": "But this is literally options 101. The worst case scenario is you get greedy for the premium and sell a covered call well below your initial cost per share and then it gets exercised and you lose your shares and end up losing money. This information is explained in the YouTube channel InTheMoney and that guy does a great job explaining everything. How in the world does a 6 sentence paragraph do a better job explaining options than a 20 minute video that has literal pictures for examples. \n\nSorry for sounding frustrated but there’s no way you’ve done your dd if these are the type of questions you’re asking.",
+              "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7xjg8w/",
+              "created": 1718004383,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l7xjyd4",
+                  "score": 0,
+                  "body": "I just like being able to ask questions about things and talk to actual people. Articles and videos are nice, but sometimes I want to dig a bit deeper! In my opinion CC's are a bit more than options 101, but then again I'm at a different point than you experience wise. Everybody has to start somewhere. Not sure why you're frustrated about a stranger asking a question on a forum dedicated to the subject, but you do you man",
+                  "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7xjyd4/",
+                  "created": 1718004745,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l7xkhth",
+                      "score": 0,
+                      "body": "No man, this is options 101. Not even a little deeper. Iron condors are deeper than options 101. The question you’re asking about options is covered in part 2 of a 3 part video about options.",
+                      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7xkhth/",
+                      "created": 1718005136,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l7xklo7",
+                          "score": 1,
+                          "body": "Whatever makes you feel better man, thanks for the tips!",
+                          "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7xklo7/",
+                          "created": 1718005213,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l7xkq44",
+                              "score": 0,
+                              "body": "Good luck on your random stock market advice from wsb, there’s no way that can go wrong.",
+                              "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7xkq44/",
+                              "created": 1718005302,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l7xlkje",
+                                  "score": 2,
+                                  "body": "And here you are in the comments doing exactly what you're telling me not to. You've done the same thing, posting random questions about BBY to an investing subreddit and posting to a legal advice sub after breaking your tooth on a candy bar. Could've Googled all that but you posted on Reddit instead. Why?",
+                                  "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7xlkje/",
+                                  "created": 1718005911,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "l7xm7hx",
+                                      "score": 0,
+                                      "body": "Because those questions have multiple answers dependent on situations, most obviously being state and local laws. The difference between those questions and yours is that if you understood what a covered call is then the worst case scenario is inherently given and my questions require variables to be assessed first (I don’t even remember what I could have asked on BBY I just know I made like 50k on that trade). You do not know what a covered calls is or how they work. Instead of learning what they are and how they work, you skipped the basics of options and decided to just see if you could get an answer you liked here. I gave you a resource that explains options and yet somehow your attention span is as long as a Twitter post and can’t get through a 20 minute video.",
+                                      "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7xm7hx/",
+                                      "created": 1718006379,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "l7xmhhp",
+                                          "score": 3,
+                                          "body": "I understand perfectly what a covered call is. Read my post again. I wasn't asking what it was, I was asking if I was missing something risk wise. Everything I read up on and watched was saying some variation of \"it's impossible to lose money!\" and I was asking what the catch was. \n\nAgain, why are you mad?",
+                                          "permalink": "/r/wallstreetbets/comments/1dc9pqn/can_someone_run_me_through_the_worst_case/l7xmhhp/",
+                                          "created": 1718006584,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

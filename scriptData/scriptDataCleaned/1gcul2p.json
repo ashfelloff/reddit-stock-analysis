@@ -1,0 +1,798 @@
+{
+  "title": "Is this graph a crystal ball for S&P Return rates? Seems like it to me",
+  "score": 166,
+  "selftext": "Found this graph in a post on Fidelity, wondering what y’all regards thoughts are.",
+  "link_flair_text": "Discussion",
+  "id": "1gcul2p",
+  "num_comments": 89,
+  "created_utc": 1729975815,
+  "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/",
+  "url_overridden_by_dest": "https://i.redd.it/h03e2ooay5xd1.jpeg",
+  "comments": [
+    {
+      "id": "ltwpmza",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 1 | **First Seen In WSB** | just now\n**Total Comments** | 0 | **Previous Best DD** | \n**Account Age** | 1 year | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltwpmza/",
+      "created": 1729975821,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltwr6ax",
+      "score": 493,
+      "body": "Easy to get a series to fit the past given enough variables - future? Not so much",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltwr6ax/",
+      "created": 1729976304,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltwx58h",
+          "score": 283,
+          "body": "Not only that the model is continuously adjusted to ensure accuracy so we don’t know what was an original projection and what the updated model fixed. \n\nThis is very misleading.",
+          "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltwx58h/",
+          "created": 1729978305,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ltxqxt7",
+              "score": 45,
+              "body": "[deleted]",
+              "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltxqxt7/",
+              "created": 1729989388,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ltxr9x8",
+                  "score": 25,
+                  "body": "Yeah, a lot of firms do this. For example, big hedge funds promised big returns at the end of the year, but they continuously update their forecast week to week and when they promised 12 months later, you would have a 13% gain, you really made 4% after all the updated forecast.",
+                  "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltxr9x8/",
+                  "created": 1729989518,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "ltx6c9j",
+              "score": 24,
+              "body": "Too late I've already bought spy puts!",
+              "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltx6c9j/",
+              "created": 1729981591,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ltx74q6",
+                  "score": 69,
+                  "body": "Bruh can’t even read a graph properly.\n\nYou belong here homie",
+                  "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltx74q6/",
+                  "created": 1729981885,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ltxqf03",
+                      "score": 9,
+                      "body": "Not enough colourful lines.",
+                      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltxqf03/",
+                      "created": 1729989189,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "ltxup5l",
+                  "score": 5,
+                  "body": "It doesn't predict it will be negative, just not as positive. This is where you should short naked calls, not long puts.",
+                  "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltxup5l/",
+                  "created": 1729990847,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lty3r1t",
+                  "score": 2,
+                  "body": "For 2029?",
+                  "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/lty3r1t/",
+                  "created": 1729994399,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ltyplh7",
+                      "score": 2,
+                      "body": "All is know is i saw down which means buy puts! I'll figure the rest out once Robinhood unrestricts my account!",
+                      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltyplh7/",
+                      "created": 1730004030,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lu0lxw6",
+          "score": 3,
+          "body": "Yeah, I agree, I’ve built some models for our sales team that’s really great fitting to the past data, but generally is mediocre at predicting future sales results. \n\nHowever, creating dynamically weighted ensemble models (while making future forecasts more conservative) tends to help with long(er) term accuracy for us. Our precision tends to be low on a weekly/monthly basis, higher on quarterly, but we’ve achieved 90%+ accuracy on year long projections. \n\nThere is a massive difference though between forecasting something like sales versus the stock market returns, because forecasts can have an impact on the return itself (self-fulfilling prophecy). \n\nIt’s much better (in my opinion) to create more narrow projections and model outcomes based on other indicators. For instance, what return can we expect from QQQ if Google and Apple both miss earnings.",
+          "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/lu0lxw6/",
+          "created": 1730041131,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ltxrkze",
+          "score": 2,
+          "body": "Yes, people don't understand chaos.",
+          "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltxrkze/",
+          "created": 1729989635,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "luortrv",
+          "score": 1,
+          "body": "Here’s a link to the article [https://www.fidelity.com/learning-center/trading-investing/stock-market-outlook](https://www.fidelity.com/learning-center/trading-investing/stock-market-outlook)",
+          "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/luortrv/",
+          "created": 1730378945,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ltwr5ml",
+      "score": 156,
+      "body": "How does the model “predict” these financial crises? Is it adjusted after the fact to make it look more accurate than it actually was? Sure you could predict a financial crisis like 2008 but you can’t mathematically predict a worldwide pandemic.",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltwr5ml/",
+      "created": 1729976298,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltwvoao",
+          "score": 92,
+          "body": "The data is fed to the algo and it backfills the plot. \n\n\nThere's no future data to feed it lmao.",
+          "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltwvoao/",
+          "created": 1729977799,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lu0anqz",
+              "score": 18,
+              "body": "They made an algorithm that predicts the past based on data from the past?\n\nWow",
+              "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/lu0anqz/",
+              "created": 1730037104,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "ltxy4dv",
+              "score": 9,
+              "body": "No future data to analyze?\n\nReally? You are a genius.",
+              "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltxy4dv/",
+              "created": 1729992172,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lty008d",
+                  "score": 9,
+                  "body": "*bows*",
+                  "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/lty008d/",
+                  "created": 1729992916,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lu1yq4v",
+          "score": 1,
+          "body": "Hell even Burry almost got fucked with his prediction of the financial crisis.",
+          "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/lu1yq4v/",
+          "created": 1730056033,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ltwvhbf",
+      "score": 35,
+      "body": "This chart is from the paper, The Single Greatest Predictor of Future Stock Market Returns, except that it has been cleaned up a little and the axis inverted. \n\nThe prediction is based on the total percentage of individual asserts held in stocks. The original article is linked below. If you Google for the title you can find several later article discussing it.\n\nhttps://www.philosophicaleconomics.com/2013/12/the-single-greatest-predictor-of-future-stock-market-returns/",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltwvhbf/",
+      "created": 1729977733,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltwvslh",
+          "score": 18,
+          "body": "[deleted]",
+          "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltwvslh/",
+          "created": 1729977840,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ltxpf0a",
+              "score": 3,
+              "body": "Looks like it",
+              "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltxpf0a/",
+              "created": 1729988809,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lty9syb",
+          "score": 4,
+          "body": "Does this \"model\" have any ability to predict the future? All I see is that people own more stocks when stocks perform better, which could be entirely due to the stock price itself.",
+          "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/lty9syb/",
+          "created": 1729996823,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ltygt8t",
+              "score": 6,
+              "body": "The article has more information, but briefly: \n\nThe percentage invested in equities today predicts the average annual return for the next 10 years. The two lines match because the y axis for the return is inverted (original chart) and shows as percentage owned today rises the future return falls. \n\nProbably more understandable after reading the article. I’m not advocating for this model, just pointing out the source of the chart for those interested in reading more. It is interesting, in my opinion, however.",
+              "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltygt8t/",
+              "created": 1729999765,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ltwyj1i",
+      "score": 26,
+      "body": "If you back test the back test, you get a front butt.",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltwyj1i/",
+      "created": 1729978790,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lu0d50g",
+          "score": 1,
+          "body": "“And as you can see, the butt is in the front”",
+          "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/lu0d50g/",
+          "created": 1730038053,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "luor1x5",
+          "score": 1,
+          "body": "🤣",
+          "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/luor1x5/",
+          "created": 1730378641,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ltwsabj",
+      "score": 29,
+      "body": "It only matters if their modeling is accurate on a forward basis.  If they posted their previous model predictions then we could see how accurate their data predicts CAGR",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltwsabj/",
+      "created": 1729976666,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltxszyq",
+          "score": 7,
+          "body": "They’ll NEVER do that.",
+          "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltxszyq/",
+          "created": 1729990183,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lty9dkk",
+              "score": -4,
+              "body": "Well they just did at the very least right?",
+              "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/lty9dkk/",
+              "created": 1729996654,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ltxrmt2",
+      "score": 8,
+      "body": "Wow you're really good at curve fitting",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltxrmt2/",
+      "created": 1729989655,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltxs1kx",
+      "score": 6,
+      "body": "It's still above 0, bullish",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltxs1kx/",
+      "created": 1729989812,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltx0vnk",
+      "score": 6,
+      "body": "Even if this would be 100% correct then the only thing this model predicts is that we will have 6-8% returns instead of double digit ones. Its not even like bad returns tbh",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltx0vnk/",
+      "created": 1729979608,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "luor5uo",
+          "score": 1,
+          "body": "True",
+          "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/luor5uo/",
+          "created": 1730378684,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ltxfmpq",
+      "score": 5,
+      "body": "I’d bet to say that modeling is drawn out after the fact.",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltxfmpq/",
+      "created": 1729985092,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltwu3rn",
+      "score": 4,
+      "body": "Always assume we are in unprecedented times",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltwu3rn/",
+      "created": 1729977271,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltwyt7m",
+      "score": 4,
+      "body": "Stop with the crap \"model results\". Where the blue and the orange overlay the prediction time was a probably a rolling month or some other really short time period (that's why the prediction follows the actual data so damn well) but at the end supposedly this model gives a 5 year + prediction. The results for the past and the future predictions ARE NOT DONE BY THE SAME MODEL. I can quite confidently say that, because there is no way, a model which spits out 5 year predictions would be able to model spikes that well. This is crap and misleading.",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltwyt7m/",
+      "created": 1729978887,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltx19d5",
+      "score": 2,
+      "body": "It says 10 years but goes 50 so clearly fake ",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltx19d5/",
+      "created": 1729979742,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltxcjl1",
+      "score": 2,
+      "body": "Time to bet the whole farm bruh",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltxcjl1/",
+      "created": 1729983922,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lu0ygz8",
+          "score": 2,
+          "body": "Brb selling my dildo collection to “all in”",
+          "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/lu0ygz8/",
+          "created": 1730045190,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lu227ms",
+              "score": 1,
+              "body": "Better glide em all up at once, one last time",
+              "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/lu227ms/",
+              "created": 1730057079,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ltxocva",
+      "score": 2,
+      "body": "Probably belongs here\n\nhttps://www.tylervigen.com/spurious-correlations",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltxocva/",
+      "created": 1729988401,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltwr99b",
+      "score": 3,
+      "body": "Wow that's like the same line!!!",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltwr99b/",
+      "created": 1729976331,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltwwvwi",
+      "score": 3,
+      "body": "!remindme 1 year",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltwwvwi/",
+      "created": 1729978214,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltwzdei",
+          "score": 4,
+          "body": "!remindme 10 years",
+          "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltwzdei/",
+          "created": 1729979079,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ltxjs55",
+              "score": 5,
+              "body": "!remindme 100 years",
+              "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltxjs55/",
+              "created": 1729986646,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ltwx1lb",
+          "score": 1,
+          "body": "I will be messaging you in 1 year on [**2025-10-26 21:30:14 UTC**](http://www.wolframalpha.com/input/?i=2025-10-26%2021:30:14%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltwwvwi/?context=3)\n\n[**3 OTHERS CLICKED THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Fwallstreetbets%2Fcomments%2F1gcul2p%2Fis_this_graph_a_crystal_ball_for_sp_return_rates%2Fltwwvwi%2F%5D%0A%0ARemindMe%21%202025-10-26%2021%3A30%3A14%20UTC) to send a PM to also be reminded and to reduce spam.\n\n^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%201gcul2p)\n\n*****\n\n|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|\n|-|-|-|-|",
+          "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltwx1lb/",
+          "created": 1729978270,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ltwx1fp",
+      "score": 1,
+      "body": "You've found a real crystal ball! ",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltwx1fp/",
+      "created": 1729978269,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltwxqui",
+      "score": 1,
+      "body": "Shocked if this indicator doesn't use info known only after the fact",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltwxqui/",
+      "created": 1729978515,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltwy182",
+      "score": 1,
+      "body": "I am guessing use p/e ratio vs it's entire history\n\nNeeds to be walk forward model",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltwy182/",
+      "created": 1729978617,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltx3tb5",
+      "score": 1,
+      "body": "!remindme 1 year",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltx3tb5/",
+      "created": 1729980669,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltxezd6",
+      "score": 1,
+      "body": "!remind me in 10 years",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltxezd6/",
+      "created": 1729984845,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltxjqh8",
+      "score": 1,
+      "body": "I adjust the orange line after the blue line already happens, so I'm never wrong!",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltxjqh8/",
+      "created": 1729986629,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltxno9p",
+      "score": 1,
+      "body": "Not enough data points.",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltxno9p/",
+      "created": 1729988136,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltxnv4q",
+      "score": 1,
+      "body": "Bro we’re going hard until at least 2050.",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltxnv4q/",
+      "created": 1729988210,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltxopv5",
+      "score": 1,
+      "body": "When rates start going back down, that’s when you buy puts. Because it means growth has slowed a lot and more aggressive rate cuts are needed to stimulate the economy.",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltxopv5/",
+      "created": 1729988541,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltxvck2",
+      "score": 1,
+      "body": "Most people immediately discredit any possible conceivable evidence that contradicts their already held beliefs. There is almost never any honest non-biased discussion about the future of the market/economy. This and any future thread will be no different so don’t bother wasting your time.",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltxvck2/",
+      "created": 1729991099,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltxy9bs",
+      "score": 1,
+      "body": "Oh wow they modeled in the 2008 crisis, that's excellent magic 8 ball shit.",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltxy9bs/",
+      "created": 1729992226,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lty69fs",
+      "score": 1,
+      "body": "Given it's like 50% off twice, probably not lmao",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/lty69fs/",
+      "created": 1729995403,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lty7337",
+      "score": 1,
+      "body": "I have tried Machine Learning to make the future price projections. But it only works within a certain range [for example let us say S&P 500 at 5500-6500 till 2030] and that makes it almost impossible to make any trades based on that.\nSo at best, it is only an acedemic exercise.\n\nAlso, in this case the projection graph is fitting rather too well with actual graph but going forward [2025-2030] variable will completly change [covid, high inflation, high interrst rates, slowing China, AI initiation etc] and so with almost 100% certainty you may say that the future projections in the graph will prove to be wrong.",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/lty7337/",
+      "created": 1729995734,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltybihi",
+      "score": 1,
+      "body": "The probability of tomorrow’s forecasting being correct is much higher, but as you go further from present time the forecast accuracy will go down.",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltybihi/",
+      "created": 1729997523,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltz44bk",
+      "score": 1,
+      "body": "50% of the time that graph is right all the time",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltz44bk/",
+      "created": 1730012805,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltzf3xc",
+      "score": 1,
+      "body": "Can we see the version of this graph when it was generated in 2020? And 2015 / 2005 / 1995?",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltzf3xc/",
+      "created": 1730020227,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltzk7az",
+      "score": 1,
+      "body": "So I’ll still get 6% return? Deal!",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltzk7az/",
+      "created": 1730023469,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltzkax5",
+      "score": 1,
+      "body": "Shit model. Ask AI.",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltzkax5/",
+      "created": 1730023536,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltzo48v",
+      "score": 1,
+      "body": "There are too many variables to nail down, many unknown unknowns.  They didn't see or account for the internet taking off in the 1990s when forecasting back in the 1980's.",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltzo48v/",
+      "created": 1730026062,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltzy4qc",
+      "score": 1,
+      "body": "Inflation is the only way out.",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/ltzy4qc/",
+      "created": 1730031677,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lu00rfj",
+      "score": 1,
+      "body": "You belong here!",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/lu00rfj/",
+      "created": 1730032929,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lu015ee",
+      "score": 1,
+      "body": "It's accurate in the sense there is 7% difference and it's constantly adjusted meaning it's bullcrap",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/lu015ee/",
+      "created": 1730033107,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lu09tnx",
+      "score": 1,
+      "body": "Remind me! 7 years",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/lu09tnx/",
+      "created": 1730036774,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lu0ebfe",
+      "score": 1,
+      "body": "I too like crayons",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/lu0ebfe/",
+      "created": 1730038493,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lu0gatg",
+      "score": 1,
+      "body": "No way Jerome Powell will let the market down",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/lu0gatg/",
+      "created": 1730039211,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lu0htqj",
+      "score": 1,
+      "body": "So what you’re saying is there’s gonna be a spike",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/lu0htqj/",
+      "created": 1730039737,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lu0mxgc",
+      "score": 1,
+      "body": "Looks like another stupid chart",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/lu0mxgc/",
+      "created": 1730041468,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lu0okxg",
+      "score": 1,
+      "body": "“It’s priced in”",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/lu0okxg/",
+      "created": 1730042025,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lu0ol1d",
+      "score": 1,
+      "body": "everybody gangasta with time series",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/lu0ol1d/",
+      "created": 1730042026,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lu16p6a",
+      "score": 1,
+      "body": "Without backtesting validation, this graphic means less than nothing. You have no idea what its 5-year projection looked like at the time. I've trained models on historical SP500 data with external social media features, and other index data, and it always looks like this, regardless of whether you're using something from ARIMA to TFT style modern attention models. And when you backtest them, they all look like shit. The stock market is simply too stochastic to model well, and if it wasn't, we'd know.",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/lu16p6a/",
+      "created": 1730047764,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lu18bgk",
+      "score": 1,
+      "body": "nah its bullshit",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/lu18bgk/",
+      "created": 1730048262,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lu18xt7",
+      "score": 1,
+      "body": "Yes you found it. Go all in.",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/lu18xt7/",
+      "created": 1730048456,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lu19mgf",
+      "score": 1,
+      "body": "THIS ghey ber....",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/lu19mgf/",
+      "created": 1730048667,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lu1jws2",
+      "score": 1,
+      "body": "I got 2 balls and neither of them are crystal.",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/lu1jws2/",
+      "created": 1730051691,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lu1ku9h",
+      "score": 1,
+      "body": "What is the model used here? Projected returns seem really high compared to more credible models I've seen. Fidelity also has a conflict of interest to convince customers that now is a good time to invest money with them.",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/lu1ku9h/",
+      "created": 1730051956,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lu1xv2a",
+      "score": 1,
+      "body": "This is stupid.",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/lu1xv2a/",
+      "created": 1730055767,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lu69u2p",
+      "score": 1,
+      "body": "I mean I’m just happy with the fact that it’s still projecting green? Feel like a lot of us aren’t crazy gamblers and just want our money to slowly grow over the years as we grow ourselves and this is telling me my shares in the S&P are going to grow so whether that’s 20% or 7% or whatever over the next 5 year I mean, I’ll take it. Yeah maybe I’m not maximizing my returns this way but I’d really have to commit time learning more about the market in order to do so and I mean I have a full time job that pays pretty well so I’m not willing to take time away from that timo learn how to improve my growth rate. As long as I’m growing I’m happy. If you can show me something that I can put my money into that’s more likely to grow over the next 5 years than the S&P 500 then be my guest, I’m all ears.",
+      "permalink": "/r/wallstreetbets/comments/1gcul2p/is_this_graph_a_crystal_ball_for_sp_return_rates/lu69u2p/",
+      "created": 1730122751,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

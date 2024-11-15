@@ -1,0 +1,986 @@
+{
+  "title": "Cannot log in Vanguard or Fidelity; Hearing Schwab down too. Interactive Brokers OK so far.",
+  "score": 238,
+  "selftext": "I suspect a lot of us are having trouble logging in to our accounts this morning. It's very frustrating when the market gets exciting and you cannot do anything with \"your\" money!\n\nI've been unable to log in to Vanguard or Fidelity accounts for past 30 minutes.\n\nSaw reports that Schwab is also down.\n\nInteractive Brokers account is working so far.\n\nAnyone else having issues?",
+  "link_flair_text": null,
+  "id": "1ekoyxv",
+  "num_comments": 107,
+  "created_utc": 1722867516,
+  "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/",
+  "comments": [
+    {
+      "id": "lgm29ie",
+      "score": 93,
+      "body": "Panic selling is contagious I hear",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgm29ie/",
+      "created": 1722868169,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lgmk1kk",
+          "score": 72,
+          "body": "Some of us were trying to panic buy",
+          "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmk1kk/",
+          "created": 1722873985,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lgnlbns",
+              "score": 2,
+              "body": "Yeah they missed the boat this morning if they couldn’t log in. It could be a good or bad thing …",
+              "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgnlbns/",
+              "created": 1722885828,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lgmi6pe",
+          "score": 5,
+          "body": "I'm sorry forgetting your password is the best way to live",
+          "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmi6pe/",
+          "created": 1722873389,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lgmjntd",
+          "score": 3,
+          "body": "Panic selling? I saw another post saying today is supposed to be a “bloodbath”\n\nUhhh… what’s going on exactly?",
+          "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmjntd/",
+          "created": 1722873862,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lgo277i",
+              "score": 1,
+              "body": "Market dropped like 4%. I'm still shocked AAPL is trading above 200, and I've got a *very* substantial number of shares.",
+              "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgo277i/",
+              "created": 1722891178,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lgmia43",
+          "score": 2,
+          "body": "if you couldn't get in to panic sell, it was a blessing as the market has rebounded some since the opening bell",
+          "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmia43/",
+          "created": 1722873420,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lgnxig6",
+              "score": 1,
+              "body": "I just wanted to Tax Loss Harvest and couldn't get in to do so.",
+              "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgnxig6/",
+              "created": 1722889696,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lgmrsf2",
+          "score": 1,
+          "body": "That’s not the brokerages concern. Or at least shouldn’t be",
+          "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmrsf2/",
+          "created": 1722876478,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lgm2vbs",
+      "score": 117,
+      "body": "Same issue with Schwab. Can someone sue these guys please? Outrageous we coincidentally don’t have access when the market is going through a huge change.",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgm2vbs/",
+      "created": 1722868376,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lgmw2x3",
+          "score": 19,
+          "body": "This is a tech issue from an influx of people trying to log-in who never log-in. Vanguard reverted to a bare bones interface as a band aid to give people access. This is nothing more than an I.T. issue",
+          "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmw2x3/",
+          "created": 1722877793,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lgn1k85",
+              "score": 24,
+              "body": "It’s a money issue. The guys who spend serious money on scalability don’t go down like this. I’m a software dev who’s done some devops too. It’s not impossible to build a system that can scale rapidly to increased traffic. How many times can you recall Google going down and you can’t use Google search?\n\nThey just don’t wanna spend the money and engineering resources making their systems more scalable, because it is not cheap",
+              "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgn1k85/",
+              "created": 1722879545,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lgn1r94",
+                  "score": -2,
+                  "body": "[deleted]",
+                  "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgn1r94/",
+                  "created": 1722879608,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lgn23pc",
+                      "score": 4,
+                      "body": "Early stage capitalism was far worse in terms of retail trading experience lol. You paid $7 per transaction and were lucky if anyone would answer your call during a high volatility day like today. Brokerages could do more but things are arguably better for retail than at any other point in history. Nowadays you can sit on the shitter and buy & sell shares commission free",
+                      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgn23pc/",
+                      "created": 1722879717,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lgo2ggs",
+                          "score": 2,
+                          "body": "> You paid $7 per transaction\n\nLOL way back when I was a kid I (not all *that* long ago), we were paying like $50 at a discount brokerage and happy with it.",
+                          "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgo2ggs/",
+                          "created": 1722891260,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lgoc184",
+                              "score": 2,
+                              "body": "Yeah, $7 was an under-exaggeration, I think even back in 2012 I paid $25 per Vanguard trade",
+                              "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgoc184/",
+                              "created": 1722894362,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lgn29de",
+                          "score": -1,
+                          "body": "For sure but companies will always try to help the bottom line by minimizing expenses and inconveniencing the consumer",
+                          "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgn29de/",
+                          "created": 1722879766,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "lgou0fx",
+                  "score": -3,
+                  "body": "[deleted]",
+                  "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgou0fx/",
+                  "created": 1722900702,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lgoudf9",
+                      "score": 4,
+                      "body": "That handful of times it happens, normally is the most important handful of hours though lol",
+                      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgoudf9/",
+                      "created": 1722900835,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lgp6kdd",
+                          "score": 3,
+                          "body": "To you, not them.\nTheir internal lines still work fine.",
+                          "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgp6kdd/",
+                          "created": 1722905377,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lgn09v5",
+              "score": 5,
+              "body": "I know, but still an intentional IT issue. When consumers need access at the most crucial times we won’t have it giving market makers all the time they need to manipulate as they please",
+              "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgn09v5/",
+              "created": 1722879135,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lgpgqk1",
+          "score": 1,
+          "body": "Why don't you sue them?",
+          "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgpgqk1/",
+          "created": 1722909283,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lgm4bwg",
+          "score": -35,
+          "body": "Unless you are a day trader daily noise like this shouldn't cause you to want to sell everything on short notice.",
+          "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgm4bwg/",
+          "created": 1722868871,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lgm5yc1",
+              "score": 64,
+              "body": "I’m trying to buy but missed a big opportunity. Not everyone is trying to sell",
+              "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgm5yc1/",
+              "created": 1722869411,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lgmd0pu",
+                  "score": 10,
+                  "body": "Yea I sold weeks ago for this exact opportunity",
+                  "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmd0pu/",
+                  "created": 1722871724,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lgm4l0o",
+              "score": 13,
+              "body": "Not that I do, but I don’t believe for a second this is anything but intentional by them.",
+              "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgm4l0o/",
+              "created": 1722868955,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lgm6nzg",
+                  "score": 14,
+                  "body": "Devils advocate: there are probably a lot more users than usually trying to check their portfolio and sell/buy, which might overload their servers\n\n\nthey should have made sure that their systems can handle this amount of load, but it's more likely that this is the result of incompetence/trying to save costs than it is evil",
+                  "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgm6nzg/",
+                  "created": 1722869646,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lgmdu7l",
+                      "score": 4,
+                      "body": "Autoscaling is not completely trivial, but it's more than doable provided you a) have money and b) use that money to build a competent infrastructure engineering team\n\nSchwab has more than enough money to deal with this. This is inexcusable bullshit and it's hardly the first time this has happened.",
+                      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmdu7l/",
+                      "created": 1722871988,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lgmk707",
+                          "score": 2,
+                          "body": "Yeah if there is one service that should be extremely resilient and scalable it’s a fucking online brokerage.",
+                          "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmk707/",
+                          "created": 1722874035,
+                          "depth": 5,
+                          "replies": []
+                        },
+                        {
+                          "id": "lgmvgcn",
+                          "score": 1,
+                          "body": "Have you seen fidelity's UI? No way they give a shit about their engineering\n\nOdds are. These brokers simply don't care about their engineering",
+                          "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmvgcn/",
+                          "created": 1722877597,
+                          "depth": 5,
+                          "replies": []
+                        },
+                        {
+                          "id": "lgmeaf6",
+                          "score": 0,
+                          "body": "Agreed, I am not saying it isn't their fault, just that they are not intentionally blocking people from buying/selling right now",
+                          "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmeaf6/",
+                          "created": 1722872136,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lgmfbex",
+                              "score": 3,
+                              "body": "Yeah I agree. Companies have been cutting cost on tech for nearly 2 years now and I think you're gonna start seeing more and more ramifications for this short-sightedness.",
+                              "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmfbex/",
+                              "created": 1722872470,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lgmbfr0",
+                      "score": 2,
+                      "body": "It is a cost saving exercise. \n\nIt happens every time there is action, if everyone failing to log in sue them and win they will no longer be incentivized to cut cost on hosting.",
+                      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmbfr0/",
+                      "created": 1722871214,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lgmrpw2",
+                  "score": 1,
+                  "body": "News of the crash in Japan and articles about bit moves in futures probably got a lot of people trying to log in this morning. A surge in load can cause systems to become overwhelmed.\n\nIt's not surprising, but I do thing they should try to improve their systems scalability so that future days with high volatility don't have the same problems.",
+                  "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmrpw2/",
+                  "created": 1722876455,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lgmvb82",
+              "score": 2,
+              "body": "Shut up man, we missed a great sale because of this. Get out of here with this nonsense",
+              "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmvb82/",
+              "created": 1722877558,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lgm6gf4",
+              "score": 1,
+              "body": "Depends really.\nOn news that has long term effects, then a swift action is definitely necessary. Things like China starting Taiwan invasion. Breakthrough in genAI. Failure in clinical trial for biotech companies.",
+              "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgm6gf4/",
+              "created": 1722869578,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lgmvbl1",
+              "score": 0,
+              "body": "Shut up man, we missed a great sale because of this. Get out of here with this nonsense",
+              "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmvbl1/",
+              "created": 1722877558,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lgm1ux6",
+      "score": 46,
+      "body": "Yeah I can't get into my Schwab account either on mobile or desktop right now.",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgm1ux6/",
+      "created": 1722868030,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lgm4wxt",
+          "score": 3,
+          "body": "Was able to get in just now",
+          "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgm4wxt/",
+          "created": 1722869065,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lgm48xr",
+          "score": 6,
+          "body": "Same",
+          "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgm48xr/",
+          "created": 1722868842,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lgm4m3n",
+          "score": 2,
+          "body": "just woke up in the west coast and can’t log on mobile 😂 what the hell",
+          "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgm4m3n/",
+          "created": 1722868965,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lgmctgt",
+      "score": 34,
+      "body": "Robinhood has been working. Oh how the tables have turned.",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmctgt/",
+      "created": 1722871658,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lgmfgb7",
+          "score": 11,
+          "body": "FR.\n\nBack during the Covid crash, Vanguagrd & Fidelity were usable, whereas Robinhood couldn't keep up.\n\nNow it's vice versa.\n\nI used Fidelity in large part due to their history of reliability, that's no longer true now.\n\nAnd it's not even a crash today, a Nasdaq circuit breaker did not get triggered. \n\nIf Fidelity/Vanguard/Schwabb are having trouble today, I can't imagine how it will be when an actual big crash happens.\n\nI guess after 5 years of me using Fidelity it's time to switch to anew broker.",
+          "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmfgb7/",
+          "created": 1722872513,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lgmw0kr",
+              "score": 4,
+              "body": "Robinhood couldn't keep up because of things not related to them, they got so much hate for things that weren't even their fault",
+              "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmw0kr/",
+              "created": 1722877772,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lgm1bh0",
+      "score": 20,
+      "body": "Fidelity works fine.   I just got my order filled there on the mobile app.   Can’t get into Schwab.",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgm1bh0/",
+      "created": 1722867844,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lgm1xhc",
+          "score": 5,
+          "body": "I can't get in to Schwab either. Login is telling me that \"this service is temporarily unavailable.\"",
+          "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgm1xhc/",
+          "created": 1722868055,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lgme1ta",
+          "score": 2,
+          "body": "Sidebar question, is Fidelity a more user friendly app to use than Schwab?  I find Schwab clunky as hell (and slow) for trades on both desktop and phone.",
+          "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgme1ta/",
+          "created": 1722872058,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lgmgxh0",
+              "score": 3,
+              "body": "I've never used the Fidelity app but the Fidelity website is also kind of clunky and slow.",
+              "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmgxh0/",
+              "created": 1722872987,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lgmvohj",
+              "score": 1,
+              "body": "Fidelity is also clunky and slow",
+              "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmvohj/",
+              "created": 1722877664,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lgm1bu7",
+      "score": 7,
+      "body": "Keep trying.  I was able to login to Vanguard on my phone and on my computer after many attempts.  The site is slow right now",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgm1bu7/",
+      "created": 1722867848,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgm4nc4",
+      "score": 25,
+      "body": "Vanguard doesn’t want you to panic sell. It’s by design.\n\nIn all seriousness, this is pretty concerning.",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgm4nc4/",
+      "created": 1722868977,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lgmw6an",
+          "score": 4,
+          "body": "No it’s not lol",
+          "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmw6an/",
+          "created": 1722877826,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lgm3czt",
+      "score": 10,
+      "body": "Can’t get into Schwab. Nice.",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgm3czt/",
+      "created": 1722868543,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lgn41ro",
+          "score": 2,
+          "body": "No issues with my Schwab Account",
+          "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgn41ro/",
+          "created": 1722880335,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lgm31lo",
+      "score": 11,
+      "body": "Can’t get into my Vanguard account. There are some changes that I really need to make and of course it’s down.",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgm31lo/",
+      "created": 1722868435,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgm227q",
+      "score": 9,
+      "body": "Fidelity app is fucked too",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgm227q/",
+      "created": 1722868100,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgm2a8v",
+      "score": 4,
+      "body": "Fidelity website and Trading Dashboard has been fine even when the phone app doesn't work.",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgm2a8v/",
+      "created": 1722868176,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lgmeq1s",
+          "score": 1,
+          "body": "I tried the website multiple this morning, and it gave me the same error.  It's fine now.",
+          "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmeq1s/",
+          "created": 1722872277,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lgm3n8d",
+      "score": 4,
+      "body": "Schwab is down along with ToS and after a 30 minutes hold their \"banking\" dept answered, not investments. I can't imagine the money being lost because people can't access their accounts. The worst part is there is zero recourse, those who wanted to cut their losses can't even access their balances and to watch helplessly.",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgm3n8d/",
+      "created": 1722868640,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgmd1y2",
+      "score": 4,
+      "body": "These outages are probably preventing some people from panic selling.",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmd1y2/",
+      "created": 1722871735,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lgmywa1",
+          "score": 3,
+          "body": "But that’s not how free markets are supposed to work. Do you really want someone else co trolling when you can buy or sell?",
+          "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmywa1/",
+          "created": 1722878699,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lgmecai",
+      "score": 3,
+      "body": "So far reports of Fidelity, Vanguard, & Schwab have gone down this morning.\n\nRobinhood, Webull, & Interactive Brokers all seemed fine.",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmecai/",
+      "created": 1722872153,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgm5nw4",
+      "score": 5,
+      "body": "Vanguard is down.their tech suchs",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgm5nw4/",
+      "created": 1722869315,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lgmfgnb",
+          "score": 1,
+          "body": "Vanguard is back to working for me now",
+          "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmfgnb/",
+          "created": 1722872516,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lgmspqr",
+              "score": 1,
+              "body": "I got an GTC order in for VOO AT $376 and then it froze….lol.",
+              "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmspqr/",
+              "created": 1722876772,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lgm4g0p",
+      "score": 2,
+      "body": "No problems logging into or using Think or Swim. ",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgm4g0p/",
+      "created": 1722868909,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgm5s2b",
+      "score": 2,
+      "body": "No schwab",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgm5s2b/",
+      "created": 1722869353,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgmb844",
+      "score": 2,
+      "body": "Wells Fargo investments were down this morning as well. I wanted to get aggressive with some leveraged etf’s to catch the rebound; by the time it was functioning again I’d missed out on 20% in gains and didn’t do anything.",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmb844/",
+      "created": 1722871146,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgmcqgw",
+      "score": 2,
+      "body": "Charles Schwab is down for me",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmcqgw/",
+      "created": 1722871631,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgme2iy",
+      "score": 2,
+      "body": "Both Webull and Robinhood work for me, so... this is news to me that other brokers don't work.",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgme2iy/",
+      "created": 1722872064,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgmn712",
+      "score": 2,
+      "body": "By the time I was finally able to login to a functional Vanguard site, most of the stocks I wanted to buy had recovered substantially. Huge missed opportunity.",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmn712/",
+      "created": 1722875002,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgmoq2m",
+      "score": 2,
+      "body": "I couldn't even panic buy",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmoq2m/",
+      "created": 1722875492,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgm1qxh",
+      "score": 3,
+      "body": "Fidelity has been fine for me. Had to submit a couple buy orders on the mobile app twice.",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgm1qxh/",
+      "created": 1722867991,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgm10c7",
+      "score": 2,
+      "body": "Yea I was locked out for about 30 min before I was able to get in. Missed on NVDA at 92 but still took it at 99. Shit sucks but it is what it is, whole world logging in to panic buy and sell.",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgm10c7/",
+      "created": 1722867740,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgmavg0",
+      "score": 4,
+      "body": "Probably will save you money",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmavg0/",
+      "created": 1722871030,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgm4zcy",
+      "score": 1,
+      "body": "Honestly I have trouble logging into Vanguard on normal days.",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgm4zcy/",
+      "created": 1722869087,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgm56i6",
+      "score": 1,
+      "body": "Haha my Webull works Schwab is down….   Hmmmm…",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgm56i6/",
+      "created": 1722869154,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgm5lk7",
+      "score": 1,
+      "body": "No issues here with Fidelity however, I can’t get into thinkorswim",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgm5lk7/",
+      "created": 1722869293,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgm8a4j",
+      "score": 1,
+      "body": "Fidelity is working fine for me FWIW all morning. Just using the website on my desktop, haven’t tried mobile.",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgm8a4j/",
+      "created": 1722870176,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgm8pe5",
+      "score": 1,
+      "body": "looks like vanguard app is shut down right now. when you get to login screen it directs you to website. \n\nwebsite have been working for the past hour or so. i sold a put when i finally got in.",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgm8pe5/",
+      "created": 1722870318,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgmc7qg",
+      "score": 1,
+      "body": "Yeah, I don't feel like looking at my portfolio today so it won't affect me lol.",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmc7qg/",
+      "created": 1722871462,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgmgqui",
+      "score": 1,
+      "body": "after buffet sell everyone follow",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmgqui/",
+      "created": 1722872927,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgmhjoi",
+      "score": 1,
+      "body": "I just logged into Fidelity @ 8:52 PST",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmhjoi/",
+      "created": 1722873184,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgmnlch",
+      "score": 1,
+      "body": "Vanguard website login screen and subsequent UI has reverted to COVID days (2019)  this morning.  What is up with these bozos? Literally every time there is a buying opportunity their website has major problems.",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmnlch/",
+      "created": 1722875130,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgmp8gt",
+      "score": 1,
+      "body": "My fidelity works just fine, I have been loading up on all the BIG sale’s going on today… 😎",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmp8gt/",
+      "created": 1722875658,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgmpvhy",
+      "score": 1,
+      "body": "I havent been able to log in for these past few days, i keep getting the website redirected you too many times.....been using chrome and already switched browsers. I even had my gf log in thru her phone with my info and same thing.",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmpvhy/",
+      "created": 1722875869,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgmrok2",
+      "score": 1,
+      "body": "It’s clear this is all a conspiracy racket. Designed to prevent people from pulling funds out",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmrok2/",
+      "created": 1722876444,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgmvale",
+      "score": 1,
+      "body": "That sucks. I got into Fidelity just fine. Bought some more NVDA stock.",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmvale/",
+      "created": 1722877552,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgmvax5",
+      "score": 1,
+      "body": "That sucks. I got into Fidelity just fine. Bought some more NVDA stock.",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmvax5/",
+      "created": 1722877552,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgmvbq4",
+      "score": 1,
+      "body": "That sucks. I got into Fidelity just fine. Bought some more NVDA stock.",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmvbq4/",
+      "created": 1722877562,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgmvc4r",
+      "score": 1,
+      "body": "That sucks. I got into Fidelity just fine. Bought some more NVDA stock.",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmvc4r/",
+      "created": 1722877562,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgmwfxb",
+      "score": 1,
+      "body": "After today, I’m getting rid of vanguard. It’s not built for the modern economy. \n\nGod forbid an Armageddon event occurs and I can’t login. \n\nI missed out on a lot of buying opportunities today because vanguard was down at open and doesn’t allow pre market or overnight trading. \n\nNever thought I’d say this - but RobinHood has worked flawlessly and i am moving my money there now.",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgmwfxb/",
+      "created": 1722877910,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgn87a3",
+      "score": 1,
+      "body": "Robinhood is just fine, was able to do some early morning shopping and now just relaxing. I believe this whole month is gonna be choppy as fuck.",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgn87a3/",
+      "created": 1722881650,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgnfh7c",
+      "score": 1,
+      "body": "Weird. Fidelity was working fine for me and hour ago.",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgnfh7c/",
+      "created": 1722883958,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgngw15",
+      "score": 1,
+      "body": "My experience:  \nSchwab is always down whenever something important or interesting is happening in the market... Their tech is basically non-functional for every meaningful and important use case. It's exclusively for people who are happy to wait until the weekend to place orders.",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgngw15/",
+      "created": 1722884403,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgnogvb",
+      "score": 1,
+      "body": "Fidelity and Etrade works just fine.",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgnogvb/",
+      "created": 1722886835,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgnrbti",
+      "score": 1,
+      "body": "Yeah I couldn't get into vanguard to buy in my roth ..",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgnrbti/",
+      "created": 1722887743,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgnsl12",
+      "score": 1,
+      "body": "Is this some collusion? What the fuck is going on",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgnsl12/",
+      "created": 1722888141,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgo2ggt",
+      "score": 1,
+      "body": "the new plunge protection team",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgo2ggt/",
+      "created": 1722891260,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgpbedi",
+      "score": 1,
+      "body": "It’s fucked up how they continue to keep the common man out of a big change in market.",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgpbedi/",
+      "created": 1722907222,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgvhlzk",
+      "score": 1,
+      "body": "I was logged into Fidelity pre-market at 6am, but I still had trouble loading trade tickets and then executing trades after the market open.  It seems the routing was simply clogged given all the transactions.",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgvhlzk/",
+      "created": 1722996080,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgm1v3u",
+      "score": 1,
+      "body": "Zero issue with Etrade and IB, Schwab has problems finally got in.    This is exactly why I have multiple brokerage",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgm1v3u/",
+      "created": 1722868032,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgm1xq2",
+      "score": 0,
+      "body": "Fidelity has been fine for me all morning.",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgm1xq2/",
+      "created": 1722868057,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgm4kbd",
+      "score": 0,
+      "body": "i just bought on schwab",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgm4kbd/",
+      "created": 1722868948,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgm2q32",
+      "score": -1,
+      "body": "[deleted]",
+      "permalink": "/r/stocks/comments/1ekoyxv/cannot_log_in_vanguard_or_fidelity_hearing_schwab/lgm2q32/",
+      "created": 1722868326,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

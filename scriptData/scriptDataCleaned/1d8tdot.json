@@ -1,0 +1,199 @@
+{
+  "title": "What happens if a brokerage loses all its data?",
+  "score": 31,
+  "selftext": "I know this is an apocalyptical question and there's a lot of redundancy in place, backups etc.\n\nBut I am curious about what are the mechanisms in place and if nowadays there's still any physical copy of ownership, so let's say in a cyber warfare a brokerage loses all its data, datacenters wiped out.   \n  \nWhat are the mechanisms outside of the digital world (if any) that exist to provide a robust redundancy to avoid situations that customers lose all of their stocks and have no way to prove you ever owned them.",
+  "link_flair_text": "Industry Question",
+  "id": "1d8tdot",
+  "num_comments": 20,
+  "created_utc": 1717602922,
+  "permalink": "/r/stocks/comments/1d8tdot/what_happens_if_a_brokerage_loses_all_its_data/",
+  "comments": [
+    {
+      "id": "l78ijkg",
+      "score": 36,
+      "body": "Exchanges always keep records with extensive backup options. There is a special certified organization that takes care of the recordings. Your broker acts as a middleman between you and the stock exchange.",
+      "permalink": "/r/stocks/comments/1d8tdot/what_happens_if_a_brokerage_loses_all_its_data/l78ijkg/",
+      "created": 1717603655,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l78j6sj",
+          "score": 11,
+          "body": "I figured something like that would exist, I was just having a conversation and this topic shows up and I noticed I didn’t know what existed 😅",
+          "permalink": "/r/stocks/comments/1d8tdot/what_happens_if_a_brokerage_loses_all_its_data/l78j6sj/",
+          "created": 1717603871,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l78kv1q",
+              "score": 5,
+              "body": "Now you know. And it is called Clearinghouse, such as the National Securities Clearing Corporation (NSCC) in the US. It basically handles the trade confirmation, settlement, and delivery of securities transactions.",
+              "permalink": "/r/stocks/comments/1d8tdot/what_happens_if_a_brokerage_loses_all_its_data/l78kv1q/",
+              "created": 1717604433,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l79a0j7",
+      "score": 12,
+      "body": "You kind of make a false scenario here..  \n\nThese systems are meant to survive catastrophic failure.\n\nFinancial systems will have backups that are offsite and in locations across the country.\n\nIf site A has something go wrong.  Site B is available.\n\nIf A and B are hit.  There is TAPE Drive taken nightly.\n\n  \nSo to say.. what if this billion dollar company loses all its data?  Something of a large enough scale happened that it likely impacted the human population as a whole.",
+      "permalink": "/r/stocks/comments/1d8tdot/what_happens_if_a_brokerage_loses_all_its_data/l79a0j7/",
+      "created": 1717612858,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l79a938",
+          "score": 3,
+          "body": "Ye, I think at this point I’d more worried about surviving than about my stocks 🤣",
+          "permalink": "/r/stocks/comments/1d8tdot/what_happens_if_a_brokerage_loses_all_its_data/l79a938/",
+          "created": 1717612937,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l78m93l",
+      "score": 36,
+      "body": "Lol OP how much are you down to be considering this way out",
+      "permalink": "/r/stocks/comments/1d8tdot/what_happens_if_a_brokerage_loses_all_its_data/l78m93l/",
+      "created": 1717604894,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l78mfqf",
+          "score": 8,
+          "body": "How would someone win by doing that? 🤣🤣\n\nIt was just a genuine curiosity, basically I want to know if there’s any justification to spread money between different brokerages to be “safer”",
+          "permalink": "/r/stocks/comments/1d8tdot/what_happens_if_a_brokerage_loses_all_its_data/l78mfqf/",
+          "created": 1717604955,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l7cht9t",
+              "score": 1,
+              "body": "There isn't. It's not like a bank where you need your money insured to get I tout in case of a failure. If a brokerage fails, they'll transfer your securities to a different brokerage for you.",
+              "permalink": "/r/stocks/comments/1d8tdot/what_happens_if_a_brokerage_loses_all_its_data/l7cht9t/",
+              "created": 1717664787,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l7aau5q",
+      "score": 8,
+      "body": "If the apocalypse happened. A can of beans would be worth more than all we have saved in our portfolio’s.",
+      "permalink": "/r/stocks/comments/1d8tdot/what_happens_if_a_brokerage_loses_all_its_data/l7aau5q/",
+      "created": 1717625340,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l78r6jb",
+      "score": 5,
+      "body": "backup.",
+      "permalink": "/r/stocks/comments/1d8tdot/what_happens_if_a_brokerage_loses_all_its_data/l78r6jb/",
+      "created": 1717606532,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l791niw",
+          "score": 6,
+          "body": "Probably a thumb drive I imagine.",
+          "permalink": "/r/stocks/comments/1d8tdot/what_happens_if_a_brokerage_loses_all_its_data/l791niw/",
+          "created": 1717610079,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l79t48n",
+              "score": 5,
+              "body": "And synced to a Google drive folder with 2FA enabled. I R O N C L A D",
+              "permalink": "/r/stocks/comments/1d8tdot/what_happens_if_a_brokerage_loses_all_its_data/l79t48n/",
+              "created": 1717619208,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l7a8flt",
+      "score": 7,
+      "body": "No matter what happens, the IRS will remember exactly how much you owe them in capital gains",
+      "permalink": "/r/stocks/comments/1d8tdot/what_happens_if_a_brokerage_loses_all_its_data/l7a8flt/",
+      "created": 1717624465,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l7aceiq",
+      "score": 2,
+      "body": "Look up iron mountain. It’s physical tape back ups.",
+      "permalink": "/r/stocks/comments/1d8tdot/what_happens_if_a_brokerage_loses_all_its_data/l7aceiq/",
+      "created": 1717625925,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l78iswm",
+      "score": 2,
+      "body": "They claim building 7 fell on its own",
+      "permalink": "/r/stocks/comments/1d8tdot/what_happens_if_a_brokerage_loses_all_its_data/l78iswm/",
+      "created": 1717603742,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l7b3q76",
+      "score": 1,
+      "body": "This happened to a super find in Australia recently. They had a backup and could restore",
+      "permalink": "/r/stocks/comments/1d8tdot/what_happens_if_a_brokerage_loses_all_its_data/l7b3q76/",
+      "created": 1717636809,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l7ba4ik",
+      "score": 1,
+      "body": "I’m pretty sure the companies that do this are public, CBOE, ICE, CME, NDAQ, SPGI are the tickers.",
+      "permalink": "/r/stocks/comments/1d8tdot/what_happens_if_a_brokerage_loses_all_its_data/l7ba4ik/",
+      "created": 1717639490,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l7bjlnz",
+      "score": 1,
+      "body": "I keep monthly statement at least I can back track what I have from last month. While all insured some small brokerage often have tax issues and irregularities and subject to SEC audit and FREEZE all funds. It will take several months to clear ordered by the Court and refund you the money.  For that reason I deal with big public  brokerages.  That is also I have more than 1 brokerages to minimize the inconvenience.",
+      "permalink": "/r/stocks/comments/1d8tdot/what_happens_if_a_brokerage_loses_all_its_data/l7bjlnz/",
+      "created": 1717643662,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l7btx8i",
+      "score": 1,
+      "body": "Lol.\n\nNever going to be a scenario.\n\nThe RAID has a RAID has a RAID...",
+      "permalink": "/r/stocks/comments/1d8tdot/what_happens_if_a_brokerage_loses_all_its_data/l7btx8i/",
+      "created": 1717648869,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l7ewwul",
+      "score": 1,
+      "body": "I worked in planning IT for customers for years. Brokerages seems to be fairly on top of it. \n\nMost enterprises have at least a major data center (DC) and a backup. The good ones keep the backup at least 20km away so they don't both wipe out in the same catastrophe (hurricane, etc.). They [should] have redundancy in network, power, cooling and data. A backup in a remote site of data and transactions are generally required. All this need be tested periodically, which many organizations fail to do. Worst case would be to rebuild everything and reload backup data, but that outage can kill an enterprise. \n\nThe biggest threat to all are cybersecurity. We see hits almost daily. Merck got hit by one years ago that took months to resolve. Hospitals seem to be at risk. Banks seem to be pretty good and have regulated oversight for IT.  \n\nMy advice to you is to copy your accounts weekly, monthly or at least quarterly so you can make your claim if needed. You have the ultimate backup.",
+      "permalink": "/r/stocks/comments/1d8tdot/what_happens_if_a_brokerage_loses_all_its_data/l7ewwul/",
+      "created": 1717699966,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

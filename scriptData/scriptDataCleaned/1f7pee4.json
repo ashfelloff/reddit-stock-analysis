@@ -1,0 +1,210 @@
+{
+  "title": "What's with the differences in returns between S&P 500 trackers?",
+  "score": 31,
+  "selftext": "Hey all, just a quick question.\n\n  \nLooking at things like SWPPX, SPY, VOO, etc --- they all track the S&P 500, but they also have returned slightly different growth over time. Do they not all track the same stocks and should therefore logically return the same amount? Is it just a difference in expense ratios? Slight difference in dividends?\n\n  \nThanks",
+  "link_flair_text": "Industry Question",
+  "id": "1f7pee4",
+  "num_comments": 23,
+  "created_utc": 1725331847,
+  "permalink": "/r/stocks/comments/1f7pee4/whats_with_the_differences_in_returns_between_sp/",
+  "comments": [
+    {
+      "id": "ll91bzy",
+      "score": 33,
+      "body": "they likely do not update/rebalance at the same precise time. if a company goes down and they have to lower their holdings, doing that even an hour later than someone else can result in tiny differences\n\nthey may also have sliiiightly different percents of the companies in question? (I'm not 100% sure on this one so please don't quote me)",
+      "permalink": "/r/stocks/comments/1f7pee4/whats_with_the_differences_in_returns_between_sp/ll91bzy/",
+      "created": 1725333185,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "llem01t",
+          "score": 3,
+          "body": "i dont think any of them rebalance hourly. or even daily. my understanding is they only rebalance quarterly if there is a change in the companies in the index. think about it, once you bought it and market cap weighted it, all the companies will grow and shrink to rebalance themselves",
+          "permalink": "/r/stocks/comments/1f7pee4/whats_with_the_differences_in_returns_between_sp/llem01t/",
+          "created": 1725416313,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "llgtftm",
+              "score": 2,
+              "body": "for SPY and VOO it is indeed quarterly\n\nI was referring more to tracking errors that add up over time. As I said unfortunately I'm not an expert, but since nobody else has commented I wanted to give them at least an idea (I do try hard not to give the impression I am knowledgeable on topics I'm not)",
+              "permalink": "/r/stocks/comments/1f7pee4/whats_with_the_differences_in_returns_between_sp/llgtftm/",
+              "created": 1725457969,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "llhea4a",
+                  "score": 2,
+                  "body": "probably its a combination of tracking error and fees. some funds use derivatives, like SWPPX buys futures of other s&p index funds... which is kinda sus but i assume this is to reduce tracking error",
+                  "permalink": "/r/stocks/comments/1f7pee4/whats_with_the_differences_in_returns_between_sp/llhea4a/",
+                  "created": 1725464852,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ll9emdn",
+      "score": 9,
+      "body": "I use CSPX for instance as I live in Switzerland and it‘s the best one for tax purposes. If you look at it, it‘s pretty odd as it has better gains than the usual S&P500. Reason is that it reinvests the dividends right away instead of distributing them.\n\nThroughout the day it also doesn‘t align with the S&P500 as it‘s a european ETF that is open from\n9 AM CEST to 7 PM CEST.",
+      "permalink": "/r/stocks/comments/1f7pee4/whats_with_the_differences_in_returns_between_sp/ll9emdn/",
+      "created": 1725339735,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ll9f2z9",
+          "score": 1,
+          "body": "isn't spyl also irish domiciled and lower expense ratio?",
+          "permalink": "/r/stocks/comments/1f7pee4/whats_with_the_differences_in_returns_between_sp/ll9f2z9/",
+          "created": 1725339992,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "llagia5",
+              "score": 2,
+              "body": "Expense ratio is important but not the deciding factor imo. Aum/volume/liquidity/lending matters as well. There's a big popular msci world etf by ishares (iwda) that gets undercut on expense ratio but more than makes up for it via securities lending. So you'd expect it to do worse than the 'cheaper' alternatives, but it outperforms.",
+              "permalink": "/r/stocks/comments/1f7pee4/whats_with_the_differences_in_returns_between_sp/llagia5/",
+              "created": 1725363335,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lla93bt",
+              "score": 1,
+              "body": "Interesting. Can‘t say much about it as it‘s unfamiliar to me.",
+              "permalink": "/r/stocks/comments/1f7pee4/whats_with_the_differences_in_returns_between_sp/lla93bt/",
+              "created": 1725359361,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "llc8rmy",
+      "score": 3,
+      "body": "Differences in returns are due to expense ratios, dividend distributions, and tracking methodologies among funds.",
+      "permalink": "/r/stocks/comments/1f7pee4/whats_with_the_differences_in_returns_between_sp/llc8rmy/",
+      "created": 1725386037,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lla7ywg",
+      "score": 2,
+      "body": "It’s a rounding error. None of them represent the index perfectly. Just because one has returned slightly more over 10 years doesn’t mean it will again 10 years from now.",
+      "permalink": "/r/stocks/comments/1f7pee4/whats_with_the_differences_in_returns_between_sp/lla7ywg/",
+      "created": 1725358690,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ll9zpct",
+      "score": 1,
+      "body": "[removed]",
+      "permalink": "/r/stocks/comments/1f7pee4/whats_with_the_differences_in_returns_between_sp/ll9zpct/",
+      "created": 1725353175,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ll96fau",
+      "score": 2,
+      "body": "The most impactful difference is the expense. VOO charges you the least.\n\nSpy sounds really cool which is why it's so popular. It also doesn't charfe you much at all.\n\nOther factors are random and represent negligible differences in performance.",
+      "permalink": "/r/stocks/comments/1f7pee4/whats_with_the_differences_in_returns_between_sp/ll96fau/",
+      "created": 1725335519,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ll9ilt3",
+          "score": 9,
+          "body": "SWPPX has lower expense ratio",
+          "permalink": "/r/stocks/comments/1f7pee4/whats_with_the_differences_in_returns_between_sp/ll9ilt3/",
+          "created": 1725342013,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "llag5p5",
+              "score": 8,
+              "body": "As does SPLG",
+              "permalink": "/r/stocks/comments/1f7pee4/whats_with_the_differences_in_returns_between_sp/llag5p5/",
+              "created": 1725363163,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ll9s7dd",
+          "score": 4,
+          "body": "Even though VOO has a lower cost basis, I also found the liquidity to be really bad. It's hard esp. trading options and at AH with VOO, compared to SPY",
+          "permalink": "/r/stocks/comments/1f7pee4/whats_with_the_differences_in_returns_between_sp/ll9s7dd/",
+          "created": 1725348011,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "llb8ajz",
+          "score": 3,
+          "body": "SPLG actually",
+          "permalink": "/r/stocks/comments/1f7pee4/whats_with_the_differences_in_returns_between_sp/llb8ajz/",
+          "created": 1725374252,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ll8zxdo",
+      "score": 1,
+      "body": "[https://www.portfoliovisualizer.com/backtest-portfolio?s=y&sl=7RAw6nViSc6OxVsvb1S3ET](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&sl=7RAw6nViSc6OxVsvb1S3ET)\n\nThrew in VTI in there as well. Ignoring VTI the others are pretty much equivalent to each other and depending on exact time of backtest start could move around which one leads. Choose one with low fees and one that doesnt require a purchase fee at your broker because it comes from another company.",
+      "permalink": "/r/stocks/comments/1f7pee4/whats_with_the_differences_in_returns_between_sp/ll8zxdo/",
+      "created": 1725332577,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ll9ce84",
+          "score": 2,
+          "body": "VTI tracks the whole market while VOO and SPY track the 500 best performing companies",
+          "permalink": "/r/stocks/comments/1f7pee4/whats_with_the_differences_in_returns_between_sp/ll9ce84/",
+          "created": 1725338527,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ll9dsqe",
+              "score": 2,
+              "body": "Yea thats understood. People throw it around here so i just wanted to put it into the backtest as a comparison. Its not apples to apples.",
+              "permalink": "/r/stocks/comments/1f7pee4/whats_with_the_differences_in_returns_between_sp/ll9dsqe/",
+              "created": 1725339279,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "ll9s9ii",
+              "score": 1,
+              "body": "I never saw the point of VTI. It literally has the exact same price movements as VOO anyway",
+              "permalink": "/r/stocks/comments/1f7pee4/whats_with_the_differences_in_returns_between_sp/ll9s9ii/",
+              "created": 1725348053,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ll95bm2",
+          "score": 2,
+          "body": "My God!!! \n\nA +/- 0.05% variance. The world will end. End of the stock market!!!\n\n\nAnyway....",
+          "permalink": "/r/stocks/comments/1f7pee4/whats_with_the_differences_in_returns_between_sp/ll95bm2/",
+          "created": 1725334998,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

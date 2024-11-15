@@ -1,0 +1,411 @@
+{
+  "title": "What happens if a huge number of stocks is being sold at any price?",
+  "score": 48,
+  "selftext": "What would happen in Jeff Bezos would sell all of his shares of Amazon for any price available (market order)?  \nAll of the current open positions would close and the stock would quickly drop significantly. But would it reach 0 $, or it would stop before? Then anybody who would like to buy at any price would instantly get their order filled. So by my logic the stock price would go to 0 $. Obviously this would be a bad idea from Jeff Bezos, but theoretically what would happen?",
+  "link_flair_text": null,
+  "id": "1g0j7z3",
+  "num_comments": 49,
+  "created_utc": 1728568083,
+  "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/",
+  "comments": [
+    {
+      "id": "lr954qm",
+      "score": 101,
+      "body": "There is no one “stock price”: there is the last price at which a stock was traded, and then there are offers to buy and sell. No one is going to sell at $0, so the last price will never get to $0. It would stop trading if nobody wanted to buy it, but people would.",
+      "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/lr954qm/",
+      "created": 1728569246,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lrceh8t",
+          "score": 25,
+          "body": "A decade or so back knight securities sent out all these crazy orders due to a computer problem. The major firms have “pickoff” traders who wait for such occasions and quickly buy the bargains. Knight lost $400 million in under an hour. \n\nYour example is more extreme. The price would probably drop more.",
+          "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/lrceh8t/",
+          "created": 1728609093,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lr9bomo",
+          "score": 21,
+          "body": "Yeap circuit breakers would stop that instantly.   It would never get to zero but will drop considerably if Bezos dumped a large chunk at market.   But many brokers also restrict this sort of thing for large sales and require you to talk to a live person before execution.   Many built in protections.",
+          "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/lr9bomo/",
+          "created": 1728571492,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lrdt5lb",
+              "score": 1,
+              "body": "This.",
+              "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/lrdt5lb/",
+              "created": 1728635095,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lrafjzf",
+          "score": 2,
+          "body": "Ignoring market security measures and breakers and sanity, a stock value by itself can't go like oil below zero? What if i want to sell you amazon and pay you 100 bucks to do it?",
+          "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/lrafjzf/",
+          "created": 1728584494,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lrah19n",
+              "score": 27,
+              "body": "There's no reason to pay to sell a stock. Oil FUTURES went negative because holding them until expiration had the burden to take delivery of actual barrels of oil. There's a cost to hold those futures contracts",
+              "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/lrah19n/",
+              "created": 1728584970,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lrbcpjf",
+              "score": 3,
+              "body": "Stock prices can never go to zero, because no one is gonna sell it for zero dollars. (Stock price is the last price it was sold at). Commodity futures are different because unless they are cash settled, you literally have to take delivery of that commodity, so sometimes people want to get rid of them",
+              "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/lrbcpjf/",
+              "created": 1728595132,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lr965qt",
+      "score": 20,
+      "body": "No one knows what would happen because you wouldn’t know what algos will kick in and place a huge limit/market buy order",
+      "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/lr965qt/",
+      "created": 1728569607,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ls0ru4q",
+          "score": 1,
+          "body": "Exactly this. I have orders for both prices that go up or down. And I guess many many MANY people around the globe. \n\nAs a side thought, it would be interesting to have access to these orders and somehow figure out the point that will trigger a collapse or skyrkcket everything 🤔",
+          "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/ls0ru4q/",
+          "created": 1728990728,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ls0xivf",
+              "score": 1,
+              "body": "Just not possible because who knows what thousands/millions(?) of algos out there will do. Limit orders are in books, but stop orders aren’t.",
+              "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/ls0xivf/",
+              "created": 1728993550,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lr991ki",
+      "score": 9,
+      "body": "It doesn't work like that.\n\nThe price you see is actually the price at which the last deal was closed. In other words, when someone places a sell order at price x, they need to find someone else who wants to buy at the same price or higher. When an order is entered, you're placing it in the book, which is where orders that haven't found “peers” or “liquidity” are waiting for the counterparty.\n\nSo, if that happened, only he would clear the book at the stipulated price and the rest would remain in the “queue”.\n\nWhat's more, if they were all at market, the price would fall until the book ran out, but he wouldn't have the liquidity to sell everything. \n\nAnd yet... Controlling shareholders can't sell shares like that, because there are market locks for that, and even if they could... Bezos must have around 10% of the company.",
+      "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/lr991ki/",
+      "created": 1728570597,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lr9b865",
+      "score": 3,
+      "body": "The price would drop very very low, but the real question is how many would buy up at x price.\n\nIf amazon fall to 20 dollars tomorrow because he sold out, there would be an unlimited amount of buyers wanting in\n\nBut the market would be halted.",
+      "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/lr9b865/",
+      "created": 1728571337,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lr9ckft",
+          "score": 1,
+          "body": "For this same reason, traditionally it could sometimes be beneficial to announce these big sales.  The sell price might drop slightly on the news, but the book volume coulf increase more than enough to make up for it.\n\nThough nowadays with algos and dark markets dominating the liquidity, who knows whether that’s a good play still or not.",
+          "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/lr9ckft/",
+          "created": 1728571797,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lr949w6",
+      "score": 13,
+      "body": "Bezos isn't going to do a market order, and neither should anyone else.",
+      "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/lr949w6/",
+      "created": 1728568935,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lr94mfk",
+          "score": 4,
+          "body": "Obviously this would be a bad idea from Jeff Bezos, but theoretically what would happen?",
+          "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/lr94mfk/",
+          "created": 1728569064,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lr95keq",
+              "score": 21,
+              "body": "If he did not set a limit, it will keep going down the buy book until there's nobody left.\n\nThere will of course always be somebody left, because there's probably atleast one person out there with some bogus bot ready to snipe 1000000 shares at 0.0001c.\n\nIf the shares aren't immediately all bought up, the crazy volume could cause the exchanges to halt trading but it's unlikely",
+              "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/lr95keq/",
+              "created": 1728569399,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lr9bh5i",
+                  "score": 8,
+                  "body": "A halt would always happen if such a huge stockholderr would sell out, firstly because it would be a mistake not doing dark pool or limit sell",
+                  "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/lr9bh5i/",
+                  "created": 1728571422,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lr95m14",
+              "score": 6,
+              "body": "It would never reach zero, but traders would certainly notice and take advantage of his stupidity and score some good deals.",
+              "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/lr95m14/",
+              "created": 1728569415,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lr97vd6",
+                  "score": -2,
+                  "body": "Yeah, the price would go down crash down to pennies, and then pretty much quickly go up again to the price range as before as people will flood to buy Amazon stocks are very low P/e ratios. Who can say no to Amazon at 0.1 or 2 p/e ratio? People will keep buying up again until it reaches 20 p/e ratio because it would be so cheap compared to all the other stocks.\n\nHowever, if every single billionaire did a market order, it would probably take a bit longer to be bought up.",
+                  "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/lr97vd6/",
+                  "created": 1728570196,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lrf8qaj",
+              "score": 1,
+              "body": "It wouldn’t happen. \n\nHe’d go to an investment bank and engage their ECM team to conduct a block trade. Avoids every single problem you posited in the OP.",
+              "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/lrf8qaj/",
+              "created": 1728659624,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lr9a6zn",
+      "score": 3,
+      "body": "These guys use what are called Not Held orders, and almost always limit. They can use institutional buyers to extend liquididity to dark pools, so they are able to extend beyond the reach of retail shares available. That also prevents “reporting to the tape” which doesn’t push the stock price down.",
+      "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/lr9a6zn/",
+      "created": 1728570993,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lr9dv6b",
+      "score": 3,
+      "body": "If this were to happen, it would inevitably happen the day after you bought AMZN at the high.",
+      "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/lr9dv6b/",
+      "created": 1728572231,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lr9c2xu",
+      "score": 1,
+      "body": "It would take out almost all the bids and then almost certainly be halted for volatility. If you're curious something like this did happen in Japan several years ago. Just google \"Japan $1 stock error\" and I'm sure you'll see the results.",
+      "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/lr9c2xu/",
+      "created": 1728571628,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lr9cymc",
+      "score": 1,
+      "body": "Have to change the hypothetical to be not Besos, because there are controls on insiders’ selling. If it’s a large order the stock would sell to the highest bidder. \n\nYes, it’s possible that the influx of stock for sale would tank the prices as all the bids for the stock are cleared. \n\nThat’s what any crash is- lots of stock for sale and not many buyers at previous prices, so prices decline until it finds the spot where there are buyers.",
+      "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/lr9cymc/",
+      "created": 1728571931,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lr9x9mv",
+      "score": 1,
+      "body": "The stock would drop to a point where the stock is halted. It would keep halting after a big % drop to give market time to refill order book.\n\nIf Bazo suddenly tried to drop all his shares in a day, very likely the SEC would suspends AMZN for the day or up to 10 days max otherwise the stock market could destabilize if it let AMZN drop 20%+ in a day.",
+      "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/lr9x9mv/",
+      "created": 1728578621,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lr9xmxx",
+      "score": 1,
+      "body": "The price would not necessarily drop to $0 for many reasons.\n\n- As the price falls, it would eventually hit a point where buyers are willing to purchase Amazon shares.\n\n- Circuit breakers (mentioned earlier here)\n\n- Auto-buy orders would be triggered at lower price points.\n\n- Institutional investors (hedge funds, mutual funds, etc) would certainly buy Amazon stock at lower levels. This would create a floor.\n\n- Value: Even in a chaotic selloff, investors would pile in at firesale prices.",
+      "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/lr9xmxx/",
+      "created": 1728578741,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lr9z2i3",
+      "score": 1,
+      "body": "He’d “rip through the order book” and drive down the stock quite significantly, there are various impact models that calculate this depending on trade size and market liquidity.\n\nNormally how large trades are done is through a broker, a large position is sold to a broker at a negotiated trade below market, and the broker slowly gets rid of it.",
+      "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/lr9z2i3/",
+      "created": 1728579199,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lra2qmp",
+      "score": 1,
+      "body": "We can’t buy all the shares he has to sell unless they’re really cheap. \n\nAlso he would have to file a 10k which I think telegraphs the sale and the board would want him to not sell all at the same time. \n\nIt just makes more sense to margin them and never sell, then when he does it becomes his heirs’ asset to margin and the gains are erased, but estate tax will have to be paid and probably paid with margin.",
+      "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/lra2qmp/",
+      "created": 1728580379,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lrafkwl",
+      "score": 1,
+      "body": "Price is virtual but if you owned 50% of the stocks of a company you would quickly notice that only your first stocks will be sold at the days price, then your own selling would quickly start dropping the price until its essentially worth pennies.",
+      "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/lrafkwl/",
+      "created": 1728584502,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lram5hy",
+      "score": 1,
+      "body": "The SEC needs to be notified ahead of time if a large quantity of shares are sold within a set period of time. So no, Jeff Bezos cannot just liquidate all of his shares.\n\n[https://www.investopedia.com/terms/f/form144.asp](https://www.investopedia.com/terms/f/form144.asp)\n\n  \nSo when the filing happens, the market naturally adjusts to it",
+      "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/lram5hy/",
+      "created": 1728586618,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lrb0947",
+      "score": 1,
+      "body": "Its depends on the average daily volume. People with big bags who are selling 50k shares in a day when the average daily volume is 100k are going to do more “damage” compared to a stock that averages 500k+ shares in a day. Like an elephant getting in a water tub: if there’s a lot of water then there’s space to absorb the elephant, if there’s only a bit of water relative to the elephant, they’re going to make a big splash and impact price accordingly.",
+      "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/lrb0947/",
+      "created": 1728591136,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lrba0h5",
+      "score": 1,
+      "body": "Sell a closed-end fund or listed preferred without a limit and find out!  Gap down baby…",
+      "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/lrba0h5/",
+      "created": 1728594229,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lrbth03",
+      "score": 1,
+      "body": "see what happened to TSLA december 22, back to back to back -8% days as ceo dumps",
+      "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/lrbth03/",
+      "created": 1728601224,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lrcwqqw",
+      "score": 1,
+      "body": "look at Tesla....Elon dump 41 million Tesla shares in Nov-Dec.  Warren Buffet sold 350 million apples shares, and 104 million Bank of America shares....you could also look at when the archegos capital  blew up and had their margin call which caused huge blocks of shares to hit the market.\n\nStocks drop for a bit but then pop back up....usually if the fundamentals are good.",
+      "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/lrcwqqw/",
+      "created": 1728616233,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lrdllwd",
+      "score": 1,
+      "body": "A crash.",
+      "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/lrdllwd/",
+      "created": 1728629800,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lrds0rv",
+      "score": 1,
+      "body": "If Jeff Bezos sold all Amazon shares, price would crash but likely not reach $0.",
+      "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/lrds0rv/",
+      "created": 1728634280,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lrdsl4e",
+      "score": 1,
+      "body": "Options and liquidity, a buyer and seller don’t have to be making trade. It can be for futures market",
+      "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/lrdsl4e/",
+      "created": 1728634688,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lr9egbz",
+      "score": 1,
+      "body": "Research how Howard Hughes sold TWA.   It was all his,  once",
+      "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/lr9egbz/",
+      "created": 1728572427,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lr9fxiv",
+      "score": 0,
+      "body": "He has to register that volume of stock for a sale which would lower price immediately and he’s be sued by the board and shareholders.",
+      "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/lr9fxiv/",
+      "created": 1728572924,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lr9ykar",
+      "score": -3,
+      "body": "Why do people ask unrealistic questions?  Seems to happen here a lot!",
+      "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/lr9ykar/",
+      "created": 1728579038,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lrcxz36",
+          "score": 1,
+          "body": "you see hedge funds blow up and dump huge amounts of stocks on the market",
+          "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/lrcxz36/",
+          "created": 1728616759,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lrna8il",
+              "score": 1,
+              "body": "  But they do dump stock to lose money!",
+              "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/lrna8il/",
+              "created": 1728778195,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ls5uunb",
+      "score": 1,
+      "body": "Stock will not be sold until someone buys it, so doesn’t matter how many he put for sell, eventually if supply is more then he need to lower price to execute sell.",
+      "permalink": "/r/stocks/comments/1g0j7z3/what_happens_if_a_huge_number_of_stocks_is_being/ls5uunb/",
+      "created": 1729059164,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

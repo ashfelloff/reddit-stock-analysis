@@ -1,0 +1,1745 @@
+{
+  "title": "How has Visa and Mastercard been able to operate for so long without being disrupted?",
+  "score": 514,
+  "selftext": "I was reading [this](https://www.reddit.com/r/stocks/comments/1f9jvjg/visa_debuts_a_new_product_designed_to_make_it/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) post about how Visa is implementing a way for bank-to-business payments to go through them instead of the normal process and it got me thinking: How the fuck has Visa been able to perpetrate this system for so long without big businesses or congress wiping their shit out? \n\nThink about it, visa gets to collect money from every sale, not issue their cards, and they don't have to put any of their own credit on the line whenever they do it. Meanwhile, ACH is regulated to shit by the fed and a bunch of banks, but somehow Visa and Mastercard get to slip by and have profit margins of 50%. \n\nYou'd think with the rise of the internet their influence would've been significantly reduced by competitors, but it appears to only get stronger by the year.  ",
+  "link_flair_text": "Industry Question",
+  "id": "1f9mmqh",
+  "num_comments": 215,
+  "created_utc": 1725543252,
+  "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/",
+  "comments": [
+    {
+      "id": "llmoe6l",
+      "score": 535,
+      "body": "They are the middleman,  \"independent\" of banks, verifying the transaction.\n\nWithout Visa and Mastercard, every bank would have to set up their own gateway and processing center for card transactions, including securing the channel to the customer.\n\nTo provide this service, Visa charges the merchant and the bank.\n\nOthers in this space are Discover, American Express, RBIs Rupay and China has something too.",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llmoe6l/",
+      "created": 1725544488,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "llmsw9g",
+          "score": 158,
+          "body": "China = UnionPay",
+          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llmsw9g/",
+          "created": 1725546113,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "llpvksg",
+              "score": -36,
+              "body": "[deleted]",
+              "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llpvksg/",
+              "created": 1725582450,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "llpvza9",
+                  "score": 30,
+                  "body": "China's version of visa etc..",
+                  "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llpvza9/",
+                  "created": 1725582598,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lls75z8",
+                  "score": 7,
+                  "body": "Dude just read",
+                  "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/lls75z8/",
+                  "created": 1725624681,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "llpxrx1",
+                  "score": -45,
+                  "body": "[deleted]",
+                  "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llpxrx1/",
+                  "created": 1725583249,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "llq7h9f",
+                      "score": 28,
+                      "body": "Because someone explained it simply, and you still claim to not get it.",
+                      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llq7h9f/",
+                      "created": 1725586706,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "llr75rv",
+                      "score": 10,
+                      "body": "Clarification for what? You're not specific about which part you don't understand. If the answer is \"everything\", then why are you even in this thread?",
+                      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llr75rv/",
+                      "created": 1725602634,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "llsh8p0",
+                          "score": -1,
+                          "body": "[deleted]",
+                          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llsh8p0/",
+                          "created": 1725628747,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "llsk6u1",
+                              "score": 2,
+                              "body": "[removed]",
+                              "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llsk6u1/",
+                              "created": 1725629839,
+                              "depth": 6,
+                              "replies": []
+                            },
+                            {
+                              "id": "llu7y3e",
+                              "score": 2,
+                              "body": "Huh? What is there to get? UnionPay is China's version of Visa & Master Card. That's it.",
+                              "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llu7y3e/",
+                              "created": 1725649185,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lln9g4y",
+          "score": 82,
+          "body": ">Without Visa and Mastercard, every bank would have to set up their own gateway and processing center for card transactions, including securing the channel to the customer.\n\nThat's the thing, they already did. Visa and Mastercard were created by the banks to extend credit to consumers and set up the system to make it all work. Why create new ones with all the regulatory hurdles, costs, and headaches when they already exist?",
+          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/lln9g4y/",
+          "created": 1725551628,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lln0yrr",
+          "score": 72,
+          "body": "Payment processing fee is so low in China compared to US.  that's also why Credit Cards in China got shitty benefits.",
+          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/lln0yrr/",
+          "created": 1725548906,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "llnqr2v",
+              "score": 87,
+              "body": "[deleted]",
+              "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llnqr2v/",
+              "created": 1725557096,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "llpbhun",
+                  "score": 10,
+                  "body": "And not only this, but you sort of need a credit card just to get credit so you can say you have it so you can buy a car/house/whatever. And there is nothing you can do about it. And of course there are 3 (or more?) credit bureaus that collect all this information about you and you have no choice in the matter. \n\nI could start a credit bureau and then ask you to pay me if you want me to lock your credit down for a certain amount of time, and then also sell all this data to data-brokers and banks. haha neat!",
+                  "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llpbhun/",
+                  "created": 1725575191,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "llsidcj",
+                      "score": 1,
+                      "body": "And dont forget the security breaches. Everyone knows all of our info. How convinient.",
+                      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llsidcj/",
+                      "created": 1725629168,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "llo32cn",
+              "score": 32,
+              "body": "Credit card benefits are a US thing mainly",
+              "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llo32cn/",
+              "created": 1725560971,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "llp5bgb",
+                  "score": 13,
+                  "body": "And Canada but you guys have a lot more benefits.",
+                  "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llp5bgb/",
+                  "created": 1725573066,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "llpg3ak",
+          "score": 8,
+          "body": "Actually American express operates as a lender as well, therefore the higher fees, lower acceptance rate and better benefits for the consumer.",
+          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llpg3ak/",
+          "created": 1725576832,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "llomdp2",
+          "score": 5,
+          "body": "I think there is JCB as well - Japan Credit Bureau",
+          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llomdp2/",
+          "created": 1725567074,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "llqnr2i",
+          "score": 5,
+          "body": "actually most country also have their own internal payment processing system to bypass visa/mc for domestic transaction. \n\nbut so far only unionpay (china) and jcb (japan) that actually manage to cross their domestic border and used in some other countries.",
+          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llqnr2i/",
+          "created": 1725592939,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "llng3og",
+          "score": 5,
+          "body": "For me, it's Diners Club.",
+          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llng3og/",
+          "created": 1725553735,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lln18k4",
+          "score": 13,
+          "body": "Do you think the Fed or an alliance of banks couldn't just make their own service? I mean, they've done it countless times now with ACH, Zelle, etc. Seems like the only outlier they let take their money is visa and Mastercard.",
+          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/lln18k4/",
+          "created": 1725548994,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "llnce1x",
+              "score": 38,
+              "body": "As has been pointed out, that's how Visa was started. So was Mastercard. Outside of that AMEX and Discover are the only really notable contenders. AMEX started as a logistics/shipping company and Discover was created by Sears in the '80s, one of the few things they were doing right around that time. \n\nJust setting up an effective and dependable credit payment system for consumers is not easy. It involves copious costs, time, and regulatory headaches. Visa and Discover didn't just set up shop and dominate. There was a lot of work involved getting them to where they are. They coast now because of a serious moat established a while ago.",
+              "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llnce1x/",
+              "created": 1725552561,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "llnzfqy",
+                  "score": 24,
+                  "body": "Another thing to point out is that Visa and MasterCard's technology, while archaic, is damn near bulletproof. The system just works and NEVER goes down. \n\nThey are the beneficiaries of a unique terminal effect where both the consumer and the banks enjoy the system. Consumers enjoy the cash back perks enabled by these payment network, and banks enjoy the take rate they can charge as both issuers and acquirers. Businesses are the one's who don't like it, but up until recently they didn't matter in the eyes of US judges and legislatures for this topic.",
+                  "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llnzfqy/",
+                  "created": 1725559824,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "llo7xe1",
+                      "score": 13,
+                      "body": ">Another thing to point out is that Visa and MasterCard's technology, while archaic, is damn near bulletproof. The system just works and NEVER goes down.\n\nWhich is even more impressive when you consider the volume of payments they support all around the world. The tech is archaic because it's not really in need of an upgrade.\n\n>Businesses are the one's who don't like it, but up until recently they didn't matter in the eyes of US judges and legislatures for this topic.\n\nTrue, which why it's up to the gov't to do something about it. Some upstart like the ones OP is hypothesizing about aren't really going to introduce some innovation that'll help the business. The closest things are these fintechs that really just brand cards and function as a way for businesses to get more customers on that side of things, and crypto, which has accomplished nothing and is vaporware.",
+                      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llo7xe1/",
+                      "created": 1725562517,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lloivwe",
+                          "score": 2,
+                          "body": "Welcome to the IBM mainframe….where absolutely everything is hot-swappable.",
+                          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/lloivwe/",
+                          "created": 1725565990,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lln5m0i",
+              "score": 58,
+              "body": "Visa literally started as an alliance of the banks. It operated as a bank-owned entity for decades before going public independently in 2008.",
+              "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/lln5m0i/",
+              "created": 1725550405,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lln9m5b",
+                  "score": 38,
+                  "body": "So did Mastercard. OP is answering his own question.",
+                  "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/lln9m5b/",
+                  "created": 1725551680,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "llq1bwc",
+                  "score": 2,
+                  "body": "Didn't it originate from Bank of America with their introduction of the BankAmericard?",
+                  "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llq1bwc/",
+                  "created": 1725584492,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "llvhvsc",
+                      "score": 3,
+                      "body": "Yes, back in the 1970's. Bank of America started what became Visa and spun it off into a non profit corporation/association. Same with Mastercard. Both were owned by all member banks around the world. That's why anywhere in the world today you can get a credit card cash advance or debit card withdrawal from any bank in the world that accepts Visa or Mastercard even though your own bank is far away.",
+                      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llvhvsc/",
+                      "created": 1725664644,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "llnlei3",
+              "score": 14,
+              "body": "They literally did. Visa was created by the banks over 50 years ago to serve that purpose. It’s only been publicly traded for 12-15 years now.",
+              "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llnlei3/",
+              "created": 1725555404,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "llnaxu4",
+              "score": 6,
+              "body": "\nThe Fed charges depository banks to use the FedACH network. \n\n\nThey could replace Visa, but why would they?",
+              "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llnaxu4/",
+              "created": 1725552098,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "llnsie6",
+              "score": 11,
+              "body": "> Do you think the Fed or an alliance of banks couldn't just make their own service? \n\nWhy on earth would we want to entrust 100% of the credit card processing day-to-day operations to the federal government when private industry has found a cheap and efficient way of doing so for the last half century.....?",
+              "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llnsie6/",
+              "created": 1725557649,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lloolm0",
+                  "score": 6,
+                  "body": "The amount of people who advocate for taking responsibility of technical critical infrastructure and giving it to the government is concerning.",
+                  "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/lloolm0/",
+                  "created": 1725567760,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "llq4l67",
+                  "score": 0,
+                  "body": "The issue is it isn't cheap. European and Chinese credit card fees are much lower, for example.",
+                  "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llq4l67/",
+                  "created": 1725585661,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "llpzvp6",
+              "score": 2,
+              "body": "I'm pretty sure this is how Interac started in Canada as well. It's a collection of all the major banks collaborating on a single service. \n\nIf I'm not mistaken it was pretty ahead of the curve on instant transactions in the early 90s or so. \n\nSee also: Canadian history on monopolies",
+              "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llpzvp6/",
+              "created": 1725583981,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "llqj2nr",
+                  "score": 1,
+                  "body": "Was looking through this whole thread for Interac. Had no idea it's just a Canadian thing",
+                  "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llqj2nr/",
+                  "created": 1725591048,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "llqs0vl",
+              "score": 1,
+              "body": "ACH has strict federal regulations. Credit card networks must be PCI Compliant. Which to put simply is not the federal government.",
+              "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llqs0vl/",
+              "created": 1725594746,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lltyqc4",
+          "score": 2,
+          "body": "\n\nTake a look at what Flexa is doing. They have essentially created a new payment rail system to bypass the legacy system.\n\n* This is what the legacy system looks like: [https://imgur.com/a/9ky8AaW](https://imgur.com/a/9ky8AaW)\n* This is what Flexa has created: [https://imgur.com/a/Pt6XHUd](https://imgur.com/a/Pt6XHUd)\n\nVisa/Mastercard had a huge moat for a long time due to them being able to handle all the complexities of a credit card transaction. And because of the huge complexities they charge 3-4% to the merchant.\n\nAnd these are the advantages of Flexa vs Visa/MC\n\n* **Lower Fees**: Flexa reduces transaction fees significantly compared to Visa's credit card fees, making it more attractive for merchants.\n* **Instant Settlement**: Payments on Flexa settle instantly using digital assets, eliminating the multi-day clearing process associated with Visa transactions.\n* **Fraud Prevention**: Blockchain’s decentralized and secure nature reduces the risk of fraud compared to traditional card networks.\n* **Global Access**: Flexa supports digital currencies, providing a global, borderless payment solution, unlike Visa, which is limited by country-specific regulations and fiat currencies.\n\nWe'll see if Flexa can disrupt the legacy payment rails. They're already live with a proof of concept app and can be used at Chipotle, Nordstroms, Sheetz, Khiels etc.",
+          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/lltyqc4/",
+          "created": 1725646224,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "llu3a3f",
+              "score": 3,
+              "body": "This is the disruption OP is asking about. Also brings into play crypto as spednable for the masses and onboards merchants readily while basically reducing fraud and risk for them.",
+              "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llu3a3f/",
+              "created": 1725647686,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lm03nat",
+              "score": 1,
+              "body": "Why isn’t every person ever throwing their money at Flexa like they would at a pole dancer?\n\nDo they still have to prove themselves? Do people not like change?",
+              "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/lm03nat/",
+              "created": 1725738374,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lm05la4",
+                  "score": 1,
+                  "body": "They have had some funding rounds with VCs.  \n\nhttps://tracxn.com/d/companies/flexa/__wi-TyIM4U-Vueti8NXhWpRG70khVKmxbmao1P1miwyg/funding-and-investors\n\nAs for us, you can invest in the utility coin that they use for collaterization of each transaction.",
+                  "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/lm05la4/",
+                  "created": 1725739045,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "llo209g",
+          "score": 2,
+          "body": "With UPI being ubiquitous, I don’t see much traction for Rupay in India.",
+          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llo209g/",
+          "created": 1725560635,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "llpr26u",
+          "score": 1,
+          "body": "In Denmark we have our own called \"Dankort\" which is cheaper for the retailers than mastercard and visa. All mainstream bank cards are Dankort first and VISA second, but due to services like revolut and apple pay they are loosing ground",
+          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llpr26u/",
+          "created": 1725580798,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "llq145d",
+          "score": 1,
+          "body": "I believe VISA was the first to set up digital verification systems, also their widespread campaign to make POS terminals the standard for all merchants. They are a technology company since they collect fees for transferring data.",
+          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llq145d/",
+          "created": 1725584414,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "llqrm2w",
+          "score": 1,
+          "body": "Payment processors are the middle men. Visa Mastercard set the rules in which they require the processors to follow. Interchange rates whether variable or fixed are set by the acquirer and the processor, Visa Mastercard charge to use their Network. Most processors, software vendors, acquiring businesses to use there whatever certify with a Tsys or worldpay etc because they are the ones who communicate directly with Visa Mastercard.",
+          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llqrm2w/",
+          "created": 1725594566,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "llwt3i2",
+          "score": 1,
+          "body": "📚",
+          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llwt3i2/",
+          "created": 1725683943,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lln3vq6",
+          "score": 0,
+          "body": "[deleted]",
+          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/lln3vq6/",
+          "created": 1725549848,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "llp73jh",
+              "score": 2,
+              "body": "Giro payments are a completely different thing. And it's used around the world, it's just the US that doesn't use it.",
+              "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llp73jh/",
+              "created": 1725573663,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "llmv1n9",
+          "score": -8,
+          "body": "China = say or do something we don’t like say but to your bank account.",
+          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llmv1n9/",
+          "created": 1725546969,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lln0hmh",
+              "score": 4,
+              "body": "Happening here too. ",
+              "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/lln0hmh/",
+              "created": 1725548751,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "llnk5pq",
+              "score": 2,
+              "body": "same thing happened in canada.\n\nit's going to happen in the US too",
+              "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llnk5pq/",
+              "created": 1725555017,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "llp7ss4",
+          "score": -1,
+          "body": "For me it would be better that such an organization should not be private but public, with zero fees.\nAnd controlled by the United Nations, \nPaid by tax money.",
+          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llp7ss4/",
+          "created": 1725573904,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "llpgi9y",
+              "score": 4,
+              "body": "Lol UN?\n\nUN is completely obsolete and at mercy of Big 5",
+              "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llpgi9y/",
+              "created": 1725576979,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "llrzzm8",
+              "score": 1,
+              "body": "So your plan is to hand over like 99% of the financial security and resources in the world to the UN?\n\nIs the next step of your plan forming a single world wide government, or would that just be a happy accident?",
+              "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llrzzm8/",
+              "created": 1725621326,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "llq6t30",
+          "score": 0,
+          "body": "So, they are basically selling \"shovels\"",
+          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llq6t30/",
+          "created": 1725586470,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "llr9qwp",
+          "score": 0,
+          "body": "but all this transaction processing is from a third party as well, no?\nlike mastercard is using Adyen",
+          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llr9qwp/",
+          "created": 1725604258,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lln2435",
+      "score": 129,
+      "body": "Because the banks are too small to operate globally. How is Chase Manhattan going to collect money from a Japanese or Russian terminal? Visa specialises in this.\n\nPlenty of guys have tried to disrupt this from PayPal to Square. You see it working well?",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/lln2435/",
+      "created": 1725549279,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lln4k8b",
+          "score": 47,
+          "body": "Yeah there are tons of things in this space FedNow, AmEx, Discover, PayPal, Apple (to an extent), Zelle, WeChat.  \n\nVisa and Master just happen to be good enough to not get knocked off so far.  ",
+          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/lln4k8b/",
+          "created": 1725550067,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "llncdxh",
+              "score": 25,
+              "body": "Correct payments has lots of elements. KYC, fraud control, reliability, integration.\n\nIf you start a new system how do you convince an entire ecosystem to move to you.\n\nIt’s like anyone can build a word document software. Why would I move from Microsoft to a new system.",
+              "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llncdxh/",
+              "created": 1725552560,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "llqflwq",
+              "score": 3,
+              "body": "AmEx and Discover are closed loop systems. They don't directly compete with Visa and MasterCard.",
+              "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llqflwq/",
+              "created": 1725589685,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "llqh5oz",
+                  "score": 2,
+                  "body": "I mean from the perspective of consumers and businesses AmEx could completely replace the function of Visa.  Yes they aren’t identical (that’s what makes a disruption the new business replaces the function of the old doing it in some new way).  ",
+                  "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llqh5oz/",
+                  "created": 1725590280,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lls4l7k",
+                      "score": 4,
+                      "body": "AmEx is older than Visa and MasterCard. They aren't some new disruptor. If anything, Visa was the disruption to AmEx business model.",
+                      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/lls4l7k/",
+                      "created": 1725623521,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "llrkzr2",
+                      "score": -1,
+                      "body": "AMEX is by far the most antiquated, least flexible and difficult to work with of all the card networks. \n\nAmEx isn't replacing anything.",
+                      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llrkzr2/",
+                      "created": 1725611864,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lls2lv8",
+                          "score": 4,
+                          "body": "Not at their fees.",
+                          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/lls2lv8/",
+                          "created": 1725622605,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "llmnr7a",
+      "score": 89,
+      "body": "Agree with you. Feels to me like those do have almost a monopoly. By making those observations, I guess a logical set of actions could be to buy stocks of those companies and collect the profits derived from their advantageous position.",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llmnr7a/",
+      "created": 1725544271,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "llmrqk9",
+          "score": 45,
+          "body": "This is the way. Few years back I was getting enraged. Now I figured that if these companies charge me 15% extra for their product/service, I will make sure to makeit back from their stocks. Has worked so far.",
+          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llmrqk9/",
+          "created": 1725545642,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "llsjo8w",
+              "score": 3,
+              "body": "That’s how I treat Costco , you wanna increase membership fees? All good, I’ve made a lifetime of membership fees time ten in profits from your stock.",
+              "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llsjo8w/",
+              "created": 1725629647,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "llo7wq2",
+              "score": 1,
+              "body": "Isn't there going to be some kind of a vote soon to break the duopoly?",
+              "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llo7wq2/",
+              "created": 1725562511,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "llmz44b",
+              "score": -11,
+              "body": "Ngl I fw the cashback shit. also feel like we are so balls deep in it now that even if they were gone nothing much would change anyway",
+              "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llmz44b/",
+              "created": 1725548305,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lln9f75",
+          "score": 26,
+          "body": "That isn't true. Xfinity has monopoly in internet. Verizon + AT&T + TMobile are also monopolistic. Even Boeing + Airbus are like V + MA.\n\nNone of these companies were worth investing in 5 years ago. Just because something monopoly doesn't mean it is good investment.",
+          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/lln9f75/",
+          "created": 1725551620,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "llqxo8i",
+              "score": 3,
+              "body": "This right here. One the flip side payment networks are precisely the type of things where a duopoly is advantageous precisely because of the demand side economies of scale and network effects, just like no one benefitted from having multiple parallel railways competing each other to bankruptcy.",
+              "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llqxo8i/",
+              "created": 1725597350,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "llvqp8f",
+                  "score": 1,
+                  "body": "I like all 2 but I am heavily invested in amex for various reasons.",
+                  "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llvqp8f/",
+                  "created": 1725668003,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "llmz16k",
+          "score": 2,
+          "body": "[removed]",
+          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llmz16k/",
+          "created": 1725548279,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lln3iji",
+              "score": 1,
+              "body": "Has his mother aged as well as the other three positions?",
+              "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/lln3iji/",
+              "created": 1725549731,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "llmp4wk",
+          "score": 1,
+          "body": "I also agree with your assessment.",
+          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llmp4wk/",
+          "created": 1725544742,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "llnvry7",
+          "score": -1,
+          "body": "I do like that Visa does invest into other companies that could \"threaten\" or enter their space. they held a 7% stake in Square/Block at one point",
+          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llnvry7/",
+          "created": 1725558670,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "llnl1op",
+      "score": 37,
+      "body": "There is no more regulated financial industry company than Visa. Visa provides an incredibly safe and reliable means to process payments globally. Those bank interchange fees that you are complaining about are set by and mostly go to the banks, not Visa. But Visa processes trillions of transactions a year. A system that cannot simply be erased and it supports the entire global economy.",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llnl1op/",
+      "created": 1725555294,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llnlgjt",
+      "score": 11,
+      "body": "They were first movers, and now there's a massive network effect between merchants, banks, and consumers. They are so important to the global banking system and economy. They've been regulated a ton by every country they operate in, yet those governments know they can only do so much. They've invested in the infrastructure and processes to manage this effectively and attempts by competitors have failed miserably (look at JPM and APPL's attempt as an example).",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llnlgjt/",
+      "created": 1725555423,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llnbvk3",
+      "score": 10,
+      "body": "Do yourself a favor and go listen to the Acquired episode on Visa. Very fascinating.",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llnbvk3/",
+      "created": 1725552398,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llmwmxe",
+      "score": 43,
+      "body": "Discover and American Express do exist. I love my amex card. Great rewards (6% cash back in grocery stores!) and their customer service is phenomenal.",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llmwmxe/",
+      "created": 1725547498,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "llncve0",
+          "score": 39,
+          "body": "Different business model. Their business is all about the cards and the fees / interest revenue from them. They issue the cards and manage rewards schemes to attract customers\n\nVisa and MasterCard are not really card companies - they're tech companies. They build and run the pipes for payments. They don't issue cards themselves, rather they enable others to do it\n\nAnd it's very regional. In Asia, Amex doesn't have much presence because fewer merchants accept it and bank-issued Visa and MC cards are far more popular and rewarding. This is unlike the West, where Amex often has comparatively good rewards schemes\n\nAnd forget about Discover in the East - practically unheard of",
+          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llncve0/",
+          "created": 1725552716,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "llnjqip",
+              "score": 17,
+              "body": "Amex also uncommon in Europe and widely disliked by merchants, whereas Visa and Mastercard are ubiqituous",
+              "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llnjqip/",
+              "created": 1725554886,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "llnp6ml",
+                  "score": 13,
+                  "body": "Amex charges merchants a higher fee than Visa and Mastercard.",
+                  "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llnp6ml/",
+                  "created": 1725556602,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "llnv06a",
+                      "score": 19,
+                      "body": "Amex also almost always sides with the card user in disputes. As a card user I love it. I can understand why merchants wouldn't...",
+                      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llnv06a/",
+                      "created": 1725558431,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "llqxxk0",
+                      "score": 1,
+                      "body": "Lol reminded me of my face the first time I visited my company’s London office and the cafeteria wouldn’t accept my US-office issued corporate Amex.",
+                      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llqxxk0/",
+                      "created": 1725597480,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "llpryzl",
+                  "score": 2,
+                  "body": "It's widely accepted in the UK, but I guess that doesn't count as Europe these days. Best card reward schemes in the market\n\nBut back to the Asia example, I've seen plenty of merchants who don't accept Visa or MC. Instead they use local schemes or e-wallets, etc.\n\nThe payments landscape is shifting in some areas of the world",
+                  "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llpryzl/",
+                  "created": 1725581133,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lls9svl",
+                      "score": 1,
+                      "body": "In Malaysia credit cards are still Visa/MC but for debit using QR where it links to your bank account is more convenient, supported by all banks and e wallets.",
+                      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/lls9svl/",
+                      "created": 1725625817,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "llnutf7",
+              "score": 1,
+              "body": "Gotcha ",
+              "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llnutf7/",
+              "created": 1725558373,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "llp61s6",
+      "score": 6,
+      "body": "It’s very surprising, and it’s the reason I’ve (incorrectly) stayed out of MA/V for the last 20 years.\n\nAll they really do is operate a private, secure network.  At one time that was amazing, and existential.\n\nTheir long-standing advantage was in having that network reach every country and city and town and shop.  End point terminals could send rudimentary messages back and forth to a central decision hub.  They offer some basic functions and policies, and for that, they get to charge about one percent on every credit card transaction in the world.   \n\nBut once the internet and strong encryption became equally pervasive, that could basically have ended the importance of Visa/Mastercard’s key element: their secure network.\n\nThe processing functions and policies and clearing are not that special.  Any reasonably adept organization of scale could do the same function.  And such an organization might even have done it with more favorable policies, or at a cheaper price.\n\nIt always struck me as something Google or Apple could easily do, layering a virtual private network across the global internet, and using their scale to ensure the processing and clearing function.  I imagined one of them announcing they would provide the exact functions of MA/V, but at one-tenth of a percent instead.\n\nYou ask how these two have avoided that kind of asteroid that people in the industry could have foreseen.  Well one way has been in their velvet gloves approach to each other and in allying to share the network and all policies.  In reality it’s really Eurocard plus MasterCard plus Visa, aka EMV.  They set and control payment standards worldwide.  The duopoly presents as an illusion of competition and then they each get to operate as a virtual monopoly.  \n\nTo me, a key point was when Apple entered the payment space.  Had Steve Jobs been involved, he would have undoubtedly done the more disruptive thing and created an Apple equivalent to MA/V.  Yes, it would have stirred their lobbyists to fight back, but he would have done what he always did before.\n\nInstead, his less bold and non-innovative successors took the laziest, easiest path and just became a standard, old fashioned brand partner with a bank.  They owned nothing.  They just let legacy banks runs cards through iPhones.  Instead of being disruptive to MA/V, they helped extend and enshrine them.\n\nOver the decades there were other things.  By locking out all competition with their E/M/V alliance, they could set proprietary standards for how internet commerce would function, debit cards, how NFC would be implemented, how chip cards would be implemented, and so on.  \n\nBut to me, the point when they were most vulnerable, and the most viable disruptor (Apple) just voluntarily conceding to them, that is what has given them an extra and unearned whole generation of monopoly power.  Today, Apple or Google or Microsoft would not be viable disruptors because they’d be mired by complaints of their own anti-trust tendencies.  Younger people might not realize it, but in their earlier times, each of these companies was kind of beloved by consumers.  They were seen as upstarts, providing amazing new innovations every week, at little to no direct cost.  Obviously that sentiment is gone, and I’m not sure there’s anyone or anything today that matches that same mood.",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llp61s6/",
+      "created": 1725573310,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "llu7puv",
+          "score": 1,
+          "body": "The problem with cards is that you need to be a bank, it's regulated a lot, it's a lot of  legal troubles.\n\nBut most importantly, it would tarnish the image of their main business because banking is only profitable when it's dirty and ruthless (suing poor people, selling their assets by force when they can't pay debts, having them pay additional fees if they have no money, refusing some people, closing accounts with no reason given, ignoring fraud victims, hidden costs from nowhere, etc...).\n\nWhich contradict their main business that needs to be transparent, nice with everyone and trustable.",
+          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llu7puv/",
+          "created": 1725649111,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "llmvqk9",
+      "score": 17,
+      "body": "Lookup FedNow, the US government is working on doing exactly what you’re asking for. ",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llmvqk9/",
+      "created": 1725547202,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "llmz5u8",
+          "score": 9,
+          "body": "[deleted]",
+          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llmz5u8/",
+          "created": 1725548319,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "llna7yp",
+              "score": 5,
+              "body": "Yes this service would be available for merchants to complete card present transactions and card not present transactions with extremely affordable processing fees. ",
+              "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llna7yp/",
+              "created": 1725551870,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lln7p2f",
+              "score": 4,
+              "body": "Systems like those exist now in other countries. For example UPI in India. Just that payments infrastructure in the US has so much catching up to do at the moment",
+              "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/lln7p2f/",
+              "created": 1725551073,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "llnfr2n",
+                  "score": 3,
+                  "body": ">payments infrastructure in the US has so much catching up to do at the moment\n\nIf my VISA or AMEX card credentials get leaked and someone performs unauthorized transaction, I can initiate reversal of all unauthorized payments immediately (and it is investigated later). Note that this money is that of bank. I can lock the card immediately and have new card shipped overnight. Whole process takes 30 seconds.\n\nFor UPI, reversal of unauthorized transaction are bank initiated. So you have to contact the bank to first start the investigation, and then the payments are reverted later. Note that this is my money, so if I was in need of my money immediately, a bit of an issue. Also, if your aadhar gets leaked, it is basically game over. That is US equivalent of using SSN to access individual credit card (both Aadhar and SSN have dogshit security infrastructure). So just resetting PIN to prevent future unauthorized transaction is somewhat unreliable. Very different than locking card and getting brand new number.\n\nSo to say India is ahead and US is behind is somewhat deceptive. There are many fintechs coming up with distributed ledger, so it will have penetration if it is useful in current environemnt.",
+                  "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llnfr2n/",
+                  "created": 1725553625,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lln0sdl",
+          "score": 8,
+          "body": "When many of the people working on it are calling it FedLater, I wouldn’t hold my breath. ",
+          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/lln0sdl/",
+          "created": 1725548848,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lln9ywa",
+              "score": 5,
+              "body": "Lol too true 😂",
+              "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/lln9ywa/",
+              "created": 1725551792,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "llx9r0n",
+          "score": 1,
+          "body": "You mean like how the Post Office disrupted shipping?",
+          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llx9r0n/",
+          "created": 1725694025,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "llmqjpj",
+      "score": 32,
+      "body": "They have been disrupted many times. Discover, American Express are the two biggest disruptors",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llmqjpj/",
+      "created": 1725545226,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "llmtt6w",
+          "score": 17,
+          "body": "I do like these two companies, but I wouldn't call either of them disrupters. They both issue debt to finance their cards, only allow themselves to collect the interchange fee, and neither of them allow other institutions to issue their cards (besides credit one for amex, which is weird)\n\nAmex is really the only one I could see potentially disrupting things, but it probably won't happen until they pump their acceptance up and lower their merchant fees.",
+          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llmtt6w/",
+          "created": 1725546501,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "llmwfuu",
+              "score": 22,
+              "body": "Amex is also about charging higher fees to give more rewards and attract wealthier clientele. It's a different business model, but it works in the developed economies.",
+              "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llmwfuu/",
+              "created": 1725547433,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lln0niv",
+                  "score": -10,
+                  "body": "There’s no rewards. I first got it because it was an I on your credit report, but they took it away. ",
+                  "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/lln0niv/",
+                  "created": 1725548804,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lln4wwl",
+                      "score": 7,
+                      "body": "Haven't seen yet an amex card with no rewards. Maybe you are confused about how their business model works?",
+                      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/lln4wwl/",
+                      "created": 1725550180,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "llp7hqz",
+                          "score": 1,
+                          "body": "I am not confused. I’ve bad my card since 1994. I can take a pic of it if I must. I have never seen any rewards. \n\nIt sucks the corporate fan bois are voting me down. Since I got my card from Barclays, I don’t think I have used my gold card since except for car rentals for the insurance. ",
+                          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llp7hqz/",
+                          "created": 1725573799,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "llpu79j",
+                              "score": 1,
+                              "body": "I didnt downvote you.\n\nI consider insurances (travel, rental ...) a reward since they are financed by transaction fees. Rewards dont need to be monetary or points. Anyways I'm amazed you take such a deal. For example I have an amex no yearly fees 1% cashback.",
+                              "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llpu79j/",
+                              "created": 1725581940,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "llpapqp",
+                          "score": 1,
+                          "body": "I called, and they confirmed I am correct. \n\nThey said that the traditional that they also sometimes call standard gold card has never had rewards. Never. ",
+                          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llpapqp/",
+                          "created": 1725574919,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lln8yr3",
+                      "score": 2,
+                      "body": "They do cashback and have lots of offers like $x off at X brand or spend $15 get $5 back from small retailers\n\n\nVISA/Mastercard never have such things",
+                      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/lln8yr3/",
+                      "created": 1725551476,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "llnhyfp",
+                      "score": 3,
+                      "body": "[deleted]",
+                      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llnhyfp/",
+                      "created": 1725554328,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "llpajgl",
+                          "score": 1,
+                          "body": "I called, and it took quite a while to get a human. They used to not be this bad. They confirmed the standard or traditional gold card has no rewards. The people voting me down are liars trying to push misinformation to help AmEx. ",
+                          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llpajgl/",
+                          "created": 1725574859,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "llnpnww",
+                      "score": 1,
+                      "body": "If your credit is good enough, they offer a rewards card that gives 6% back on groceries and 3% back on gas, among other things. The more desirable a client you are, the more perks they offer.",
+                      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llnpnww/",
+                      "created": 1725556751,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "llp73d8",
+                          "score": 1,
+                          "body": "I’ve had a gold card for over thirty years and >820 credit, and I have never seen any rewards. Never. \n\nSome good discounts that I used to use when they came in the mail, but no rewards. ",
+                          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llp73d8/",
+                          "created": 1725573662,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "llpgz2d",
+                              "score": 2,
+                              "body": "Are you sure? [Amex Gold card rewards](https://thepointsguy.com/credit-cards/amex-gold-dual-pm/?utm_source=google&utm_medium=cpc&utm_campaign=BRDB-amex%20gold%20card-710844853801&utm_term=amex%20gold%20card&utm_cmpid=11663363485&utm_adgid=116433564467&utm_tgtid=kwd-17188060&utm_mt=p&utm_adid=710844853801&utm_dvc=c&utm_ntwk=g&utm_adpos=&utm_plcmnt=&utm_locphysid=9030957&utm_locintid=&utm_feeditemid=&utm_devicemdl=&utm_plcmnttgt=&utm_misc=&utm_ltpcid=CjwKCAjwreW2BhBhEiwAavLwfGnDoxaob_rmxeRj7ZuBnm2BhvRTec7JSkfdedldr7ci2qo5EWTHchoCftoQAvD_BwE&gad_source=1&gclid=CjwKCAjwreW2BhBhEiwAavLwfGnDoxaob_rmxeRj7ZuBnm2BhvRTec7JSkfdedldr7ci2qo5EWTHchoCftoQAvD_BwE): \n\n• Earn 4X Membership Rewards® points per dollar spent on purchases at restaurants worldwide, on up to $50,000 in purchases per calendar year, then 1X points for the rest of the year.\n\n• Earn 4X Membership Rewards® points per dollar spent at US supermarkets, on up to $25,000 in purchases per calendar year, then 1X points for the rest of the year.\n\n• Earn 3X Membership Rewards® points per dollar spent on flights booked directly with airlines or on AmexTravel.com.\n\n• Earn 2X Membership Rewards® points per dollar spent on prepaid hotels and other eligible purchases booked on AmexTravel.com.\n\n• Earn 1X Membership Rewards® point per dollar spent on all other eligible purchases.\n\nBut unless you're a frequent traveler, I think their [Blue Cash Preferred](https://www.nerdwallet.com/article/credit-cards/amex-gold-vs-blue-cash-preferred) card is preferable. $95 a year to the Gold card's $325, and that 6% back on groceries adds up fast. \n\n• 6% back on groceries\n\n• 3% back on gas, transit (taxis, ride share, public transit), and streaming subscriptions\n\n• 1% back on everything else.",
+                              "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llpgz2d/",
+                              "created": 1725577144,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "llppxxx",
+                                  "score": 1,
+                                  "body": "That is a different card from the standard or traditional gold card. \n\nNot the text telling you it isn’t. ",
+                                  "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llppxxx/",
+                                  "created": 1725580389,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "llq05cg",
+                                      "score": 2,
+                                      "body": "OK... Well then, I'd call Amex and ask them if you can upgrade to a card that has membership benefits, because you're being shortchanged. Everyone else is getting membership rewards and you aren't.",
+                                      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llq05cg/",
+                                      "created": 1725584077,
+                                      "depth": 8,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "llmupbe",
+              "score": 6,
+              "body": "Discover works with other issuing banks. Amex does not.\n\nThe answer is that it is an expensive, complicated, highly regulated build that no one wants to touch. Plus once you build it you have to find a way to gain 99% acceptance to be somewhat competitive. That alone is massive hill to climb",
+              "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llmupbe/",
+              "created": 1725546850,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lln8syn",
+                  "score": 1,
+                  "body": "> Discover works with other issuing banks.\n\nCapital One has entered the chat",
+                  "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/lln8syn/",
+                  "created": 1725551425,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "llndxyb",
+                      "score": 1,
+                      "body": "Capital One issues Mastercard and is attempting to buy Discover. I don't understand your point. Is it that Discover won't work with other issuing banks because it may be owned by Capital One?",
+                      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llndxyb/",
+                      "created": 1725553053,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "llng5qh",
+                          "score": 2,
+                          "body": "They are in process of buying discover.",
+                          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llng5qh/",
+                          "created": 1725553754,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "llngc0e",
+                              "score": 1,
+                              "body": "Which is why I said \"Capital One issues Mastercard and is attempting to buy Discover.\"\n\nBut again, what's the point? If that's all you meant to say it's a nonsequitor.",
+                              "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llngc0e/",
+                              "created": 1725553809,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "llnh1bk",
+                                  "score": 1,
+                                  "body": "Oh. Obviously, Discover won't work with other banks after it is acquired by Capital One. Apart from honoring existing agreements.",
+                                  "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llnh1bk/",
+                                  "created": 1725554034,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "llnxvii",
+                                      "score": 1,
+                                      "body": "They will continue to partner with other issuing banks after the merger. Capital one isn’t going to nuke that business. They want to compete with visa and master card for that traffic. \n\nThe merger wouldn’t be worth their time otherwise",
+                                      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llnxvii/",
+                                      "created": 1725559326,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "llnz3sx",
+                                          "score": 2,
+                                          "body": "> They want to compete with visa and master card for that traffic.\n\nThat is speculation. Capital One doesn't want to give 2-3% transaction fees to MA, which is why they are buying discover. Speculating they want to compete with VISA/MA for traffic is like speculating AMEX want to compete with VISA/MA, all while issuing credit on their own.",
+                                          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llnz3sx/",
+                                          "created": 1725559722,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "llo7inc",
+                                      "score": 1,
+                                      "body": "If the acquisition is completed, but even then how they run Discover remains to be seen. If it expands MC payments beyond what Cap One would have as Discover's sole issuing bank then they could still allow for agreements with other banks.",
+                                      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llo7inc/",
+                                      "created": 1725562387,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "llobn82",
+                                          "score": 1,
+                                          "body": "So Capital One offers credit cards. If some other bank uses discover network, they are splitting the transaction fee with Capital One. At same time, they are also competing with Capital One, who just yoinks entire transaction fee, which gives it much bigger advantage.  \nif you are that other bank, you wouldn't want to take any critical service from your direct more fierce competitor.",
+                                          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llobn82/",
+                                          "created": 1725563706,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "llmup5g",
+              "score": 2,
+              "body": "If that is what your definition of disruption is, pretty much all of crypto is disrupting credit card payments",
+              "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llmup5g/",
+              "created": 1725546848,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lln8ojl",
+              "score": 1,
+              "body": "> neither of them allow other institutions to issue their cards \n\nOnly true in the US I guess. They also partner with banks in other countries depending.",
+              "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/lln8ojl/",
+              "created": 1725551386,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "llncq3m",
+          "score": 3,
+          "body": "They're not really disrupters, they're competitors, and two notable competitors is probably a better example of why it is so hard to not only compete but truly disrupt companies as entrenched in a difficult to breach space like Visa and Mastercard.",
+          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llncq3m/",
+          "created": 1725552670,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "llo6lvd",
+      "score": 5,
+      "body": "Visa and Mastercard, as American companies, benefit indirectly from the global financial structure that supports the US dollar's dominance, and keeps any non US competition out of the game.\n\n1. **SWIFT Integration and Global Financial System**: While Visa and Mastercard aren’t directly integrated into the SWIFT system (which facilitates cross-border payments between banks), they operate within the same global financial ecosystem. The dominance of the USD in international trade and finance strengthens the position of US-based financial networks like Visa and Mastercard who are locally integrated and share/exchange staff with the institutions that manages the dollar. The personel exchange between VISA, MASTERCARD, The US Federal Reserve, The US Treasury and the Bureau of the Fiscal Service is actually envouraged. Global reliance on the dollar for trade and commerce indirectly supports these companies because they facilitate payments in USD through credit card transactions globally.\n2. **Petrodollar and USD Dominance**: The US dollar’s position as the world's reserve currency—thanks largely to the petrodollar system—creates an environment where US financial institutions are central players in the global economy. Visa and Mastercard’s dominance is bolstered by the fact that a large percentage of global transactions are settled in USD. As long as the US dollar remains the primary currency for international trade, especially in critical sectors like oil and energy, US financial institutions (including Visa and Mastercard) have an advantage plus their staff integration as pointed out in point 1.\n3. **US Government and Financial Interests**: The US government benefits from the dominance of the USD and US-based financial institutions in maintaining global economic power. While Visa and Mastercard are private companies, their role in facilitating global commerce aligns with US interests in maintaining economic and financial dominance. This manifest in organic regulatory support, trade policies, or geopolitical strategies that, boosts American Financial companies by default, and help sustain the environment in which they thrive.\n4. **Credit Rating Agencies and Financial Dominance**: The largest credit rating agencies (Moody’s, S&P, Fitch) are all American, and their assessments of creditworthiness play a significant role in shaping perceptions of national and corporate risk. The US benefits from this, as US government debt is often seen as a safe haven despite its massive levels of debt, in part because of the trust in the USD as the world’s reserve currency. The fact that the US hasn’t been downgraded severely despite its debt issues is influenced by this broader confidence in the USD and the global reliance on US financial systems.\n5. **US Financial Power and Global Influence**: Visa and Mastercard, along with credit rating agencies, benefit from a global financial architecture where the US holds significant influence. This includes control over global institutions, regulatory frameworks, and trade systems that uphold US economic dominance. The US’s ability to impose sanctions through financial mechanisms (often cutting off access to Visa, Mastercard, or SWIFT) demonstrates the global influence these companies wield on behalf of US financial power.\n\nIn essence, Visa and Mastercard's success is not just a result of their business models and network effects but is also tied to the larger role that the US plays in the global financial system. The dominance of the USD, the strategic role of the petrodollar, and the influence of US financial institutions all indirectly reinforce the position of Visa and Mastercard on the global stage. So make no mistake. The US government , which is the largest corporation in America with an estimated Market Cap of about 30 Trillion USD has one single purpose. Promote USA beyond its borders to generate revenue for American companies. If they dont create a fertile environment for American companies to thrive whether it is via supporting covert operations even against corporate entities or even creating monopolies of american products outside the USA , then they are not doing their job.",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llo6lvd/",
+      "created": 1725562099,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llmqbs3",
+      "score": 13,
+      "body": "They have been disrupted.  China mostly doesn’t use credit cards for payment - alipay and wechat do 99.999% of transactions.  Cash is dead in china, and visa or mastercard are “deader”.",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llmqbs3/",
+      "created": 1725545149,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "llodyyx",
+          "score": 2,
+          "body": "They were “deader” because they did not have the license to operate in China. Just recently visa and mc got granted permission and see how many banks are issuing them domestically.",
+          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llodyyx/",
+          "created": 1725564446,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "llpqbxp",
+              "score": 1,
+              "body": "Bulll.  Visa and mc were around in china for decades.  Far longer than wechat and alipay.   They’re just not relevant.\n\nPeople get credit cards mainly for travel overseas.  Local use is negligible.",
+              "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llpqbxp/",
+              "created": 1725580531,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "llpwrkx",
+                  "score": 1,
+                  "body": "My friend if you dont have enough information on a topic please stop making claims.\n\nhttps://www.mastercard.com/news/press/2024/may/mastercard-jv-switches-first-domestic-transaction-in-china/#:~:text=In%20November%202023%2C%20Mastercard%20NetsUnion,and%20convenient%20ways%20to%20pay.\n\nThey were only allowed to do foreign transactions. Not in China.",
+                  "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llpwrkx/",
+                  "created": 1725582885,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "llo8aou",
+      "score": 3,
+      "body": "It's a common standard moat -- by coalescing around a common standard, we reduce friction, which creates value, and thus the only way to disrupt these “common standard” moats (outside of legal decree) is by having an order of magnitude improvement over the incumbent product, such that the benefits of switching standards outweighs the costs (i.e., digital vs kodak film). This is hard to do so long as the current standard is “good enough”.\n\nOther examples are SPGI/MCO, FICO, MSCI, PDF file formats, imperial verses metric measuring systems, etc.",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llo8aou/",
+      "created": 1725562635,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lloehrp",
+          "score": 2,
+          "body": "[removed]",
+          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/lloehrp/",
+          "created": 1725564611,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "llohhjv",
+              "score": 2,
+              "body": "I don't know, the fact that Moody's and S&P credit ratings proved to be worse than useless during the GFC and yet both are still around and flourishing is pretty strong evidence that you're better off betting on the incumbents in these kind of situations.",
+              "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llohhjv/",
+              "created": 1725565552,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "llopad7",
+                  "score": 2,
+                  "body": "[removed]",
+                  "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llopad7/",
+                  "created": 1725567973,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "llorpek",
+                      "score": 1,
+                      "body": "Half of it is the common standard moat (reduces frictions for companies raising debt), half it is switching costs (built into workflows). Even if these products just light money on fire, institutional inertia says that so long as we are all lighting money on fire together, then no one gets fired. I'd rather own V/MCO than the companies trying to disrupt them.\n\nRegulation is the main bear case.",
+                      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llorpek/",
+                      "created": 1725568733,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "llmwwp1",
+      "score": 2,
+      "body": "ACH is garbage, flexa is the real deal.",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llmwwp1/",
+      "created": 1725547586,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lln0b1b",
+      "score": 2,
+      "body": "Companies like VISA and Mastercard aquire new companies to serve another segment of the market and upsell as VAS, value added services. They have both recently acquired Open Banking companies to serve that sector, for example.",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/lln0b1b/",
+      "created": 1725548691,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llnu0u7",
+      "score": 2,
+      "body": "Listen to the Acquired pod on Visa: https://www.acquired.fm/episodes/visa",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llnu0u7/",
+      "created": 1725558125,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llnwjnr",
+      "score": 2,
+      "body": "Same way AMD and Intel hasn't And Microsoft/Apple lol.",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llnwjnr/",
+      "created": 1725558908,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llougck",
+      "score": 2,
+      "body": "My gf is from Kazakhstan. They have Kaspi which has captured the market from visa and everyone is using it nowadays. They are more like Zelle or whatever USA has. I heard they are trying to expand to UK",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llougck/",
+      "created": 1725569571,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llpmzlr",
+      "score": 2,
+      "body": "And then somehow their share price was still kinda meh for like a long while a few years ago.",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llpmzlr/",
+      "created": 1725579321,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "llqae1t",
+          "score": 3,
+          "body": "Think it's cause they've grown so massive that anymore significant growth is no longer possible. Anytime visa tries to grow its business in any meaningful way they get the regulators up in arms",
+          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llqae1t/",
+          "created": 1725587753,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "llrxh44",
+      "score": 2,
+      "body": "Imagine if all merchants need to connect to every single card issuer (banks) gateways to have card / cashless payment in their stores. How many banks are there and if you want to have a global reach and also accept payments from overseas card/banks, you need to connect to those banks as a merchant or a store.\n\nIt’s easier to just connect via Visa, Mastercard, AMEX, JCB, and other few, than to connect to hundreds or thousand of banks.",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llrxh44/",
+      "created": 1725619987,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llsaft9",
+      "score": 2,
+      "body": "There is at least new competition brewing. Discover/Capital one merger is going to create a more viable 3rd option",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llsaft9/",
+      "created": 1725626082,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llsy5k2",
+      "score": 2,
+      "body": "They are on the verge of obsolescence with crypto rails about to make payments cost a fraction as much.",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llsy5k2/",
+      "created": 1725634567,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lltfygq",
+          "score": 2,
+          "body": "Some people commenting on this post don't wanna hear anything to do with blockchain. They're being ignorant and not facing the fact the technology directly impacts payment processors like visa, because it doesn't require payment processors like visa, it's more efficient and it's cheaper. So I don't believe it's a coincidence their stock hasn't been rising in line with the broader s&p 500",
+          "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/lltfygq/",
+          "created": 1725640217,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lme4irc",
+              "score": 1,
+              "body": "The problem with cryptocurrency is that it was created to stick it to the banks and wall street, the whole point was you want nothing to do with wall street. When people in the crypto space wanna do the opposite they have to entertain wall street's rules.",
+              "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/lme4irc/",
+              "created": 1725942618,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lmeejh1",
+                  "score": 1,
+                  "body": "Cryptocurrency may have been made to do that, but blockchain technology has uses that aren't exclusive to just crypto. It's all about the centralized ledger that removes the need for intermediaries, and with the addition of smart contracts it extents beyond just record keeping.",
+                  "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/lmeejh1/",
+                  "created": 1725948457,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lluqhlf",
+      "score": 2,
+      "body": "was thinking the same thing yesterday, they charge retailers 2 to 3% of every transaction for basically nothing.  How has this fee not been reduced to .2% or something?",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/lluqhlf/",
+      "created": 1725655171,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llwlr2g",
+      "score": 2,
+      "body": "I will remind people that Kroger did step up to call them on their crap back like 2019ish? Visa was trying to up the cost of using a Visa card in Kroger stores (basically, Visa charges a percentage on each transaction with their cards). Anyways, Kroger said no, we don't like that. Visa laughed it off and said, \"Too bad, just push it off on your customers like the rest of the corporations.\" Kroger said no. If you don't lower the percentage, then we'll stop allowing customers to use your cards in our stores. Visa tried to call them on what they thought was a bluff, but Kroger implemented it in their Smith's stores in Utah and Nevada. Visa took a huge hit and ended up reducing the percentage like Kroger wanted because the plan was to go across all of Krogers chain stores (Ralph's, Food4Less, Dillon, etc) they just started at Smith's. Visa couldn't tolerate such a loss due to the fact Kroger is one of the top 3 grocery chains in America; like all of the stores nor accepting Visa would result in a huge decline of Visa cards all together. \n\nAnyways it takes a huge corporation to fight a huge corporation, but it's funny when they do!",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llwlr2g/",
+      "created": 1725680416,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llyftz8",
+      "score": 2,
+      "body": "Because they operate like a mafia. PayPal got very lucky and treaded lightly",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llyftz8/",
+      "created": 1725717917,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llmon5a",
+      "score": 3,
+      "body": "Many countries try to create their own solutions. Some work some fail. Universal banking solutions are very complicated and take a lot to convince banks to use something new.",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llmon5a/",
+      "created": 1725544574,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llpwvkj",
+      "score": 2,
+      "body": "Nancy Pelosi got rich off Visa stock in the IPO",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llpwvkj/",
+      "created": 1725582924,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llnq7k7",
+      "score": 1,
+      "body": "Their infrastructure is rock solid, and they’ve partnered with pretty much every major bank, retailer, and fintech out there.",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llnq7k7/",
+      "created": 1725556924,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llnwnys",
+      "score": 1,
+      "body": "They provide fancy rewards to customers which makes them want to use them. They're used enough that big businesses realize that paying the 3% is better than alienating customers.\n\nSmall businesses, on the other hand, are surprisingly more likely to take action. I've seen quite a few local businesses offer a discount for paying cash.\n\nCongress did actually take action against debit card fees, which caused debit card rewards to disappear and thus their usage went down. There are proposals to do something similar for credit cards, but its controversial. The credit card companies can run PR campaigns convincing consumers that congress wants to take away their cashback rewards, and it's pretty successful.",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llnwnys/",
+      "created": 1725558945,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llog1kv",
+      "score": 1,
+      "body": "Network effect",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llog1kv/",
+      "created": 1725565100,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llpdx88",
+      "score": 1,
+      "body": "Too important. They're like the roads for finance. It would be like asking if Walmart and Target were to make and maintain the roads that lead to their stores. Along with every small business.\n\nVisa and Mastercard are basically the entire logistics side of the finance world. And their convenience is worth them having such a huge market share.",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llpdx88/",
+      "created": 1725576057,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llplbz7",
+      "score": 1,
+      "body": "Listen to the Acquired podcast on Visa. It's pretty good. I learned a lot",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llplbz7/",
+      "created": 1725578724,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llpz7wz",
+      "score": 1,
+      "body": "Acquired podcast has an episode that explains this quite well.",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llpz7wz/",
+      "created": 1725583752,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llq1hys",
+      "score": 1,
+      "body": "Which digital service is willing to write off fraudulent charges? No way these payment systems will get disrupted.",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llq1hys/",
+      "created": 1725584554,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llqca85",
+      "score": 1,
+      "body": "I could see Visa. MC or a bank buy out AFRM.\n\nAFRM results were better than good... and GAAP profitable soon?\n\nAnd with all those tailwinds?",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llqca85/",
+      "created": 1725588435,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llqcgs6",
+      "score": 1,
+      "body": "Illegal cartel",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llqcgs6/",
+      "created": 1725588505,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llqfs3o",
+      "score": 1,
+      "body": "Wanna see a good documentary, watch the one on Visa. Their base of operations is fucking insane. I can't even begin to explain it, you have to see it for yourself. You wouldn't believe me anyway.",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llqfs3o/",
+      "created": 1725589752,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llqw6f7",
+      "score": 1,
+      "body": "I'm currently a Product Manager at a payments company and even been a Payments Product Manager at a few Fortune 500 companies ... disruption takes time. There are things such as neobanks, Open Banking, Account to Account payments, etc. ... the entire world doesn't utilize credit card / debit card payments. Digital wallets even have a place in this disruption ... so do stablecoins (blockchain / crypto) .... Visa, MC and the other credit card heavy companies can adapt, but yea, there will be some competitors.",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llqw6f7/",
+      "created": 1725596617,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llr2jku",
+      "score": 1,
+      "body": "In India, they are being disrupted by UPI and more and more countries are now adopting UPI.",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llr2jku/",
+      "created": 1725599956,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llrb405",
+      "score": 1,
+      "body": "Entry level is too high. It would be unbelievable expensive and not yielding to setup a competition. Maybe JPMorgan could do it together with apple and a consortium, but that is probably still not worth the investment.",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llrb405/",
+      "created": 1725605120,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llrl561",
+      "score": 1,
+      "body": "Great episode from Acquired on the history of Visa",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llrl561/",
+      "created": 1725611969,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lltbt4p",
+      "score": 1,
+      "body": "The Fed has released their own instant payment framework that allows private/public companies and banks to instantly create their own service P2P, P2B, and B2B instant payment service. FedNow is its name, and will compete directly against the companies such as The Clearinghouse as well as many of the current instant payment services.",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/lltbt4p/",
+      "created": 1725638886,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lltgihh",
+      "score": 1,
+      "body": "visa is owned by the banks mostly.",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/lltgihh/",
+      "created": 1725640399,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llvibq3",
+      "score": 1,
+      "body": "If you buy the stock, buy in between earnings. Not sure how the retailers being able to charge convenience fees for usage will effect Visa/MC usage and their revenue/profits.",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llvibq3/",
+      "created": 1725664808,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llx9se7",
+      "score": 1,
+      "body": "\"monopolistic\" - google that",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llx9se7/",
+      "created": 1725694051,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llnmqdn",
+      "score": 1,
+      "body": "\nOther countries are doing direct bank transfers through QR codes and mobile apps.  \n\nThe end of the credit card is close, but not near.",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llnmqdn/",
+      "created": 1725555828,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lln998d",
+      "score": 1,
+      "body": "Really helps that a large portion of U.S. Congress likely held both V and MA shares in their portfolios.",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/lln998d/",
+      "created": 1725551567,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llu5wav",
+      "score": 1,
+      "body": "They don't get all that much imo.\n\nVisa processed 13T a year, got 30B in revenue. It's not easy to run a middle man business by taking 20 bps. In contrast, real estate agents take 250-300 bps.",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llu5wav/",
+      "created": 1725648529,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llo88q0",
+      "score": 0,
+      "body": "Their moat is regulation. The problem is that any solution breaks one law they either get fined or forced to sell their company. That keeps any processor from growing. Their only real competition is Crypto and that will take years for adoption if it even happens. That being said, if companies did transact in crypto the culture isn't money saving but they seem sketchy because these cars companies has some deep ties to PR firms that manipulate the public.",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llo88q0/",
+      "created": 1725562617,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llod9ce",
+      "score": 0,
+      "body": "UPI enters the chat.",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llod9ce/",
+      "created": 1725564220,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lloiucv",
+      "score": 0,
+      "body": "Within recent years we’ve seen Apple and android Pay, options like buy now pay later for online shopping, PayPal, Id verification via your debit card, crypto, P2P disruptors, and the rise of FinTech. All of this effectively takes away transactions from visa and Mastercard and they’re shaking in their boots about it…",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/lloiucv/",
+      "created": 1725565976,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llmoq24",
+      "score": -10,
+      "body": "It’s a big IPO purchase of the Pelosi’s and they both were part of the big banks before splitting off",
+      "permalink": "/r/stocks/comments/1f9mmqh/how_has_visa_and_mastercard_been_able_to_operate/llmoq24/",
+      "created": 1725544602,
+      "depth": 0,
+      "replies": []
+    }
+  ],
+  "stockTickers": {
+    "post_summary": "Visa and Mastercard have maintained dominance in financial transactions without significant disruption.",
+    "companies": [
+      "Visa",
+      "Mastercard"
+    ],
+    "tickers": [
+      "V",
+      "MA"
+    ],
+    "main_ticker": [
+      "V"
+    ]
+  },
+  "sentimentAnalysis": {
+    "post_summary": "The user questions how Visa and Mastercard have managed to operate without significant competition or disruption in the financial industry.",
+    "stock_recommendations": "The post does not contain any stock buying or selling recommendations.",
+    "is_recommending_stock_buying_or_selling": false,
+    "buy_or_sell": null,
+    "sentiment_summary": "The post does not convey a sentiment related to buying or selling stocks, and instead focuses on questioning the business model and resilience of Visa and Mastercard.",
+    "sentiment": "neutral"
+  }
+}

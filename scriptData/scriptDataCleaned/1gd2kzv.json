@@ -1,0 +1,417 @@
+{
+  "title": "Can anyone explain why there is such a high volume of put/call ratio on January 17 for NVDA? ",
+  "score": 56,
+  "selftext": "[deleted]",
+  "link_flair_text": "Discussion",
+  "id": "1gd2kzv",
+  "num_comments": 47,
+  "created_utc": 1730001489,
+  "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/",
+  "url_overridden_by_dest": "",
+  "comments": [
+    {
+      "id": "ltykk47",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 2 | **First Seen In WSB** | 4 months ago\n**Total Comments** | 69 | **Previous Best DD** | \n**Account Age** | 2 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/ltykk47/",
+      "created": 1730001498,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltyls7c",
+      "score": 151,
+      "body": "When will people learn what hedges are. No, the whales aren't betting on a crash lol.",
+      "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/ltyls7c/",
+      "created": 1730002098,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltymlrj",
+          "score": 56,
+          "body": "Hedging not gambling.  Blows the mind why anyone with a huge ass position with billions at stake would do dat \n\nIts not like that's why derivatives were created in the first place.  I thought this actually was Vegas.",
+          "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/ltymlrj/",
+          "created": 1730002510,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ltynujg",
+              "score": 43,
+              "body": "WSB users when options are used for their intended purposes:",
+              "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/ltynujg/",
+              "created": 1730003135,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ltynvce",
+          "score": 3,
+          "body": "I don’t have a good understanding of cash secured puts. I only really understand covered calls. I was just asking why there was so much open put interest at the beginning of next year.",
+          "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/ltynvce/",
+          "created": 1730003147,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ltyowxn",
+              "score": 14,
+              "body": "There's kinda 2 answers to your question. First, there's going to be lots of puts regardless of the put/call ratio just as a basic hedge for an ATH stock. \n\nAs for cash secured puts, its a way for put writers to be able to buy NVDA if it actually dips (they'll get assigned).",
+              "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/ltyowxn/",
+              "created": 1730003677,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ltyq1m5",
+                  "score": 1,
+                  "body": "Ah I see. I’m still learning about how institutions or hedge funds hedge their holdings. Hedging stock puts is just a little more confusing for me. I just noticed that there was a huge amount of open put interest in January compared to all of the other expiration dates.",
+                  "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/ltyq1m5/",
+                  "created": 1730004264,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ltyrzvy",
+                      "score": 5,
+                      "body": "Yeah hedging stock puts can be tricky if you can't grasp both ends of the trade. If it makes it easier for you:\n\nPeople who buy puts are usually buying puts as a hedge for their own shares. Think of insurance.\n\nPeople who sell cash-secured puts are hoping to collect premium; they want the stock price to either stay flat or go up. The worst-case scenario is that the stock dips and their option gets exercised- now they're forced to buy the shares at a cheaper price (which isn't all that bad, since the price went down instead of up).",
+                      "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/ltyrzvy/",
+                      "created": 1730005308,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lu07xwc",
+                      "score": 3,
+                      "body": "Cash secured puts also put money in your hand, for example let's say I place a cash secured put for $130 on nvidia, nvidia drops to that strike price, I exercise by buying the 100 shares for $130 each however my breakeven is $130 - the premium which is $8.30 rn! It's like getting Nvidia for $121.70. Also if Nvidia doesn't hit the strike price I get my $13,000 collateral back plus I keep the $830 bucks. \n\nPut buyers make money when it blows past that 130 say it drops to $100 well I still have to pay $130, still keep my premium though",
+                      "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/lu07xwc/",
+                      "created": 1730036019,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lu24jtw",
+                          "score": 1,
+                          "body": "not sure your terminology or understanding is correct :  if you're short a put, u dont exercise the option, its gets exercised against u and u are \"put\" the stock ( ie end up long stock)...only long option holders can chose to exercise their options , not those who are short.\n\nOnly thing you can do being short an option is to buy it back in the market or hold it till expiry - u cant exercise short options",
+                          "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/lu24jtw/",
+                          "created": 1730057778,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lu37ul5",
+                              "score": 2,
+                              "body": "We're talking about selling a Cash secured put. Nobody is shorting anything! You basically put up cash collateral as a promise to buy the stock at that strike price if it hits or goes lower. If it doesn't you get your collateral back (the cash) and keep the premium the price the buyer paid.\n\nOf course the buyer doesn't have to make you buy it but they do your collateral goes to buying the stock at the strike price. 3 of my Secured puts expired Friday I made a quick $30 bucks lol, they were only 1 week options",
+                              "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/lu37ul5/",
+                              "created": 1730070086,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lu5nx4c",
+                                  "score": 0,
+                                  "body": "selling a CSP or shorting a put doesnt matter - u dont exercise anything...it gets exercised against u, bcos you do not OWN the option...it really scares me when i see some peeps trading options without a clear understanding of the mechanics...\n\non a CSP - you are short the actual put..it just happens to be cash secured, but u are still short it...like on a covered call, your long stock and short the call against it",
+                                  "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/lu5nx4c/",
+                                  "created": 1730113490,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "lu5w2c7",
+                                      "score": 1,
+                                      "body": "You realize if you place a CSP you're actually bullish....unless you want to own the stock right? As for cash covered calls there literally is no risk to your original investment other than missed profits!\n\nI feel like I'm being trolled lol",
+                                      "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/lu5w2c7/",
+                                      "created": 1730117383,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "lu76t0o",
+                                          "score": 1,
+                                          "body": "not trolling you, just pointing out when you are short puts  - whether its CSP or naked - u dont exercise anything, it gets exercised against you.\n\nOn CCC  you mention , the risk is that the underlying falls in value...the premium from selling the CCC only cushions you by that amount, it doesnt eradicate your risk.\n\nim well aware what the directional bias is of those strats - ive traded options professionally for over 20 years & not looking to make $30 selling 3 lots..",
+                                          "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/lu76t0o/",
+                                          "created": 1730133169,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ltzlww6",
+              "score": 5,
+              "body": "CSP is basically getting paid to put in a limit order on a certain date",
+              "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/ltzlww6/",
+              "created": 1730024614,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ltylazc",
+      "score": 9,
+      "body": "Hegede for earnings",
+      "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/ltylazc/",
+      "created": 1730001861,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lu05yf0",
+      "score": 8,
+      "body": "Leaps bro",
+      "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/lu05yf0/",
+      "created": 1730035202,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lu040g2",
+      "score": 7,
+      "body": "Jan options are popular because its the first monthly that expires in the new year. Other popular dates would be the third friday of december, march, june and september, the quad witching days. Options originally expired only every quarter, so lots of liquidity on those days just purely because they're available long into the future.",
+      "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/lu040g2/",
+      "created": 1730034377,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lu3u7x8",
+          "score": 1,
+          "body": "And first expiration of new tax year",
+          "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/lu3u7x8/",
+          "created": 1730077861,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ltynheo",
+      "score": 3,
+      "body": "There is much selling typically in mid January (from my experience), going into Q1 that I witnessed over the years with few exceptions",
+      "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/ltynheo/",
+      "created": 1730002951,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltz4ulu",
+      "score": 3,
+      "body": "How does hedge work in this case",
+      "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/ltz4ulu/",
+      "created": 1730013298,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltylq51",
+      "score": 7,
+      "body": "Just hedging against end of government",
+      "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/ltylq51/",
+      "created": 1730002069,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltynlgb",
+      "score": 2,
+      "body": "What is this on and how can i find this?",
+      "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/ltynlgb/",
+      "created": 1730003007,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltyrf15",
+          "score": 3,
+          "body": "https://optioncharts.io/options/NVDA/open-interest",
+          "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/ltyrf15/",
+          "created": 1730004995,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lu3wr9n",
+              "score": 1,
+              "body": "Yooooooo\n\nThis site is amazing,  thanks for sharing!",
+              "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/lu3wr9n/",
+              "created": 1730078794,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lu056mf",
+      "score": 5,
+      "body": "[deleted]",
+      "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/lu056mf/",
+      "created": 1730034877,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lu1hf93",
+          "score": -3,
+          "body": "84 days till expiry are not considered LEAPS lmfao",
+          "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/lu1hf93/",
+          "created": 1730050973,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lu1lh6h",
+              "score": 5,
+              "body": "No but the 3rd week of january dates are always the dates furthest out so they used to be",
+              "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/lu1lh6h/",
+              "created": 1730052141,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lu1ltze",
+              "score": -1,
+              "body": "[deleted]",
+              "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/lu1ltze/",
+              "created": 1730052246,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lu1ryyr",
+                  "score": 1,
+                  "body": "The date of purchase wasn’t in the topic of discussion? By your metric Nov 15 2024 are also leaps.",
+                  "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/lu1ryyr/",
+                  "created": 1730054029,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ltymggp",
+      "score": 2,
+      "body": "That’s when Pooh bear attacks",
+      "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/ltymggp/",
+      "created": 1730002436,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltymz32",
+      "score": 1,
+      "body": "Remind me in January",
+      "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/ltymz32/",
+      "created": 1730002695,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lu09ha3",
+      "score": 1,
+      "body": "Leaps",
+      "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/lu09ha3/",
+      "created": 1730036638,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lu0gaa8",
+      "score": 1,
+      "body": "all stocks have have vol for jan",
+      "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/lu0gaa8/",
+      "created": 1730039205,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lu0m352",
+      "score": 1,
+      "body": "It's the last trading day before the new US president is inaugurated on January 20th.",
+      "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/lu0m352/",
+      "created": 1730041181,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lu11h49",
+      "score": 1,
+      "body": "Where are you able to see the put call ratio???",
+      "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/lu11h49/",
+      "created": 1730046141,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lu14rty",
+      "score": 1,
+      "body": "Literally every OPEX has the most volume of contracts. Obviously it will be higher than normal in the first month of the year. \n\nNot everyone is a 0dte regard",
+      "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/lu14rty/",
+      "created": 1730047172,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lu17gdt",
+      "score": 1,
+      "body": "Hedge and speculation",
+      "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/lu17gdt/",
+      "created": 1730047995,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lu2s4oi",
+      "score": 1,
+      "body": "This is like buying an insurance policy.",
+      "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/lu2s4oi/",
+      "created": 1730064924,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltyl3zb",
+      "score": 1,
+      "body": "4th Q earnings? ...................",
+      "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/ltyl3zb/",
+      "created": 1730001767,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltym2j8",
+          "score": 1,
+          "body": "They may be right but most likely are early be the same as. E",
+          "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/ltym2j8/",
+          "created": 1730002242,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lu11ixz",
+      "score": 1,
+      "body": "I've said it before and I could be totally wrong but I think we crash in January. Just look at last run in 2021, December 31st was the literal peak of the S&P. 2022 hit and it crashed. People were up a ton and waited til the next tax year to cash out.\n\nIf I'm wrong I'm wrong but I'm mostly cash now and don't see much upside in the market.",
+      "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/lu11ixz/",
+      "created": 1730046157,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltzss2g",
+      "score": -9,
+      "body": "# Summary:\n\nThe company, NVDA, has exhibited significant growth in financial metrics over the past four fiscal years, with substantial increases in total revenue, net income, and cash position. Key financial strengths include strong profitability, improved liquidity, and a healthy balance sheet. However, risks such as operational, regulatory, macroeconomic, competitive, technological, and ESG factors pose challenges. Recent news and industry outlook suggest positive growth prospects, yet economic conditions and valuation analysis indicate potential overvaluation.\n\n# Key Financial Insights:\n\n* Impressive revenue and profit growth over the past four years\n* Strong liquidity position and improved balance sheet\n* Positive industry recognition and growth outlook\n* Low historical volatility indicating stability\n* Valuation analysis pointing towards potential overvaluation\n\n# Risk Factors:\n\n* Operational risks related to supply chain disruptions and cybersecurity\n* Regulatory risks from changing government policies and trade regulations\n* Macroeconomic risks like global economic fluctuations and currency exchange rates\n* Competitive risks from market saturation and technological advancements\n* ESG risks impacting brand reputation and stakeholder trust\n\n# Conclusion:\n\nGiven the company's impressive financial performance and industry recognition, coupled with the risks identified, I recommend a 'hold' position on NVDA stock. Investors should monitor the evolving market conditions, industry dynamics, and company developments to make informed decisions. While NVDA shows growth potential, the potential overvaluation and diverse risk factors warrant caution in considering additional positions at this time.",
+      "permalink": "/r/wallstreetbets/comments/1gd2kzv/can_anyone_explain_why_there_is_such_a_high/ltzss2g/",
+      "created": 1730028878,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

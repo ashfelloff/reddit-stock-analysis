@@ -1,0 +1,685 @@
+{
+  "title": "China buys more chip tools than South Korea, Taiwan, U.S. combined (ASML, NVDA, TSMC)",
+  "score": 101,
+  "selftext": "",
+  "link_flair_text": "News",
+  "id": "1f90yxi",
+  "num_comments": 71,
+  "created_utc": 1725475057,
+  "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/",
+  "url_overridden_by_dest": "https://asia.nikkei.com/Business/Tech/Semiconductors/China-buys-more-chip-tools-than-South-Korea-Taiwan-U.S.-combined2",
+  "comments": [
+    {
+      "id": "lli9yq5",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 5 | **First Seen In WSB** | 4 years ago\n**Total Comments** | 67 | **Previous Best DD** | \n**Account Age** | 11 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/lli9yq5/",
+      "created": 1725475060,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llikwdq",
+      "score": 64,
+      "body": "ASML's EUV machines cannot be reverse engineered ,each machine has 100K parts  with 5k suppliers and tolerance for error is near-zero as it is most complicated device ever made by human",
+      "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/llikwdq/",
+      "created": 1725478659,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lliumug",
+          "score": 32,
+          "body": "Chances are also very low to even get your hands on a machine without ASML knowing. They probably know exactly where every machine they sold currently is located. At these prices you might even have a team 24/7 on site.",
+          "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/lliumug/",
+          "created": 1725481685,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lljroyq",
+              "score": 29,
+              "body": "I've worked in a large fab before. They absolutely have an onsite team",
+              "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/lljroyq/",
+              "created": 1725493556,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "llkh5ws",
+              "score": 7,
+              "body": "They do. Everytime a machine is sold they ship a team (mostly two to four) people with the machine to teach / install it.",
+              "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/llkh5ws/",
+              "created": 1725503237,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "llkh1bm",
+              "score": 2,
+              "body": "Can't they disable their machines remotely or something?",
+              "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/llkh1bm/",
+              "created": 1725503186,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "llj5v06",
+          "score": 16,
+          "body": "But that's just focusing on the latest and greatest tech. Don't forget companies like Canon and Nikon also produce lithography systems. Chip manufacturing isn't specific to just one specific equipment. ASML just happens to dominates the market for equipment manufacturing nodes under 45nm. \n\nIf you look deeper, Carl Zeiss is the only company that produces the quality of mirrors that passes QC for these systems. Applied Materials owns probably over 80% of the market for PVD (Physical Vapor Deposition).\n\nChip making tools aren't just specific to ASML, even though they dominate a very specific sector of chip making tools.",
+          "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/llj5v06/",
+          "created": 1725485674,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lljw32x",
+              "score": -3,
+              "body": "Ah yes, that pesky dominance of technology newer than 25 years old.",
+              "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/lljw32x/",
+              "created": 1725495191,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lljxnes",
+                  "score": 15,
+                  "body": "Ah yes, someone who don’t understand trying to sound like a smart ass.",
+                  "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/lljxnes/",
+                  "created": 1725495782,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "llljfh4",
+          "score": 3,
+          "body": "You are underestimating Chinese competence and their motivation. I am positive it can be reversed engineered.",
+          "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/llljfh4/",
+          "created": 1725523847,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "llmdzku",
+              "score": 3,
+              "body": "It's obvious it can be reversed engineered, and China will eventually do it.",
+              "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/llmdzku/",
+              "created": 1725540709,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "llp73sv",
+              "score": -3,
+              "body": "You overestimate their capabilities a lot. And with the current regime their innovation will go to zero even faster.",
+              "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/llp73sv/",
+              "created": 1725573666,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lljk54i",
+      "score": 23,
+      "body": "PLEASE BUY FROM INTEL THEY HAVE THAT BRAND NEW FOUNDRY AND IT IS GOING ON FIRE SALE. PLEASE CHINA BUY MY BAG. I'LL LET IT GO FOR $30 A SHARE, IF YOU THROW IN EXTRA SOCIAL CREDIT ILL LET GO FOR $29.5",
+      "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/lljk54i/",
+      "created": 1725490780,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "llkpn2j",
+          "score": 4,
+          "body": "China create ARM killer using Intel node ,,.,., brilliant",
+          "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/llkpn2j/",
+          "created": 1725506768,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lljnz83",
+      "score": 9,
+      "body": "China bout to start pumping out Harbor freight quality chips",
+      "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/lljnz83/",
+      "created": 1725492187,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llien9v",
+      "score": 19,
+      "body": "Hint: It’s because they can’t make their own.  ",
+      "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/llien9v/",
+      "created": 1725476698,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "llmbkd5",
+          "score": 2,
+          "body": "I mean they can, it's just a minority in Taiwan (and US outlets) who don't think Taiwan is China lol and the mainland is barely lagging TSMC\n\n\nhttps://asia.nikkei.com/Business/Tech/Semiconductors/China-s-chip-capabilities-just-3-years-behind-TSMC-teardown-shows",
+          "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/llmbkd5/",
+          "created": 1725539738,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lliodok",
+          "score": 7,
+          "body": "Yet.",
+          "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/lliodok/",
+          "created": 1725479748,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "llirpnz",
+              "score": 6,
+              "body": "The way the chip industry developed has made it so there are too many suppliers/vendors all best in class for one country to dominate all portions of it. \n\nChina will have develop some unknown method and leapfrog over everyone or they’ll always be behind.",
+              "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/llirpnz/",
+              "created": 1725480788,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lljrw2w",
+                  "score": 5,
+                  "body": "Or they can get the suppliers to sell it to them through indirect methods.",
+                  "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/lljrw2w/",
+                  "created": 1725493630,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lliqhj3",
+              "score": 0,
+              "body": "Oh they try! ",
+              "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/lliqhj3/",
+              "created": 1725480406,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "llj3bhd",
+                  "score": 10,
+                  "body": "I remember when they tried high speed rail",
+                  "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/llj3bhd/",
+                  "created": 1725484683,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lllzvws",
+                      "score": 4,
+                      "body": "And succeded.",
+                      "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/lllzvws/",
+                      "created": 1725534422,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "llkxitg",
+                  "score": 3,
+                  "body": "Not only they tried, they are on the path to become the world’s largest chip exporter. Yes, they don’t have EUV, but they can still make low and middle end chip in bulk. You don’t need EUV for making chips for your washing machine, your TV, or even low end cellphone or computer. Never underestimate the power of a country with world’s largest number of engineers.",
+                  "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/llkxitg/",
+                  "created": 1725510490,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lllwz3f",
+                      "score": -3,
+                      "body": "[deleted]",
+                      "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/lllwz3f/",
+                      "created": 1725532850,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "llnagm1",
+                          "score": 0,
+                          "body": "How is posting a bunch of buzzwords helps you to achieve your goal?",
+                          "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/llnagm1/",
+                          "created": 1725551947,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lliw3v6",
+              "score": -1,
+              "body": "They need to improve their sneak thief skills for that",
+              "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/lliw3v6/",
+              "created": 1725482144,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lliwyjw",
+                  "score": 7,
+                  "body": "They've made jets and 5nm chips now. I think it's just a matter of time, when not if, they crack this too.",
+                  "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/lliwyjw/",
+                  "created": 1725482409,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "llkwxg3",
+                      "score": 1,
+                      "body": "Yes, they made 5 nm, however they did it by multilayering using immersion lithography. What they did is optimize and completely stretch the capabilities of 25 year old technology. Doing 7 or even 5 nm on these old tech machines is extremely inefficient in cost and yield.\n\nJust because they optimized 25 year old tech does not mean they are close to copying the newest tech.",
+                      "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/llkwxg3/",
+                      "created": 1725510189,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "ls6d88p",
+                          "score": 1,
+                          "body": "方法不重要，重要的是结果。",
+                          "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/ls6d88p/",
+                          "created": 1729071786,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "llix9a1",
+                      "score": -1,
+                      "body": "People already explained it to you in the other comments. Not happening anytime soon",
+                      "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/llix9a1/",
+                      "created": 1725482500,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lliyhcc",
+                          "score": 2,
+                          "body": "Not disagreeing with you there. Might take years or even a decade. But it will most likely happen.",
+                          "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/lliyhcc/",
+                          "created": 1725482884,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "llp6t1w",
+                              "score": 0,
+                              "body": "It will take decades for current tech at least and by them ASML already will have even more advanced machines. China can copy more simple stuff, but it’s still crap at innovation.",
+                              "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/llp6t1w/",
+                              "created": 1725573564,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lliz2tw",
+                      "score": 1,
+                      "body": "> 5nm chips now\n\nit's more theoretical than anything, it's completely impractical to push duv that far, the yields are horrible.",
+                      "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/lliz2tw/",
+                      "created": 1725483074,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "llik8v2",
+      "score": 20,
+      "body": "I think people are underestimating China. They have identified a weak point and now pouring resources to tackle it. I wouldn't be surprised if China manages to get self sufficient in terms of semi conductors. \n\n\nAmerica realized the game too late",
+      "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/llik8v2/",
+      "created": 1725478453,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "llj458a",
+          "score": 19,
+          "body": "Supplanting the United States as the global superpower has been their long game from at least 50 years ago.  D.C. thought they were smarter than everyone else and supported industrializing China, by encouraging western manufacturers of doing business there, in hopes a taste of a Capitalistic economy would lead the Chinese to give up Communism.  Instead they said thanks for the gifts and kept their politics as is.  A catastrophic mistake.",
+          "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/llj458a/",
+          "created": 1725485034,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "llk0wn5",
+              "score": 4,
+              "body": ">  by encouraging western manufacturers of doing business there, in hopes a taste of a Capitalistic economy would lead the Chinese to give up Communism\n\nWhich is hilarious, considering we were only able to end communism in the USSR by taking the exact opposite approach",
+              "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/llk0wn5/",
+              "created": 1725497003,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "llkgqr9",
+                  "score": 7,
+                  "body": "Yep!  China is working to do to us what we did to the Soviets.  But in this case we have a helping hand with our demise.  \n\nAnd if they can't bankrupt us, they will cripple us internally through social and educational endeavors.  This softens any social criticisms over the CCP and their operations.  It's brilliant geopolitical work.  \n\nThey don't have to launch any nukes to ruin us.  We're too focused on entertaining ourselves, working to make up new genders, waste time on global warming, and supporting the criminal element to worry about China.\n\n Congratulations, we played ourselves.",
+                  "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/llkgqr9/",
+                  "created": 1725503070,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lllh9os",
+                      "score": 6,
+                      "body": "You were doing so well until \"waste time on global warming\". So mind-blowingly myopic, it's impossible to take anything else you said seriously.",
+                      "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/lllh9os/",
+                      "created": 1725522327,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lllr300",
+                          "score": -2,
+                          "body": "Think about it.  The West is told to squeeze itself over global warming concerns.   Yet China, the worlds largest emitter of greenhouse gasses, is continuing to build coal fired plants with [peak emitting pledged to occur by 2030](https://www.bbc.com/news/world-asia-57018837).    So why are we harming our economy and lifestyle while China is not?\n\nIt's a powerplay to advance China's interests at the sake of the West.  Are you really on board for this?  I'm not.\n\nFurther, if you look at [who is doing what](https://en.wikipedia.org/wiki/List_of_countries_by_greenhouse_gas_emissions#/media/File:Ghg-emissions-by-world-region.png), you'll see Asia (including China and India) produce over double that of Europe and all of North American *combined*.",
+                          "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/lllr300/",
+                          "created": 1725529223,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lllsubb",
+                              "score": 3,
+                              "body": "Dude, we are literally exporting our own emissions to China… of course they emit more than us… jfc…",
+                              "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/lllsubb/",
+                              "created": 1725530371,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "llltnon",
+                                  "score": 4,
+                                  "body": "Oh so Asia gets a pass but we don't?\n\nYes, I know what you're saying, but you're missing the point.  We sent our manufacturing offshore, to places largely unregulated, then continue to try to further reduce our own greenhouse emissions domestically.  Why?  That's madness.\n\nWould you rather trust unregulated China and India with greenhouse emissions or the West where we are far more stringent?  Judging from the charts, we would be better off moving manufacturing domestically.\n\nIt is a joke to claim the planet is going to be ruined from global warming when we're not actively regulating greenhouse emissions globally.  Then we see much of the 'clean' energy solutions trade air pollution for ground and water pollution.  The whole concept is steeped in politics and profit over reason.",
+                                  "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/llltnon/",
+                                  "created": 1725530883,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "llltxno",
+                                      "score": 2,
+                                      "body": "I don’t disagree with you, I’d much rather we reshored our manufacturing as well.\n\nBut that doesn’t change the fact that we need to tackle global warming and saying “we let China get away with it, might as well continue the way we have so far since otherwise our standards of living will suffer” (which is how your original point read) isn’t going to cut it.\n\nI totally agree emissions should be regulated globally.",
+                                      "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/llltxno/",
+                                      "created": 1725531053,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "lllxec7",
+                                          "score": 1,
+                                          "body": "Yet we aren't going the way we have; We've already squeezed our countries with respect to supposed global warming issues.\n\nYet we aren't doing the same thing to the countries actually producing massive amounts of greenhouse gasses.  If you look at the historical chart of greenhouse gas emissions, you'll see China is currently producing more than double the amount than the United States did at any point in modern, industrialized history.  Asia sans-China is doing the same. Massive numbers.\n\nYet we are told to continue tightening the belt domestically.  We can't squeeze ourselves more to outweigh what is occurring overseas.  It's pointless.",
+                                          "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/lllxec7/",
+                                          "created": 1725533089,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "ls6dr0h",
+                                      "score": 1,
+                                      "body": "温室气体排放只是资本家的谎言，真正的原因是中国和印度有更廉价的劳动力。如果在中国和印度有更高的利润，制造业就不会回流到美国。如果美国人民不高兴，就告诉他们，工厂不环保。",
+                                      "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/ls6dr0h/",
+                                      "created": 1729072133,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "ls73m69",
+                                          "score": 1,
+                                          "body": "You wrote:\n\n>Greenhouse gas emissions are just a lie of capitalists. The real reason is that China and India have cheaper labor. If there were higher profits in China and India, manufacturing would not return to the United States. If the American people are unhappy, tell them that the factories are not environmentally friendly.\n\n\n\nYou're a little late to the discussion, as that was held a month ago.   Yet we cannot say everything bad in China is a lie and everything bad in the West is true.  To do so would be another lie of the Communist Party of China to gain face.  In reality, the Communist Party is really a parasite on the planet.  It does no good for anyone but itself.  It doesn't value it's citizens, treats them like social cattle.  At least in the West there are some partnerships that are healthy.  But the Chinese only get lower GDP countries into lord/serf arrangements.  They have no value of the planet either, just growing industry to further the party's desires, which namely is global control under a totalitarian order.  They are not a friend of the planet.\n\nCoal fired planets increasing in China is not a lie, but can be factually monitored (one can see it from satellite):\n\nChina permitted more coal power plants last year than any time in the last seven years, according to a new report released this week. It's the equivalent of about two new coal power plants per week. The report by energy data organizations Global Energy Monitor and the Centre for Research on Energy and Clean Air finds the country quadrupled the amount of new coal power approvals in 2022 compared to 2021.\n\nThat's despite the fact that much of the world is getting off coal, says Flora Champenois, coal research analyst at Global Energy Monitor and one of the co-authors of the report.\n\n\"Everybody else is moving away from coal and China seems to be stepping on the gas,\" she says. \"We saw that China has six times as much plants starting construction as the rest of the world combined.\"",
+                                          "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/ls73m69/",
+                                          "created": 1729084862,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "llrjmom",
+                              "score": 1,
+                              "body": "[deleted]",
+                              "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/llrjmom/",
+                              "created": 1725610915,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "llrpn6a",
+                                  "score": 1,
+                                  "body": "First you're looking at just CO2 emissions, not all Greenhouse gasses.  Also, even within just CO2 emissions, \"The data only considers carbon dioxide emissions from the burning of fossil fuels and cement manufacture, but not emissions from land use, land-use change and forestry.\"  So your data point isn't complete.\n\nBut more importantly, Per capita is an inaccurate way to look at greenhouse emissions.\n\nIf we are considering net emissions on a global scale, by country, it doesn't matter net count of humans doing what within that country.   The measure is net emissions on a global scale, by country.\n\nWhat we can extrapolate from your chart is fewer people have more responsibility for the most carbon emissions in China.  Likely from greater inequalities of wealth and power.   Which is a different discussion.",
+                                  "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/llrpn6a/",
+                                  "created": 1725615106,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "llira13",
+          "score": 1,
+          "body": "people talk self sufficient on semi conductor have no idea what they are talking about, the amount of money, co ordination between country and supply chain intertwined between all step are too much for 1 country to handle. specially on the high end chip, there over 100000 parts in a ASML machine from over 250 tech company across the west. 1 part down = entire machine not running optimally. have fun trying to out spend a supply chain consist of over 15 different western nations all home to a special crafts.",
+          "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/llira13/",
+          "created": 1725480653,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "llim2cp",
+          "score": -1,
+          "body": "wihtout euv?  literally no chance.",
+          "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/llim2cp/",
+          "created": 1725479027,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "llji6g4",
+              "score": 2,
+              "body": "What about multi edging? Tsmc is doing it with older machines to reach low resolutions",
+              "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/llji6g4/",
+              "created": 1725490069,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lljqkn9",
+                  "score": 1,
+                  "body": "what about it?  duv can only go so far, it's why intel's in such a shitty position.",
+                  "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/lljqkn9/",
+                  "created": 1725493141,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lllrbk1",
+                      "score": 1,
+                      "body": "You can reach better precision with a non euv that multi edges than with an euv machine at the moment.",
+                      "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/lllrbk1/",
+                      "created": 1725529383,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "llmb1vk",
+                          "score": 1,
+                          "body": "what are yields, amirite?",
+                          "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/llmb1vk/",
+                          "created": 1725539526,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "llmbc1n",
+          "score": -1,
+          "body": "They didn't identify a weak point.  The US identified their weak point and poked them in it.  Now China is desperately trying to fill in the gap so they can stop the bleeding.  \n\nWhat are you talking about the US realizing the game too late, we wrote the damn rules lol.",
+          "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/llmbc1n/",
+          "created": 1725539643,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lliopco",
+      "score": 6,
+      "body": "Yes. They also have more semiconductor companies going out of business than any other country.",
+      "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/lliopco/",
+      "created": 1725479848,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llkfvr1",
+      "score": 4,
+      "body": "Quantity is its own quality.  \n(I think that was a communism reference.) \n\nBut seriously, if you take everything out with sensitivity to politics, religion, sex, history - all that’s left is materials science and engineering.   China is like that person that only does leg days.",
+      "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/llkfvr1/",
+      "created": 1725502728,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lljbik4",
+      "score": 2,
+      "body": "can it even run GTA san andreas?",
+      "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/lljbik4/",
+      "created": 1725487663,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llib2fb",
+      "score": 1,
+      "body": "He who buys the most, calls the shots.",
+      "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/llib2fb/",
+      "created": 1725475468,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "llilzey",
+          "score": 3,
+          "body": "lolz, no.",
+          "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/llilzey/",
+          "created": 1725479002,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "llidgbf",
+      "score": 0,
+      "body": "which won't mean shit, unless they manage to develop their own euv.",
+      "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/llidgbf/",
+      "created": 1725476308,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "llie57x",
+          "score": 3,
+          "body": "That is kinda a matter of time at this point no?  I hope it takes a long time don’t get me wrong",
+          "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/llie57x/",
+          "created": 1725476535,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lll5q2x",
+              "score": 1,
+              "body": "Actually the sooner the better, competition is good.",
+              "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/lll5q2x/",
+              "created": 1725514990,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lln5sog",
+                  "score": 1,
+                  "body": "Not when you’re on the brink of war with the competition lmao",
+                  "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/lln5sog/",
+                  "created": 1725550465,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lln5xpr",
+                      "score": 1,
+                      "body": "The US is always at war",
+                      "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/lln5xpr/",
+                      "created": 1725550510,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "llnaxdl",
+                          "score": 1,
+                          "body": "Do you know what near peers are?  Because no we haven’t",
+                          "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/llnaxdl/",
+                          "created": 1725552094,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "llieryd",
+              "score": 1,
+              "body": "lolz, if you say so.  i mean, sure.  maybe in a timeline that's essentially moot...",
+              "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/llieryd/",
+              "created": 1725476739,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lliksii",
+                  "score": 0,
+                  "body": "What makes a timeline moot and how long do you think they are away from the tech?",
+                  "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/lliksii/",
+                  "created": 1725478626,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lliltpp",
+                      "score": 3,
+                      "body": "long enough for it to still fail to achieve parity (or even close the gap tio any substantial degree) with leading edge / nowhere near it.",
+                      "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/lliltpp/",
+                      "created": 1725478951,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "llin0s9",
+                          "score": 1,
+                          "body": "Got ya, I don’t know much about that stuff tbh..  I think we are at a pretty weird time overall technologically, overall we are still very far from what’s actually achievable and I don’t think it’s out of question that we get leap frogged in the next 100 years by something unforeseen",
+                          "permalink": "/r/wallstreetbets/comments/1f90yxi/china_buys_more_chip_tools_than_south_korea/llin0s9/",
+                          "created": 1725479329,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

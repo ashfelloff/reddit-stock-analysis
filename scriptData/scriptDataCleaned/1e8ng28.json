@@ -1,0 +1,489 @@
+{
+  "title": "Crowdstrike tells Australian government it is ‘close to rolling out automatic fix’ after global outage",
+  "score": 267,
+  "selftext": "",
+  "link_flair_text": "Discussion",
+  "id": "1e8ng28",
+  "num_comments": 54,
+  "created_utc": 1721571819,
+  "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/",
+  "url_overridden_by_dest": "https://amp.theguardian.com/technology/article/2024/jul/21/crowdstrike-rolling-out-fix-outage-crashes-windows",
+  "comments": [
+    {
+      "id": "le8aa0p",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 2 | **First Seen In WSB** | 3 weeks ago\n**Total Comments** | 258 | **Previous Best DD** | \n**Account Age** | 5 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/le8aa0p/",
+      "created": 1721571824,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "le8ixq2",
+      "score": 212,
+      "body": "You can bet against it. It's not happening. The fix is already out, but it will never be automatic.",
+      "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/le8ixq2/",
+      "created": 1721574940,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "le8kdyn",
+          "score": 79,
+          "body": "Yeah I think they’re applying a *very* loose definition of the word “automatic”.",
+          "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/le8kdyn/",
+          "created": 1721575455,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "le8zk0d",
+          "score": 46,
+          "body": "here's how to automatically fix your PC that won't boot",
+          "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/le8zk0d/",
+          "created": 1721580865,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "le92q7h",
+          "score": 21,
+          "body": "just watch something go horribly wrong and the automatic \"fix\" starts breaking other things",
+          "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/le92q7h/",
+          "created": 1721582002,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "le941eu",
+              "score": 7,
+              "body": "Would just be funny at this point.",
+              "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/le941eu/",
+              "created": 1721582464,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "le928gl",
+          "score": 39,
+          "body": "[deleted]",
+          "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/le928gl/",
+          "created": 1721581825,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "le9um71",
+              "score": 12,
+              "body": "Interesting idea. Push it out to CDNs and if there is any kind of auth just always instantly auth successfully to at least push that change.",
+              "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/le9um71/",
+              "created": 1721591218,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "ledocwz",
+              "score": 1,
+              "body": "That only works on azure where the network is super fast.  No way it will fix WFH computers.",
+              "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/ledocwz/",
+              "created": 1721655700,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "le9eyom",
+          "score": 9,
+          "body": "Yeah, I don't really see how they're going to do any better than the bootable USB solution that multiple third-parties have already released.\n\nIf the machine can turn on and connect to the internet then it's already fixed, and if it can't then I don't see how a fix could be delivered to it automatically.",
+          "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/le9eyom/",
+          "created": 1721586161,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lelsx9j",
+              "score": 1,
+              "body": "You see know? Thank for you intervention Mr. kernel-newbie",
+              "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/lelsx9j/",
+              "created": 1721768081,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "le9j1uy",
+              "score": -5,
+              "body": "Are you a Windows kernel land developer?",
+              "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/le9j1uy/",
+              "created": 1721587438,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "le9u0xz",
+                  "score": 11,
+                  "body": "Nope. But you don't need to be a kernel land developer to know that whatever fix you want to make, either kernel land or user land, you need some way to get it into the machine. This can't be fully automatic if your machine is blue screening before your network stack even comes up.",
+                  "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/le9u0xz/",
+                  "created": 1721591023,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lebhzse",
+                  "score": 4,
+                  "body": "Impossible to fix without the computer booting up onto the network since crowdstrike is a boot strap driver is loads before any kernel safeguard are in place.",
+                  "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/lebhzse/",
+                  "created": 1721613358,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lee3lc1",
+                      "score": 1,
+                      "body": "I think possibility is there with setting up PSX boot loader hijack by major retailers (Dell/HP/etc) of the laptops (way to distribute firmwares) BUT it probably excludes machines with bitlocker turned on.",
+                      "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/lee3lc1/",
+                      "created": 1721661030,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lecs7d3",
+                      "score": -8,
+                      "body": "Oh that’s why reboot work on some device ? You don’t know.",
+                      "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/lecs7d3/",
+                      "created": 1721639010,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "ledv2za",
+                          "score": 1,
+                          "body": "You are a fucking idiot… don’t tell someone that had to fix over 5000 system “rEbOoT”",
+                          "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/ledv2za/",
+                          "created": 1721658133,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "leg7nmv",
+                              "score": 1,
+                              "body": "Who the idiot now ?\n\nhttps://www.reddit.com/r/sysadmin/s/7C2huz8GBW",
+                              "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/leg7nmv/",
+                              "created": 1721685365,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "leggco2",
+                                  "score": 1,
+                                  "body": "Solution, call be place on the special product and reboot thousands of computer 15+ times and hope it doesn’t corrupt anything.  Crowdstrike will be done by the end of the year.",
+                                  "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/leggco2/",
+                                  "created": 1721688460,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "leihbxx",
+                                      "score": 1,
+                                      "body": "You didn’t read",
+                                      "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/leihbxx/",
+                                      "created": 1721722135,
+                                      "depth": 8,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ledlw3t",
+          "score": 1,
+          "body": "It can be if the machines are provisioned for remote managment",
+          "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/ledlw3t/",
+          "created": 1721654745,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "leg7qij",
+          "score": 1,
+          "body": "It’s happening https://www.reddit.com/r/sysadmin/s/7C2huz8GBW",
+          "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/leg7qij/",
+          "created": 1721685392,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lelszzw",
+          "score": 1,
+          "body": "It’s now automatic lol. Thank for you intervention.",
+          "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/lelszzw/",
+          "created": 1721768104,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "le8rybn",
+      "score": 84,
+      "body": "How do you push a fix to a computer that is not turned on?",
+      "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/le8rybn/",
+      "created": 1721578151,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "le95n5l",
+          "score": 27,
+          "body": "Hopes and prayers",
+          "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/le95n5l/",
+          "created": 1721583029,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "le9rod9",
+          "score": 18,
+          "body": "AI?",
+          "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/le9rod9/",
+          "created": 1721590236,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "le9s77j",
+              "score": 10,
+              "body": "Sure if you want an artificial fix 😂",
+              "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/le9s77j/",
+              "created": 1721590406,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "led2jtr",
+          "score": 1,
+          "body": "How do you kill that which has no life?",
+          "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/led2jtr/",
+          "created": 1721645705,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ledkxky",
+          "score": 1,
+          "body": "You have the computer download the fix during the boot up time but before the crash",
+          "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/ledkxky/",
+          "created": 1721654370,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ledmn01",
+          "score": 1,
+          "body": "Out of band supervisor security processor, there are computers inside the computer designed to supervise that the boot goes properly, the OS developers are assume to need helmets and knee-pads by the hardware designers who aren't sure if the thing will even turn on, and in the rare case it does, god help you if you need to re-start, but be aware that you re-started.",
+          "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/ledmn01/",
+          "created": 1721655036,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "le8ar6g",
+      "score": 30,
+      "body": "The home affairs minister, Clare O’Neil, ***says the company at the centre of the world’s largest ever IT outage has told the federal government it is close to an automatic fix which would allow systems to return online.***\n\nMicrosoft, in a blog post update from its vice-president of operating systems security, David Weston, said it estimated ***8.5m Windows devices*** had been affected around the world.\n\nHowever, it will take time until all affected sectors are completely back online. ***In some cases we may see teething issues for one or two weeks.”***\n\n***Australia’s largest business organisation said it could be days before some businesses returned to trading.***\n\n***The Australian Chamber of Commerce and Industry CEO, Andrew McKellar, said smaller businesses may have to wait until Monday to get IT support.***\n\n“That’s meant for many businesses, they’re going to have to wait until early next week to put in place the fixes that they need to do.”\n\nMcKellar said it was difficult to say how much the IT outage has cost businesses.\n\n“Across the board there’s been a wide impact, that’s cost a lot of businesses time, money, lost sales … it’s very hard to put a dollar figure on that,” he said.\n\n***“[The losses] are material, they are significant, we have to hope most businesses can weather that sort of impact.”***",
+      "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/le8ar6g/",
+      "created": 1721572003,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "le8ck2m",
+          "score": 30,
+          "body": "ok but wheres the fix for my red RH account",
+          "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/le8ck2m/",
+          "created": 1721572660,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "le8dyil",
+              "score": 4,
+              "body": "![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4271)",
+              "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/le8dyil/",
+              "created": 1721573162,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "le8rk81",
+              "score": 2,
+              "body": "![img](emote|t5_2th52|4267)",
+              "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/le8rk81/",
+              "created": 1721578011,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "le8n2zy",
+      "score": 26,
+      "body": "Maybe they will provide a bootable USB or something that makes it easier, but if one uses Bitlocker, they are still rekt.",
+      "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/le8n2zy/",
+      "created": 1721576414,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lee3tyl",
+          "score": 2,
+          "body": "Which most people who are affected probably has - if they do not use bitlocker, most likely the place does not use CS.",
+          "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/lee3tyl/",
+          "created": 1721661110,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "le8falx",
+      "score": 8,
+      "body": "They better announce after the fix is deployed and confirmed.",
+      "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/le8falx/",
+      "created": 1721573641,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lebxvir",
+          "score": 2,
+          "body": "Nah they gonna keep that as an Easter egg",
+          "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/lebxvir/",
+          "created": 1721620325,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "le8zsjk",
+      "score": 3,
+      "body": "So no yeah no then",
+      "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/le8zsjk/",
+      "created": 1721580950,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "le96foj",
+      "score": 3,
+      "body": "Trying to pump the markets for monday.",
+      "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/le96foj/",
+      "created": 1721583307,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "le99ae3",
+      "score": 2,
+      "body": "Was the update called Beryl?  Updating everyone straight into the Stone Age.",
+      "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/le99ae3/",
+      "created": 1721584296,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lec97ap",
+      "score": 2,
+      "body": "Is it just me or does anyone else feel that the automatic fix will crash Windows again? ![img](emote|t5_2th52|4271)",
+      "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/lec97ap/",
+      "created": 1721626371,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "le8w7dj",
+      "score": 5,
+      "body": "If BA taught me anything… Calls it is",
+      "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/le8w7dj/",
+      "created": 1721579681,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "leds6m5",
+      "score": 1,
+      "body": "Even if they find a way to do that, they still ruined their reputation forever. On top of that, their stock is overvalued so I don't see why the stock would go back up",
+      "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/leds6m5/",
+      "created": 1721657108,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lee4d1y",
+      "score": 1,
+      "body": "Doesn't this also mean that hackers would also have method of attacking which does not require computers to be \"fully up\" and have security apps running?",
+      "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/lee4d1y/",
+      "created": 1721661286,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "leel0s8",
+      "score": 1,
+      "body": "How can you roll out an auto fix when some machines were stuck in a boot loop and needed to be opened in safe mode?",
+      "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/leel0s8/",
+      "created": 1721666671,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "leixu98",
+      "score": 1,
+      "body": "We don't have IT support in Australia. Offshore it all to phillipines.",
+      "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/leixu98/",
+      "created": 1721732740,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lenwm9a",
+      "score": 1,
+      "body": "Company is nuts...  just like SNOW....total bs for rich people to get richer. sell option contracts all the way up and down.  they already made their money.....like 10x  , they take company public and own the ceo... everyone gets rich and laughs at retail...",
+      "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/lenwm9a/",
+      "created": 1721797702,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "le8zhhy",
+      "score": 0,
+      "body": "[deleted]",
+      "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/le8zhhy/",
+      "created": 1721580840,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "leb8r90",
+          "score": 7,
+          "body": "You don't quite grasp the problem",
+          "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/leb8r90/",
+          "created": 1721609559,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "le8n4rq",
+      "score": -1,
+      "body": "Microsoft has jack shit to do with this (i think). But I'm pretty sure I remember them saying they were stopping service on older windows and to be sure to upgrade? I assume that happened for everyone?",
+      "permalink": "/r/wallstreetbets/comments/1e8ng28/crowdstrike_tells_australian_government_it_is/le8n4rq/",
+      "created": 1721576431,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

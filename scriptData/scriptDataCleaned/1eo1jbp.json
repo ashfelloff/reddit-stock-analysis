@@ -1,0 +1,75 @@
+{
+  "title": "Analyzing the Relationship Between Wikipedia Page Views and Stock Prices for TMO",
+  "score": 38,
+  "selftext": "**Title:** Analyzing Wikipedia Page Views and Stock Prices for Thermo Fisher Scientific (TMO) – Seeking Feedback\n\n---\n\n**Body:**\n\nI recently came across a discussion on Reddit about using trends in Wikipedia page views to predict stock earnings reports. Intrigued by the idea, I decided to test this hypothesis on a stock I'm interested in: Thermo Fisher Scientific (TMO). My initial thought was to plot Wikipedia page view data against stock prices, particularly around earnings reports, to see if there were any discernible trends or correlations.\n\nBelow is a summary of my findings, along with the analysis I conducted. I’d love to get some feedback from the community on whether I’m on the right track or if there are other angles I should explore.\n\n### Key Visualizations:\n\n- **[TMO Stock Price and Wikipedia Page Traffic](https://imgur.com/a/8svJ8ET)**\n  - This plot shows the relationship between TMO's stock price and Wikipedia page views over the last five years.\n  - The blue line represents TMO's adjusted stock price, while the green line represents Wikipedia page views.\n  - Earnings announcements are marked with red dots.\n\n### Key Points of the Analysis:\n\n**Data Collection:**\n- I pulled TMO stock price data from Yahoo Finance for the past five years.\n- I gathered Wikipedia page traffic data for the \"Thermo Fisher Scientific\" page using the `pageviews` package.\n- I also fetched earnings dates for TMO using the Alpha Vantage API.\n\n**Initial Observations:**\n- Surprisingly, my initial hypothesis didn’t hold. There seemed to be no clear relationship between spikes in Wikipedia page views and changes in TMO's stock price, even around earnings announcements.\n\n### Event Study:\n\n- **[Event Study: Impact of Earnings Announcements](https://imgur.com/a/myXJlF8)**\n  - I performed an event study to examine stock returns and Wikipedia page views around earnings dates. The analysis showed no strong patterns linking earnings announcements to significant changes in either stock prices or Wikipedia page views.\n\nI also analyzed the volatility of TMO stock around earnings dates. The results suggested that while Wikipedia page views fluctuated, they did not correlate with increased stock volatility.\n\n- **[Volatility Analysis](https://imgur.com/gallery/FQHzCOK)**",
+  "link_flair_text": "Company Analysis",
+  "id": "1eo1jbp",
+  "num_comments": 7,
+  "created_utc": 1723214701,
+  "permalink": "/r/stocks/comments/1eo1jbp/analyzing_the_relationship_between_wikipedia_page/",
+  "comments": [
+    {
+      "id": "lhbxml4",
+      "score": 5,
+      "body": "A normalized view would be helpful",
+      "permalink": "/r/stocks/comments/1eo1jbp/analyzing_the_relationship_between_wikipedia_page/lhbxml4/",
+      "created": 1723234337,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhcstu7",
+      "score": 2,
+      "body": "Thank you very much for your work. If you’re in  academia, you’ll know that while findings yielding a lack of correlation are important, they largely go ignored. Glad to see that holds true with reddit…but i want you to know there’s one person out there who appreciates your work",
+      "permalink": "/r/stocks/comments/1eo1jbp/analyzing_the_relationship_between_wikipedia_page/lhcstu7/",
+      "created": 1723245033,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhdui9p",
+      "score": 2,
+      "body": "Well it is the expected result, right? Anyways is another tool to check the interest in a given company (knowing that interest doesn't mean price movement), like google trends is (to check demand ie).\n\nInteresting for small caps that be getting attention ie.",
+      "permalink": "/r/stocks/comments/1eo1jbp/analyzing_the_relationship_between_wikipedia_page/lhdui9p/",
+      "created": 1723260166,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhj4kew",
+      "score": 1,
+      "body": "I was checking Wikipedia when the stock dipped over the last 52 weeks while I was accumulating and while the page itself wasn't that helpful, it pointed me to other sources that helped me decide to buy the stock. So far a happy buyer =)",
+      "permalink": "/r/stocks/comments/1eo1jbp/analyzing_the_relationship_between_wikipedia_page/lhj4kew/",
+      "created": 1723343027,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhkoyd4",
+      "score": 1,
+      "body": "Super nice! Plus one for a code share. I believe it's somewhat expected to see a low correlation when using raw Wikipedia page views. However, it would be interesting to see how this works over a 15-year time frame, with a 1.5-month time window for aggregating page views. For the time window, you could consider using the median or variance. To better assess if there's no link, you might apply a prediction configuration scheme for stock prices, using the page views as input. Additionally, you could use rank-based correlation metrics, like Kendall. Nevertheless, the idea is great; it's just about finding the right data to regress against.",
+      "permalink": "/r/stocks/comments/1eo1jbp/analyzing_the_relationship_between_wikipedia_page/lhkoyd4/",
+      "created": 1723375887,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhlx9ie",
+      "score": 1,
+      "body": "[deleted]",
+      "permalink": "/r/stocks/comments/1eo1jbp/analyzing_the_relationship_between_wikipedia_page/lhlx9ie/",
+      "created": 1723393528,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhbz5jm",
+      "score": 0,
+      "body": "Can you share the code you used?",
+      "permalink": "/r/stocks/comments/1eo1jbp/analyzing_the_relationship_between_wikipedia_page/lhbz5jm/",
+      "created": 1723234832,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

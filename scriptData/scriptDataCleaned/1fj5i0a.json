@@ -1,0 +1,192 @@
+{
+  "title": "What does \"bond market indicates that monetary policy is behind the curve\" really mean and how does it affects the stocks?",
+  "score": 40,
+  "selftext": "All,\n\nTrying to learn more about dependency of stocks in bond market. I read an article today that said the above.\nhttps://markets.businessinsider.com/news/stocks/best-case-scenario-stock-market-outlook-fed-rate-cut-ms-2024-9\n\nWhat exactly is the bond pricing indicating and how is it understood?\n\nAll I understand so far is that GDP growth isn't too bad and the 10Y-2Y yield curve uninverted recently indicating that recession probabilities are low.\n\nHow do I decipher additional insights based on bond prices?",
+  "link_flair_text": null,
+  "id": "1fj5i0a",
+  "num_comments": 17,
+  "created_utc": 1726594622,
+  "permalink": "/r/stocks/comments/1fj5i0a/what_does_bond_market_indicates_that_monetary/",
+  "comments": [
+    {
+      "id": "lnnynge",
+      "score": 19,
+      "body": "Don't look at bond prices. Look at the yields across the Treasury curve. All rates are trending downward, indicating that interest rate cuts by the Fed will be much more than this first cut that's about to happen. \n\nGDP is a known faulty indicator, especially in economic downturns. In 2008, GDP in the first two quarters was positive and, since then, has been revised down and is now shown as negative.\n\nThe two- and ten-year yield curve inversion doesn't indicate that the recession is less likely; the recession has just begun, and the Fed hasn't yet gotten the memo. It's also good to look at all yields across the curve. The two year have gone below the 10-year. But look at the one year, as it also attempts to trend down. It has uninverted vs. the 20-year and seems to be trying to go for the 30-year, too. \n\nThe bond market indicates that monetary policy is behind the curve, which relates to those who bet in the bond market, who tend to see bond yields as an early indicator of what the Fed will do. The implication of being behind the curve is rates are trending lower, signaling lower growth and inflation expectations. Everyone is saying that because the yield curve has been inverted for so long, it's wrong, but that isn't how this works. Bond yields signal lower growth and inflation expectations, which we have seen. The recession signal is the uninversion after yield curves have been inverted. As it moves along the front end of the curve close to T-Bills, where the Fed has much more sway in the interest rate, it confirms the same. The Bond market tends to think they have control of the monetary system, and most people in the stock market think the Fed controls the monetary system. However, if you look at the Fed funds rate and the 2-year yield, it does look like the bond market is ahead of the Fed. Right now, it's ahead of the Fed in terms of how much it expects to cut. \n\nLow interest rates are a bad signal, even though it makes money in the bond market. I should also mention the uninversion of the 2 and 10 year in history had occurred before the date of a recession was called; in 2007, it was over a year after the uninversion that in Dec 2008, the recession was called by the NBER. It was set to begin in December 2007, when the 2 and 10 years uninverted in May 2007. https://fred.stlouisfed.org/series/T10Y2Y/",
+      "permalink": "/r/stocks/comments/1fj5i0a/what_does_bond_market_indicates_that_monetary/lnnynge/",
+      "created": 1726621854,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnls925",
+      "score": 40,
+      "body": "Bonds have been behind the curve for 3 years. At no point in the past 3 years has the 2 year yield been higher than the Federal Fund Rate. \n\nWhich is pretty insane to consider. At least as an economist.\n\nBond investors keep expecting cuts. They keep expecting recession. And they keep losing money.",
+      "permalink": "/r/stocks/comments/1fj5i0a/what_does_bond_market_indicates_that_monetary/lnls925/",
+      "created": 1726595431,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnmcjyv",
+      "score": 11,
+      "body": ">the 10Y-2Y yield curve uninverted recently indicating that recession probabilities are low.\n\nWell thats not true. Go back and look at 2-10 inversions. The last one was 2020 when it TOUCHED 0 and the Dow dropped 40% to 18k. The recent inversion has been deeper and longer than EVER before.",
+      "permalink": "/r/stocks/comments/1fj5i0a/what_does_bond_market_indicates_that_monetary/lnmcjyv/",
+      "created": 1726601788,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lno6uuv",
+          "score": 4,
+          "body": "Almost like something happened in 2020",
+          "permalink": "/r/stocks/comments/1fj5i0a/what_does_bond_market_indicates_that_monetary/lno6uuv/",
+          "created": 1726625031,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lnp2usu",
+              "score": 6,
+              "body": "Something always happens. In retrospect it’s just a spark.",
+              "permalink": "/r/stocks/comments/1fj5i0a/what_does_bond_market_indicates_that_monetary/lnp2usu/",
+              "created": 1726640862,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lnmzepc",
+      "score": 4,
+      "body": "When long term rates fall it typically means inflation is expected to decline or growth is expected to decline. Or both like we are likely to see in the coming months.",
+      "permalink": "/r/stocks/comments/1fj5i0a/what_does_bond_market_indicates_that_monetary/lnmzepc/",
+      "created": 1726608956,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnnf8jb",
+      "score": 3,
+      "body": "https://www.chathamfinancial.com/technology/us-forward-curves\n\nThis shows the rate path the last fed dots and the market are pricing. \n\nBehind the curve means the market thinks the fed is not forecasting enough cuts to land softly. \n\nNote this does not mean the bond market is correct. It can over/undershoot just like the fed.",
+      "permalink": "/r/stocks/comments/1fj5i0a/what_does_bond_market_indicates_that_monetary/lnnf8jb/",
+      "created": 1726614604,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnltfp5",
+      "score": 4,
+      "body": "Frankly bonds have, for the most part, been wrong to the cool side since the hiking cycle began, and they're fairly clearly wrong here without the hard landing verifying.\n\n\nNo reason for the US10Y to not at least be at 4% here.",
+      "permalink": "/r/stocks/comments/1fj5i0a/what_does_bond_market_indicates_that_monetary/lnltfp5/",
+      "created": 1726595803,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lnlx9it",
+          "score": 3,
+          "body": "But isn't the reason that bonds aren't priced lower that the fed is still holding a shit ton of them?\n\nhttps://www.federalreserve.gov/monetarypolicy/bst_recenttrends.htm\n\nFed's balance sheet still has about 2.5 trillion more bonds than pre pandemic levels.",
+          "permalink": "/r/stocks/comments/1fj5i0a/what_does_bond_market_indicates_that_monetary/lnlx9it/",
+          "created": 1726597003,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lnlzxj1",
+              "score": 1,
+              "body": "Actually, it's been shown that it doesn't really matter that much for now.\n\n\nThe treasury refunding announcements this year haven't exactly been bullish bonds and it has been meaningless.\n\n\nI also don't think I'd be comparing and contrasting anyway with pre pandemic because based off reading the tea leaves, we won't be getting there.",
+              "permalink": "/r/stocks/comments/1fj5i0a/what_does_bond_market_indicates_that_monetary/lnlzxj1/",
+              "created": 1726597834,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lnlwvw1",
+          "score": 1,
+          "body": "[deleted]",
+          "permalink": "/r/stocks/comments/1fj5i0a/what_does_bond_market_indicates_that_monetary/lnlwvw1/",
+          "created": 1726596885,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lnlyuiv",
+              "score": 9,
+              "body": "Personally, I think the age of 0% policy rate is probably gone for the rest of eternity in the US unless you see something worse than the Great Recession.\n\n\nMight still see QE (something like the not QE QE that was seen off the repo accident in Sept 2019), but 0% policy rates are unlikely.",
+              "permalink": "/r/stocks/comments/1fj5i0a/what_does_bond_market_indicates_that_monetary/lnlyuiv/",
+              "created": 1726597495,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lnnog8g",
+                  "score": 5,
+                  "body": "[deleted]",
+                  "permalink": "/r/stocks/comments/1fj5i0a/what_does_bond_market_indicates_that_monetary/lnnog8g/",
+                  "created": 1726618007,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lnntcke",
+                      "score": 1,
+                      "body": "Those things sure did succeed at making the housing market unaffordable.",
+                      "permalink": "/r/stocks/comments/1fj5i0a/what_does_bond_market_indicates_that_monetary/lnntcke/",
+                      "created": 1726619844,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lnm8i07",
+              "score": 2,
+              "body": "You don’t buy a bond assuming that for a few months at some indeterminate time they’ll be 0%. If you did that, might as well buy 100 year bonds. Then surely at some point during recession those yields would fall, right??",
+              "permalink": "/r/stocks/comments/1fj5i0a/what_does_bond_market_indicates_that_monetary/lnm8i07/",
+              "created": 1726600514,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lnnounr",
+                  "score": 1,
+                  "body": "[deleted]",
+                  "permalink": "/r/stocks/comments/1fj5i0a/what_does_bond_market_indicates_that_monetary/lnnounr/",
+                  "created": 1726618159,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lnnpp97",
+                      "score": 1,
+                      "body": "This assumes that there’s no duration risk.",
+                      "permalink": "/r/stocks/comments/1fj5i0a/what_does_bond_market_indicates_that_monetary/lnnpp97/",
+                      "created": 1726618476,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lnnrljz",
+      "score": 1,
+      "body": "Recessions typically happen up to 12 months before or after an uninversion. Univerting doesn’t necessarily mean low chance of recession.",
+      "permalink": "/r/stocks/comments/1fj5i0a/what_does_bond_market_indicates_that_monetary/lnnrljz/",
+      "created": 1726619184,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnmalzo",
+      "score": -2,
+      "body": "It’s still a inverted curve - 2yr/10yr",
+      "permalink": "/r/stocks/comments/1fj5i0a/what_does_bond_market_indicates_that_monetary/lnmalzo/",
+      "created": 1726601175,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

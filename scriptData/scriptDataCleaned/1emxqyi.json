@@ -1,0 +1,219 @@
+{
+  "title": "CrowdStrike \"safe mode\" data breach.",
+  "score": 32,
+  "selftext": "[removed]",
+  "link_flair_text": "potentially misleading / unconfirmed",
+  "id": "1emxqyi",
+  "num_comments": 23,
+  "created_utc": 1723094257,
+  "permalink": "/r/stocks/comments/1emxqyi/crowdstrike_safe_mode_data_breach/",
+  "comments": [
+    {
+      "id": "lh3jp45",
+      "score": 1,
+      "body": "Off topic:  Not bringing up stocks or the stockmarket.\n\nAlmost any post related to stocks and investment is welcome on r/Stocks, including pre IPO news, futures & forex related to stocks, and geopolitical or corporate events indicating risks; outside this is offtopic and can be removed.\n\nPosts & comments that are purely political, religious (dealing with morality), or focusing on other types of investments not related to stocks such as real estate, crypto, designing websites, or even selling sneakers will be removed.  An example of what wouldn't get removed:  Discussing real estate when related to the ETF VNQ or real estate bubble affecting the stock market.\n\nA full explanation of all /r/stocks rules can be found here: https://www.reddit.com/r/stocks/wiki/rules",
+      "permalink": "/r/stocks/comments/1emxqyi/crowdstrike_safe_mode_data_breach/lh3jp45/",
+      "created": 1723120679,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lh2dur3",
+      "score": 60,
+      "body": "And does this company have policies in place that disable USB drives in normal mode through a Crowdstrike product?\n\n\nAlso, sharing internal emails to external unauthorized persons regarding a potential cybersec incident sounds like a cybersec incident in and of itself.",
+      "permalink": "/r/stocks/comments/1emxqyi/crowdstrike_safe_mode_data_breach/lh2dur3/",
+      "created": 1723096567,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lh2f2h7",
+      "score": 18,
+      "body": "Pics or it didn't happen ",
+      "permalink": "/r/stocks/comments/1emxqyi/crowdstrike_safe_mode_data_breach/lh2f2h7/",
+      "created": 1723097275,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lh2f2gf",
+      "score": 50,
+      "body": "If it worked then the person could’ve done it without crowd strike incident. You can boot into safe mode anytime. Also you need physical access to insert USB key and by that time you should assume your data is fucked",
+      "permalink": "/r/stocks/comments/1emxqyi/crowdstrike_safe_mode_data_breach/lh2f2gf/",
+      "created": 1723097275,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lh3kcuv",
+          "score": 1,
+          "body": "Enterprise servers usually have an OOB management interface that allows you to remotely boot and interact at boot time. \n\nBack in the day we used to put those management interfaces on a multiplexer or with a dial-up modem in front of it.  (they were RS 232 serial interfaces back then.)\n\nNowadays, the management interface has its own dedicated ethernet port.",
+          "permalink": "/r/stocks/comments/1emxqyi/crowdstrike_safe_mode_data_breach/lh3kcuv/",
+          "created": 1723120944,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lh2w5y5",
+      "score": 14,
+      "body": "Yeah, I wish remotely putting USB flash drive into a laptop was a thing",
+      "permalink": "/r/stocks/comments/1emxqyi/crowdstrike_safe_mode_data_breach/lh2w5y5/",
+      "created": 1723108260,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lh3ktxu",
+          "score": 2,
+          "body": "Well, you actually can do that, though with an out of band administrative interface. You can mount a USB drive or a file on a remote machine that’s talking to the management interface and the BIOS sees it essentially as if local.",
+          "permalink": "/r/stocks/comments/1emxqyi/crowdstrike_safe_mode_data_breach/lh3ktxu/",
+          "created": 1723121132,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lh3e0pq",
+      "score": 4,
+      "body": "Source: trust me bro",
+      "permalink": "/r/stocks/comments/1emxqyi/crowdstrike_safe_mode_data_breach/lh3e0pq/",
+      "created": 1723118248,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lh36xmd",
+      "score": 3,
+      "body": "I've seen someone save user passwords in plaintext AD attributes for hundreds of thousands of users",
+      "permalink": "/r/stocks/comments/1emxqyi/crowdstrike_safe_mode_data_breach/lh36xmd/",
+      "created": 1723114833,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lh3eyt2",
+      "score": 1,
+      "body": "our security is done for!  we needs cyber security if it doesn't work!  raw dog the internet",
+      "permalink": "/r/stocks/comments/1emxqyi/crowdstrike_safe_mode_data_breach/lh3eyt2/",
+      "created": 1723118670,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lh3i3zr",
+      "score": 1,
+      "body": "Physical access means game over. That’s just how it is. Evil maid attacks and so on.",
+      "permalink": "/r/stocks/comments/1emxqyi/crowdstrike_safe_mode_data_breach/lh3i3zr/",
+      "created": 1723120021,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lh2qpi0",
+      "score": 1,
+      "body": "😂",
+      "permalink": "/r/stocks/comments/1emxqyi/crowdstrike_safe_mode_data_breach/lh2qpi0/",
+      "created": 1723104664,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lh2dgjh",
+      "score": -2,
+      "body": "Is this good or bad",
+      "permalink": "/r/stocks/comments/1emxqyi/crowdstrike_safe_mode_data_breach/lh2dgjh/",
+      "created": 1723096340,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lh2ky1a",
+          "score": 5,
+          "body": "Yes",
+          "permalink": "/r/stocks/comments/1emxqyi/crowdstrike_safe_mode_data_breach/lh2ky1a/",
+          "created": 1723100908,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lh2oy9n",
+      "score": -3,
+      "body": "I logged on around 2am pacific time (remote worker) to check my outlook calendar to see if ai could sleep in and ran into the blue screen of death. I thought I was the only one affected and was worried I would get in trouble (have to go physically into an office to fix) so I started figuring out how to fix it. I ended up being able to start the comp in safe mode and delete the crowdstrike file. However, i realized I was able to bypass my companies security bitlock or whatever and could have edited my personal computers settings if I wanted… might turn of tracking",
+      "permalink": "/r/stocks/comments/1emxqyi/crowdstrike_safe_mode_data_breach/lh2oy9n/",
+      "created": 1723103511,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lh2v2gb",
+          "score": 12,
+          "body": "So your company doesn’t have any controls over you booting into safe mode? Sounds like your company isn’t taking cybersecurity very seriously.",
+          "permalink": "/r/stocks/comments/1emxqyi/crowdstrike_safe_mode_data_breach/lh2v2gb/",
+          "created": 1723107532,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lh2wf7g",
+              "score": 1,
+              "body": "No clue, but they’re a pretty large multinational firm lol",
+              "permalink": "/r/stocks/comments/1emxqyi/crowdstrike_safe_mode_data_breach/lh2wf7g/",
+              "created": 1723108432,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lh3i3p6",
+                  "score": 1,
+                  "body": "foolish poor snatch fuel lavish wide kiss towering chop vase\n\n *This post was mass deleted and anonymized with [Redact](https://redact.dev)*",
+                  "permalink": "/r/stocks/comments/1emxqyi/crowdstrike_safe_mode_data_breach/lh3i3p6/",
+                  "created": 1723120017,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lh4kkjm",
+                      "score": 1,
+                      "body": "Ah true",
+                      "permalink": "/r/stocks/comments/1emxqyi/crowdstrike_safe_mode_data_breach/lh4kkjm/",
+                      "created": 1723133012,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lh2kmse",
+      "score": -4,
+      "body": "so is it a BUY? or NO?",
+      "permalink": "/r/stocks/comments/1emxqyi/crowdstrike_safe_mode_data_breach/lh2kmse/",
+      "created": 1723100708,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lh3i63m",
+          "score": 0,
+          "body": "If you can’t understand this post you should not invest in individual stocks. Buy an ETF",
+          "permalink": "/r/stocks/comments/1emxqyi/crowdstrike_safe_mode_data_breach/lh3i63m/",
+          "created": 1723120046,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lh3q6jn",
+              "score": 0,
+              "body": "bro took my comment seriously. LMAO",
+              "permalink": "/r/stocks/comments/1emxqyi/crowdstrike_safe_mode_data_breach/lh3q6jn/",
+              "created": 1723123172,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1768 @@
+{
+  "title": "New York Stock Exchange to extend trading hours to 22 hours a day. ",
+  "score": 4975,
+  "selftext": "What do we think?",
+  "link_flair_text": "News",
+  "id": "1gcajq4",
+  "num_comments": 476,
+  "created_utc": 1729907743,
+  "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/",
+  "url_overridden_by_dest": "https://i.redd.it/fk0gh5kvb0xd1.jpeg",
+  "comments": [
+    {
+      "id": "lts92vw",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 3 | **First Seen In WSB** | 3 months ago\n**Total Comments** | 313 | **Previous Best DD** | \n**Account Age** | 1 year | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/lts92vw/",
+      "created": 1729907749,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsbjlt",
+      "score": 1972,
+      "body": "I’m just wondering how that will affect options.",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsbjlt/",
+      "created": 1729908708,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltse10u",
+          "score": 805,
+          "body": "Right. I don’t think it will be good. Assuming they only keep options trading during current market hours.\n\nAnd what about earnings?",
+          "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltse10u/",
+          "created": 1729909659,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ltsoq27",
+              "score": 576,
+              "body": "The company I work for is public. We only release earnings or make other major announcement pre or post market. So yay, midnight filings here we come!",
+              "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsoq27/",
+              "created": 1729913896,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ltsxkj1",
+                  "score": 449,
+                  "body": "There is a lot of bad info here, they aren't extending the normal trading day, they are extending the extended trading day. This won't impact earnings announcements.",
+                  "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsxkj1/",
+                  "created": 1729917778,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ltszhtf",
+                      "score": 134,
+                      "body": "Yeah honestly it won't do too much for most. My broker (ibkr) has overnight trading available for most stocks already so it's already close to 24 hours a day for the weekdays. Beware of the low volume though and larger spreads outside of normal trading hours.",
+                      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltszhtf/",
+                      "created": 1729918718,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lttbbjk",
+                          "score": 12,
+                          "body": "Im new to IBKR and ever wondered if there was any downside to adding overnight trading to every stop loss and or limit buy? 🤔",
+                          "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/lttbbjk/",
+                          "created": 1729925280,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lttm1a2",
+                              "score": 29,
+                              "body": "My broker in the U.K. (not ibkr) uses such unbelievably wide spreads in after hours and pre market that I basically can’t use stop losses bc they get triggered by the stupid spreads and get closed out at awful prices. Eg for GS the bid ask will literally flip from a few cents in normal market to $460-540 in after hours. So definitely something to check and be very wary of",
+                              "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/lttm1a2/",
+                              "created": 1729932044,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lttowx1",
+                                  "score": 9,
+                                  "body": "The thing that frustrates me on IBKR is not being able to use stop losses at all in out of hours trading.. unless I’ve miss understood something on the interface (plausible). For things like NVDA the volume is just fine..",
+                                  "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/lttowx1/",
+                                  "created": 1729933915,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "lu0zehe",
+                                      "score": 3,
+                                      "body": "Stop loss on IBKR is a market order, and market orders are disabled outside RTH. You can use the stop limit order type though, just be sure to leave enough room in the offset between stop price and limit price so you don't get screwed by the spread skipping your limit price.",
+                                      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/lu0zehe/",
+                                      "created": 1730045482,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "lu11lfd",
+                                          "score": 2,
+                                          "body": "I did not know this... many thanks for the tip.",
+                                          "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/lu11lfd/",
+                                          "created": 1730046178,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "lttouem",
+                              "score": 6,
+                              "body": "I remember reading that outside of regular trading hours, you have to put in market orders only and can't put in limit orders. Not sure if this is applies to all brokers or just mine.",
+                              "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/lttouem/",
+                              "created": 1729933869,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "ltu34ed",
+                                  "score": 11,
+                                  "body": "Idk your situation but I suspect you've got it backwards.  At Fidelity, at least, it's exactly the opposite: in extended hours you can't put in market orders, only limit",
+                                  "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltu34ed/",
+                                  "created": 1729942461,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "ltvz98d",
+                                      "score": 3,
+                                      "body": "Correct only limit orders are allowed in extended hours…that said some platforms like Webull have programmable buttons that place limit orders at the ask + or minus and at the bid so if the spread is large you need to be careful and watch the level 2",
+                                      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltvz98d/",
+                                      "created": 1729967198,
+                                      "depth": 8,
+                                      "replies": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "ltwn71q",
+                                  "score": 2,
+                                  "body": "I would switch brokers as soon as possible. Thats extremely sketchy and they are more or less encouraging you to lose money at best. Maybe I'm wrong but IMHO you should never be using market orders, even if the spread is a couple cents. I sometimes trade penny stocks @ $0.030 and still only use limit orders",
+                                  "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltwn71q/",
+                                  "created": 1729975044,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "ltwlshv",
+                              "score": 3,
+                              "body": "If you have a limit order where the price you buy the stock is at is capped there's no downside. If you do a market order, you may get filled at a more random price because as stated the spreads and fills are weird for overnight because volume is so thin. Just make sure you have a limit order and it's all Gucci. I live in Australia and I trade ASX, NYSE , Nasdaq and OTC so it's very useful for me.",
+                              "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltwlshv/",
+                              "created": 1729974577,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "ltxvpx6",
+                  "score": 2,
+                  "body": "What company and can I get some insider information so I can make all my money back?",
+                  "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltxvpx6/",
+                  "created": 1729991248,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "ltsnlxt",
+              "score": 62,
+              "body": "Will be good for big fish with algo trading.",
+              "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsnlxt/",
+              "created": 1729913451,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "ltsyudw",
+              "score": 6,
+              "body": "Options are a different exchange nothing will change",
+              "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsyudw/",
+              "created": 1729918398,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ltsenri",
+          "score": 113,
+          "body": "NYSE doesn’t have anything to do with options.",
+          "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsenri/",
+          "created": 1729909894,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ltsfbk7",
+              "score": 127,
+              "body": "Correct options are traded through Chicago I believe",
+              "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsfbk7/",
+              "created": 1729910142,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ltsn4lx",
+                  "score": 105,
+                  "body": "Incorrect, the CBOE is just 1 of many options exchanges in the US, where all trades must respect the “national best bid and offer” (NBBO) across all exchanges: Cboe (Chicago Board Options Exchange), NYSE American, Nasdaq Options Market (NOM), NYSE Arca, MIAX Options Exchange, BOX Options Exchange, Bats Options, ISE (International Securities Exchange), etc",
+                  "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsn4lx/",
+                  "created": 1729913248,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ltsrj3s",
+                      "score": 23,
+                      "body": "Damn I didn’t realize there were that many!",
+                      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsrj3s/",
+                      "created": 1729915024,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lttzsi3",
+                          "score": 5,
+                          "body": "Those are only the ones in the US. Now try buying stocks from/in Europe 💀",
+                          "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/lttzsi3/",
+                          "created": 1729940653,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "ltuoabb",
+                              "score": 3,
+                              "body": "if you think Europe is hard try North Korea",
+                              "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltuoabb/",
+                              "created": 1729951444,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "ltshf0p",
+                  "score": 42,
+                  "body": "TIL",
+                  "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltshf0p/",
+                  "created": 1729910944,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "ltsjyz6",
+                  "score": 11,
+                  "body": "CBOE if I’m not mistaken.",
+                  "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsjyz6/",
+                  "created": 1729911953,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "ltsg8ee",
+              "score": 64,
+              "body": "Thank you for saying that. Incredible that people trading options have no idea that they are sold completely separately from ordinary stock",
+              "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsg8ee/",
+              "created": 1729910490,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ltsgds9",
+                  "score": 39,
+                  "body": "wait… what?!???!?!?",
+                  "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsgds9/",
+                  "created": 1729910549,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ltshp1u",
+                      "score": 32,
+                      "body": "It's a secondary market with its own rules buying and selling shares from another market.",
+                      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltshp1u/",
+                      "created": 1729911052,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "ltshor2",
+                      "score": 13,
+                      "body": "Flair checks out![img](emote|t5_2th52|27189)",
+                      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltshor2/",
+                      "created": 1729911049,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "ltsieql",
+                          "score": 8,
+                          "body": "😏",
+                          "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsieql/",
+                          "created": 1729911339,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "ltsn8is",
+                  "score": 32,
+                  "body": "They should post that information at Wendy’s.",
+                  "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsn8is/",
+                  "created": 1729913294,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "ltskkdt",
+                  "score": 11,
+                  "body": "Yes they are but to say the nyse and the cboe don't have anything to do with each other is also insane",
+                  "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltskkdt/",
+                  "created": 1729912196,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "ltsmnm0",
+              "score": 11,
+              "body": "NYSE Arca, previously known as ArcaEx, an abbreviation of Archipelago Exchange, is an exchange on which both stocks and options are traded.\n\nNYSE American Options is part of a dual market structure that combines access to American and Arca options through a single integrated technology platform.",
+              "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsmnm0/",
+              "created": 1729913054,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "ltsk1k9",
+              "score": 10,
+              "body": "That is completely false. They are very much linked. When it comes to, if this will have an impact on the cboe, I don't know. But to say that they don't have anything to do with each other is wildly inaccurate. Finance degree. Wealth consultant",
+              "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsk1k9/",
+              "created": 1729911980,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ltsi91d",
+          "score": 8,
+          "body": "If cboe can make more money .. trust them to find the way. \n\n0dte is entirely because they make a shit ton from it.",
+          "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsi91d/",
+          "created": 1729911274,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ltsatig",
+      "score": 1506,
+      "body": "They are getting mad that the real addicts are switching to crypto since it's a casino that never closes.",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsatig/",
+      "created": 1729908427,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltsfhpq",
+          "score": 199,
+          "body": "LOL I resemble words here.",
+          "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsfhpq/",
+          "created": 1729910207,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ltti3ht",
+              "score": 23,
+              "body": "My Dad used to say “I resemble that remark!”",
+              "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltti3ht/",
+              "created": 1729929521,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ltujvf3",
+                  "score": 2,
+                  "body": "Mine too!",
+                  "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltujvf3/",
+                  "created": 1729949744,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "ltv1d35",
+                  "score": 2,
+                  "body": "It’s from the three stooges.",
+                  "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltv1d35/",
+                  "created": 1729956056,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ltsjd8f",
+          "score": 34,
+          "body": "Yeah but is there a 24hr btc options market",
+          "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsjd8f/",
+          "created": 1729911713,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ltskea7",
+              "score": 55,
+              "body": "Yes",
+              "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltskea7/",
+              "created": 1729912125,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ltt1ode",
+                  "score": 85,
+                  "body": "you should not have told him that",
+                  "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltt1ode/",
+                  "created": 1729919833,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ltw70ji",
+                      "score": 4,
+                      "body": "Homeboy is never gonna sleep again",
+                      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltw70ji/",
+                      "created": 1729969754,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ltsklw3",
+          "score": 63,
+          "body": "It will ruin you. Trust me, former crypto trader speaking.",
+          "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsklw3/",
+          "created": 1729912213,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ltsom5i",
+              "score": 89,
+              "body": "Skill issue.",
+              "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsom5i/",
+              "created": 1729913851,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ltsuzf6",
+                  "score": 26,
+                  "body": "Please!! The most skilled person in the world will become exhausted eventually. Discipline is the key, times on and times off. Which was my problem. Forget that and you crash. Skills!! you know nothing.",
+                  "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsuzf6/",
+                  "created": 1729916569,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "ltsovhu",
+              "score": 8,
+              "body": "Truth. I still have open orders on Coinbase but back when I concentrated on crypto, the fact that it's literally 24/7 ruined me. ![gif](emote|free_emotes_pack|sob) way too stressful",
+              "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsovhu/",
+              "created": 1729913953,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "ltvh4vm",
+              "score": 3,
+              "body": "Because yall try to do too much for no reason. I have friends that actively trade crypto like 11 hours a day and I’ve beaten their gains by slowly putting money into BTC and forgetting about it",
+              "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltvh4vm/",
+              "created": 1729961260,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ltspvn1",
+          "score": 2,
+          "body": "They can just ask the mouse (from ftx)...a solid dose of Adderall and a fidelity-esque UI can keep stim imbibers locked in for days (source: Bittrex alumni)",
+          "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltspvn1/",
+          "created": 1729914335,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ltsa8br",
+      "score": 2024,
+      "body": "Oh cool, now I can stare at my phone while I work the ENTIRE shift...sigh",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsa8br/",
+      "created": 1729908197,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltsdtmd",
+          "score": 368,
+          "body": "Pour one out for those late night drunken 0DTE trades.",
+          "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsdtmd/",
+          "created": 1729909580,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ltsotbk",
+              "score": 64,
+              "body": "Waking up and wondering where all your money went, now even the wealthiest can experience it.",
+              "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsotbk/",
+              "created": 1729913931,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ltt5pye",
+                  "score": 2,
+                  "body": "Don’t be too concerned yet. This has not been confirmed by respectable sources. I am not convinced that floor traders heads become moons when they trade late at night. It seems sus to me, but I’m not an expert. Please wait for James Cramer to confirm (and no, just because his head is shiny does not confirm he’s a verified moon-head man this is a serious allegation be serious). Thank tou",
+                  "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltt5pye/",
+                  "created": 1729922011,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "ltt0rs0",
+              "score": 36,
+              "body": "Calls on HOOD. Every degenerate with a couple hundred dollars can go out to a bar, party with friends until 1am, be obnoxious and stay until 2am, finally connect with your dealer at 4am, hit the liquor store, and home by 4:16am. \n\nAnd then they rizz up a yolo 0dte and are making scrilla at 9:27am, on paper. They didn’t sell, and now it’s 9:34am and you realize you forgot to set stops. 9:45am hits and you finally fully exit the position for a r/wsb worthy failure lossporn.\n\nNow comes 1:45pm. Traders are all back from lunch and have colluded to sigma-fuck retail. Ohio toilet. You have perfectly timed the bottom and liquidated. Legendary meme material. It’s 2:45pm and the price of your dumbass dumbness shit fuck position it up 36% in last 4 hours. \n\nSo you go get the gun and throw on some Korn. Shit slaps. \n\nFOMO has long since set in. They simply cannot stop thinking about her. It’s 3:04pm and you line up a 0dte that expires in like 30 mins, you send it. \n\nNaturally the option appreciated in value, as if to say “This is a test. First one is free. Everybody gets one. Don’t be a lazy greedy douche and we good.” reaching 19% gains. But this stubborn motherfucker wanted 20% because his brain said “I much prefer round numbers.” \n\nPoor sod never hit 20% stop. 3:55pm…. aaaand it’s gone. \n\nIt’s 7:55pm and the degenerate “options trader” freakshow starts scanning the markets for his next target 🎯 \n\n7:58pm is when he became acutely aware that he was gonna be at least a half hour late for his shift at Wendy. He has clients that depend on him, and to fuel the coinflip trades he depends on for his serotonin dump session, he cannot afford to disappoint. Anyone. \n\n6:48am brings the idea that maybe he could start a dumpster swapping business between different Wendy’s locations on some regional rotation. And I totally get it. I don’t like looking at that same  dumpster everyday either! Preach. Imagine the possibilities! Colors, textures, accessibility options, materials… customizing your Wendy’s dumpster value menu experience is an honor and a privilege. Good business is good business. It’s all about the repeat customers. \n\nOne thing I know with absolute certainty is that quantity and quality of Wendy’s “employee” is on the rise. You have to think outside the box.",
+              "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltt0rs0/",
+              "created": 1729919364,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ltt62un",
+                  "score": 25,
+                  "body": "shut the fuck up, bitch",
+                  "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltt62un/",
+                  "created": 1729922211,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ltt6do4",
+                      "score": 1,
+                      "body": "Is what I said a little too real for you?",
+                      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltt6do4/",
+                      "created": 1729922380,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "ltt8yy9",
+                          "score": 5,
+                          "body": "i don’t invest i have never bought/sold an option, what you “wrote” is just autism.",
+                          "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltt8yy9/",
+                          "created": 1729923878,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "ltuai82",
+                              "score": 7,
+                              "body": "Sir this is a Wendy’s",
+                              "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltuai82/",
+                              "created": 1729945984,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "ltt9oez",
+                  "score": 7,
+                  "body": "Bro you dropped the new copypasta",
+                  "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltt9oez/",
+                  "created": 1729924297,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "ltt569m",
+                  "score": 3,
+                  "body": "You have quite the imagination 😄",
+                  "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltt569m/",
+                  "created": 1729921708,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ltt5vwq",
+                      "score": 3,
+                      "body": "I’m currently manic so I kinda just let that shit rip.",
+                      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltt5vwq/",
+                      "created": 1729922106,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ltscprc",
+          "score": 112,
+          "body": "money never sleeps",
+          "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltscprc/",
+          "created": 1729909158,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ltsqkur",
+              "score": 16,
+              "body": "Anacott Steel",
+              "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsqkur/",
+              "created": 1729914622,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "ltsjytz",
+              "score": 7,
+              "body": "Fax!",
+              "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsjytz/",
+              "created": 1729911951,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "ltstf1h",
+              "score": 2,
+              "body": "Now I won’t either",
+              "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltstf1h/",
+              "created": 1729915857,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ltsue2y",
+          "score": 25,
+          "body": "Now I can track my losses while working behind the graveyard behind the dumpster at Wendy’s.",
+          "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsue2y/",
+          "created": 1729916298,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ltss57j",
+          "score": 19,
+          "body": "For me the market is only open while I'm at work!  Would be nice to be able to sit and look at stocks at home for a change",
+          "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltss57j/",
+          "created": 1729915286,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ltspgnx",
+          "score": 7,
+          "body": "When does this start?",
+          "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltspgnx/",
+          "created": 1729914170,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ltskfq3",
+          "score": 17,
+          "body": "Didn’t the crypto guys warn them this is a shit idea. SMH",
+          "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltskfq3/",
+          "created": 1729912142,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ltsy3z3",
+          "score": 3,
+          "body": "Now at least you can run to your boss and say “I QUIT BITCH” when your YOLO hits \n\nI can’t wait!",
+          "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsy3z3/",
+          "created": 1729918041,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ltsermn",
+      "score": 392,
+      "body": "The price of coke is going to go way up from all this demands.",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsermn/",
+      "created": 1729909935,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltsrzia",
+          "score": 29,
+          "body": "Calls on KO. I mean COL.",
+          "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsrzia/",
+          "created": 1729915219,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ltsecnp",
+      "score": 191,
+      "body": "Lots of divorces are coming lol",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsecnp/",
+      "created": 1729909778,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltso7y7",
+          "score": 47,
+          "body": "*remembers I’m married*\n\nFuck.",
+          "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltso7y7/",
+          "created": 1729913694,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ltuojf8",
+          "score": 10,
+          "body": "This is just another case for men to never get married.  Sad.",
+          "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltuojf8/",
+          "created": 1729951539,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ltsbxam",
+      "score": 229,
+      "body": "More time for more crime. \nNeato",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsbxam/",
+      "created": 1729908852,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltsrw34",
+          "score": 4,
+          "body": "Bingo ",
+          "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsrw34/",
+          "created": 1729915178,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ltsbrz9",
+      "score": 173,
+      "body": "Will this mean that liquidity is more spread out and thus thinner? Will that mean more volitility?",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsbrz9/",
+      "created": 1729908797,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltse8ea",
+          "score": 170,
+          "body": "No, because traders at investment firms will still want to work similar hours as before\n\nLow fee 24-hour markets already exist - this isn't really changing access to trading, it's just bringing it in-house and pulling the rug from under Blue Ocean ATS who currently provides the overnight markets",
+          "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltse8ea/",
+          "created": 1729909736,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lttpoxk",
+              "score": 16,
+              "body": "There are night traders at trading firms in Chicago. Mostly for Asian market but can’t see why they won’t",
+              "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/lttpoxk/",
+              "created": 1729934431,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ltus90a",
+                  "score": 4,
+                  "body": "Yes, but they already exist. And overnight trading already exists. This doesn't change anything for investors and won't impact liquidity\n\nMost people trade in the regular hours - they'll just continue to do so\n\nThe only thing that's changing is the provider of trading services during extended hours. Maybe some back office ops will change - but that has nothing to do with liquidity",
+                  "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltus90a/",
+                  "created": 1729952904,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ltsdd7a",
+          "score": 16,
+          "body": "This is gonna be wild",
+          "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsdd7a/",
+          "created": 1729909407,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ltscz03",
+          "score": 9,
+          "body": "Yes",
+          "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltscz03/",
+          "created": 1729909256,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ltscdr3",
+      "score": 148,
+      "body": "It looks like this is just extended hours trading being extended even further. The hours that you can trade options will probably be the same :/  \n\n\n[https://www.cnbc.com/2024/10/25/new-york-stock-exchange-to-extend-after-hours-trading.html](https://www.cnbc.com/2024/10/25/new-york-stock-exchange-to-extend-after-hours-trading.html)",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltscdr3/",
+      "created": 1729909028,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltshpf0",
+          "score": 36,
+          "body": "Options don’t trade through the NYSE so I would think your assumption is correct. Options go through Chicago so probably keep same hours.",
+          "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltshpf0/",
+          "created": 1729911056,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ltsi4kc",
+              "score": 7,
+              "body": "Now that I think about it, it's probably best that options stay limited so that we can have bid ask spreads as small as possible.",
+              "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsi4kc/",
+              "created": 1729911222,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lts9r8g",
+      "score": 35,
+      "body": "Good. Now I’ll be less bored.",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/lts9r8g/",
+      "created": 1729908012,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsbzmd",
+      "score": 59,
+      "body": "I wonder if they’ll just report earnings the 2 hours it’s closed.",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsbzmd/",
+      "created": 1729908878,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltse9g4",
+          "score": 38,
+          "body": "Anything to fuck us retail investors",
+          "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltse9g4/",
+          "created": 1729909747,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ltsll9z",
+              "score": 11,
+              "body": "How would that fuck retail investors?",
+              "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsll9z/",
+              "created": 1729912612,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ltsgnek",
+          "score": 7,
+          "body": "You can trade after hours already. Nothing will change much",
+          "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsgnek/",
+          "created": 1729910649,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ltsidp1",
+      "score": 53,
+      "body": "I can't wait to sleep from 11:30 to 1:30",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsidp1/",
+      "created": 1729911327,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsix8h",
+      "score": 28,
+      "body": "Finally I can lose money at night too",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsix8h/",
+      "created": 1729911539,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsahyo",
+      "score": 134,
+      "body": "Granny is gonna love this one even more time to buy intel.",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsahyo/",
+      "created": 1729908303,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltsem67",
+          "score": 81,
+          "body": "Someone say my name?\n\nhttps://preview.redd.it/dyq51z48i0xd1.jpeg?width=868&format=pjpg&auto=webp&s=f0fee4294f5efe91d525b6809ca2e622da3ad723",
+          "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsem67/",
+          "created": 1729909878,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ltsr0tr",
+              "score": 7,
+              "body": "I think I did 😂",
+              "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsr0tr/",
+              "created": 1729914809,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ltsguby",
+          "score": 25,
+          "body": "https://preview.redd.it/jwe8gheqk0xd1.jpeg?width=1024&format=pjpg&auto=webp&s=63741f252ab5ce989b211beda2e97b285f677ce3",
+          "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsguby/",
+          "created": 1729910721,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ltsbzdm",
+          "score": 7,
+          "body": "Brutal",
+          "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsbzdm/",
+          "created": 1729908875,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ltsfx02",
+          "score": 2,
+          "body": "Lmaooo",
+          "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsfx02/",
+          "created": 1729910369,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ltsc0zi",
+      "score": 17,
+      "body": "So what about T-1. Change that as well to immediate",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsc0zi/",
+      "created": 1729908892,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltsh27w",
+          "score": 2,
+          "body": "No need to charge it. Can still settle at market close",
+          "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsh27w/",
+          "created": 1729910805,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ltsd0ht",
+      "score": 91,
+      "body": "Hopefully this doesn’t get approved but is what it is. Love stocks but it’s peaceful knowing I can’t make a move sometimes ![img](emote|t5_2th52|4275)",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsd0ht/",
+      "created": 1729909272,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltsm0if",
+          "score": 46,
+          "body": "This is the biggest issue here. This is just unhealthy.  The shanghai index closes for freaking lunch.  Let people have down time",
+          "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsm0if/",
+          "created": 1729912790,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ltsykk7",
+              "score": 6,
+              "body": "I mean nobody is forcing you to look at your screen",
+              "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsykk7/",
+              "created": 1729918263,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ltvvmlp",
+                  "score": 5,
+                  "body": "Nobody forces you to do anything that's not the point",
+                  "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltvvmlp/",
+                  "created": 1729965994,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ltxvvea",
+                      "score": 3,
+                      "body": "That is exactly the point. If you think you need to be in front of the stock market constantly when it’s open, the problem comes from you.",
+                      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltxvvea/",
+                      "created": 1729991308,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ltsecr9",
+      "score": 11,
+      "body": "Gotta reserve those 2 hours for crime",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsecr9/",
+      "created": 1729909779,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltscesm",
+      "score": 26,
+      "body": "Just do 24 hours",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltscesm/",
+      "created": 1729909039,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltse602",
+          "score": 19,
+          "body": "Nightmare for IT",
+          "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltse602/",
+          "created": 1729909711,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ltsfzy2",
+              "score": 38,
+              "body": "as if there's anything in IT that isn't a fucking nightmare",
+              "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsfzy2/",
+              "created": 1729910401,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "ltsfuys",
+              "score": 2,
+              "body": "Isn’t it a nightmare either way? IT gets unlimited budget to meet the impossible 100% uptime.",
+              "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsfuys/",
+              "created": 1729910348,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ltstjjn",
+                  "score": 15,
+                  "body": ">IT gets unlimited budget\n\nThose words never exist in the same sentence.",
+                  "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltstjjn/",
+                  "created": 1729915912,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ltse5pv",
+      "score": 23,
+      "body": "This is not good for my sanity",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltse5pv/",
+      "created": 1729909708,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsbyyk",
+      "score": 11,
+      "body": "Fuck yea let’s make more bad decisions and pray for big wins",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsbyyk/",
+      "created": 1729908870,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltseqg2",
+      "score": 11,
+      "body": "Doesn't really change much for traders - we already have overnight markets today\n\nHopefully it's more reliable though. Blue Ocean ATS caused a fucking mess a couple of months ago when they screwed up the overnight markets",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltseqg2/",
+      "created": 1729909922,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsfgz7",
+      "score": 12,
+      "body": "THE CASINO IS OPEN",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsfgz7/",
+      "created": 1729910199,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsgd9r",
+      "score": 11,
+      "body": "When can nasdaq do 22 hours too?",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsgd9r/",
+      "created": 1729910543,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsey24",
+      "score": 9,
+      "body": "Oh hell no.",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsey24/",
+      "created": 1729909999,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsfl2d",
+      "score": 9,
+      "body": "Um, what about Saturday and Sunday?",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsfl2d/",
+      "created": 1729910244,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltsyika",
+          "score": 13,
+          "body": "This. The extended market is open plenty of hours a day now. We just need a 7-day week from them.",
+          "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsyika/",
+          "created": 1729918236,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lttg280",
+              "score": 12,
+              "body": "Please no. I work in finance and would like not to work 7 days per week",
+              "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/lttg280/",
+              "created": 1729928238,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lturjjw",
+                  "score": 4,
+                  "body": "OPEN THE CASINO",
+                  "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/lturjjw/",
+                  "created": 1729952647,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ltsk79s",
+      "score": 8,
+      "body": "Overnight trading and its consequences have been a disaster for many portfolios. Nothing is more frustrating than seeing a stock make a massive move after hours, then go flat into open the next day.",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsk79s/",
+      "created": 1729912047,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsbxt4",
+      "score": 10,
+      "body": "Fuck’s sake, now I have to get used to sleeping when I should be working. I mean I already sleep when I should be working but now I have to",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsbxt4/",
+      "created": 1729908857,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsb7t1",
+      "score": 18,
+      "body": "Been waiting for this for ages. Good for those outside of US timezone.",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsb7t1/",
+      "created": 1729908581,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsdk1p",
+      "score": 4,
+      "body": "My wife is going to love this",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsdk1p/",
+      "created": 1729909479,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltsgbuh",
+          "score": 6,
+          "body": "Puts on this guy's marriageemote:t5\\_2th52:27189",
+          "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsgbuh/",
+          "created": 1729910529,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ltsetph",
+      "score": 8,
+      "body": "HOOD to the moon?  🚀🌙",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsetph/",
+      "created": 1729909957,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsfldc",
+      "score": 3,
+      "body": "JP Morgan kicking themselves right now for capping intern work weeks at 80 hours.",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsfldc/",
+      "created": 1729910247,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsgkka",
+      "score": 3,
+      "body": "22hrs?! Fucking pussies",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsgkka/",
+      "created": 1729910620,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltscgw0",
+      "score": 10,
+      "body": "And everybody scoffed and balked at Robinhood for starting the 24 hour trading. Now all of Wall Street is jumping on the bandwagon. Who's scoffing and balking now?",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltscgw0/",
+      "created": 1729909061,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltwk6dq",
+          "score": 3,
+          "body": "24/7 trading is awesome. Just many old people yell at cloud energy in this thread.\n\nYou don’t have to trade 24/7, but sometimes it is nice being able to grab a couple shares at 10pm just because",
+          "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltwk6dq/",
+          "created": 1729974053,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ltsgt8y",
+      "score": 6,
+      "body": "Should just be 24/7 already.",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsgt8y/",
+      "created": 1729910710,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltscuqt",
+      "score": 2,
+      "body": "Rip sleep",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltscuqt/",
+      "created": 1729909209,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsdmlp",
+      "score": 2,
+      "body": "This is most likely only on shares, not options.",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsdmlp/",
+      "created": 1729909506,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltseuyn",
+      "score": 2,
+      "body": "Wonder if that will change anything related to day trading margin rates on futures…or options?",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltseuyn/",
+      "created": 1729909969,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsf57m",
+      "score": 2,
+      "body": "Nice! Now I can lose money faster!",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsf57m/",
+      "created": 1729910076,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsfmkt",
+      "score": 2,
+      "body": "Can someone explain, is this just extending after market hours?  Will most of the volume still be between 9:30a - 1p est?",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsfmkt/",
+      "created": 1729910259,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsggw2",
+      "score": 2,
+      "body": "Oh great, let’s crash the bastard whilst a majority of investors sleep.\n« I’m in »",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsggw2/",
+      "created": 1729910582,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsjv2c",
+      "score": 2,
+      "body": "More time for security fraud. Lovely",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsjv2c/",
+      "created": 1729911909,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltslsel",
+      "score": 2,
+      "body": "Calls on RH",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltslsel/",
+      "created": 1729912694,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsb1rn",
+      "score": 3,
+      "body": "More ppl sleep in dumpster or Lambo?",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsb1rn/",
+      "created": 1729908514,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsbww7",
+      "score": 3,
+      "body": "I know it’s not plausible, but it would be so badass if I could trade stocks/options on a fully open market on Saturdays. I’m not really for this market extension. I really like the market closing everyday.. ![img](emote|t5_2th52|52627)",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsbww7/",
+      "created": 1729908847,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsbdz0",
+      "score": 1,
+      "body": "[deleted]",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsbdz0/",
+      "created": 1729908648,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltsbr2i",
+          "score": 4,
+          "body": "Regulators whose budgets are tied to trading.",
+          "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsbr2i/",
+          "created": 1729908787,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ltscixh",
+      "score": 1,
+      "body": "they always say this around once every 3 months",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltscixh/",
+      "created": 1729909084,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltscqv8",
+      "score": 1,
+      "body": "money never sleeps",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltscqv8/",
+      "created": 1729909169,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsdl6i",
+      "score": 1,
+      "body": "Calls on MNST!",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsdl6i/",
+      "created": 1729909491,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltse7l4",
+      "score": 1,
+      "body": "Fuck",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltse7l4/",
+      "created": 1729909728,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltseuap",
+      "score": 1,
+      "body": "How the hell this gonna work. Earnings will only be reported on weekends now? In that 2 hour time windows on weekdays?",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltseuap/",
+      "created": 1729909963,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsf1ou",
+      "score": 1,
+      "body": "I mean premarket typically gives you a good idea if you won or got slaughtered. Don't think much changes.",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsf1ou/",
+      "created": 1729910037,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsf53f",
+      "score": 1,
+      "body": "From when does this apply if it’s even true ?",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsf53f/",
+      "created": 1729910075,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsfams",
+      "score": 1,
+      "body": "One step closer to in the forever no-sleep casino! \n\nWe are so back!",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsfams/",
+      "created": 1729910132,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsfck7",
+      "score": 1,
+      "body": "Calls on intel !!! Granny Intel 👵 will be happy",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsfck7/",
+      "created": 1729910152,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsfn1z",
+      "score": 1,
+      "body": "Excellent we vampires don't sleep anyhow",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsfn1z/",
+      "created": 1729910265,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsg6ql",
+      "score": 1,
+      "body": "Seems like a waste of 2 hours.\n\nYou just know the bastards will make all the big moves in those 2 hours while retail is locked out.",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsg6ql/",
+      "created": 1729910473,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsgbdn",
+      "score": 1,
+      "body": "So, I wonder what effect this will have on (or because) China's market goes up or down. \n\nWe used to have the benefit of a half-day of a break from overseas good/bad news..now we won't. \n\nAnd what about a Chinese type of concerted effort like a \"Roaring Kitty' leading tens of thousands to work un unison on US market swings.  \n\n\nIt'll be interesting.   I fear though that the hours now make it all too easy for people who wouldn't do that because it meant middle of the night trading, now will because it can be done during their waking hours.",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsgbdn/",
+      "created": 1729910524,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsggxa",
+      "score": 1,
+      "body": "Fuck yeah. Extended opportunities for me to lose more money. For even longer!",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsggxa/",
+      "created": 1729910583,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsgvui",
+      "score": 1,
+      "body": "Calls on red bull and coke",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsgvui/",
+      "created": 1729910737,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsh0m8",
+      "score": 1,
+      "body": "I thought this was Wendy’s",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsh0m8/",
+      "created": 1729910788,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltshuhz",
+      "score": 1,
+      "body": "The sludge must flow",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltshuhz/",
+      "created": 1729911112,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltshynv",
+      "score": 1,
+      "body": "Good thing I don't live in New York! \n\n*Taps head*",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltshynv/",
+      "created": 1729911158,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsi090",
+      "score": 1,
+      "body": "Isn’t this just for after hours trading on NYSE Arca? I don’t think it’ll impact your 0DTE calls",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsi090/",
+      "created": 1729911175,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsio6y",
+      "score": 1,
+      "body": "cool, we can loose money faster tho....![img](emote|t5_2th52|4271)",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsio6y/",
+      "created": 1729911444,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsiwx9",
+      "score": 1,
+      "body": "[deleted]",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsiwx9/",
+      "created": 1729911536,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsj2jj",
+      "score": 1,
+      "body": "fucking shit i liked it ending at some point so i could turn it off. i dont even like nasdaq doing a double pre. as it is i get up early and stare at the screen start of pre to end of after. though... does this mean more people will put more money into the stockmarket, as people in different time zones or with full day jobs now have more access...? more money in the market if youre in it hey. i dont like shit happening when im not watching though. i like being being to explain the gap ups/downs. \"this is all because of robinhood\"? to compete with robinhood they just need to shove options down the throat of beginners. whatever see previous comments.",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsj2jj/",
+      "created": 1729911598,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsjriu",
+      "score": 1,
+      "body": "CASINO open alll night!!!",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsjriu/",
+      "created": 1729911869,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsjsyz",
+      "score": 1,
+      "body": "Casino is open!!!",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsjsyz/",
+      "created": 1729911885,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltskdb8",
+      "score": 1,
+      "body": "Needs to be 24 hours a day!",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltskdb8/",
+      "created": 1729912115,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltskubg",
+      "score": 1,
+      "body": "I have waited more than I care to admit for this to happen. I want those nerds with 6 monitors working longer shifts.",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltskubg/",
+      "created": 1729912308,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltskvs8",
+      "score": 1,
+      "body": "This is so bad, now I have to be on the lookout for a massive drop on my stocks 22 hours a day ! Plus this reduces liquidity. So doo doo",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltskvs8/",
+      "created": 1729912325,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsl59q",
+      "score": 1,
+      "body": "Only 22?  What a gyp!",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsl59q/",
+      "created": 1729912430,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltslfad",
+      "score": 1,
+      "body": "I assume this would apply to other brokerages like Fidelity, but it says \"Robinhood era\" so I'm just wondering lol",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltslfad/",
+      "created": 1729912545,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltsyrn2",
+          "score": 2,
+          "body": "An \"era\" started by Robinhood that everyone else is going to be a part of. Like the stone age wasn't limited to the first ape that used a stone tool.",
+          "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsyrn2/",
+          "created": 1729918358,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ltsll06",
+      "score": 1,
+      "body": "Hope to see Dallas SE have 24 hr trading",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsll06/",
+      "created": 1729912609,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltslvtn",
+      "score": 1,
+      "body": "This is going to kill me with anxiety",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltslvtn/",
+      "created": 1729912734,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltslwzh",
+      "score": 1,
+      "body": "Wendy’s to open for 22 hours a day.",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltslwzh/",
+      "created": 1729912749,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltslxd4",
+      "score": 1,
+      "body": "Growing demand? The demand has always existed, but exchanges artificially limited hours.",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltslxd4/",
+      "created": 1729912753,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsmbdn",
+      "score": 1,
+      "body": "Do they mean core regular trading hours being extended or the current extended hours being extended further?",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsmbdn/",
+      "created": 1729912916,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsmi28",
+      "score": 1,
+      "body": "This should make all the ~~degenerate gamblers~~ speculators happy.",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsmi28/",
+      "created": 1729912992,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsmjrf",
+      "score": 1,
+      "body": "I mean might as well say fuck it and go the full 24hrs. What's 2 hours difference",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsmjrf/",
+      "created": 1729913010,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsmmq2",
+      "score": 1,
+      "body": "brb inevitably getting up at 3am to check on the markets",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsmmq2/",
+      "created": 1729913044,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsms9g",
+      "score": 1,
+      "body": "Na I don't like this at all, I work off of time frames this better not mess that up",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsms9g/",
+      "created": 1729913107,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsmtpy",
+      "score": 1,
+      "body": "Terrible idea. Puts on intercontinental exchange (ice) for even suggesting it.",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsmtpy/",
+      "created": 1729913123,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltsmydf",
+      "score": 1,
+      "body": "Calls on COKE quick !",
+      "permalink": "/r/wallstreetbets/comments/1gcajq4/new_york_stock_exchange_to_extend_trading_hours/ltsmydf/",
+      "created": 1729913176,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

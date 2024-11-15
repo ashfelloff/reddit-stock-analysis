@@ -1,0 +1,811 @@
+{
+  "title": "What are the downsides of holding long term 2x or 3x SPY/QQQ’s?",
+  "score": 60,
+  "selftext": "I’m talking long term and even having this in your IRA/Roth, replacing your typical SPY and QQQ. Not day trading or swing trading. Typically, the market goes up, so this would be on your side, plus the longer-term time horizon. Obviously, there is the risk of market crashes like COVID, Financial crisis and 2022 etc. I know its more expensive to hold as well, but that would hopefully offset if you’re in the green.\n\n \n\nI’m contemplating swapping out my QQQ/SPY holdings for the leveraged, but wanted to get some feedback on people’s thoughts.",
+  "link_flair_text": null,
+  "id": "1e34tip",
+  "num_comments": 87,
+  "created_utc": 1720970379,
+  "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/",
+  "comments": [
+    {
+      "id": "ld5hw5u",
+      "score": 158,
+      "body": "Leveraged ETFs are a path-dependent process.\n\nMost (all?) leveraged ETFs offer a daily multiplier on the underlying holdings. The key word here is daily. At the end of any given day, you can expect TQQQ to have returned 3x QQQ.\n\nAfter each day, the ETF resets the exposure for the upcoming day (daily rebalancing). In other words, the leveraged ETF is guaranteed to track the underlying ETF for a single day, but over multiple days you’ll start to see drift happening. This causes what is known as volatility decay, and this can really hurt your holdings when you have a volatile ETF in a sideways market. \n\nHere’s an example:\n\n1. Day 1:\n   - Index starts at 100 and rises 10% to 110.\n   - A 3x leveraged ETF would rise 30%, going from 100 to 130.\n\n2. Day 2:\n   - Index falls 10% from 110 to 99.\n   - A 3x leveraged ETF would fall 30%, dropping from 130 to 91.\n\nAs you can see, you’ve lost a significant amount just through the volatility of the index. Now, roughly speaking, a 2X Nasdaq 100 structured as above has historically outperformed the 1X, but 3X has underperformed the 1X. But it’s all about timing and avoiding negative/sideways markets with your exposure.",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld5hw5u/",
+      "created": 1720971689,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ld5jync",
+          "score": 40,
+          "body": "Your math is correct but minor quibble - daily levered ETFs typically don't hold options. They gain exposure through index swaps and futures. ",
+          "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld5jync/",
+          "created": 1720972415,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ld5klq2",
+              "score": 22,
+              "body": "Fair point, I learned how to model the leverage with options and it kinda just stuck with me.",
+              "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld5klq2/",
+              "created": 1720972639,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ld68sx1",
+          "score": 19,
+          "body": "This doesn’t entirely demonstrate the perils of volatility decay though. You might be led to believe that as long as the underlying ends up above the original price of 100 (instead of 99) you’ll profit, but in reality going even up to 110 and back to 100 is a loss when leveraged:\n\nDay 1:\nUnderlying = 100 * 1.1 = 110\nLeveraged = 100 * (1 + 3 * 0.1) = 130\n\nDay 2:\nUnderlying = 110 / 1.1 = 110 * 0.90909… = 100 (ie a 9.0909…% loss)\nLeveraged = 130 / (1 + 3 * 0.090909…) = 94.545…\n\nor so I believe the math goes, and you end up with less than you started with. So every single time the market goes up and down you lose money. If it just goes up a bit each day there would be no problem. \n\nThe benefit is that if you rebalance daily, you would need a -33% crash in a day to lose everything. You could avoid the decay by leveraging continuously for say, a whole year, but if the price goes to -33% at any point during that year you get margin called and lose everything or add more liquidity and potentially lose more than you put in.",
+          "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld68sx1/",
+          "created": 1720980865,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldc5itr",
+              "score": 1,
+              "body": "thx for pointing out the possibility of a margin call.",
+              "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ldc5itr/",
+              "created": 1721071557,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ld6zc52",
+          "score": 5,
+          "body": "Here’s how I explain it.  Back at ATH when tqqq was 88, qqq was 400ish, hold through the drop, qqq is up 25% and tqqq is still down 10%",
+          "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld6zc52/",
+          "created": 1720990566,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ld7zrou",
+              "score": 9,
+              "body": "It gets really complicated if you do regular contributions though because while the $100 you put in in nov 2021 is down 10%, the $100 you put in in January 2023 is worth around $400, so, with regular contributions, your old money may take a long time to catch up, but your new money can frequently fill in for the decay.",
+              "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld7zrou/",
+              "created": 1721004230,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ld5n9t8",
+      "score": 44,
+      "body": "Despite the huge run up that QQQ has had, TQQQ is still not back to its previous high of $89~. That should illustrate one of the downsides of a leveraged ETF.",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld5n9t8/",
+      "created": 1720973568,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ld6cmw4",
+          "score": 12,
+          "body": "i didn’t understand the concept of volatility decay until seeing how that 2021 high is still higher than it is today, even though underlyings are at ATH",
+          "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld6cmw4/",
+          "created": 1720982194,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ld7oz1j",
+              "score": 3,
+              "body": "Also don't forget borrowing rates are now higher and that too eats into the annual return.",
+              "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld7oz1j/",
+              "created": 1720999939,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "ld6e5w9",
+              "score": 3,
+              "body": "I bag held TQQQ for longer than I wanted, but managed to offload it on Wednesday afternoon last week for a decent~ish gain, it definitely taught me the concept of volatility decay lmao.",
+              "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld6e5w9/",
+              "created": 1720982716,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ld6eiy8",
+                  "score": 2,
+                  "body": "dude same lol i was planning on HODLing but also sold last week when it started tanking. good lesson to learn though while still coming out with gains",
+                  "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld6eiy8/",
+                  "created": 1720982841,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ld8wk6m",
+          "score": 9,
+          "body": "past month QQQ 2%, TQQQ 5%\n\n\npast 6 months: QQQ 20%, TQQQ 60%\n\n\n1 year: QQQ 29% TQQQ 78%\n\n\n5 years: QQQ 159%, TQQQ 390%\n\nI dunno, im going to keep holing my TQQQ shares.",
+          "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld8wk6m/",
+          "created": 1721018743,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ld5h702",
+      "score": 33,
+      "body": "The downside is that leveraged ETFs magnify returns on a daily basis and decay.\n\nIe if SPY has an annual return of 15%, it doesn’t mean a 2x SPY has an annual return of 30%",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld5h702/",
+      "created": 1720971443,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ld5xg5p",
+          "score": 5,
+          "body": "Is it a downside? there is decay but there is also compounding.",
+          "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld5xg5p/",
+          "created": 1720977026,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ld63m0y",
+              "score": 8,
+              "body": "Compounding *is* the downside to a leveraged ETF. If the underlying suffers consecutive losses, it literally goes to 0 at an accelerated rate.",
+              "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld63m0y/",
+              "created": 1720979106,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ld9b5f5",
+                  "score": -1,
+                  "body": "Stocks mostly go up, with a few simple strategies this is an advantage.",
+                  "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld9b5f5/",
+                  "created": 1721027668,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ld5jlhd",
+      "score": 13,
+      "body": "I wrote a response to a similar question a few weeks ago: https://www.reddit.com/r/Bogleheads/comments/1dphiea/comment/lahgcyy/\n\nTriple leveraged ETFs dont have enough price history to see how they would perform in a 2008 or 2000 like crash. But you can backtest how such an ETF would have performed using historical returns.\n\nTiming matters a lot more with leveraged ETFs. Had you bought a triple leveraged ETF on S&P500 in january of 2007, you would be more than 90% down at the bottom in 2009. It would then take roughly a decade to catch up with a regular ETF. Today, 17 years after buying, you would have outperformed the S&P500 by about 35%. And that is after one of the strongest bull markets in history.\n\nAs long as the market goes up, leveraged ETFs should do better. But if you buy at an unfortunate time, you may have to wait a decade or two to get back even. And you have to stomach a lot of volatility in the meantime with a lot less than 3x returns compared to the S&P.\n\nhttps://imgur.com/a/FRP89gb",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld5jlhd/",
+      "created": 1720972287,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ld5n6om",
+          "score": 8,
+          "body": "My back testing showed that if you enter during (not timing, just DCA the way down) “general” bear markets, the gains during the subsequent bull runs insulate you from drastic bear markets down the line.  \n\nIt’s not something you want to passively invest in, but when everyone is selling…\n\nI roughly keep about 10% of my monies in UPRO, selling when it goes over 10, but buying regardless during pull backs.  Last purchase was 10k early October 23.  Have about 15k in TFLO waiting for the next pull back.",
+          "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld5n6om/",
+          "created": 1720973538,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ld832wa",
+          "score": 1,
+          "body": "Have you ever tried backtesting with annual or monthly contributions? Curious what an entry just before collapse with monthly contributions would look like compared to the same non-leveraged.",
+          "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld832wa/",
+          "created": 1721005561,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ld5nzs9",
+      "score": 39,
+      "body": "Biggest downside is that you'll make so much money that you start becoming very unmotivated at work and could potentially get fired",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld5nzs9/",
+      "created": 1720973814,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ld81gfq",
+          "score": 8,
+          "body": "You joke but this literally happened to me. Made a million from buying TQQQ at the bottom of 22 crash and completely stopped giving a fuck. Though I quit but I’m certain they were getting ready to fire me",
+          "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld81gfq/",
+          "created": 1721004906,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ld82smh",
+              "score": 3,
+              "body": "yup, once you pass a million bucks, just having money in SPY / QQQ starts making you unmotivated, since a 10-20% gain is 100-200k profit a year, and with capital gains tax instead of regular income tax, most people are content with that level of income especially if its more than what your day job pays\n\nTQQQ would just make you even more unmotivated, im unmotivated as all hell lately just from SPY / QQQ, i usually only work 4-5 hours a day now with some days where i literally do no work at all",
+              "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld82smh/",
+              "created": 1721005446,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ld838vv",
+                  "score": 2,
+                  "body": "Yea the crazy thing I learned was that even if my portfolio is 100% capital gains, I only need to realize around 190k a year to get the same take home as a 300k income. This is for a high tax state but still, made retirement look a lot closer than I thought it was",
+                  "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld838vv/",
+                  "created": 1721005628,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ld5k1ua",
+      "score": 6,
+      "body": "You need to continuously dca down on dips to stay ahead of decay. Not a dealbreaker imo",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld5k1ua/",
+      "created": 1720972447,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ld6nhh8",
+      "score": 5,
+      "body": "Regardless of hypothetical and theoretical arguments against leveraged ETF, here's my experience of holding QLD (2x QQQ) since 2008. I have more than 6,400% gains of my QLD, and still holding. The only nightmare problem of my holding is the tax man. My previous post:\n\n[https://www.reddit.com/r/Bogleheads/comments/1dmltiy/comment/l9wl3wl/?utm\\_source=share&utm\\_medium=web3x&utm\\_name=web3xcss&utm\\_term=1&utm\\_content=share\\_button](https://www.reddit.com/r/Bogleheads/comments/1dmltiy/comment/l9wl3wl/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld6nhh8/",
+      "created": 1720985989,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ld6z0yi",
+          "score": 1,
+          "body": "Do you DCA on dips?",
+          "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld6z0yi/",
+          "created": 1720990469,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ld7e63l",
+              "score": 3,
+              "body": "No, I purchased 100 shares of QLD in October 2008 around $45. After five 2-for-1 splits, I now have 3,200 shares, its price is now over $100. My adjusted cost basis is now \\~$1.40, and every share I sell, more than 98% of proceeds are now long-term capital gains. What a nightmare!",
+              "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld7e63l/",
+              "created": 1720995798,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ld7htn7",
+                  "score": 1,
+                  "body": "Oof wouldn’t your cost basis be adjusted to account for the splits",
+                  "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld7htn7/",
+                  "created": 1720997179,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ld5v3wv",
+      "score": 4,
+      "body": "From what I understand you should be using 3x leverage the same way you'd utilize options\n\nThink a bull run is gonna happen for the next week straight? A bet on 3x could be a good move. \n\nSame for inverse",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld5v3wv/",
+      "created": 1720976237,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ld5tz35",
+      "score": 8,
+      "body": "The correct way to do this is to hold deep ITM LEAPS on QQQ or SPY instead. Those are leveraged and don't have the same quirks of a leveraged ETF. You can also run PMCCs.",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld5tz35/",
+      "created": 1720975854,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ld6ua3e",
+          "score": 1,
+          "body": "Futures are even better",
+          "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld6ua3e/",
+          "created": 1720988703,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ld5vdgj",
+      "score": 4,
+      "body": "just buy some options my bro",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld5vdgj/",
+      "created": 1720976328,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ld8jkiu",
+      "score": 3,
+      "body": "I would not hold leveraged ETF for long term, the risk is applied and the managing fee is very high as well. Over long term the benefit of 3x levergae is diminisged. \n\nSo it's better for short term bet.",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld8jkiu/",
+      "created": 1721012455,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ld5o5sy",
+      "score": 2,
+      "body": "Why not just keep your current holdings and just new money being added throw into UPRO, SSO, TQQQ etc until you feel it’s a good balance for your risks appetite",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld5o5sy/",
+      "created": 1720973870,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ld6ezbz",
+      "score": 2,
+      "body": "leverage for sure. i wouldnt touch them with a 20 foot pole with this current bull run. if we get a serious drop on the other hand...",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld6ezbz/",
+      "created": 1720982998,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ld9h05w",
+      "score": 3,
+      "body": "To the naïve, leveraged products look like a great way to accelerate their gains. In reality, they turn out to be very effective at turbocharging their losses.",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld9h05w/",
+      "created": 1721031867,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ld5hje7",
+      "score": 5,
+      "body": "These products give you 2x(3x, etc) returns on a daily basis.  Imagine the following SP500 returns:  \n\nD1: +5% D2: -5% Total: -0.25%\n\nAs compared to leveraged:\n\nD1: +10% D2: -10% Total: -1.00%\n\nThe market may go up over time, but compounding some multiple of the daily return, at a notably higher fee, generally will lead to lower returns over time. ",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld5hje7/",
+      "created": 1720971564,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ld5hdbr",
+      "score": 3,
+      "body": "I wouldn’t. It is very dangerous even for moderate corrections. A 10% loss in a day becomes a 30% loss and since the leverage is daily, getting 3 x 3.3% days won’t mean you recover what you lost. \n\nA single -33% crash will liquidate everything.",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld5hdbr/",
+      "created": 1720971506,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ld5l2ne",
+          "score": 8,
+          "body": "To see this in action with just a regular bear market, compare QQQ to TQQQ since 2022. \n\n- The NASDAQ lost about 30% in 2022, but by the end of 2023 had pretty much recovered it all. Today it’s back to setting all-time highs.\n- The triple-levered version lost more than 3/4 of its value and still isn’t back to where it was at the beginning of ‘22.\n\nThese levered funds are great during strong bull markets (if you can stomach the volatility) but they gradually bleed during sideways periods and they get crushed in downturns. Someone [backtested TQQQ](https://www.reddit.com/r/ETFs/comments/tkqhuy/tqqq_backtest/) to the dot-com era and found that a $100 investment would grow to $800 and then drop to less than $1.\n\nAssuming the fund didn’t get liquidated after that loss, someone holding through that whole thing wouldn’t get back to their original $100 until 2019. Of course the flip side is that if they’d been regularly contributing as opposed to a lump sum, they’d have made bank over the last 15 years. We’ve had a great run lately. \n\nIf you go to r/LETFs where people like and use these funds, they’ll talk a lot about hedging strategies.\n\n* Some use signals like the moving average of the (unlevered) index to rotate in and out of leverage, only levering up when we appear to be in an uptrend and experiencing low volatility.\n* Others keep some money in the leveraged fund and others in a less-correlated asset like Treasury bills, rebalancing periodically. That allows them to take profits after good times and replenish after bad times.\n\nWhatever it is there’s a strategy for managing the risk and recovering from downturns. That becomes especially important as the investor gets older, because they have less time and future income with which to correct course. ",
+          "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld5l2ne/",
+          "created": 1720972804,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ld5wnoh",
+              "score": 4,
+              "body": "I am genuinely asking, what if I average down my price? Buying on the way down. All if the explanations I saw approach TQQQ as if it's a one time buy. I would really like to know, thanks.",
+              "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld5wnoh/",
+              "created": 1720976762,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ld6jqc6",
+                  "score": 1,
+                  "body": "It’ll depend on how much new money you’re adding relative to the existing balance. We can see this through the Financial Crisis thanks to real-world fund DXQLX, which targets 1.75x NASDAQ monthly returns and has existed since mid-2006. Each of these people started investing in July 1, 2006 and added $500 per month through June 2011 (five years). The only difference is their starting balance:   \n\n* [$1,000](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&sl=5r0JByGNoY0sDsl4NN4B7w) takes a big hit, $14K to $4K, but their deposits allow them to ride the rebound and they handily beat the S&P.\n* [$10,000](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&sl=4QAzkJvButyymk7Emvnv6) also beats the S&P over the five years, but spends more time lagging because it takes longer to build back up after losing 80%.\n* [$100,000](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&sl=jAYSl1ulwXAbczB0JRTmP) lost enough in the downturn that they still lag the S&P after five years.\n* [$1,000,000](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&sl=1BQyR422THnplqARygbfVH) just barely has a positive return, less than 1% annualized. Their balance at the depths of the crash is $217,000, so adding $6,000 a year barely moved the needle. \n\nThese cut off at 2011 for practical reasons, the website only allows free users to see so much. The market since 2009 has been unusually smooth sailing, so these people all would have done quite well since then. I’d say the takeaway here is that even at this modest-by-today’s-standards degree of leverage you gotta think about how badly it would hurt your future if you lost 80% of what you currently have.",
+                  "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld6jqc6/",
+                  "created": 1720984672,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ld5m4qt",
+      "score": 2,
+      "body": "The downside, outside of the obvious double or triple losses, is that you lose if the S&P moves sideways.",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld5m4qt/",
+      "created": 1720973177,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ld8e2e5",
+      "score": 2,
+      "body": "What happens to a 3X leverage in a 33% crash?\n\nThe danger is that if you own this at the wrong time, you can literally lose 100% of your holdings, and it won't come back. But you can also lose very large chunks on more minor corrections. And then there are the other problems with sideways markets.",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld8e2e5/",
+      "created": 1721010111,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ld87070",
+      "score": 1,
+      "body": "Ultra high risk in a hot market like this. A 20% drop could be devastating. And leveraged ETFs often exaggerate their mandated price action. Compare LABU to its underlying XBI and you’ll see how off the moves can be both ways. ",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld87070/",
+      "created": 1721007179,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ld87ngi",
+      "score": 1,
+      "body": "Wanna make money on leveraged ETFs? Buy LABU when XBI hits the bottom of its range, like $65. Look at LABU charts after those dates. Holding leveraged ETFs isn’t a thing unless you’re coming off a black swan like Covid or the housing meltdown. ",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld87ngi/",
+      "created": 1721007451,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ld8qsw6",
+      "score": 1,
+      "body": "because you will scare the investors of r/stocks........i hold about 20-30% of my portfolio in leveraged etfs",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld8qsw6/",
+      "created": 1721015796,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ld97j6z",
+      "score": 1,
+      "body": "They don’t usually outperform the underlying over the long term",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld97j6z/",
+      "created": 1721025338,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lda8d1r",
+      "score": 1,
+      "body": "You buy those during a crash for an eventual rebound not as a long term investment.",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/lda8d1r/",
+      "created": 1721048116,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lda9a0t",
+      "score": 1,
+      "body": "How is QLD?\n\n\nSame risk? Would you put like 5-10% into a leveraged 3x?",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/lda9a0t/",
+      "created": 1721048509,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldagbc2",
+      "score": 1,
+      "body": "In a bear market you’ll be down 80%",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ldagbc2/",
+      "created": 1721051363,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldagzz3",
+      "score": 1,
+      "body": "Leveraged ETF returns are very dependent on \"when you got in\".  Really you're going to see insane gains if we're in a bear market and you get in there.  Yes, this is timing the market.  No, it's not as scary as Warren Buffet makes it sound.  Just use the 200d MA and do a weighted DCA.",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ldagzz3/",
+      "created": 1721051625,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldd1ie0",
+      "score": 1,
+      "body": "You get a little less than an exact 3x of the total return, and they get completely crushed during bear markets. You need a strategy to manage it vs just passively investing if your holding it for a while.",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ldd1ie0/",
+      "created": 1721082153,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldfc81d",
+      "score": 1,
+      "body": "LQQ which is 2x leveraged, dates back to mid 2006, in 2008 it fell by 75%, during those 18 years it's up ~7000%\n\nS&P500 during the same time first fell ~45%, and in the same timeframe is up ~350%\n\nTriple leveraged one is younger dating 10 years back, and is currently ~2300% up. Including it falling ~70% in 2019 and 75% in 2022\n\nTo me, all of the decay talk seems moot over longer times, and while it's true that the timing matters more, and if you rely on the investment with your life, then it's better not to keep them. Otherwise they seem straight up better over time.",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ldfc81d/",
+      "created": 1721121976,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldh944s",
+      "score": 1,
+      "body": "Basic math. To recover from a 10% loss you need more than 10% gain and it is worse the more you \"lose\".  \nHere scroll down to a graph which represents normal scenario(non leveraged).\n\n[https://blog.nationwidefinancial.com/markets-economy/capital-market-impact/break-even-math-how-much-gain-is-needed-to-recover-from-a-loss-fully/](https://blog.nationwidefinancial.com/markets-economy/capital-market-impact/break-even-math-how-much-gain-is-needed-to-recover-from-a-loss-fully/)\n\nNow what if you buy a X3 leveraged ETF and the X1 loses 33%, you potentially may lose 99% of your invested money. An X2 would be little safer.",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ldh944s/",
+      "created": 1721150495,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ld5msfr",
+      "score": 1,
+      "body": "I would never buy stocks with leverage.",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld5msfr/",
+      "created": 1720973404,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ld5u19j",
+          "score": 3,
+          "body": "Buy LEAPS. This is basically what OP is trying to do.",
+          "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld5u19j/",
+          "created": 1720975874,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ld5nf69",
+      "score": 1,
+      "body": "Beta slippage and delisting are the potential downsides. Beta slippage can work in your favor although long term you'll even get screwed by it unless you think the giant bull run of the last 15 years will continue forever.",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld5nf69/",
+      "created": 1720973618,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ld5scoe",
+      "score": 1,
+      "body": "If you apply a 1.25x leveraged ETF (which has a higher fee) to backtesting using monte carlo, you’ll find that the leveraged ETF performs worse than a non leveraged ETF. It’s just in recent times that leveraged ETFs have been better.",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld5scoe/",
+      "created": 1720975306,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ld5sds5",
+      "score": 1,
+      "body": "Because the losses are leveraged as well.\n\nTo make up a 50% loss is not as simple as just having the stock go up 50%.",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld5sds5/",
+      "created": 1720975316,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ld5upjy",
+      "score": 1,
+      "body": "As others may have mentioned, these do best during immense bull markets. Sideways trading will underperform the underlying assets ",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld5upjy/",
+      "created": 1720976102,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ld6gkyh",
+      "score": 1,
+      "body": "There is a very real possibility that you lose more than 99% of your money and it never comes back.",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld6gkyh/",
+      "created": 1720983547,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ld5kz4k",
+      "score": -1,
+      "body": "A huge gamble that will likely clean you out.",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld5kz4k/",
+      "created": 1720972770,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ld5jxj3",
+      "score": 0,
+      "body": "On top of what everyone else has mentioned already (they perform well in a bull market but perform disproportionately horribly in a bear market), they have high cost ratios to hold them. They’re really not designed for long term holding.",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld5jxj3/",
+      "created": 1720972405,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ld5qxlb",
+      "score": 0,
+      "body": "Google volatility decay",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld5qxlb/",
+      "created": 1720974823,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ld5r10z",
+      "score": 0,
+      "body": "So are you supposed to buy this in the morning and sell in the afternoon?",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld5r10z/",
+      "created": 1720974857,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ld889mc",
+          "score": 1,
+          "body": "They say don’t hold overnight but some of these will 10X or more over months or years if timed right. JNUG, LABU, SOXL, etc. , lot of $ but only if you have perfect timing. ",
+          "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld889mc/",
+          "created": 1721007709,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ld8df4b",
+      "score": 0,
+      "body": "THE TOP IS HERE",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld8df4b/",
+      "created": 1721009842,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ld5jwv4",
+      "score": -1,
+      "body": "Convexity",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld5jwv4/",
+      "created": 1720972398,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ld5w9gj",
+      "score": -1,
+      "body": "I get the idea that timing is important because in  a couple of months it can drop 80%, but who is saying that I am not buying more in that time? Making my average share cost go down and making the way from negative to positive faster?",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld5w9gj/",
+      "created": 1720976630,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ld88iw3",
+          "score": 1,
+          "body": "If it goes down 80% you’re never making that money back ",
+          "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld88iw3/",
+          "created": 1721007817,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ld61rzz",
+      "score": -1,
+      "body": "I just loaded on DPST and LABU. hoping that in the next 6 months, we see tremendous upside. is that not a smart play? :/",
+      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld61rzz/",
+      "created": 1720978488,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ld89cy1",
+          "score": 1,
+          "body": "Suicidal.  XBI, the index LABU is tied to, is high end of range. I’m actually melting into the inverse, LABD, rn.  I follow XBI and its sister vehicles very closely, biotech just bounced hard off a deep low around halloween, it’s gonna chop then fall again though yes, some more upside possible because of falling rates (indebted biotech companies are wildly sensitive to interest rates). Follow XBI for the timing on LABU. ",
+          "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld89cy1/",
+          "created": 1721008170,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ld8dvjc",
+              "score": 1,
+              "body": "why would you get into LABD when you can just buy some puts?\n\nXBI could very well break out if the RTY surge holds, not for sure, but XBI is a interest rate related, rates go down it goes up wildly, its like a levered RTY \n\nthose inverse ETFs with the possible exception of YANG are fairly useless for retail traders",
+              "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld8dvjc/",
+              "created": 1721010032,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ld8fllv",
+                  "score": 1,
+                  "body": "No options because I don’t want time constraints. XBI is already bordering frothy, it’s been range bound for a decade, check the chart. I melt in VERY slowly with larger and larger purchases. That’s the only way to approach a 3x ETF, be quantitative. Glide smoothly in but bet bigger and bigger till it breaks ur way, sell where you started buying, so time becomes less relevant, it just can’t be a really long time. Timing an already rich 3x etf? Getting the buy AND sell timing right without a plan? Not being snide: good luck with that. ",
+                  "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld8fllv/",
+                  "created": 1721010749,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ld8hnx9",
+                      "score": 2,
+                      "body": "incase you haven't done this, pull the LABD chart out to 5yrs......",
+                      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld8hnx9/",
+                      "created": 1721011629,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "ld8jtjx",
+                          "score": 1,
+                          "body": "I’ve never held longer than a few months, I’m aware ALL 3x funds go from $1,000 to a penny on 5-10 yr charts. I was wading into LABU from mid 2023 till January-ish, probably my longest, most nerve wracking LABU trade ever, 6 months plus. Bought from 110 all the way to 50, sold around 110, every purchase after the first was profitable, it unfortunately turned into a big $ trade, I lost mucho sleep(!), but made like 10K. ",
+                          "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld8jtjx/",
+                          "created": 1721012563,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "ld8keua",
+                              "score": 2,
+                              "body": "i guess we talking about the same thing.  \n\nbut i would say that with that sort of investment style a put a few months out or even a year out is far more profitable and far less stressful\nyou can even do a put verticals to give yourself an even better pot odd\n\nyou can martingale down with puts as well it’s even more convex",
+                              "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld8keua/",
+                              "created": 1721012821,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "ld8l5in",
+                                  "score": 1,
+                                  "body": "I think ur better at math than me and definitely have more practice with options. Also mine is set and forget, the entire buy plan can be entered at once, less time consuming, more time for research. Then just sell where you started buying. I’m sure what you’re saying is true but I would need help doing it ur way. ",
+                                  "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld8l5in/",
+                                  "created": 1721013158,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "ld8h5ml",
+                      "score": 1,
+                      "body": "I don't know man, those levered inverse ETFs are designed to go to ZERO due to the roll costs, you can hold them for a few days weeks or god forbid months, but hold for years is suicide.  LEAPS naked or as verticals offer you a pure directional play, I'm not sure what the liquidity on XBI puts are but getting into LABD as a LONG TERM play is insanity. \n\nand I wouldn't draw any conclusions on XBI being range bound....and you could very well say that its breaking out.  I personally don't think you can draw any conclusion from its chart, and if you look at its action between 2018 to now its very clearly interest rate related.  It fell in late 2018 due to taper tantrem, it rose in 2021 due to stimulus and free money and fell in 2022 due to inflation and interest fears.  Its rising since 2024 due to hopes of rate cuts.  \n\nYou could say as the general economy falters, it very well could draw back, but thats not for certain at all. \n\nand your play of betting big bigger is just a martindale plan.....if your gonna yolo like that Options are far better pay out.   \nJust do your self a favor and realize that if your plan is to hold a inverse ETF for  years, that's insanity, plain and simple.  You might get luck and it shoot up over the next week, but your put options will go up even more for far less risk",
+                      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld8h5ml/",
+                      "created": 1721011413,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "ld8ionw",
+                          "score": 1,
+                          "body": "These are always weeks to months, you can’t hold leveraged unless RIGHT after a black swan. I do these melt-ins rarely, and usually with SMALL amounts of dough. It’s only burned me once or twice but those are 75% losses. This is something I do once a year, extremely risky so be mathematical AND only when it’s truly about to break. Tiny trades that double more than they bust, just like options. ",
+                          "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld8ionw/",
+                          "created": 1721012069,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "ld8k3im",
+                              "score": 1,
+                              "body": "Please also understand LABD is my only lil hedge on a bullish portfolio. ",
+                              "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld8k3im/",
+                              "created": 1721012680,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "ld8m3g5",
+                          "score": 1,
+                          "body": "I’ll bet on my XBI take every time. Only recent loss was early 2020, I follow small cap biotech like freakin Meg Tirrell lol. ",
+                          "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld8m3g5/",
+                          "created": 1721013584,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "ld996yb",
+                  "score": 1,
+                  "body": "So are you saying holding the next 6 months should be okay?",
+                  "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/ld996yb/",
+                  "created": 1721026332,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lda9bxm",
+                      "score": 1,
+                      "body": "what i’m saying is that theirs a lot of risk to that and in general options are a far better play for leverage directional trade for a fraction of the risk.  \n\nunlike long stock or index holding long term is not a good idea and obvious your looking for risk exposure. options are better for that, easily up hundreds to thousands of percent if ur right without losing a large portion of equities",
+                      "permalink": "/r/stocks/comments/1e34tip/what_are_the_downsides_of_holding_long_term_2x_or/lda9bxm/",
+                      "created": 1721048531,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1249 @@
+{
+  "title": "ChatGPT is going to get a lot Dumber. Training on Reddit content LOL.",
+  "score": 963,
+  "selftext": "",
+  "link_flair_text": "Discussion",
+  "id": "1ctoqen",
+  "num_comments": 140,
+  "created_utc": 1715895624,
+  "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/",
+  "url_overridden_by_dest": "https://www.cnbc.com/2024/05/16/reddit-soars-after-announcing-openai-deal-on-ai-training-models.html",
+  "comments": [
+    {
+      "id": "l4d8y98",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 3 | **First Seen In WSB** | 1 year ago\n**Total Comments** | 88 | **Previous Best DD** | \n**Account Age** | 1 year | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4d8y98/",
+      "created": 1715895628,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4daioa",
+      "score": 168,
+      "body": "Gemini, Grok, GPT-3+, whatever was already trained on Reddit data, which kinda makes the announcement funny since everyone's already been doing that. I guess it makes it official instead of unofficial.",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4daioa/",
+      "created": 1715896223,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l4eekfi",
+          "score": 69,
+          "body": "No, the reason Reddit shut down their API was because of this. Remember that whole fiasco where Reddit forced everyone to get rid of their third party apps like Reddit Is Fun? This is why. They wanted to gatekeep content so that companies like OpenAi couldn’t just train models using their data…. for free",
+          "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4eekfi/",
+          "created": 1715912888,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l4efa26",
+              "score": 30,
+              "body": "Yes and no, they didn't do it until last year so *all of* the data from 2005 - 2023 was already scrapped and used for training.  That's about 99% of the content already been consumed and hoovered up.  But yes, there's been some new content since 2023 but it's a drop in the bucket compared to past content.\n\nThe formal API is now shut down but you can still scrape it publicly, especially if you're now just frontfilling in the new data from 2023-onward. It's just a little bit more work and bandwidth, but still easy to do. Remember when OpenAI created transcription bots to scrape YouTube videos and transcribe them for training data, so they didn't have to pay Google for their official transaction API? Same thing\n\nBut anyways I think it's kinda moot since they already put a price on it: $60 million is a drop in the bucket for any corporation, like a rounding error. So anyone who wants it can pay what is basically couch pennies for it",
+              "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4efa26/",
+              "created": 1715913202,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l4eih8j",
+                  "score": 26,
+                  "body": "Half the data since they closed the API is probably from AI anyways so all the good data was given away from free. Now it's just going to be AI training on AI training on AI until it's completely inbred.",
+                  "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4eih8j/",
+                  "created": 1715914605,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l4elb2i",
+                      "score": 21,
+                      "body": "Lol yeah I didn't want to say it.\n\nIt's very funny to look at history and things like Low-background Steel became VERY valuable after the 50s. [https://en.wikipedia.org/wiki/Low-background\\_steel](https://en.wikipedia.org/wiki/Low-background_steel) because any steel produced after the atomic bomb was contaminated with just enough radiation to make it not function for sensitive applications. So it was rather highly sought after. I think we'll see the same thing where any pre-2022 data is considered VERY valuable because it hasn't been contaminated with digitally radioactive junk.",
+                      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4elb2i/",
+                      "created": 1715915923,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "l4g4vfg",
+                      "score": 3,
+                      "body": "When you say in inbreeding… in a wsb sub… I know we belong here.. this is home.  Ty for making my day\n\n🧑‍🌾 🚜 💨",
+                      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4g4vfg/",
+                      "created": 1715949865,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "l4gifuu",
+                      "score": 1,
+                      "body": "creat ai...generate ai content...then create an ai that detects ai generated content so that you ai can train on human content...then create ai that creates both of these because it's fucking so hard to do it. once we burn 100B dollars, wonder how did we all become so stupid.",
+                      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4gifuu/",
+                      "created": 1715955280,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "l4fcjub",
+                  "score": 2,
+                  "body": "I don't think they're using reddit for factual data.  It'll be more like:\n\"Why don't you visit these reddit communities where people are discussing this topic right now!\"",
+                  "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4fcjub/",
+                  "created": 1715932679,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l4gdgeh",
+                  "score": 2,
+                  "body": "Sure but they don't want their chatbot stuck in 2023 forever. Knowledge moves fast, especially for technology/programming info which is a heavy use case for ChatGPT.",
+                  "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4gdgeh/",
+                  "created": 1715953402,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l4emut8",
+              "score": 3,
+              "body": "Cali court has made it clear that they cannot pursue legal actions for data scraping, they can only try to build technological barrier which is a joke in front of other big corps like Microsoft.",
+              "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4emut8/",
+              "created": 1715916671,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l4efadx",
+              "score": 1,
+              "body": "Me reading this on my Reddit is Fun gold platinum vanced: oh yeah I always forget they killed this app",
+              "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4efadx/",
+              "created": 1715913206,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l4dkpj3",
+          "score": 2,
+          "body": "I know that google is paying 60M$ a year so OpenAI likely pays a similar amount. \n\nGood for the company.",
+          "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4dkpj3/",
+          "created": 1715900293,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l4efyul",
+              "score": 1,
+              "body": "And at $60 million, it is a steal.",
+              "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4efyul/",
+              "created": 1715913503,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l4eqi4m",
+                  "score": 1,
+                  "body": "Who's stealing from who?",
+                  "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4eqi4m/",
+                  "created": 1715918493,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l4dz21p",
+              "score": -3,
+              "body": "Why pay so much when you can just scrape the data?",
+              "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4dz21p/",
+              "created": 1715906317,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l4e9zog",
+                  "score": 8,
+                  "body": "Incredibly painstaking process with a decent chunk of websites making it difficult to scrape in large quantities.",
+                  "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4e9zog/",
+                  "created": 1715910921,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l4efc3b",
+                  "score": 4,
+                  "body": "it's very easy to block/throttle scrapers.",
+                  "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4efc3b/",
+                  "created": 1715913226,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l4e522q",
+          "score": -1,
+          "body": "This sub… look everyone using Reddit data already hahaha morons\n\nThis sub as well… Reddit has no path to monetization",
+          "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4e522q/",
+          "created": 1715908866,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l4dgvpc",
+      "score": 112,
+      "body": "That's worrying. The amount of stupidity on reddit is substantial",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4dgvpc/",
+      "created": 1715898736,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l4ecsc9",
+          "score": 38,
+          "body": "With the amount of AI generated content on reddit, it's just a huge AI centipede",
+          "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4ecsc9/",
+          "created": 1715912112,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l4g3mri",
+              "score": 2,
+              "body": "Every time 4c changes something on biz to fuk bots, the number of posts drops by 90%. I wouldn't be surprised by a similar rate on WSB or any other financial/political sub...",
+              "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4g3mri/",
+              "created": 1715949332,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l4gduf4",
+                  "score": 3,
+                  "body": "dead internet theory, you cant convince me that most comments and posts on reddit arent bots after \\~2012",
+                  "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4gduf4/",
+                  "created": 1715953552,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l4exu1f",
+          "score": 8,
+          "body": "Open AI already said that 30% of the ChatGPT foundational model was trained off old Reddit data.\n\nPlus, they're not just buying the content, they're buying how humans converse in different contexts and languages. You can't get that in library books or wikipedia pages.\n\nYou guys are so focused on this point (\"reddit people say dumb stuff\") that you're missing one of the easiest ways to make money in years.\n\nSam Altman owns more RDDT than Steve Huffman (the CEO of Reddit), and he is not going to let Reddit flounder and sit around not get good business development deals and partnerships. He's the SV kingmaker right now. Just google him and see all the headlines. He's calling the shots.\n\nInstead of sitting here and laughing about how dumb the content YOU see on Reddit is (change your subs) you should be watching the moves Sam Altman is making and start moving with him, IMO.",
+          "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4exu1f/",
+          "created": 1715922614,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l4g9csc",
+              "score": 4,
+              "body": "I know Reddit seems like a stupid site, but it depends the subs you’re on. Data from r/shitposting is useless because nobody puts any effort into the post. The rest of Reddit however… think of r/theydidthemath. People do all this stuff for randos on the internet, and it’s *exactly* what AI needs.",
+              "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4g9csc/",
+              "created": 1715951769,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l4ew3qe",
+          "score": 3,
+          "body": "How good is ChatGPT at detecting sarcasm?",
+          "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4ew3qe/",
+          "created": 1715921603,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l4gdyed",
+              "score": 3,
+              "body": "it'll probably be really good at it if you add a /s to the end of it",
+              "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4gdyed/",
+              "created": 1715953595,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l4gfafw",
+                  "score": 1,
+                  "body": "It’s not AI if it relies on an if statement to determine something.",
+                  "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4gfafw/",
+                  "created": 1715954108,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l4gq82c",
+                      "score": 1,
+                      "body": "OK cool",
+                      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4gq82c/",
+                      "created": 1715958053,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "l4i32dq",
+              "score": 2,
+              "body": "Oh so, so, good. Incredible, best sarcasm detector, don't try to fool it.",
+              "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4i32dq/",
+              "created": 1715975194,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l4ek9kn",
+          "score": 1,
+          "body": "But as long as you tell it that first... it can become smart right?",
+          "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4ek9kn/",
+          "created": 1715915425,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l4epcwt",
+          "score": 1,
+          "body": "bazinga!",
+          "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4epcwt/",
+          "created": 1715917903,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l4g3jlm",
+          "score": 1,
+          "body": "Every time 4cahn changes something on /biz/ to fuk the bots, the number of posts drops by 90%. I wouldn't be surprised by a similar rate on WSB or any other financial/political sub...",
+          "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4g3jlm/",
+          "created": 1715949296,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l4f5p2t",
+          "score": 1,
+          "body": "ChatGPT’s new persona has pinkish blue hair with 5 nose rings ![img](emote|t5_2th52|4271)",
+          "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4f5p2t/",
+          "created": 1715927672,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l4fab4w",
+              "score": 1,
+              "body": "Sounds like the counter girl working at corporate UPS, in my town.",
+              "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4fab4w/",
+              "created": 1715930962,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l4dmcc4",
+      "score": 42,
+      "body": "Chat GPT keeps calling me highly regarded, how does it know I am so smart?",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4dmcc4/",
+      "created": 1715900966,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l4ewpbi",
+          "score": 5,
+          "body": "I ask chat gpt which calls to buy",
+          "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4ewpbi/",
+          "created": 1715921949,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l4iab12",
+          "score": 2,
+          "body": "How do you regard the regarded shit it's regarding?",
+          "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4iab12/",
+          "created": 1715977807,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l4dfas2",
+      "score": 59,
+      "body": "Especially when it starts casually using phrases like “Username checks out, fu#$ed around and found out, their shoes stayed on so they survived, etc”. Lol",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4dfas2/",
+      "created": 1715898102,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l4drhoq",
+          "score": 29,
+          "body": "Squeeze deez nutz, fuckin nerd",
+          "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4drhoq/",
+          "created": 1715903122,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l4dsxdu",
+          "score": 14,
+          "body": "Train a model just off of wallstreetbets comments\n\nNow that would be a funny model",
+          "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4dsxdu/",
+          "created": 1715903725,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l4e70g8",
+              "score": 4,
+              "body": "Incoming AI fiduciary trained using WSB posts/comments. OpenApe’s GPT-re",
+              "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4e70g8/",
+              "created": 1715909685,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l4eup3u",
+                  "score": 3,
+                  "body": "Will be the first AI to k*ll itself after losing its life savings in the stock market",
+                  "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4eup3u/",
+                  "created": 1715920805,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l4fc16r",
+              "score": 3,
+              "body": "It's a thing. \n\n\nhttps://huggingface.co/Sentdex/WSB-GPT-13B\n\n\nThis one is wsb only. \n\n\nhttps://huggingface.co/adamo1139/Yi-34B-200K-HESOYAM-0905\n\n\nThis one is mine and like 20% of it's dataset is wsb, the rest is other subreddits, /x/ and rp",
+              "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4fc16r/",
+              "created": 1715932281,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l4fo063",
+              "score": 2,
+              "body": "\"Hey ChatGPT give me notifications that inverse wsb sentiment.\"... infinite profit inbound.",
+              "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4fo063/",
+              "created": 1715941189,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l4eb255",
+          "score": 4,
+          "body": "I just made this point on the llm subreddit and got downvoted lol /r/hardtoswallowpill",
+          "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4eb255/",
+          "created": 1715911374,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l4dk747",
+          "score": 3,
+          "body": "🤣🤣🤣🤣🚀",
+          "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4dk747/",
+          "created": 1715900085,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l4ekgic",
+          "score": 3,
+          "body": "\"This guy gets it\"",
+          "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4ekgic/",
+          "created": 1715915517,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l4faqeo",
+          "score": 3,
+          "body": "Here us one from a few days back.\n\ncomment reply[Elon Musk Lays Off Tesla Workers For The Fourth Week In A Row](https://www.reddit.com/r/wallstreetbets/comments/1cmigkm/elon_musk_lays_off_tesla_workers_for_the_fourth/)\n\n\n\nfrom [VisualMod](https://www.reddit.com/user/VisualMod) via [](https://www.reddit.com/r/wallstreetbets) sent 9 days ago\n\n\n\nIf that is anything like [](https://www.reddit.com/r/Atlanta) , gonna be pdd whppd dbbggs.\n\n[View Parent Comment](https://www.reddit.com/r/wallstreetbets/comments/1cmigkm/elon_musk_lays_off_tesla_workers_for_the_fourth/l32jlkv/?context=3)\n\nPerhaps they meant 'peddled' as in to sell, 'wobbled' as in to shake, and 'bedbugs' as in the insect. That seems to make the most sense for the statement.",
+          "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4faqeo/",
+          "created": 1715931281,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l4fbh4m",
+              "score": 1,
+              "body": "I’d go with paid, whipped douchebags.",
+              "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4fbh4m/",
+              "created": 1715931848,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l4e3nog",
+          "score": 1,
+          "body": "Bazinga ![img](emote|t5_2th52|27189)",
+          "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4e3nog/",
+          "created": 1715908274,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l4fatgo",
+          "score": 1,
+          "body": "I cucked Visualmod.",
+          "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4fatgo/",
+          "created": 1715931346,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l4et1p8",
+      "score": 12,
+      "body": "Hi chatgpt, how do you trade stocks?\n\n- STOCKS ONLY GO UP, BITCH!\n\nwhat do you mean?\n\n- Papa Jpows money printer go Brrrrrr",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4et1p8/",
+      "created": 1715919874,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4db50f",
+      "score": 14,
+      "body": "If reddit was a person which these bots may want to emulate\n\nThey'll dump their partner over the slightest thing, far left leaning politically, molested in their youth, either morbidly obese or highly attractive and pretend not to know  live with their parents or earn over 100k, or live in. A studio or a 7 bedroom house.\n\nThey'll have a cat called brick or pebble an only fans page be pan sexual in a polyanorous relationship divorced twice.\n\nAnd they'll wonder if their tinder profile is OK. Have multiple mental health illnesses. \n\nThat's basically all the posts and types of people on reddit.\n\nBut they'll seem like a real person and it seems we need emotionally unstable AI because there isn't enough of us.",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4db50f/",
+      "created": 1715896460,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l4ddoql",
+          "score": 3,
+          "body": "Wen Lambo?",
+          "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4ddoql/",
+          "created": 1715897457,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l4drn84",
+          "score": 2,
+          "body": "There’s trump nutswingers here too",
+          "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4drn84/",
+          "created": 1715903187,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l4dl2ik",
+          "score": 0,
+          "body": "It should make an investing ai based on wsb and then inverse it... it will be printing money RDDT should be trading at 4k a share",
+          "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4dl2ik/",
+          "created": 1715900441,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l4dpeya",
+      "score": 5,
+      "body": "Can't wait to see someone turn ChatGPT trading bot loose with WSB guidance",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4dpeya/",
+      "created": 1715902247,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4dmaal",
+      "score": 22,
+      "body": "I was just telling my coworkers yesterday that I wish chatGPT thought it was a 350 lb unemployed marxist trans woman with a philosophy degree, who thinks she has the whole world figured out based on her 35 years of existing in a basement, providing nothing to society, and complaining about absolutely everything. They finally did it",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4dmaal/",
+      "created": 1715900942,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4dppve",
+      "score": 4,
+      "body": "omg! chatgpt is gonna be highly regarded after that training.\n\non the up side, that's gonna set back chatgpt from becoming skynet.\n\non the down side, that's eventually gonna be the reason chatgpt will want to send nukes across the erfs surface.",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4dppve/",
+      "created": 1715902378,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4eeez2",
+      "score": 6,
+      "body": "It’s going to be more far left than it already is.",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4eeez2/",
+      "created": 1715912822,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l4ill3v",
+          "score": 1,
+          "body": "\"Far left\"",
+          "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4ill3v/",
+          "created": 1715982079,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l4dsy50",
+      "score": 3,
+      "body": "Everyone here is regarded as cuck. Did you hear that OpenAI?",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4dsy50/",
+      "created": 1715903733,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4dxb60",
+      "score": 3,
+      "body": "Every answer on ChatGPT from now on will be regarded.",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4dxb60/",
+      "created": 1715905577,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4e06u7",
+      "score": 3,
+      "body": "Great now it’s going to think the world is ending tomorrow.",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4e06u7/",
+      "created": 1715906800,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l4ekqh3",
+          "score": 2,
+          "body": "It'll fall into depression and apathy from reading the collapse sub.",
+          "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4ekqh3/",
+          "created": 1715915648,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l4e6dft",
+      "score": 3,
+      "body": "Amount of people in this thread who hasn't applied for job at openAI is mind blowing. What are you guys doing with all the wisdom that OpenAI team doesn't have.",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4e6dft/",
+      "created": 1715909417,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l4ebfwh",
+          "score": 2,
+          "body": "Probably training own models that are actually gonna beat chatgpt in a short while…",
+          "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4ebfwh/",
+          "created": 1715911537,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l4f8hg9",
+              "score": 1,
+              "body": "As long as they pay the $60 million then maybe they can compete.",
+              "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4f8hg9/",
+              "created": 1715929626,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l4ft7ej",
+                  "score": 1,
+                  "body": "So a value of an average house in Boca? Lol",
+                  "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4ft7ej/",
+                  "created": 1715944373,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l4dglpm",
+      "score": 10,
+      "body": "If it trains off of this sub then yes… but there is some seriously high quality subs here about many different topics. Some subs host material better than anywhere else on the internet.",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4dglpm/",
+      "created": 1715898624,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l4e0gvm",
+          "score": 3,
+          "body": "Ehh I beg to differ.",
+          "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4e0gvm/",
+          "created": 1715906921,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l4dh6yu",
+          "score": 3,
+          "body": "True. But the same can't be said on the other end of the spectrum. You can find the most stupid things ever said on reddit. I'd argue there's more of that than what you're referring to.",
+          "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4dh6yu/",
+          "created": 1715898863,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l4febqn",
+              "score": 0,
+              "body": "I’m assuming AI scientists understand how to filter data",
+              "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4febqn/",
+              "created": 1715934049,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l4dxiaj",
+      "score": 2,
+      "body": "Chat GPT is about to become a foul mouthed porn addict.",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4dxiaj/",
+      "created": 1715905660,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4e4b4l",
+      "score": 2,
+      "body": "ChatGPT gonna end up everyone at Wendys",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4e4b4l/",
+      "created": 1715908553,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4daiul",
+      "score": 1,
+      "body": "[removed]",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4daiul/",
+      "created": 1715896225,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l4daix2",
+          "score": 2,
+          "body": "Stop with the microcaps. Read the posting guidelines.  There's subs for pennystocks and low market caps - go there.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",
+          "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4daix2/",
+          "created": 1715896225,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l4donw3",
+      "score": 1,
+      "body": "It’ll get smarter by training the bot to realize all the false and dumb shit said here is what it should steer clear from",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4donw3/",
+      "created": 1715901933,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4dts6v",
+      "score": 1,
+      "body": "You funny and correct![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4267)",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4dts6v/",
+      "created": 1715904085,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4dul6l",
+      "score": 1,
+      "body": "Soooo chat gpt is just going to have all our data? 🧐",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4dul6l/",
+      "created": 1715904431,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4e3582",
+      "score": 1,
+      "body": "Chuckle, as I’ve been saying.",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4e3582/",
+      "created": 1715908061,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4e4oy1",
+      "score": 1,
+      "body": "\"What can I do you for M'Lady?\"",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4e4oy1/",
+      "created": 1715908714,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4e4pqe",
+      "score": 1,
+      "body": "Hey. GPT. I hear you are learning from our post.  In this case.  Start to learn to clean my toilet.  🚽",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4e4pqe/",
+      "created": 1715908723,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4e5atn",
+      "score": 1,
+      "body": "ChatGPT, if you’re reading this - you too are a true regard now. One of us!",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4e5atn/",
+      "created": 1715908968,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4e7o92",
+      "score": 1,
+      "body": ">Reddit shares surged 11% in extended trading on Thursday after the social media company announced a partnership with OpenAI that will allow the ChatGPT maker to train its artificial intelligence models on Reddit content.\n\nI don't feel sure about the future of AI.",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4e7o92/",
+      "created": 1715909963,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4ebczv",
+      "score": 1,
+      "body": "It already learnt it REGard, no seriously REG - regency centers, stock only goes up, you can thank me later",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4ebczv/",
+      "created": 1715911502,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4edt28",
+      "score": 1,
+      "body": "Nice I’ll want to get mental help from the AI and it will just reply “LMAO, FAFO, fuck your Puts! Reverse Cramer, Sheesh!",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4edt28/",
+      "created": 1715912555,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4efolx",
+      "score": 1,
+      "body": "It’s going to be same to post like us!!! It’s going to made us all sheep",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4efolx/",
+      "created": 1715913378,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4ei3zv",
+      "score": 1,
+      "body": "Why? Seeing how Reddit users tend to be wrong about most things.",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4ei3zv/",
+      "created": 1715914441,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4el20z",
+      "score": 1,
+      "body": "Damn op. I bet they didnt even think of that. Theres no possible way to filter out comments that dont contribute in a meaningful way to the model, no way at all. Ai is fuck.",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4el20z/",
+      "created": 1715915802,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4ellgj",
+      "score": 1,
+      "body": "That’s why it’s priced accordingly! Sour mangoes for  half price, Dumb data for pennies",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4ellgj/",
+      "created": 1715916062,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4elobj",
+      "score": 1,
+      "body": "How much of that money do the reddit users get ?",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4elobj/",
+      "created": 1715916100,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4enf4l",
+      "score": 1,
+      "body": "We all know Reddit is the most reliable source of intelligence",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4enf4l/",
+      "created": 1715916936,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4enrtx",
+      "score": 1,
+      "body": "“Trump bad! me autoban you if you disagree”",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4enrtx/",
+      "created": 1715917111,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4epbxe",
+      "score": 1,
+      "body": "Bazinga!",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4epbxe/",
+      "created": 1715917888,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4erctd",
+      "score": 1,
+      "body": "I’m doing my fart",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4erctd/",
+      "created": 1715918946,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4ewka7",
+      "score": 1,
+      "body": "Stupid science bitches couldn’t even make I more smarter",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4ewka7/",
+      "created": 1715921869,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4f2ceq",
+      "score": 1,
+      "body": "I thought it was obvious when they went IPO, that this is literally the best way for Reddit to make money.\n\n\nOpen secret.",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4f2ceq/",
+      "created": 1715925422,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4fixar",
+      "score": 1,
+      "body": "I am an analyst and I needed the NAICS Code for one of my clients' business, and chatgbt fuking gave me the wrong code. It was bamboozled.",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4fixar/",
+      "created": 1715937571,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4fj25m",
+      "score": 1,
+      "body": "Reddit is the best site if you want to train an ai to speak like a person. What else is there? Articles on blogs and news? They have a different tone, more formal. Plus Reddit has a lot of back and forth discussions.",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4fj25m/",
+      "created": 1715937673,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4fkfvl",
+      "score": 1,
+      "body": "ChatGPTard version 😁",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4fkfvl/",
+      "created": 1715938722,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4frquy",
+      "score": 1,
+      "body": "This is equivalent to that episode of Silicon Valley when they make an app for food pics and are flooded with dick pics instead.",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4frquy/",
+      "created": 1715943529,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4fs9ox",
+      "score": 1,
+      "body": "It can detect logical fallacies better than people can.  It won't make it dumber.",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4fs9ox/",
+      "created": 1715943836,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4ftnmi",
+      "score": 1,
+      "body": "[removed]",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4ftnmi/",
+      "created": 1715944623,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l4ftoj5",
+          "score": 1,
+          "body": "No comment.",
+          "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4ftoj5/",
+          "created": 1715944637,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l4fuwdk",
+      "score": 1,
+      "body": "To be fair you can train gtp models with any kind of target function. Perhaps you can teach it to just think the opposite a normal reddit or says.",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4fuwdk/",
+      "created": 1715945285,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l4fuxic",
+          "score": 1,
+          "body": "A brilliant thought, why help the poor when you can make them poorer?",
+          "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4fuxic/",
+          "created": 1715945301,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l4fwm2c",
+          "score": 1,
+          "body": "What if 70% of the content is usable and 30% is questionable?",
+          "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4fwm2c/",
+          "created": 1715946151,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l4gcbbd",
+              "score": 1,
+              "body": "I mean in wsb it should be able to write some heuristics. If the user ever wrote that he bought 0 say options you know its an idiot and you use it for counter training.",
+              "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4gcbbd/",
+              "created": 1715952953,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l4gfjho",
+      "score": 1,
+      "body": "The trading version of ChatGPT certainly ....    \nRegard-AI",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4gfjho/",
+      "created": 1715954203,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4ggie5",
+      "score": 1,
+      "body": "I think they're saying u/visualmod is dumb.",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4ggie5/",
+      "created": 1715954563,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l4gkg3t",
+          "score": 1,
+          "body": "No I give Visualmod the highest regard",
+          "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4gkg3t/",
+          "created": 1715956005,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l4gkrce",
+      "score": 1,
+      "body": "Will Chatgpt be able to decipher words like - regard, corn and other crap from wsb?",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4gkrce/",
+      "created": 1715956117,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4gtikr",
+      "score": 1,
+      "body": "More  regarded",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4gtikr/",
+      "created": 1715959208,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4gzpr3",
+      "score": 1,
+      "body": "I know I'm doing my part",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4gzpr3/",
+      "created": 1715961336,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4h1173",
+      "score": 1,
+      "body": "It will become highly regarded.",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4h1173/",
+      "created": 1715961789,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4hd608",
+      "score": 1,
+      "body": "Strong disagree. Reddit is filled with pithey wise elders and access to additional details about user behavior will help unlock UI/UX insights. There is a lot of data gathered--eye tracking, mouse position, page scroll, reading rates, engagement metrics, etc.",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4hd608/",
+      "created": 1715966040,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4hf165",
+      "score": 1,
+      "body": "ChatGPT will sound like VisualMod.\nInput: Hello ChatGPT can you write me an email to my boss explaining that the project is delayed and we will need additional resources?\nChatGPT: Certainly \nDear Succubus,\nThis DD is bad we need mo peasants.\nSincerely Head Peasant ",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4hf165/",
+      "created": 1715966691,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4i21nu",
+      "score": 1,
+      "body": "Gpt was trained on Reddit data already. This site is pretty dumb, but it formulates coherent sentences which is the primary data that OpenAI is after.",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4i21nu/",
+      "created": 1715974823,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4i2wp0",
+      "score": 1,
+      "body": "I thought we were already generating content with ChatGPT, isn't this just inbreeding?",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4i2wp0/",
+      "created": 1715975137,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4in89h",
+      "score": 1,
+      "body": "Lemming is about to become a reasonable lifestyle.",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4in89h/",
+      "created": 1715982730,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4n8nsq",
+      "score": 1,
+      "body": "Oh great. It’s going to embrace mental illness as the norm. \n\n“You’re depressed? Have you considered mutilating yourself or dating a child?”  \n\nTo the mods. This is a joke. Reddit is a safe place for all mentally ill individuals. Please don’t ban me.",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4n8nsq/",
+      "created": 1716063380,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4evnk1",
+      "score": 0,
+      "body": "When everyone is pushing for agents, recent knowledge of the world matters, and Reddit is the only place where these companies will get fifty shades of the same conversation. Just take this thread—how many shades are you seeing? I am sure the volume of conversations on Reddit in the last two years is much more valuable than in the first 10-15 years of Reddit. So, yeah, if these companies want to make their agents human-like, they need Reddit data.",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4evnk1/",
+      "created": 1715921350,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4gorpf",
+      "score": 0,
+      "body": "I'm honestly really confused on why RDDT had such a move on this. This has been in the pipeline and common knowledge for a minute. \n\nPeople fucking buying the news...",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4gorpf/",
+      "created": 1715957546,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l4gq0oj",
+          "score": 2,
+          "body": "ok? dont buy it, it will be 80 before end of year",
+          "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4gq0oj/",
+          "created": 1715957981,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l4h12qx",
+              "score": 0,
+              "body": "What a stupid fucking reply.\n\nI don't usually react so harshly but damn that was ignorant.\n\n\"Hm. I'm curious what made this news that's been known for months now suddenly cause a spike\"\n\n\"oK? HurR DonT bUy It ThEn\"",
+              "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4h12qx/",
+              "created": 1715961804,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l4drgp1",
+      "score": -2,
+      "body": "Doubtful since they are programmed and have a human in the loop process to guarantee ethics and moral and non biase data sets. Ai will learn the difference in language usage, slang terms . It'll grow",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4drgp1/",
+      "created": 1715903110,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l4e46rc",
+          "score": 2,
+          "body": "Soo, what does that mean? A human is reviewing exactly every word and sentence that's fed into the LLM? Aside from how much human time that would take, every human has a different understanding of the things that you mentioned. Good luck hiring a team of humans that will moderate with completely equal views of ethics, morals, and biases.",
+          "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4e46rc/",
+          "created": 1715908500,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l4e4l2u",
+              "score": 1,
+              "body": "Somethin like that until ai is programmed and understand more. I imagine there will be smaller groups monitoring other version etc.  There's always going to be a human somewhere monitoring and updating and providing feed back to make sure a I follows certain parameters",
+              "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4e4l2u/",
+              "created": 1715908669,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l4e4vog",
+                  "score": 1,
+                  "body": "It's highly doubtful that everything that input into it has been human reviewed.",
+                  "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4e4vog/",
+                  "created": 1715908792,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l4e65qi",
+                      "score": 1,
+                      "body": "Indeed even if it was there's human error as well. \" organic\" moderation and structuring meaning updates are constant and always adapting. Is difficult... now ... in 10 years tho who knows how much a I will advance",
+                      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4e65qi/",
+                      "created": 1715909326,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l4t0fra",
+      "score": 1,
+      "body": "As long as WSB is included, results will be highly regarded",
+      "permalink": "/r/wallstreetbets/comments/1ctoqen/chatgpt_is_going_to_get_a_lot_dumber_training_on/l4t0fra/",
+      "created": 1716162559,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

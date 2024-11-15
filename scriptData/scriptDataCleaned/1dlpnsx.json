@@ -1,0 +1,290 @@
+{
+  "title": "VIX based FXAIX investment strategy, what am I doing wrong?",
+  "score": 26,
+  "selftext": "So I just excel'd a very basic hypothetical investment strategy based on these rules:\n\n- VIX < 20 : buy ~~FXAIX~~ VOO\n- 20 < VIX < 30 : sell ~~FXAIX~~ VOO\n- 30 < VIX < 50 : buy ~~FXAIX~~ VOO and ride it whatever direction until VIX < 20\n- 50 < VIX : sell ~~FXAIX~~ VOO and wait until VIX < 50, then buy and ride down until VIX < 20\n\nIf these rules were followed since November 1, 2019 the performance would look like this: https://imgur.com/5XXjJie\n\nIt doesnt avoid every downturn but it avoids enough to vastly outperform the market.\n\nI'm obviously an idiot and there are no free money glitches. What did I do wrong?\n\n---\n\nI had to wait til my wife woke up since she's better at excel than me.\n\nWe ran the calculations all the way back to 2004 (largest dataset I could download easily) changed the VIX thresholds from 20,30,50 to 20,30,46. These new thresholds seem to create the best results after toying with the numbers up and down. I even added \"action\" to the graph in green to show where the strategy makes it's best gains over SPY. Lemme know your thoughts. \n\nI can't figure out how to upload the sheet but here is another screencap: https://imgur.com/f5Anrls\n\n---\n\nEdit 2: 1993-2024: https://imgur.com/dQclBJ7\n\nExpanding to 1993-2024 the optimal thresholds change to 20,33,46. These thresholds are definitely worse if used for 2004-2024. No loss just not as much gain.\n\nIt seems different eras have slightly different optimal numbers. I wonder if a set of thresholds could be generated for every year to see trends.",
+  "link_flair_text": "Discussion",
+  "id": "1dlpnsx",
+  "num_comments": 31,
+  "created_utc": 1719039178,
+  "permalink": "/r/wallstreetbets/comments/1dlpnsx/vix_based_fxaix_investment_strategy_what_am_i/",
+  "comments": [
+    {
+      "id": "l9qcp8q",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 1 | **First Seen In WSB** | 2 weeks ago\n**Total Comments** | 8 | **Previous Best DD** | \n**Account Age** | 1 year | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1dlpnsx/vix_based_fxaix_investment_strategy_what_am_i/l9qcp8q/",
+      "created": 1719039183,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9smrt8",
+      "score": 7,
+      "body": "The first thing you are doing wrong is posting this here.  This is more like the place you would want if you are trying to figure out how to maximize your income from giving blow jobs behind the Wendys dumpster.\n\nThe second thing you are doing wrong is only using 5 years of data.  The third thing you are doing wrong is testing only the returns from starting at a single entry point.  You want to figure out specifically where your divergence is coming from.  You are also doing a bunch more things wrong that I don't know about, because like I said before, sir, this is a Wendys.",
+      "permalink": "/r/wallstreetbets/comments/1dlpnsx/vix_based_fxaix_investment_strategy_what_am_i/l9smrt8/",
+      "created": 1719080407,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9sus9d",
+          "score": 2,
+          "body": "I had to wait til my wife woke up since she's better at excel than me.\n\nWe ran the calculations all the way back to 2004 (largest dataset I could download easily) changed the VIX thresholds from 20,30,50 to 20,30,46. These new thresholds seem to create the best results after toying with the numbers up and down. I even added \"action\" to the graph in green to show where the strategy makes it's best gains over SPY. Lemme know your thoughts. \n\nI can't figure out how to upload the sheet but here is another screencap: https://imgur.com/f5Anrls",
+          "permalink": "/r/wallstreetbets/comments/1dlpnsx/vix_based_fxaix_investment_strategy_what_am_i/l9sus9d/",
+          "created": 1719083458,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9szow9",
+              "score": 5,
+              "body": "This looks interesting.  One thing you will need to account for is that these trades in and out are taxable.  So you should adjust for that vs a buy and hold strategy (also note short term vs long term gins).  Another thing to do is to run this same strategy on the data but for a start date of each year from 2004 to today.  That will let you know if you are taking any Ls in there.  It's hard to see where the actual divergences are happening with this chart.  Also when you say \"sell VOO\" do you mean take a short position, or just unload what you have and go to cash?",
+              "permalink": "/r/wallstreetbets/comments/1dlpnsx/vix_based_fxaix_investment_strategy_what_am_i/l9szow9/",
+              "created": 1719085354,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l9t0lxm",
+                  "score": 1,
+                  "body": "Yeah I was only thinking of doing this in an IRA to avoid the taxes.\n\nBy sell VOO I mean unload to cash. I'm not familiar with shorting yet\n\nI will try to see if there are any off years with this strat. Thanks for that recommendation.",
+                  "permalink": "/r/wallstreetbets/comments/1dlpnsx/vix_based_fxaix_investment_strategy_what_am_i/l9t0lxm/",
+                  "created": 1719085710,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l9t1cl3",
+                      "score": 1,
+                      "body": "Also, are you using daily closing prices only?  Because if you are this analysis may have problems.  e.g. if the vix spikes past 20 and you are going to sell the next day, you need to make sure to use the opening price the next day and not just the closing price the day the vix hit 20.  This is especially problematic because when VIX is high is when you tend to get large gaps up or down overnight.",
+                      "permalink": "/r/wallstreetbets/comments/1dlpnsx/vix_based_fxaix_investment_strategy_what_am_i/l9t1cl3/",
+                      "created": 1719085997,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l9t2gbx",
+                          "score": 1,
+                          "body": "This sheet uses VIX closing price from previous day and SPY open price next day.  Basically the practical way of applying this strat is to check what VIX closed at daily and put a buy/sell order in for the morning's open.",
+                          "permalink": "/r/wallstreetbets/comments/1dlpnsx/vix_based_fxaix_investment_strategy_what_am_i/l9t2gbx/",
+                          "created": 1719086416,
+                          "depth": 5,
+                          "replies": []
+                        },
+                        {
+                          "id": "l9us94w",
+                          "score": 1,
+                          "body": "1993-2024: https://imgur.com/dQclBJ7\n\nExpanding to 1993-2024 the optimal thresholds change to 20,33,46. These thresholds are definitely worse if used for 2004-2024. No loss just not as much gain.\n\nIt seems different eras have slightly different optimal numbers. I wonder if a set of thresholds could be generated for every year to see trends.",
+                          "permalink": "/r/wallstreetbets/comments/1dlpnsx/vix_based_fxaix_investment_strategy_what_am_i/l9us94w/",
+                          "created": 1719112729,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l9qivn5",
+      "score": 3,
+      "body": "Why do you buy when VIX is low (< 20) and then higher (30 < VIX < 50)? Low VIX means going (mostly) up; shouldn't you wait for higher VIX to get a discount?\n\nAnd why sell when VIX > 50 — doesn't it mean high volatility, so likely something unpredictable happened (like a war), so SP500 is falling? Shouldn't you buy at the bottom instead of selling at it?\n\nBtw. VIX has hit 50 only two times in the last 20 years: in 2008 and 2020 (so during crashes). I wouldn't sell at those points. And the 50 seems like an arbitrary threshold (unless it was supposed to be some kind of black swan protection, but then why sell at it?); it's hard enough to get it to 30 without some major macro event happening.\n\nDidn't you mistake SVIX for VIX?",
+      "permalink": "/r/wallstreetbets/comments/1dlpnsx/vix_based_fxaix_investment_strategy_what_am_i/l9qivn5/",
+      "created": 1719043596,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9qjxn2",
+          "score": 2,
+          "body": "The 20, 30, 50 thresholds are pretty arbitrary based on eyeballing a graph of VIX vs SPY. They can probably be optimized with some basic calculus tho. \n\nBut yeah you pretty much understand what I'm going for. Avoid choppy waters but try to take advantage of moderate discounts. Not getting too greedy. I initially did it without the black swan protection and the strategy performs only slightly worse.\n\nEdit: now that I think of it some more it might actually make more sense to base the purchase and sale on the slope of the VIX curve rather than just the closing value from the day before.",
+          "permalink": "/r/wallstreetbets/comments/1dlpnsx/vix_based_fxaix_investment_strategy_what_am_i/l9qjxn2/",
+          "created": 1719044368,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9qlo2c",
+              "score": 2,
+              "body": "What if you include like last 50 years instead of just the 5? It could be that the particular period you chose isn't statistically relevant and future results will differ\n\nBtw. did you somehow automatically get the VIX/VOO values into the spreadsheet or did you have to type them all individually by hand?\n\nAnd can you answer why do you sell when VIX is so high (meaning: possibly low SP500 and going lower)? I'd think you should hold then, and buy more when VIX is going lower (meaning: an SP500 bottom may be forming)\n\nIt would be nice if you also shared the spreadsheet (especially the formula you use to plot the graph)",
+              "permalink": "/r/wallstreetbets/comments/1dlpnsx/vix_based_fxaix_investment_strategy_what_am_i/l9qlo2c/",
+              "created": 1719045650,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l9rbiiz",
+                  "score": 3,
+                  "body": "I downloaded the data off Yahoo but did the math manually. 2am excel lol.\n\nLike you said I sell when the VIX is super high as black swan event protection. At least for COVID it works at somewhat timing the bottom. Maybe a slope calculation is better at truly timing the bottom but like you said this doesn't happen often enough to be reliable. I'd have to try it for 2008 and see if it works the same. \n\nOnce I figure out how to properly script this I'll make sure to share it.\n\nEdit: it seems to work even better for 2008!",
+                  "permalink": "/r/wallstreetbets/comments/1dlpnsx/vix_based_fxaix_investment_strategy_what_am_i/l9rbiiz/",
+                  "created": 1719061897,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l9rg3q1",
+                      "score": 1,
+                      "body": "It seems like the general divergence stems from the big drop at the beginning (COVID in 2020).\n\nApart from the drops both charts seem to be more or less the same (just offset by a factor)\n\nWhat would be your position sizes (i.e. going all in all the time, or buying/selling just a percentage of your total balance — maybe again depending on the value of VIX?)?\n\nI think figuring out your position size could make your strategy's return chart diverge even more (assuming you'd find the correct values for position size; otherwise it could converge, so the returns would be worse), and it wouldn't resemble the original chart (SPY/VOO etc.) as much anymore\n\nYour strategy seems to be very good at timing the bottom (which is very important). Due to the fact that the charts are so similar (offset by a factor if you look at certain parts; especially between drops), returns from your chart seem to be very similar to buying at the bottom and selling at the top (which you could also more or less do, since you can time the bottom pretty well), but again it depends on the size or your positions.\n\nIn conclusion — it seems to be pretty much the original chart *if it wasn't for bigger drops/crashes* (in that case you could buy at the bottom and sell at the top). So it appears to have very similar returns if you can time the bottom during a crash; without a crash, the charts seem to almost coincide (or maybe it's not the case? We'd need to see a straight bull run chart as well to verify that)\n\nBut you may be on to something, so definitely work on it. I'd be interested in seeing your results and the spreadsheet",
+                      "permalink": "/r/wallstreetbets/comments/1dlpnsx/vix_based_fxaix_investment_strategy_what_am_i/l9rg3q1/",
+                      "created": 1719063982,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l9rjcrw",
+                          "score": 1,
+                          "body": "COVID was a nice bump but I actually think this strat makes most of its gains during the interest rate hike of 2021-2022 (especially October 2021, April 2022, September 2022). There was a lot of volatility that seemed like unnecessary fear at that time.\n\nPosition size would be like 20k in a Roth. This strat would triple my money vs just double it leaving it in the index all the time. \n\nI'll dial it in and send it to you once I figure it out.",
+                          "permalink": "/r/wallstreetbets/comments/1dlpnsx/vix_based_fxaix_investment_strategy_what_am_i/l9rjcrw/",
+                          "created": 1719065360,
+                          "depth": 5,
+                          "replies": []
+                        },
+                        {
+                          "id": "l9svshe",
+                          "score": 1,
+                          "body": "I had to wait til my wife woke up since she's better at excel than me.\n\nWe ran the calculations all the way back to 2004 (largest dataset I could download easily) changed the VIX thresholds from 20,30,50 to 20,30,46. These new thresholds seem to create the best results after toying with the numbers up and down. I even added \"action\" to the graph in green to show where the strategy makes it's best gains over SPY. Lemme know your thoughts. \n\nI can't figure out how to upload the sheet but here is another screencap: https://imgur.com/f5Anrls",
+                          "permalink": "/r/wallstreetbets/comments/1dlpnsx/vix_based_fxaix_investment_strategy_what_am_i/l9svshe/",
+                          "created": 1719083849,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l9t633o",
+                              "score": 1,
+                              "body": "It looks good. You should definitely try to backtest it. I tried to do it using TradingVjew's pine editor (it's free and advanced yet relatively simple to use) but the ChatGPT generated script appears to be totally wrong (i.e. it can be run — so the syntax is correct — but the results are incorrect)\n\nAs for uploading the spreadsheet you could upload it to e.g. Dropbox or Google drive first and the send the link.\n\nI'll DM you the pine script. Maybe you'll fix it somehow\n\nEdit: can't DM you, maybe you block messaging",
+                              "permalink": "/r/wallstreetbets/comments/1dlpnsx/vix_based_fxaix_investment_strategy_what_am_i/l9t633o/",
+                              "created": 1719087809,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l9usaf7",
+                                  "score": 2,
+                                  "body": "1993-2024: https://imgur.com/dQclBJ7\n\nExpanding to 1993-2024 the optimal thresholds change to 20,33,46. These thresholds are definitely worse if used for 2004-2024. No loss just not as much gain.\n\nIt seems different eras have slightly different optimal numbers. I wonder if a set of thresholds could be generated for every year to see trends.",
+                                  "permalink": "/r/wallstreetbets/comments/1dlpnsx/vix_based_fxaix_investment_strategy_what_am_i/l9usaf7/",
+                                  "created": 1719112747,
+                                  "depth": 7,
+                                  "replies": []
+                                },
+                                {
+                                  "id": "l9ujiu0",
+                                  "score": 1,
+                                  "body": "I just enabled messaging",
+                                  "permalink": "/r/wallstreetbets/comments/1dlpnsx/vix_based_fxaix_investment_strategy_what_am_i/l9ujiu0/",
+                                  "created": 1719108587,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l9svqrh",
+      "score": 2,
+      "body": "Go long on VIX",
+      "permalink": "/r/wallstreetbets/comments/1dlpnsx/vix_based_fxaix_investment_strategy_what_am_i/l9svqrh/",
+      "created": 1719083831,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9qf6s4",
+      "score": 1,
+      "body": "[removed]",
+      "permalink": "/r/wallstreetbets/comments/1dlpnsx/vix_based_fxaix_investment_strategy_what_am_i/l9qf6s4/",
+      "created": 1719040929,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9qf6sg",
+          "score": 1,
+          "body": "Reddit (the company, not r/WallStreetBets, the subreddit) has banned Seeking Alpha articles everywhere on Reddit.\n\nTo get around this, please repost your comment/thread with the link removed, and the relevant parts of the article copy and pasted. \n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",
+          "permalink": "/r/wallstreetbets/comments/1dlpnsx/vix_based_fxaix_investment_strategy_what_am_i/l9qf6sg/",
+          "created": 1719040929,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l9r8ls1",
+      "score": 1,
+      "body": "It may look good at backtesting with static data, but it is not the same for dynamic data as current data has moving targets.",
+      "permalink": "/r/wallstreetbets/comments/1dlpnsx/vix_based_fxaix_investment_strategy_what_am_i/l9r8ls1/",
+      "created": 1719060499,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9ram63",
+          "score": 1,
+          "body": "I don't understand. I get that nothing is guaranteed but say this works for a 30 year period (not sure yet)... what's different about today's market?",
+          "permalink": "/r/wallstreetbets/comments/1dlpnsx/vix_based_fxaix_investment_strategy_what_am_i/l9ram63/",
+          "created": 1719061473,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9rkgr9",
+              "score": 2,
+              "body": "The above logic you gave, it is easy to work with few thousands, but think if you have a Million, whether such formula work out and will we be able to see the fluctuations? \n\nVIX is mainly on hedging and volatility, we can not differentiate easily what is causing the VIX spike.\n\nWhen VIX is below  16, holding or DCAing VOO is fine, beyond which there is no guarantee.\n\nAbove all back testing dealing with static data (price won't change), but daily market data is dynamic and VIX itself volatile.",
+              "permalink": "/r/wallstreetbets/comments/1dlpnsx/vix_based_fxaix_investment_strategy_what_am_i/l9rkgr9/",
+              "created": 1719065820,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l9rmd1v",
+                  "score": 4,
+                  "body": "Yeah so the above graph is just tracking one share in VOO. Whether you have ten or a thousand the performance is the same; triple your money rather than doubling it just leaving it in there. \n\nWhat this math says to me is that VIX between 20-30 means SPY is probably correcting. Above 30 means the bottom is probably in already. Just look at how it handles October 2021, April 2022, and September 2022. \n\nPractically this strat would just be an overnight decision; what was ~~VOO~~ VIX at close? Ok put in a trade to buy all in or sell all out at open tomorrow. No intra day trading. \n\nI'm going to try to make a script that runs this since 1995 and see if it still works.",
+                  "permalink": "/r/wallstreetbets/comments/1dlpnsx/vix_based_fxaix_investment_strategy_what_am_i/l9rmd1v/",
+                  "created": 1719066584,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l9srle8",
+                  "score": 2,
+                  "body": ">with few thousands, but think if you have a Million, whether such formula work out and will we be able to see the fluctuations? \n\nWhy wouldn't it scale? \n\n>VIX is mainly on hedging and volatility, we can not differentiate easily what is causing the VIX spike.\n\n>When VIX is below 16, holding or DCAing VOO is fine, beyond which there is no guarantee.\n\nWhat do these opinions have to do with OPs statistical backtest? \n\n>Above all back testing dealing with static data (price won't change), but daily market data is dynamic and VIX itself volatile.\n\nNo idea what this means. The backtest is not based on rules that would give look-ahead bias if that's what you mean. What do you mean by static data? Ofc the price changes in backtests",
+                  "permalink": "/r/wallstreetbets/comments/1dlpnsx/vix_based_fxaix_investment_strategy_what_am_i/l9srle8/",
+                  "created": 1719082243,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l9svz2u",
+                  "score": 1,
+                  "body": "I had to wait til my wife woke up since she's better at excel than me.\n\nWe ran the calculations all the way back to 2004 (largest dataset I could download easily) changed the VIX thresholds from 20,30,50 to 20,30,46. These new thresholds seem to create the best results after toying with the numbers up and down. I even added \"action\" to the graph in green to show where the strategy makes it's best gains over SPY. Lemme know your thoughts. You too u/GPTRex I'd appreciate your input.\n\nI can't figure out how to upload the sheet but here is another screencap: https://imgur.com/f5Anrls\n\n---\n\nEdit: 1993-2024: https://imgur.com/dQclBJ7\n\nExpanding to 1993-2024 the optimal thresholds change to 20,33,46. These thresholds are definitely worse if used for 2004-2024. No loss just not as much gain.\n\nIt seems different eras have slightly different optimal numbers. I wonder if a set of thresholds could be generated for every year to see trends.",
+                  "permalink": "/r/wallstreetbets/comments/1dlpnsx/vix_based_fxaix_investment_strategy_what_am_i/l9svz2u/",
+                  "created": 1719083921,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lgqmr2b",
+      "score": 2,
+      "body": "Gone well for me so far. Used this strategy to time the dip and avoid most of the losses.",
+      "permalink": "/r/wallstreetbets/comments/1dlpnsx/vix_based_fxaix_investment_strategy_what_am_i/lgqmr2b/",
+      "created": 1722931027,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lgrgxga",
+          "score": 2,
+          "body": "I missed the window by a little but got myself a nice little $8ish discount per share in all my positions",
+          "permalink": "/r/wallstreetbets/comments/1dlpnsx/vix_based_fxaix_investment_strategy_what_am_i/lgrgxga/",
+          "created": 1722948088,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

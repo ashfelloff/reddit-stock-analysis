@@ -1,0 +1,459 @@
+{
+  "title": "CrowdStrike (NASDAQ: CRWD) says a Bug in the Quality Control Process Led to a Global Tech Outage                ",
+  "score": 184,
+  "selftext": "",
+  "link_flair_text": "News",
+  "id": "1eb0tg6",
+  "num_comments": 51,
+  "created_utc": 1721825864,
+  "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/",
+  "url_overridden_by_dest": "https://abbonews.com/us-markets/crowdstrike-nasdaq-crwd-says-a-bug-in-the-quality-control-process-led-to-a-global-tech-outage/",
+  "comments": [
+    {
+      "id": "lep98fk",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 4 | **First Seen In WSB** | 2 years ago\n**Total Comments** | 0 | **Previous Best DD** | \n**Account Age** | 3 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/lep98fk/",
+      "created": 1721825869,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lepknnb",
+      "score": 182,
+      "body": "I work in QA.....everything is working well, why do we need these QA assholes, can't we just outsource it.......the devs write unit tests, that's good enough........massive failure happens........why didn't QA catch this?!",
+      "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/lepknnb/",
+      "created": 1721830074,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lepnsnh",
+          "score": 74,
+          "body": "No joke. I once worked for a company (WPP) that outsourced their whole IT to India via IBM. Nobody patched the Windows systems for months after local IT got shitcanned and the company got infected with Not Petya causing about 20Million in damages. In the end did they save any money?",
+          "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/lepnsnh/",
+          "created": 1721831141,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lepre7v",
+              "score": 29,
+              "body": "After a year with numerous production issues that cost my last company millions, they finally started investing in QA. \n\n\n\n\nPenny wise and pound foolish.",
+              "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/lepre7v/",
+              "created": 1721832329,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "let6mav",
+                  "score": 7,
+                  "body": "It's a cycle. The suits need to fuck around and find out every few years.",
+                  "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/let6mav/",
+                  "created": 1721874262,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "letzpmf",
+                      "score": 3,
+                      "body": "We looked at the risks vs giving ourselves a raise. We chose the later.",
+                      "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/letzpmf/",
+                      "created": 1721888656,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "leq6nx5",
+              "score": 14,
+              "body": "But the ceo that suggested that to the board damn sure got big fat end of year bonus",
+              "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/leq6nx5/",
+              "created": 1721837156,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "leqe832",
+                  "score": 2,
+                  "body": "Facts",
+                  "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/leqe832/",
+                  "created": 1721839532,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "less3qf",
+                  "score": 1,
+                  "body": "So the system works!",
+                  "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/less3qf/",
+                  "created": 1721868599,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lesdev3",
+              "score": 6,
+              "body": "My company replaced each developer in my team with an entire scrum team in India.  6 developers into 6 full teams.  And the work each team churns out is unmaintainable shit.\n\nThe cost for the scrum teams vs us is already like 2-3x more, and once shit hits the fan with tech debt it's gonna look even worse.  But no consequences for management so they don't care.",
+              "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/lesdev3/",
+              "created": 1721863097,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "let868i",
+                  "score": 2,
+                  "body": "The people who came up with plan got bonuses even when the stuff fails. In America most people fail up.",
+                  "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/let868i/",
+                  "created": 1721874895,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "leru85z",
+              "score": 1,
+              "body": "Did the persona responsable for that decision got fired at least d?",
+              "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/leru85z/",
+              "created": 1721855860,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "let8d9m",
+                  "score": 1,
+                  "body": "I don't know. I was laid off and went to work for one of the best companies/jobs I ever had. My guess is the person responsible for the IT change got a bonus that year as well.",
+                  "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/let8d9m/",
+                  "created": 1721874974,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lepxinc",
+          "score": 4,
+          "body": "Nobody properly values risk in all aspects of life",
+          "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/lepxinc/",
+          "created": 1721834289,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lepsu12",
+          "score": 7,
+          "body": "And Crowdstrike had US based internal full time employees as QA.",
+          "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/lepsu12/",
+          "created": 1721832795,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "leqvptm",
+              "score": 7,
+              "body": "they had layoffs though\n\nidiot management",
+              "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/leqvptm/",
+              "created": 1721844958,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "leqa8r5",
+          "score": 2,
+          "body": "The bug was replacing the quality control team with chat gpt ",
+          "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/leqa8r5/",
+          "created": 1721838283,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "leqbj3a",
+          "score": 2,
+          "body": "it's like that everywhere. make the devs do everything",
+          "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/leqbj3a/",
+          "created": 1721838691,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lerr6hg",
+          "score": 1,
+          "body": "Last company I worked at was so ruthless they made the QA’s learn and write the unit tests that eventually got them all laid off. Brutal.",
+          "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/lerr6hg/",
+          "created": 1721854858,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lew0ij8",
+          "score": 1,
+          "body": "You dont work for Boeing do you? ![img](emote|t5_2th52|8883)",
+          "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/lew0ij8/",
+          "created": 1721923085,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lepb3yd",
+      "score": 25,
+      "body": "That bug is contagious, Cathie Wood caught it too. ![img](emote|t5_2th52|51295)",
+      "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/lepb3yd/",
+      "created": 1721826608,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "leqmzl6",
+      "score": 11,
+      "body": "Time to fire more QA folks, boost C-suite bonuses and see if thay fixes the issue",
+      "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/leqmzl6/",
+      "created": 1721842254,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lepqqjv",
+      "score": 42,
+      "body": "Didn’t they just lay off half their qa department, you know, the ones who prevent shit like this?",
+      "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/lepqqjv/",
+      "created": 1721832117,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "leq09wr",
+          "score": 13,
+          "body": "I think that was just a rumor. CS employees on Blind have said they haven’t had any layoffs and I can’t find any disclosures either",
+          "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/leq09wr/",
+          "created": 1721835156,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lepxi78",
+          "score": 9,
+          "body": "QA boring. Only costs money.\n\nI work in pharma. Luckily it's nowadays a highly regulated industry by government agencies all over the world. If your QA isn't up to par your products will not be approved or the currently marketed ones may be withdrawn.\n\nIt's not 100% waterproof even with a working QA but it limits the potential damage to the costumer (or patient). \n\nSee if there will be some new regulations put in place for software devs too after this. The current regulations in pharma is based on prior incidents, for example.",
+          "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/lepxi78/",
+          "created": 1721834285,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "let26me",
+          "score": 1,
+          "body": "No layoffs",
+          "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/let26me/",
+          "created": 1721872510,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lepca07",
+      "score": 6,
+      "body": "calls on Rentokil (RTO) then? ![img](emote|t5_2th52|4271)",
+      "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/lepca07/",
+      "created": 1721827053,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "leq90q0",
+      "score": 7,
+      "body": "Stupid mother fuckers don't have a content validator validator",
+      "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/leq90q0/",
+      "created": 1721837895,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ler0ln4",
+      "score": 6,
+      "body": "The bug was probably skipping the whole QA.",
+      "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/ler0ln4/",
+      "created": 1721846482,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "leqrltb",
+      "score": 10,
+      "body": "On average 7/10 people that work in QA are outsourced to other countries for penny on a dollar.  In many years I have seen offshore deliver projects only to get shut down due to non existing quality and usability.  \n\nThe problem is not QA or bugs its Corporate Greed.  You get what you pay for.\n\nWe need stricter controls and regulations that would keep US citizens as a majority in the employed section, not an afterthought.",
+      "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/leqrltb/",
+      "created": 1721843674,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lepgi6h",
+      "score": 21,
+      "body": "Translation - we'll take this opportunity to fire around 200 lowly software engineers, QAs, BA etc. and boost our executive compensation by few hundred millions.",
+      "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/lepgi6h/",
+      "created": 1721828615,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "leptfpp",
+          "score": 16,
+          "body": "actual translation: \"this isn't legal negligence, we totally followed industry best practices and the computer just magically did the wrong thing! we definitely never pushed something to production without testing, no sir. No need to invalidate our contracts and make us liable for a trillion dollars in damages\"",
+          "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/leptfpp/",
+          "created": 1721832987,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "letfwel",
+      "score": 3,
+      "body": "It’s not the big in the quality control process, it’s the bug in the software update that got through the quality control process.  ",
+      "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/letfwel/",
+      "created": 1721878198,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "leu7xvx",
+      "score": 3,
+      "body": "They lie so well 🤣🤣",
+      "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/leu7xvx/",
+      "created": 1721894002,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lepb1bb",
+      "score": 6,
+      "body": "Somebody call Orkin 🪲",
+      "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/lepb1bb/",
+      "created": 1721826579,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lepioc2",
+      "score": 5,
+      "body": "A several billion dollars bug, I can't wait until they start taking \"one time charge\" each quarter for the foreseeable future! this",
+      "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/lepioc2/",
+      "created": 1721829383,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lerbwbx",
+      "score": 2,
+      "body": "They laid their qa department off recently. Totally deserved it. 🔫",
+      "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/lerbwbx/",
+      "created": 1721850079,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "let2hho",
+          "score": 1,
+          "body": "No they didnt.",
+          "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/let2hho/",
+          "created": 1721872628,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "les02h1",
+      "score": 2,
+      "body": "Have they been poaching people from Boeing?",
+      "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/les02h1/",
+      "created": 1721857808,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lesrwit",
+      "score": 2,
+      "body": "https://preview.redd.it/73yn2ka5bked1.png?width=720&format=pjpg&auto=webp&s=e00160538c5a1689f7119ffffcbd802544e42aa8",
+      "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/lesrwit/",
+      "created": 1721868521,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lessn1w",
+      "score": 2,
+      "body": "So basically a developer wrote some faulty unit/integration tests and fucked everything up.",
+      "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/lessn1w/",
+      "created": 1721868804,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lesllih",
+      "score": 1,
+      "body": "what I'm amazed at is that this not only got pushed to Microsoft but Microsoft just pushed it without even testing it and then IT departments just got it from Microsoft and pushed it to production without even testing it either.\n\nLike damn they brought down basically national infrastructures across the world because we're just too lazy to stage something for a hour to make sure it doesn't royally fuck up infrastructures?",
+      "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/lesllih/",
+      "created": 1721866127,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "leu5wj8",
+          "score": 1,
+          "body": "Bro, Microsoft doesn't test your updates if you are updating your own program. I fail to see why Microsoft is even in the discussion.",
+          "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/leu5wj8/",
+          "created": 1721892639,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "leuity6",
+              "score": 2,
+              "body": "Because it’s their operating system crashing. There are no failsafes",
+              "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/leuity6/",
+              "created": 1721901369,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "leuxbyp",
+              "score": 1,
+              "body": "Because it was pushed via Windows Update to the end devices and not just some adhoc app update.  You'd expect some kind level of quality control there and Microsoft to not just forward along every 3rd party driver update without some basic testing that it verifies it isn't bricking windows since these are kernel components not just some software.",
+              "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/leuxbyp/",
+              "created": 1721909187,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lew516k",
+                  "score": 1,
+                  "body": "Bro, window update service is just a service which allows any company to update program via window updates. You know how many updates goes through window update services? Plus it's not Microsoft job to check every single update that have kernel access. So many programs have it these days. It's up to the company themselves if they trust the updated that they choose to update via Windows updates. \n\nThe fault lies solely on crowd strike be cause they fail to adequately test their updates. They just rolled it out without testing on a god dam machine.",
+                  "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/lew516k/",
+                  "created": 1721924518,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "leqj4up",
+      "score": 1,
+      "body": "I mean we could have all guessed that part.",
+      "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/leqj4up/",
+      "created": 1721841062,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "leq2q3y",
+      "score": 0,
+      "body": "Lol, sure...",
+      "permalink": "/r/wallstreetbets/comments/1eb0tg6/crowdstrike_nasdaq_crwd_says_a_bug_in_the_quality/leq2q3y/",
+      "created": 1721835919,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

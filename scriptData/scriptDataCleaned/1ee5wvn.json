@@ -1,0 +1,985 @@
+{
+  "title": "[deleted by user]",
+  "score": 1110,
+  "selftext": "[removed]",
+  "link_flair_text": null,
+  "id": "1ee5wvn",
+  "num_comments": 104,
+  "created_utc": 1722168275,
+  "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/",
+  "comments": [
+    {
+      "id": "lfbs02v",
+      "score": 836,
+      "body": "Pretty good article, which if you read, isn't really about faulty NVDA chips.  Rather, about building and testing supercomputers and this one is made of 16k + H100s.  While incredibly complex, issues are 100% expected.  Over a 54 day period they maintained a 90% efficiency with 419 interruptions due to faults.  GPU and Memory were top, and heat was a factor....",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfbs02v/",
+      "created": 1722169174,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lfbsb1e",
+          "score": 471,
+          "body": "Supercomputers are super everything. Super fast. Super expensive. Super unreliable. 90% availability is pretty good in that world.\n\nEx HPC guy.",
+          "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfbsb1e/",
+          "created": 1722169331,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lfcf9qz",
+              "score": 78,
+              "body": "Yeah once your cluster is large enough, failures are 100% guaranteed",
+              "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfcf9qz/",
+              "created": 1722178911,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lfcha2e",
+                  "score": 56,
+                  "body": "At a certain point in scale something is always broken. Much like In a city the size of Chicago there’s always a fire going on somewhere. \n\nIn HPC you trade redundancy under failure for speed.  “We could spend this money making it more resilient in the face of failure or make it faster”\n\nFaster is the order of the day in most cases.",
+                  "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfcha2e/",
+                  "created": 1722179634,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lfelllj",
+                  "score": 1,
+                  "body": ">Yeah once your cluster is large enough, failures are 100% guaranteed\n\nThat's what she....said? I think?",
+                  "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfelllj/",
+                  "created": 1722206654,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lfepzya",
+                      "score": 2,
+                      "body": "Lol it doesn't make sense but that was still funny.",
+                      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfepzya/",
+                      "created": 1722208404,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lfdwqx6",
+              "score": 4,
+              "body": "Just like supercars, fast as hell always in the shop.",
+              "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfdwqx6/",
+              "created": 1722197416,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lfddi58",
+              "score": 2,
+              "body": "Mind if I ask why you jumped from HPC? Getting into it myself.",
+              "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfddi58/",
+              "created": 1722190689,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lfdy48l",
+                  "score": 3,
+                  "body": "Onward and upward. Maybe ex HPC shoulda been “also have some HPC”",
+                  "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfdy48l/",
+                  "created": 1722197900,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lfd8xma",
+          "score": 6,
+          "body": "[deleted]",
+          "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfd8xma/",
+          "created": 1722189136,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lfbspf3",
+          "score": 49,
+          "body": "Post title was defaulted by the title picked by the author of the report.",
+          "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfbspf3/",
+          "created": 1722169533,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lfbt1l4",
+              "score": 84,
+              "body": "Sorry man, I did skip straight to the body.  Look right below the headline...\"But Meta knows how to mitigate the issues.\"  God I hate clickbait.",
+              "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfbt1l4/",
+              "created": 1722169708,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lfc2dpt",
+                  "score": 15,
+                  "body": "It's also really one GPU failure every 6 hours, not 3, which is how the title kinda makes it read.\n\nOne failure every three hours for the supercomputer as a whole, with half of those being from GPUs, so, on average one GPU failure every 6 hours.",
+                  "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfc2dpt/",
+                  "created": 1722174014,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lfbunxk",
+                  "score": 15,
+                  "body": "dickbait is worse",
+                  "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfbunxk/",
+                  "created": 1722170516,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lfcdgyw",
+                      "score": 5,
+                      "body": "Yeah like you think you are getting dick but it's just a hotdog",
+                      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfcdgyw/",
+                      "created": 1722178264,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lfc6fi8",
+                      "score": 6,
+                      "body": "do you get a lot of that behind Wendy’s?",
+                      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfc6fi8/",
+                      "created": 1722175646,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lfc1rzw",
+                      "score": -1,
+                      "body": "🤣🤣🤣 yay I have a new word!",
+                      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfc1rzw/",
+                      "created": 1722173755,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lfc2yjb",
+                      "score": -1,
+                      "body": "Good one!",
+                      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfc2yjb/",
+                      "created": 1722174255,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lfby28v",
+                  "score": 1,
+                  "body": "To mitigate just hire Boeing and Crowdstrike management to enhance quality control.  ",
+                  "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfby28v/",
+                  "created": 1722172103,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lfcnes2",
+              "score": 1,
+              "body": "\"Accidentally on purpose\" - ghey bers",
+              "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfcnes2/",
+              "created": 1722181777,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lfchdwf",
+              "score": -1,
+              "body": "[deleted]",
+              "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfchdwf/",
+              "created": 1722179672,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lfca61i",
+          "score": 1,
+          "body": "Any coolant companies?",
+          "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfca61i/",
+          "created": 1722177067,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lfc1fav",
+          "score": 1,
+          "body": "Despite knowing how to handle it, this costs them quite a bit of resources and a lot of time.",
+          "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfc1fav/",
+          "created": 1722173600,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lfbrpow",
+      "score": 336,
+      "body": "bullish, they need to buy more gpus because of the faulty ones",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfbrpow/",
+      "created": 1722169024,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lfbsif5",
+          "score": 45,
+          "body": "Nice.",
+          "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfbsif5/",
+          "created": 1722169435,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lfcn5cl",
+              "score": 5,
+              "body": "Calls on VRT, they all need more cooling systems",
+              "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfcn5cl/",
+              "created": 1722181686,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lfctj04",
+                  "score": 2,
+                  "body": "Seriously. VRT is super sensitive to the AI trade. Very volatile. Holding at 92.",
+                  "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfctj04/",
+                  "created": 1722183899,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lfbrrec",
+          "score": 19,
+          "body": "This is the way ![img](emote|t5_2th52|4258)![img](emote|t5_2th52|4258)",
+          "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfbrrec/",
+          "created": 1722169049,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lfc30bt",
+              "score": 5,
+              "body": "Good one! That's from a show!",
+              "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfc30bt/",
+              "created": 1722174276,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lfcaxa3",
+          "score": 5,
+          "body": "Just like how airlines need to buy more Boeings to offset the faulty ones. \n\nIf I could parlay calls on NVDA with BA I would",
+          "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfcaxa3/",
+          "created": 1722177343,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lfby516",
+          "score": 5,
+          "body": "NVDA getting jealous of intels faulty processors",
+          "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfby516/",
+          "created": 1722172139,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lfcjv65",
+          "score": 1,
+          "body": "Every 3-6 hours!",
+          "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfcjv65/",
+          "created": 1722180549,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lfglhuq",
+          "score": 1,
+          "body": "Just realized, wouldn’t these GPUs sold under any sort of warranty? So prolly bearish. Especially this kind of faulting. Unless Meta was abusing it, which is then not under any shit and NVDA need to do a it better next time.\n?",
+          "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfglhuq/",
+          "created": 1722242908,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lfdor0u",
+          "score": 0,
+          "body": "when the other option is AMD and Intel 💀",
+          "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfdor0u/",
+          "created": 1722194619,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lfbvy64",
+      "score": 84,
+      "body": "one failure every three hours for Meta's 16,384 GPU training cluster. Excellent result.",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfbvy64/",
+      "created": 1722171132,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfbw73g",
+      "score": 149,
+      "body": "Just to rephrase the headline, that implies each GPU experiences an error on average once every 5.5 years.\n\nBullish.",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfbw73g/",
+      "created": 1722171248,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lfdb4sh",
+          "score": -5,
+          "body": "[deleted]",
+          "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfdb4sh/",
+          "created": 1722189877,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lfdisbm",
+              "score": 1,
+              "body": "Once every 5.5 years",
+              "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfdisbm/",
+              "created": 1722192517,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lfbuqzy",
+      "score": 141,
+      "body": "This is actually pretty bullish. That kind of stability with a machine that large. Insane. It’s perspective I guess. Like 20 years ago getting two cards to talk was annoying but doable now they have like 4 or more chips per card and thousands of these cards all working in sync. It’s insane. Not perfect maybe but holy shit that’s crazy.",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfbuqzy/",
+      "created": 1722170557,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lfbux38",
+          "score": 33,
+          "body": "So calls into earnings ![img](emote|t5_2th52|12787)![img](emote|t5_2th52|12787)![img](emote|t5_2th52|4258)",
+          "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfbux38/",
+          "created": 1722170638,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lfbv8k9",
+              "score": 32,
+              "body": "Honestly this makes me bullish on Meta more than nvda. That kind of stability takes very clean code that has minimized abstractions. I already own a shitload of nvda though idk how anyone thinks nvda is going anywhere. Doomers gunna doom I spose. Nvda is one of my gay plays I just own it and some nvdx or whatever the bull leveraged stock is. No options.",
+              "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfbv8k9/",
+              "created": 1722170793,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lfdp0oo",
+                  "score": 2,
+                  "body": "> That kind of stability takes very clean code that has minimized abstractions.\n\nI would say an organized development process and a factor of management than the code structure itself. Like, if a team is able to follow application development best practices at all that says a lot about management on its own.",
+                  "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfdp0oo/",
+                  "created": 1722194715,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lfdpqsw",
+                      "score": 2,
+                      "body": "That’s what I was trying to say but my language skills aren’t my strong suit lol. Metas leadership has really impressed me to where I’m actively trying to get in to their company largely to escape the trash tech leadership I keep encountering. Microsoft has been fucking atrocious as a comparison the dumbasses are just forcing us to use their AI tools without any plan on what to use the tools for or how to implement in the workflow. Just told use AI more or you’ll be replaced. Cool.",
+                      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfdpqsw/",
+                      "created": 1722194971,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lfc7ck8",
+                  "score": 3,
+                  "body": "gey plays are where the money is . I prefer GRND though.",
+                  "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfc7ck8/",
+                  "created": 1722176006,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lfcpkej",
+                      "score": 3,
+                      "body": "I prefer your behind, behind Wendy’s",
+                      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfcpkej/",
+                      "created": 1722182519,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lfbz0e4",
+      "score": 22,
+      "body": "Here I am, brain the size of 16000 GPUs  and what do they ask me? To recite latest meme stonk news in verse, in the style of Yoda",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfbz0e4/",
+      "created": 1722172532,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lfcje3h",
+          "score": 3,
+          "body": "Is this a HHGTG reference?",
+          "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfcje3h/",
+          "created": 1722180378,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lfc0kfj",
+      "score": 30,
+      "body": "They have 16 THOUSAND h100s......\n\nHow many Blackwell's they gonna buy?",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfc0kfj/",
+      "created": 1722173226,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lfc2wnm",
+          "score": 36,
+          "body": "This is just one of the compute clusters. Apparently they have over 350,000 H100s and 600k compute equivalent GPUs. \n\nIs someone going to ask how they hope to recoup the costs of even this $400m+ cluster? Especially when the model is free to use. It seems all these  companies are in an arms race to AGI and forced to enter with the looming potential of missing out, but with no solid path forward besides throwing more data and compute at the problem… as it is right now, 100s of billions spend on essentially Chatbots which don’t solve $100B problems",
+          "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfc2wnm/",
+          "created": 1722174234,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lfck0f3",
+              "score": 10,
+              "body": "The LLMs are just them building in public. As soon as they have internal systems within sniffing distance of SOTA they'll stop releasing them, I guarantee it. Without your own capital resources for GPUs you are at the mercy of the cloud provider market which is a fickle beast. A huge data farm like that can be capitalized in many ways, including just selling the time back to the cloud, and over a 10 year time horizon they can serve as base load inference when they aren't top of the line anymore.",
+              "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfck0f3/",
+              "created": 1722180601,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lfcbqn6",
+              "score": 3,
+              "body": "Ohh sounds like mania... Bullish.",
+              "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfcbqn6/",
+              "created": 1722177636,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lfcd94w",
+              "score": 1,
+              "body": "Well said… \n\nThe profitable AI product does not appear to be a smarter chatbot at this point. that is a stepping stone. This bubble might burst before the real reward is discovered. OR a real AI impact is made.",
+              "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfcd94w/",
+              "created": 1722178185,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lfcbzch",
+              "score": -2,
+              "body": "So much more than just chatbots but you should stay out of anything tech if you believe that\n\nLet the rest of us make the money",
+              "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfcbzch/",
+              "created": 1722177723,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lfceu8h",
+                  "score": 5,
+                  "body": "This is WSB, I definitely didn’t come to make money ![img](emote|t5_2th52|4271).",
+                  "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfceu8h/",
+                  "created": 1722178754,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lfcx5vx",
+              "score": -1,
+              "body": "I award you one million worthless internet points.\n\n\nA total lack of ideas and innovation in the techbro hivemind means spraying billions on hardware that will be written off in 12 months with no return is de rigeur.\n\n\nOne hopes their shareholders call this self serving bullshit out this week.",
+              "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfcx5vx/",
+              "created": 1722185150,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lfce2f6",
+      "score": 8,
+      "body": "Ask Google, who was famous for using cheap beige box PC instead of expensive servers in their early days, how many failures they get every second. Even when individual GPU is 99.99…% reliable, when you have enough of them running in the cluster, a number of them will fail. That’s why cluster management software is what makes or breaks the system. If some GPUs exploded, but the system auto recovered and no one other than the admins know about it, it’s not a problem.",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfce2f6/",
+      "created": 1722178477,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfc6rhk",
+      "score": 6,
+      "body": "Bullish ! Gotta buy more h100 to compensate for their failures ![img](emote|t5_2th52|4271)",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfc6rhk/",
+      "created": 1722175777,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfc6ux1",
+      "score": 6,
+      "body": "YOLO on Nvidia and Meta!!! ![img](emote|t5_2th52|4276)",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfc6ux1/",
+      "created": 1722175813,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfbra9u",
+      "score": 14,
+      "body": "And how faulty are the rest of the industry’s GPU’s that are all a generation slower? Are you going back to last years call of duty because of the glitch in this years game?",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfbra9u/",
+      "created": 1722168799,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lfbrifz",
+          "score": -6,
+          "body": "[deleted]",
+          "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfbrifz/",
+          "created": 1722168920,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lfbtgow",
+              "score": 2,
+              "body": "There's no such thing as a dedicated AI GPU. That's just a marketing gimmick for slightly tuned generic GPUs.\n\nIt's all just matrix math.",
+              "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfbtgow/",
+              "created": 1722169917,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lfchg2y",
+                  "score": 1,
+                  "body": "Slightly tuned is just as wrong as saying dedicated AI GPU. The architecture for GPUs like the H100 is wildly different than traditional GPUs.",
+                  "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfchg2y/",
+                  "created": 1722179693,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lfcjyfd",
+                      "score": 2,
+                      "body": "The architecture is almost identical. You just take out the \"graphics\" specific subroutines from the board. No rasterizations, pixel coords, etc.\n\nIn fact, the most impactful difference is probably the more compact chassis being specifically designed to minimize overheating in server racks. You cannot stack RTX4090s like you would do H100s. Not as dense and too hot.\n\nMaybe \"slightly\" is wrong, but the point is that there is no magic sauce. There isn't a competitive advantage here. If you can make regular GPUs, its not exactly hard to figure out an \"AI\" GPU. Not like you can figure out a better way to multiply matrices anymore.",
+                      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfcjyfd/",
+                      "created": 1722180581,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lfd0jpe",
+      "score": 4,
+      "body": "This is why Jensen spent all that time talking about the Blackwell management engine. They’re doing a lot of work to make sure faulted units can be taken out of a job without halting it.",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfd0jpe/",
+      "created": 1722186298,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfcmm0h",
+      "score": 3,
+      "body": "Ok someone makes better ones then, I'm waiting, my money has to go somewhere other than inflation",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfcmm0h/",
+      "created": 1722181500,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfd78fm",
+      "score": 3,
+      "body": "This appears to be largely due to thermal issues.",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfd78fm/",
+      "created": 1722188567,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfcf5ne",
+      "score": 2,
+      "body": "Hm that's exactly 2^14 GPUs",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfcf5ne/",
+      "created": 1722178870,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lfcm6ni",
+          "score": 1,
+          "body": "I think that amount would exceed the available amount of gold for contacts on plant earth.",
+          "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfcm6ni/",
+          "created": 1722181353,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lfcnsv5",
+      "score": 2,
+      "body": "Not a single bearish comment. \n\nYou just know suits are gonna be dumping on the retail bagholders soon enough.",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfcnsv5/",
+      "created": 1722181913,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfcr4t4",
+      "score": 2,
+      "body": "uh oh ..   it's GONE !!!!!!!!!! aaaaaaaaaaall gone !!!!!  my shares and 12/18/26 112C \"s are worthless garbage because of this  ... great",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfcr4t4/",
+      "created": 1722183061,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfdd1zf",
+      "score": 2,
+      "body": "Would love to know how this compares to Google's TPUs.   Google quietely has become the third largest designer of datacenter chips and will be #2 before the end of the year.\n\nGives me a strong competitive advantage not needing to pay the Nvidia tax.\n\nThey only use the Nvidia hardware for GCP customers that request to use.\n\nhttps://blog.svc.techinsights.com/wp-content/uploads/2024/05/DCC-2405-806_Figure2.png",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfdd1zf/",
+      "created": 1722190535,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfe7zut",
+      "score": 2,
+      "body": "419 fault, some need a restart of the whole computer (“a single GPU failure can disrupt the entire training job”), which mean that the more you stack GPU the less working time you might get, it’s like a chain that is as weak as his weakest link. Even if it’s not coming directly from the GPU and mostly by temp/voltage variation, it means that infrastructure will require to be more expensive than expected to meet the requirement for controlling the computer’ environment. That META grid pushing his power limit and struggling when it’s too hot outside (climate change impact forecast ?). \n\nLower profit, bearish signal.",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfe7zut/",
+      "created": 1722201416,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfemx1v",
+      "score": 2,
+      "body": "Do you really expect for all 16,384 GPU to not be faulty?\nCome on!",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfemx1v/",
+      "created": 1722207183,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfbsrcn",
+      "score": 2,
+      "body": "classic posting by some doomer who didnt even read the article but posted for the click bait headline.... has not much to do with GPU and NVDA but more to do with complexity of AI supercomputing.....",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfbsrcn/",
+      "created": 1722169561,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lfbt0q3",
+          "score": 12,
+          "body": "..the post title defaults from the article title. Not my prerogative to interprete the article for you.",
+          "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfbt0q3/",
+          "created": 1722169696,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lfc1hbh",
+              "score": 5,
+              "body": "I think you are cute :)",
+              "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfc1hbh/",
+              "created": 1722173625,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lfbqbi8",
+      "score": 3,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 10 | **First Seen In WSB** | 2 years ago\n**Total Comments** | 475 | **Previous Best DD** | \n**Account Age** | 2 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfbqbi8/",
+      "created": 1722168285,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfcc76n",
+      "score": 1,
+      "body": "This headline. We're getting fucked on Monday",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfcc76n/",
+      "created": 1722177802,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lfccxl5",
+          "score": 0,
+          "body": "Great dip opportunity to load up on calls for earnings, blessing is disguise ![img](emote|t5_2th52|4258)![img](emote|t5_2th52|4258)",
+          "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfccxl5/",
+          "created": 1722178068,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lfcshoq",
+      "score": 1,
+      "body": "Hahahahaha, go META!",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfcshoq/",
+      "created": 1722183534,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfcsi0n",
+      "score": 1,
+      "body": "Not faulty, it's trying to be creative.",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfcsi0n/",
+      "created": 1722183537,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lfd3b77",
+          "score": 1,
+          "body": "Let’s all agree not to be creative anymore ",
+          "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfd3b77/",
+          "created": 1722187240,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lfcuzjj",
+      "score": 1,
+      "body": "Oh no my insanely custom never built before super computer had some chips burn out, puts on Nvidia!!!!!   I hope these articles come out in droves as it really means Nvidia is going to blast off.",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfcuzjj/",
+      "created": 1722184406,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfd1egz",
+      "score": 1,
+      "body": "bullish, nvda will replenish the faulty chips, more sales, moaaar moooneeeyyy",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfd1egz/",
+      "created": 1722186588,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfd571i",
+      "score": 1,
+      "body": "Sounds like H101’s needed ASAP.  Bullish refresh cycle.",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfd571i/",
+      "created": 1722187879,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfd5cml",
+      "score": 1,
+      "body": "NVIDIA employees busy spending their millions. Not paying attention to detail anymore.",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfd5cml/",
+      "created": 1722187931,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfd87eb",
+      "score": 1,
+      "body": "imagine a cluster of 16k intel 13th and 14th gen cpus. 100% failure rate lol",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfd87eb/",
+      "created": 1722188892,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfdvgob",
+      "score": 1,
+      "body": "Am I too poor to understand this article?",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfdvgob/",
+      "created": 1722196971,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfe25hr",
+      "score": 1,
+      "body": "Calls on Nvidia. Meta will buy more",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfe25hr/",
+      "created": 1722199307,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfeiwpf",
+      "score": 1,
+      "body": "Bullish need to upgrade to H200 NVDA Sales go brrrrrrrrr",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfeiwpf/",
+      "created": 1722205583,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfc4y1d",
+      "score": 1,
+      "body": "Hope NVDA sells off further on this shit. Imma scoop some shit up",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfc4y1d/",
+      "created": 1722175066,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfc0pwx",
+      "score": 1,
+      "body": "man, i'm liking Nvidia more everyday, they double my moneys, they do graphics cards, they screw up Facebook (Meta), they're open sourcing some firmware soon, they low-key avoid sanctioning china ... the best capitalist company of my lifetime... i support fucking up Meta and the Berg",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfc0pwx/",
+      "created": 1722173293,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfc6q5x",
+      "score": 0,
+      "body": "Just the news headline we need to dive the stock even more",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfc6q5x/",
+      "created": 1722175763,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfcr2ur",
+      "score": 0,
+      "body": "puts ?",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfcr2ur/",
+      "created": 1722183042,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfd5btr",
+      "score": 0,
+      "body": "Seeing this fear mongering news about NVDIA makes me want to buy it even more lol",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfd5btr/",
+      "created": 1722187923,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfbrfxn",
+      "score": -5,
+      "body": "[deleted]",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfbrfxn/",
+      "created": 1722168882,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lfbsrcb",
+          "score": 2,
+          "body": "You must hate money?",
+          "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfbsrcb/",
+          "created": 1722169561,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lfbt25o",
+              "score": 3,
+              "body": "You may have found Cathy Woods fake reddit account or feddit for short..",
+              "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfbt25o/",
+              "created": 1722169716,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lfc8cya",
+      "score": -1,
+      "body": "Short every day ![img](emote|t5_2th52|4271)",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfc8cya/",
+      "created": 1722176394,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfc7wsq",
+      "score": -2,
+      "body": "/u/savings-act8 added to Res blocklist for sensationalist spam.",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfc7wsq/",
+      "created": 1722176222,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lfcak75",
+          "score": 2,
+          "body": "What?! 300 upvotes <1 hr is spam? Check yourself before you wreck yourself buddy ![img](emote|t5_2th52|4258)",
+          "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfcak75/",
+          "created": 1722177213,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lfbvshy",
+      "score": -14,
+      "body": "#downvote this shit",
+      "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfbvshy/",
+      "created": 1722171057,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lfc25v3",
+          "score": 2,
+          "body": "Done, would you like another?",
+          "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfc25v3/",
+          "created": 1722173921,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lfcboj1",
+              "score": -2,
+              "body": "Yes",
+              "permalink": "/r/wallstreetbets/comments/1ee5wvn/deleted_by_user/lfcboj1/",
+              "created": 1722177615,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

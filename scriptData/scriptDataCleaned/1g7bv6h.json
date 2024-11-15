@@ -1,0 +1,1631 @@
+{
+  "title": "Puts on NVDA for Monday based on past 3 months data",
+  "score": 261,
+  "selftext": "So i decided to do some data analysis with ChatGPT on the NVDA stock prices and came across some interesting data. Yesterday's bar for NVDA was an inside bar. For those that are not familiar, an inside bar is when its high is lower than the previous days high and low is higher than the previous days low.\n\nhttps://preview.redd.it/7hp29qxcgqvd1.png?width=121&format=png&auto=webp&s=164371a63e2b6f36d5e08740d8efc8cf0952ba00\n\nSo I decided to find out what happened the last many times this has happened. There have been 12 instances of this since July 2024 and guess what, 6 of them have formed on a Friday. Here is the list of all fridays when this happened -\n\n|| || |9/13/2024| |8/30/2024| |8/23/2024| |7/26/2024| |7/19/2024| |7/12/2024 |\n\n5 of these 6 times the stock tanked the next monday and tuesday. the only time it went higher on monday was on 19th July, but it was down by wednesday and deep in red by Friday.\n\nTLDR: Inside bar analysis from past 3 months shows that NVDA stock price will fall on Monday or by end of next week.\n\nEdit1: Since someone pointed out that NVDA was in a bear trend since july and this was bound to happen. Here is list of all dates on Friday within the last year when we had an inside bar formed:\n\n|| || |9/13/2024| |8/30/2024| |8/23/2024| |7/26/2024| |7/19/2024| |7/12/2024| |4/12/2024| |4/5/2024| |1/12/2024| |11/24/2023| |10/27/2023|\n\nOut of the 12 dates, on 10 occasions the price fell the next monday and tuesday.\n\n  \nEdit 2: Got burned yesterday!! But I still believe by end of week prices around 130-135. ",
+  "link_flair_text": "Chart",
+  "id": "1g7bv6h",
+  "num_comments": 295,
+  "created_utc": 1729353068,
+  "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/",
+  "comments": [
+    {
+      "id": "lsp8asi",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 1 | **First Seen In WSB** | 2 years ago\n**Total Comments** | 1 | **Previous Best DD** | \n**Account Age** | 3 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsp8asi/",
+      "created": 1729353072,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lspbfca",
+      "score": 622,
+      "body": "I love people whose DD is looking at two candles",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lspbfca/",
+      "created": 1729354137,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lsqkhgm",
+          "score": 183,
+          "body": "I love people whose DD relies on ChatGPT doing data analysis to discover an inside bar from the previous day. ![img](emote|t5_2th52|4271)",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsqkhgm/",
+          "created": 1729369198,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lsv7lq0",
+              "score": 4,
+              "body": "I don’t love that this asshat clearly knows what he’s talking about with options, but talking about it and talking trash to everyone on this sub seems to be his entire life.",
+              "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsv7lq0/",
+              "created": 1729443434,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lsv7rpq",
+              "score": 6,
+              "body": "Which is also powered by Nvidia",
+              "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsv7rpq/",
+              "created": 1729443487,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lssl0r9",
+              "score": 9,
+              "body": "ChatGPT is not updated live to top it off, their knowledge is weeks old if not months",
+              "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lssl0r9/",
+              "created": 1729397019,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lst65ax",
+                  "score": 7,
+                  "body": "Even if it were updated, training a LLM does not mean it becomes a database. It’s a misunderstanding of how the technology works. GPT can’t do math",
+                  "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lst65ax/",
+                  "created": 1729409059,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lstfdbe",
+                      "score": 3,
+                      "body": "But can it count the number of rs in strawberry?",
+                      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lstfdbe/",
+                      "created": 1729415453,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lstgxue",
+                          "score": 7,
+                          "body": "More importantly, can it count the number of rs in regarded?",
+                          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lstgxue/",
+                          "created": 1729416563,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "lsu118a",
+                  "score": 2,
+                  "body": "Newest ChatGPT 4.0 queries data live. It takes your question, forms a query against bing search engine, ingests the results and forms a response.",
+                  "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsu118a/",
+                  "created": 1729428467,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lsxc3o0",
+                  "score": 2,
+                  "body": "You can Feed the data",
+                  "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsxc3o0/",
+                  "created": 1729467839,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lsqtsxu",
+          "score": 20,
+          "body": "Daddy Jenson is going to sign on dick and give a huge green dildo to make a bullish engulfing bar.",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsqtsxu/",
+          "created": 1729372397,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lsqw31n",
+              "score": 3,
+              "body": "big dick if true",
+              "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsqw31n/",
+              "created": 1729373202,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lst0yka",
+          "score": 4,
+          "body": "In all of us there are 2 candles.\nBoth red.",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lst0yka/",
+          "created": 1729405643,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lssdukr",
+          "score": 1,
+          "body": "![img](emote|t5_2th52|4271)",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lssdukr/",
+          "created": 1729393913,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lsph7do",
+      "score": 149,
+      "body": "Imagine using ai to short the biggest producer of gpus used for ai\n\nIt's so regarded it might actually work ![img](emote|t5_2th52|4271)",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsph7do/",
+      "created": 1729356097,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lss5936",
+          "score": 14,
+          "body": "![img](emote|t5_2th52|4267)![img](emote|t5_2th52|4271)",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lss5936/",
+          "created": 1729390429,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lswhxh7",
+              "score": 2,
+              "body": "I loaded up on 130p’s expiring Friday. 🤞",
+              "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lswhxh7/",
+              "created": 1729457452,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lsp9baf",
+      "score": 357,
+      "body": "[deleted]",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsp9baf/",
+      "created": 1729353418,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lspengl",
+          "score": 101,
+          "body": "Take this guys ![gif](emote|free_emotes_pack|upvote)advice and save yourself some money. Buy spy or VOO with that money and delete Webull from your phone. A few things I have noticed and for you to consider with NVIDIA:\n\n* Stock has broken out of ATH a few times already\n* AI is real and AI spending is real. Seeing how every company is dumping money into it.\n* TSMC earnings beat expectations. If you didn't know they supply to NVIDIA.\n* CEO literally saying the demand is insane got people pumping.\n\nPerhaps your put will print if there is a pull back this week and you cash out but I say to you, you are trying to fight a $3T mountain right now my fellow regard. Best of Luck.",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lspengl/",
+          "created": 1729355241,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lspj2f3",
+              "score": 14,
+              "body": "Facts I sold calls and was lucky to get out with a small profit I’m only playing from the long side now it is tempting to want to play from the short side because of the high valuation but like previously stated ai is legit and the spending is huge I’m not trying to pick up pennies in front of a steamroller anymore. Maybe the valuation and price is unsustainable but markets can remain overbought and irrational for long periods of time or maybe the heard is correct and the valuation is justified time will tell.",
+              "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lspj2f3/",
+              "created": 1729356718,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lsq2tdj",
+              "score": 6,
+              "body": "Also don’t forget every institution is just gamma squeezing the stock because it just keeps working on all high beta and especially NVDA. Literal no risk right now. Call volume exploding while common stock trading volume cratering.",
+              "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsq2tdj/",
+              "created": 1729363173,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lsqz2s7",
+              "score": 2,
+              "body": "That's $3T worth of unrealized gains.\n\nMight as well join this regard and yolo 40K as soon as market opens",
+              "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsqz2s7/",
+              "created": 1729374283,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lsv5kst",
+              "score": 1,
+              "body": "Stfu I want more degen content",
+              "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsv5kst/",
+              "created": 1729442797,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lsqao1v",
+          "score": 7,
+          "body": "I learned this lesson the hard way with TSLA puts. It is insanely overvalued but the Tesla bulls can keep the market irrational long enough to outlast any shorts.",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsqao1v/",
+          "created": 1729365825,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lsv5ore",
+              "score": 1,
+              "body": "How is TSLA, a hardware/software company with an expected 100+B revenue indication for 2024, overvalued at a 645 - which is a smaller multiple than other innovative tech companies (8x)?\n\nYour analytical candles are overvalued.",
+              "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsv5ore/",
+              "created": 1729442831,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lspvau5",
+          "score": 5,
+          "body": "*aka your puts are fucked*",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lspvau5/",
+          "created": 1729360716,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lspybbp",
+          "score": 5,
+          "body": "bullish harami is a reversal candle and she's been going up not down",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lspybbp/",
+          "created": 1729361700,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lsqdjep",
+          "score": 2,
+          "body": "I thought bullish harami was a trend reversal candle within a downtrend…",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsqdjep/",
+          "created": 1729366807,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lssscls",
+          "score": 1,
+          "body": "Did you misspell Harambe?",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lssscls/",
+          "created": 1729400597,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lspcomv",
+      "score": 84,
+      "body": "Oh shit we are gonna pump boys",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lspcomv/",
+      "created": 1729354565,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lspag8k",
+      "score": 58,
+      "body": "Honestly CGPT really sucks at doing any sort of stock analysis. It can't pull real time data and it's base of information is one year old. You have to feed it current information for it to be more precise, but in the end it just ends up agreeing with whatever bias you're feeding it. It literally told me NOT to buy NFLX calls...imagine if I listened ☠️",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lspag8k/",
+      "created": 1729353805,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lspb4yc",
+          "score": 12,
+          "body": "You're right, it doesn't have real time data. It can write you python scripts that can use realtime data though and that's what I've been doing recently. Simple stuff like what he's mentioning here.",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lspb4yc/",
+          "created": 1729354039,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lspdy5r",
+              "score": 2,
+              "body": "But you still need access to a realtime data base no?",
+              "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lspdy5r/",
+              "created": 1729355002,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lsrfxyu",
+                  "score": 6,
+                  "body": "That's what python code allows you to do. If you're savvy you could build your own screener, etc. There are udemy courses on using Python with Alpaca to create your own trading bots etc etc. I haven't gotten that far into it. I have a programming degree I haven't used in ten years so I know what everything is and I can read what I'm looking at but I still don't need anything more than Robinhood at this point so I haven't gone farther than one page scripts for stuff like \" how many times has the S&P dropped more than 1% two days in a row\" type stuff. Udemy is a great place to start for all kinds of Python stuff if you want to get into it. chatGPT can spit code crazy fast.",
+                  "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsrfxyu/",
+                  "created": 1729380569,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lsqlozv",
+              "score": 1,
+              "body": "Whats an example of a script you've created? I'm interested and looking for inspiration.",
+              "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsqlozv/",
+              "created": 1729369612,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lsqzy83",
+                  "score": 2,
+                  "body": "Not OP but claude.ai has been busy writing me scripts based on this book \n\n\nhttps://www.amazon.com/Factor-Goals-Based-Investment-Strategies-Successful/dp/1636983227",
+                  "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsqzy83/",
+                  "created": 1729374605,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lsyvze9",
+          "score": 2,
+          "body": "Inverse CGPT then?",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsyvze9/",
+          "created": 1729492386,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lspkm59",
+          "score": 4,
+          "body": "Yes, I use ChatGPT a lot. It's good to learn about things and aspects of the market but it's not some oracle. It just spits out things that seem plausible. It's a plausibility engine based on the data it receives. In other words, his puts are fucked.",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lspkm59/",
+          "created": 1729357228,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lspou7p",
+          "score": 2,
+          "body": "CGPT sold me on aapl lmao",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lspou7p/",
+          "created": 1729358586,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lspy3sg",
+              "score": 2,
+              "body": "Genius",
+              "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lspy3sg/",
+              "created": 1729361633,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lspk1xu",
+      "score": 10,
+      "body": "Puts on the best company in the stock exchange because....I missed the rising ship so it must come down right",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lspk1xu/",
+      "created": 1729357045,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lsw61mf",
+          "score": 1,
+          "body": "sums it up perfectly.",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsw61mf/",
+          "created": 1729453861,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lspa2qs",
+      "score": 10,
+      "body": "t is only bearish if red candle is engulfing of a previous green candle on an uptrend, signalling possibility of reversal (swing trader’s signal). \n\nYour entry should be this candle, but either you play the close below the red low, or wait for a retest of the red low when it broke below. \n\nBuying put now you are playing with luck that is 50/50.",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lspa2qs/",
+      "created": 1729353677,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lspfnat",
+      "score": 9,
+      "body": "YOUR PUTS = NVDA 200$",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lspfnat/",
+      "created": 1729355575,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsr250i",
+      "score": 17,
+      "body": "https://preview.redd.it/krd2mqq0dsvd1.png?width=1644&format=png&auto=webp&s=c8d4c1ff914b37251fa561990b531658309f5a71",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsr250i/",
+      "created": 1729375423,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lstc2dw",
+          "score": 2,
+          "body": "regardedtechnology",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lstc2dw/",
+          "created": 1729413160,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lsuutop",
+          "score": 2,
+          "body": "That guy using a mac to trade is the most regarded thing about this picture lol",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsuutop/",
+          "created": 1729439364,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lspcw2k",
+      "score": 16,
+      "body": "Two bars for a trade... Good luck.\n\nSo you utilize chatgpt, which can give you a gazillion of great insights and opportunities to discover interesting stocks and digest news to do sentiment analysis and derive opportunities from news, social media, etc...\n\nAnd you use it for the most dangerous stock on this planet to bet on a movement instead of observing movement and just enter existing momentum, which can still zig zag in seconds on the most traded stock on earth. \n\nI just hope you gave chatgpt the data and didn't rely on it to acquire it or tell you dates.\n\nOh guys what's wrong with you",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lspcw2k/",
+      "created": 1729354636,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lsrq4xh",
+          "score": 2,
+          "body": "> the most dangerous stock on this planet\n\n???\n\nHow is NVDA the most dangerous stock?",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsrq4xh/",
+          "created": 1729384452,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lsphhs4",
+      "score": 6,
+      "body": "And remember guys, the past is always indicative of the future",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsphhs4/",
+      "created": 1729356194,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lspb8r3",
+      "score": 7,
+      "body": "okay, im calling in a favor on this one\n\nbig man upstairs gonna make it go higher",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lspb8r3/",
+      "created": 1729354075,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsqefr1",
+      "score": 7,
+      "body": "As some have pointed out, bullish haramis are usually only bullish at the bottom of a downtrend...when appearing at the top of an uptrend, not so bullish\n\nI also think NVDA is due for a pullback...nothing major...5% or so tops...SPY just finished it's 6th consecutive green week and really is due for a red week...just going by the price action all of last week, it really looks like there is some buyer's fatigue/exhaustion...just look at the volume for the last three weeks on the weekly chart\n\nAfter this pullback, elections will be over and done with and markets will no doubt pump to new ATHs with Santa rally etc",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsqefr1/",
+      "created": 1729367114,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lsrzuad",
+          "score": 1,
+          "body": "I've seen people saying it looks like it'll pull back to $128, even $125. I suppose it could, but I don't think this drops below $132, let alone $130. I'm bullish long term, but I think a red day would have happened this past week, were it not for TSM's earnings (also excepting ASML earnings).",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsrzuad/",
+          "created": 1729388263,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lssfrk8",
+          "score": 1,
+          "body": "The options chain is stacked around 143-145 this week for Nvidia.\n\nI would not be surprised to see some shenanigans push it far above its ath this week. If for some reason Tesla hits the mag 7 will all rally with it and we'll see apple, meta, and nvidia break ATH's yet again.\n\nI imagine many people who missed the boat earlier this year entered when it dropped to 128-130 this past week. They now want more profit so we'll enter a positive gamma situation and Nvidia will yet again feed into itself as it always does.",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lssfrk8/",
+          "created": 1729394722,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lspi9jg",
+      "score": 5,
+      "body": "TSMC earnings says otherwise.\n\nAlso MSFT, ORCL, GOOGL and AMZN all making deals for nuclear energy. So data center is popping.\n\nSeems like AMD, NVDA and semis are a good buy.",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lspi9jg/",
+      "created": 1729356450,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lsqxy2h",
+          "score": 1,
+          "body": "AMD? Really m",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsqxy2h/",
+          "created": 1729373871,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lsqcfhi",
+      "score": 6,
+      "body": "This is highly regarded.",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsqcfhi/",
+      "created": 1729366425,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lsqfcgd",
+          "score": 1,
+          "body": "thank you![img](emote|t5_2th52|52627)",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsqfcgd/",
+          "created": 1729367429,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lsumi6v",
+      "score": 5,
+      "body": "https://preview.redd.it/znytunhyexvd1.jpeg?width=1284&format=pjpg&auto=webp&s=0f225e7502ce4ab1535f04e6db9af3de20a69613",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsumi6v/",
+      "created": 1729436610,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lt11zob",
+      "score": 5,
+      "body": "How's that trend going today for you OP?![img](emote|t5_2th52|4267)",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lt11zob/",
+      "created": 1729528621,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsvr1u0",
+      "score": 3,
+      "body": "> Puts on NVDA\n\nThank you for your service.",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsvr1u0/",
+      "created": 1729449303,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lt0zh6y",
+      "score": 4,
+      "body": "LOL!",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lt0zh6y/",
+      "created": 1729527841,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lspmyky",
+      "score": 5,
+      "body": "Lol, your candles all came from 1 person who sold like 5-6 million shares on Thurs/Fri of this week",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lspmyky/",
+      "created": 1729357976,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsphvsw",
+      "score": 3,
+      "body": "Idk man. It didn't pump because then all those calls expiring Oct 18th would've been ITM.\n\nTheta ate asshole that week.\n\nBut I think Monday it pumps pre market like always to 140 Then hits 145 intraday. Then puts",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsphvsw/",
+      "created": 1729356323,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lspm2ds",
+          "score": 1,
+          "body": "yeah this scenario is very possible. hopefully by end of week it tanks",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lspm2ds/",
+          "created": 1729357688,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lspma5o",
+      "score": 3,
+      "body": "6 data points just isn’t enough to be convinced. 50/60 would be much stronger even though % is the same. Stay away from this gamble",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lspma5o/",
+      "created": 1729357758,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lspro69",
+          "score": 1,
+          "body": "I agree. but this is not a signal that happens often. it has only happened 12 times in the past 3 months, and 50% of that was on a friday",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lspro69/",
+          "created": 1729359516,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lsqk0mu",
+      "score": 3,
+      "body": "A two daily candle DD...\n\nGodspeed regard",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsqk0mu/",
+      "created": 1729369036,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lsqk4pa",
+          "score": 1,
+          "body": "Meanwhile I've been doing it all wrong and been looking at the daily, weekly, monthly, quarterly and yearly charts to base my decisions!",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsqk4pa/",
+          "created": 1729369076,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lsqm0ap",
+              "score": 1,
+              "body": "![img](emote|t5_2th52|4258)let's goo",
+              "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsqm0ap/",
+              "created": 1729369718,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lsqsukt",
+      "score": 3,
+      "body": "You have no positions. \n\nMods, ban this idiot.",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsqsukt/",
+      "created": 1729372059,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsrl1dp",
+      "score": 3,
+      "body": "Someone get this man a job an Goldmans!",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsrl1dp/",
+      "created": 1729382488,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsv7418",
+      "score": 3,
+      "body": "Just because you posted this it will now be an anomaly.\n\nAlso, I’ve learned never to bet against NVDA with options. Calls on Monday",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsv7418/",
+      "created": 1729443277,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lspjgr2",
+      "score": 4,
+      "body": "I hope you're right. I took profit and waiting for a better entry point at 130",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lspjgr2/",
+      "created": 1729356852,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsphrmz",
+      "score": 2,
+      "body": "This same inside bar happened Oct 15/16. Gapped up next day. Oct 17 bar is ATH. I wouldn’t do any shorting until below that and even then it would be a quick in and out as current environment is risk on",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsphrmz/",
+      "created": 1729356285,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsplee1",
+      "score": 2,
+      "body": "Oh crap. I have liquidated my NVDA share last week and now, this post makes me think I am gonna be missing lots of gains next week.",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsplee1/",
+      "created": 1729357474,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lspm3ed",
+      "score": 2,
+      "body": ">So I decided to do some data analysis with ChatGPT\n\nTrue WSB legends use GenAI to shit on AI stocks",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lspm3ed/",
+      "created": 1729357698,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsq10z3",
+      "score": 2,
+      "body": "Market is due for a pullback. 6 straight weeks of green. BUT…elections. That’s one of the prime factors that’s driving the market upwards. It’s tough to be a bear, especially on this bull bs market.",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsq10z3/",
+      "created": 1729362590,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsqovt2",
+      "score": 2,
+      "body": "3 months nice",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsqovt2/",
+      "created": 1729370700,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsqyv6m",
+      "score": 2,
+      "body": "Thank you for your sacrifice 📈",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsqyv6m/",
+      "created": 1729374206,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsr18u3",
+      "score": 2,
+      "body": "Meanwhile Nvidia had its’ highest weekly candle close ever and both weekly MACD and RSI show major bullish divergence. Keep gambling OP!",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsr18u3/",
+      "created": 1729375086,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lsraooi",
+          "score": 2,
+          "body": "But the weekly candle did form a possible double top. Bullish divergence is when a stock is oversold. if anything NVDA is in overbought territory and you can clearly see bearish divergence on the RSI, with prices going higher and RSI going lower. I don't prefer indicators in general and would rather rely on price action.",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsraooi/",
+          "created": 1729378614,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lssv1mc",
+      "score": 2,
+      "body": "NVDA is the most bullish it’s ever been in its entire publicly traded history and the sheer volume and OI in damn near every ATM and OTM call strike from Nov expiration straight through 2026 is the proof. Go ahead and buy all your puts bc chat GPT can’t decipher your little 2 daily candle pattern correctly. Guaranteed NVDA rips out your tonsils and leaves you with no jell-O after that operation.",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lssv1mc/",
+      "created": 1729402048,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lssxshc",
+      "score": 2,
+      "body": "Dumbass",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lssxshc/",
+      "created": 1729403651,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lt0mhri",
+      "score": 2,
+      "body": "Update OP?",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lt0mhri/",
+      "created": 1729523745,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lt1fqyu",
+      "score": 2,
+      "body": "update",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lt1fqyu/",
+      "created": 1729532820,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lt1tamo",
+      "score": 2,
+      "body": "This aged well ![img](emote|t5_2th52|4267)",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lt1tamo/",
+      "created": 1729536994,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lt2cbxk",
+      "score": 2,
+      "body": "Show us that loss porn.",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lt2cbxk/",
+      "created": 1729542800,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lt2ha25",
+      "score": 2,
+      "body": "Lmao this aged like milk",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lt2ha25/",
+      "created": 1729544184,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lt2ju7p",
+      "score": 2,
+      "body": "Aged like milk",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lt2ju7p/",
+      "created": 1729544942,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lspe3oz",
+      "score": 4,
+      "body": "Delete this",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lspe3oz/",
+      "created": 1729355054,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lspgngn",
+          "score": 3,
+          "body": "lol ok. take it or leave it.",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lspgngn/",
+          "created": 1729355911,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lt8mdih",
+              "score": 1,
+              "body": "Told you to delete this. MM always watching",
+              "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lt8mdih/",
+              "created": 1729632106,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lsz6qcl",
+      "score": 2,
+      "body": "It's Monday, NVDA is not tanking...",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsz6qcl/",
+      "created": 1729499837,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lspkz4w",
+      "score": 1,
+      "body": "Position or ban",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lspkz4w/",
+      "created": 1729357341,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lspm9wx",
+      "score": 1,
+      "body": "Chatgpt uses 2 year old data, I would not rely on it",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lspm9wx/",
+      "created": 1729357756,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lspmgj7",
+      "score": 1,
+      "body": "ChatGPT didn’t explain Theta to you?",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lspmgj7/",
+      "created": 1729357816,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lspn70o",
+      "score": 1,
+      "body": "RIP 🪦",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lspn70o/",
+      "created": 1729358051,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lsppwm9",
+          "score": 2,
+          "body": "*Riiiiiiiiipppp* 📈",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsppwm9/",
+          "created": 1729358937,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lsppf7v",
+      "score": 1,
+      "body": "Full port, then show losses",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsppf7v/",
+      "created": 1729358778,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsppvkh",
+      "score": 1,
+      "body": "\"Don't\"",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsppvkh/",
+      "created": 1729358927,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lspqcm4",
+      "score": 1,
+      "body": "You based it off July when NVDA was very clearly in bearish territory. NVDA cannot even fall past the 50ma on the weekly since we went bullish on the chart and indicators. Since the chart went bullish the only time it ever hit the 200ma on the weekly/ monthly was for the ASML earnings leak. Then recovered completely in 2 days. You based being bearish during a time period it was clear to be bearish into a time line currently that it’s bullish on all indicators. Each date you posted for an indicator of this NVDA was in bearish territory completely. This might be the most clueless DD I’ve ever seen ![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4271)",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lspqcm4/",
+      "created": 1729359084,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lspuv0s",
+          "score": 2,
+          "body": "i have added the full list which includes data from last 1 year. this has happened 10 out of 12 fridays",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lspuv0s/",
+          "created": 1729360569,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lspqrmw",
+      "score": 1,
+      "body": "Red candle big = put",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lspqrmw/",
+      "created": 1729359221,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsptb76",
+      "score": 1,
+      "body": "I don't know what the tea leaves are saying, but if you think puts on NVDA are a good idea right now (10/19/24), you are on TILT.",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsptb76/",
+      "created": 1729360054,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lspuibk",
+      "score": 1,
+      "body": "Awesome. i am buying calls. I always make money when I do against this subreddit. Thank you ppl!",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lspuibk/",
+      "created": 1729360451,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lspxk7s",
+      "score": 1,
+      "body": "It's a pure gamble.",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lspxk7s/",
+      "created": 1729361457,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lspygzx",
+      "score": 1,
+      "body": "All I know is that ber r usually fuk",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lspygzx/",
+      "created": 1729361752,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsq0b3e",
+      "score": 1,
+      "body": "check before july 2024, when the stock was in an overall up trend. july-september were just honestly rough months for all tech stocks nvda included",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsq0b3e/",
+      "created": 1729362352,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lsq4se9",
+          "score": 1,
+          "body": "Added an edit on my original post with the data for the whole last year.",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsq4se9/",
+          "created": 1729363823,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lsq0vgt",
+      "score": 1,
+      "body": "RemindMe! 5 days",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsq0vgt/",
+      "created": 1729362539,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lsq0zwt",
+          "score": 1,
+          "body": "I will be messaging you in 5 days on [**2024-10-24 18:28:59 UTC**](http://www.wolframalpha.com/input/?i=2024-10-24%2018:28:59%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsq0vgt/?context=3)\n\n[**4 OTHERS CLICKED THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Fwallstreetbets%2Fcomments%2F1g7bv6h%2Fputs_on_nvda_for_monday_based_on_past_3_months%2Flsq0vgt%2F%5D%0A%0ARemindMe%21%202024-10-24%2018%3A28%3A59%20UTC) to send a PM to also be reminded and to reduce spam.\n\n^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%201g7bv6h)\n\n*****\n\n|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|\n|-|-|-|-|",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsq0zwt/",
+          "created": 1729362580,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lsq258r",
+      "score": 1,
+      "body": "What are the time of day on these?",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsq258r/",
+      "created": 1729362956,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lsq35k0",
+          "score": 1,
+          "body": "I am basing this based on the daily chart",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsq35k0/",
+          "created": 1729363281,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lsq68zf",
+      "score": 1,
+      "body": "A fool and his money can stay irrational longer than their puts can stay solvent.",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsq68zf/",
+      "created": 1729364317,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lsq720d",
+          "score": 1,
+          "body": "Lol. This is meant to be a short term trade. I'm not waiting till end of week. ![img](emote|t5_2th52|12787)",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsq720d/",
+          "created": 1729364591,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lsq97md",
+      "score": 1,
+      "body": "LLMs can't reason for shit right now (see https://arxiv.org/abs/2410.05229). Anything that requires more than reproducing known answers or pattern matching will produce random results. Might as well roll some dice. 🎲🚀",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsq97md/",
+      "created": 1729365333,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lsq9uz9",
+          "score": 1,
+          "body": "Lol you gotta push the right buttons. It was frustrating to make it get the right data. It would keep switching previous and current dates. I had to ask it to print all the results of inside bars and check it myself in the chart.",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsq9uz9/",
+          "created": 1729365555,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lsqeo2k",
+      "score": 1,
+      "body": "OP if you had use perplexity instead of cgpt, your theory would at least be 2% plausible. But nope you used an AI that doesn’t even have real time data ffs.",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsqeo2k/",
+      "created": 1729367194,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsqhrd7",
+      "score": 1,
+      "body": "So pulls back for a few days, maybe the whole five day trading week and the week after it goes up 40% OK thanks look at the track record after all those dates you put",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsqhrd7/",
+      "created": 1729368254,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lsqjju3",
+          "score": 2,
+          "body": "honestly that's all I am looking for.  i don't expect a down trend. A slight pullback hopefully.",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsqjju3/",
+          "created": 1729368875,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lsqk1vi",
+              "score": 1,
+              "body": "https://preview.redd.it/3g1op2s1urvd1.jpeg?width=1179&format=pjpg&auto=webp&s=5095c667ceb585c4aec1d52329ca47b5c6a7216d\n\nWhere are you selling?",
+              "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsqk1vi/",
+              "created": 1729369048,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lsqhuyj",
+      "score": 1,
+      "body": "!remind me in 3 days",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsqhuyj/",
+      "created": 1729368288,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsqj8t8",
+      "score": 1,
+      "body": "1. Inside bars on semiconductor stocks are bearish, but this is different from others. Usually it's more, shall we say, nuanced.\n\n2. It's only ONE signal, among many, many others. Just doing this would have hardly allowed you to retire early on trading NVDA. The worst thing that could happen to you, as a matter of fact, is to be absolutely correct on this because it WILL mislead you in the future.",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsqj8t8/",
+      "created": 1729368767,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsqlvo7",
+      "score": 1,
+      "body": "You all will be buying back in at 143",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsqlvo7/",
+      "created": 1729369675,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsqlxzy",
+      "score": 1,
+      "body": "Don't. [https://imgur.com/6SvwRie](https://imgur.com/6SvwRie)\n\n$190 target confirmed. ![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4276)![img](emote|t5_2th52|4276)![img](emote|t5_2th52|4276)",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsqlxzy/",
+      "created": 1729369696,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsqpquo",
+      "score": 1,
+      "body": "This guy bearish on Nvidia while ChatGPT uses Nvidia to generate this shit post 😂",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsqpquo/",
+      "created": 1729370996,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsqqsjg",
+      "score": 1,
+      "body": "Literally read “some snalysis on chatGPT” then stopped reading",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsqqsjg/",
+      "created": 1729371351,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsqqubr",
+      "score": 1,
+      "body": "Nice fundamental analysis",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsqqubr/",
+      "created": 1729371368,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsqr863",
+      "score": 1,
+      "body": "Ridiculous. I’m in g*ddamnit 🤦🏽‍♂️",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsqr863/",
+      "created": 1729371500,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsqsv9s",
+      "score": 1,
+      "body": "Actually possible, any thoughts about Micron or Broadcom.",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsqsv9s/",
+      "created": 1729372066,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsqwwnr",
+      "score": 1,
+      "body": "Calls on Monday. Got it",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsqwwnr/",
+      "created": 1729373496,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsr1ygt",
+      "score": 1,
+      "body": "Op really tagged “chart” 😭",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsr1ygt/",
+      "created": 1729375354,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lsr4a3y",
+          "score": 1,
+          "body": "Hahah I didnt know what to tag. this is my first post here",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsr4a3y/",
+          "created": 1729376225,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lsr7yax",
+      "score": 1,
+      "body": "Have you cross referenced those dates with any other indicators like macd or opex? Anything really? You may have something but you have to give people more than a screen shot of two candles.",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsr7yax/",
+      "created": 1729377592,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lsra4hy",
+          "score": 2,
+          "body": "I gave all the dates when this happened indicating a high probability of it happening. Also the weekly chart shows a possible double top. I don't believe in MACD, it is quite a lagging indicator. looking at RSI, there is bearish divergence",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsra4hy/",
+          "created": 1729378401,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lsr9oqm",
+      "score": 1,
+      "body": "It’s a lot easier to make money with calls on nvda",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsr9oqm/",
+      "created": 1729378238,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsrbmph",
+      "score": 1,
+      "body": "Solid DD. Godspeed!",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsrbmph/",
+      "created": 1729378968,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsrcxfx",
+      "score": 1,
+      "body": "With AMD earnings around , I won’t take this step with any semis",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsrcxfx/",
+      "created": 1729379447,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsreroz",
+      "score": 1,
+      "body": "Run the same DD with nemotron 70b from Nvidia and see if you get the same result lol it's their newest",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsreroz/",
+      "created": 1729380128,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsrk3dt",
+      "score": 1,
+      "body": "It's Bollinger band is at the peak of the left half of an M on the 3 month window... It did this back in August then tanked. Probably hedge funds all pulling out at the same and tanking the stock, just to do it all over again.",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsrk3dt/",
+      "created": 1729382122,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsrlkjq",
+      "score": 1,
+      "body": ">Out of the 12 dates, on 10 occasions the price fell the next monday and tuesday.\n\nOn the 2 occasions that didn't happen, the weather at my place was sunny, so you know what's going to happen next...",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsrlkjq/",
+      "created": 1729382693,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsrn0vc",
+      "score": 1,
+      "body": "NOOOOO MY PUTS",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsrn0vc/",
+      "created": 1729383257,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsrnswi",
+      "score": 1,
+      "body": "Dang now even the average WSB user is using ChatGPT to make regarded decisions? I’m even more bullish on AI than I already was. Gl on ur puts bud lmao",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsrnswi/",
+      "created": 1729383556,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsrobqa",
+      "score": 1,
+      "body": "Meh I bought puts before close friday. And calls. Annnnnd I have no idea wtf happens but hope one will print more than the other loses lol",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsrobqa/",
+      "created": 1729383759,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsroqo8",
+      "score": 1,
+      "body": "Got me interested and excited for next week in a weird way.. whatever happens doesn’t matter for now I will be watching 😉",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsroqo8/",
+      "created": 1729383918,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lsrpr7x",
+          "score": 1,
+          "body": "hahah yes i am also keen to know what happens next week and if this comes out true or false",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsrpr7x/",
+          "created": 1729384304,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lsrq5st",
+      "score": 1,
+      "body": "they are clowning u for the regarded analysis. but these kind of regarded analysis often pan out especially ahead of a very volatile event on nov 5th. \n\nhope it works out for u, regard.",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsrq5st/",
+      "created": 1729384461,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsrqrga",
+      "score": 1,
+      "body": "I will need to see some grapsh with lots and lots of colored arrows if you wanna convice me",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsrqrga/",
+      "created": 1729384690,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsrr8bm",
+      "score": 1,
+      "body": "Theres been alot of positive news around AI etc doubt it will go down.",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsrr8bm/",
+      "created": 1729384869,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsrrhdl",
+      "score": 1,
+      "body": "Good enough puts it is",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsrrhdl/",
+      "created": 1729384966,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsrzea0",
+      "score": 1,
+      "body": "!remindme 2 days",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsrzea0/",
+      "created": 1729388082,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lt5t5qi",
+          "score": 1,
+          "body": "Thank you for your money.",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lt5t5qi/",
+          "created": 1729599576,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lss9n6t",
+      "score": 1,
+      "body": "161 by weekend",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lss9n6t/",
+      "created": 1729392166,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lssddnn",
+      "score": 1,
+      "body": "NVDA dropped after the last earnings, why does everyone think it will go up this time?",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lssddnn/",
+      "created": 1729393717,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lssdqkm",
+      "score": 1,
+      "body": "What is the prompt for ChatGPT used?",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lssdqkm/",
+      "created": 1729393868,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lssexbr",
+      "score": 1,
+      "body": "So buy calls at open on Monday.  Got it.",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lssexbr/",
+      "created": 1729394360,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lssi6tx",
+      "score": 1,
+      "body": "Babet it right now😂",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lssi6tx/",
+      "created": 1729395771,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lssqut0",
+      "score": 1,
+      "body": "Haha should've given this a DD flair!",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lssqut0/",
+      "created": 1729399828,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lssr4rq",
+      "score": 1,
+      "body": "I think stock will tank for short term after earnings. Last quarter is usually slow and same happened last year stock fell by 6%",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lssr4rq/",
+      "created": 1729399968,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lstdhh8",
+      "score": 1,
+      "body": "Im going all in on Nvda puts on Monday making my account back",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lstdhh8/",
+      "created": 1729414136,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lstgoos",
+      "score": 1,
+      "body": "Fork handles",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lstgoos/",
+      "created": 1729416381,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lstqqgb",
+      "score": 1,
+      "body": "Interesting RETROSPECTIVE analysis.",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lstqqgb/",
+      "created": 1729423118,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lstv36f",
+      "score": 1,
+      "body": "S&P Futures disagrees with you, my man, but we shall see.",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lstv36f/",
+      "created": 1729425550,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsuawdk",
+      "score": 1,
+      "body": "ya let me follow this ty",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsuawdk/",
+      "created": 1729432509,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsurxi2",
+      "score": 1,
+      "body": "![img](emote|t5_2th52|4267)![img](emote|t5_2th52|4271)",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsurxi2/",
+      "created": 1729438422,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsuveg0",
+      "score": 1,
+      "body": "I read the first sentence of your post and am now going to buy calls.",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsuveg0/",
+      "created": 1729439548,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsuvpbq",
+      "score": 1,
+      "body": "If you are right, this will look brilliant.  Good luck.  As for me, with earnings coming FOMO is going to be on Double Blue Viagra Drive.  You might get some flat or down days, but I think she is going over 150 for sure.  The earnings are going to be MONSTER; he already told you that when he used the technical term that you can bet his Lawyers vetted on Demand for Blackwell: INSANE.",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsuvpbq/",
+      "created": 1729439645,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lsuw0m0",
+          "score": 1,
+          "body": "I should note, these are my personal opinions, and in no way is this investment advice to join in the FOMO and buy NVDA.  Do your own research, even use GROQ or LLama if you want, but whatever you do, don’t use Google AI.",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsuw0m0/",
+          "created": 1729439749,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lsvv4ur",
+      "score": 1,
+      "body": "Christ I hope so.",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsvv4ur/",
+      "created": 1729450555,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsvyg8j",
+      "score": 1,
+      "body": "Go for it, position or ban.",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsvyg8j/",
+      "created": 1729451570,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsw8uif",
+      "score": 1,
+      "body": "You lost me with ChatGPT",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lsw8uif/",
+      "created": 1729454697,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lt3clmw",
+      "score": 1,
+      "body": "Welp!!!!!!",
+      "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lt3clmw/",
+      "created": 1729554922,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lt7v9ls",
+          "score": 1,
+          "body": "Lets wait till end of week. The thesis still holds.",
+          "permalink": "/r/wallstreetbets/comments/1g7bv6h/puts_on_nvda_for_monday_based_on_past_3_months/lt7v9ls/",
+          "created": 1729623868,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

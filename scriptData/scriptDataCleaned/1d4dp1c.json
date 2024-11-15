@@ -1,0 +1,1049 @@
+{
+  "title": "FSLY - Undervalued and Underhyped Cloud BEAST",
+  "score": 67,
+  "selftext": "# Intro & About me\n\nI've been watching Fastly (FSLY) stock for over a year now but it's only since their last earnings that I've started to get super hyped. I'm a Senior Devops Engineer so Fastly is a company that provides services that I'm the target user of. The higher ups in my company have decided AWS everything is the path on the company road map so I've not had a chance to work with any Fastly services - but I do have a decent understanding of their value.\n\n# Last quarter's earning, what the fuck went wrong?\n\nAfter the earnings report, FSLY dropped like a sack of shit, \\~33% from when it was already near it's 52 week low. Just like it did on the last earnings. Notice those green earning beats? Surely we're missing something,\n\n[Here's last quarters results for those of you that can read](https://investors.fastly.com/news/news-details/2024/Fastly-Announces-First-Quarter-2024-Financial-Results/default.aspx)\n\n**Summary:**\n\n* Company reports positive operating cash flow of $11.1 million\n* Total revenue of $133.5 million, representing 14% year-over-year growth\n* Last 12-month net retention rate (LTM NRR)^(1) increased to 114%\n\n# Value proposition:\n\nOkay, that's all really good, what are we missing?\n\n* Current marketcap: $1.08B\n* Current assets: $1.51B\n* Current liabilities: $514M\n* Assets - liabilities \\~= the marketcap\n\nOkay, so it's valued like it's going out of buisness? It must have shit products/services?\n\n# What the fuck do they actually do?\n\n**CDN**  \nA CDN is a Content Delivery Network, you know when you're watching porn? Where does that video stream from - thats a CDN. The internet is getting really data heavy and CDN usage is only going to rocket up.\n\n**WAF**  \nA Web Application Firewall is something you put infront of your website to filter out DDOS attacks, bots or whatever other shit that not only can cause problems but also increases operational costs. I think the offering is similar to CloudFlare which has seen huge uptake.\n\n**Compute**  \nFrom their website: \"Solve real problems at the edge with serverless computing\"\n\nOkay, this is what gets me really hard. Edge computing is absolutely the way we're going with the need for low latency solutions. Pure speculation here but if I were Fasly I'd be pushing developers to run machine learning/AI on edge.\n\nBut ML/AI uses lots of power you idiot! Some of it does, but not all of it. If your phone can already do some of the heavy lifting then edge compute can do the rest and let me tell you 2024 is the year of AI running on phones.\n\n# I DON'T GIVE A SHIT ABOUT ANY OF THAT, SHOW ME LINES ON A GRAPH!\n\nhttps://preview.redd.it/yvnla45xim3d1.png?width=630&format=png&auto=webp&s=e0f8f30bc72fef12741fd30de7a67be7455d5fb2\n\nEdit: I can't update this image but volume went up towards market close and it's a definite uptrend in volume if you look for yourself\n\nI'm no TA wizz kid but what I'm seeing here is volume starting to pickup again, bottoming out around 4 days ago. MACD is crossed over but barely and OBV looks like it's about to set a higher low. But here's the thing, I don't care about the TA. I don't care about the price. I don't have a price target, just up. I'll keep putting my paycheck into this every month as long as it stays red, I don't give a shit. Am I a bit in the red? Maybe. Do I think this bitch will print? Fo sho.\n\nI absolutely suck at Reddit posts. I'll post my position if this gets any traction but I'm about 100 July & September calls in ($8 & $10), I'd go deeper but I'm waiting to take profit on other positions so I'm a bit low on liquidity currently.\n\n# TLDR:\n\n* FSLY is valued as if it's a shit company, they're not and they have loads of assets so they aren't going anywhere anytime soon and they're not offering stock at the all time low\n* FSLY offers services which will see massive growth\n* FSLY has customer retention >100% and 14% YoY revenue growth\n\nFirst ever DD, fifth ever Reddit post, tear me to shreds you degenerates.\n\nEdit: Clarified the text as some people seem to think I work at FSLY, I do not. I'm their target customer because I build internet thingies. \n\nEdit2: The more I look into this I think this could be an acquisition play at this price. \n\nEdit3: Why is everybody being nice? Come talk shit and inverse my position, I wanna see some blood.",
+  "link_flair_text": "DD",
+  "id": "1d4dp1c",
+  "num_comments": 112,
+  "created_utc": 1717101043,
+  "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/",
+  "comments": [
+    {
+      "id": "l6djk48",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 1 | **First Seen In WSB** | just now\n**Total Comments** | 0 | **Previous Best DD** | \n**Account Age** | 4 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6djk48/",
+      "created": 1717101046,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6dkkpy",
+      "score": 49,
+      "body": "I’m going to ask my mom to make some chicken tendies and when I come back you better have some positions posted",
+      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6dkkpy/",
+      "created": 1717101400,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6dlts8",
+          "score": 21,
+          "body": "Posted as a comment as I'm too stupid to do it any better",
+          "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6dlts8/",
+          "created": 1717101833,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6fpjlf",
+              "score": 2,
+              "body": "what's the target market cap it's going to?",
+              "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6fpjlf/",
+              "created": 1717132924,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6hb0w6",
+                  "score": 1,
+                  "body": "Revenue isn't super high but it's going the right way. Heck, let's just say $4.20B. No target, just up. If we get some hype - acquisition, partnership etc. we're going straight to Uranus. There's been some insider selling but it looks like \"Sell to cover\" on vesting. If they're not buying either they can't because of insider info or they don't agree with my valuation.",
+                  "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6hb0w6/",
+                  "created": 1717165302,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l6dljg7",
+      "score": 17,
+      "body": "https://preview.redd.it/at126dxykm3d1.png?width=3120&format=png&auto=webp&s=5a89369e3980e9c41e1af5cf9f9faca6e913c2ff\n\nPositions\n\nEdit: SPY 0 date puts did okay, another few grand in tomorrow.\n\nEdit2: Decided to match my long exposure with September QQQ puts just in case.\n\nEdit3: Okay so the QQQ puts are printing and FSLY is holding support, this is even better than I'd hoped.",
+      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6dljg7/",
+      "created": 1717101734,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6h9dge",
+          "score": 2,
+          "body": "https://preview.redd.it/8mx4s0d5sr3d1.png?width=1372&format=png&auto=webp&s=b2ce0c09a647cea08f0de1702239e35bc6397cdc\n\nAdded another 8 FSLY calls and got some QQQ puts to hedge, will keep adding to this",
+          "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6h9dge/",
+          "created": 1717164702,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l6e0w9i",
+          "score": 2,
+          "body": "EDIT: I can’t read, I thought he said he worked at FSLY. \n\n😐 you may not be allowed to do what you’re doing being that you work for FSLY. Tread carefully, you could get nailed for insider trading.",
+          "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6e0w9i/",
+          "created": 1717107126,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6e2wpd",
+              "score": 7,
+              "body": "He doesnt work for FSLY or with FSLY. Hes a devops engineer so hes familiar with what FSLY does.\n\nIm also a devops engineer and also have been watching FSLY and NET.\n\nTook a position in FSLY just now. Will average in catching this knife with about 40k to deploy to it.\n\nhttps://preview.redd.it/x2cozi2a3n3d1.jpeg?width=1080&format=pjpg&auto=webp&s=764852b4a1270173e9bd5f9c9e194665014a7569",
+              "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6e2wpd/",
+              "created": 1717107867,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6e4dgw",
+                  "score": 3,
+                  "body": "Doh! I corrected my comment. I read it as he worked there. I made great money buying companies I used at work - if you know their product is competitive in the marketplace that’s my\nLitmus test. Where I worked was at FSLY then moved to NET. Both were great, no concerns there. SMCI was my big win though. Was too scared by the run up and sold at $200 though. Massive regrets.",
+                  "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6e4dgw/",
+                  "created": 1717108420,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l6e57xm",
+                  "score": 2,
+                  "body": "Yeah, I'm hopeful this is the bottom but the deeper it goes the more I buy. Hello fellow devopsgenerate.",
+                  "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6e57xm/",
+                  "created": 1717108738,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l6e7al1",
+                      "score": 2,
+                      "body": "Hello and same. Im in the same boat of idfk what my price target is, but im pretty sure its up. I might get into some 2025 calls but currently, i just bought 2k shares afterhours.",
+                      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6e7al1/",
+                      "created": 1717109504,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l6e7mna",
+                          "score": 1,
+                          "body": "I was watching afterhours, the ask price was jumping between 7.87 and 8.00 haha. I wonder if you cleared the sell wall a couple of times haha.",
+                          "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6e7mna/",
+                          "created": 1717109629,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "l6ef6u4",
+                  "score": 2,
+                  "body": "Your uber eats has arrived.",
+                  "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6ef6u4/",
+                  "created": 1717112517,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l6p4ala",
+                      "score": 1,
+                      "body": "Lmao. It took me way too long to realize you actually did mean to comment on my picture due to my uber eats notifications 🤣 you caught me.",
+                      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6p4ala/",
+                      "created": 1717285772,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "l6e41hu",
+              "score": 2,
+              "body": "Lol, what. I don't work for FSLY, I work for a private equity owned tech company. I can say whatever I want about any stock.",
+              "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6e41hu/",
+              "created": 1717108293,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6e4o5u",
+                  "score": 1,
+                  "body": "Yes I misread your initial comment as “at.” I corrected my end.",
+                  "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6e4o5u/",
+                  "created": 1717108533,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l6e5lhb",
+                      "score": 1,
+                      "body": "Aye, no bother. I edited the text to be clearer, I'm no poet when it comes to writing.",
+                      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6e5lhb/",
+                      "created": 1717108877,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l6e81hs",
+      "score": 36,
+      "body": "The catch that wasn't mentioned. \n\nThe biggest client of FSLY is TikTok. TikTok is about to be banned in the US.",
+      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6e81hs/",
+      "created": 1717109781,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6e9h46",
+          "score": 9,
+          "body": "This is factual",
+          "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6e9h46/",
+          "created": 1717110321,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l6equs6",
+          "score": 6,
+          "body": "Is tiktok still a client of fsly? I thought they lost tiktok a couple years ago.",
+          "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6equs6/",
+          "created": 1717117156,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l6ed04t",
+          "score": 3,
+          "body": "Yup and they won’t sell and if they do they’re not selling the algorithm with it which will make it no bueno.",
+          "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6ed04t/",
+          "created": 1717111668,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l80c99d",
+          "score": 3,
+          "body": "ByteDance is no longer a customer of Fastly as of approximately 2020. You can literally just go to their customer list on the website.\n\nCurrently TikToks cloud infrastructure is hosted by Oracle. You could have easily googled that.",
+          "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l80c99d/",
+          "created": 1718048168,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l6e9ru1",
+          "score": 2,
+          "body": "That's interesting, got sources? I'm not really worried about that at the current price and I'm still not convinced TikTok will get banned, think the company might change hands or something unpredictable will happen. We use TikTok API at work and although we're diversifying a bit - we're not panicing over the potential ban.\n\nEdit; Yeah, they are a big customer but even if they lost their revenue I still think FSLY is undervalued. Found that FSLY is a Microsoft Azure parterner on my digging too which is neat.",
+          "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6e9ru1/",
+          "created": 1717110435,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6eazs4",
+              "score": 4,
+              "body": "Example\n\n[Fastly's CEO on How the TikTok Battle Jolted the Cloud Platform (businessinsider.com)](https://www.businessinsider.com/fastly-ceo-bixby-tiktok-byetance-customer-cloud-edge-computing-platform-2020-11#:~:text=Fastly's%20stock%20plummeted%20in%20late,the%20end%20of%20the%20quarter.%22)\n\nFastly's stock plummeted in late October after Bixby told analysts on an earnings call that TikTok, which accounted for 11% of Fastly's revenue in the first three quarters of the year, \"removed a majority of their US and non-US traffic from our platform by the end of the quarter.\" ",
+              "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6eazs4/",
+              "created": 1717110899,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6ebpzv",
+                  "score": -1,
+                  "body": "Yeah, seems to be true but the soonest they'll actually ban it is 1 year and it could take several years. Not overly concerned.\n\n[https://www.nbcnews.com/business/tiktok-ban-bill-why-congress-when-takes-effect-rcna148981](https://www.nbcnews.com/business/tiktok-ban-bill-why-congress-when-takes-effect-rcna148981)\n\nEdit: Also that article you linked is from 2020 from the last time TikTok banning was hyped",
+                  "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6ebpzv/",
+                  "created": 1717111179,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ldr4bvn",
+                      "score": 1,
+                      "body": "didn't old mango say that he's changed his mind on banning TikTok",
+                      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/ldr4bvn/",
+                      "created": 1721300026,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l6emsl1",
+          "score": 1,
+          "body": "I doubt TikTok will be banned, they’ll sell before taking the ban. But being a one customer company is dangerous.",
+          "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6emsl1/",
+          "created": 1717115535,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6dnm0j",
+      "score": 11,
+      "body": "This could be interesting, also I aint readin' allat. I'm in.",
+      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6dnm0j/",
+      "created": 1717102452,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6dora9",
+          "score": 3,
+          "body": "Big drop on earnings beat is all we need",
+          "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6dora9/",
+          "created": 1717102853,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6e3lkb",
+      "score": 9,
+      "body": "Holy fuck how is this stock under $8 lol, remember this was pretty popular on WSB in like 2021",
+      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6e3lkb/",
+      "created": 1717108126,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6e4cb7",
+          "score": 8,
+          "body": "Yup, I searched, no posts about it for 3 months. Honestly this is what I'm asking: HOW THE FUCK IS IT UNDER $8.",
+          "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6e4cb7/",
+          "created": 1717108408,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6enpc0",
+      "score": 9,
+      "body": "Uggg.. I just bought this today and now it's on WSB. You people are fucking cursed and this stock will drill into the ground. At this point might as well have a Kramer pump and Kathy buying it.",
+      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6enpc0/",
+      "created": 1717115907,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6egfd2",
+      "score": 4,
+      "body": "Bold letters…. Pictures…. And LINKS!!! This guy fucks.",
+      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6egfd2/",
+      "created": 1717113003,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6f6b8j",
+      "score": 4,
+      "body": "I interviewed there a few months ago, but didn’t get hired. Their business seems solid. Edge computing is gonna blow up because online content is getting too heavy to deliver efficiently",
+      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6f6b8j/",
+      "created": 1717123364,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6f8idi",
+          "score": 2,
+          "body": "I interviewed too on the team that maintains a software for Edge solution. Didn’t quite like the team and the company prospects - they are overly reliable on a few big clients (TikTok being one of them). Also, almost all major cloud providers now provide CDN solutions (and very cheap). It’s a hard sell for companies that are already on one of the clouds.",
+          "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6f8idi/",
+          "created": 1717124282,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l770p4n",
+      "score": 5,
+      "body": "Ex-employee here. Biggest issue isn’t the tech in itself as it’s probably one of the best developer friendly and cutting edge in the market. Issue is that they’re highly costly for most businesses and they don’t really offer a big enough value proposition for companies using say Cloudflare to switch over. The story that the company imo is trying to set is to be in position with enough data centers around the globe to be eventually be acquired\n\n1. CISCO tried buying them out 4 years ago and they declined.\n2. Fast forward a year later, after they fired Bixby, they brought in Todd Nightingale an exec level EVP from Cisco.\n3. They burn through tons of cash to basically support the techs and it’s hard with the current market that any high profitability is in the horizon.\n\nSo I wouldn’t go with options necessarily but if you’re planning on buying and holding shares for the next 2 years it’ll be a great investment.\n\nAnd fyi to some people, TikTok represents very low  revenue to the business as they pulled most of their business 2 years ago so the app getting banned has nothing to do with it.",
+      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l770p4n/",
+      "created": 1717580302,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6j1i9h",
+      "score": 4,
+      "body": "Something really fishy is going on looking at the price action. I might start buying bit by bit from here. This stock tends to go up quite quick once starting moving to the right direction, potentially recovering 18 - 20 around eoy.",
+      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6j1i9h/",
+      "created": 1717187307,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6dz4b6",
+      "score": 5,
+      "body": "FSLY is stupid enough to hire a WSB degen? Puts. However, this guy works for free as he's giving all his money back to the company. ![img](emote|t5_2th52|12787) Calls it is. Also, I ain't reading all that, I'm in.",
+      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6dz4b6/",
+      "created": 1717106469,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6e4jsl",
+          "score": 4,
+          "body": "Not sure if you're joking about me being paid to write this or you think I work at FSLY but for clarification I don't work there but I'm their target customer.",
+          "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6e4jsl/",
+          "created": 1717108487,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6frn5t",
+              "score": 2,
+              "body": "so how do you tell mgmt that fastly is worth it? i'm not devops so i can't see what fastly has over aws",
+              "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6frn5t/",
+              "created": 1717134198,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6hc86e",
+                  "score": 1,
+                  "body": "I'll maybe come up with a cost analysis over some whisky this weekend. My company might not be big enough to move the needle \\~1B revenue a year. I could maybe do a talk at a conference though if we did migrate, that would basically be activist investing lol.\n\nEdit: FSLY vs AWS: [https://www.backblaze.com/blog/fastly-vs-aws-cloudfront-how-do-the-cdns-stack-up/](https://www.backblaze.com/blog/fastly-vs-aws-cloudfront-how-do-the-cdns-stack-up/)\n\n# Our Final Take\n\nBetween the two CDNs, Fastly is the better choice for customers that rely on managing and serving dynamic content without paying high fees to create personalized experiences for their end users. Fastly wins over AWS CloudFront on a few key points:\n\n* More price competitive for content delivery\n* Simpler pricing tiers\n* Vendor agnostic\n* Better caching\n* Easier image optimization\n* Real-time log streaming\n* More expensive, but better performing out-of-the-box WAF",
+                  "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6hc86e/",
+                  "created": 1717165731,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l6j3l4y",
+                      "score": 1,
+                      "body": "Fastly may have the better CDN, but if a company is on AWS, they're going to use CloudFront because they're already in the AWS ecosystem.  Few people are going to be hybrid AWS+Fastly just because Fastlys CDN is \"better\".  Just my take.\n\n(note: I did buy some tho, the price looks right)",
+                      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6j3l4y/",
+                      "created": 1717188062,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l6j5znt",
+                          "score": 1,
+                          "body": "Aye, if CDN isn't their life blood they'll find the gold haha",
+                          "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6j5znt/",
+                          "created": 1717188938,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l6du84g",
+      "score": 3,
+      "body": "Nice one. I’m gonna buy shares tomorrow ![img](emote|t5_2th52|4276)",
+      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6du84g/",
+      "created": 1717104752,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6f40bh",
+      "score": 3,
+      "body": "Looks like they need to raise cash at some point by dilution? Bigger debt than cash. Plus every Q they have negative cash flow.",
+      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6f40bh/",
+      "created": 1717122402,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6ghlfm",
+      "score": 3,
+      "body": "Thanks for the heads up on FSLY.  I think this could be a great play here just purely on the chart. \n\nYou can have a tight stop level for great risk reward skew - sustaining below 7.15 ain't good (last major low), so if you can get in mid 7s, set a 6.95 or so stop in case of a spike and reversal, but if that 7.15 holds then the upside has potential back toward 30 longer term.  The FSLY chart reminds me of ZIM, but before it took off a few months ago (I got in ZIM at 7 last fall, just sold at 22). \n\nI'd throw some OTM leap calls at it, but I'd go more like June 2025 and just hold tight, July2024 calls could be really risky if we get a broad market selloff soon-ish which certainly has the setup forming, or especially a larger tech/AI pullback, then this may get sold off arbitrarily and could really delay any upside until a new basing pattern can set up, which could take months, so even Sept $10s could be risky I think.",
+      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6ghlfm/",
+      "created": 1717152150,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6gj04t",
+          "score": 2,
+          "body": "Yeah, I like the chart. I'm hoping that's a double bottom forming on the daily. 100% think that my biggest risk here is a broader market sell off but I'm willing to double or even triple down in September if this doesn't pay off.\n\nThanks for the advice though. If these calls go deep red I'll consider some further out leaps as the next batch.",
+          "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6gj04t/",
+          "created": 1717152983,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6gobh3",
+              "score": 1,
+              "body": "Good luck with it.\n\nFor fun I'll give you two more that are set up to print, at least based on current chart setups, setups can always break of course.  \n\nSLV Jan/Mar/Jun $30 calls, if SLV dips sub-27 the next couple weeks (26.10 ideal), that's a mega buy, pointing toward 44-50 and could extend to 60, mirroring 2011's pattern here, could go 10x easily. Even Oct $28 SLV calls are looking good for a move toward 40 by then. I'm yoloing this play when the setup looks right. Some bigger market drop soon could push the setup out in time a bit.\n\nAnd IWM Jan/Mar 175 puts, top may already be in, or double top coming, setup is pointing toward a major small cap drop starting this summer/fall, IWM should drop to 130-150 over about 6 months. I just bought when at 209, first portion, will add on a breakdown. Could be a nice 15x if that hits.",
+              "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6gobh3/",
+              "created": 1717155838,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6gozul",
+                  "score": 2,
+                  "body": "No interest in SLV. Don't have a lot of spare liquidity currently but I'm thinking QQQ will drop much harder than the smaller caps. QQQ valuation is ridiculous and it's probably one of the better hedges for my FSLY calls. Cheers though.",
+                  "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6gozul/",
+                  "created": 1717156170,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l6gr9hm",
+                      "score": 1,
+                      "body": "No problem. FYI with NVDA as a barometer, we may get an initial scary looking drop soon, maybe sub $1k maybe not, but either way it's still set up for one final push upward toward $1200+, before the wheels come off the whole sector in the summer.",
+                      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6gr9hm/",
+                      "created": 1717157274,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l7m2wuh",
+                          "score": 2,
+                          "body": "Fantastic call on NVDA!",
+                          "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l7m2wuh/",
+                          "created": 1717807950,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l7xd4x1",
+                              "score": 1,
+                              "body": "FYI, there could be one more push up to come, to 125-128, maaaybe 130+, like even a blow off top up to 150 in the next month?  Hard to nail a \"euphoria\" price target. But, then that should be it I think, and we'll see a substantial drop.",
+                              "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l7xd4x1/",
+                              "created": 1718000082,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "l6grjeh",
+                          "score": 1,
+                          "body": "Yeah, NVDA approaching AAPL valuation is ridiculous. That's all along the lines of what I'm thinking. NVDA puts too risky and too expensive.",
+                          "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6grjeh/",
+                          "created": 1717157404,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l6iq5t3",
+      "score": 3,
+      "body": "[deleted]",
+      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6iq5t3/",
+      "created": 1717183226,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6pyj98",
+          "score": 2,
+          "body": "^ this, also Fastly is misleading it’s customers/ shareholders that a hub and spoke system isn’t adding an extra hop to their network… the class action lawsuit is legit.",
+          "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6pyj98/",
+          "created": 1717299634,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l6issg5",
+          "score": 1,
+          "body": "Okay, look at the valuation and get back to me. Better offering how? Worse services for the same price, nice. Look at the valuation portion of the DD and apply it to FSLY. Post positions and get back to me ![img](emote|t5_2th52|4275)",
+          "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6issg5/",
+          "created": 1717184166,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6iu9qn",
+              "score": 1,
+              "body": "[deleted]",
+              "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6iu9qn/",
+              "created": 1717184698,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6w7az4",
+                  "score": 1,
+                  "body": "what’s your cost basis?",
+                  "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6w7az4/",
+                  "created": 1717412798,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ldpi7c3",
+      "score": 3,
+      "body": "  i sold out. Good luck to you man. With my track record, that means things are about to rocket even further.",
+      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/ldpi7c3/",
+      "created": 1721267487,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6e7uhc",
+      "score": 2,
+      "body": "I hold shares and bought calls at three strikes after last earnings. Like the growth potential and hope new management execute well.",
+      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6e7uhc/",
+      "created": 1717109708,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6e8dp0",
+          "score": 1,
+          "body": "Yeah, those should have printed. Last two earnings have been good in my eyes. We're approaching the magical price where the marketcap is assets - liabilities, it shouldn't be anywhere near that low but even an idiot like me can see the value at this price.",
+          "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6e8dp0/",
+          "created": 1717109907,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6ei5hl",
+              "score": 2,
+              "body": "Actually, some are up. Expiry in September. Eager for shares to recover though. Definitely with you on this one.",
+              "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6ei5hl/",
+              "created": 1717113685,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l6e9tqx",
+      "score": 2,
+      "body": "Weak pump on this. A buddy of mine works there. Meh",
+      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6e9tqx/",
+      "created": 1717110456,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6ejnps",
+      "score": 2,
+      "body": "Reminds me of the FSLY guy",
+      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6ejnps/",
+      "created": 1717114281,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6op8bk",
+      "score": 2,
+      "body": "FSLY bag holder here with 300 shares average price around $50. I flipped a coin to buy this or CRWD. I lost the 50 50.\n\nI hope you're right.",
+      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6op8bk/",
+      "created": 1717279456,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6oswzo",
+          "score": 1,
+          "body": "Me too haha.",
+          "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6oswzo/",
+          "created": 1717280978,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l764pks",
+      "score": 2,
+      "body": "When is this shit taking off? It's way oversold.",
+      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l764pks/",
+      "created": 1717559522,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l7e0drt",
+      "score": 2,
+      "body": "What do you make of the insider sells",
+      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l7e0drt/",
+      "created": 1717689286,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l7e1oyd",
+          "score": 3,
+          "body": "Looks like sell to cover on vested stock, some news articles hinting at this too. So they don't really have a choice but to sell. \n\nSome other sells happened up around 15, haven't looked too deeply at those. Don't really care if they were selling at double this price or not. \n\nI'm interested in the lack of insider buys, honestly I'd be expecting to see at least one at this price which got me even more hyped. I think they might have insider knowledge that prevents them from being able to buy.",
+          "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l7e1oyd/",
+          "created": 1717689714,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l7e3ot5",
+              "score": 2,
+              "body": "Ah okay that’s good point it seems as if the recent sells are relatively small. The lack of buys is interesting with the price just ping ponging between 7.50-8.00 seems like a good accumulation range ",
+              "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l7e3ot5/",
+              "created": 1717690376,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l7e52i1",
+                  "score": 2,
+                  "body": "Yeah. I'm seeing pretty low volume currently and the chart is being a bit weird but it looks like a slow and steady climb and we've just formed a cup and handle. I won't pretend to know what's going on but it's interesting for sure.\n\nI'm sure people have shorted it from higher prices and this is a decent price to take profit at.",
+                  "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l7e52i1/",
+                  "created": 1717690829,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l8a048v",
+      "score": 2,
+      "body": "[deleted]",
+      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l8a048v/",
+      "created": 1718203931,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l8a1qbc",
+          "score": 1,
+          "body": "My man",
+          "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l8a1qbc/",
+          "created": 1718204482,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6e0r08",
+      "score": 2,
+      "body": "What about this lawsuit? FSTLY was purposely misleading its investors.\n\nhttps://www.prnewswire.com/news-releases/shareholder-alert-pomerantz-law-firm-reminds-shareholders-with-losses-on-their-investment-in-fastly-inc-of-class-action-lawsuit-and-upcoming-deadlines--fsly-302160032.html",
+      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6e0r08/",
+      "created": 1717107071,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6e3b71",
+          "score": 4,
+          "body": "Read it earlier, bought more calls. It's just kinda wishy-washy bullshit FUD, I've seen this on lots of stocks and nothing ever comes of it. Law firms are always filing cases, it's what they do. They're alledging that FSLY have mislead investors which I don't believe to be true, I don't think their stock performance is their fault. I don't really know why it's going down and I'm not gonna make up tinfoil about it.\n\n\"reported revenue of only $133.52 million, missing consensus estimates by $0.35 million\" - okay, so less than 0.5% miss which is also odd because other consesus shows it as a beat.\n\n\"The Company also lowered its FY 2024 revenue guidance to a range of $555 million to $565 million, significantly below its previously issued FY 2024 revenue guidance of $580 million to $590 million\" - meh\n\n\"The first-quarter revenue from our top 10 customers dropped from 40% to 38%\" - yawn, it's still up 14% and net retention is 114%\n\nAll the good plays come with a dash of FUD.",
+          "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6e3b71/",
+          "created": 1717108018,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6e4l22",
+              "score": 2,
+              "body": "Got it, thank you for responding :)",
+              "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6e4l22/",
+              "created": 1717108500,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l6dxelv",
+      "score": 1,
+      "body": "[removed]",
+      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6dxelv/",
+      "created": 1717105859,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6eue57",
+      "score": 1,
+      "body": "THE LAWSUIT: A class action securities lawsuit was filed against Fastly, Inc. that seeks to recover losses of Fastly shareholders who were adversely affected by alleged securities fraud between February 15, 2024 and May 1, 2024.",
+      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6eue57/",
+      "created": 1717118576,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6eulp6",
+          "score": 2,
+          "body": "Couldn't care less, read that and bought more calls ![img](emote|t5_2th52|4271)",
+          "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6eulp6/",
+          "created": 1717118662,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6f73e6",
+      "score": 1,
+      "body": "Where does your data to do AI/ML on the edge come from?  That was a real strange comment my brain short circuited over.",
+      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6f73e6/",
+      "created": 1717123691,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6f8jbq",
+          "score": 2,
+          "body": "Not sure if you're asking for evidence, none because I said pure speculation. Or if you mean the data as in the model...? The compute platform could be used for inference at low latency. \n\nI know that there's a push to move AI to the edge in industry, some of that is on devices themselves running locally but something has to bridge the gap where that's not ideal.",
+          "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6f8jbq/",
+          "created": 1717124293,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6f8oyl",
+      "score": 1,
+      "body": "I interviewed on the team that maintains a software for their Edge servers. Didn’t quite like the team and the company prospects - they are overly reliable on a few big clients (TikTok being one of them). Also, almost all major cloud providers now provide CDN solutions (and very cheap). It’s a hard sell for companies that are already on one of the clouds. They almost need a pivot. Very hard to beat AWS, GCP, Azure at the CDN game.",
+      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6f8oyl/",
+      "created": 1717124358,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6f8p0x",
+          "score": 2,
+          "body": "*This “pivot.” Is it in the room with us now?*\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",
+          "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6f8p0x/",
+          "created": 1717124358,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l6fbjbr",
+          "score": 1,
+          "body": "Yeah, I don't see them becoming the number one host of every website's JS. I think their platform offers solutions to slightly more niche use cases which are trending upwards. Admittedly from what I've seen in comparisons their CDN is better than other offerings.\n\nIf you want compute at edge they're absolutely best in class. They beat Cloudflare workers in the comparisons I've read and AWS's closest offering is Lambda I think and it comes nowhere close in response times.",
+          "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6fbjbr/",
+          "created": 1717125609,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6fy0qd",
+      "score": 1,
+      "body": "sooo when u think they will turn a profit and make their first dollar?",
+      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6fy0qd/",
+      "created": 1717138339,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6g7n09",
+          "score": 2,
+          "body": "I think two more quarters, they're investing in growth which is pretty normal for tech companies.",
+          "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6g7n09/",
+          "created": 1717145257,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6gp2c2",
+      "score": 1,
+      "body": "The same happened to Cloudflare.\nAkamai is not so good too.\n\nDoes the Internet no more need CDN?",
+      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6gp2c2/",
+      "created": 1717156205,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6gqe8t",
+          "score": 1,
+          "body": "From looking at Cloudflare's chart they were definitely overvalued for a period of time. Although CDN usage is rocketing, a lot of it is from core cloud providers Amazon, Google, Microsoft. I think compared to Cloudflare, FSLY is insanely underpriced too. \n\nI think FSLY has a niche here, they architected their CDN network differently than other providers (fewer, larger nodes) and the performance speaks for itself. \n\nI believe they will start to taper off spending and move towards becoming more profitable over the next few years or their demand for edge compute will increase drastically or they'll be acquired.",
+          "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6gqe8t/",
+          "created": 1717156853,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l7516nc",
+      "score": 1,
+      "body": "Positions update?",
+      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l7516nc/",
+      "created": 1717542757,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l752dr2",
+          "score": 1,
+          "body": "Nothing too crazy, maybe 10ish calls added. More to come.\n\nhttps://preview.redd.it/z6emsba12n4d1.png?width=3120&format=pjpg&auto=webp&s=e066f5f9688d688d2bb5916be96f1812dc3e71e3",
+          "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l752dr2/",
+          "created": 1717543224,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lcel0j7",
+              "score": 1,
+              "body": "OP where we at now?",
+              "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/lcel0j7/",
+              "created": 1720555992,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lcenh9a",
+                  "score": 2,
+                  "body": "Chilling, still buying. Waiting for the next paycheck.",
+                  "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/lcenh9a/",
+                  "created": 1720556767,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lex0fbf",
+                      "score": 1,
+                      "body": "[removed]",
+                      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/lex0fbf/",
+                      "created": 1721934426,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lab2p9s",
+      "score": 1,
+      "body": "how do you foresee the earnings playing out?",
+      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/lab2p9s/",
+      "created": 1719369866,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "laneamf",
+      "score": 1,
+      "body": "just buy cloudflare",
+      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/laneamf/",
+      "created": 1719561385,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lanppm9",
+          "score": 1,
+          "body": "Nah",
+          "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/lanppm9/",
+          "created": 1719569356,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lgxunrd",
+      "score": 1,
+      "body": "Is it too late to inverse you?",
+      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/lgxunrd/",
+      "created": 1723039258,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lgzyzyr",
+          "score": 1,
+          "body": "This stock is slowly beating my balls to a blueish color now.",
+          "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/lgzyzyr/",
+          "created": 1723062831,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lh5i7b5",
+          "score": 1,
+          "body": "Did you see my update with the QQQ September puts? What if I told you that my FSLY position was dipping my toes in the water and now I'm buying in much more?\n\nEdit: got up to 6 455 QQQ puts, next update incoming in a bit.",
+          "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/lh5i7b5/",
+          "created": 1723143221,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ljzc497",
+      "score": 1,
+      "body": "Cost basis finally dipped under $10 for me this month.\nI wasn't grossly impressed by the earnings call but I'll give them another 2-3 quarters.\n\nThe tech is great, just need the sales team to perform and be lead well during this time\n\nGood luck mate",
+      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/ljzc497/",
+      "created": 1724658650,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llcqqap",
+      "score": 1,
+      "body": "I'm still keeping an eye on Fastly!",
+      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/llcqqap/",
+      "created": 1725391790,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmxv8xo",
+      "score": 1,
+      "body": "Get readyy ![img](emote|t5_2th52|4276)",
+      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/lmxv8xo/",
+      "created": 1726240671,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmxvip4",
+          "score": 1,
+          "body": "Yeah, my 6 calls are printing, I just kept buying. If it goes above 7.50 I'll post my update haha",
+          "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/lmxvip4/",
+          "created": 1726240759,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lmxvrc9",
+              "score": 1,
+              "body": "nono dont lets keep this under the radar for a bit ![img](emote|t5_2th52|29637)",
+              "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/lmxvrc9/",
+              "created": 1726240836,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lmxw8o2",
+                  "score": 1,
+                  "body": "Sweet. If it does above ten I'll be rich, seems unlikely but I still think it would be fairly valued",
+                  "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/lmxw8o2/",
+                  "created": 1726240992,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "luw7b0e",
+      "score": 1,
+      "body": "Thinking about playing earnings next week - seems like SaaS stocks are making a turn around.",
+      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/luw7b0e/",
+      "created": 1730484422,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6ev4a2",
+      "score": 1,
+      "body": "Did a quick DCF valuation for FSLY. On a 5 year forecast looking at FCFF, the stock is worth 0.65 per share today. Super overvalued penny stock! ![img](emote|t5_2th52|4271)",
+      "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6ev4a2/",
+      "created": 1717118870,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6ev9n6",
+          "score": 7,
+          "body": "Cool, then buy puts\n\nEdit: ![img](emote|t5_2th52|31224)",
+          "permalink": "/r/wallstreetbets/comments/1d4dp1c/fsly_undervalued_and_underhyped_cloud_beast/l6ev9n6/",
+          "created": 1717118929,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

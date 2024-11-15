@@ -1,0 +1,1489 @@
+{
+  "title": "NVDA's Big Drop in Prices: The True Reason Behind the AI Chip Revolution",
+  "score": 169,
+  "selftext": "Recently, Anthropic, a small startup with funding 5-6 times smaller than OpenAI, launched their latest model, Claude 3.5 Sonnet, with performance surpassing OpenAI's flagship GPT-4. Google also quickly released Gemini-1.5-Pro, which swiftly outperformed GPT-4-Turbo. Sounds interesting, but how is this related to NVIDIA? Simply put, both Google and Anthropic use Google's TPU (Tensor Processing Unit) chips to train both of these models. Shortly after OpenAI announced the \"divine\" GPT-4, Anthropic only began to release their first model, Claude-1, which was like a joke compared to the modern GPT-4. Google was even slower in launching Google Bard, later renamed Gemini 1.0, which became a meme, and everyone thought OpenAI would be unbeatable. OpenAI relied on expensive and power-hungry NVIDIA chips, spending $100 million and several years of training to launch an expensive GPT-4 model that most regular free users couldn't access. In less than a year, Anthropic and Google easily surpassed them, launching models superior to GPT-4 at a cost 10 times cheaper, with training costs also 10 times lower and only taking a few months.\n\nThe situation with general-purpose GPU chips for AI training is similar to using them for Bitcoin mining in 2014 - expensive, energy-consuming, and wastefully space-occupying, until Bitcoin difficulty increased to the point where NVIDIA GPUs became useless and ASIC Bitcoin miners emerged to replace them. Therefore, thinking that NVIDIA will monopolize the AI chip market is just the thinking of Wall Street traders who only know companies through Bloomberg articles and have no expertise in the field.\n\nThanks to NVIDIA's expensive and inefficient GPUs, a basic user paying $20/month can still only access GPT-4 in a limited and expensive way, while Google is providing FREE API access to their FLAGSHIP MODEL, Gemini-1.5-Pro. Remember that Claude 3.5 Sonnet isn't even the flagship model, but just an inexpensive mid-tier model. Claude 3.5 Opus will be released and it will surpass GPT-4.5 or even GPT-5 thanks to NOT USING NVIDIA GPUs.\n\nhttps://preview.redd.it/pj8ia6qd5v7d1.png?width=1080&format=png&auto=webp&s=bcd49cc4ebd859cada3333eb678956372cc8484e\n\n",
+  "link_flair_text": "Discussion",
+  "id": "1dkwqna",
+  "num_comments": 167,
+  "created_utc": 1718948890,
+  "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/",
+  "comments": [
+    {
+      "id": "l9kso0b",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 1 | **First Seen In WSB** | just now\n**Total Comments** | 0 | **Previous Best DD** | \n**Account Age** | 2 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9kso0b/",
+      "created": 1718948894,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9kybq2",
+      "score": 136,
+      "body": "TSMC is the long hedge, since they make Google's TPUs and Nvidia's GPUs. They are limited by fab capacity at the moment.",
+      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9kybq2/",
+      "created": 1718952526,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9l18q2",
+          "score": 107,
+          "body": "Don't buy the company selling picks, buy the foundry that forges the heads",
+          "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9l18q2/",
+          "created": 1718954550,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9lcmkd",
+              "score": 27,
+              "body": "Yep. They also make AMD's and Apple's chips... it is the goto for every fabless chip company.",
+              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lcmkd/",
+              "created": 1718962943,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l9lo15y",
+              "score": 16,
+              "body": "So asml then.",
+              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lo15y/",
+              "created": 1718969947,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l9lqbrm",
+                  "score": 10,
+                  "body": "A great company to be sure, but a bit more overbought on forward PE, PEG ratio and price to sales atm. A good long play though.",
+                  "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lqbrm/",
+                  "created": 1718971121,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l9ls7ha",
+                      "score": 18,
+                      "body": "It’s overbought compared to TSM bc it doesn’t have to deal with an existential threat from China \n\nIf TSM was in Norway or where ever ASML is it too would be overbought",
+                      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9ls7ha/",
+                      "created": 1718972043,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l9mfmrc",
+                          "score": 6,
+                          "body": "I don't see China doing a full blown invasion of Taiwan in the forseeable future, but I stay away from TSMC on the off chance that they end up like Bacardi  in Havana 1959.",
+                          "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9mfmrc/",
+                          "created": 1718981430,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l9mlec7",
+                              "score": 7,
+                              "body": "Doesn’t matter if you believe it or not\n\nThe price is suppressed bc of the perception of others that it could happen\n\nYou not believing it doesn’t impact others believing it and not buying or selling due to that perception",
+                              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9mlec7/",
+                              "created": 1718983448,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l9qkm38",
+                                  "score": 1,
+                                  "body": "The longer that passes without China following through on their threat, the less people will believe it could happen.",
+                                  "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9qkm38/",
+                                  "created": 1719044868,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "l9rowkb",
+                                      "score": 1,
+                                      "body": "Maybe\n\nMost officials in the US government and military believe 2027\n\nSo I don’t know how well this really plays out for you when most people with any expertise think it’s 3 years from now. Like maybe in 4 years people won’t think it’s a real possibility anymore? Is that a win? I don’t know",
+                                      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9rowkb/",
+                                      "created": 1719067587,
+                                      "depth": 8,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "l9n9uef",
+                              "score": 2,
+                              "body": "!remind me 5 years",
+                              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9n9uef/",
+                              "created": 1718991784,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "l9lt7os",
+                          "score": 4,
+                          "body": "Netherlands",
+                          "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lt7os/",
+                          "created": 1718972518,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l9ltkwc",
+                              "score": 5,
+                              "body": "That’s the one",
+                              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9ltkwc/",
+                              "created": 1718972686,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l9lyi5x",
+                                  "score": 4,
+                                  "body": "Imagine it's in Norway 😂 I shall forge these dies with my axe",
+                                  "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lyi5x/",
+                                  "created": 1718974882,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "l9o5hrs",
+                              "score": 1,
+                              "body": "s",
+                              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9o5hrs/",
+                              "created": 1719002762,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l9py9sl",
+                                  "score": 1,
+                                  "body": "Whatever, Dutchland, Holland, who call themselves \"Nether-land-S\" anyway... Who are those nether people... sigh... I feel a long wiki rabbit hole coming.\n\nEdit: oh it's just \"low-lands\", like Chuguo means \"middle-land\" (China). Whatever.",
+                                  "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9py9sl/",
+                                  "created": 1719030220,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "l9lxuns",
+                      "score": 3,
+                      "body": "You said peg 🤣",
+                      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lxuns/",
+                      "created": 1718974601,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l9qkej7",
+                          "score": 2,
+                          "body": "![img](emote|t5_2th52|8882)",
+                          "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9qkej7/",
+                          "created": 1719044715,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "l9lzruw",
+                  "score": 2,
+                  "body": "I'm going for AMAT and LCRX. They make the machines that TSCM uses.",
+                  "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lzruw/",
+                  "created": 1718975421,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l9m8hzw",
+                  "score": 1,
+                  "body": "ASML, TOELY, LAM, AMAT.",
+                  "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9m8hzw/",
+                  "created": 1718978849,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l9nix7d",
+              "score": 1,
+              "body": "Don't buy the company that forges the heads, buy the company that makes the forges.",
+              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9nix7d/",
+              "created": 1718994917,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l9o77s6",
+                  "score": 1,
+                  "body": "we gotta buy silicon miners",
+                  "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9o77s6/",
+                  "created": 1719003367,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l9qyd4p",
+                      "score": 2,
+                      "body": "Maybe its better to buy stock in the company's that sell the shovels to the silicon miners",
+                      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9qyd4p/",
+                      "created": 1719054829,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l9kzjud",
+          "score": 2,
+          "body": "![img](emote|t5_2th52|27189) that’s my main semi position!",
+          "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9kzjud/",
+          "created": 1718953364,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l9lw5f4",
+          "score": 5,
+          "body": "as if intel and samsung don't exist",
+          "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lw5f4/",
+          "created": 1718973856,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9m76h2",
+              "score": 4,
+              "body": "Intel and Samsung are years behind TSMC though.",
+              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9m76h2/",
+              "created": 1718978352,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l9mbb5l",
+                  "score": 2,
+                  "body": "if you mean years ago. [https://www.tomshardware.com/tech-industry/intel-3-3nm-class-process-technology-is-in-high-volume-production-intel](https://www.tomshardware.com/tech-industry/intel-3-3nm-class-process-technology-is-in-high-volume-production-intel)",
+                  "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9mbb5l/",
+                  "created": 1718979889,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l9mc3tp",
+                      "score": 3,
+                      "body": "Samsung can fab 3nm just like TSMC, but TSMC is still far superior in efficiency and performance.  Look at cell phones for example.  We all know Intel is years behind as well.\n\nEDIT: Intel 3 is classified as 5nm according to IEEE specifications with 50nm gate pitch and 30nm interconnect pitch. TSMC N3 actually beats IEEE specifications for 3nm at 48nm gate pitch and 23nm interconnect pitch.",
+                      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9mc3tp/",
+                      "created": 1718980177,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l9ml96w",
+                          "score": 3,
+                          "body": "Intel has 18A next year which makes them the first to use Backside Power delivery. They will also have the best transistor, the best substrate and the best packaging. Also they will be the first using ASML next gen EUV which TSMC currently has not even ordered yet, while the first so called HIGH NA EUV machine already has been delivered to intel. Yes its true ASML nect gen High NA EUV currently has its problems (baking wafers etc...) But ASML always finds a solution and they also teamed up with Intel under Gelsinger leadership (the guy who basically invented x86)... So yeah TSMC days are numbered, no China invasion needed.   \nTSMC will loose market leadership by End of 2025 and they will be left in the dust by 2027. Mark my words.",
+                          "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9ml96w/",
+                          "created": 1718983399,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l9my0ze",
+                              "score": 2,
+                              "body": "Show your puts",
+                              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9my0ze/",
+                              "created": 1718987770,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "l9mjojy",
+                          "score": 1,
+                          "body": "Need to compare performance characteristics to gauge competitiveness. Not measurements of what 5nm was at that time.",
+                          "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9mjojy/",
+                          "created": 1718982851,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l9l0hf5",
+          "score": 2,
+          "body": "that will be the case until a China invasion of Taiwan",
+          "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9l0hf5/",
+          "created": 1718954010,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9l5qfh",
+              "score": 36,
+              "body": "China is too busy trading NVDA options on WallStreetBets to be thinking about starting war with Taiwan.",
+              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9l5qfh/",
+              "created": 1718957832,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l9poxwr",
+                  "score": 2,
+                  "body": "As Chinese i can say that it's accurate😂",
+                  "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9poxwr/",
+                  "created": 1719025512,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l9pnxon",
+                  "score": 1,
+                  "body": "I‘m Chinese Xi, I confirm. Bought NVDA 180CALL  9/20, please daddy Jensen, keep being the great semi leader, invading Taiwan will blow up my calls",
+                  "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9pnxon/",
+                  "created": 1719025048,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l9lj6v2",
+              "score": 10,
+              "body": "not going to happen any time soon.\n\nCCP is already in full saving face mode by telling the world they won't be tricked into a war over Taiwan by the evil Americans.",
+              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lj6v2/",
+              "created": 1718967251,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l9lora3",
+                  "score": 3,
+                  "body": "Yeah I think that was their way of saying \"we not doin a war, I bought NVDA calls\"",
+                  "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lora3/",
+                  "created": 1718970322,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l9lxmuu",
+                  "score": 5,
+                  "body": "lol you misread it. They basically say “when we invade, just remember it’s America’s fault”",
+                  "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lxmuu/",
+                  "created": 1718974508,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l9lzw93",
+                      "score": 4,
+                      "body": "He said the US was trying to trick China into invading [Taiwan](https://www.ft.com/taiwan), but that he would not take the bait.\n\n[https://www.ft.com/content/7d6ca06c-d098-4a48-818e-112b97a9497a](https://www.ft.com/content/7d6ca06c-d098-4a48-818e-112b97a9497a)",
+                      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lzw93/",
+                      "created": 1718975471,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l9m1bvg",
+                          "score": 2,
+                          "body": "And when he invaded he’ll point back to that comment and say “see? I told you America was going o force us to do this”\n\nBut don’t take my word for it, look at this:\n\nhttps://maritime-executive.com/editorials/china-is-preparing-merchant-ro-ro-ferries-for-amphibious-warfare\n\nThis is the type of shit you *only do* if you’re gonna launch an invasion of an island close enough to your shores that you can use river ferries for transit……",
+                          "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9m1bvg/",
+                          "created": 1718976061,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l9mwk0p",
+                              "score": 3,
+                              "body": "yeah they have been preparing for 80 years now.",
+                              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9mwk0p/",
+                              "created": 1718987269,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "l9maq1l",
+                  "score": 1,
+                  "body": "or some weird way to blame  the US",
+                  "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9maq1l/",
+                  "created": 1718979675,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l9l1iml",
+              "score": 9,
+              "body": "You mean until they finish building foundries in the US. China invading Taiwan nothing.",
+              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9l1iml/",
+              "created": 1718954744,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l9l1q5h",
+                  "score": 2,
+                  "body": "you really think semiconductors will cost the same if they were manufactured in US ? plus you won't be able to extract all the technologies secrets from Taiwan, thats literally their only survival guarantee and you think they will offer it to the US ? so they become disposable ..",
+                  "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9l1q5h/",
+                  "created": 1718954895,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l9l2006",
+                      "score": 23,
+                      "body": "TSMC is the one building the foundries goofball. And no, they won't be more expensive. Taiwanese engineers are paid well. Taiwan isn't fucking India.",
+                      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9l2006/",
+                      "created": 1718955092,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l9lmloq",
+                          "score": 6,
+                          "body": "TSMC is definitely NOT bringing the high tech fab to the US.",
+                          "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lmloq/",
+                          "created": 1718969191,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l9lscmd",
+                              "score": 2,
+                              "body": "The silicon shield",
+                              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lscmd/",
+                              "created": 1718972111,
+                              "depth": 6,
+                              "replies": []
+                            },
+                            {
+                              "id": "l9o5ywb",
+                              "score": 1,
+                              "body": "I suspect they're not going to have a choice. I don't mean the government coercing them, I mean that competition will force them to do it.",
+                              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9o5ywb/",
+                              "created": 1719002928,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l9ok53v",
+                                  "score": 1,
+                                  "body": "Why would they need to manufacture in the US to beat the competition when they are beating it from Taiwan?",
+                                  "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9ok53v/",
+                                  "created": 1719008179,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "l9n07bn",
+                          "score": 0,
+                          "body": "If they're made in the US they will be more expensive, cost of work is just higher here",
+                          "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9n07bn/",
+                          "created": 1718988513,
+                          "depth": 5,
+                          "replies": []
+                        },
+                        {
+                          "id": "l9l92li",
+                          "score": -13,
+                          "body": "really dude ? you think they are paid as much as American engineers ? or even half ?",
+                          "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9l92li/",
+                          "created": 1718960312,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l9lb3im",
+                              "score": 14,
+                              "body": "They are, it’s public and you could check it if you wanted in five minutes flat. Do some people just think everywhere outside of America is a burning impoverished crater?",
+                              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lb3im/",
+                              "created": 1718961820,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l9lyeh8",
+                                  "score": 2,
+                                  "body": "A lot of Americans think that, as someone from an immigrant background. They think all of Africa and Asia are poor and starving.",
+                                  "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lyeh8/",
+                                  "created": 1718974838,
+                                  "depth": 7,
+                                  "replies": []
+                                },
+                                {
+                                  "id": "l9muc94",
+                                  "score": 0,
+                                  "body": "Dude it's not the pay that's the problem, they're overworked to the bone in those fabs even if it's good pay. Who would do the same in the US, that culture and mentality do not exist at high pays unless you like pain and suffering I guess.",
+                                  "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9muc94/",
+                                  "created": 1718986511,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "l9my3ve",
+                                      "score": 2,
+                                      "body": "America is a Mecca of working yourself silly with poor PTO for a lot of money, what do you mean?",
+                                      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9my3ve/",
+                                      "created": 1718987798,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "l9n35a9",
+                                          "score": 1,
+                                          "body": "Yes, but not to the level of asian countries where you're obliged to stay as long as your boss is staying and then sleep at your desk pretending to work just to give that image that you're a hard worker. We haven't reached that level of bootlicking just yet. Maybe one day but not today thankfully. There is too much individualism here vs. collectivism there, so we're ok with switching jobs faster when it suits us.",
+                                          "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9n35a9/",
+                                          "created": 1718989508,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "l9lab5t",
+                              "score": 11,
+                              "body": "Yes. I do. Their salaries are public.",
+                              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lab5t/",
+                              "created": 1718961237,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l9lb79t",
+                                  "score": -8,
+                                  "body": "would you state those numbers please ?",
+                                  "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lb79t/",
+                                  "created": 1718961898,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "l9lqptj",
+                      "score": 1,
+                      "body": "Taiwan is disposable to us, for the right price. \n\nBesides the Marines already know which TSMC engineers they'll pluck from Taiwan as soon as the invasion begins.\n\nHave you seen the \"Taiwan village\" in Arizona? Why do you think they're here?",
+                      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lqptj/",
+                      "created": 1718971315,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l9lylxm",
+                          "score": 0,
+                          "body": "The U.S. getting involved with a Taiwan invasion would provoke war with China. It isn’t worth it. \n\nWhy Arizona? The driest, hottest state for manufacturing semiconductors, which is a water-intensive process? Phoenix and Yuma are borderline uninhabitable in the summer because of the heat…",
+                          "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lylxm/",
+                          "created": 1718974926,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l9lyydo",
+                              "score": 2,
+                              "body": "I don't disagree, but the only redeeming value of Taiwan is their semiconductor value chain. Once we force their big players from TSMC to UMC out of that island, the rest is all up for negotiation with China.",
+                              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lyydo/",
+                              "created": 1718975074,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "l9lc9k5",
+              "score": 5,
+              "body": "It seems not many people know about their Japan fab.\n\nhttps://preview.redd.it/cd9uwallaw7d1.jpeg?width=1284&format=pjpg&auto=webp&s=26530f418745bfea8dc749b37a5b98ea0e2ab583",
+              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lc9k5/",
+              "created": 1718962684,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l9plggg",
+              "score": 1,
+              "body": "none of these companies are a hedge if that happens\n\nNasdaq crash 37.4% from high to low in wake of Russia-Ukraine + a fragile market —and they’re not even important to said firms \n\nIntel, ASML all get a third of their revenue from China\n\ninvasion across the TW straight would crater all tech so if you care about hedges for that it sure af ain’t another tech company … it would be cash or gold to buy them at a discount",
+              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9plggg/",
+              "created": 1719023910,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l9otxpz",
+          "score": 1,
+          "body": "then why the fuck did my TSMC calls get absolutely rekt",
+          "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9otxpz/",
+          "created": 1719012117,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9qkp0x",
+              "score": 1,
+              "body": "Because you touch yourself at night",
+              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9qkp0x/",
+              "created": 1719044929,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l9lz5lo",
+          "score": 1,
+          "body": "But TSMC margins are pretty low, and they will remain low.",
+          "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lz5lo/",
+          "created": 1718975161,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9qkbea",
+              "score": 1,
+              "body": "38.16%, not bad",
+              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9qkbea/",
+              "created": 1719044649,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l9kwuxc",
+      "score": 67,
+      "body": "The problem with your image is that the rankings of ai models is so arbitrary right now, everyone takes a biased approach in their own benchmarking suites. It’s not possible to be presented a figure, and just compare the superiority of these models. But there is a qualitative way, see for yourself at Chatbot Arena. https://chat.lmsys.org/?leaderboard\n\nAt end of the day, I think the economics of data center gpu rentals will fall eventually as all commodities do. Right now, there is a shortage.",
+      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9kwuxc/",
+      "created": 1718951554,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9nbvmg",
+          "score": 9,
+          "body": "Another thing is that Nvidia's H-series chips are barely GPUs (in that they kind of suck at texture processing) but are mostly tensor processors. Or, in other words, not that different from dedicated AI chips like Google's, but with the CUDA.",
+          "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9nbvmg/",
+          "created": 1718992475,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l9kvsut",
+      "score": 37,
+      "body": "Most intriguing, but potential fear-mongering without some sources.\n\n> “Anthropic selects AWS as its primary cloud provider and **will train** and deploy its future foundation models on AWS Trainium and Inferentia chips” 10/16/23\n\n> “Anthropic **will use** AWS Trainium and Inferentia chips to build, train, and deploy its future models and has made a long-term commitment to provide AWS customers around the world with access to future generations of its foundation models on Amazon Bedrock” 03/27/24\n\nWas Claude really trained on alternative chips? I searched for articles, but everything was written in future tense, i.e. no definitive timeline of when Anthropic started (or even has begun) to use alternatives to $NVDA.\n\nAn alternative hypothesis is that Anthropic has advanced faster than OpenAI because they are a late runner, and they caught up so quickly precisely because $NVDA chips got better. Edit: other commenters mentioned that the benchmarks presented in the post are potentially arbitrary.\n\nDisclaimer: I do own $NVDA/NVDX/call leaps, but it is to my interest to figure out too in case I need to deleverage.\n\nEdit: [further reading,](https://julsimon.medium.com/video-transformer-training-shootout-aws-trainium-vs-nvidia-a10g-f2408533b852)\n\n> “I first launch a trn1.32xlarge instance (16 Trainium chips) and a g5.48xlarge (8 A10Gs)…The results? The Trainium job is 5x faster. As the trn1 instance is only 30% more expensive” 02/24/23\n\nNote that A10Gs by $NVDA was launched on 04/12/21. It is now ‘24, and $NVDA is touting Blackwell with Rubin on the horizon.",
+      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9kvsut/",
+      "created": 1718950865,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9kx6v0",
+          "score": 5,
+          "body": ">Since we introduced it in August, customers have embraced TPU v5e for a diverse range of workloads spanning AI model training and serving: Anthropic is using TPU v5e to efficiently scale serving for its Claude LLM. Hugging Face and AssemblyAI are using TPU v5e to efficiently serve image generation and speech recognition workloads, respectively. Additionally, we rely on TPU v5e for large-scale training and serving workloads of cutting-edge, in-house technologies such as Google Bard.\n\n>\n\n[https://cloud.google.com/blog/products/compute/announcing-cloud-tpu-v5e-in-ga](https://cloud.google.com/blog/products/compute/announcing-cloud-tpu-v5e-in-ga)\n\nI don't see any announcements from Claude about NVIDIA. I think they use a mix of Google and Amazon chips, mostly Google because most of their early funding came from Google. Maybe in the future they will use Amazon too.",
+          "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9kx6v0/",
+          "created": 1718951772,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9lu11o",
+              "score": 4,
+              "body": "You can just watch AMZN and GOOG earnings - if they're as great as they say they are, they should see earnings bumps similar to NVDA, and we should see NVDA margin fall.\n\n\nNeither of these things have happened nor projected by management in the coming quarters.. just business as usual.",
+              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lu11o/",
+              "created": 1718972891,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l9kxv1t",
+              "score": 10,
+              "body": "> I don't see any announcements from Claude about NVIDIA. I think they use a mix of Google and Amazon chips\n\nMaybe because $NVDA is the default? Like we ask “is it Mac compatible?” and never “is it PC compatible?”\n\nBut it is worth investigating for sure. My background is in genetics, so I can only point out the assumptions your article seems to run on.\n\nWould like to see some up-to-date tests, since $NVDA is innovating too.",
+              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9kxv1t/",
+              "created": 1718952219,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l9lyzea",
+              "score": 2,
+              "body": "The language used there (“serving”) implies inference, not training.",
+              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lyzea/",
+              "created": 1718975087,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l9o5ldy",
+              "score": 1,
+              "body": "I think the relationship is reversed here. Google gave Anthropic 300M, Anthropic promises to use TPUs to train. Some time later AWS gave Antropic 4B, Anthropic promises to use Tranium to train. \n\nThey are both just paying Antropic to use their chips to get a foot hold in the game. It says nothing about how good their chip is compare to NVidia. Even if Antropic’s model is better it could just be the used way more resources to train it. Only to Antropic price per performance is still amazing cause price is better than free, they got paid for it.",
+              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9o5ldy/",
+              "created": 1719002798,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l9lumsy",
+      "score": 13,
+      "body": "“Big drop” ![img](emote|t5_2th52|4271)",
+      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lumsy/",
+      "created": 1718973169,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9mvfa8",
+          "score": 1,
+          "body": "[deleted]",
+          "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9mvfa8/",
+          "created": 1718986881,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9mwcgf",
+              "score": 4,
+              "body": "Sure this is possible however I’m trading since late 90s and this market gives me Y2K vibes. NVDA is an extreme bubble which will burst. Not calling the top yet but I’m pretty sure how this will end.",
+              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9mwcgf/",
+              "created": 1718987197,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l9m3pjb",
+      "score": 8,
+      "body": "Google only has a free API right now to attract developers because they are behind in terms of mind share. Nvidia will keep selling because their software stack is still really good and well known. You can't even buy Google TPUs.\n\nWe will see what the future will bring us.",
+      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9m3pjb/",
+      "created": 1718977011,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9kv4xl",
+      "score": 43,
+      "body": "NVidia cards are expensive, because they have monopoly and can set any price they want. More competitors they have - more the price will drop. Margin on these cards is like 2000% of production cost.",
+      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9kv4xl/",
+      "created": 1718950438,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9l12wz",
+          "score": 9,
+          "body": "I know hardly nothing about what it takes to mimic Nvidia hardware infrastructure, but as a Layman's point of view I would think with such margins and trillions of valuation on line, I would assume competition would or should eventually catch up, although on other hand other current competitors such as AMD are not close at all, so I do wonder what is their such a magic ingredient within Nvidia?",
+          "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9l12wz/",
+          "created": 1718954435,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9l3dj0",
+              "score": 17,
+              "body": "They started earlier with hardware. Then they invested heavily in CUDA so all ML libraries were developed with cuda backend. OpenCL was not nearly as popular. So now they hook up all research to their cards and   win. And then new AI revolution happens and everybody want to use ML in their business and NVDA has all the software and hardware and ready to deliver. And only then other companies wake up. So you can win if you anticipate the market before it started to move, just like in trading.",
+              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9l3dj0/",
+              "created": 1718956093,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l9lc4ek",
+                  "score": 7,
+                  "body": "But sustaining that edge requires you to do it again and again...",
+                  "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lc4ek/",
+                  "created": 1718962579,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l9lthqk",
+                      "score": 5,
+                      "body": "They've been doing it for decades, with the rusted out carcasses of their competition in their wake.",
+                      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lthqk/",
+                      "created": 1718972645,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "l9m5ndv",
+                  "score": -2,
+                  "body": "People assuming NVDA solution is one size fits all.  Their cards are notoriously power hungry which doesn’t suit well for any large scale uses.  Other solutions will be found and other language models will be achieved.  I’m sure other major players have been doing their own research and development for at least a few years",
+                  "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9m5ndv/",
+                  "created": 1718977767,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l9l1gkv",
+              "score": 12,
+              "body": "The magic ingredient is proprietary design and time on TSMC foundries. There's only one chip manufacturer in the world that can produce the chips. NVDA has them locked up when Intel doesn't.",
+              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9l1gkv/",
+              "created": 1718954706,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l9lnsr7",
+              "score": 6,
+              "body": "The problem is time and lock in - Nvidia is ahead because they started this in 2006 and they've locked everyone into their ecosystem. Even if competitors try to copy Nvidia, and they've already tried, they're 10+ years behind in tech and Nvidia is going to keep people in their ecosystem ala apple and other sticky vendors",
+              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lnsr7/",
+              "created": 1718969826,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l9lmkdx",
+              "score": 1,
+              "body": "Also nvidea margins allow Tsmc to charge nvidea more for printing their chips which allows them to give nvidea preference for manufacturing capacity so nvidea can control the supply chain through their pricing even if they don’t own Tsmc.",
+              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lmkdx/",
+              "created": 1718969171,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l9ltmhb",
+          "score": 7,
+          "body": "I work in AI and I think it’s gonna be a significant drop. Sooo many big, established companies have developed or are in the early stages of rolling out CPU-based deep learning platforms that will make gen ai processes a lot more possible on CPUs without meriting the cost / resource suck of GPUs. So far, Nvidia is a hardware monopoly, and their dominance in gen ai has been their golden ticket. I’m not sure what their business model will be when (not if, when) GPUs are matched and outpriced by cpu-powered tools in terms of AI work streams.",
+          "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9ltmhb/",
+          "created": 1718972706,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9m9c2r",
+              "score": 4,
+              "body": "U say u work in AI but what does that actually mean. A lot of jobs are introduceding AI tools. So unless u work in like AI development or something like that u just work a regular job.",
+              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9m9c2r/",
+              "created": 1718979162,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l9nbiyj",
+                  "score": 2,
+                  "body": "\nlol. Using ai tools while at work is objectively not the same as working professionally within the industry of ai. I don’t think anyone would say “I work in ai” unless they…work in the industry of ai development/tech. \n\nI don’t disclose specific details on Reddit obviously, but I work for a small/mid sized tech firm that develops platforms for ai processes and my role is technical and presentational. So yes, I do literally work on ai tools and no, I’m not a random employee in like, account management or HR at Google or meta or some random technoglomerate that’s rolling out its own semi-pointless consumer-facing “gen ai,” if that’s what “ur” implying. It is literally my job, exactly like I said.",
+                  "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9nbiyj/",
+                  "created": 1718992356,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l9o5wbp",
+              "score": 2,
+              "body": "Can you give an example of significant advances in CPU-based deep learning (not just inference). I just don't see how deep learning is possible without massive parallelism. Maybe there are some things happening with federated learning? Even then, it's way less efficient for most use cases than a GPU cluster or some other kind of massively parallel architecture.",
+              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9o5wbp/",
+              "created": 1719002903,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l9lz5ad",
+              "score": 3,
+              "body": "If they can get AI processes to run efficiently on standard CPUs then that’s essentially it for Nvidia. They’ll have to pivot back to making graphics cards like they did in the ‘90s or find some other revenue stream, or else face bankruptcy. \n\nI don’t think they’ll get to the point of being bankrupt but if your analysis is correct there is nowhere for this to go but down.",
+              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lz5ad/",
+              "created": 1718975158,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l9lz5b4",
+                  "score": 3,
+                  "body": "*This “pivot.” Is it in the room with us now?*\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",
+                  "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lz5b4/",
+                  "created": 1718975158,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l9pj70n",
+                  "score": 1,
+                  "body": "I think the gaming market will be small for nvidia in a few years. AMD is making excellent APUs (combined cpu and gpu) that are good enough for gaming for the average person. \n\nThe gaming card market will shrink from every pc gamer to just the most serious enthusiast. \n\nAFAIK nvidia has no answer to Amds Apu and I wouldn’t be surprised if Intel has one coming as well. \n\nSoon you’ll be able to get better than PlayStation graphics on those garbage 499$ laptops at Walmart",
+                  "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9pj70n/",
+                  "created": 1719022871,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l9ly8v0",
+              "score": 1,
+              "body": "This means puts on nvda right?",
+              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9ly8v0/",
+              "created": 1718974770,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l9l9zf1",
+      "score": 7,
+      "body": "Yeah, Claude 3.5 looks impressive as fuck. 3 was already competitive.",
+      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9l9zf1/",
+      "created": 1718960996,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9ksntf",
+      "score": 15,
+      "body": "Our AI tracks our most intelligent users. After parsing your posts, we have concluded that you are within the 5th percentile of all WSB users.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",
+      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9ksntf/",
+      "created": 1718948891,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9ld7fn",
+      "score": 9,
+      "body": "[deleted]",
+      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9ld7fn/",
+      "created": 1718963351,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9m25c3",
+          "score": 5,
+          "body": "If Aschenbrenner is right then any sort of long-term investment strategy becomes irrelevant. ASI existing would end society and capitalism as we know it and introduce variables we can’t currently fully predict (Kurzweil’s “singularity”). It’s likely that we’d need a new economic system for the post-ASI world, as capitalism is based on human labor and scarcity and both of these things would be reduced in such a world. \n\nIf you’re under 30, and Aschenbrenner is right, it’s probably a waste to fund your Roth. Still not a risk I’d be willing to take, because Aschenbrenner fails to take into account perhaps the most important variable—the human element. Most people (myself NOT included) fear ASI and don’t want it to be invented. Once serious conversations about AI move out of San Francisco labs and into bars, coffeehouses, offices and homes, a political movement to stop AI advancement will unfortunately spring up.",
+          "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9m25c3/",
+          "created": 1718976388,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9r34xh",
+              "score": 1,
+              "body": "Did conversations in coffee shops and bars stop us from inventing the atomic bomb? AGI is probably inevitable at this point if for no other reason than national defense. Amd once it exists, there is no going back.",
+              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9r34xh/",
+              "created": 1719057616,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l9r6ndj",
+                  "score": 1,
+                  "body": "The atomic bomb was a murder weapon, and humans love violence. Violence is something the average person can understand, war is something they identify with. \n\nAI is essentially an alien mind to them, and if there’s one thing that truly scares the average person it’s *change* and *the “other”*. They fear change more than they fear war.",
+                  "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9r6ndj/",
+                  "created": 1719059505,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l9mdsvb",
+          "score": 2,
+          "body": "This is what I believe too. All the big tech companies suddenly woke up and believed that developing AGI was both possible and close at hand when Chat-GPT launched late last year. While they will all be working on their own AI chips they will also be buying every NVIDA chip they can lay their hands on because the first company to get usable AGI will be the king and the potential profits are enormous. This in the short term NVIDA is going to keep printing money like crazy. If these tech companies develop AGI or it becomes clear that they cannot do it soon then I would sell that stock fast but I don't think there is enough time for any company to wait for different hardware and software to be developed.",
+          "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9mdsvb/",
+          "created": 1718980785,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l9lshv1",
+      "score": 3,
+      "body": "I think this is good stuff to \"price in\", but until people are actually ordering these TPUs for their own massive data center deployments and those TPUs are backlogged up to TSMC's capacity constraints, none of this matters\n\nIts the same deal with AMD's GPUs\n\nif people aren't comfortable with the software toolchain and stability, they're going to join the queue for Nvidia's hardware at a premium",
+      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lshv1/",
+      "created": 1718972181,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9l7j4g",
+      "score": 13,
+      "body": "https://preview.redd.it/jou1ep860w7d1.jpeg?width=1076&format=pjpg&auto=webp&s=099d133020878e4f296a7d040403a93f1da21d63\n\nFuck",
+      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9l7j4g/",
+      "created": 1718959176,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9lnj9c",
+          "score": 1,
+          "body": "NVIDIA red pre market means it will end up 3% up",
+          "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lnj9c/",
+          "created": 1718969688,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9lnq39",
+              "score": 1,
+              "body": "![img](emote|t5_2th52|27189)![img](emote|t5_2th52|27189)![img](emote|t5_2th52|27189)",
+              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lnq39/",
+              "created": 1718969787,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l9l8g9k",
+      "score": 7,
+      "body": "Thank you sir, can you plesse tell me in which stock i should lose my money next ?",
+      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9l8g9k/",
+      "created": 1718959855,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9ktskk",
+      "score": 10,
+      "body": "Great DD",
+      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9ktskk/",
+      "created": 1718949585,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9nsp6h",
+      "score": 3,
+      "body": "Llms have basically peaked. They will only be as good as the training data. There is nothing intelligent about them. They are an expensive, lossy compression database.",
+      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9nsp6h/",
+      "created": 1718998319,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9otmmk",
+          "score": 0,
+          "body": "You don't use them and are blatantly lying. SOTA is genius level; just like the new Sonnet 3.5.",
+          "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9otmmk/",
+          "created": 1719011990,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9oupqi",
+              "score": 1,
+              "body": "Lmao ok buddy. It literally took me 5 seconds to prove how non intelligent a transformer is. All it does is multiply some values to determine the most probable characters that come next. There is nothing intelligent about them.\n\nAn 8 year old could do this.\n\nhttps://preview.redd.it/aqavhlqpe08d1.jpeg?width=1080&format=pjpg&auto=webp&s=32c58a65cdfba03996843e79d765e45cc9bb7a1c",
+              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9oupqi/",
+              "created": 1719012439,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l9owgeh",
+                  "score": 1,
+                  "body": "Genius level indeed.",
+                  "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9owgeh/",
+                  "created": 1719013157,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l9p0ao6",
+                  "score": 1,
+                  "body": "What an idiotic use case. LLMs are clearly not intended for this. Nobody is using them to generate sentences ending in specific letters. That's like trying to prove a supercomputer is dumb by asking it to play tic-tac-toe. LLMs are designed for complex language understanding and generation, not arbitrary letter games. Your \"test\" completely misses the point of what makes these models revolutionary.\n\nHave you even tried using a modern LLM for actual productive tasks? They can write coherent essays, debug complex code, analyze scientific papers, and engage in nuanced conversations across countless topics. The fact that you think this childish test somehow proves anything shows a profound misunderstanding of the technology.\n\nYour simplistic view of \"multiplying values\" grossly undersells the sophisticated neural architectures and training processes involved. These models have demonstrated capabilities that were thought to be decades away just a few years ago. Dismissing them as \"expensive, lossy compression databases\" is not just wrong, it's willfully ignorant.\n\nBefore making sweeping claims about the limits of AI, I suggest you actually spend some time working with these tools and stay up to date on the latest research. Your current stance is about as informed as someone in 1950 claiming computers will never be more than glorified calculators.",
+                  "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9p0ao6/",
+                  "created": 1719014768,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l9p0u0x",
+                      "score": 2,
+                      "body": "You keep using words like 'understanding', 'debug', 'analyze'.... no LLM does this, lol. I deliviver ML projects at work, and I use them every day. I've built my own from scratch for fun.\n\nI'm not making any sweeping claims, I just don't perpetuate the bs hype behind them.",
+                      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9p0u0x/",
+                      "created": 1719014994,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l9p62hw",
+                          "score": 0,
+                          "body": "What are you even talking about? If you actually work with LLMs, you'd know that \"understanding,\" \"debugging,\" and \"analyzing\" are precisely what they're capable of doing. Your claim of delivering ML projects while simultaneously denying these basic capabilities is frankly unbelievable.\n\nBuilding a toy model \"from scratch\" doesn't give you insight into the cutting-edge capabilities of state-of-the-art systems. That's like saying you understand modern aerospace engineering because you've made a paper airplane.\n\nYour dismissal of these terms shows a fundamental misunderstanding of how LLMs operate. They absolutely do demonstrate forms of understanding through their ability to contextualize information, generate relevant responses, and perform complex reasoning tasks. They can debug code by identifying errors, suggesting fixes, and explaining the logic behind those fixes. And they certainly analyze text by extracting key information, summarizing content, and drawing inferences. It's people like you, with a little bit of knowledge and a lot of misplaced confidence, who hinder progress by dismissing genuine advancements.\n\n___\n\n\n>'analyze'.... no LLM does this, lol.\n\nFor a particular story subject, I can explain my own message reasoning more in-depth with the assistance of an LLM.\n\nI have done that successfully: writing an unfinished text response about a topic with context, then asking the AI to continue the given message.\n\nSome words, phrases, or sentence ideas are good; I include it in my message, then repeat the process at some point again if I need to. I know the topic, so if something is off or wrong, I either correct it or dismiss whatever part is has said incorrectly. The LLM demonstrably knew a series topic pretty well here—with decent, useable feedback:\n\n[Here's an example of the process](https://poe.com/s/cZAFEciT6Ou9MXEUkBcN)\n\nIt helped greatly in developing a comprehensive and insightful response to the given story topic. I was able to quickly respond to a Reddit post about a narrative series topic, and it easily got double the most upvotes of anyone from the thread. A large majority of the people looking at the thread liked the response I had done using extensive LLM assistance.\n\nLLMs demonstrably can analyze given texts, as my example clearly shows. The prompt I provided, and the resulting approval from the niche Subreddit community following that given thread, is a perfect example of how these models can analyze complex narrative contexts, understand intricate character motivations, and generate coherent, nuanced content that resonates with a *knowledgeable audience.*\n\n—It analyzed the given context about Elaine's background and extrapolated how her experiences as Kaiser would have shaped her character. It demonstrated an understanding of the psychological transformation required to go from a failed Princess candidate to a ruthless ruler, all while maintaining consistency with the established lore of the Tower of God universe.\n\nThis isn't just simple text prediction; it's a sophisticated analysis of character development, societal structures, and the long-term consequences of traumatic experiences. The model showed an ability to draw logical conclusions based on given information and expand on themes in a way that was deemed valuable by the community.\n\nYour dismissal of these capabilities as \"bs hype\" is not just misguided; it's again: willfully ignorant. You're either working with severely outdated models or you're fundamentally misunderstanding how to utilize these tools effectively. The fact that you can't see the analytical capabilities demonstrated in this example suggests a serious lack of expertise in the field you claim to work in.",
+                          "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9p62hw/",
+                          "created": 1719017206,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l9p70xo",
+                              "score": 1,
+                              "body": "You are confusing stitching together tokens based on training data with intelligence, you are the moron here, not me. The simple example I pasted above was just a quick way to dispel the illusion of how they work. You can generate coherent text, but it is not the model that is building it, it is the millions of people who wrote the training data before, which means it cannot come up with its own ideas.... kind of exactly how I described it before you went on a normal one.\n\nAnother thing that makes people sound stupid is when they talk about hallucinations, the model does not hallucinate, some engineer decided to add a very deliberate randomness function for when similar data was not found.\n\nLLMs are the most effective when generating the most common data that already exists and have the most trouble with niche cases, and are completely incapable of generating anything unrelated to the training data.",
+                              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9p70xo/",
+                              "created": 1719017611,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l9pmpzm",
+                                  "score": 1,
+                                  "body": "Are you serious right now? The characterization of LLMs as merely \"stitching together tokens\" fundamentally misses the mark. These models aren't just reciting memorized text; they're learning complex patterns and relationships between concepts. This enables them to generate new ideas and solve problems they weren't explicitly trained on—a clear demonstration of their capabilities beyond simple regurgitation.  \n  \nYour fixation on the \"millions of people who wrote the training data\" ignores the revolutionary leap these models represent. It's akin to dismissing human intelligence as nothing more than reciting facts we've been taught, completely overlooking our ability to synthesize information and generate new ideas.  \n  \nThe claim that LLMs are \"completely incapable of generating anything unrelated to the training data\" is demonstrably false. These models routinely combine concepts in novel ways, produce original ideas, and even create fictional scenarios absent from their training data. Have you actually experimented with cutting-edge models like GPT-4o or Claude-3.5 Sonnet? Your statements suggest a lack of hands-on experience with state-of-the-art systems besides playing with the alphabet.  \n  \nYour simplistic letter-ending test is a perfect example of missing the forest for the trees. It's like judging a car's utility based on its inability to fly—you're completely overlooking the intended purpose and actual applications of the technology. LLMs are designed for complex language tasks, not arbitrary letter games.\n\n>but it is not the model that is building it, it is the millions of people who wrote the training data before, which means it cannot come up with its own ideas.\n\nIt has consistently given me new ideas not directly represented in its training set. Based on the linked example from before (its analysis of a series character and series lore)—Elaine's transformation into Kaiser and how it ironically fulfilled the Princess archetype was a novel synthesis of information, not a regurgitation of existing content. \n\nThis type of in-depth character analysis and exploration of the psychological impacts of the Princess system is not something found in Tower of God (series) discussions, for it to be common training set material. The level of detail and nuanced understanding demonstrated in connecting Elaine's failed Princess candidacy to her later ruthless behavior as Kaiser is original thinking, not simply *rehashing existing ideas.*\n\nThe analysis draws connections between distinct elements of the story—the Princess selection process, Elaine's upbringing, her failure in the selection, and her subsequent reign as Kaiser—in a way that provides new insights into the character and the world-building. \n\nAgain, the[ LLM-assisted comment response](https://www.reddit.com/r/TowerofGod/comments/18rewfj/comment/kf1qtkb/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) based on that sort of topic received strong positive feedback from the series-following community who read through that thread, indicating that the analysis resonated as both accurate to the source material as well as being meaningful. If this were simply **regurgitated content from the training set**, it's unlikely it would have been so well-received by knowledgeable fans. The LLM demonstrated an ability to integrate information, draw original connections, and provide insights that even dedicated followers found valuable and accurate. This level of analysis and creativity goes far beyond simple pattern matching or recitation of training data, or asking it to make a silly, useless list of 8 words that start with the letter \"hoa\".",
+                                  "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9pmpzm/",
+                                  "created": 1719024495,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "l9pprfi",
+                                      "score": 1,
+                                      "body": "😐... We're in a bubble.",
+                                      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9pprfi/",
+                                      "created": 1719025900,
+                                      "depth": 8,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l9lx7x6",
+      "score": 4,
+      "body": "The post is basically wrong across the board, really doesn’t understand how these things work or what’s actually used, so more calls until it clears up for everyone",
+      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lx7x6/",
+      "created": 1718974325,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9kzyfp",
+      "score": 1,
+      "body": "I use chat-gpt, everyone I know uses chat-gpt, ain't no one heard of Claude.  Nvidia chips are the gold standard and if you got the funding, it is the default chip to buy.  Only reason some use tensor and other chips is because either they don't got the funding or don't want to wait on the backorder.  To argue Nvidia is being challenged is actually a good thing, it'll get anti-trust off their backs.\n\nBenchmarks are arbitrary, to simply say it's better or worse than chat-gpt is misleading.",
+      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9kzyfp/",
+      "created": 1718953642,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9lkzu6",
+          "score": 3,
+          "body": "In the end price matters. If TPU powered AI will be 5x cheaper, then companies will use that.\n\nTraining and running inference is the leading cost for most AI companies. If they can reduce that cost 5x they will.",
+          "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lkzu6/",
+          "created": 1718968296,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l9otvgn",
+          "score": 1,
+          "body": "I use Claude often and it's better than ChatGPT in many ways. Now way better. Claude generated text is much cleaner and less robotic than ChatGPT.",
+          "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9otvgn/",
+          "created": 1719012091,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l9ld65l",
+          "score": 1,
+          "body": "Copilot is way better than chatGPT. Anyone still using that site is WAY behind lol",
+          "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9ld65l/",
+          "created": 1718963326,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l9kykkb",
+      "score": 2,
+      "body": "NVDA 150, 5/7",
+      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9kykkb/",
+      "created": 1718952696,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9lrktn",
+      "score": 1,
+      "body": "NVDA said s hack to where it was on Tuesday. I think we’re gonna be okay.",
+      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lrktn/",
+      "created": 1718971741,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9lyyq5",
+      "score": 1,
+      "body": "If China invades Taiwan at some point when the weather permits, which American stateside company is best poised to take up the slack in processor production?",
+      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lyyq5/",
+      "created": 1718975079,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9m4efw",
+      "score": 1,
+      "body": "Companies are seeing NVDA as not having competition and that allows NVDA to bang whatever costs to the customer.  I’m sure the big companies (Microsoft, Google, ARM, AMD, etc) are researching and coming up with their own cost effective solutions.",
+      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9m4efw/",
+      "created": 1718977284,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9n9f8a",
+      "score": 1,
+      "body": "Doesn't Anthropic use AMZN's trainium and infererentia chips now??\n\n\n I think that was part of the partnership.\n\n\n*Source:\n\n\nhttps://www.aboutamazon.com/news/company-news/amazon-anthropic-ai-investment",
+      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9n9f8a/",
+      "created": 1718991643,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9nb242",
+      "score": 1,
+      "body": "I see a graph with lines but no explanation for how the benchmarks are calculated.  In my experience gpt models still are the most reliable for coding questions.  I use gpt for assistance with my work on a weekly basis (software engineering).  My experience with Gemini was garbage, the model was horrible.  Many incorrect answers that were way out of context from the question.  I am dubious that other models are outperforming gpt for code related questions.",
+      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9nb242/",
+      "created": 1718992197,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9oug1j",
+          "score": 1,
+          "body": "Watch YouTube videos on people using it; it seems to function a lot better from what I've seen.",
+          "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9oug1j/",
+          "created": 1719012328,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l9nbe5w",
+      "score": 1,
+      "body": "I don’t see nuthing. I’ll come back next week!!",
+      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9nbe5w/",
+      "created": 1718992311,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9nehih",
+      "score": 1,
+      "body": "The large companies are buying billions of NVDA cards at 75% profit margin hand over fist because short term it makes financial sense. Long term more cost effective in house solutions will emerge. People who believe NVDA margin will continue at the current levels years out are delusional IMHO.",
+      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9nehih/",
+      "created": 1718993370,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9njcsm",
+      "score": 1,
+      "body": "When we see the T-1 Terminator?",
+      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9njcsm/",
+      "created": 1718995067,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9nmrol",
+      "score": 1,
+      "body": "tl;dr - buy NVDA - anyone who doesn't understand CUDA/SDKs and entrenched developer support thinks there is an alternative like AMD/GOOG, etc.\n\nNVDA will be dominant the same way MSFT was dominant because if you wanted software, you had to have Windows. There were some alternatives, but they were niche and/or sucked.",
+      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9nmrol/",
+      "created": 1718996258,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9nsdkl",
+      "score": 1,
+      "body": "This is wall street bet, you don't make option money on unpopular craps. NVDA moon because of volumes.",
+      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9nsdkl/",
+      "created": 1718998209,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9opn80",
+      "score": 1,
+      "body": "No - and I didn't even read that - it's just a temporary high that's not gonna matter in a few months",
+      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9opn80/",
+      "created": 1719010372,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9pm3w6",
+      "score": 1,
+      "body": "There's a video describing the difference is training vs inference. Nvidia supposedly is best for training and these others are better at inference. \n\nDon't trust me though I don't know what I'm talking about.",
+      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9pm3w6/",
+      "created": 1719024212,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9lw2pw",
+      "score": 1,
+      "body": "sensible management knows you don't need ridiculously expensive GPUs to do this. The elon musks and zuckerbergs of the world will keep throwing away their company's money",
+      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lw2pw/",
+      "created": 1718973823,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9kxuzf",
+      "score": 1,
+      "body": "[deleted]",
+      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9kxuzf/",
+      "created": 1718952218,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9l286j",
+          "score": 1,
+          "body": "Probably more related to Messi's one on one miss",
+          "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9l286j/",
+          "created": 1718955259,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l9lfpkn",
+      "score": 1,
+      "body": "So.. calls on TSMC?",
+      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lfpkn/",
+      "created": 1718965063,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9lhcbs",
+          "score": 4,
+          "body": "Puts on NVDA.",
+          "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lhcbs/",
+          "created": 1718966120,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l9kzlu4",
+      "score": -3,
+      "body": "Ive used chatgpt, gemini, clause, microsoft copilot. And ranking them on best to worse, most accurate to least accurate.\n1. microsoft copilot\n2.chatgpt\n3.claude\n4.gemini\n\nThe difference between 1 and 2 isnt major. But difference between 1,2 and 3,4 is huge. \n\nOverall i just enjoy using copilot the most and and gpt.",
+      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9kzlu4/",
+      "created": 1718953403,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9l1iqv",
+          "score": 16,
+          "body": "Hard disagree. Copilot is a steaming pile of crap. GPT-4o is far better ",
+          "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9l1iqv/",
+          "created": 1718954747,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9ld7z9",
+              "score": 1,
+              "body": "You have definitely never used copilot.",
+              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9ld7z9/",
+              "created": 1718963362,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l9m0zwl",
+                  "score": 2,
+                  "body": "I have. It's goddamn shit.",
+                  "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9m0zwl/",
+                  "created": 1718975925,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l9m0xqq",
+          "score": 3,
+          "body": "microsoft copilot? You fucking kidding me? That AI was the worst shit when I tried it. It couldn't even tell me that it knew it was Copilot lol \n\nIt was even worse than Gemiini. Really blows my mind how Microsoft claims it's powered same as Chatgpt 4",
+          "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9m0xqq/",
+          "created": 1718975900,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9mo8q0",
+              "score": -1,
+              "body": "Your tripping, co pilot much more convenient and is the most accurate",
+              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9mo8q0/",
+              "created": 1718984429,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l9l3u68",
+          "score": 5,
+          "body": "I hard prefer Claude over GPT",
+          "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9l3u68/",
+          "created": 1718956434,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9lpyzy",
+              "score": 1,
+              "body": "Same",
+              "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lpyzy/",
+              "created": 1718970943,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l9l48my",
+      "score": 0,
+      "body": "Thank you very much. Very informative article. I believe at the end Google's AI models will surpass all because they have most talent far ahead of competitors. OpenAI lost many talent recently.",
+      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9l48my/",
+      "created": 1718956723,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9ktrvw",
+      "score": 0,
+      "body": "Following",
+      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9ktrvw/",
+      "created": 1718949573,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9kuu4f",
+      "score": 0,
+      "body": "hmmmmmmm",
+      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9kuu4f/",
+      "created": 1718950244,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9lg5zt",
+      "score": -3,
+      "body": "What do you think about Huawei’s Ascend 910B AI chip ? They claim it achieves an efficiency of up to 80% compared to NVIDIA’s A100 when training large-scale language models\n\nSource : https://www.trendforce.com/news/2024/06/11/news-huaweis-self-developed-ai-chip-challenges-nvidia-boasting-its-ascend-910b-to-be-equal-in-match-with-a100/",
+      "permalink": "/r/wallstreetbets/comments/1dkwqna/nvdas_big_drop_in_prices_the_true_reason_behind/l9lg5zt/",
+      "created": 1718965360,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

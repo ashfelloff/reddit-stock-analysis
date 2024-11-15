@@ -1,0 +1,1604 @@
+{
+  "title": "Nvidia's Q1 Earnings Visualized",
+  "score": 1929,
+  "selftext": "",
+  "link_flair_text": "Discussion",
+  "id": "1cyblbu",
+  "num_comments": 210,
+  "created_utc": 1716412642,
+  "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/",
+  "url_overridden_by_dest": "https://i.redd.it/jtai84vzn12d1.jpeg",
+  "comments": [
+    {
+      "id": "l5c3jnl",
+      "score": 1,
+      "body": "No Advertising/Self Promo. Please review the rules",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5c3jnl/",
+      "created": 1716478295,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l58d4do",
+      "score": 1212,
+      "body": "Those are some insane margins at that scale",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l58d4do/",
+      "created": 1716413306,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l58kbrp",
+          "score": 597,
+          "body": "It helps when you sell $30k data center cards that cost $3k to make",
+          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l58kbrp/",
+          "created": 1716415947,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l58sfmp",
+              "score": 225,
+              "body": "It’s so easy, why doesn’t everyone do it?",
+              "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l58sfmp/",
+              "created": 1716419094,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l595mfz",
+                  "score": 185,
+                  "body": "Well he didnt say it was easy",
+                  "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l595mfz/",
+                  "created": 1716424595,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l59jvtx",
+                      "score": 64,
+                      "body": "Nor did he say he doesn’t",
+                      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59jvtx/",
+                      "created": 1716430324,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "l59ce8q",
+                  "score": 77,
+                  "body": "it costs billions in research and development blackwell cost 10Bill acording to jensen and they will be selling those cards for 40k",
+                  "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59ce8q/",
+                  "created": 1716427320,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l59exah",
+                      "score": 70,
+                      "body": "If the cost was the only barrier (especially a paltry 10 billion), everyone and their mom would be designing GPUs…nvidia has been at this for a long long time",
+                      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59exah/",
+                      "created": 1716428321,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l59hvm0",
+                          "score": 15,
+                          "body": "Here’s a dumb question: why can’t other companies copy it? Or make some modification so it doesn’t infringe on the product",
+                          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59hvm0/",
+                          "created": 1716429503,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l59n6zg",
+                              "score": 83,
+                              "body": "Decades or research, this is some of most complicated shit ever designed…plus it’s not just hardware, it’s the whole software ecosystem nvidia has been working on for a decade+ (CUDA)",
+                              "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59n6zg/",
+                              "created": 1716431673,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l5a35i0",
+                                  "score": 39,
+                                  "body": "Another important thing is all the current AI scientists and developers were trained on CUDA when they were learning in school. It was the only game in town for generative AI for nearly 20 years and Nvidia worked with universities so they would teach their students using their product.\n\nIt's somewhat similar to how Photoshop is so dominant despite there being cheaper alternatives - everybody learned to use Photoshop in school.",
+                                  "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5a35i0/",
+                                  "created": 1716439242,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "l5a5bl2",
+                                      "score": 24,
+                                      "body": "A small correction to what you are saying: I would say very few PhD students who become AI research scientists would ever touch CUDA code. Nowadays, it's more accurate to say students learn libraries to do said AI research - like PyTorch or JAX - that rely on CUDA under the hood. So needing to know CUDA is abstracted away.\n\nCUDA programming is for those trying to squeeze performance out of the GPU and more so an engineering problem than a research problem, which is a very different skillset. That being said, there are rockstars working at OpenAI and such who can do both.",
+                                      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5a5bl2/",
+                                      "created": 1716440482,
+                                      "depth": 8,
+                                      "replies": []
+                                    },
+                                    {
+                                      "id": "l5a6gr7",
+                                      "score": 4,
+                                      "body": "Yeah many people don't realize how much beyond just hardware Nvidia has wrapped up into this. Absolutely the last 2 decades have been leading up to this monumental year. Developing architecture and a lithography process and all the software integration. \n\nI got into gaming on PC at the launch of the gtx200 series when cuda tech came to the scene. You could buy AMD for cheaper but the amount of software issues with drivers and random crashes was a very apparent thing. \n\nAnd now I just realized I'm replying to the goat you personally inspired me to get back into the game and begin selling options and using margin. Still learning everyday \n\nNeed a boat captain?",
+                                      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5a6gr7/",
+                                      "created": 1716441158,
+                                      "depth": 8,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "l59p9ju",
+                              "score": 22,
+                              "body": "This isn’t some knockoff AirPod situation though. There are layers upon layers of hardware and software confidentiality, and layers upon layers of industry that are dependent on Nvidia’s technology. Even if AMD, Nvidia’s closest competitor, managed to deliver an equivalent or even better GPU product (as they have been close to before), the cost of adapting and migrating would be astronomical.",
+                              "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59p9ju/",
+                              "created": 1716432516,
+                              "depth": 6,
+                              "replies": []
+                            },
+                            {
+                              "id": "l59rs3p",
+                              "score": 7,
+                              "body": "There is no excess manufacturing capacity to accommodate anyone else's \"copies\" or alternatives.  \n\nNvidia and AMD have bought all of TSMC's CoWoS and SoIC capacity through 2025.   This is more simply referred to as \"advanced packaging\" and is needed to create the complex final products and TSMC is the only game in town (unless you want to give Intel a shot, which no one is willing to do right now).  Then you get into the required memory, HBM3 and HBM3e used in the AI accelerators.  There are three suppliers in the world, Micron, Samsung and SK Hynix.  Nvidia has bought all of Micron and SK Hynix's supply through early/mid 2025 already.  Samsung apparently can't pass Nvidia's validation to become a supplier to them, but Samsung does supply AMD (so AMD has lower quality standards?).  \n\nSo the reality is, for the next 12-18 months, there is little to no capacity for any competitive alternatives outside of Nvidia and AMD, because you can't access the manufacturing or acquire the necessary memory.  And Nvidia simply has an entire ecosystem that they've thought out and can deploy en-mass with a robust and mature software development suite.  \n\nAnd if we FFWD 18 months, because of the head start Nvidia got and the lack of any competitive alternatives, Nvidia simply becomes the market leader and no one is going to stray from that with so much established capacity in place.",
+                              "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59rs3p/",
+                              "created": 1716433575,
+                              "depth": 6,
+                              "replies": []
+                            },
+                            {
+                              "id": "l59qdv7",
+                              "score": 15,
+                              "body": "Because it's like saying \"why can't someone just copy and paste New York City, in Africa\".  It's too expensive, too complex, too much momentum behind it.  The best China can do is knockoff designs that are 10 years old.",
+                              "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59qdv7/",
+                              "created": 1716432981,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l5a3dh9",
+                                  "score": 5,
+                                  "body": "Showboating about NYC in 2024 in attempt to talk down Chinese cities  is so highly regarded.",
+                                  "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5a3dh9/",
+                                  "created": 1716439366,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "l5a9ovw",
+                                      "score": 5,
+                                      "body": "Winnie the Pooh isn’t raising your social credit score for praising their tofu construction.",
+                                      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5a9ovw/",
+                                      "created": 1716443132,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "l5a9wjh",
+                                          "score": 3,
+                                          "body": "Very strange and yet generous of you to have acceded the state of Maryland and city of Baltimore into PRC territory.",
+                                          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5a9wjh/",
+                                          "created": 1716443266,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "l5a3dzn",
+                                      "score": 1,
+                                      "body": "I only indulge in the finest things in life, like a 1982 Chateau Petrus or a Cuban cigar...not showboating.",
+                                      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5a3dzn/",
+                                      "created": 1716439373,
+                                      "depth": 8,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "l5ae7do",
+                              "score": 1,
+                              "body": ">why can't other companies copy it \n\nPatent law \n\nLaws like that don't exist in China though, so as soon as they figure out how to make them, expect them to plummet in both price and quality",
+                              "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5ae7do/",
+                              "created": 1716446130,
+                              "depth": 6,
+                              "replies": []
+                            },
+                            {
+                              "id": "l5af89u",
+                              "score": 1,
+                              "body": "Sometimes, when companies make breakthroughs, it is not just in their product. To have those breakthroughs, companies will have to create processes, tools, and possibly new materials to achieve these new triumphants to continue leading the industry. As well as finding the proper talent and continuing to retain them.",
+                              "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5af89u/",
+                              "created": 1716446844,
+                              "depth": 6,
+                              "replies": []
+                            },
+                            {
+                              "id": "l5arnt0",
+                              "score": 1,
+                              "body": "AMD is the only viable option and they pretty much gave up (Why? Because they hate money 🤷‍♂️)",
+                              "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5arnt0/",
+                              "created": 1716456139,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l5b4cga",
+                                  "score": 1,
+                                  "body": "Because they couldn't. Nobody hates money.",
+                                  "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5b4cga/",
+                                  "created": 1716464183,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "l5ayc5w",
+                              "score": 1,
+                              "body": "They can. It will just take them a few years, by which time nvidia will have sold $100B of theirs already and have the next ones ready.",
+                              "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5ayc5w/",
+                              "created": 1716460769,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "l5adn6j",
+                      "score": 1,
+                      "body": "Do you see the R&D budget next to the operating profit? It's tiny. If anyone could do $3b worth of research to gain $15b worth of profit everyone would do it. Nvidia does some magic shit.",
+                      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5adn6j/",
+                      "created": 1716445745,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "l599m8m",
+                  "score": 6,
+                  "body": "What are they, stupid?",
+                  "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l599m8m/",
+                  "created": 1716426208,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l5a868f",
+                  "score": 2,
+                  "body": "They are starting to",
+                  "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5a868f/",
+                  "created": 1716442179,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l5adcjp",
+                  "score": 2,
+                  "body": "Or better ask, why doesn’t the one other company capable of doing it, do it? Hint: They will. Buy that if you missed this train.",
+                  "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5adcjp/",
+                  "created": 1716445541,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l59f4hb",
+              "score": 4,
+              "body": "I'm not even mad, if they can do it then go ahead",
+              "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59f4hb/",
+              "created": 1716428399,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l5axzlx",
+              "score": 1,
+              "body": "Remember before Covid a x070 card was $359 and a x080 was $500?\n\nThen Covid the shit went up 2.5x on resale market?  Now it just stayed that way because dumb fucks will pay for. Economics. \n\nAddicts need their 4K 144fps.",
+              "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5axzlx/",
+              "created": 1716460554,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l5bot3b",
+              "score": 1,
+              "body": "when they say data-centers all of them are on premise or cloud?",
+              "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5bot3b/",
+              "created": 1716473040,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l58thtm",
+          "score": 28,
+          "body": "Good short term thinking. Long term not so good.\n\nReason being, their datacenter is in-house. If their competition catches up or good enough to switch to, especially during bad times, companies can ditch nvidia. The only thing that will hold customers down, is if their projects are heavily entrenched. Because AI is still in its infancy, many things can still change and/or improve.\n\nThis is why intel still holds a majority of the server market share. Although AMD is growing with marketshare, only new data centers or on-prem upgrade cycles will invest into AMD servers as long as AMD stays on top of their game. Very few are willing to replace existing hardware with AMD servers.\n\nEven though Intel is not really offering much, they can still sell support services.",
+          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l58thtm/",
+          "created": 1716419529,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l59j0n6",
+              "score": 50,
+              "body": "You don’t understand the relationship between software and hardware at scale. Intel is shit. Intel is still the main server whore because code was written specifically to lean into Intel specific hardware/software features. That’s all. Do you think nvidia would do something similar? Well they did. Cuda is a further abstraction of the idea of hardware/software linkage that many have tried to reverse engineer and failed. There’s a reason even consumers are often forced to grab nvidia over competitors because the software they are buying the hardware to run literally requires a nvidia device. The only close thing is OpenCL which has its uses but Cuda is the standard for the bulk of tasks for a reason. It’s faster and more stable.",
+              "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59j0n6/",
+              "created": 1716429968,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l59r0xo",
+                  "score": 25,
+                  "body": "CUDA shoulda woulda",
+                  "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59r0xo/",
+                  "created": 1716433255,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l5bnrhy",
+                      "score": 1,
+                      "body": "You can run cuda application on AMD hardware now",
+                      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5bnrhy/",
+                      "created": 1716472650,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l5bp7so",
+                          "score": 1,
+                          "body": "[deleted]",
+                          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5bp7so/",
+                          "created": 1716473193,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l5bpqiy",
+                              "score": 2,
+                              "body": "It’s pretty well optimized. I know people use it for training NNs at scale. Personally at work I still use Nvidia GPUs but I would be open to switching if the cost is cheaper",
+                              "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5bpqiy/",
+                              "created": 1716473388,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "l59w35b",
+              "score": 19,
+              "body": "\n>If their competition catches up or good enough to switch to\n\nAnyone who thinks this can ever happen just doesn't understand how massive of a lead Nvidia has right now.",
+              "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59w35b/",
+              "created": 1716435556,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l5a07zc",
+                  "score": 19,
+                  "body": "Can't be that hard. I'm just going to read a few graphics cards books this weekend and I should be able to slap one together.",
+                  "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5a07zc/",
+                  "created": 1716437648,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l5bs598",
+                      "score": 1,
+                      "body": "I’ll never forget when my family confidently declared they thought I could build a graphics card if I wanted, because I was “so smart” (I built my own PC)",
+                      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5bs598/",
+                      "created": 1716474266,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l58e86g",
+      "score": 436,
+      "body": "Jesus those margins",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l58e86g/",
+      "created": 1716413702,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l592pk2",
+          "score": 60,
+          "body": "Bless them.",
+          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l592pk2/",
+          "created": 1716423399,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l59xoyv",
+          "score": 7,
+          "body": "What about them? I dont get it 😇",
+          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59xoyv/",
+          "created": 1716436344,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l5awoen",
+              "score": 28,
+              "body": "https://preview.redd.it/7tt0um60k52d1.jpeg?width=529&format=pjpg&auto=webp&s=c1777bc8f32ec39a11f104758d19c2530a6828e8",
+              "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5awoen/",
+              "created": 1716459719,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l58e6cw",
+      "score": 328,
+      "body": "NVIDIA bears hiding in their caves rn",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l58e6cw/",
+      "created": 1716413685,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l58hms0",
+          "score": 107,
+          "body": "I know someone who used a HELOC to buy puts. In their defense, they might as well need a cave.",
+          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l58hms0/",
+          "created": 1716414937,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l58ix63",
+              "score": 26,
+              "body": "I’ve seen people take out HELOC’s for some wicked stuff",
+              "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l58ix63/",
+              "created": 1716415413,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l59xb85",
+                  "score": 11,
+                  "body": "The existence of HELOCs is terrible for so many people. Most people tend to not have more than ~$50k liquid at any point in their life prior to retirement. But they might own a house that they bought in 2013 that now has $300k of equity in it. Super dangerous for a lot of people.",
+                  "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59xb85/",
+                  "created": 1716436154,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l595zv2",
+              "score": 21,
+              "body": "That's crazy degen shit. HELOC rates are shit",
+              "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l595zv2/",
+              "created": 1716424749,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l59a6q2",
+          "score": 9,
+          "body": "They were posting a few hours ago, I guess now they’re drinking until unconscious",
+          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59a6q2/",
+          "created": 1716426434,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l5auz2u",
+          "score": 2,
+          "body": "Bears about to go hibernate for the summer.",
+          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5auz2u/",
+          "created": 1716458568,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l58h26g",
+      "score": 219,
+      "body": "Dear lord. What does one even do with all that money?",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l58h26g/",
+      "created": 1716414729,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l58mpkq",
+          "score": 106,
+          "body": "Anyone else would be buying H100s",
+          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l58mpkq/",
+          "created": 1716416850,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l59c6d4",
+              "score": 10,
+              "body": "H100s are old news.",
+              "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59c6d4/",
+              "created": 1716427233,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l58xt8h",
+          "score": 48,
+          "body": "They are doing a 1 cent dividend (in not even joking).",
+          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l58xt8h/",
+          "created": 1716421325,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l5932br",
+              "score": 19,
+              "body": "Post split",
+              "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5932br/",
+              "created": 1716423542,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l5bjbeo",
+                  "score": 1,
+                  "body": "The pre split dividends were hilariously small.",
+                  "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5bjbeo/",
+                  "created": 1716470930,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l596jlm",
+              "score": 14,
+              "body": "They added 6 cents technically",
+              "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l596jlm/",
+              "created": 1716424977,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l5aa30o",
+                  "score": 5,
+                  "body": "Wow!!",
+                  "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5aa30o/",
+                  "created": 1716443381,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l5ase8p",
+                  "score": 1,
+                  "body": "wait for real ? 0.7 / ~110 ?",
+                  "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5ase8p/",
+                  "created": 1716456697,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l5aa45t",
+              "score": 5,
+              "body": "At current prices it’d take 20 years of dividends for me to just buy one share. Post split and div increase puts it at just over a share per year.",
+              "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5aa45t/",
+              "created": 1716443402,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l5a14sz",
+          "score": 3,
+          "body": "Can’t wait to get my nvidia credit card",
+          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5a14sz/",
+          "created": 1716438130,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l5a0ak9",
+          "score": 1,
+          "body": "Pass it on to someone who is already rich and won't do anything with it.",
+          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5a0ak9/",
+          "created": 1716437685,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l597rxf",
+      "score": 88,
+      "body": "And here I am, with my 4k ray tracing next gen game at 150fps, thinking my 4090 is the most important financial investment of all time",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l597rxf/",
+      "created": 1716425472,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l5a0jx4",
+          "score": 39,
+          "body": "our calls thank you\n\nhttps://preview.redd.it/bj3ta5bwq32d1.jpeg?width=680&format=pjpg&auto=webp&s=9075d110dc3e7559209c96a3beca6acba2d7d78a",
+          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5a0jx4/",
+          "created": 1716437824,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l59uqwa",
+          "score": 6,
+          "body": "It is buddy, be proud of youself. ![img](emote|t5_2th52|4275)",
+          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59uqwa/",
+          "created": 1716434915,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l58injn",
+      "score": 183,
+      "body": "I’ll post the same comment I did on OP’s other post in r/infographics… (some info might be wrong cuz I half assed all the research and am going mostly off of memory)\n\nPeople need to understand that a 57% profit margin is fucking UNHEARD OF in business. Walmart has a net profit margin of under 3%. Apple is known for having the best financials with a net profit margin of ~26% (and due to that, making up a large part of legendary investor Warren Buffet’s portfolio). Many companies have a profit margin that goes no higher than 20%, and only the best of the best usually beat it. Nvidia had somewhere under a ~15% net profit margin less than 5 years ago, and they’ve raised it almost quadruple that. The AI boom has raised Nvidia from a little-traded regular large-cap, to the third most valuable company on the planet behind other mega-cap companies Microsoft and Apple.",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l58injn/",
+      "created": 1716415311,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l59c347",
+          "score": 63,
+          "body": "Visa has a consistent 50+% net profit margin",
+          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59c347/",
+          "created": 1716427197,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l59o2nk",
+              "score": 52,
+              "body": "Yeah but they don’t have the potential to scale 100-fold in the next couple decades",
+              "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59o2nk/",
+              "created": 1716432033,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l59qtn0",
+              "score": 6,
+              "body": "Not at this scale and growth rate.",
+              "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59qtn0/",
+              "created": 1716433167,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l58ze5b",
+          "score": 70,
+          "body": "third most valuable company *for now*\n\n10:1 split is going to usher in the first $4tril market cap",
+          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l58ze5b/",
+          "created": 1716421999,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l59cay6",
+              "score": 24,
+              "body": "Take that GIF of jpow printing money and change his face to Jensen Huang…",
+              "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59cay6/",
+              "created": 1716427284,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l5aa6cc",
+              "score": 10,
+              "body": "lol - this is the kind of regarded shit I come here for.",
+              "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5aa6cc/",
+              "created": 1716443441,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l5ajbok",
+                  "score": 3,
+                  "body": "25 billion shares after split.",
+                  "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5ajbok/",
+                  "created": 1716449798,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l5b1bnp",
+                  "score": 2,
+                  "body": "Save my comment, regard. P/E ratios don't care about your logic.",
+                  "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5b1bnp/",
+                  "created": 1716462548,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l5bz22y",
+                      "score": 1,
+                      "body": "Ok dawg.",
+                      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5bz22y/",
+                      "created": 1716476730,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l58ortv",
+      "score": 42,
+      "body": "Bro look at all that green.",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l58ortv/",
+      "created": 1716417645,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l59zr06",
+          "score": 25,
+          "body": "https://preview.redd.it/gb3oyabnp32d1.jpeg?width=1037&format=pjpg&auto=webp&s=343706346838c3e3eaf9faa6bb5f9da86ffc8f58",
+          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59zr06/",
+          "created": 1716437403,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l58sjrr",
+      "score": 42,
+      "body": "God damn those profit margin, and 🌈🐻 still think they can short AI lol",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l58sjrr/",
+      "created": 1716419141,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l595v2t",
+      "score": 66,
+      "body": "The profit margins are insane. NVDA can’t be stopped.",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l595v2t/",
+      "created": 1716424692,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l59ztyh",
+          "score": 8,
+          "body": "...wont be stopped\n\nhttps://preview.redd.it/4yxlm3vrp32d1.jpeg?width=1080&format=pjpg&auto=webp&s=51890a8b69438951807d886d259918b374a0344c",
+          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59ztyh/",
+          "created": 1716437446,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l5ahy2r",
+              "score": 3,
+              "body": "Can’t stop won’t stop",
+              "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5ahy2r/",
+              "created": 1716448775,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l599cwo",
+      "score": 16,
+      "body": "Those margins are insane",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l599cwo/",
+      "created": 1716426102,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l5aabfz",
+          "score": 5,
+          "body": "Wait until you get a load of revenue/employee!",
+          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5aabfz/",
+          "created": 1716443530,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l59f4o7",
+      "score": 50,
+      "body": "How does Nvidia pay 14% taxes while I’m paying over 30?",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59f4o7/",
+      "created": 1716428401,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l59t05x",
+          "score": 24,
+          "body": "Lot of temporary differences between book and tax income. R&D costs, capital expenditures are handled differently for tax vs their financials. Then you have R&D credits and incentives like the CHIPS act that reduce the tax burden too.\n\nCorp tax rate maxes out at 21%,, so an effective tax rate of 14% for a high-growth, high R&D/capex company like Nvidia is pretty high, but thats because they have so much fucking income theres nothing else to offset those costs and they have to pay tax on a lot of it.\n\nNo one working at a Wendy's is paying 30% effective tax rate, so your probably fine.",
+          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59t05x/",
+          "created": 1716434116,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l5br4lh",
+              "score": 1,
+              "body": "California Wendy’s is a much higher tax bracket that Iowa Wendy’s",
+              "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5br4lh/",
+              "created": 1716473897,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l5bmb4e",
+          "score": 2,
+          "body": "Look at it from the perspective of the people who actually own the company (and its profits). As individuals, they also pay capital gains tax on it. Basically, another 15% long-term (or 40% short-term) of the remaining 86% will be taxed when that money arrives into the personal hands of its owner.",
+          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5bmb4e/",
+          "created": 1716472098,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l590tn6",
+      "score": 9,
+      "body": "1. taking money away from bers",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l590tn6/",
+      "created": 1716422603,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l58ff72",
+      "score": 20,
+      "body": "Glad I bought in before the bell!",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l58ff72/",
+      "created": 1716414131,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l58wq41",
+      "score": 22,
+      "body": "That revenue increment is actually fucking insane, having everyone pay whatever ask you list because you are the shovel seller in a gold rush really is a profitable business",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l58wq41/",
+      "created": 1716420864,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l59ylol",
+          "score": 20,
+          "body": "The problem is everyone is digging holes but not finding gold. But they keep buying shovels. No general AI is actually profitable right now",
+          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59ylol/",
+          "created": 1716436808,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l59726l",
+      "score": 17,
+      "body": "Market all over green tomorrow, rate cuts coming",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59726l/",
+      "created": 1716425184,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l59bw2a",
+          "score": 49,
+          "body": "Nvidia will stop inflation by taking all of the money. New monetary policy",
+          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59bw2a/",
+          "created": 1716427118,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l59ktbw",
+              "score": 14,
+              "body": "The FED converts USD into NVIDIA shares, moves into TSM's plant to make it official.",
+              "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59ktbw/",
+              "created": 1716430709,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l5a6yyy",
+          "score": 7,
+          "body": "Are these rate cuts in the room with us now?",
+          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5a6yyy/",
+          "created": 1716441457,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l59mzg3",
+      "score": 6,
+      "body": "Literally money printer",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59mzg3/",
+      "created": 1716431587,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5abr1z",
+      "score": 6,
+      "body": "Pro tip: NVIDIA can simultaneously be an amazing company and a shit incredibly overvalued stock.",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5abr1z/",
+      "created": 1716444475,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l59c40s",
+      "score": 35,
+      "body": "Here’s the thing…. These margins are insane, but the product they can sell is capped by TSMC capacity.  \n\nForward P/E is capped by a combination of that and any additional price increases/additional margin they can drive for future generations.\n\nAt some point, GenAI is going to need to make good on all the promises these sales are driving.  Spoiler alert - it won’t.   The technology is a DREAM when it comes to proof of concept and flashy demos.  But it’s an absolute mine field to do anything useful in production, because at their core LLMs are not trustworthy without a human in the middle.\n\nAnd then the story shifts from job replacement and miracle productivity growth, to just typical organic productivity growth.\n\nAnd these prices aren’t gonna fly if it’s just about providing next generation Clippy to existing workers.\n\nAll that said, no one knows when the disillusionment will occur. So I’m not dumb enough to take a bearish position",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59c40s/",
+      "created": 1716427207,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l59frki",
+          "score": 10,
+          "body": "[deleted]",
+          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59frki/",
+          "created": 1716428649,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l59unkj",
+              "score": 11,
+              "body": "It is only a bubble if you don't understand the advantages AI/ML brings outside of gimmicky chat bots.  There are things being done now that are simply too tedious for humans to manage, but AI/ML can be developed to produce that work instead.  Like Google mapping a very small portion of the human brain.  And here's the astounding part, to map a 1mm cube of the human brain, resulted in a completely insane amount of data due to the detail of the 3D model:\n\n\"Google's researchers used machine-learning models to identify the same object in different microscopic images and then create a 3D rendering of every object in all the images. They then electronically stitched the renderings together to reconstruct the whole sample in three dimensions. The final 3D map contains a mammoth 1.4 petabytes, or 1 million gigabytes, of data.\n\n\"The amount and complexity of the data generated in this project required Google's ability to develop state of the art machine learning and AI algorithms to reconstruct the 3D connectome,\"\n\n[https://www.livescience.com/health/neuroscience/new-3d-map-charted-with-google-ai-reveals-mysterious-but-beautiful-slice-of-human-brain](https://www.livescience.com/health/neuroscience/new-3d-map-charted-with-google-ai-reveals-mysterious-but-beautiful-slice-of-human-brain)\n\nIf you play around with chatbots and generate stupid AI images, you'll think it is a bubble.  When you see what industries are really doing with the tech, you'll realize we're at the onset of a technological revolution.",
+              "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59unkj/",
+              "created": 1716434872,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l5a21fv",
+                  "score": 5,
+                  "body": "Drug development",
+                  "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5a21fv/",
+                  "created": 1716438622,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l5aox2w",
+                  "score": 2,
+                  "body": "People who think this is a bubble and they're right when the market is wrong, they give me the same vibe as everyone who thought iPhones and every other substantial invention was a fad.",
+                  "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5aox2w/",
+                  "created": 1716454033,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l5b1op6",
+                  "score": 1,
+                  "body": "I’m not big on the topic, but imagine AI used to improve AI.",
+                  "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5b1op6/",
+                  "created": 1716462749,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l5bqrrc",
+                      "score": 1,
+                      "body": "It's already common for LLMs to be trained on datasets partially generated by LLMs.",
+                      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5bqrrc/",
+                      "created": 1716473767,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l5at8ec",
+          "score": 2,
+          "body": "> But it’s an absolute mine field to do anything useful in production, because at their core LLMs are not trustworthy without a human in the middle.\n\nBold of you to assume companies will care and won't just full send AI without a care in the world.\n\nSee: All the companies that introduced chat bots and got fucked with refunds because they didn't contain it correctly.",
+          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5at8ec/",
+          "created": 1716457326,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l5b2i4c",
+              "score": 1,
+              "body": "I think you made my point? GenAI has been THE THING for over a year now. If companies were golds throw it out there, they’ve had the time to do it.",
+              "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5b2i4c/",
+              "created": 1716463200,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l58hhy6",
+      "score": 13,
+      "body": "78% ![img](emote|t5_2th52|4276) 2.5T",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l58hhy6/",
+      "created": 1716414888,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l59og4x",
+      "score": 23,
+      "body": "I’ve been reading a lot about NVDa today obviously and one thing struck me when they were talking about all of the chips being bought by Meta, Google or something and it’s occurred to me that this thing could actually be a pretty big house of cards.\n\nLike all these companies are buying these chips and are in a huge rush to buy the next big chip and the one after that but they aren’t really doing anything with them. They are trying to do something with them, they may actually do something with them but right now it’s all theoretical.\n\nLike NVDAs massive profits are other companies R and D expenses. They are usually my money generated through AI hype to buy the chips they need to keep the hype going.\n\nBut what if it doesn’t really go anywhere?  These same companies have spent billions on EVs then abandoned them, or wearable tech then abandoned them. \n\nI’m not saying I’m bearish on NVDA but I just think a scenario exists where the taps just get turned off once. Like at what point does any of this actually produce anything?",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59og4x/",
+      "created": 1716432185,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l5a1juf",
+          "score": 23,
+          "body": "What do you mean? Big tech's last huge capital investment was hiring a bunch of people during COVID as more people went online.\n\nSurely that was the right decision and they didn't end up overspending right? /s",
+          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5a1juf/",
+          "created": 1716438356,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l5a7agu",
+          "score": 7,
+          "body": "Talk to a sota ai. I have spent over 500$ on API calls over last 3 weeks",
+          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5a7agu/",
+          "created": 1716441650,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l5ao07n",
+          "score": 5,
+          "body": "What do you mean they aren't doing anything with them? They're training better and better AI models that will revolutionize everything.",
+          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5ao07n/",
+          "created": 1716453336,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l5aoka8",
+          "score": 3,
+          "body": "In my opinion it's far more likely that theory becomes reality than it is that it falls apart when it comes to AI. Once Siri is ran on the newest ChatGPT, people will start to see that.",
+          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5aoka8/",
+          "created": 1716453766,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l5a8p1d",
+          "score": 5,
+          "body": "And the big chip consumers are working on their own chips",
+          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5a8p1d/",
+          "created": 1716442506,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l5983op",
+      "score": 12,
+      "body": "Gaming barely 10% of revenue now. It’s over for the PC GPU market lol",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5983op/",
+      "created": 1716425602,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l5ap1np",
+          "score": 1,
+          "body": "I bet gaming revenues go parabolic. Look up GeForce Now. That'll be outselling GPUs by far within 5 years",
+          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5ap1np/",
+          "created": 1716454130,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l58sx0q",
+      "score": 5,
+      "body": "1 cent dividend post split…that’s nothing",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l58sx0q/",
+      "created": 1716419293,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l5aaf06",
+          "score": 6,
+          "body": "But funds that cannot buy stocks that don’t pay a dividend add to the list of buyers.",
+          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5aaf06/",
+          "created": 1716443594,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l5aachc",
+          "score": 1,
+          "body": "It’s actually quite a difference.",
+          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5aachc/",
+          "created": 1716443549,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l59xh1q",
+      "score": 3,
+      "body": "This makes too much sense to be posted here",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59xh1q/",
+      "created": 1716436234,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5a2lne",
+      "score": 3,
+      "body": "I’ve never seen billions be illustrated so small (cost)",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5a2lne/",
+      "created": 1716438932,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l58kbsq",
+      "score": 14,
+      "body": "Amazing margins, but still hard to get behind a $2.5T market cap",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l58kbsq/",
+      "created": 1716415947,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l58uhgb",
+          "score": 26,
+          "body": "What you’re telling me you don’t want to buy a stock that cost $1,000 and get $0.10 back in dividends.",
+          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l58uhgb/",
+          "created": 1716419936,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l59cghg",
+          "score": 5,
+          "body": "They beat earnings revenue by 20% every quarter... It means you can pretty much discount current P/E by half relatively reliably. \n\nNVIDIA 1600 pre-split will happen by June next year for sure.",
+          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59cghg/",
+          "created": 1716427344,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l59chml",
+              "score": 4,
+              "body": "Sure, amateur hour on WallStreetBets is a brilliant place to get investment advice...",
+              "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59chml/",
+              "created": 1716427356,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l59cw3j",
+                  "score": 3,
+                  "body": "This is essentially the definition of r/wallstreetbets...",
+                  "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59cw3j/",
+                  "created": 1716427515,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l5abulg",
+              "score": 1,
+              "body": "Could happen EoY this year lol",
+              "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5abulg/",
+              "created": 1716444539,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l5a2sr5",
+              "score": 1,
+              "body": "![img](emote|t5_2th52|4271)",
+              "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5a2sr5/",
+              "created": 1716439044,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l5aamwu",
+          "score": 3,
+          "body": "I actually talked to someone stupid enough to think this will go to $200 post split.  I said “you realize that’s a $5.2T market cap, right?”  \n\nNot sure he knows what “market cap” is.",
+          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5aamwu/",
+          "created": 1716443737,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l5ap8rr",
+              "score": 1,
+              "body": "!remindme next year",
+              "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5ap8rr/",
+              "created": 1716454280,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l5apayk",
+                  "score": 1,
+                  "body": "I will be messaging you in 1 year on [**2025-05-23 08:51:20 UTC**](http://www.wolframalpha.com/input/?i=2025-05-23%2008:51:20%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5ap8rr/?context=3)\n\n[**CLICK THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Fwallstreetbets%2Fcomments%2F1cyblbu%2Fnvidias_q1_earnings_visualized%2Fl5ap8rr%2F%5D%0A%0ARemindMe%21%202025-05-23%2008%3A51%3A20%20UTC) to send a PM to also be reminded and to reduce spam.\n\n^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%201cyblbu)\n\n*****\n\n|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|\n|-|-|-|-|",
+                  "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5apayk/",
+                  "created": 1716454327,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l5bm1nc",
+              "score": 1,
+              "body": "!remindme next year",
+              "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5bm1nc/",
+              "created": 1716471996,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l5bywcc",
+                  "score": 1,
+                  "body": "CSCO split on March 23, 2000.  Go look at that chart.",
+                  "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5bywcc/",
+                  "created": 1716476673,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l58b9e6",
+      "score": 5,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 4 | **First Seen In WSB** | 6 months ago\n**Total Comments** | 10 | **Previous Best DD** | \n**Account Age** | 8 months | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l58b9e6/",
+      "created": 1716412647,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l59lqga",
+      "score": 3,
+      "body": "And here I’m paying +30% in taxes…😭",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59lqga/",
+      "created": 1716431084,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l58ppbq",
+      "score": 2,
+      "body": "I like this visualization",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l58ppbq/",
+      "created": 1716418007,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5abbsy",
+      "score": 2,
+      "body": "I knew it would go up. But with such heavy premium on calls. I didn't buy any. Too much of a risk. It will print for you guys but don't expect massive earnings",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5abbsy/",
+      "created": 1716444191,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5ac9po",
+      "score": 2,
+      "body": "All their eggs in 1 basket. What could go wrong?",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5ac9po/",
+      "created": 1716444820,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5asgs3",
+      "score": 2,
+      "body": "Damn how do you earn an operating profit of 16.2B dollars and only pay $2B in tax?? Meanwhile im paying 40% tax here as normal citizen.",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5asgs3/",
+      "created": 1716456750,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l59dloa",
+      "score": 4,
+      "body": "In two years max this hardware will be obsolete. New hardware will be smaller, faster, all while using less energy.",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59dloa/",
+      "created": 1716427800,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l59tnaj",
+      "score": 1,
+      "body": "When does a Fiscal year start in USA ? According to nVidia results it's Feb to Jan. But google says it's October to September.",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59tnaj/",
+      "created": 1716434405,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l5a7cme",
+          "score": 3,
+          "body": "Depends on the company ",
+          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5a7cme/",
+          "created": 1716441686,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l5a2v4y",
+          "score": 1,
+          "body": "![img](emote|t5_2th52|4271)",
+          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5a2v4y/",
+          "created": 1716439082,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l59xu9b",
+      "score": 1,
+      "body": "Wow",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l59xu9b/",
+      "created": 1716436418,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5a1znb",
+      "score": 1,
+      "body": "![img](emote|t5_2th52|8882)",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5a1znb/",
+      "created": 1716438596,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5a73zb",
+      "score": 1,
+      "body": "When you show a YoY increase in a deficit, is that because the numbers went up or down?",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5a73zb/",
+      "created": 1716441540,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5aa8c7",
+      "score": 1,
+      "body": "When it says they make money from their data centers what does it mean? Obviously they're not just storing data for 22.6 billion dollars right?",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5aa8c7/",
+      "created": 1716443476,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l5ao814",
+          "score": 2,
+          "body": "Thats their solutions provided for data centers of META and othe customers maintaining data centers. HW&SW and the whole ecosystem.",
+          "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5ao814/",
+          "created": 1716453501,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l5aei5l",
+      "score": 1,
+      "body": "so I should buy more Nvidia stocks then",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5aei5l/",
+      "created": 1716446339,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5aet41",
+      "score": 1,
+      "body": "With how much money they make from data center and how little from gaming I wish they would half their prices on the gaming cards, it's not gonna affect their profits by much and they make AMD completely incompetetive in the desktop market",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5aet41/",
+      "created": 1716446551,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5aeu42",
+      "score": 1,
+      "body": "They lay a lower tax rate than me fml",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5aeu42/",
+      "created": 1716446570,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5ajy0o",
+      "score": 1,
+      "body": "427% YoY growth in their largest sector is absolutely bonkers bananas batshit insane!",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5ajy0o/",
+      "created": 1716450262,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5an8x7",
+      "score": 1,
+      "body": "The data center revenue is crushing it. As a gamer, this makes me sad. GPU prices will only go higher, as NVidia doesn't have to care about us anymore.",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5an8x7/",
+      "created": 1716452761,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5aonxa",
+      "score": 1,
+      "body": "When will the bubble pop?",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5aonxa/",
+      "created": 1716453842,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5apdd3",
+      "score": 1,
+      "body": "Insane how less tax they pay",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5apdd3/",
+      "created": 1716454376,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5asdpj",
+      "score": 1,
+      "body": "The only thing i dont get its why Nvda its the only player in AI space increasing heavily their profit and revenue and are delivering the numbers and every other semi pales in comparison and they still ride the wave.",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5asdpj/",
+      "created": 1716456686,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5asjjm",
+      "score": 1,
+      "body": "How can they pay so little taxes?",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5asjjm/",
+      "created": 1716456810,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5atopj",
+      "score": 1,
+      "body": "Can't lie at this point I'm considering selling everything and leveraging up Nvidia",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5atopj/",
+      "created": 1716457655,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5avryn",
+      "score": 1,
+      "body": "I had an orgasm at the end of that snake chart.",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5avryn/",
+      "created": 1716459123,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5awzxf",
+      "score": 1,
+      "body": "those profit margins are just insane",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5awzxf/",
+      "created": 1716459926,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5axqaj",
+      "score": 1,
+      "body": "in summary: $$$$$",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5axqaj/",
+      "created": 1716460392,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5b9gjn",
+      "score": 1,
+      "body": "They're paying 15% of taxes jesus christ",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5b9gjn/",
+      "created": 1716466678,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5bdvca",
+      "score": 1,
+      "body": "This is a nice infographic.  The margins that NVDA has are absolutely insane, especially at the scale of the company.... it would be one thing if it was on $1M of revenue... but on $26B revenue in one quarter... and they are basically repeating and improving this quarter per quarter.  Fucking outstanding and makes me think the stock is worth the high premium",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5bdvca/",
+      "created": 1716468666,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5bh6dw",
+      "score": 1,
+      "body": "The current modus operandi is figuring out how to get the rich to spend all the printed money given to them.",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5bh6dw/",
+      "created": 1716470065,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5bjnu4",
+      "score": 1,
+      "body": "Well that’s a big green dildo if I seen one",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5bjnu4/",
+      "created": 1716471065,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5bl5xf",
+      "score": 1,
+      "body": "I'm confused. They have after-tax *revenue*? Are those like, tax credits or something?",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5bl5xf/",
+      "created": 1716471658,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5bo3oh",
+      "score": 1,
+      "body": "Is everyone at NVIDIA getting fat bonuses and raises? Where does $14b go?",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5bo3oh/",
+      "created": 1716472777,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5cca47",
+      "score": 1,
+      "body": "The legendary giant....green...erect....cock",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l5cca47/",
+      "created": 1716481293,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l58t7p1",
+      "score": 1,
+      "body": "PRINTERRRRR GO BRRRRRRR",
+      "permalink": "/r/wallstreetbets/comments/1cyblbu/nvidias_q1_earnings_visualized/l58t7p1/",
+      "created": 1716419414,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

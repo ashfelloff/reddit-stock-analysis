@@ -1,0 +1,254 @@
+{
+  "title": "Short $RDDT",
+  "score": 71,
+  "selftext": "[removed]",
+  "link_flair_text": "Discussion",
+  "id": "1dq9swf",
+  "num_comments": 30,
+  "created_utc": 1719544589,
+  "permalink": "/r/wallstreetbets/comments/1dq9swf/short_rddt/",
+  "comments": [
+    {
+      "id": "lamldnd",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 6 | **First Seen In WSB** | 6 months ago\n**Total Comments** | 2603 | **Previous Best DD** | \n**Account Age** | 8 months | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1dq9swf/short_rddt/lamldnd/",
+      "created": 1719544604,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lamnj1a",
+      "score": 8,
+      "body": "Reddit not allowing me to see comments on this?",
+      "permalink": "/r/wallstreetbets/comments/1dq9swf/short_rddt/lamnj1a/",
+      "created": 1719545739,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lamsk65",
+          "score": 2,
+          "body": "Yes. It says 14 comments but I only see 2. \n\nI guess only approved comments get thru.",
+          "permalink": "/r/wallstreetbets/comments/1dq9swf/short_rddt/lamsk65/",
+          "created": 1719548567,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lamvgd3",
+              "score": 1,
+              "body": "It's likely replication delay, which is a distributed database thing, and not that big of a deal.  Can explain more if you really want.",
+              "permalink": "/r/wallstreetbets/comments/1dq9swf/short_rddt/lamvgd3/",
+              "created": 1719550094,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lamx4cw",
+                  "score": 1,
+                  "body": "Could you? I'm interested in learning",
+                  "permalink": "/r/wallstreetbets/comments/1dq9swf/short_rddt/lamx4cw/",
+                  "created": 1719550960,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "laoddcn",
+                      "score": 1,
+                      "body": "When you have a lot of data, like Reddit comments, it's too big to put on one computer.  Also, one computer is to slow to handle sending all those comments to every user who wants to see them.  So you have to split your database between multiple machines that we call nodes.\n\nThat makes things difficult because we want all users to see the same data, but we need them to be talking to different nodes.  And what happens when you post a comment?  You don't want to have to send a message to every node because that would defeat the purpose of splitting the database.  So what we do is compromise on data consistency, and when the user posts a comment that only goes to one node.  But we want the users reading from all nodes to be able to see that comment, so behind the scenes there is a process that adds that incoming comment to each node.  We call that replication.\n\nThat takes time, which is what we call replication delay.  So when you post a comment, it will be visible to people reading from the immediate node you posted on, and it will become visible on the other nodes as the replication process completes.  When there is heavy load, this delay time will rise.  That is likely the cause of those phantom comments we were seeing yesterday.",
+                      "permalink": "/r/wallstreetbets/comments/1dq9swf/short_rddt/laoddcn/",
+                      "created": 1719581119,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lamlzyl",
+      "score": 6,
+      "body": "The alternate view is that everyone was discussing it on Reddit.",
+      "permalink": "/r/wallstreetbets/comments/1dq9swf/short_rddt/lamlzyl/",
+      "created": 1719544927,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lamwc9c",
+          "score": 3,
+          "body": "Or you know, heavy handed censorship. Who knows ?\n\nAll LLMs in the world are training on Reddit. Can't have this piece of shit website covered in \"trump won\" comments and jokes about the US president and how senile he is. Unless you want ChatGPT, Bing Chat, Google, and even the visualmod answering every query about Biden and this presidential race by \"Trump won\".\n\nJust my 2 cents.",
+          "permalink": "/r/wallstreetbets/comments/1dq9swf/short_rddt/lamwc9c/",
+          "created": 1719550552,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lamo3gc",
+      "score": 2,
+      "body": "Put another way, there are enough basement dwellers using it that a $10 billion company's servers couldn't keep up ![img](emote|t5_2th52|12787)",
+      "permalink": "/r/wallstreetbets/comments/1dq9swf/short_rddt/lamo3gc/",
+      "created": 1719546043,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lamppzp",
+      "score": 2,
+      "body": "I’m convinced",
+      "permalink": "/r/wallstreetbets/comments/1dq9swf/short_rddt/lamppzp/",
+      "created": 1719546937,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lamq24y",
+      "score": 2,
+      "body": "came here for the comments... damn nothing",
+      "permalink": "/r/wallstreetbets/comments/1dq9swf/short_rddt/lamq24y/",
+      "created": 1719547128,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lamrj2e",
+      "score": 2,
+      "body": "Short $RDDT!",
+      "permalink": "/r/wallstreetbets/comments/1dq9swf/short_rddt/lamrj2e/",
+      "created": 1719547972,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lamtu68",
+      "score": 2,
+      "body": "Inverse this",
+      "permalink": "/r/wallstreetbets/comments/1dq9swf/short_rddt/lamtu68/",
+      "created": 1719549266,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lamlu7u",
+      "score": 4,
+      "body": "They need NVDA chips asap",
+      "permalink": "/r/wallstreetbets/comments/1dq9swf/short_rddt/lamlu7u/",
+      "created": 1719544844,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lamrjzg",
+      "score": 1,
+      "body": "If this is your signal to short.. you aren’t thinking too far ahead",
+      "permalink": "/r/wallstreetbets/comments/1dq9swf/short_rddt/lamrjzg/",
+      "created": 1719547987,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lao0d0w",
+          "score": 1,
+          "body": "![img](emote|t5_2th52|4271)",
+          "permalink": "/r/wallstreetbets/comments/1dq9swf/short_rddt/lao0d0w/",
+          "created": 1719575412,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lamrn7t",
+      "score": 1,
+      "body": "👀",
+      "permalink": "/r/wallstreetbets/comments/1dq9swf/short_rddt/lamrn7t/",
+      "created": 1719548040,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lamtuwm",
+      "score": 1,
+      "body": "I have something u can short",
+      "permalink": "/r/wallstreetbets/comments/1dq9swf/short_rddt/lamtuwm/",
+      "created": 1719549276,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lamukkd",
+      "score": 1,
+      "body": "I never ever want to see people on this site shit on Elon Musk Twitter ever again.",
+      "permalink": "/r/wallstreetbets/comments/1dq9swf/short_rddt/lamukkd/",
+      "created": 1719549647,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lammmle",
+      "score": 0,
+      "body": "Ninjas Gaining Mad Initiative?",
+      "permalink": "/r/wallstreetbets/comments/1dq9swf/short_rddt/lammmle/",
+      "created": 1719545259,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lamu57w",
+      "score": 0,
+      "body": "Reddit is the least reliable website on the internet and it's just a fucking text forum\n\n\nBut as long as Altman is balls deep in this pile of shit, it makes no sense to short it.",
+      "permalink": "/r/wallstreetbets/comments/1dq9swf/short_rddt/lamu57w/",
+      "created": 1719549428,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lammc49",
+      "score": -2,
+      "body": "[deleted]",
+      "permalink": "/r/wallstreetbets/comments/1dq9swf/short_rddt/lammc49/",
+      "created": 1719545106,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lamulwk",
+          "score": 6,
+          "body": "The Reddit servers on AWS not scaling appropriately is more than likely Reddit’s fault.",
+          "permalink": "/r/wallstreetbets/comments/1dq9swf/short_rddt/lamulwk/",
+          "created": 1719549666,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lamu5y2",
+          "score": 2,
+          "body": "Scaling architecture failures are not the fault of aws neccessarily",
+          "permalink": "/r/wallstreetbets/comments/1dq9swf/short_rddt/lamu5y2/",
+          "created": 1719549438,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lamv9qb",
+          "score": 1,
+          "body": "It’s their architecture, need more nvda h100s",
+          "permalink": "/r/wallstreetbets/comments/1dq9swf/short_rddt/lamv9qb/",
+          "created": 1719550000,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lamwpul",
+              "score": 1,
+              "body": "If there’s one thing I’ve learned after being in the software biz for over 20 years it’s that people write shitty software and sometimes throwing more hardware at the problem IS, surprisingly, the easiest solution.",
+              "permalink": "/r/wallstreetbets/comments/1dq9swf/short_rddt/lamwpul/",
+              "created": 1719550749,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

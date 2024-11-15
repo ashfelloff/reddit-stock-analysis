@@ -1,0 +1,331 @@
+{
+  "title": "Trading options is fun",
+  "score": 197,
+  "selftext": "Featuring some of my real P&Ls",
+  "link_flair_text": "Meme",
+  "id": "1enk5oj",
+  "num_comments": 33,
+  "created_utc": 1723158354,
+  "permalink": "/r/wallstreetbets/comments/1enk5oj/trading_options_is_fun/",
+  "url_overridden_by_dest": "https://i.redd.it/4gdhn7chuihd1.png",
+  "comments": [
+    {
+      "id": "lh6tv1w",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 2 | **First Seen In WSB** | 3 days ago\n**Total Comments** | 5 | **Previous Best DD** | \n**Account Age** | 1 week | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1enk5oj/trading_options_is_fun/lh6tv1w/",
+      "created": 1723158357,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lh6w3w6",
+      "score": 17,
+      "body": "Just write naked calls",
+      "permalink": "/r/wallstreetbets/comments/1enk5oj/trading_options_is_fun/lh6w3w6/",
+      "created": 1723159156,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lh6xv3w",
+          "score": 5,
+          "body": "What is a naked call",
+          "permalink": "/r/wallstreetbets/comments/1enk5oj/trading_options_is_fun/lh6xv3w/",
+          "created": 1723159784,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lh6z35o",
+              "score": 30,
+              "body": "You sell a contract for shares you don't own. You get assigned and have to buy the shares at whatever price to sell them at the strike price. Your maximum loss is unlimited because the price of the underlying security could rise quickly before the expiration date.",
+              "permalink": "/r/wallstreetbets/comments/1enk5oj/trading_options_is_fun/lh6z35o/",
+              "created": 1723160227,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lh6zo4e",
+                  "score": 22,
+                  "body": "Boom. So easy to inform rather than insult . Thank you \n\nSo another dumb question. Is this different than simply buying or a call/put option where you can just exit whenever or are you obligated to follow through with whatever you do",
+                  "permalink": "/r/wallstreetbets/comments/1enk5oj/trading_options_is_fun/lh6zo4e/",
+                  "created": 1723160438,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lh70vmk",
+                      "score": 4,
+                      "body": "Yes, so what the OP mentioned is \"selling\" or \"writing\" the call/put - the other side of that transaction. \n\nI always like to remember that buying the call/put contract gives you the 'right, but not the obligation' to exercise for shares. But the seller has the 'obligation' to go through with exercising. \n\nWhen you write the call/put, you will get a credit, and if you want to close the position then you need to buy it back (or Buy to Close)",
+                      "permalink": "/r/wallstreetbets/comments/1enk5oj/trading_options_is_fun/lh70vmk/",
+                      "created": 1723160884,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lh76f7n",
+                          "score": 4,
+                          "body": "Thank you . What is the upside though? Just a higher reward without any upfront cash?",
+                          "permalink": "/r/wallstreetbets/comments/1enk5oj/trading_options_is_fun/lh76f7n/",
+                          "created": 1723162975,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lh7775n",
+                              "score": 2,
+                              "body": "The upside is that you receive the premium credit upfront, like a cash payment. \n\nEssentially you're getting paid the premium to take on the risk of assignment (having to buy, or sell, shares at the strike price)\n\nIf the contract expires \"out of the money\" then it will likely be worthless, and wouldn't be assigned, and so you keep that premium. \n\nThere's a lot more to it than I'm explaining, I'm really just touching the tip of the ice-berg when it comes to all of the elements of contract writing (I tend to stay away from it myself as I don't have a high risk tolerance)",
+                              "permalink": "/r/wallstreetbets/comments/1enk5oj/trading_options_is_fun/lh7775n/",
+                              "created": 1723163273,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lh77sxx",
+                                  "score": 8,
+                                  "body": "It’s all good . I just needed the quick and dirty . I appreciate the response. It does make more sense now, and definitely not something I’m ready for haha",
+                                  "permalink": "/r/wallstreetbets/comments/1enk5oj/trading_options_is_fun/lh77sxx/",
+                                  "created": 1723163505,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lh772nw",
+                      "score": 3,
+                      "body": "FYI, you have to be able to show a lot of capital to sell options. If you want to sell 1 MSFT Call, you literally have to be able to deposit $40,000",
+                      "permalink": "/r/wallstreetbets/comments/1enk5oj/trading_options_is_fun/lh772nw/",
+                      "created": 1723163224,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lh78ncg",
+                          "score": 3,
+                          "body": "I’m slowly understanding , you need enough money to cover 100 shares if the sell goes south. I’m still struggling with the risk factor . If you have 100 shares, you clearly have the capital, why take tue chance ? Is there not much difference between buying the contract and selling?\n\n\nSo if you want to buy a put, you would sell a call option? Sell the opposite of what you think is going to happen ?",
+                          "permalink": "/r/wallstreetbets/comments/1enk5oj/trading_options_is_fun/lh78ncg/",
+                          "created": 1723163827,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lh7hokw",
+                              "score": 3,
+                              "body": "Some people use it to enter a position. They decide they would totally buy MSFT at $390 within the next 30 days. So, they sell a 1 month put.\n\nIf the stock never goes to that price, then they just collect the premium.\n\nIf the stock goes to that price or lower, you then have to buy MSFT. But now you own it at a price you felt was a good deal. Of course, if goes a lot lower than your strike, you might have to wait a while to make up the difference.\n\nIt's all very complicated. Selling options is a safer way to make money than buying them, but it's also dangerous as hell.\n\nThe only strategy I would recommend for a beginner is to sell covered calls. You buy 100 shares of a stock you like. Then you sell a call against it. If the stock goes up to the strike, someone buys the share from you at a profit, and you make money of the call you sold. If the stock doesn't go up, you keep the option premium and you hold the shares.\n\nIt's hard to lose money with covered calls unless a stock tanks. But if a stock tanks, you were going to lose anyway (and at least this way you got a little extra cash from the call you sold)\n\nThe only possible \"bad\" thing that could happen with selling a covered call is the stock rockets to the moon, and you don't collect any of the profit over your strike price.",
+                              "permalink": "/r/wallstreetbets/comments/1enk5oj/trading_options_is_fun/lh7hokw/",
+                              "created": 1723167268,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lh7kmm7",
+                                  "score": 2,
+                                  "body": "That is a great answer . Thank you for breaking it down . This makes a lot of sense",
+                                  "permalink": "/r/wallstreetbets/comments/1enk5oj/trading_options_is_fun/lh7kmm7/",
+                                  "created": 1723168396,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lh90xf4",
+                      "score": 1,
+                      "body": "https://www.investopedia.com/options-basics-tutorial-4583012 \n\n\n\nPls read this at the bare minimum before actually doing any options trading",
+                      "permalink": "/r/wallstreetbets/comments/1enk5oj/trading_options_is_fun/lh90xf4/",
+                      "created": 1723196539,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lh9fsod",
+                      "score": 0,
+                      "body": "It's actually easier to insult.",
+                      "permalink": "/r/wallstreetbets/comments/1enk5oj/trading_options_is_fun/lh9fsod/",
+                      "created": 1723204613,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lh708vl",
+                  "score": 3,
+                  "body": "Thank you again. Sharing this video that breaks it down for regards like myself that weren’t willing to ask https://youtu.be/QO2uSjMEcfo?si=gqKaI5C8iljp5cbk",
+                  "permalink": "/r/wallstreetbets/comments/1enk5oj/trading_options_is_fun/lh708vl/",
+                  "created": 1723160653,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lh6zw4k",
+                  "score": 2,
+                  "body": "Yep, that's why I only do it on stocks I'm willing to own if it gets exercised, and only with puts.",
+                  "permalink": "/r/wallstreetbets/comments/1enk5oj/trading_options_is_fun/lh6zw4k/",
+                  "created": 1723160521,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lh70va3",
+                      "score": 2,
+                      "body": "What is the advantage of selling a naked call over a put option",
+                      "permalink": "/r/wallstreetbets/comments/1enk5oj/trading_options_is_fun/lh70va3/",
+                      "created": 1723160880,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lh7fz7e",
+                          "score": 2,
+                          "body": "You can make money on it even if the stock stays flat due to time premium loss. If you buy a put, then the stock must go down just to break even.",
+                          "permalink": "/r/wallstreetbets/comments/1enk5oj/trading_options_is_fun/lh7fz7e/",
+                          "created": 1723166608,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lh7hc5h",
+                              "score": 2,
+                              "body": "Man… now I’m interested because that makes sense . I appreciate the clarity but still probably out of my league for now",
+                              "permalink": "/r/wallstreetbets/comments/1enk5oj/trading_options_is_fun/lh7hc5h/",
+                              "created": 1723167134,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lh6yb3l",
+              "score": 1,
+              "body": "bruh",
+              "permalink": "/r/wallstreetbets/comments/1enk5oj/trading_options_is_fun/lh6yb3l/",
+              "created": 1723159942,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lh6yks8",
+                  "score": 4,
+                  "body": "Bruh we all start somewhere . Guess I could google it . Fuck me",
+                  "permalink": "/r/wallstreetbets/comments/1enk5oj/trading_options_is_fun/lh6yks8/",
+                  "created": 1723160040,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lh71l8y",
+                      "score": 3,
+                      "body": "Its basically writing an option without:\n\nA. Owning the underlying stock (Calls)\n\nB. Owning cash (Puts)\n\nSorry man. And let me say: WSB is not a good place to start lmao",
+                      "permalink": "/r/wallstreetbets/comments/1enk5oj/trading_options_is_fun/lh71l8y/",
+                      "created": 1723161146,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lh7dj3s",
+                          "score": 2,
+                          "body": "I’ve had to explain options to stock brokers and college professors.  It happens.",
+                          "permalink": "/r/wallstreetbets/comments/1enk5oj/trading_options_is_fun/lh7dj3s/",
+                          "created": 1723165668,
+                          "depth": 5,
+                          "replies": []
+                        },
+                        {
+                          "id": "lh76nud",
+                          "score": 1,
+                          "body": "Haha you’re good dude. I have a concept of covered calls so this makes sense . I guess I just don’t understand the risk. Basically if you’re right you make money without any upfront costs, and if you’re wrong it’s going to hurt bad ?",
+                          "permalink": "/r/wallstreetbets/comments/1enk5oj/trading_options_is_fun/lh76nud/",
+                          "created": 1723163067,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lh7894n",
+                              "score": 3,
+                              "body": "yeah. but its easy if you realize that all the losses on here are coming from options writes. understand how to just simply place a stop loss and what MAXPAIN, Theta, and Delta are. not too hard.\n\n  \nAlso the gains on here come from option writers too. Check out r/thetagang if youre curious.",
+                              "permalink": "/r/wallstreetbets/comments/1enk5oj/trading_options_is_fun/lh7894n/",
+                              "created": 1723163675,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lh791rf",
+                                  "score": 1,
+                                  "body": "🫡. Thank you",
+                                  "permalink": "/r/wallstreetbets/comments/1enk5oj/trading_options_is_fun/lh791rf/",
+                                  "created": 1723163979,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lh6xus2",
+      "score": 8,
+      "body": "high risk, high fun",
+      "permalink": "/r/wallstreetbets/comments/1enk5oj/trading_options_is_fun/lh6xus2/",
+      "created": 1723159780,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lh7vieo",
+          "score": 2,
+          "body": "The amount of fun I have directly correlates to the number of margin calls I get a week",
+          "permalink": "/r/wallstreetbets/comments/1enk5oj/trading_options_is_fun/lh7vieo/",
+          "created": 1723172796,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lh74zbj",
+      "score": 4,
+      "body": "[removed]",
+      "permalink": "/r/wallstreetbets/comments/1enk5oj/trading_options_is_fun/lh74zbj/",
+      "created": 1723162425,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lh7vli9",
+          "score": 4,
+          "body": "The trick is to buy puts and single handedly stop the market crash",
+          "permalink": "/r/wallstreetbets/comments/1enk5oj/trading_options_is_fun/lh7vli9/",
+          "created": 1723172832,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lh817gw",
+              "score": 1,
+              "body": "Same!!",
+              "permalink": "/r/wallstreetbets/comments/1enk5oj/trading_options_is_fun/lh817gw/",
+              "created": 1723175319,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lhogdho",
+      "score": 1,
+      "body": "Skill issue",
+      "permalink": "/r/wallstreetbets/comments/1enk5oj/trading_options_is_fun/lhogdho/",
+      "created": 1723425842,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

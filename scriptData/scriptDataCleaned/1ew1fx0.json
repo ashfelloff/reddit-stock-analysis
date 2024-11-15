@@ -1,0 +1,525 @@
+{
+  "title": "AMD to acquire server builder ZT Systems for $4.9 billion in cash and stock",
+  "score": 317,
+  "selftext": "Advanced Micro Devices on Monday said it plans to acquire server maker ZT Systems for $4.9 billion as the company seeks to expand its portfolio of artificial intelligence chips and hardware and battle Nvidia.\n\nAMD plans to pay for 75% of the ZT Systems acquisition with cash and the remainder in stock. The company had $5.34 billion in cash and short-term investments as of the second quarter.\n\nThe computing requirements for AI have dictated that tech companies string together thousands of chips in clusters to achieve the necessary amount of data crunching horsepower. Stringing together the vast numbers of chips has meant the makeup of whole server systems has become increasingly important, which is why AMD is acquiring ZT Systems.\n\n“AI systems are our number one strategic priority,” AMD CEO Lisa Su said in an interview with Reuters.\n\nThe addition of ZT Systems engineers will allow AMD to more quickly test and roll out its latest AI graphics processing units (GPUs) at the scale cloud computing giants such as Microsoft require, Su said.\n\n“The main way (ZT Systems) is additive to the company is we sell more GPUs,” Su said.\n\nAMD plans to break off its server manufacturing business and sell it once the deal closes, as it has no plans to compete with companies such as Super Micro Computer, Su said.\n\nAMD has not yet held talks with potential buyers.\n\nZT Systems Chief Executive Frank Zhang will join AMD and report to AMD’s data center chief, Forrest Norrod.\n\nThe closely held ZT Systems has roughly 2,500 employees of which AMD plans to retain about 1,000 engineers. Currently, ZT Systems generates annual revenue of roughly $10 billion, Su said.\n\nExecutives expect the deal to close in the first half of 2025 and expect an additional 12 to 18 months to sell the manufacturing business.\n\nNvidia CEO Jensen Huang said at the company’s developer conference in March that the one-time chip designer now creates and sells entire data centers, or the individual components needed to build one. This year analysts expect the company to generate $105.9 billion from its data center segment, which includes chips and other AI hardware. Su said last month the company expects to collect roughly $4.5 billion worth of AI chip revenue this year. The company’s customers include Microsoft and Meta Platforms.\n\nAMD expects ZT Systems to contribute to the company’s adjusted financial performance by the end of 2025.\n\nSource: https://www.cnbc.com/2024/08/19/amd-to-acquire-server-builder-zt-systems.html",
+  "link_flair_text": null,
+  "id": "1ew1fx0",
+  "num_comments": 67,
+  "created_utc": 1724073141,
+  "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/",
+  "comments": [
+    {
+      "id": "livaytk",
+      "score": 104,
+      "body": "Interesting acquisition. I guess they will try to catch up to Nvidia through a slightly different direction.",
+      "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/livaytk/",
+      "created": 1724073320,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "livh19p",
+          "score": 48,
+          "body": "> I guess they will try to catch up to Nvidia through a slightly different direction.\n\nOne severe shortcoming of AMD's offering is their lack of integrated AI server proper, where NVDA is delivering in spades.  Today AMD provides chips and relies on 3rd-party integrators.  This acquision will help them compete in some of the same markets where NVidia, including perhaps hosting their own GPUs and providing AI tokens as a service.",
+          "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/livh19p/",
+          "created": 1724075576,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "liynfey",
+              "score": 2,
+              "body": "Not really amd still doesn’t have a networking solution like nvidia does through their mellanox acquisition ",
+              "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/liynfey/",
+              "created": 1724112975,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lj01llu",
+                  "score": 3,
+                  "body": "Didn't they get one by buying Xilinx or am I mistaken?",
+                  "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/lj01llu/",
+                  "created": 1724134129,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lj0mo72",
+                      "score": 5,
+                      "body": "You are right, AMD owns both Solarflare and Pensando.",
+                      "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/lj0mo72/",
+                      "created": 1724147988,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lj01u9m",
+                      "score": 2,
+                      "body": "No fpgas are different than the networking ASICS I was referring to which are predominantly designed by Broadcom, nvidia, Cisco, and Marvell. One of the reasons nvidia is able to charge such a high premium is because their networking solution is fully integrated ",
+                      "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/lj01u9m/",
+                      "created": 1724134274,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lj0mjww",
+                          "score": 2,
+                          "body": "You talk with such confidence xD.\n\nAMD owns both Pensando (the inventor of DPUs) and Solarflare (leader in low-latency networking).",
+                          "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/lj0mjww/",
+                          "created": 1724147914,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lj18y4f",
+                              "score": 0,
+                              "body": "> AMD owns both Pensando (the inventor of DPUs) and Solarflare (leader in low-latency networking).\n\nI mean that's great, but wake us up when they actually bring something to market.  They need to offer a fully vertically integrated solution and a competitive software suite to even be considered a player in the AI industry.",
+                              "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/lj18y4f/",
+                              "created": 1724158739,
+                              "depth": 6,
+                              "replies": []
+                            },
+                            {
+                              "id": "lj2467j",
+                              "score": 0,
+                              "body": "They aren’t leaders in anything and completely irrelevant they have literally 0% market share and no revenue ",
+                              "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/lj2467j/",
+                              "created": 1724169134,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lj44h5v",
+                                  "score": 2,
+                                  "body": "[removed]",
+                                  "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/lj44h5v/",
+                                  "created": 1724191737,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "lj472zv",
+                                      "score": 1,
+                                      "body": "[deleted]",
+                                      "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/lj472zv/",
+                                      "created": 1724192618,
+                                      "depth": 8,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lix5dn6",
+          "score": -11,
+          "body": "They'll be lucky to maintain their 5% market share with Google msft amzn and meta competing against their products.\n\nThey are not competing against NVDA - they are hoping to one day compete against them.",
+          "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/lix5dn6/",
+          "created": 1724095122,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lix4514",
+      "score": 20,
+      "body": "I like AMD... interesting factod.\n\nLisa and Jensen are cousins.",
+      "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/lix4514/",
+      "created": 1724094731,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "liyfnf1",
+          "score": 1,
+          "body": "Gotta keep it in the family! :D",
+          "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/liyfnf1/",
+          "created": 1724110168,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "livnagd",
+      "score": 5,
+      "body": "How big is ZT systems and what is their coverage in AI? Do they develop models, have any large recurring customers?",
+      "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/livnagd/",
+      "created": 1724077769,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lixoyqz",
+          "score": 18,
+          "body": "ZT has $10B revenue annually. They do critical infrastructure for data centers. So $4.9B is like a bargain.\n\n\nModel developers are with Meta, Google, AMZN. Both AMD and NVDA provide the chips and data center hardware to them. \n\n\nAMD CEO is cousin of NVDA's.. she knows what she's doing. She's \"helping out\" her bro, at the time when NVDA's order backlog is 11 months long.",
+          "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/lixoyqz/",
+          "created": 1724101193,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "livv7j0",
+      "score": -13,
+      "body": "I dont understand why they refuse to change strategies and just double down on taking over Intel at the CPU category. Intel still dominates the CPU servers and most cloud virtual machines use Intel + NVIDIA as combination. Why not instead of playing a game against a behemoth in NVIDIA, just strive to gain the monopoly of CPUs. Besides, there will definitely come a time when small, distilled, pruned AI models can be hosted fast in CPU-only VM deployments.",
+      "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/livv7j0/",
+      "created": 1724080409,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "liw19a5",
+          "score": 35,
+          "body": "They are going for both at the same time. I admire that. Someone needs to give intel and Nvidia competition.",
+          "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/liw19a5/",
+          "created": 1724082353,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "liw3hbp",
+              "score": -12,
+              "body": "That's why their strategy sucks hard. Intel is easier to topple since they are already sinking and that their architecture isn't as tied in to AI. NVIDIA isn't just the hardware alone. There are way more dependencies than just selling new clusters of AMD cloud GPUs when trying to compete with NVIDIA.\n\nEdit: instead of downvoting, maybe convince me otherwise the point is bad. lots of people who have never touched code or even written code in Tensorflow or Pytorch think they have a good grasp of how strong NVIDIA's direct and indirect moat is",
+              "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/liw3hbp/",
+              "created": 1724083047,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "liw6vez",
+                  "score": 20,
+                  "body": "The AI market is growing rapidly, even if AMD only gets 20-30% of that market its massive amount of revenue \n\nLook at Nvidia and Intel's revenue, if you had to be second place to one of those 2 companies which would you pick? \n\nObviously they don't want to be second forever",
+                  "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/liw6vez/",
+                  "created": 1724084118,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "liwcres",
+                      "score": 1,
+                      "body": "This... And even if they stay at [2nd place](https://borncrisis.com/articles/amd-stock-forecast-2025-and-2030) forever, they're solid. ",
+                      "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/liwcres/",
+                      "created": 1724085996,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "liwanlr",
+                      "score": -1,
+                      "body": "Its the question of how. People are speaking with vague hypotheticals in the sub without knowledge of training, deployment, coding, etc. about AI and how tightly knit these things are saying that its easy to replace NVIDIA by just creating a hardware and selling it. It's not like LLY or NVO's product where if one company creates something remotely similar, they just manufacture it with FDA approval and start selling it and suddenly people start using the product.\n\nNVIDIA's moat isnt just the product of GPUs themselves. They have a shit ton of indirect moats. A shift in NVIDIA GPU means developers, companies, cloud servers, and open source coders have to shift all their codes to adopt a new architecture -- these include existing codes, model pruning and sparsification mechanisms, frameworks, and even model architectures to certain extent.",
+                      "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/liwanlr/",
+                      "created": 1724085324,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "liwep5w",
+                          "score": 5,
+                          "body": "They have been putting a lot of effort into software as well and acquisitions in that space as well. They just bought silo, are hiring more in software and looking to buy more companies in that field.",
+                          "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/liwep5w/",
+                          "created": 1724086612,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "liwfod3",
+                              "score": -1,
+                              "body": "Well, goodluck on that. NVIDIA has been building CUDA for a decade. Meaning, they had the whole closed source and open source community frameworks, researchers, etc. forming the moat for them. CUDA alone would take AMD atleast a decade to carve market space in the AI training sector. But let's see. Even a giant like NVIDIA didnt even bother going the CPU-GPU domination route but AMD will? Only time will tell. But as an AI engineer? Even Apple has better integrations in some of the frameworks such as Pytorch or large libraries such as diffusers than RocM\n\n  \nOn another note, NVIDIA is heavily active on AI-ML research and they are one of the most active companies in ML research. I usually see them a lot on conferences and I'd say their team is on par with META FAIR, Microsoft, OpenAI, Google, etc. Idk about AMD. I havent seen them do ground-breaking contributions to AI research community thru papers.",
+                              "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/liwfod3/",
+                              "created": 1724086921,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "liymvmq",
+                                  "score": 3,
+                                  "body": "ur whole take gives 3rd year undergrad software eng student ngl",
+                                  "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/liymvmq/",
+                                  "created": 1724112774,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "lizknxt",
+                                      "score": -1,
+                                      "body": "I did MS on AI and had been training models for half a decade now, finetuned diffusion models, built deployment systems for AI inference, have published papers in ML in Computer vision and reinforcement learning, etc. I've literally experienced what 99% of redditors have never experienced so I am qualified to say something about the technical details from the ground.\n\nWhat do you do btw?\n\nEdit: oh....a CS undergrad. Interesting....",
+                                      "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/lizknxt/",
+                                      "created": 1724125470,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "lj8uis8",
+                                          "score": 0,
+                                          "body": "and ur literally asking basic questions about segmentation why u lying to these people mannnn",
+                                          "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/lj8uis8/",
+                                          "created": 1724262744,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "liwcjss",
+          "score": 7,
+          "body": "AMD's market share is already increasing naturally in the CPU market. While focusing their energy on CPUs can give them a temporary revenue boost, AMD is playing the long game. They also don't need to beat Nvidia to grow exponentially as a company. Nvidia will most likely not be able to keep up with demand for AI GPU chips, so even as second place AMD can make a shitton of money. [Source](https://borncrisis.com/articles/amd-stock-forecast-2025-and-2030/)",
+          "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/liwcjss/",
+          "created": 1724085929,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "liwe2hu",
+              "score": 0,
+              "body": ">AMD's market share is already increasing naturally in the CPU market.\n\nOn cloud servers using GPUs? I train AI models for a living and have yet to see lots of Virtual Machine offerings with AMD CPUs with NVIDIA GPUs. Even the weakest K80 and T4 GPUs, I havent seen any AMD CPU being paired with it on both AWS, Azure, GCP, and other cloud platform providers or SaaS. Top platforms such as Modal and Bento do not provide such offerings. Maybe in PCs. I use Ryzen + RTX for local development. I believe in AMD in CPUs thats why I want them to win the CPU race.\n\nBenchmarks mean nothing if they dont get adopted by developers, frameworks, SaaS, companies, etc. I will start shifting my view when I attend a conference or see research papers that use AMD as their machine for training. Right now, Pytorch and Tensorflow have shit integration with RocM and most pruning and sparsification techniques are tied to NVIDIA GPUs",
+              "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/liwe2hu/",
+              "created": 1724086413,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "liw7jpx",
+          "score": 6,
+          "body": "Well right now they have roughly 6% share of a $100b TAM. They estimate the TAM will grow to $400b by 2027. Eric Schmidt recently spitballed its $300b. So even if AMD does not grow its share, it’s still looking at $18b-$24b annual GPU revenue. My estimates are probably off but you get the point. Now imagine how the numbers look even better if AMD can gain a few extra points of share. 10% of share gets them to more than double their current revenues and at a fatter margin (55%).",
+          "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/liw7jpx/",
+          "created": 1724084333,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "liwb0sc",
+              "score": 1,
+              "body": "My assumption is that AI race means they want to compete with NVIDIA on the cloud GPU standpoint. I want to know how much lf that market share is PC GPUs and CPUs since they have no existing tech right now in cloud GPUs that developers even use for training and deploying AI models.",
+              "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/liwb0sc/",
+              "created": 1724085441,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "liw1467",
+          "score": 2,
+          "body": "wouldn't it make them a huge target if they did overthrow Intel completely though? I get where you're going with it, but \"monopoly\" isn't an exaggeration, and it could cause them to run afoul of regulations, incurring expensive court costs and wasted time\n\nso I wonder if that's a factor for them",
+          "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/liw1467/",
+          "created": 1724082308,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "liw3vmd",
+              "score": 2,
+              "body": "what i meant is that Intel isnt being riddled with regulations now that it is dominating the cloud CPU battle that are paired with NVIDIA GPUs. overthrow means they can give better competition against Intel with way cheaper CPU for cloud and way better multi-thread performance which is actually really helpful for AI training and inference (speaking as an AI engineer)",
+              "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/liw3vmd/",
+              "created": 1724083171,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "live4bl",
+      "score": -41,
+      "body": "Forever a follower - share taking instead of market making.\n\n\nDownvoting this won't change the facts - NVDA targeted servers over a decade ago. There's a reason they've 10x earnings and AMD has not. Maybe leave a thought with your downvote worth talking about?\n\n\nYou upset downvoters realize I am using the same logic I did at the time of account creation? \n\nDo better.",
+      "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/live4bl/",
+      "created": 1724074516,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "livfovt",
+          "score": 46,
+          "body": "You are correct but there's room for both companies in this new market",
+          "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/livfovt/",
+          "created": 1724075094,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "livgm8d",
+              "score": -14,
+              "body": "Absolutely, but there are many expecting AMD to see the same gains, which just won't happen. Maybe on 2-3x longer timescale, hence the large correction it has received.\n\n\nPeople need to like AMD for the right reasons or they're gonna buy it way too aggressively, and at way too high of a valuation.\n\nCompetition from OEM asics will hit them much harder than NVDA.\n\nActually, AMD investors need to be very wary of TPUs from Google - if it weren't for Sundar, TPU would have already fully saturated the portion of the market AMD will be targeting. In fact, I'd be almost certain there are already more AI FLOPS coming from TPUs than all of AMD AI flops.",
+              "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/livgm8d/",
+              "created": 1724075429,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "livkacq",
+          "score": 33,
+          "body": "You're not getting downvoted because people think you're necessarily wrong, you're getting downvoted because your reply comes across as oddly tribal and emotional.",
+          "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/livkacq/",
+          "created": 1724076731,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "livkolw",
+              "score": -13,
+              "body": "Lol, oddly tribal and emotional? I hold AMD shares.\n\nPoint it out for me. These are just facts. The downvotes with no discussion are the tribal and emotional actions here, by definition.",
+              "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/livkolw/",
+              "created": 1724076868,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "liwh9yt",
+                  "score": 7,
+                  "body": "I'm just telling you how it is. If you care this much about downvotes I'd recommend acting a little more mature. This isn't a subreddit like r/memes or twitter where comments like yours get upvoted en masse.",
+                  "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/liwh9yt/",
+                  "created": 1724087444,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "liwldp0",
+                      "score": -5,
+                      "body": "I laugh - silent downvotes have certified my correct ideas for a long time.\n\n\nI don't at all see how the original comment raised the flags though, and asked, but that's OK.",
+                      "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/liwldp0/",
+                      "created": 1724088772,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "liwqykr",
+                          "score": 5,
+                          "body": "Really, if you get silently downvoted often enough to take notice, you're just being an asshole. Neither downvotes nor upvotes mean you're right or wrong and funny enough, there are people replying to you agreeing and they're being upvoted. You asked, you've been told, you're in denial and that's on you.",
+                          "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/liwqykr/",
+                          "created": 1724090555,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "liwrwd1",
+                              "score": -4,
+                              "body": "Only happens in rooms where people don't like what I'm saying because they take it personally instead of trying to understand.\n\nI get plenty of upvotes too. It's just nice to call out the classless downvotes so in the future I can continue to point and laugh, as I have been.\n\n\nYou still haven't explained how.my original comment was immature *shrug*",
+                              "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/liwrwd1/",
+                              "created": 1724090859,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lixdiiw",
+                                  "score": 3,
+                                  "body": "It's a stock market subreddit... no one should ever feel like anything's personal. If you think people are taking your comments personally, you're being a dick. \n\nLike I've said, it has nothing to do with your core point. That's especially obvious given the most upvoted comment in this thread is someone agreeing. People agree, they just don't like you, because of the way you act.\n\nGetting upset over downvotes, laughing at peoples replies, using combative language, lots of metal gymnastics, getting upset over downvotes some more and apparently savoring these downvotes for a later date are all immature things to do. The latter is especially strange.",
+                                  "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/lixdiiw/",
+                                  "created": 1724097632,
+                                  "depth": 7,
+                                  "replies": []
+                                },
+                                {
+                                  "id": "liwudy1",
+                                  "score": 3,
+                                  "body": "use your no doubt incredible investing gains to vacation somewhere nice and touch grass",
+                                  "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/liwudy1/",
+                                  "created": 1724091649,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "lix3moh",
+                                      "score": -1,
+                                      "body": "What an immature, emotional thing for you to say. Why are you so upset? Did you miss it?\n\nOh I see, you'd rather buy collectible rocks and gamest***. Lmao! How's that going for you? Bet you could use a vacation ;)\n\n\nIf only there were some logic and perspective you could have applied back in September to have some gains in your account.... hmmmmmmmmmm....",
+                                      "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/lix3moh/",
+                                      "created": 1724094570,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "lixmyep",
+                                          "score": 1,
+                                          "body": "that's bait 🐟",
+                                          "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/lixmyep/",
+                                          "created": 1724100556,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "livekrm",
+          "score": 7,
+          "body": "Damn aggressive at acquisitions.",
+          "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/livekrm/",
+          "created": 1724074685,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "liwa4qq",
+          "score": 6,
+          "body": "Since AMD released Ryzen they are up 1000%, peaked even 1500%, that is some insane millionaire making 6-7 years.\n\nI don't get what more you want from AMD, one of the best stocks even if it gets compared to FAANG or MAG 7",
+          "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/liwa4qq/",
+          "created": 1724085155,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "liwaq2t",
+              "score": 1,
+              "body": "I want and expect nothing more. But there are many who expect them to get the compounded win here like NVDA did just because they happen to make chips too.\n\nI'm just stating that they won't, and no one should expect them to. And all they have in retort are downvotes.\n\nThere's a reason why NVDA is up 155% YTD and AMD is flat - and the reason will persist. I hope the downvoters can understand...\n\n\nIt's the same reason I knew NVDA had much more to go even at the start of the year - I suspect the downvoters did the opposite logic and said \"well I missed NVDA but amd still has room\". And all they did was miss it twice for no reason.",
+              "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/liwaq2t/",
+              "created": 1724085347,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "livhbie",
+          "score": 6,
+          "body": "> Forever a follower - share taking instead of market making.\n\nAMD's GPU division hasn't been a market maker since it was ATI.",
+          "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/livhbie/",
+          "created": 1724075678,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "livhn5m",
+              "score": 1,
+              "body": "Fax.\n\nThey've done very well in their own right, I'm just calling out the misattribution of NVDAs success to AMDs potential - not at all the same.",
+              "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/livhn5m/",
+              "created": 1724075794,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "livn265",
+                  "score": -3,
+                  "body": "You're getting downvoted by fanbois, not informed investors, if that makes you feel any better lol.\n\n> I'm just calling out the misattribution of NVDAs success to AMDs potential - not at all the same.\n\n... and you are 100% right.  NVDA is a heavily vertically-integrated AI solution provider, from raw hardware to networked stacks to software. On-site, colocate, or TaaS (tokens as a service).  AMD currently produces only the bottom layer, relying on purchasers or 3rd parties to integrate and provide the software interface.",
+                  "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/livn265/",
+                  "created": 1724077689,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "livnp1n",
+                      "score": -1,
+                      "body": ">You're getting downvoted by fanbois\n\n\nDon't I know it, lol.\n\nThere's a reason I made this account with NVDA in the name, not AMD.  \n\nThe YTD (almost same as account creation date) gains are evidence of my correctness. My success is on my sleeve.\n\n\nYou are right. And AMD will still see success, especially in tight margin applications like consoles, but that's same old story for them. In fact, the pushes coming from msft, meta, Google, and Amazon would make me very nervous for AMDs future in the server space.\n\n\nThere's a chance this acquisition never pays itself off.",
+                      "permalink": "/r/stocks/comments/1ew1fx0/amd_to_acquire_server_builder_zt_systems_for_49/livnp1n/",
+                      "created": 1724077906,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

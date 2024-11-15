@@ -1,0 +1,378 @@
+{
+  "title": "How can the VIX help me with my trading? ",
+  "score": 44,
+  "selftext": "Short term SPX Trader  \nHow can the VIX help me with my trading ?\n\nA VIX of 30, considered high, what would this entail for a trading day?\n\nA VIX of 19, considered low, what would this entrail for a trading day?\n\nExplain it like you're trying to talk to explain to a golden retriever ( Margin Call quote) ",
+  "link_flair_text": null,
+  "id": "1fbmz20",
+  "num_comments": 44,
+  "created_utc": 1725760481,
+  "permalink": "/r/stocks/comments/1fbmz20/how_can_the_vix_help_me_with_my_trading/",
+  "comments": [
+    {
+      "id": "lm1rroa",
+      "score": 1,
+      "body": "Welcome to r/stocks!\n\nFor beginner advice, brokerage info, book recommendations, even advanced topics and more, please read our [Wiki here.](https://www.reddit.com/r/stocks/wiki/index)\n\nIf you're wondering **why a stock moved** a certain way, check out [Finviz](https://finviz.com/quote.ashx?t=spy) which aggregates the most news for almost every stock, but also see [Reuters](https://www.reuters.com/), and even [Yahoo Finance](https://finance.yahoo.com/).\n\nPlease direct all simple questions towards the stickied Daily Discussion and Quarterly Rate My Portfolio threads (sort by Hot, they're at the top).\n\nAlso include *some* [due diligence](https://www.investopedia.com/terms/d/duediligence.asp) to this post or it may be removed if it's low effort.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/stocks) if you have any questions or concerns.*",
+      "permalink": "/r/stocks/comments/1fbmz20/how_can_the_vix_help_me_with_my_trading/lm1rroa/",
+      "created": 1725760481,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm1z7d1",
+      "score": 17,
+      "body": "From CBOE:  The VIX Index’s output reading is a non-directional, annualized expectation for the standard deviation of the S&P 500. (Quick back of the envelope mathematical reference point: the VIX Index at 16 means an expected +/- 16% annual move for the S&P 500.)  It is calculated based off of options with roughly 30 days to expiration.\n\nUsually the VIX moves inversely to SPX, so when the stock market goes up, volatility goes down.  So if you buy when the VIX is high, you are buying the dip.  Buying the S&P index at a 10% pullback is a great entry, and obviously the VIX would be elevated in that case.",
+      "permalink": "/r/stocks/comments/1fbmz20/how_can_the_vix_help_me_with_my_trading/lm1z7d1/",
+      "created": 1725763480,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lm5rask",
+          "score": 0,
+          "body": "Simply put: VIX is the expected volatility over the next 30 days.",
+          "permalink": "/r/stocks/comments/1fbmz20/how_can_the_vix_help_me_with_my_trading/lm5rask/",
+          "created": 1725822211,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lm1y1uo",
+      "score": 47,
+      "body": "I use VIX a lot for decision making. If VIX is below 20, I rarely buy.\n If it's at 30, I definitely buy. If it's over 40, I spend as much money I can stomach.\n\nPre-market Aug 5, VIX was at 65. Even before market opening, I knew I'd buy hard. I invested more money on that day than for the last few years.\n\nRight now, I think VIX is okay-ish for buying long term.",
+      "permalink": "/r/stocks/comments/1fbmz20/how_can_the_vix_help_me_with_my_trading/lm1y1uo/",
+      "created": 1725763001,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lm2ikiq",
+          "score": 15,
+          "body": "Be careful about only using VIX though.\n\nIf you only buy when it’s >20, you bought October 2023, and then didn’t buy again until last month. Yet the S&P500 went up 26% between the October 2023 low and the low 4 weeks ago.\n\nSo by waiting for it to be over 20, you missed out on a lot of gains.\n\nSo you should always be slowly buying, just buy extra when VIX spikes.",
+          "permalink": "/r/stocks/comments/1fbmz20/how_can_the_vix_help_me_with_my_trading/lm2ikiq/",
+          "created": 1725772519,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lm2jgm4",
+              "score": 5,
+              "body": "I agree. That's why I say \"I rarely\". There are a lot of other factors that go into the calculation. If VIX was around 12 for 6 month, 18 can present an opportunity. \n\n>So you should always be slowly buying, just buy extra when VIX spikes.\n\nThis is a reasonable take, we'll balancing risk and reward.",
+              "permalink": "/r/stocks/comments/1fbmz20/how_can_the_vix_help_me_with_my_trading/lm2jgm4/",
+              "created": 1725773015,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lm1yt4a",
+          "score": 2,
+          "body": "Do you use VIX for sell signaling or just buy?",
+          "permalink": "/r/stocks/comments/1fbmz20/how_can_the_vix_help_me_with_my_trading/lm1yt4a/",
+          "created": 1725763318,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lm1zir5",
+              "score": 4,
+              "body": "I buy more than sell, since I invest mostly long term.\n\n But in general, lower VIX is better for selling. If I am not convinced of my position anymore, I wait until the market is a little more stable.\n\nI try to let market sentiment work me, which means I try to act anticyclical. Doesn't mean I am always right.",
+              "permalink": "/r/stocks/comments/1fbmz20/how_can_the_vix_help_me_with_my_trading/lm1zir5/",
+              "created": 1725763610,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lm3lste",
+                  "score": 0,
+                  "body": "No one is always right in the stock market",
+                  "permalink": "/r/stocks/comments/1fbmz20/how_can_the_vix_help_me_with_my_trading/lm3lste/",
+                  "created": 1725796480,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lm219qd",
+      "score": 11,
+      "body": "if the vix is under 13, load up on UVXY\n\nif the vix is over 20, load up on SVXY\n\nthat's my strategy if i wanted to trade the vix",
+      "permalink": "/r/stocks/comments/1fbmz20/how_can_the_vix_help_me_with_my_trading/lm219qd/",
+      "created": 1725764331,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lm28ar3",
+          "score": 2,
+          "body": "What about VXX?",
+          "permalink": "/r/stocks/comments/1fbmz20/how_can_the_vix_help_me_with_my_trading/lm28ar3/",
+          "created": 1725767436,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lm2fnip",
+              "score": 3,
+              "body": "its basically the same as UVXY",
+              "permalink": "/r/stocks/comments/1fbmz20/how_can_the_vix_help_me_with_my_trading/lm2fnip/",
+              "created": 1725771021,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lm3szbq",
+                  "score": 0,
+                  "body": "No it isn't uvxy is 1.5. You could also add SVOL as an option instead of SVXY.",
+                  "permalink": "/r/stocks/comments/1fbmz20/how_can_the_vix_help_me_with_my_trading/lm3szbq/",
+                  "created": 1725799505,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lm484w2",
+                      "score": 1,
+                      "body": "I don’t like SVOL",
+                      "permalink": "/r/stocks/comments/1fbmz20/how_can_the_vix_help_me_with_my_trading/lm484w2/",
+                      "created": 1725804939,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lm1y6zi",
+      "score": 4,
+      "body": "high vix means sp500 is low, means buy svol.",
+      "permalink": "/r/stocks/comments/1fbmz20/how_can_the_vix_help_me_with_my_trading/lm1y6zi/",
+      "created": 1725763062,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lm36cp5",
+          "score": 2,
+          "body": "That's not always true. In mid first semester, when sp500 was rallying like crazy vix would go up when sp500 was going up, because people were anticipating a correction.",
+          "permalink": "/r/stocks/comments/1fbmz20/how_can_the_vix_help_me_with_my_trading/lm36cp5/",
+          "created": 1725787567,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lm224go",
+      "score": 3,
+      "body": "Higher vix is more the dollar amount the snp will move say 2-3 dollar days turn to 5-10 dollar days the higher the vix. Or buy vix at 13-16 close at 23+ not financial advise just a trend I notice",
+      "permalink": "/r/stocks/comments/1fbmz20/how_can_the_vix_help_me_with_my_trading/lm224go/",
+      "created": 1725764697,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm26of3",
+      "score": 3,
+      "body": " I regularly look at what Vix is doing compared to spy. Normally, when spy goes up, Vix goes down and vice versa. But occasionally, market makers or institutional trading algos will move the price of spy to trigger a bunch of stops. Aka, stophunting.  If spy goes up while vix climbs higher, there's a good chance that spy is about to roll over. If VIX goes down while SPY is falling, there's a good chance that SPY is about to bounce. \n\nFurthermore, during bull markets, Vix is generally less than 16, and long term long positions are ideal. When VIX suddenly moves above that level, that's a good time to start trimming ur long positions.",
+      "permalink": "/r/stocks/comments/1fbmz20/how_can_the_vix_help_me_with_my_trading/lm26of3/",
+      "created": 1725766710,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm1slbe",
+      "score": 8,
+      "body": "Buy options when VIX low, sell when high… I think",
+      "permalink": "/r/stocks/comments/1fbmz20/how_can_the_vix_help_me_with_my_trading/lm1slbe/",
+      "created": 1725760810,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lm275vv",
+          "score": 4,
+          "body": "This is correct.  Vol is cheap with low VIX.\n\nRoll into entries.  Or ladder in on bi weekly expy.  You can make a lot of money.  If you are gonna get hammered you either sell or buy back and roll strike up or down and repurchase or sell while trying to keep theta even.\n\nWorks better for SPY than VOO.",
+          "permalink": "/r/stocks/comments/1fbmz20/how_can_the_vix_help_me_with_my_trading/lm275vv/",
+          "created": 1725766925,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lm27cv1",
+              "score": 2,
+              "body": "Not sure what all the options jargon means, but, people trade VOO options? Didnt know that…",
+              "permalink": "/r/stocks/comments/1fbmz20/how_can_the_vix_help_me_with_my_trading/lm27cv1/",
+              "created": 1725767009,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lm2g8rh",
+                  "score": 2,
+                  "body": "SPY options are the most liquid options in the market",
+                  "permalink": "/r/stocks/comments/1fbmz20/how_can_the_vix_help_me_with_my_trading/lm2g8rh/",
+                  "created": 1725771312,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lm3kz8k",
+                      "score": 1,
+                      "body": "I would say second vs. CBOE SPX cash settled.",
+                      "permalink": "/r/stocks/comments/1fbmz20/how_can_the_vix_help_me_with_my_trading/lm3kz8k/",
+                      "created": 1725796106,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lm20mhy",
+          "score": 1,
+          "body": "You mean the other way round? Or else definitely in the red now if trade like what you say",
+          "permalink": "/r/stocks/comments/1fbmz20/how_can_the_vix_help_me_with_my_trading/lm20mhy/",
+          "created": 1725764062,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lm25cgf",
+              "score": 3,
+              "body": "He’s from wall streetbets so his post seems normal",
+              "permalink": "/r/stocks/comments/1fbmz20/how_can_the_vix_help_me_with_my_trading/lm25cgf/",
+              "created": 1725766105,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lm2r7qm",
+              "score": 3,
+              "body": "Nope, he's talking options. A High vix environment is better for selling . Becuase premium spikes like crazy and since VIX recedes as fast as it spikes this usually means the options get IV crushed within a few days from selling.",
+              "permalink": "/r/stocks/comments/1fbmz20/how_can_the_vix_help_me_with_my_trading/lm2r7qm/",
+              "created": 1725777629,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lm248nu",
+              "score": 1,
+              "body": "No buy when VIX and/or IV is low = cheaper premiums.\n\nYoure buying when vix is high? Im writing. ",
+              "permalink": "/r/stocks/comments/1fbmz20/how_can_the_vix_help_me_with_my_trading/lm248nu/",
+              "created": 1725765615,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lm2b0gs",
+      "score": 2,
+      "body": "Vix is literally a calculation of spx options",
+      "permalink": "/r/stocks/comments/1fbmz20/how_can_the_vix_help_me_with_my_trading/lm2b0gs/",
+      "created": 1725768693,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm1ufa1",
+      "score": 1,
+      "body": "Vix measures expected volatility so when vix is high so are option contracts because there Vega(implied volatility) is also up. Same correlation happens when vix is low.",
+      "permalink": "/r/stocks/comments/1fbmz20/how_can_the_vix_help_me_with_my_trading/lm1ufa1/",
+      "created": 1725761538,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm26cq4",
+      "score": 1,
+      "body": "I actually have VIX and $HYG (high yield corporate bonds) overlaid on an $SPX chart. You'd be surprised at how often you get a leading divergence from both prior to a reversal move in $SPX.\n\nIn longer term trading (looking at a weekly chart, for example) you often see a couple lower highs in $HYG and at least one higher low and higher high in VIX from a local low before a longer term bear market sets in.\n\nYou can zoom into the 5 minute chart and you'll often get something similar on that scale for intraday reversals.\n\nHaving them both overlaid on a full frame chart helps see the smaller movements in VIX and HYG. Magnifying them like that helps you see these leading divergences. \n\nLike using technical analysis, they aren't going to he perfect/right every time, but they are pretty damn good. And VIX is just a calculation of what the SPX options market is doing. So it really is a helpful tool, especially since there is a strong inverse correlation between VIX movements and SPX price.",
+      "permalink": "/r/stocks/comments/1fbmz20/how_can_the_vix_help_me_with_my_trading/lm26cq4/",
+      "created": 1725766559,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm2oee8",
+      "score": 1,
+      "body": "As a general rule whenever the vix spikes, buy",
+      "permalink": "/r/stocks/comments/1fbmz20/how_can_the_vix_help_me_with_my_trading/lm2oee8/",
+      "created": 1725775887,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm44pta",
+      "score": 1,
+      "body": "It’s not that useful to me even though I look at it all the time.  I mostly consider it with regard to options premiums.  I don’t have any rules about it but I look for contracts that seem “cheap” to me and the price relative to the VIX is at least a small consideration.",
+      "permalink": "/r/stocks/comments/1fbmz20/how_can_the_vix_help_me_with_my_trading/lm44pta/",
+      "created": 1725803808,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm4vukb",
+      "score": 1,
+      "body": "Why does nothing straight to called VIX pop on Wealthsimple for me?",
+      "permalink": "/r/stocks/comments/1fbmz20/how_can_the_vix_help_me_with_my_trading/lm4vukb/",
+      "created": 1725812441,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm80ezf",
+      "score": 1,
+      "body": "Vix is 30 day implied volatility. Or how much volatility insurance currently costs. \n\nIt's helpful to look at it in relation to RVOL which is realized volatility. That tells you how much *extra* people are currently paying compared to what's just happened. \n\nAlso VIX vs VIX3M is useful because it tells you if people think there is more uncertainty over the next 30 days vs 3months, which is unusual and can be a good fade. \n\nFinally, SKEW tells you the directionality of that insurance. Sometimes people are more concerned about upside volatility (market getting away from them). \n\nOh and credit spreads, MOVE (VIX for bonds), gold, DXY, and other markets can tell you if other markets are currently seeing whatever is scaring the equity market. \n\nThere's no rule. You need to look at these things in relation to each other and decide if the price of protection is currently warranted.",
+      "permalink": "/r/stocks/comments/1fbmz20/how_can_the_vix_help_me_with_my_trading/lm80ezf/",
+      "created": 1725850935,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm83738",
+      "score": 1,
+      "body": "I trade SPY options. It helps for that. Low VIX, high SPY. High VIX, low SPY.",
+      "permalink": "/r/stocks/comments/1fbmz20/how_can_the_vix_help_me_with_my_trading/lm83738/",
+      "created": 1725852134,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmamivc",
+      "score": 1,
+      "body": "A high VIX (30) means more market fear and volatility; expect bigger price swings. A low VIX (19) suggests calmer, stable trading days.",
+      "permalink": "/r/stocks/comments/1fbmz20/how_can_the_vix_help_me_with_my_trading/lmamivc/",
+      "created": 1725898024,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm4fkoy",
+      "score": 0,
+      "body": "The Vix measures volatility in the spread between call and put options. Historically Spy,SPX returns around 10% so trying to time everything as a retail trader is hard like really hard. I use the VIX and UVXY to buy short dated options.",
+      "permalink": "/r/stocks/comments/1fbmz20/how_can_the_vix_help_me_with_my_trading/lm4fkoy/",
+      "created": 1725807347,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm24dqe",
+      "score": -2,
+      "body": "It doesn't work that way man. VIX is a concept with 5-6yr time horizon in mind where we split the low vol and high vol regime. Then in a low vol regime you absolutely must be in short vol trade throughout those 2-2.5yrs. The way you can observe this phenomenon is seeing a trend rally in SVIX/SVXY etc.  But in high vol regime you must trade vix and be absolutely careful that when shorting vix the etf you are using should not go to 0 like what happened with XIV. And then you can basically long using UVIX/UVXY/VIXY and be watchful about the insane decay when monthly contracts rollover. Now there are numerous strategies you can use in trading high vol regime. Back in 2022 it was buy vix below 20 and sell above 30 or if you wanna deep dive watchout how vix behaves around vixexp.",
+      "permalink": "/r/stocks/comments/1fbmz20/how_can_the_vix_help_me_with_my_trading/lm24dqe/",
+      "created": 1725765677,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm23t9i",
+      "score": -4,
+      "body": "vix inverses spx",
+      "permalink": "/r/stocks/comments/1fbmz20/how_can_the_vix_help_me_with_my_trading/lm23t9i/",
+      "created": 1725765424,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

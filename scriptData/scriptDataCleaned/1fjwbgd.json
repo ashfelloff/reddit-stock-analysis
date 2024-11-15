@@ -1,0 +1,345 @@
+{
+  "title": "ROIC investing strategy.",
+  "score": 72,
+  "selftext": "View the graphs and diagrams here: [Imgur: The magic of the Internet](https://imgur.com/a/2qiEkrh)\n\nI created a python program that simulates buying the stocks with the highest ROIC among the 250 first stocks of the sp500 when sorted in alphabetical order (not ticker) from 2010 to 2023. First 250 from this list: [List of S&P 500 companies - Wikipedia](https://en.wikipedia.org/wiki/List_of_S%26P_500_companies). Only the 250 first stocks to reduce API costs. I used the FMP api.\n\nIt buys and sells the stocks at the start of every year, and buys an equal $ value amount of each stock, without taking stock price into consideration. Like for example buying 1.5 of a stock or 0.67 of a stock to make sure all the stocks are weighted equally.\n\nNeither dividends nor transaction cost taken into consideration.\n\nResults:\n\nOverall Return of the Strategy: 1222.37%\n\nCAGR: 21%\n\nOverall Return of the S&P 500: 320.99%\n\nSharpe Ratio of the Strategy: 0.94\n\nStandard Deviation of Excess Returns: 0.00923\n\nT-test Results:\n\nt-statistic = 1.2348\n\np-value = 0.2169\n\nWith a p-value of 0.2169 its not a statistically significant strategy when using the standard significance level of 5%. The sharpe-ratio 0.94 also tells us that it has a higher risk/reward ratio compared to the s&p500 with a sharpe of 1.06. However i still find it to be an interesting dicovery, and i believe other people will as well.\n\nAny thoughts?\n\n  \nedit: add years",
+  "link_flair_text": null,
+  "id": "1fjwbgd",
+  "num_comments": 37,
+  "created_utc": 1726675033,
+  "permalink": "/r/stocks/comments/1fjwbgd/roic_investing_strategy/",
+  "comments": [
+    {
+      "id": "lnr5b3w",
+      "score": 26,
+      "body": "Yeah high roic companies are always good...\n\nDid you find roic by reading their annual report and mannually calculating it?\n\nAnd how do you go about large depreciation of assets?",
+      "permalink": "/r/stocks/comments/1fjwbgd/roic_investing_strategy/lnr5b3w/",
+      "created": 1726676068,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lnr6b5o",
+          "score": 12,
+          "body": "I used the roic that the api returned. I didnt calculate them myself.\n\nI am sorry, but i dont understand what you mean by this: \"And how do you go about large depreciation of assets?\"",
+          "permalink": "/r/stocks/comments/1fjwbgd/roic_investing_strategy/lnr6b5o/",
+          "created": 1726676387,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lnrncn8",
+              "score": 11,
+              "body": "ROIC = NOPAT / invested capital\n\nDepreciation impacts NOPAT and a company can adjust how they depreciate assets to increase the reported ROIC without actually doing anything. Probably a moot point unless the company makes frequent changes to how they depreciate assets.",
+              "permalink": "/r/stocks/comments/1fjwbgd/roic_investing_strategy/lnrncn8/",
+              "created": 1726681747,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lntv1ru",
+                  "score": 2,
+                  "body": "I thought depreciation was pretty standard (I.e. equipment is over 5 years and buildings typically 30), and that the only thing that changes company to company is what they consider a capital asset. What companies claim as an asset could swing company to company by price. I’m genuinely asking because I don’t know.",
+                  "permalink": "/r/stocks/comments/1fjwbgd/roic_investing_strategy/lntv1ru/",
+                  "created": 1726708665,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lnvtey5",
+                      "score": 2,
+                      "body": "There are “standard” timelines for different assets but they are not set in stone and a company can adjust how the process the depreciation. They can also change methods, such as straight line or manual. This is why you read 10k’s whenever you see an unexpected change in financials, they’ll typically explain any changes they made.",
+                      "permalink": "/r/stocks/comments/1fjwbgd/roic_investing_strategy/lnvtey5/",
+                      "created": 1726747045,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lnwe6wu",
+                          "score": 2,
+                          "body": "Okay I didn’t know that. Thanks for the help! I guess I will start reading 10k’s now.",
+                          "permalink": "/r/stocks/comments/1fjwbgd/roic_investing_strategy/lnwe6wu/",
+                          "created": 1726755141,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "lnueeoc",
+                  "score": 1,
+                  "body": "Or the nature of the assets the firm uses change, which in high growth firms would be pretty common in would think",
+                  "permalink": "/r/stocks/comments/1fjwbgd/roic_investing_strategy/lnueeoc/",
+                  "created": 1726716524,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lnsch4m",
+      "score": 19,
+      "body": "So which companies will have the highest ROIC from 2024 to 2034?",
+      "permalink": "/r/stocks/comments/1fjwbgd/roic_investing_strategy/lnsch4m/",
+      "created": 1726689603,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lnt0v23",
+          "score": 14,
+          "body": "Buy Nogeltron. The founders only start the company in mid 2027 but it really takes off like a rocket ship from there.",
+          "permalink": "/r/stocks/comments/1fjwbgd/roic_investing_strategy/lnt0v23/",
+          "created": 1726697467,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lntpa7u",
+              "score": 4,
+              "body": "Oh perfect. I always look back and wonder why everyone didn't just put all they had into the top performing stock instead of index funds. It clearly did so much better than the rest of the market. Thanks for setting me up for success",
+              "permalink": "/r/stocks/comments/1fjwbgd/roic_investing_strategy/lntpa7u/",
+              "created": 1726706475,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lntpbeq",
+              "score": 2,
+              "body": "What is nogeltron lol",
+              "permalink": "/r/stocks/comments/1fjwbgd/roic_investing_strategy/lntpbeq/",
+              "created": 1726706488,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lnvf383",
+                  "score": 1,
+                  "body": "can't even find anything on google just this post lmao",
+                  "permalink": "/r/stocks/comments/1fjwbgd/roic_investing_strategy/lnvf383/",
+                  "created": 1726739170,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lnwt3vo",
+                      "score": 8,
+                      "body": "That's because they won't be founded until 2027, so you need to start looking for them there. The founders are still in high school right now, they haven't yet dropped out of college to found it.",
+                      "permalink": "/r/stocks/comments/1fjwbgd/roic_investing_strategy/lnwt3vo/",
+                      "created": 1726760213,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lnvj6c5",
+          "score": 3,
+          "body": "You don’t need to know which companies will have the highest ROIC, you just buy companies that are easy to project and have a consistent track record of ROIC>WACC.\n\nFor example, look at Colgate, people will always need toothpaste and they very rarely switch brands. It’s a consistent business model and won’t change in the next 50 years. People will always brush their teeth and buy their products multiple times a year. The company has a WACC 5.47% and a ROIC of 29.05%. This essentially means for every dollar invested the company is making you something like 23-24 cents.\n\nThis isn’t a groundbreaking philosophy, this is something value investors have been doing for decades.\n\nApplying this philosophy to other industries can be done, however it’s much harder to project the future of a tech company than something as mundane as household products.\n\nFull disclosure: I don’t own any Colgate. I just used it as an example. However the companies I do own, do have a higher ROIC than WACC, other than Amazon, but that’s a special scenario.",
+          "permalink": "/r/stocks/comments/1fjwbgd/roic_investing_strategy/lnvj6c5/",
+          "created": 1726741778,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lnvrkp4",
+              "score": 1,
+              "body": "But that's just buying consumers staples stocks",
+              "permalink": "/r/stocks/comments/1fjwbgd/roic_investing_strategy/lnvrkp4/",
+              "created": 1726746195,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lnvtl1l",
+                  "score": 2,
+                  "body": "You can find companies with consistent ROIC>WACC in plenty of sectors. Colgate was just an easy example.",
+                  "permalink": "/r/stocks/comments/1fjwbgd/roic_investing_strategy/lnvtl1l/",
+                  "created": 1726747120,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lnwj0vn",
+              "score": 0,
+              "body": "So which companies will have the highest ROIC from 2024-2034?",
+              "permalink": "/r/stocks/comments/1fjwbgd/roic_investing_strategy/lnwj0vn/",
+              "created": 1726756816,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lnupcg2",
+          "score": 1,
+          "body": "Me ☺️",
+          "permalink": "/r/stocks/comments/1fjwbgd/roic_investing_strategy/lnupcg2/",
+          "created": 1726722014,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lnrdtjb",
+      "score": 11,
+      "body": "I wonder how large the difference would have been if you tested from 1980 to 1999, or if you only tested it with buying the 20/25 highest ROIC companies.",
+      "permalink": "/r/stocks/comments/1fjwbgd/roic_investing_strategy/lnrdtjb/",
+      "created": 1726678758,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lnur1g3",
+          "score": 2,
+          "body": "It would be interesting to see. But the roic cant be returned from years before 2010",
+          "permalink": "/r/stocks/comments/1fjwbgd/roic_investing_strategy/lnur1g3/",
+          "created": 1726722975,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lnth8he",
+      "score": 14,
+      "body": "For those that don't know ROIC, or Return on Invested Capital, is a financial metric used to assess how efficiently a company generates profits from its invested capital.",
+      "permalink": "/r/stocks/comments/1fjwbgd/roic_investing_strategy/lnth8he/",
+      "created": 1726703468,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lntopdu",
+      "score": 5,
+      "body": "It's an interesting concept and appreciated content, but personally I'd be worried about the massive multiple expansion we've seen in a lot of high ROIC names over the last decade when thinking about this strategy moving forward.\n\nHypothetically speaking, I think it'd be interesting to track this strategy against one where you take the top 100 (for example) companies by ROIC, then sort by valuation and take the lowest 25 and re-balance annually or something like that.",
+      "permalink": "/r/stocks/comments/1fjwbgd/roic_investing_strategy/lntopdu/",
+      "created": 1726706258,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lnupzx2",
+          "score": 1,
+          "body": "So you mean top 100 vs bottom 25?",
+          "permalink": "/r/stocks/comments/1fjwbgd/roic_investing_strategy/lnupzx2/",
+          "created": 1726722379,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lnsb08i",
+      "score": 4,
+      "body": "The start of the year is such an arbitrary date and small sample size.  \n\nHow does it look if you took the first trading day of each month, instead of just January (resetting once a year)?\n\nHow does it look if you reset the portfolio once a month for the duration of the 13 years?\n\nI suppose the big takeway isn't so much finding a scheduled system but more so to invest in the highest ROIC stocks.",
+      "permalink": "/r/stocks/comments/1fjwbgd/roic_investing_strategy/lnsb08i/",
+      "created": 1726689153,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lns31si",
+      "score": 3,
+      "body": "Aaaand you want to sell said program for people to automate their investing sometime in the future or is this just an interesting FYI?",
+      "permalink": "/r/stocks/comments/1fjwbgd/roic_investing_strategy/lns31si/",
+      "created": 1726686678,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lns45yl",
+          "score": 5,
+          "body": "Both a FYI, and a service. Not necessarily that specific program, but i would be down to backtest a strategy someone have in mind in return for a fee.",
+          "permalink": "/r/stocks/comments/1fjwbgd/roic_investing_strategy/lns45yl/",
+          "created": 1726687027,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lns56gu",
+              "score": 5,
+              "body": "Time to start an ETF",
+              "permalink": "/r/stocks/comments/1fjwbgd/roic_investing_strategy/lns56gu/",
+              "created": 1726687345,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lnsbqym",
+              "score": 3,
+              "body": "Please start an ETF",
+              "permalink": "/r/stocks/comments/1fjwbgd/roic_investing_strategy/lnsbqym/",
+              "created": 1726689380,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lntak33",
+      "score": 3,
+      "body": "How do you define highest? Top what of the 250 you look at? Also, have you done a capm regression, id be interested to see if this is alpha or loading on beta above 1. Theoretically, if stocks are efficiently priced, ROIC shouldn't have any impact on returns. But I wonder if you are inadvertently picking stocks with a certain tilt (growth? Profitability, a specific sector). Definitely interesting, but i’d like more info",
+      "permalink": "/r/stocks/comments/1fjwbgd/roic_investing_strategy/lntak33/",
+      "created": 1726700989,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lnudz3m",
+          "score": 2,
+          "body": "His Sharpe was less than one so im thinking the beta was pretty high.",
+          "permalink": "/r/stocks/comments/1fjwbgd/roic_investing_strategy/lnudz3m/",
+          "created": 1726716326,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "locs6ge",
+              "score": 1,
+              "body": "Yeah that was my thought. In which case probably better and less hassle to buy SPY with appropriate levels of leverage to match the returns here. Risk adjusted returns would be higher.",
+              "permalink": "/r/stocks/comments/1fjwbgd/roic_investing_strategy/locs6ge/",
+              "created": 1727009542,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lnudgp4",
+      "score": 3,
+      "body": "As an FYI the reason its not statistically significant is that ROIC was the preferred market metric for a while.  Knowing this, people started manipulating it.\n\nWe are currently in the Forward Cash Flow based on guidance era.  Im sure thatll change as well soon.\n\nOne of the fascinating things about the market is that its a cat and mouse game between metrics and management.  Markets are always trying to devise accurate metrics, and management then figures out both real and paper ways to juice that metric.  \n\nRentech figured that out decades ago and began just n-nomial models with a crapload of computer power.  They ride the winners and cut the losers.\n\nIf your interested, read “the man who solved the market”.  It doesnt get into proprietary stuff, but its a look behind the curtain of the best of the best trying to quantitatively predict the market and the obstacles they ran into.  \n\nOne interesting take away is that over a long time span no algorithm or system can beat the market, because the market itself is one big system of systems.  So beating it systematically turns into the same sorr of paradoxes physics is struggling with.",
+      "permalink": "/r/stocks/comments/1fjwbgd/roic_investing_strategy/lnudgp4/",
+      "created": 1726716091,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lnudpjt",
+          "score": 1,
+          "body": "And the ROIC era if I had to guesstimate it was about 2012ish to about 2020.  Out of curiosity if you limit it to those years do the results improve?",
+          "permalink": "/r/stocks/comments/1fjwbgd/roic_investing_strategy/lnudpjt/",
+          "created": 1726716204,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lny6t0q",
+      "score": 2,
+      "body": "Interesting discussion!\n\nJust to clarify, do you rebalance the portfolio in January of year X based on reported numbers from fiscal year X minus 2?\n\nFor example, buying a stake in company A in January 2020 based on the reported numbers for fiscal year 2018, as this is the latest available annual report at the time of investment.",
+      "permalink": "/r/stocks/comments/1fjwbgd/roic_investing_strategy/lny6t0q/",
+      "created": 1726779482,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnrh05y",
+      "score": 3,
+      "body": "Try the top 100 next ",
+      "permalink": "/r/stocks/comments/1fjwbgd/roic_investing_strategy/lnrh05y/",
+      "created": 1726679760,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

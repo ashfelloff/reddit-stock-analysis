@@ -1,0 +1,1901 @@
+{
+  "title": "CrowdStrike is not worth 83 Billion Dollars",
+  "score": 24494,
+  "selftext": "**Thesis**: Crowdstrike is not worth 93 billion dollars (at time of writing).\n\n\n**Fear**: CrowdStrike is an enterprise-grade employee spying app masquerading as a cloud application observability dashboard.\n\n\n**OBSERVATIONS**\n\n* The 75th percentile retail investor has a tenuous grasp on “Cloud”, “Software Engineering”, and “Cyber Security”.\n* The median “Cyber Security Analyst” has a tenuous grasp on “Cyber Security”\n* The median “Software Engineer” has a tenuous grasp on “Cyber Security” and “Cloud”\n* The median retail investor has a tenuous grasp on “markets” and “liquidity pools”\n \n\n\n**CRITIQUES**\n\n* Corporations could buy CrowdStrike to spy on their own employees.\n\n* CrowdStrike’s utility is limited- they simply collect all of their customer’s data and display it on a dashboard. \n* CrowdStrike is dangerous in that they have root access to every device(i.e. endpoint) across thousands of firms.\n* CrowdStrike customers sign up to get their firm’s data added to a bank which CrowdStrike then has license to use for “correlation”\n* CrowdStrike is a sitting-duck datamine for the FBI/NSA to subpoena. \n* CrowdStrike could potentially behave as a propaganda arm of the US government by creating “fake hacking stories” which are un-disprovable.They are able to do this due to information asymmetries in society.\n* Properly built “cloud applications” have security baked in by virtue of separation of concerns in the \"software supply chain\". (e.g. containerization engine developer is different than the OS developer is different than the Cloud Infrastructure Provider). \n* CrowdStrike’s Falcon product contradicts their own guiding principle of “Zero-Trust Security”.\n\n\n**COMMENTARY**\n\n* CrowdStrike’s product includes a “client” which runs on every \"customer endpoint” (i.e. company issued laptop). Activity on the company issued laptop is reported to an internal dashboard which only an IT guy + a C-Suite admin have access to. They ALSO offer observability into each component of a business’s own “cloud application”.\n* These are 100% different lines of business which can be easily conflated.\n* CrowdStrike admits that they collect all of a business’ “endpoint data'' and they compare it to other data they have to \"draw insights\"; this means that every company that hires CrowdStrike is part of a DATA COMMUNE.\n* It’s prohibitively hard to hack into a “cloud system” due to few possible entry points\n* Exfiltrating data at scale is difficult; employees of the company pose a bigger threat than \"threat-actors\".\n* *Containerize Everything* + *Microservices Architecture* hampers \"lateral movement\". \n* Is CrowdStrike compatible with companies that run their IT systems on premises?\n\n\n\n\n\n\n*The CrowdStrike Story So Far…*\n\n\n\n**2020**\n\n* “Uses cloud technology to detect and thwart attempted cybersecurity breaches”\n\n* “Runs on your endpoint or server or workload”\n\n* “Signature based technologies don’t go far enough”\n\n* “We collect trillions of events” \n\n* “There hasn’t been a salesforce of security” \n\n—  FAST FORWARD — \n\n**2024**\n\n* Palo Alto Networks(100% different business line) is being pitted against CrowdStrike in the media. \n* Crowdstrike allegedly offers a poorly differentiated suite of generically titled products: **(Falcon Discover, Falcon Spotlight, Falcon Prevent, Falcon Horizon, Falcon Insight(EDR), Falcon Insight(XDR), Falcon Overwatch, Falcon Complete(MDR), Falcon Cloud Security)**. There is no way to confirm unless you schedule a meeting with their team though.\n* I spoke to a “Network Engineer” at CrowdStrike. He said that he “mostly tries to get bug bounties”. \n* “CrowdStrike сustomers: 44 of 100 Fortune 100 companies, 37 of 100 top global companies, 9 of 20 major banks & 7 of the TOP 10 largest energy institutions.”  This makes it a threat vector.\n\nMisleading videos on their site: \n\n* https://vid.crowdstrike.com/watch/P4xk1x3PaH1D6rR4MiW2F5? \n* https://www.youtube.com/watch?v=9x7eiznCfAg \n* https://www.crowdstrike.com/platform/cloud-security/cspm/ \n\n\n**My Position:**\n\n* CRWD $185 Put, 11/21/25 expiration date,.\n* 5 contracts @ $7.30, up 16.85% since 06/11/24 \n\n\n\n*First Draft/Final Draft: June 11th/July 18th*\n\nEdit: [Gains](https://imgur.com/a/Q09o7iY)",
+  "link_flair_text": "DD",
+  "id": "1e6ms9z",
+  "num_comments": 2600,
+  "created_utc": 1721338292,
+  "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/",
+  "comments": [
+    {
+      "id": "ldu3ykh",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 2 | **First Seen In WSB** | 2 months ago\n**Total Comments** | 69 | **Previous Best DD** | [x](https://www.reddit.com/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/) \n**Account Age** | 9 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldu3ykh/",
+      "created": 1721338296,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldw5fyk",
+      "score": 8186,
+      "body": "The fact that crowdstrike just took out half the internet shortly after this post is hilarious",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw5fyk/",
+      "created": 1721371243,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldwmrg3",
+          "score": 1212,
+          "body": "Croudstrike has [their hands in AI](https://www.nasdaq.com/articles/crowdstrikes-generative-ai-to-revolutionize-cybersecurity) too. Can't wait to see what their AI can do.",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwmrg3/",
+          "created": 1721382720,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldwrqp5",
+              "score": 350,
+              "body": "Better make a post here before their cybersecurity AI \"accidentally\" gains access to every windows system and becomes Ultron tmr",
+              "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwrqp5/",
+              "created": 1721385757,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ldyqrc5",
+          "score": 253,
+          "body": "The timing on this is unreal.",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldyqrc5/",
+          "created": 1721412326,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldyo4zo",
+          "score": 28,
+          "body": "Historically speaking, cybersecurity firm had done more damage to the business they are supposed to protect than all the hackers combined. McAfee did that in 2010, and now Crowdstrike. There hasn't been any hackers that caused this kind of wide-spread disruptions.",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldyo4zo/",
+          "created": 1721411473,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldvzmiy",
+      "score": 1700,
+      "body": "Dude, you got in at the perfect time.  Crowd strike is currently having a worldwide issue. ALL systems are affected, in a reboot cycle, affecting all organizations currently.",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldvzmiy/",
+      "created": 1721367757,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldw05re",
+          "score": 1876,
+          "body": "im geeked 💀",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw05re/",
+          "created": 1721368066,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldw0waf",
+              "score": 291,
+              "body": "Lol how can we leverage this after hours.",
+              "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw0waf/",
+              "created": 1721368497,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ldw51jj",
+                  "score": 86,
+                  "body": "Maybe if your account is approved for shorting. Otherwise, wait for market open to buy puts",
+                  "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw51jj/",
+                  "created": 1721370996,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "ldwigv1",
+              "score": 89,
+              "body": "Pls post the gain porn",
+              "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwigv1/",
+              "created": 1721379837,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ldwcteu",
+          "score": 60,
+          "body": "Timing too sus, pretty sure OP caused it",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwcteu/",
+          "created": 1721375990,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldw4tjj",
+      "score": 4488,
+      "body": "Wait OP is a genius… the timing",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw4tjj/",
+      "created": 1721370863,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldwo3hy",
+          "score": 2222,
+          "body": "OP tells us Crowdstrike is a threat vector.\nA few hours later, every computer on the world with the Crowdstrike client installed goes blue screen.\nThe single biggest global PC system collapse in history.\nJust uncanny. Have my upvote, genius.",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwo3hy/",
+          "created": 1721383508,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldx224p",
+              "score": 715,
+              "body": "OP is the engineer that pushed the update.",
+              "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldx224p/",
+              "created": 1721391042,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ldxhjjp",
+                  "score": 165,
+                  "body": "This is also my personal conspiracy theory",
+                  "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldxhjjp/",
+                  "created": 1721397301,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "ldx13tp",
+              "score": 338,
+              "body": "*places tinfoil hat on head* Or he knew and concocted this whole cover story to evade the SEC.",
+              "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldx13tp/",
+              "created": 1721390604,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ldx7vxa",
+                  "score": 273,
+                  "body": "My tinfoil hat theory is he works for crowdstrike, told his boss about how shitty the update would be and got mad no one listened so he came here to rant",
+                  "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldx7vxa/",
+                  "created": 1721393567,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ldxh0p3",
+                      "score": 134,
+                      "body": "That would be the funniest thing to me if the guy knew all this shit and risked getting slapped with insider trading charges just to buy only 5 extremely otm puts",
+                      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldxh0p3/",
+                      "created": 1721397112,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "ldyg3cj",
+                          "score": 51,
+                          "body": "Not insider trading if he made the information publicly available before trading ;)",
+                          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldyg3cj/",
+                          "created": 1721408840,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "ldx5w2j",
+                  "score": 39,
+                  "body": "Op is shitting his chicken tendy pants that we figured it out. He probably thought he was a fucking genius.",
+                  "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldx5w2j/",
+                  "created": 1721392729,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ldwbl6z",
+          "score": 199,
+          "body": "I know right. I want to know who has shorts on crowdstrike",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwbl6z/",
+          "created": 1721375172,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldwc2gd",
+          "score": 158,
+          "body": "OP needs to go into hiding. Fr what are the chances",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwc2gd/",
+          "created": 1721375488,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldw2cll",
+      "score": 9180,
+      "body": "Global Crowd strike outage you couldn't make this up lol",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw2cll/",
+      "created": 1721369367,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldwr6zi",
+          "score": 3961,
+          "body": "I went to sleep last night reading a bunch of comments from the whole lot of you calling him regarded and that he has no idea what he’s talking about. \n\nThen I wake up and read this company single handedly crashed the world. \n\nThis is going to go down in WSB history.",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwr6zi/",
+          "created": 1721385434,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldx6yqu",
+              "score": 752,
+              "body": "OP is the Crowdstrike employee that caused this",
+              "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldx6yqu/",
+              "created": 1721393187,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ldxpcp4",
+                  "score": 200,
+                  "body": "This is the only explanation.",
+                  "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldxpcp4/",
+                  "created": 1721400017,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "ldxx7v8",
+                  "score": 34,
+                  "body": "I hope not or the SEC is going to be up OP's butthole real quick.",
+                  "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldxx7v8/",
+                  "created": 1721402630,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ldybum3",
+                      "score": 36,
+                      "body": "They will be either way - dude was Nostradamus with this post.",
+                      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldybum3/",
+                      "created": 1721407449,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ldwvow7",
+              "score": 465,
+              "body": "Iconic",
+              "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwvow7/",
+              "created": 1721387946,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ldx9a2s",
+                  "score": 131,
+                  "body": "Glad to be here for this. Scared to be here for this.",
+                  "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldx9a2s/",
+                  "created": 1721394133,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "ldx2tgv",
+              "score": 185,
+              "body": "I wanna be in the screenshot when the news calls us a bunch of animals and other names again!",
+              "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldx2tgv/",
+              "created": 1721391381,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ldxep9o",
+                  "score": 18,
+                  "body": "> I wanna be in the screenshot when the news calls us a bunch of animals and other names again!\n\nsomeone trap the part time dog walker mod in the their basement so they can't appear on the news",
+                  "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldxep9o/",
+                  "created": 1721396257,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "ldx3kxb",
+              "score": 80,
+              "body": "Man I was reading that post yesterday because I didn’t understand what crowdstrike actually did and how their security was allegedly better than everyone else, reading OPs post I was thinking he was probably right. Usually the simplest answer is the closest to the truth so of course these companies just give root access 😂😂😂",
+              "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldx3kxb/",
+              "created": 1721391723,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ldwjaun",
+          "score": 435,
+          "body": "\"This makes it a threat vector.\"\n\nuh... OP whatcha been up to today?",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwjaun/",
+          "created": 1721380411,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldx3ova",
+              "score": 243,
+              "body": "Fending off NSA job offers and FBI investigators no doubt",
+              "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldx3ova/",
+              "created": 1721391770,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "ldxvkns",
+              "score": 61,
+              "body": "The thing is what op said is known in the industry. \n\nThe issue is people making us install this garbage because they are convinced to. \n\nI never wanted it on my servers. It's stupid. \n\nBefore this outage I already had it crashing my systems. \n\nThe point of an endpoint protection software is to reduce risk. Not increase it",
+              "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldxvkns/",
+              "created": 1721402090,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ldw3kpj",
+          "score": 222,
+          "body": "Exactly.. Need to see who purchased shorts after this thread!",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw3kpj/",
+          "created": 1721370101,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldw9glt",
+              "score": 39,
+              "body": "Pray for my puts",
+              "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw9glt/",
+              "created": 1721373767,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ldwgumv",
+          "score": 157,
+          "body": "I hope OP loaded up on Puts yesterday because today he is getting paid 🤑🤑🤑",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwgumv/",
+          "created": 1721378728,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldwvr52",
+              "score": 75,
+              "body": "given the payment service works",
+              "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwvr52/",
+              "created": 1721387979,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "ldx20uc",
+              "score": 19,
+              "body": "> because today he is getting paid \n\nOnce the BSODs are fixed.",
+              "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldx20uc/",
+              "created": 1721391027,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ldw4t04",
+          "score": 1049,
+          "body": "Yep, this OP is wrong about everything in the DD but then this happens!",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw4t04/",
+          "created": 1721370853,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldw88rk",
+              "score": 787,
+              "body": "Lmao he hacked them or soomething, \n\n\nthere's no way the timing of this crazy post aligns perfectly with the biggest sysadmin fuck up of the year",
+              "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw88rk/",
+              "created": 1721372987,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ldwm599",
+                  "score": 95,
+                  "body": "Is it insider trading if you publish it on the internet lmao",
+                  "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwm599/",
+                  "created": 1721382334,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ldwt9e6",
+                      "score": 33,
+                      "body": "OP just did it so he can say here later, \"I told you so!\"",
+                      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwt9e6/",
+                      "created": 1721386625,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "ldwcos1",
+                  "score": 269,
+                  "body": "Maybe Crowdstrike employees also bought puts and hijacked their own system.",
+                  "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwcos1/",
+                  "created": 1721375903,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ldwqnzt",
+                      "score": 84,
+                      "body": "I’m obsessed with this narrative",
+                      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwqnzt/",
+                      "created": 1721385119,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "ldwazaw",
+                  "score": 53,
+                  "body": "Could see this topping more than just for this year 🤣",
+                  "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwazaw/",
+                  "created": 1721374771,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ldwcly4",
+          "score": 131,
+          "body": "OP is a genius and all the naysayers are ignorant swines!",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwcly4/",
+          "created": 1721375851,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldwam0g",
+      "score": 10864,
+      "body": "[removed]",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwam0g/",
+      "created": 1721374526,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldwerei",
+          "score": 1445,
+          "body": "The spice must flow",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwerei/",
+          "created": 1721377301,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldwio6a",
+              "score": 139,
+              "body": "😭",
+              "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwio6a/",
+              "created": 1721379978,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ldwsf1a",
+          "score": 487,
+          "body": "Lisan Al Ghaib 🫡",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwsf1a/",
+          "created": 1721386146,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldx8i90",
+              "score": 129,
+              "body": "Lisan Al Ghaib 🫡",
+              "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldx8i90/",
+              "created": 1721393820,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ldwserm",
+          "score": 235,
+          "body": "OP must be the real bug bounty hunter he mentioned in the post. Crowdstrike didn't pay for whatever bug he found, and here we are.",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwserm/",
+          "created": 1721386142,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldwzmi9",
+          "score": 180,
+          "body": "Lisan-Al-Gaib 🧎‍♀️🧎‍♂️ Mahdi\n\nLead us to paradise ![img](emote|t5_2th52|4276)",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwzmi9/",
+          "created": 1721389912,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldwpw80",
+          "score": 219,
+          "body": "As It Was Written",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwpw80/",
+          "created": 1721384644,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldwiqvn",
+          "score": 56,
+          "body": "Al Gaib ",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwiqvn/",
+          "created": 1721380031,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldxvfgh",
+          "score": 50,
+          "body": "https://preview.redd.it/mhn8k6j2shdd1.jpeg?width=640&format=pjpg&auto=webp&s=3213b78027c2bb997c39c598610370327e8cd04c",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldxvfgh/",
+          "created": 1721402044,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldwygoz",
+          "score": 43,
+          "body": "Kwisatz Haderach 🫡",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwygoz/",
+          "created": 1721389353,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldwac3y",
+      "score": 647,
+      "body": "Yeah, you’re getting a visit from the Fed. Congrats on the Lambo though",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwac3y/",
+      "created": 1721374342,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldxplu9",
+          "score": 83,
+          "body": "He’ll just invite them in for some champagne in his 10,000 square foot house after this. ",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldxplu9/",
+          "created": 1721400102,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldyizgt",
+          "score": 51,
+          "body": "This regard bought 5 185p over a year out. He’s not gonna make shit except bragging rights for this post",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldyizgt/",
+          "created": 1721409790,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldwcb4s",
+      "score": 3373,
+      "body": "Plot twist: OP is the CrowdStrike employee that rolled out the update.",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwcb4s/",
+      "created": 1721375649,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldwcwzt",
+          "score": 593,
+          "body": "OP is an intern and realized the truth!",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwcwzt/",
+          "created": 1721376056,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldwemz0",
+              "score": 111,
+              "body": "Revenge of the interns!!!!",
+              "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwemz0/",
+              "created": 1721377217,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ldw5m4b",
+      "score": 1374,
+      "body": "OP, did you cause the Crowdstrike global BSOD by pushing bad updates?",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw5m4b/",
+      "created": 1721371348,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldw5szv",
+          "score": 1576,
+          "body": "🅾️🅱️🅰️Ⓜ️🅰️",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw5szv/",
+          "created": 1721371464,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldwigc1",
+              "score": 281,
+              "body": "Congratulations and fuck you",
+              "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwigc1/",
+              "created": 1721379827,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ldwbfaf",
+      "score": 1386,
+      "body": "This is one of the best timed posts I have seen on this page, and I have been here a while!",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwbfaf/",
+      "created": 1721375064,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldw9bsk",
+      "score": 901,
+      "body": "This aged perfectly",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw9bsk/",
+      "created": 1721373679,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldx56f1",
+          "score": 544,
+          "body": "The FBI will be waiting for him once their systems are up and running haha",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldx56f1/",
+          "created": 1721392424,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldx7t6u",
+              "score": 92,
+              "body": "This comment is too funny to be buried down here.",
+              "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldx7t6u/",
+              "created": 1721393536,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ldw1wrj",
+      "score": 1218,
+      "body": "Crowdstrike just f\\*d our company computers and we're not alone. Last patch is causing blue screen loops on 500 PCs and my partners company is impacted too. SHORT THIS STOCK NOW.",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw1wrj/",
+      "created": 1721369102,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldwb2yo",
+          "score": 434,
+          "body": "Op is a time traveler",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwb2yo/",
+          "created": 1721374838,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldwek45",
+              "score": 179,
+              "body": "OP about to get a visit from some top secret alphabet agency.",
+              "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwek45/",
+              "created": 1721377163,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ldwes1n",
+                  "score": 83,
+                  "body": "Google employees with some shotguns?",
+                  "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwes1n/",
+                  "created": 1721377313,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "ldwfvwf",
+              "score": 39,
+              "body": "OP is the developer who pushed the update.",
+              "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwfvwf/",
+              "created": 1721378068,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ldw230z",
+          "score": 86,
+          "body": "looks to be a global issue impacting windows PC's from their latest update.",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw230z/",
+          "created": 1721369207,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldw9df6",
+              "score": 40,
+              "body": "Just came into the office, not in America, and same issue. Many blue screens, but not all",
+              "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw9df6/",
+              "created": 1721373709,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ldwbza0",
+          "score": 36,
+          "body": "Can confirm, crowdstrike broke half of the world with that update.",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwbza0/",
+          "created": 1721375430,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldw3f2b",
+          "score": 52,
+          "body": "This company will be delisted by the end of the year",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw3f2b/",
+          "created": 1721370008,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldwafje",
+      "score": 455,
+      "body": "OP how much money did you make with this prediction?  Beers on you.",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwafje/",
+      "created": 1721374406,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldxj29u",
+          "score": 201,
+          "body": "Current bid/ask on that contract is 10.30/14.30. up an additional \\~$3500 on that position from when he posted. Unfortunately he's holding relatively few contracts, expiring quite far out, at an extremely low price. If he'd been more aggressive he might be rich.",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldxj29u/",
+          "created": 1721397845,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldxnrz3",
+              "score": 109,
+              "body": "OP is the literal definition of a broken clock is right twice a day.",
+              "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldxnrz3/",
+              "created": 1721399478,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "ldy29nt",
+              "score": 18,
+              "body": "And $185p too on a $330 stock.\n\nAt this point OP is best waiting it out for Crowdstrike to go bankrupt then his puts would be worth the full value.",
+              "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldy29nt/",
+              "created": 1721404272,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ldwceb8",
+      "score": 217,
+      "body": "fbi/sec, this guy",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwceb8/",
+      "created": 1721375708,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldw3sl3",
+      "score": 186,
+      "body": "Bros about to wake up ROCKED",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw3sl3/",
+      "created": 1721370235,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldwb3g8",
+      "score": 349,
+      "body": "LISAN AL GAIB",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwb3g8/",
+      "created": 1721374847,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldw4vp3",
+      "score": 171,
+      "body": "https://preview.redd.it/n1wbdujg7fdd1.png?width=500&format=png&auto=webp&s=22520d12a1bac4fd4a3a7f9f7b5c37d036d73072",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw4vp3/",
+      "created": 1721370899,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldwut2o",
+          "score": 49,
+          "body": "Can’t get hacked if you constantly BSOD. \n\nPointsAtHead.jpg",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwut2o/",
+          "created": 1721387476,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldw5z46",
+      "score": 718,
+      "body": "OP bout to hit it big. Crowdstrike has cause major outages in Australia right now 😂",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw5z46/",
+      "created": 1721371569,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldw65w5",
+          "score": 326,
+          "body": "Major outages across the world.",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw65w5/",
+          "created": 1721371687,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldw6fel",
+              "score": 222,
+              "body": "Yeah it's australia because it's working hours now. Just wait 6 hours for US to wake up lol",
+              "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw6fel/",
+              "created": 1721371851,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ldw6n6k",
+                  "score": 116,
+                  "body": "Already on a work call here in Cali about this. Every windows based device that has CS on it is down. Happy Friday.  Get those puts in!",
+                  "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw6n6k/",
+                  "created": 1721371986,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ldw7i5k",
+                      "score": 19,
+                      "body": "Man i now wish Stake allowed options trading.. got no way to get this in 😂",
+                      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw7i5k/",
+                      "created": 1721372519,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ldw07ld",
+      "score": 457,
+      "body": "Well someone is about to be rich.\n\n\nCrowdstrike just BSOD'd all of their customers.\n\nI repeat, the crowdstrike agent has just crippled infrastructure around the world.\n\n\nSell if you can.\n\nTrade on it in whatever way you can.\n\nThis will be huge news shortly.\n\nGood ltoo.\n\n\nUPDATE: \nThis is so much worse than it sounds.\n\nThis isn't something that CRWD or anyone else can \"push\" a fix for.\n\n It is IT labor intensive without a lot of prior, specific automation investment.\n\nThere is no quick recovery from this outage.\n\nEvery WFH staff with this agent installed is bricked until they recover bitlocker key, safe boot, delete a driver file in system dir etc.\n\nBiggest PITA outage in a while.\n\nNot trivial at all for these companies to fully mitigate the impact without super strong out of band management automation, which IMHO 95% of fortune 500s just don't have.\n\nThis is going to cost most CRWD customers 12+ hours of downtime, scaling in an awful way.",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw07ld/",
+      "created": 1721368095,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldw0c3h",
+          "score": 302,
+          "body": "cant they just reboot their machines? 💀",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw0c3h/",
+          "created": 1721368168,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldw400m",
+              "score": 443,
+              "body": "Bro u invested into shit u have no clue about and can’t believe it when you struck gold ![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4271) you belong here",
+              "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw400m/",
+              "created": 1721370360,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ldw43wz",
+                  "score": 560,
+                  "body": "dont lump me in with you. I AM A SOPHISTICATED INVESTOR.",
+                  "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw43wz/",
+                  "created": 1721370425,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ldwfbzr",
+                      "score": 127,
+                      "body": "You got any other companies on your hit list, dawg?",
+                      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwfbzr/",
+                      "created": 1721377693,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "ldwfebg",
+                          "score": 205,
+                          "body": "green fn",
+                          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwfebg/",
+                          "created": 1721377738,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "ldwyqth",
+                      "score": 37,
+                      "body": "Fucking legendary",
+                      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwyqth/",
+                      "created": 1721389490,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ldw16pr",
+              "score": 60,
+              "body": "No, they have to force safe boot / pxe boot just to rename/delete the crowdstrike driver.\n\nAnd that only works if the PC isn't encrypted with bitlocker.\n\nAnd THEN you better pray your org knows how to retrieve bitlocker keys.",
+              "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw16pr/",
+              "created": 1721368669,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ldxkzh0",
+                  "score": 49,
+                  "body": "No, you better pray your org doesn’t store bitlocker keys on another Windows server 💀\n\nThe more I think about this, the more it seems like it has to be intentionally malicious. Should we test this update? Nah, just push it. Maintenance window? Friday fucking morning.",
+                  "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldxkzh0/",
+                  "created": 1721398522,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ldxm0r4",
+                      "score": 24,
+                      "body": "This!  \n\nSecure storage of bitlocker keys has been an argument between csuite and IT for some time, as sometimes management can insist on “no hard copies” - INCLUDING FLASH DRIVE COPIES - because “cloud” storage is “safer”.  \n\nDespite the fact that when shit happens to the cloud, you NEED not networked hard copies to resolve the issue.\n\nGlobal economic loss in the hundreds of millions, calling it now.",
+                      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldxm0r4/",
+                      "created": 1721398879,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ldwafzo",
+          "score": 37,
+          "body": "https://www.investing.com/news/company-news/crowdstrike-executive-sells-149-million-in-stock-93CH-3521972",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwafzo/",
+          "created": 1721374415,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldw82hd",
+      "score": 139,
+      "body": "You had good DD on Snow and now this. You’re almost a god here. Messiah. Lisan al gairegard.",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw82hd/",
+      "created": 1721372876,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldwbyan",
+      "score": 247,
+      "body": "This isn't DD this is evidence",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwbyan/",
+      "created": 1721375412,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldwykb0",
+          "score": 52,
+          "body": "Stop it I can't upvote you all",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwykb0/",
+          "created": 1721389402,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldwoaek",
+      "score": 112,
+      "body": "Hall of fame wsb post",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwoaek/",
+      "created": 1721383633,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldwhzyz",
+      "score": 177,
+      "body": "SEC, investigate this man.\nHe crashed computers worldwide so his 5 puts can print",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwhzyz/",
+      "created": 1721379516,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldwi9n0",
+          "score": 91,
+          "body": "If Elon Musk is reading this- make the Boring Company an ISP.",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwi9n0/",
+          "created": 1721379699,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldw8nro",
+      "score": 137,
+      "body": "This must be the most fortunately ( maybe unfortunately) timed post in the history of Reddit",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw8nro/",
+      "created": 1721373249,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldwcx2s",
+      "score": 167,
+      "body": "This post aged like the finest of wine",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwcx2s/",
+      "created": 1721376058,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldwcylz",
+          "score": 217,
+          "body": "I have conspiracy theories that I cannot say rn.",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwcylz/",
+          "created": 1721376087,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldwdu4e",
+              "score": 56,
+              "body": "DM me your next theories please",
+              "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwdu4e/",
+              "created": 1721376679,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "ldweiwz",
+              "score": 37,
+              "body": "WSB owes you an apology mate 😂",
+              "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldweiwz/",
+              "created": 1721377141,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "ldwxjc5",
+              "score": 16,
+              "body": "Oh, juicy! I posted on Crowdsrike's origins on the conspiracy sub some time ago. They just looked like an intelligence state actor from inception.\n\nIt was started by guys from McAfee who were instrumental at getting a $$ record setting department of defense contract before they moved on. One of the guys joins the private equity firm Warburg Pincus whose CEO at the time was on the Council on Foreign Relations and decides to seed Crowdstrikes startup money.\n\nThen, they (Warburg) hired Timothy Geithner and in no time Crowdsrike was getting headlines in major news outlets about Chinese & Russian hacks.\n\nThey are the \"overnight success\" of the intel world.",
+              "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwxjc5/",
+              "created": 1721388894,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ldw4jzw",
+      "score": 240,
+      "body": "Lmao everyone going 'oh Crowdstrike is so great, you're regarded' owes OP a huge apology. Global Crowdstrike outage is causing mayhem, bluescreens...",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw4jzw/",
+      "created": 1721370699,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldwbhdi",
+          "score": 89,
+          "body": "True wsb degen. Made bank for all the wrong reasons .",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwbhdi/",
+          "created": 1721375102,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldvymq6",
+      "score": 51,
+      "body": "Lol [https://www.reddit.com/r/sysadmin/comments/1e6vx6n/crowdstrike\\_bsod/](https://www.reddit.com/r/sysadmin/comments/1e6vx6n/crowdstrike_bsod/)",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldvymq6/",
+      "created": 1721367180,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldw8f5q",
+      "score": 49,
+      "body": "My brother, you are as lucky as the guys at Crowdstrike are unlucky. I am on call and our company is fucked at the moment. VPN wont work and people who use AT&T are double fucked, they cant even get on a call to discuss what's broken.",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw8f5q/",
+      "created": 1721373097,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldwjj7k",
+      "score": 55,
+      "body": "Everyone gave this guy shit for this post, but he trusted his gut in an industry dictated by gut feelings and emotions and he made it big because of it. Everyone else just shit on him and sat around waiting for someone to write them a novel clearly outlining the big play to make. His gut told him this company wasn't worth shit and he couldn't figure out why exactly but he still went with it all the way and made out a killing.",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwjj7k/",
+      "created": 1721380569,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldw87f6",
+      "score": 47,
+      "body": "bro is the new roaring kitty",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw87f6/",
+      "created": 1721372964,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldw9qpx",
+      "score": 46,
+      "body": "Did you hacked crowdstrike?",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw9qpx/",
+      "created": 1721373950,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldwa0vh",
+          "score": 65,
+          "body": "some disgruntled dude who works there prob borked it lol",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwa0vh/",
+          "created": 1721374134,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldwcbup",
+      "score": 159,
+      "body": "holy shit this was the worst DD I've ever seen but you are going to crush it on the outage",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwcbup/",
+      "created": 1721375662,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldxhm6x",
+          "score": 29,
+          "body": "Wrong method correct answer kind of stuff.",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldxhm6x/",
+          "created": 1721397328,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldw9qjx",
+      "score": 45,
+      "body": "If this was randomly timed, bad luck, you might face some heat for your incredibly sus timing lmao",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw9qjx/",
+      "created": 1721373946,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldwa5zw",
+      "score": 42,
+      "body": "OP are you a fucking wizard?",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwa5zw/",
+      "created": 1721374228,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldwbsuv",
+      "score": 41,
+      "body": "OP is a fucking fortune teller.",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwbsuv/",
+      "created": 1721375312,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldwbxtk",
+      "score": 43,
+      "body": "OP literally broke the inverse wsb curse. Mad man.",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwbxtk/",
+      "created": 1721375404,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lduhe3e",
+      "score": 1229,
+      "body": "[deleted]",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/lduhe3e/",
+      "created": 1721344048,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldw8wtb",
+          "score": 194,
+          "body": "Rip your calls",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw8wtb/",
+          "created": 1721373409,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldx6z03",
+              "score": 33,
+              "body": "Man just ended his own career.",
+              "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldx6z03/",
+              "created": 1721393190,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ldw4wmo",
+          "score": 163,
+          "body": "Wait maybe OP is a genius after all …",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw4wmo/",
+          "created": 1721370915,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldwd0fk",
+              "score": 74,
+              "body": "OP must feel so vindicated rn",
+              "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwd0fk/",
+              "created": 1721376121,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lduvu49",
+          "score": 398,
+          "body": "I actually lol’d at the “cloud being prohibitively hard to hack into due to few entry points” part.",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/lduvu49/",
+          "created": 1721349654,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldv74af",
+              "score": 211,
+              "body": "You don't even need to hack it. Everyone just leaves their s3 buckets wide open.",
+              "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldv74af/",
+              "created": 1721354196,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ldvomq5",
+                  "score": 97,
+                  "body": "OP would need to know what an s3 bucket is first.",
+                  "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldvomq5/",
+                  "created": 1721361844,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "ldv5hh0",
+              "score": 79,
+              "body": "You mean the remote server architecture designed to be accessible over *the internet*?",
+              "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldv5hh0/",
+              "created": 1721353537,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ldw2mvv",
+          "score": 361,
+          "body": "As stupid as the OP has proven himself to be in terms of knowledge of cybersecurity with this utterly bullshit DD, there's a huge emerging update issue with Crowd Strike that's blue screening hundreds of servers and PCs as we speak. \n\nhttps://www.reddit.com/r/sysadmin/s/M9zd7ymYah\n\nHe might just be the Forest Gump of Wall Street Bets.\n\nEdit: a huge chunk of the world - from TV networks and airports through to banks - offline due to Crowdstrike update 🤣\n\nhttps://www.bbc.co.uk/news/live/cnk4jdwp49et\n\nSomeone needs to check if OP is a Crowdstrike developer, otherwise this is the pinnacle of WSB regarded plays\n\nUpdate: Crowdstrike already down 18% (so far) in premarket - can anyone do the maths on OP's positions?",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw2mvv/",
+          "created": 1721369538,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldw7jrg",
+              "score": 134,
+              "body": "Yeah, what the fuck. I just woke up and I thought this post was related to the outage.",
+              "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw7jrg/",
+              "created": 1721372547,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ldwae38",
+                  "score": 44,
+                  "body": "Ha yep, OP when they wake up this morning...\n\nhttps://makeagif.com/amp/L9Q-y0",
+                  "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwae38/",
+                  "created": 1721374379,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ldwkr1y",
+          "score": 28,
+          "body": "Life comes at you fast.",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwkr1y/",
+          "created": 1721381393,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldwcyx3",
+          "score": 20,
+          "body": "[https://www.reddit.com/r/wallstreetbets/comments/1e6xs6m/crowdstrike\\_just\\_took\\_the\\_internet\\_offline/](https://www.reddit.com/r/wallstreetbets/comments/1e6xs6m/crowdstrike_just_took_the_internet_offline/)\n\nshame about those calls  \nyou belong here",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwcyx3/",
+          "created": 1721376092,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldwedfd",
+      "score": 41,
+      "body": "LISAN AL GAIB",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwedfd/",
+      "created": 1721377037,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldwhdiv",
+      "score": 37,
+      "body": "r/timetravelercaught",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwhdiv/",
+      "created": 1721379087,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldu7tdi",
+      "score": 169,
+      "body": "[deleted]",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldu7tdi/",
+      "created": 1721339609,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldwdb68",
+          "score": 46,
+          "body": "Or unless CS nuke all their customers. \n\nOh wait...",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwdb68/",
+          "created": 1721376323,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldwv9tv",
+          "score": 24,
+          "body": "It's like you 100% accurately foresaw this as well",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwv9tv/",
+          "created": 1721387726,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldw0q3x",
+      "score": 35,
+      "body": "This is about to be very correct.",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw0q3x/",
+      "created": 1721368393,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldw4rha",
+      "score": 33,
+      "body": "Lmao the timing is immaculate",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw4rha/",
+      "created": 1721370828,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldw7ocj",
+      "score": 31,
+      "body": "We found the crowdstrike employee who fucked up the C-00000291*.sys file and gave blue screens",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw7ocj/",
+      "created": 1721372628,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldw955s",
+      "score": 31,
+      "body": "Holy shit, are you a time traveler or sth",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw955s/",
+      "created": 1721373560,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldwaoem",
+      "score": 30,
+      "body": "This man saw the future.\nI was here",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwaoem/",
+      "created": 1721374571,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldw15zq",
+      "score": 56,
+      "body": "Talk about good timing, Crowdstrike just took down millions of Windows PC/Servers with their latest update, this is a global outage that will have major consequences.  Not just a simple outage of the product, but the blue screen of death being displayed on those servers/computers rendering them virtually useless.",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw15zq/",
+      "created": 1721368656,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldw3i0l",
+      "score": 59,
+      "body": "bro is about to be rich",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw3i0l/",
+      "created": 1721370057,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lduw2q5",
+      "score": 27,
+      "body": "Every single one of these DD’s get shit on in the comments lmao",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/lduw2q5/",
+      "created": 1721349749,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldwdmz3",
+      "score": 28,
+      "body": "Lisan Al Ghaib, show us the way",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwdmz3/",
+      "created": 1721376546,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldw9lqd",
+      "score": 53,
+      "body": "Enjoy your date with the SEC, OP!",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw9lqd/",
+      "created": 1721373860,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldw9x09",
+          "score": 70,
+          "body": "lmfao the current market value of my position is only ~$4,000. I have a $1,000 buy queued for puts expiring on 7/26, but who knows if it will go through",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw9x09/",
+          "created": 1721374064,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldwcj37",
+      "score": 50,
+      "body": "You son of a bitch.\n\nYou are right for all the wrong reasons. Lady gambling is on your side in this one.",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwcj37/",
+      "created": 1721375798,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lduiem6",
+      "score": 551,
+      "body": "This is the dumbest post I’ve seen and definitely written by someone who doesn’t know the product. I use it daily and it is unmatched\n\nEdit: \nI’m not deleting this lol even with the shit going on. The guys regarded but gonna be a rich regard tomorrow",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/lduiem6/",
+      "created": 1721344435,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldw8rdz",
+          "score": 84,
+          "body": "looks like it met its match",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw8rdz/",
+          "created": 1721373312,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldw9nnl",
+              "score": 52,
+              "body": "Haha seriously, the irony of this shit. Companies going crazy right now",
+              "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw9nnl/",
+              "created": 1721373893,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ldw8ks7",
+          "score": 115,
+          "body": "Oof, the timing on this post... I get it regarding the capabilities, but the BSOD boot loop is gonna be quite a ding on their name.",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw8ks7/",
+          "created": 1721373197,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldwq9ml",
+          "score": 56,
+          "body": "\n >   CrowdStrike is dangerous in that they have root access to every device(i.e. endpoint) across thousands of firms.\n\n>    CrowdStrike’s Falcon product contradicts their own guiding principle of “Zero-Trust Security”.\n\n\nI mean, he has a point with these 2.",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwq9ml/",
+          "created": 1721384875,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lduvt9n",
+          "score": 86,
+          "body": "If this is the dumbest post you've seen you haven't been here long.",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/lduvt9n/",
+          "created": 1721349644,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldwsvqa",
+          "score": 21,
+          "body": "[How to detect and prevent kernel attacks (CrowdStrike, 26 Jan 2021).](https://www.crowdstrike.com/blog/how-to-detect-and-prevent-kernel-attacks-with-crowdstrike/)\n\nAntivirus software that bricks your fleet is malware and you can't convince me otherwise. Better yet, it's kernel-level malware.",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwsvqa/",
+          "created": 1721386411,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldu6qbe",
+      "score": 396,
+      "body": "Have you actually seen the platform in action? Cause I can tell you its a powerful security tool and not some lame spyware for management. Not saying you're entire DD is off base but you're reaching on that part",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldu6qbe/",
+      "created": 1721339236,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldw8yh4",
+          "score": 179,
+          "body": "Did OP just nuke Crowdstrike worldwide to prove themselves?",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw8yh4/",
+          "created": 1721373438,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldwa677",
+          "score": 119,
+          "body": "Lol r/agedlikemilk",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwa677/",
+          "created": 1721374232,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldwe7hj",
+              "score": 52,
+              "body": "I'm here for it.\n\n\nNo, I mean I'm literally here stuck in DFW for that reason. \n\n\n\n\nBut also here for the comments",
+              "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwe7hj/",
+              "created": 1721376925,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ldu99p4",
+          "score": 197,
+          "body": "I work in cybersecurity and they have a moat on EDR. As a red teamer, I come across their EDR a lot.Are they overvalued? Maybe. But they’re one of the best.",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldu99p4/",
+          "created": 1721340118,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lducwa7",
+              "score": 187,
+              "body": "I work in the industry.   I would also argue that being best-in-class while also overvalued is the status quo.\n\nThey are a great company and moving the \"brains\" of their detection to the cloud (where attackers can't reverse engineer it) is genius.   It also means they can roll out new signatures/detections instantaneously for all customers, which is a huge win.\n\nDownside is that it doesn't work at all in airgapped/remote environments and generates a large volume of network connections (not traffic).\n\nEdit: Next time I post something like this, buy puts on the company immediately.",
+              "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/lducwa7/",
+              "created": 1721342347,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ldul16o",
+                  "score": 51,
+                  "body": "Upvoted - I'd just like to add that neither you or u/cheesycrustz mentioned their migration away from Splunk on the back end after Cisco's acquisition. Their SEIM platform is now MASSIVELY more affordable because of this one critical decision.",
+                  "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldul16o/",
+                  "created": 1721345425,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ldun3zy",
+                      "score": 20,
+                      "body": "I actually knew about that but didn't connect the dots. \n\nYeah $$$plunk is just that.",
+                      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldun3zy/",
+                      "created": 1721346214,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ldwdeoc",
+          "score": 43,
+          "body": "OP showed you so fucking hard lol",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwdeoc/",
+          "created": 1721376392,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldvxlkn",
+      "score": 21,
+      "body": "This aged well…worldwide Windows outage caused by potential Crowdstrike update",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldvxlkn/",
+      "created": 1721366589,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldw4icl",
+      "score": 20,
+      "body": "lmao crowdstrike is down",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw4icl/",
+      "created": 1721370671,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldw6sga",
+      "score": 20,
+      "body": "This post had a brilliant timing, I hope OP had all the puts https://news.ycombinator.com/item?id=41002195",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw6sga/",
+      "created": 1721372077,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldw6ui0",
+      "score": 22,
+      "body": "You are a genius!\n\nMajor worldwide tech outage from US cyber security company CrowdStrike plunges world's largest companies into chaos, grounds flights and prevents broadcasters from publishing news\n\nhttps://www.skynews.com.au/business/major-worldwide-tech-outage-from-us-cyber-security-company-crowdstrike-plunges-worlds-largest-companies-into-chaos-downs-airlines/news-story/a34a8e6a25fcc163254de1dba0d9c913?amp&nk=711fc6813710090ee7a4b1d574533aeb-1721372053",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw6ui0/",
+      "created": 1721372113,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldw6dzf",
+      "score": 18,
+      "body": "dammn congrats lol!",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw6dzf/",
+      "created": 1721371827,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldwavqi",
+      "score": 20,
+      "body": "What did OP know??",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwavqi/",
+      "created": 1721374705,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldwbt2t",
+      "score": 15,
+      "body": "This isn't DD this is evidence",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwbt2t/",
+      "created": 1721375316,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldwodvt",
+      "score": 17,
+      "body": "*SEC has joined the chat*",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwodvt/",
+      "created": 1721383695,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldw57to",
+      "score": 36,
+      "body": "Ooof, they just DDOSd their whole customer base",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw57to/",
+      "created": 1721371103,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldw5pp5",
+      "score": 30,
+      "body": "OP is a seer...",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw5pp5/",
+      "created": 1721371409,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldw9azt",
+      "score": 36,
+      "body": "Well well… How the turn-tables",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw9azt/",
+      "created": 1721373664,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldwc5yi",
+      "score": 37,
+      "body": "As it was written….Those who follow him shall be led to tendies.",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwc5yi/",
+      "created": 1721375553,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldw5nzq",
+      "score": 16,
+      "body": "lol they just caused a major outage across Australia",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw5nzq/",
+      "created": 1721371379,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldunxy2",
+      "score": 190,
+      "body": "I use CrowdStrike every day for work in cyber security, and have used their platform specifically for almost a decade. The number of things you have totally pulled out of your ass in this post is higher than their market cap. You have no grasp on this entire subject matter.\n\nI have no opinion on the value of the company itself.\n\nEdit: 🫣",
+      "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldunxy2/",
+      "created": 1721346527,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldwh856",
+          "score": 115,
+          "body": ">I use crowdstrike every day for work in cyber security\n\nOh boy you’re gonna have a hell of a morning…",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwh856/",
+          "created": 1721378985,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldwr4jg",
+              "score": 34,
+              "body": "🫠",
+              "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldwr4jg/",
+              "created": 1721385395,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ldw9llt",
+          "score": 34,
+          "body": "Funny though After what Happens Right now",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw9llt/",
+          "created": 1721373858,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldw5dz4",
+          "score": 20,
+          "body": "Be careful systems are blue screening all over due to a faultY CS update.",
+          "permalink": "/r/wallstreetbets/comments/1e6ms9z/crowdstrike_is_not_worth_83_billion_dollars/ldw5dz4/",
+          "created": 1721371208,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "stockTickers": {
+    "post_summary": "CrowdStrike is not worth 83 Billion Dollars.",
+    "companies": [
+      "CrowdStrike",
+      "Palo Alto Networks"
+    ],
+    "tickers": [
+      "CRWD"
+    ],
+    "main_ticker": [
+      "CRWD"
+    ]
+  },
+  "sentimentAnalysis": {
+    "post_summary": "The author argues that CrowdStrike is overvalued at 83 billion dollars and critiques its security practices and product offerings.",
+    "stock_recommendations": "The user is recommending selling CRWD stock by holding a put option.",
+    "is_recommending_stock_buying_or_selling": true,
+    "buy_or_sell": "sell",
+    "sentiment_summary": "There is negative sentiment because the author holds a negative view on CrowdStrike's valuation and security implications, recommending a put option on CRWD.",
+    "sentiment": "negative"
+  }
+}

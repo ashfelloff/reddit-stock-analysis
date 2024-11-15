@@ -1,0 +1,544 @@
+{
+  "title": "How I loaned 40k CHF @ 0.6% APR",
+  "score": 111,
+  "selftext": "I just recently learned how to borrow money on margin with a box spread option strategy. However, I only saw discussions about borrowing USD through SPX options. So I wondered if I could do the same with a lower interest currency - CHF. Well, I did it!\n\nI used options on Swiss market index (SMI) expiring Sep 18 2025 (324 DTE) with strikes of 10000 and 14000. The exact strikes don't matter, what matters is the difference between them - 4000 points equaling 40k CHF.\n\nOn IBKR the order looks like this:\n\nhttps://preview.redd.it/du0mqkwb1oxd1.png?width=574&format=png&auto=webp&s=60c37e45bcff4841110831c550a2e9e874d8292a\n\nI wanted to see the best rate I can get, so I started with the price -4000, and gradually increased it. My order got quickly filled at -3980. That means I got +39,800 CHF in cash, and have to pay back 40,000 CHF at expiration. My total interest is fixed at 200 CHF - 0.5% to expiration or 0.6% annualised. Previously I was paying 2.363% margin interest on CHF to IBKR, so over the year I will save 1.763% or 700 CHF.\n\nImportant to keep in mind:\n\n1. This only works with European-style options (cannot be exercised early).\n2. Be careful about entering the price. One small mistake, like not adding a minus sign, can result in a huge loss.",
+  "link_flair_text": "Discussion",
+  "id": "1geqy9q",
+  "num_comments": 60,
+  "created_utc": 1730196209,
+  "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/",
+  "comments": [
+    {
+      "id": "lubpf5l",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 1 | **First Seen In WSB** | 3 months ago\n**Total Comments** | 3 | **Previous Best DD** | \n**Account Age** | 10 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/lubpf5l/",
+      "created": 1730196214,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "luc6v5j",
+      "score": 133,
+      "body": "Mmm yes. This community finding margin trades. Fuel to the fire",
+      "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/luc6v5j/",
+      "created": 1730204906,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lucrznr",
+          "score": 36,
+          "body": "in foreign currency no less - i see only upside for OP's wrinklebrained strat\n\n*didn't box spreads get banned on RH because some regard here posted about how they were \"free money\" then lost a shit ton of it*",
+          "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/lucrznr/",
+          "created": 1730212455,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lucumn3",
+              "score": 18,
+              "body": "He got in trouble because he used American-style options. Pretty much guaranteed to blow up.",
+              "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/lucumn3/",
+              "created": 1730213309,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lucuypp",
+                  "score": 1,
+                  "body": "good point, i'm still too smoothbrained to understand this shit though even if RH didn't have the regard helmet preventing me from copying this carry trade",
+                  "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/lucuypp/",
+                  "created": 1730213416,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ludvkfj",
+          "score": 2,
+          "body": "I can’t wait for future loss porn with this strategy in 3 months from the regards.",
+          "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/ludvkfj/",
+          "created": 1730224560,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lufts9d",
+          "score": 2,
+          "body": "https://preview.redd.it/h6e43xivasxd1.jpeg?width=1138&format=pjpg&auto=webp&s=9762a6df5d057d7f7f41481d01206bbdc3b941e1\n\nWAMMY!",
+          "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/lufts9d/",
+          "created": 1730246403,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lucpif7",
+      "score": 16,
+      "body": "You didn’t loan 40k CHF, the market did. You borrowed 40k CHF.",
+      "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/lucpif7/",
+      "created": 1730211652,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lucs1d9",
+          "score": 8,
+          "body": "You are right, I mixed up the terms. Cannot edit now.",
+          "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/lucs1d9/",
+          "created": 1730212470,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "luhej7u",
+              "score": 5,
+              "body": "Well this is confidence inspiring",
+              "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/luhej7u/",
+              "created": 1730270181,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lubqvpv",
+      "score": 42,
+      "body": "Ironyman![img](emote|t5_2th52|8882)",
+      "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/lubqvpv/",
+      "created": 1730197087,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lubt607",
+          "score": 26,
+          "body": "That's why I'm using European-style options. No risk of early exercise.",
+          "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/lubt607/",
+          "created": 1730198409,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lubrk68",
+          "score": 5,
+          "body": "Watch he gets out with a profit somehow like he did",
+          "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/lubrk68/",
+          "created": 1730197489,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "luddpzq",
+      "score": 10,
+      "body": "Isn't this just a carry trade?\n\nBorrow in low yielding currencies and invest in high yielding currencies.",
+      "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/luddpzq/",
+      "created": 1730219221,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ludfh08",
+          "score": 6,
+          "body": "Yes, that's what I'm doing.",
+          "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/ludfh08/",
+          "created": 1730219752,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ludhtsk",
+              "score": 7,
+              "body": "My CFA charter finally has a use.",
+              "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/ludhtsk/",
+              "created": 1730220467,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "luhqf5z",
+              "score": 2,
+              "body": "How? Just convert the CHF to USD and collect interest?",
+              "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/luhqf5z/",
+              "created": 1730278442,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lubrxl1",
+      "score": 20,
+      "body": "Man I did exactly this for 2y. Watch out because sometimes the swing is BRUTAL.",
+      "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/lubrxl1/",
+      "created": 1730197706,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lubshep",
+          "score": 6,
+          "body": "What is the max loss you could get? I see a perfect carry trade here... You place that cash into some bond and it's easy money",
+          "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/lubshep/",
+          "created": 1730198026,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lubt3lo",
+              "score": 10,
+              "body": "There is no easy money - Swiss CHF government bonds are 0.4% APR, and with USD bonds you have exchange rate risk.",
+              "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/lubt3lo/",
+              "created": 1730198373,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lubtgu0",
+                  "score": 3,
+                  "body": "Yeah... But you could leverage x2 un any investment for 0.6% like it's damn good",
+                  "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/lubtgu0/",
+                  "created": 1730198574,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lubu3vu",
+                      "score": 9,
+                      "body": "There is a regular wsb poster who does exactly that. Creates 2-2.5x synthetic leverage using box margins on SPX then invests all of it into I think SPY.\n\nThey’re up massively in a 6 figure portfolio over the last 2 years.",
+                      "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/lubu3vu/",
+                      "created": 1730198928,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lue86jn",
+                          "score": 2,
+                          "body": "what's the benefit of creating leverage this way instead of using a leveraged etf?",
+                          "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/lue86jn/",
+                          "created": 1730228307,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "luhiiuk",
+                              "score": 1,
+                              "body": "U don’t pay fee or pay etf managing costs + u even recive money to keep it open, carry trade",
+                              "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/luhiiuk/",
+                              "created": 1730272900,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lubv9u3",
+                          "score": 1,
+                          "body": "Name of the guy?",
+                          "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/lubv9u3/",
+                          "created": 1730199552,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lubvnz6",
+                              "score": 2,
+                              "body": "Sorry couldn’t find it, but the steady gains were impressive, he had some theory about how 2-2.5x was the perfect sweet spot for being as safe against SPY downturns but with maximum efficiency in upside movement or some shit.",
+                              "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/lubvnz6/",
+                              "created": 1730199763,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lubxsh8",
+                                  "score": 1,
+                                  "body": "Damn we gotta get that guy's name bro it may not be guaranteed money but in the bull Run that it's coming I guess it's worth studying what he does",
+                                  "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/lubxsh8/",
+                                  "created": 1730200850,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "lubz2ot",
+                                      "score": 2,
+                                      "body": "I think it's Dry-drink but I didn't read through all the posts so I could be incorrect",
+                                      "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/lubz2ot/",
+                                      "created": 1730201475,
+                                      "depth": 8,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "ludpw95",
+                              "score": 1,
+                              "body": "we have an entire subreddit, theres a lot of us doing it :) r/PMTraders",
+                              "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/ludpw95/",
+                              "created": 1730222878,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "luhj8xr",
+              "score": 1,
+              "body": "Forex is a market structured to swing back to your entry point and clean your position.\nIf you are carry trading you will rise the margin.\nYou are under leverage (or you will trade chips).\n\nPerfect storm.",
+              "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/luhj8xr/",
+              "created": 1730273411,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lubsdjv",
+          "score": 7,
+          "body": "What swing is brutal?",
+          "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/lubsdjv/",
+          "created": 1730197964,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lue5a2y",
+      "score": 8,
+      "body": "I will give you a method for 0% loans I discovered by accident, ready…..:\n\n1. Buy item online from “Dicks” using Pay pal and no interest financing. \n\n2. Pick up the item form store.\n\n3. Wait 3 business days \n\n4. Return item to store \n\n5. They cannot refund to PayPal if it was picked up from store, so they will put the money on your banking card.\n\n6. Enjoy 6 months of 0% cash",
+      "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/lue5a2y/",
+      "created": 1730227442,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lueap9x",
+          "score": 6,
+          "body": "You should do that with a $100M purchase and then retire.",
+          "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/lueap9x/",
+          "created": 1730229068,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "luf7jh1",
+          "score": 1,
+          "body": "nice money glitch",
+          "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/luf7jh1/",
+          "created": 1730238975,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ludsqv7",
+      "score": 4,
+      "body": "I like how the second point to keep in mind is about being careful about + and - for regards like us to not fuck up.",
+      "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/ludsqv7/",
+      "created": 1730223724,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ludqicz",
+      "score": 3,
+      "body": "Rooting for you tard. Use the money wisely... Suggest Yinn or Yang ETFs... To maximize your risk :)",
+      "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/ludqicz/",
+      "created": 1730223059,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lud605h",
+      "score": 2,
+      "body": "Thanks for post. What would you use to borrow the USD? Can you please elaborate what are risk involved?",
+      "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/lud605h/",
+      "created": 1730216858,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lud96q5",
+          "score": 3,
+          "body": "Do the same box spread on SPX - you will get USD instead of CHF. As long as you use European-style options, box spread is risk-free. Obviously, you will have to pay back the money so use it wisely, and keep your account safe from margin calls.\n\nI originally learned about box spreads from this article, which explains it in more detail:  \n[https://earlyretirementnow.com/2021/12/09/low-cost-leverage-box-spread/](https://earlyretirementnow.com/2021/12/09/low-cost-leverage-box-spread/)",
+          "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/lud96q5/",
+          "created": 1730217824,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ludectq",
+              "score": -1,
+              "body": "Thank you for this article, that’s incredibly low interest. Would you have any other useful advice/ articles? What’s your thoughts of not maxing out 2.5x and putting it on SPY or bonds?",
+              "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/ludectq/",
+              "created": 1730219412,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ludexbn",
+                  "score": 4,
+                  "body": "With high leverage, if there is a temporary market crash, you will lose your entire account.",
+                  "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/ludexbn/",
+                  "created": 1730219586,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ludgwi3",
+                      "score": -1,
+                      "body": "Thanks what is your recommended leverage range to portfolio, in case of that black swan event?",
+                      "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/ludgwi3/",
+                      "created": 1730220188,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ludkrrg",
+      "score": 2,
+      "body": "Now that is some beautiful work",
+      "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/ludkrrg/",
+      "created": 1730221350,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ludo13n",
+      "score": 2,
+      "body": "Damn, and here I'm paying 1.5% for my JPY.",
+      "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/ludo13n/",
+      "created": 1730222324,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "luhrgwg",
+      "score": 2,
+      "body": "This doesn't increase your available funds to trade, right? It's just the interest for the cash sitting in your account?",
+      "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/luhrgwg/",
+      "created": 1730279165,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "luhuv90",
+          "score": 2,
+          "body": "No, I am doing the opposite - borrowing money and paying interest. It offsets the negative cash balance from my margin trades.",
+          "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/luhuv90/",
+          "created": 1730281453,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "luhverq",
+              "score": 2,
+              "body": "Got it. So you can go -40k deep on margin, and offset it with the trade so you don't pay interest, or pay way lower interest. What about the FX risk? I assume you're trading in USD?",
+              "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/luhverq/",
+              "created": 1730281801,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "luhystr",
+                  "score": 2,
+                  "body": "I accept the FX risk, considering that CHF/USD is around historical highs.",
+                  "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/luhystr/",
+                  "created": 1730283826,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lucvi0f",
+      "score": 2,
+      "body": "Aight. I am doing this one",
+      "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/lucvi0f/",
+      "created": 1730213586,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lucfurc",
+      "score": 1,
+      "body": "where does it show how much you are going to receive in cash?",
+      "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/lucfurc/",
+      "created": 1730208363,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lucjkqz",
+          "score": 2,
+          "body": "On IBKR you can usually see it in preview (as CREDIT) but for this order it showed N/A, not sure why.",
+          "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/lucjkqz/",
+          "created": 1730209663,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lucwkf3",
+      "score": 1,
+      "body": "So how much leverage do you get? If I have $10k can I repeat it enough times to have $1mil+ to yolo?",
+      "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/lucwkf3/",
+      "created": 1730213921,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lucxo8c",
+          "score": 4,
+          "body": "I can get around 2.5x max leverage on IBKR Portfolio Margin, but I use way less than that. Also, Portfolio Margin requires $110k minimum account value.",
+          "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/lucxo8c/",
+          "created": 1730214272,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ludfpnl",
+      "score": 1,
+      "body": "Holy shit this is awesome",
+      "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/ludfpnl/",
+      "created": 1730219825,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ludjwzs",
+      "score": 1,
+      "body": "Why did you try this in CHF instead of USD? What would the rate in USD have been?",
+      "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/ludjwzs/",
+      "created": 1730221095,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ludnn1n",
+          "score": 3,
+          "body": "USD interest rate would be around 4.8%",
+          "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/ludnn1n/",
+          "created": 1730222208,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "luea3az",
+      "score": -1,
+      "body": "Lmao, this one HAS to be the joke.",
+      "permalink": "/r/wallstreetbets/comments/1geqy9q/how_i_loaned_40k_chf_06_apr/luea3az/",
+      "created": 1730228883,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

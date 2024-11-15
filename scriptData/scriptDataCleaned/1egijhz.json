@@ -1,0 +1,934 @@
+{
+  "title": "Are NVIDIA's AI chips still \"so good that even when the competitor’s chips are free, it’s not cheap enough,\" as Jensen Huang said in March? ",
+  "score": 195,
+  "selftext": "TL;DR: Probably yes (just my opinion)...\n\nOn Monday, July 29, Apple Research [published the scientific background of its \"Apple Foundation Model\"](https://machinelearning.apple.com/research/apple-intelligence-foundation-language-models) (AFP). According to the paper, this model (AFP-server) was trained on 8192 of Google's TPUv4 chips, and apparently no NVIDIA GPUs were used for training (although this was not explicitly disclosed). So are Google's TPUs serious competition for NVIDIA's GPUs? Let's crunch the numbers...\n\nAccording to the [Google Cloud website](https://cloud.google.com/tpu/pricing?hl=en), a TPU v4-Pod (4096 x TPUv4) costs $32,200 per hour on demand. So the compute capacity to train the AFM-server cited in the paper costs about $64,400 per hour on-demand. 8192 TPUv4s have a combined computing power of up to 2.25 ExaFLOPS\\* (8192 x 275 TeraFLOPS\\*).\n\nOne of NVIDIA's H100 SXM (up to 3958 TeraFLOPS\\*) costs about $3-$4 per hour on-demand, according to my research. So for $64,400 USD per hour, you could rent between 16,100 and 21,000 H100 SXMs with a combined computing power of 64 to 85 ExaFLOPS\\* (16,100 x 3,958 TeraFLOPS\\* = 63.72 ExaFLOPS\\*; 21,466 x 3,958 TeraFLOPS\\* = 84.97 ExaFLOPS\\*).\n\nAccording to this calculation, using clusters of NVIDIA's H100 SXM would be **28 to 37 times cheaper** than using Google's TPUs (please correct me if I am wrong). So yes, NVIDIA's chips might still be \"so good\". And I haven't done this calculation for the upcoming Blackwell generation...\n\n\\*FLOPS (floating point operations per second) is a measure of the computing power of computer chips and correlates to the performance of matrix operations such as those required for AI training.",
+  "link_flair_text": "Discussion",
+  "id": "1egijhz",
+  "num_comments": 97,
+  "created_utc": 1722416876,
+  "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/",
+  "comments": [
+    {
+      "id": "lfsbin7",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 10 | **First Seen In WSB** | 1 year ago\n**Total Comments** | 98 | **Previous Best DD** | [x](https://www.reddit.com/r/wallstreetbets/comments/xyz1pg/why_not_att/) \n**Account Age** | 1 year | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfsbin7/",
+      "created": 1722416879,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfsf66y",
+      "score": 122,
+      "body": "It depends on many factors.\n\nOne thing you need to consider is that different software favors different vendors. Nvidia had the intuition of investing heavily in research, they have sponsored many university labs for a decade gifting their hardware. That meant that many now important softwares have been developed and built around maximizing Nvidia's hardware and CUDA, while Nvidia software like drivers was also tested to run great on these libraries (such as NumPy or PyTorch or TensorFlow).\n\nOn top of that Nvidia's hardware is genuinely great and arguably the best in their class, especially combined with their software and optimization for customer software.\n\nThat gives Nvidia a very serious headstart and competitive advantage in ML/AI fields.\n\nThose that mean that Nvidia has a lock up on the field forever though?\n\nNo. First of all, customers that spend billions in hardware, do not like buying it at such ridiculous margins, even though they have kind of no choice now when the race is to get products on the market first. And those ridiculous margins eventually attract competition that has the financial incentives to build great hardware and software.\n\nSecond, the biggest buyers have lots of cash and knowledge to build their own accelerators. Google has their own, Apple can build their own, AWS and Microsoft can build their own.\n\nIn other words, as soon as the fight to get products in front of users and capturing market share will be fading, the fight for operating at the lowest expenses will start. And at that point you can assume that such players with such deep pockets can write their own software and drivers and even hardware (or collaborate with the like of ARM/AMD/Intel) so that instead of spending $20B they will spend a fraction of it and avoid getting gouged quarter after quarter. And, they can also build their own ML pipelines to run best on their own hardware.\n\nIn the end I believe that anybody thinking that a company with basically only one product (GPUs), as great and hot as they are now in 2024, in a very cyclic market like hardware is worth trillions, let alone among the 2/3 biggest in the world, is out of their minds imho.\n\nPeople extrapolating current trends in decade-long growths are committing the same mistakes Tesla investors did (and keep doing), not realizing that eventually good margins will fade, that there isn't an endless queue of customers with infinite money, and that competition at some point will have their own offerings.\n\nI believe that Nvidia will keep being a major player in the field for a long time, but margins at some point will start to get back to normality with increased competition from other manufacturers and big tech building their own stack.",
+      "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfsf66y/",
+      "created": 1722419381,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lfsi6ye",
+          "score": 13,
+          "body": "those margins so grand am fearful there may even be some \"spite\" carried forward to next time upgrade needed. \n\n  \nthat said, am thinking \"in house\" compute centers are only for r&d (presumably chasing agi) once that's fleshed out I imagine having your own compute centre will be rare (it will be leased from a hand full of providers)\n\n  \nimo nvda needs to get into that business (I imagine they already are) and HARD/FAST.  \n\nI think it's plausible that in the future (post AI is useful) nvda will keep it's best chips / compute for itself to lease  and use  the superiority of compute as the competitive advantage.",
+          "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfsi6ye/",
+          "created": 1722421320,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lfskwm8",
+          "score": 10,
+          "body": "I think the genius is that they’ve tied a hardware product to a software stack and they will have the network effect locking so many people into that stack for a very very long time.  \n\n I get to the same place as you logically, but I get there by thinking that there will be a level of diminishing returns. Chips can only get so cheap per flop and so the models can only get so big. Don’t know what those limits are. But in 10 years maybe we all have a chip that is 100x as powerful as the ones today in our laptop. Or they’re so cheap we can rent all the power we need for $5/month and it’s like buying extra storage for our photos. \n\nThe latest chips will still yield cost improvements, but on the order we see today with CPUs - 5-10% per year. The older chips are fine for most applications. It becomes a cost optimization analysis where alternatives are relatively close. ",
+          "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfskwm8/",
+          "created": 1722422945,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lft4g3m",
+          "score": 6,
+          "body": "Agree completely. I've been writing something similar for awhile and usually just getting downvoted. People coming super late to NVDA seem to think it's going to run to 6T or 12T market cap.",
+          "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lft4g3m/",
+          "created": 1722431899,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lfsluqh",
+          "score": 13,
+          "body": "CUDA is the answer here, this is mostly where NVIDIA’s moat lies, not their chip design. Theoretically AMD can make a faster, more efficient chip but if it their ROCm software program can’t optimize as well as CUDA can AMD won’t have any sort of advantage. \n\nCouple that with the ecosystem CUDA has created and the gold standard it has become and you start to see why NVIDIA would have a really hard time losing any marketshare for the foreseeable future.",
+          "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfsluqh/",
+          "created": 1722423480,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lftkp3n",
+              "score": 2,
+              "body": "It's both really. CUDA development is very much supported by how the hardware is designed, and vice versa. Like you don't really get one without the other. I've been doing this development since before CUDA even existed and each iteration of the hardware includes changes on how to better optimize CUDA code and the programs orchestrating it.",
+              "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lftkp3n/",
+              "created": 1722437621,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lfuspvs",
+              "score": 1,
+              "body": "> and you start to see why NVIDIA would have a really hard time losing any marketshare \n\n\nFor training. They're already losing market share for inference. Which is still a good place to be, as inference market being easier to penetrate is going to get real competitive.",
+              "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfuspvs/",
+              "created": 1722451515,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lfswrih",
+          "score": 3,
+          "body": "How long do you think we can expect NVDA to make these margins ? General consensus seems to be two years. Do you think this is accurate ?",
+          "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfswrih/",
+          "created": 1722428760,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lfsz1hj",
+              "score": 6,
+              "body": "As long as the focus is getting most market share possible in AI-powered software.\n\nAnd considering to how many fields this applies right now (automotive, robotics, software development, chatbots, OS and software assistants like the one Apple and Microsoft are building and bundling with their product suites, creative software like video/audio/photo editing and many others) I think Nvidia is going to shit gold for many years.\n\nOn top of that you need to add the race for AGI which will make insane money for Nvidia too, because that race is going to be about anything but maximizing operating profits for a very long time.\n\nThere's also a risk in few years the consensus may shift to \"AGI is impossible\" and investors getting wary of burning money.\n\nIt's hard to say and predict how long all of this is gonna last, whether different vendors may provide breakthrough jumps in technology to have their solutions being the most efficient at specific workloads, etc.\n\nThe reason why all of this is very hard to predict and with technology shifting at very rapid pace is why I'm wary about valuations like those we're seeing now.",
+              "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfsz1hj/",
+              "created": 1722429732,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lft0rfi",
+                  "score": 2,
+                  "body": "Thank you",
+                  "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lft0rfi/",
+                  "created": 1722430436,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lftjfly",
+          "score": 3,
+          "body": "I think the problem lies in manufacturing. TSMC is the only one right now with 3nm process that can build at that scale and they can’t even keep up with demand. \n\nJust the equipment alone to build a fab capable of building these chips is years away and then competitors have to somehow beat them at their own game while they are wayyy ahead in processes and quality control (good luck Intel) \n\nThey will be caught like you said but it might be longer than people think as they are really really far behind ",
+          "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lftjfly/",
+          "created": 1722437201,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lfsq55s",
+          "score": 5,
+          "body": "AI definitely wrote this",
+          "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfsq55s/",
+          "created": 1722425710,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lft3yxr",
+              "score": -4,
+              "body": "I didn't originally write this in English, but used AI to help translate, so yeah, kind of...",
+              "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lft3yxr/",
+              "created": 1722431715,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lft4zex",
+                  "score": 1,
+                  "body": "Confused. Are you posting from two accounts then? I was saying this response was AI",
+                  "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lft4zex/",
+                  "created": 1722432105,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lft5bh3",
+                      "score": 0,
+                      "body": "Oh sorry, I mixed this up... thought you meant my original post :D. I just have one account :-)",
+                      "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lft5bh3/",
+                      "created": 1722432233,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lfsfl1h",
+          "score": 7,
+          "body": "Thanks for the great comment! I would agree, but I think NVDIA introduced subscription (Enterprise AI) models for its GPUs at the right time. In the first phase of the AI revolution, Big Tech bought the chips, now other industries will follow, but they will choose a subscription model from NVIDIA. This could generate sustainable revenue for years to come.",
+          "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfsfl1h/",
+          "created": 1722419654,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lfsg873",
+              "score": 13,
+              "body": "Big tech will never commit hundreds of billions in getting vendor locked. They will instead commit into minimizing operational costs. When margins are as high as they are now, there's too many incentives to build alternatives.",
+              "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfsg873/",
+              "created": 1722420071,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lfsnh3z",
+                  "score": 6,
+                  "body": ">Big tech will never commit hundreds of billions in getting vendor locked.\n\nI mean...many have with Cisco over the years on the networking side lol. Not as pricey hardware in some cases and margins aren't as high, but the behavior is definitely there.",
+                  "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfsnh3z/",
+                  "created": 1722424355,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lfsnzll",
+                      "score": 9,
+                      "body": "You actually made an example that backfires:\n\nAWS, the biggest cloud vendor on the planet, has indeed built their own custom routers on top of the Broadcom Tomahawk ASIC further solidifying my thesis: at those scales you implement custom solutions and avoid as much as possible external vendor locking.\n\nThe second biggest cloud (Azure), uses Nokia-derived custom routers and switches and Arista ones.\n\nI bet they also buy from Cisco, but all those big companies build a software stack around white boxes, where they can leverage their position to get the best pricing and not be vendor locked.\n\nGoogle has always kept their hardware infrastructure secret, but it's a well known fact that since a decade or more it is entirely software defined and uses their own built hardware.\n\nAt the scale big tech operates, you don't get vendor locked or you build your own hardware.\n\nThe same will happen with GPUs when the focus will switch from being first to market. Now they want to capture market share and don't look at the bill, Nvidia makes gargantuan amounts of money. But this will change with time. It's unavoidable.",
+                      "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfsnzll/",
+                      "created": 1722424622,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lfsuj6s",
+                          "score": 3,
+                          "body": "The hyperscalers are only ~5-10% of the OEM IT hardware marketshare, with the vast majority still being enterprise data centers and smaller data center rooms and closets who are using OEM products (and sadly mostly Cisco). The OEM chunk of the market is still over 50% of overall sales.",
+                          "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfsuj6s/",
+                          "created": 1722427769,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lft44pq",
+                              "score": 3,
+                              "body": "> The hyperscalers are only ~5-10% of the OEM IT hardware marketshare\n\nBig tech makes up 40% or more of NVDAs revenue. Them and big VC backed AI startups are the only ones who can afford GPUs.\n\nhttps://www.nasdaq.com/articles/who-are-nvidias-largest-customers#:~:text=Unsurprisingly%2C%20big%20tech%20companies%20like,are%20significant%20customers%20of%20Nvidia.",
+                              "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lft44pq/",
+                              "created": 1722431778,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lft7syv",
+                                  "score": 1,
+                                  "body": "I was referring to OEM systems like servers and network equipment tied to my Cisco example, not accelerator cards that the big cloud providers are gobbling up at the moment.",
+                                  "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lft7syv/",
+                                  "created": 1722433172,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "lfshxho",
+                  "score": 2,
+                  "body": "i know we buy those chips by the billion...",
+                  "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfshxho/",
+                  "created": 1722421155,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lfso94i",
+                  "score": 0,
+                  "body": "> Big tech will never commit hundreds of billions in getting vendor locked.\n\nThey will and do, it is not unusual in the industry.",
+                  "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfso94i/",
+                  "created": 1722424757,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lfsp0fd",
+                      "score": 1,
+                      "body": "Show me a single cloud vendor among the biggest ones (Google, Amazon, Microsoft) that is locked in on a single hardware vendor. You can choose anything from routers, to switches to CPUs.",
+                      "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfsp0fd/",
+                      "created": 1722425146,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lft1scn",
+                          "score": 0,
+                          "body": "Hyperscale customers making their own, everyone else negotiating discounts",
+                          "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lft1scn/",
+                          "created": 1722430844,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lfstml5",
+          "score": 2,
+          "body": "I agreed with the assessment but if having a lot of money will create meaningful competition then why in the mobile/server OS domain, there is still no raising 3rd OS?",
+          "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfstml5/",
+          "created": 1722427353,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lfsuval",
+              "score": 5,
+              "body": "Because there's no economic incentive nor technical reason to do so. Android and Linux (on which Android is based) are open source and free projects. MacOS and iOS too are unix-derived. The operating system in the PlayStation is also unix-derived (albeit on BSD).\n\nTechnically speaking, Windows is also available on ARM CPUs so deriving a mobile version (which they did in Lumia times) is an option, albeit pointless because they don't sell such hardware.\n\nIt's more efficient for all those big tech giants to contribute to each other's projects (like Microsoft does with Chrome on which Edge is based) than maintain their own browser (like they did with older Edge and Internet Explorer). It's a win/win for everyone. Google gets lots of contributions from other companies for free and Microsoft saves a lot of effort/money.\n\nIf Android was a closed-source project, you would see more OSs.",
+              "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfsuval/",
+              "created": 1722427920,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lft6ms0",
+              "score": 1,
+              "body": "There's a lot of competition, but it's built on the open projects that won out.\n\nOn the server side linux (and other free unixs). The biggest contributors to linux are the big tech companies. They all have public (and I'm sure private) versions.\n\nMobile is a little different because the OS is so tied to the hardware, but Android (AOSP) won in the sense that it's open and anyone can use it.",
+              "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lft6ms0/",
+              "created": 1722432730,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lfukf7o",
+          "score": 2,
+          "body": " Apple charges 30% just to be on the Apple Store, that's just the right to play there, no real product. I don't think most people realize high margins are typical in the tech space.",
+          "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfukf7o/",
+          "created": 1722448935,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lfsf686",
+          "score": 3,
+          "body": "Holy shit. It's Chad Dickens.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",
+          "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfsf686/",
+          "created": 1722419382,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lftiim1",
+          "score": 1,
+          "body": "numpy does not use GPUs",
+          "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lftiim1/",
+          "created": 1722436893,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lfv5a8x",
+          "score": 1,
+          "body": "Two things to add: NVDA trades at over 30 P/S. I’ve NEVER heard of a company this size category trading at that. It implies massive sustained growth expectations at a never before seen scale. Inference on AI is also substantially cheaper than model training. The next generation of models already have their hardware set for training most likely. That means NVDA is about to lap some very very tough comps and won’t be able to guide to high growth in the next quarter or two. By that, I mean that 30% YoY realized growth will be meaningless unless they can guide to 30% next year also, and hand wave line of sight beyond that even. If they can’t hand wave that to the street then that P/S falls like a rock and they can get cut in half overnight. Because 15 P/S is STILL expensive for a company that would be worth over a trillion.",
+          "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfv5a8x/",
+          "created": 1722455506,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lfuchrv",
+          "score": 1,
+          "body": "I think AMD is a good example with their recent GPU. I honestly can see NVDA having really strong competition in less than 1/2 a decade",
+          "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfuchrv/",
+          "created": 1722446474,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lfsh5br",
+      "score": 28,
+      "body": "[deleted]",
+      "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfsh5br/",
+      "created": 1722420665,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lfshtpq",
+          "score": 17,
+          "body": "Don't you think it's strange that the details of which chips were used went viral immediately (2 small paragraphs in a 47 page paper)? Normally, Wall Street is not very interested in Big Tech's scientific publications.\n\nIt's also no secret that NVIDIA is not very popular in Apple's inner circle. \n\nA plunge in NVIDA's stock price like yesterday can free up hundreds of billions of dollars that need to be reinvested... and tomorrow is Apple's earnings report...",
+          "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfshtpq/",
+          "created": 1722421089,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lfsjljb",
+              "score": 8,
+              "body": "Apple is already a massive Google Cloud customer, so they already have the commercials/network/etc ready to go, which is easier than doing it themselves given Google had the capacity already installed and available. And given the size of their spend I'm sure Apple would get special pricing and access to engineering in return for telling the world it's done on TPU's.\n\n8 exabytes of Google Cloud Storage to power iCloud, and that was 3 years ago so it's probably grown heaps since then... https://www.theinformation.com/articles/apples-spending-on-google-cloud-storage-on-track-to-soar-50-this-year",
+              "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfsjljb/",
+              "created": 1722422181,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lfsleit",
+              "score": 14,
+              "body": "[deleted]",
+              "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfsleit/",
+              "created": 1722423228,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lfsm96o",
+                  "score": 13,
+                  "body": "It’s not a conspiracy at all, them smart-arse moneys want you to dump the stock so that they can accumulate before it shoots to the new ATH after earnings ![img](emote|t5_2th52|4271)",
+                  "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfsm96o/",
+                  "created": 1722423700,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lfxxwu0",
+                      "score": 1,
+                      "body": "exactly",
+                      "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfxxwu0/",
+                      "created": 1722497628,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lfsmls8",
+                  "score": 5,
+                  "body": "So the assumption that two of the largest competing tech companies would do things to hurt their competitors is a conspiracy theory?",
+                  "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfsmls8/",
+                  "created": 1722423891,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lftipn4",
+                      "score": 3,
+                      "body": "that is literally what a conspiracy is",
+                      "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lftipn4/",
+                      "created": 1722436959,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lfu5ngb",
+                          "score": 2,
+                          "body": "TBF that words meaning has been getting used differently nowadays",
+                          "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfu5ngb/",
+                          "created": 1722444329,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lftr0hq",
+              "score": 3,
+              "body": "I also find it funny that Apple announced their AI was delayed then it’s been widely popular (all of a sudden even though it’s kind of old news) that they weren’t using NVDIA chips. Just adding a funny coincidence I noticed. \n\nhttps://www.reuters.com/technology/apples-artificial-intelligence-features-be-delayed-bloomberg-news-reports-2024-07-28/",
+              "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lftr0hq/",
+              "created": 1722439677,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lftt5aa",
+              "score": 2,
+              "body": "> normally Wall Street is not very interested in Big Tech’s scientific publications. \n\nWell that’s just flat out false. I’m guessing you’ve never worked on, or even talked to, anyone on Wall Street. Buyside and sell side tech analysts have been closely tracking AI research since chat-GPT blew up in late 2022. Meta’s research paper in March drove upside in ANET stock and papers on liquid cooling have been hugely beneficial to VRT.",
+              "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lftt5aa/",
+              "created": 1722440359,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lfsr0x7",
+      "score": 6,
+      "body": "A TPU is an ASIC so very specialized for some jobs while a GPU is more generalized. A matchup on gross TerraFLOPS may not be apples to apples for the particular training Apple was running.",
+      "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfsr0x7/",
+      "created": 1722426143,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfseay8",
+      "score": 20,
+      "body": "Google Cloud pricing vs \"according to my research\" ...\n\nThen you arrive at an order of magnitude difference in price. Putting aside considerations like chip availability and attempts to avoid vendor lock-in, wouldn't that result give you a pause ? Make you rethink your research ?\n\nApologies for being sarcastic but I've seen so many regards being so confidently wrong about technology that I'd have to see that research of yours before I even consider your opinion.",
+      "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfseay8/",
+      "created": 1722418798,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lfsepmb",
+          "score": 5,
+          "body": "It was not that easy to research the prices for H100 on demand, if you have better sources/numbers feel free to share them here. But for the point I wanted to make, it doesn't really matter if the cost is 20, 30, or 40 times lower. The point was that NVIDIA's chips are an order of magnitude more cost efficient.",
+          "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfsepmb/",
+          "created": 1722419074,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lfshlnz",
+              "score": -1,
+              "body": "Quite easy, just go to the AI gpu aggregator companies, like NebiusAI, Fluidstack or Nexgen cloud.",
+              "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfshlnz/",
+              "created": 1722420949,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lfshkd3",
+      "score": 4,
+      "body": "was super happy to see AMD making money with AI chips. \n\nI suspect the bump to nvda was due to that likely easing anti-trust pressure / concerns.",
+      "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfshkd3/",
+      "created": 1722420926,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfsc3bd",
+      "score": 13,
+      "body": "Far from truth. New generation ASICs way faster than even Nvidia's next generation Blackwell GPUs plus more energy efficient.\n\n[https://entechonline.com/sohu-vs-nvidia-ai-chip-a-scientific-comparison-of-speed-and-efficiency/](https://entechonline.com/sohu-vs-nvidia-ai-chip-a-scientific-comparison-of-speed-and-efficiency/)",
+      "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfsc3bd/",
+      "created": 1722417280,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lfseva2",
+          "score": 16,
+          "body": "I don't think ASICs can be used for training right now. But yes, ASICs may be the next big thing in AI.",
+          "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfseva2/",
+          "created": 1722419179,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lfvigea",
+              "score": 1,
+              "body": "\"Application-Specific Integrated Circuits\" designed for training are, in fact, very usable for training. \n\n\nAs it happens, Tesla's Dojo chip is in fact an ASIC built for training, and tesla is far from the only ones going in that direction",
+              "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfvigea/",
+              "created": 1722459679,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lfsd551",
+          "score": 8,
+          "body": "Is this still only for inference or can training also be done?",
+          "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfsd551/",
+          "created": 1722418001,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lfszdb9",
+              "score": 3,
+              "body": "You still need GPUs for training according to some articles. Im no expert tho",
+              "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfszdb9/",
+              "created": 1722429867,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lfsd9c0",
+          "score": 11,
+          "body": "asics are highly specialized: these are only good at inference in short context lengths, and cant be used to train GPUs either. considering the level of development and innovation happening with ai models they won't be competition just yet\n\nthis comment has more info: https://www.reddit.com/r/LocalLLaMA/comments/1dq8o02/comment/lantcbl/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button",
+          "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfsd9c0/",
+          "created": 1722418083,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lfsdepq",
+          "score": 6,
+          "body": "The article says it outperforms H100 and not Blackwell",
+          "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfsdepq/",
+          "created": 1722418183,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lfsdskx",
+              "score": -2,
+              "body": "The information I provided was not based on this specific articles. If you care to search on google you would find related information in 10 seconds.\n\n[https://www.all-about-industries.com/asics-versus-gpus-does-the-ai-future-not-lie-in-nvidias-hands-a-616108ac6928e3d542c757192c7c26e7/](https://www.all-about-industries.com/asics-versus-gpus-does-the-ai-future-not-lie-in-nvidias-hands-a-616108ac6928e3d542c757192c7c26e7/)",
+              "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfsdskx/",
+              "created": 1722418449,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lftgqjo",
+      "score": 2,
+      "body": "Short answer - yea",
+      "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lftgqjo/",
+      "created": 1722436295,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lfthlrk",
+          "score": 0,
+          "body": "nothing to add here :-)",
+          "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfthlrk/",
+          "created": 1722436587,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lft49go",
+      "score": 2,
+      "body": "the industry has all been software optimized towards Nvidia,, and even better hardware wouldn't shake Nvidia.",
+      "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lft49go/",
+      "created": 1722431828,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lft4py5",
+          "score": -1,
+          "body": "Indeed, CUDA is a moat per excellence...",
+          "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lft4py5/",
+          "created": 1722432005,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lfsnbg8",
+      "score": 1,
+      "body": "[deleted]",
+      "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfsnbg8/",
+      "created": 1722424273,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lfsnzjo",
+          "score": 2,
+          "body": "This does not change the ratios, as this applies to both chips…",
+          "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfsnzjo/",
+          "created": 1722424622,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lfss3rc",
+      "score": 1,
+      "body": "There's an interconnect difference on the TPUv4 torus that scales differently, perhaps Apple's model needs that many chips to fit it all in HBM.",
+      "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfss3rc/",
+      "created": 1722426654,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfsu20s",
+      "score": 1,
+      "body": "How big of a difference is Blackwell's?",
+      "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfsu20s/",
+      "created": 1722427551,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfsubyu",
+      "score": 1,
+      "body": "if you've been paying attention there's a new chip right over the horizon that will render nvidia to the way of x86",
+      "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfsubyu/",
+      "created": 1722427677,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lft4qei",
+      "score": 1,
+      "body": "Interesting \n\n(It is an apples to oranges comparison, as they process information differently.), the Human Brain processing power has been estimated at 1 exaflops, \n\nEnergy-wise, the Human Brain consumes 20 watt-hours to ‘produce’ an exaflop, \n\nFrontier needs 20 million watt-hours!\nJan 10, 2024",
+      "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lft4qei/",
+      "created": 1722432009,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lft5k6j",
+          "score": 3,
+          "body": "But if you buy apples and oranges just for the calories the comparison works just fine ;-)",
+          "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lft5k6j/",
+          "created": 1722432325,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lftj8w3",
+      "score": 1,
+      "body": "There was an article just a couple of days ago on CNBC discussing AAPL using GOOG chips. Near the end of the article,\"\n\n\"Still, Google is one of Nvidia’s top customers. It uses Nvidia’s GPUs its own *\\[sic\\]* TPUs for training AI systems, and also sells access to Nvidia’s technology on its cloud.\"",
+      "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lftj8w3/",
+      "created": 1722437139,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lftr2ft",
+      "score": 1,
+      "body": "Im just making this comment because I’ve noticed a really interesting potential correlation and what for I’m still at a loss for. Every Wednesday, Oil Inventories comes out and every time they come out NVDA pumps. This has happened cleanly since January when the market (ie NVDA really took off) and I can’t figure out what the fuck it is.",
+      "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lftr2ft/",
+      "created": 1722439694,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lftwzqo",
+      "score": 1,
+      "body": "You have to look at the broader implementation of hardware. Is there competition across the board of nvidias products? Yes. Is that competition beating nvidia in the top spot for years on end? As far as I’ve seen no. Nvidia generally is the top hardware or near the top in terms of performance. Even if they’re behind this year I don’t worry about them being ahead in a few months is the train of thought and that matters when you’re scaling a business. It matters in hardware especially because the investment for businesses is twofold in both hardware and software that leverages specific hardware. To change hardware would require changing software so basically any change is now a x2 or more cost. Therefore, businesses stick with the most consistent winner and that happens to be nvidia for the time being.",
+      "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lftwzqo/",
+      "created": 1722441576,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lftyc5u",
+      "score": 1,
+      "body": "They're buying AMD chips, imagine how desperate companies are to buy Data Center chips.",
+      "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lftyc5u/",
+      "created": 1722442006,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lftyyk5",
+      "score": 1,
+      "body": "NVDA AI stack is the moat, not the chip. It's impossible to find tune AI quickly without Pytorch, which apparently needs CUDA for speed, which needs the latest NVDA card. Nobody is going to rewrite Pytorch library without some investments. I mean I will if someone here wants to pay me $200K for the year of work.",
+      "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lftyyk5/",
+      "created": 1722442204,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfudlua",
+      "score": 1,
+      "body": "CUDA !!!!!!",
+      "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfudlua/",
+      "created": 1722446817,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfugkte",
+      "score": 1,
+      "body": "Half the power consumption- infrastructures biggest bottleneck is power consumption.",
+      "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfugkte/",
+      "created": 1722447749,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfvmshp",
+      "score": 1,
+      "body": "Coral. its 30 bucks. no one uses it currently. Jensen is never wrong",
+      "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfvmshp/",
+      "created": 1722461099,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfwfcqw",
+      "score": 1,
+      "body": "TSMC will never let Nvidia fail. That’s going to be their bread and butter",
+      "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfwfcqw/",
+      "created": 1722471360,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfym12q",
+      "score": 1,
+      "body": "Thank you all so much for reading my post! You motivated me to do a more detailed calculation (including an estimate for Blackwell) and I just wrote a block post about it. You can find it here: https://www.chaotropy.com/why-googles-tpus-are-no-match-for-nvidias-gpus/",
+      "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfym12q/",
+      "created": 1722512537,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfzczca",
+      "score": 1,
+      "body": "the problem with Google is that they stop at the bare minimum. They don't want to push the boundaries because their OKR planning involves unnecessary prioritization exercises rather than imagining the future. There is noone willing to bet their ass off for shaping the future beyond a year or so. Engineers don't even think beyond a quarter. As opposed to Nvidia. They are lean and not much layered BS and have one visionary who is willing to imagine and build for beyond 5 years in the future. Competition will always play catch-up with Nvidia. Their blackwell is going to be way cheaper and energy efficient than previous generations and everyone is just drooling and waiting to get their hands on it. Just buy any dips around 100s and wait for 150 for the next earnings.\n\n\nThe real AI isn't what we see today, but it's coming and it is going to need massive massive training capabilities. But if this compute isn't available to researchers, there won't be any major breakthroughs. Only Nvidia will cater to these researchers and make sure they are ready for the next leg up.",
+      "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfzczca/",
+      "created": 1722523142,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfskd3l",
+      "score": 1,
+      "body": "There will always be a market for premium products, and a market for more affordable options.",
+      "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfskd3l/",
+      "created": 1722422634,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfsh5ep",
+      "score": -2,
+      "body": "There is no AI chip, these chips are made for machine learning and LLMs, not AI.",
+      "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfsh5ep/",
+      "created": 1722420667,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lfshvl3",
+          "score": -3,
+          "body": "Okay, and LLMs are not AI? :-D",
+          "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfshvl3/",
+          "created": 1722421121,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lfsivm6",
+              "score": -7,
+              "body": "No, there is no intelligence envolved, it just gives you the most average result from the database, it doesnt know what it is doing, or what it is generating. \n\nWe wont have any sort of AI, real AI in the next 10 years at least.\n\nMachine/Algorithmic Learning is NOT AI.",
+              "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfsivm6/",
+              "created": 1722421743,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lft3hmo",
+                  "score": 2,
+                  "body": "This is becoming the new ackshually",
+                  "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lft3hmo/",
+                  "created": 1722431528,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lft42nm",
+                      "score": -1,
+                      "body": "Its just the truth, ask anyone who works with it. Not saying there isnt value, there is, but its not AI in any way shape or form.",
+                      "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lft42nm/",
+                      "created": 1722431755,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lft7v8s",
+                          "score": 1,
+                          "body": "[deleted]",
+                          "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lft7v8s/",
+                          "created": 1722433196,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lft91f4",
+                              "score": 0,
+                              "body": "I work with LLMs.\n\nbut ok, go ahead son.",
+                              "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lft91f4/",
+                              "created": 1722433622,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lftm6ic",
+                                  "score": 2,
+                                  "body": "[deleted]",
+                                  "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lftm6ic/",
+                                  "created": 1722438109,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "lg3su24",
+                                      "score": 1,
+                                      "body": "If AI is an EV, then LLMs are the first dirt roads.\n\nDo you call a dirt road a car?",
+                                      "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lg3su24/",
+                                      "created": 1722583017,
+                                      "depth": 8,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "lftaww4",
+                  "score": 1,
+                  "body": "Of course this is AI, we are simply in the infant stages. Trying to throw guardrails around the definitions doesn't make it go away. And \"the most average result\" is really minimizing what's going on, there are a few different paths to how current generative models produce a result (nearest neighbor, regressive, etc). Are you really going to suggest a neural network based model is simply returning \"the average\" result?",
+                  "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lftaww4/",
+                  "created": 1722434290,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lftcged",
+                  "score": 1,
+                  "body": "The result is AI. Machine learning is the process to create the models which then is AI.",
+                  "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lftcged/",
+                  "created": 1722434836,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lfsj14z",
+                  "score": 0,
+                  "body": "Cool, thanks for the comment…",
+                  "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfsj14z/",
+                  "created": 1722421837,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lfsf2xr",
+      "score": 0,
+      "body": "stop taking about NVDA, it will up and up.",
+      "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfsf2xr/",
+      "created": 1722419320,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfspz5n",
+      "score": 0,
+      "body": "No.",
+      "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfspz5n/",
+      "created": 1722425628,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfst055",
+      "score": 0,
+      "body": "Until someone comes out with something better",
+      "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfst055/",
+      "created": 1722427069,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfsgpio",
+      "score": -1,
+      "body": "such a small difference; the cost should be several magnitude higher.  absolutely unacceptable!\n\nfire the management team and dissolve the board immediately.  /s",
+      "permalink": "/r/wallstreetbets/comments/1egijhz/are_nvidias_ai_chips_still_so_good_that_even_when/lfsgpio/",
+      "created": 1722420383,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

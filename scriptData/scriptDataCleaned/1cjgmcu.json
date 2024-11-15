@@ -1,0 +1,1284 @@
+{
+  "title": "[deleted by user]",
+  "score": 252,
+  "selftext": "[removed]",
+  "link_flair_text": null,
+  "id": "1cjgmcu",
+  "num_comments": 140,
+  "created_utc": 1714763033,
+  "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/",
+  "comments": [
+    {
+      "id": "l2fvd5s",
+      "score": 282,
+      "body": "Also played NVIDIA for the first time today. Down 50%. ![img](emote|t5_2th52|4267)![img](emote|t5_2th52|4260)\n\nEdit: I hate that you regards upvote my worst comments",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2fvd5s/",
+      "created": 1714763640,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l2go33o",
+          "score": 33,
+          "body": "Here's a free upvote.",
+          "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2go33o/",
+          "created": 1714775379,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l2hbim2",
+          "score": 8,
+          "body": "Just do what I do. Buy put credit spreads -100 from the current price. You gotta put up some collateral but it’s steady earnings",
+          "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2hbim2/",
+          "created": 1714785393,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l2in6ce",
+              "score": 2,
+              "body": "How does it work?",
+              "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2in6ce/",
+              "created": 1714812655,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l2joffo",
+                  "score": 9,
+                  "body": "Quick lesson: I’ll assume you understand how calls and puts work. I’ll also use round numbers to make the math easy for you regards.\n\nIf $NVDA is at $900 and I think it will close somewhere around there by the end of the day, I can do four basic things. There’s so many other strategies that could be used, but here’s the basics:\n\nBuy a $950 put and sell a $925 put. (A)\nSell a $850 put and buy a $875 put. (B)\n\nBuy an $850 call and sell an $875 call. (C)\nSell an $925 call and buy an $950 call. (D)\n\nAll four of these are called vertical spreads because the options are the same expiration date, same type (call or put), and differ only in the strike price (one above the other, hence the name vertical). Each one has a $25 difference in strike price.\n\nI’ll start with (C) because it’s probably the easiest for crayon eaters to understand.\n\nGenerally you want to buy low and sell high if you’re long a position. Or, conversely sell high and buy low if you’re short.\n\nIf I buy the $850 call that means I’m buying the stock at $850. Obviously that’s a good deal because the stock is already at $900 and I think it will stay there. Since the stock is at $900 and I’m buying it for $850, the intrinsic value of the $850 call is $50. But obviously someone is going to want me to pay them a premium for me getting that kind of a $50 off deal, and that premium gets added on based on a lot of things: how long until the option expires, the volatility of $NVDA, etc. That extra premium is what makes the $850 call cost more than $50.\n\nOkay.\n\nSo to offset that cost, I’m going to sell someone my stock that I bought at $850. I will do this by selling them an $875 call. Just like the $850, the intrinsic value is $25 because whoever buys it from me can buy my stock that I sell them for $875 and sell it at $900. But they’ll have to pay me a premium as well, so I’ll get more than the $25 to just flip the stock. Since I’m selling this option, I will be getting paid. I won’t get paid as much as what I had to spend on the $850 call, but I will at least have something to offset my cost.\n\nThis difference in what I paid and what I get paid is not going to be very much. But, if I’m willing to risk the $25 (that I could potentially lose if $NVDA drops to $850 and my call option becomes worthless), then that means it’s like free cash. I’m buying the stock for $850, selling it for $875 and only have to pay (hypothetically) $24.50 for the deal.\n\nThere is a certain type of person to whom this will appeal. Risking $2,500 to make $50 probably doesn’t sound appealing. But if I’m x% certain that it’s going to close around $900, then I don’t really think about it as “risking $2,500” so much as “risking 100-x% that an event y will happen at time z.”\n\nEither way, this is a debit spread because I’m paying $24.50 for the deal hoping it will be worth $25 by the close.\n\nOn the other hand, with a strategy like (A) I’m buying the higher put and selling the lower, and just collecting the premium difference between the two prices (maybe it’s $0.35). If $NVDA explodes to the upside those puts I bought are going to lose value much faster than the ones I sold, so I could end up having to buy them back for the max difference of $25. But if it doesn’t, then I just get to keep the $0.35 (x100) for selling the spread. This is why this is called a credit spread rather than a debit spread because I’m not paying the $2500 up front (although your broker would almost certainly still hold it in the liability that it did blow up and you lost everything).\n\nThe other two strategies are similar, and which one you deploy depends on the implied volatility pricing that goes into calls vs. puts, which ones are the best deal, and the probability that the stock might actually move up or down away from $900.\n\nThis is an income strategy because it’s not purely dependent on the direction that $NVDA goes in but will be profitable either way; it’s very popular with stocks that are lower volatility because they’re more predictable and don’t move as much, but also you get less premium from it too.\n\nObviously it can go very wrong very fast if you’re risking something like $25,000 to make $500 on a consistent basis, so risk management is key.\n\nSeveral good strategies for this usually begin about 45 days out and then close the position 20 days away from expiry.\n\nIt can also be deployed on a daily basis with SPY 0dte options which lose value very quickly later in the day. Usually you would want to close the position out after a p% gain rather than hold them to the end of the day, but if you don’t get bothered by some of those sharp late day moves then you can hold it for the full premium, but statistically your risk goes up when you do.\n\nTLDR: There is no TLDR. If you can’t read and understand this in its entirety you belong here and don’t deserve the wisdom I’m giving you.",
+                  "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2joffo/",
+                  "created": 1714832191,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l2jofgp",
+                      "score": 1,
+                      "body": "Oh my gourd! \n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",
+                      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2jofgp/",
+                      "created": 1714832192,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "l2iugg2",
+                  "score": 4,
+                  "body": "Until it doesn’t",
+                  "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2iugg2/",
+                  "created": 1714817737,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l2jg4s3",
+                      "score": 3,
+                      "body": "I think if you’re careful managing risk and watching IV it would work. The problem is people are leveraging up into positions that are over what should be their VAR, and they’re getting crushed because of it. This single trade wiped out a month of profits in a successful strategy, so my guess is the OP didn’t backtest anything before deployment and just tried to see what would happen. QQQ isn’t NVDA.",
+                      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2jg4s3/",
+                      "created": 1714828815,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "l2j2eti",
+                      "score": 2,
+                      "body": "Free money 💰",
+                      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2j2eti/",
+                      "created": 1714822548,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "l2jk08l",
+                      "score": 1,
+                      "body": "When it goes against u just make spread opposite direction u can't lose",
+                      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2jk08l/",
+                      "created": 1714830403,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "l2jkdcd",
+                      "score": 1,
+                      "body": "Like last Friday",
+                      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2jkdcd/",
+                      "created": 1714830549,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "l2inxbb",
+                  "score": 4,
+                  "body": "Spreads work by buying 2 calls/puts at 2 different strikes. This reduces the cost but caps your return and risk. \n\nYou can set it to receive a credit by selling a lower(higher) priced call(put) and buying a higher(lower) priced call(put). You will win this trade if the stock stays flat or goes in the opposite direction of your spread.  \n\nIf you got the debit route you have some more upside and can also load up more contracts or pay a lower price but still get the leverage of options.",
+                  "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2inxbb/",
+                  "created": 1714813205,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l2j2a1d",
+          "score": 1,
+          "body": "Take my free upvote sir",
+          "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2j2a1d/",
+          "created": 1714822478,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l2fz437",
+      "score": 98,
+      "body": "Had you not just bought 4 850c's expiring today with the money you put in the regarded calls you bought, you'd have been 15-20k up on them. Why did you even buy 920c's, you thought NVDA would move $100 in a day just to get your calls ITM![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4271)",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2fz437/",
+      "created": 1714764993,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l2g2sut",
+          "score": 42,
+          "body": "this? op im curious why you would buy 0dte calls that are insane OTM ??",
+          "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2g2sut/",
+          "created": 1714767279,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l2gb1rh",
+              "score": 13,
+              "body": "Gambling? Greed?",
+              "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2gb1rh/",
+              "created": 1714770341,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l2gl7on",
+              "score": 11,
+              "body": "u/gamelorereader please respond. Not every option has to be worth under 0.50 like why don't you but closer to the money options?",
+              "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2gl7on/",
+              "created": 1714774223,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l2gmeq5",
+                  "score": 6,
+                  "body": "If far OTM options move up in price, they tend to move a LOT relative to where you bought in. I bought some Apple calls a couple weeks ago for $3 , then an hour after opening bell they 12x'd. I sold at 10x. Those calls were unreasonably far OTM when I bought them. I didn't think they'd hit my strike, but I felt they were underpriced IF the stock was going to have a green day, and it did.\n\nI imagine OP was after a similar play.",
+                  "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2gmeq5/",
+                  "created": 1714774701,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l2h627c",
+                      "score": 10,
+                      "body": "I mean you hit a lotto ticket and that was due to earnings. On the other hand buying $100+ OTM calls on a stock that's already up so much this year and has been quite flat for a while without any catalyst is pure regardation, even beyond wsb levels",
+                      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2h627c/",
+                      "created": 1714783002,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l2h6mbr",
+                          "score": 6,
+                          "body": "Agreed, I was just trying to give OP's angle, not vouch for it being a good idea.",
+                          "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2h6mbr/",
+                          "created": 1714783244,
+                          "depth": 5,
+                          "replies": []
+                        },
+                        {
+                          "id": "l2j3mqd",
+                          "score": 0,
+                          "body": "He didn’t buy during earnings. AAPL’s earnings wasn’t two weeks ago",
+                          "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2j3mqd/",
+                          "created": 1714823174,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l2jr6qh",
+                              "score": 1,
+                              "body": "His expiry was the week of earnings. The catalyst he was expecting was AAPL to go high after earnings. The OP on the other hand, I think his catalsyt was some strong stuff that I'd wanna try",
+                              "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2jr6qh/",
+                              "created": 1714833276,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "l2gwgue",
+                      "score": 6,
+                      "body": "Diff is you bought them couple weeks ago, not 0dtes...",
+                      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2gwgue/",
+                      "created": 1714778861,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l2h3mp7",
+                          "score": 8,
+                          "body": "Sure they were. They expired the day I bought them...which was a couple weeks ago.",
+                          "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2h3mp7/",
+                          "created": 1714781949,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l2h3r7f",
+                              "score": 3,
+                              "body": "Ok didn't read well",
+                              "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2h3r7f/",
+                              "created": 1714782003,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l2hyg97",
+                                  "score": 5,
+                                  "body": "Don’t worry, most of us in here can’t read either",
+                                  "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2hyg97/",
+                                  "created": 1714796180,
+                                  "depth": 7,
+                                  "replies": []
+                                },
+                                {
+                                  "id": "l2h4av3",
+                                  "score": 2,
+                                  "body": "All is well, good sir/madam.",
+                                  "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2h4av3/",
+                                  "created": 1714782238,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "l2h3nb7",
+                              "score": 0,
+                              "body": "Sounds like Tylensus needs a subscription to *r/DaddysMoney.*",
+                              "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2h3nb7/",
+                              "created": 1714781956,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "l2iera1",
+                      "score": 1,
+                      "body": "Sure, but the reason they're that cheap in the first place is the fact that they have low chances of being OTM. It's like buying a lotto ticket. You don't YOLO into those thinking you'll win. You put in a little, which you can afford to lose, because winning would be so awesome.",
+                      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2iera1/",
+                      "created": 1714806340,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l2ikmik",
+                          "score": 3,
+                          "body": "You actually can swing/day trade them similarly to stock. There can be a ton of *reasonable to plan around* money to be made on far OTM options. If you see a good spot to get in on a call or put, stock up on cheap contracts and count on the price action to move the price of the contract maybe a few bucks. If you get in cheap enough, those few bucks could mean a very lucrative swing/day trade. If you get lucky, it goes up/down a LOT in your favor, but don't count on it. Honestly *most* of the time I buy options, I'm not anticipating my strike price to be hit. \n\nI see the point you're making, and if you plan around your strike *actually* being hit, my approach would be foolish. If you just want to skim some dollars from the momentum in the underlying moving the option prices *at all*, there's opportunities all over the place.\n\nFor the record, that 10x play I mentioned above was only a $60 position when I bought in. 20 calls at $3 each. Sold shortly thereafter for $30 or $31 each because the stock went up a few bucks, and my calls were still several dollars out of the money. I saw a huge dip to the downside figuring there'd be a correction, so I got in dirt cheap. I didn't even ride MOST of the wave that day since I do all of my trading before getting ready for work. I just rode the correction from the big sell-off at market open.",
+                          "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2ikmik/",
+                          "created": 1714810707,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "l2ihen9",
+              "score": 1,
+              "body": "Because he went top down thinking about the possible payout like a lottery ticket buyer",
+              "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2ihen9/",
+              "created": 1714808281,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l2h501g",
+          "score": 5,
+          "body": "Lol as I said in my post, I'm mainly a QQQ 0dte player. NVDA 0dte was just a whole different level that I wasn't prepared for honestly ![img](emote|t5_2th52|4271) I seriously thought there would be a short squeeze with so many people getting puts and trying to short the stock, especially when the stock opened at 877. Thought NVDA would finally break 900 after a very long time of staying under 900, and it would continue to soar to at least 910. But yeah. It was a very slow day for NVDA and there wasn't any dramatic news to drive it up more. Just pure foolish greediness in my mind thinking I would have profited $10k+ quickly.",
+          "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2h501g/",
+          "created": 1714782543,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l2h8i3a",
+              "score": 5,
+              "body": "What strategy do you use for QQQ 0DTE’s if you don’t mind me asking?",
+              "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2h8i3a/",
+              "created": 1714784066,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l2h9g2e",
+                  "score": 4,
+                  "body": "[Here's my reply to another comment with your question](https://www.reddit.com/r/wallstreetbets/s/P1G8BD5w8n)",
+                  "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2h9g2e/",
+                  "created": 1714784478,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l2h5itu",
+              "score": 6,
+              "body": "And as I said, you would have profited 20k just 30 mins after open if you bought the calls I mentioned lol. Everyone knew market was going up today with unemployment report but still you need to buy reasonable 0dte's to profit. The person who scalped your 2k selling you those regarded calls is very thankful for you![img](emote|t5_2th52|4271), wish it were me who sold it to you![img](emote|t5_2th52|4271)",
+              "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2h5itu/",
+              "created": 1714782768,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l2h502i",
+              "score": 1,
+              "body": "Squeeze deez nuts you fuckin nerd.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",
+              "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2h502i/",
+              "created": 1714782543,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l2h502x",
+              "score": 1,
+              "body": "Squeeze my dongus you fuckin nerd. \n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",
+              "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2h502x/",
+              "created": 1714782543,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l2jcpbt",
+              "score": 1,
+              "body": "Dude. It was not a slow day for nvidia. It was up 3.46%.  That’s a lot for a 2.2 trillion dollar company.  It gapped up $20 at the open mostly cause of the employment numbers and a bit of apple.   Once you have that gap up on the open it’s risky to expect another $33 just to get you within $10 of your strike with theta milking you as the day progressed.  Also it’s been in consolidation mode for 2 months after a big pop on the last earnings and a weak story from scmi and a big pullback on earnings from amd.  Anyone who bought calls a week earlier or even 1DTE at 570-590 the day before did VERY well.  Only those who bought way OTM on Friday after the pop got hurt.  Most people were probably surprised it stayed so strong the whole day going into the week end closing only a few bucks off of its high for the day.",
+              "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2jcpbt/",
+              "created": 1714827377,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l2lkjpq",
+              "score": 1,
+              "body": "Will be above 900 on Monday.",
+              "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2lkjpq/",
+              "created": 1714856510,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l2hbbp3",
+          "score": 1,
+          "body": "Huh? I’m seeing the low on those today at 22.4. Didn’t he start out with $2160 (48 calls at .45). What am I missing?",
+          "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2hbbp3/",
+          "created": 1714785308,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l2hmt95",
+              "score": 1,
+              "body": "I am talking if he bought them yesterday, they were 6 a piece at one point",
+              "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2hmt95/",
+              "created": 1714790386,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l2ibafi",
+          "score": 1,
+          "body": "I bought a single 890p and made more than op",
+          "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2ibafi/",
+          "created": 1714803908,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l2gwjo9",
+          "score": 0,
+          "body": "Bro what you buying next week?",
+          "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2gwjo9/",
+          "created": 1714778894,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l2g48c3",
+      "score": 39,
+      "body": "Buy calls, get fucked, buy puts gets mega raped. Seems about right.",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2g48c3/",
+      "created": 1714767817,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l2g4x6f",
+          "score": 4,
+          "body": "That comment made my day, thanks for that.",
+          "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2g4x6f/",
+          "created": 1714768073,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l2g526b",
+              "score": 8,
+              "body": "Forgot to add, run a straddle and get theta gang banged. Today the fuckery was buying  502,501,500 puts on SPY expiring Tuesday and Wednesday when it was trading at 511.50 yet my position is already 73% down. I expect it to be worthless come Monday. I hesitated buying 500 strike puts on SPY this week cause last week I bought them a day earlier then two days later woulda made back half off my losses. The list goes on. You can’t make this shit up.",
+              "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2g526b/",
+              "created": 1714768126,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l2g5i26",
+                  "score": 2,
+                  "body": "Dude, I can't breath 🤣",
+                  "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2g5i26/",
+                  "created": 1714768289,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l2hwmhv",
+                  "score": 1,
+                  "body": "some trust fund babies never learn",
+                  "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2hwmhv/",
+                  "created": 1714795227,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l2hwprp",
+                      "score": 1,
+                      "body": "lol I wish",
+                      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2hwprp/",
+                      "created": 1714795273,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l2if1oa",
+          "score": 1,
+          "body": "It's almost like if you buy 0dtes waaaay OTM, you lose money regardless of what type of options they are! If moving 5% in a day counts as moving sideways for the purposes of your options...",
+          "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2if1oa/",
+          "created": 1714806547,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l2kvjng",
+              "score": 1,
+              "body": "yes ans no. you can buy a 5-8 point spread OTM a few weeks out and still make a decent profit if the UL makes a big move in the right direction. but honestly the money and consistency is in writing contracts not buying them. I’m not experienced enough to do it but for a fact it’s a lot more profitable collected the premium right away and paying the difference once you close.",
+              "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2kvjng/",
+              "created": 1714847468,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l2j0pz2",
+          "score": 1,
+          "body": "Buy index funds, enjoy life.",
+          "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2j0pz2/",
+          "created": 1714821634,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l2ftz9l",
+      "score": 12,
+      "body": "What’s the QQQ strategy? The ‘ol in and out?",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2ftz9l/",
+      "created": 1714763150,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l2g2f0z",
+          "score": 16,
+          "body": "Yep mainly after doing my own TA and research, I enter into QQQ with half of my account the moment she opens up, take quick profits and walk away. I would also leave some runners to see how much higher my contract price would go. \n\nToday, I decided to see if I can try it out on NVDA. I'll admit that I had a very foolish greedy mindset where I thought I could profit $10k+ today, especially when many people were going to get puts. Seriously thought there was going to be a short squeeze and people closing their puts, especially on a Friday. This led me to using a huge amount of my account. Thought NVDA would break 900 today after a long time. So I went with 920c. Buuut NVDA turned me around, fucked me very hard and slowly, and said, \"Nah. I'd win.\" \n\n\nI'll just be going back to QQQ and leaving NVDA alone.",
+          "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2g2f0z/",
+          "created": 1714767131,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l2ggt0h",
+              "score": 10,
+              "body": "Half your account?!",
+              "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2ggt0h/",
+              "created": 1714772510,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l2h7ily",
+                  "score": 4,
+                  "body": "Yeah lol. The other half of my account is just used to lessen any losses and make my account be green even if it's a tiny amount (like what happened on April 30, which is why I ended up with $21 ![img](emote|t5_2th52|4271))",
+                  "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2h7ily/",
+                  "created": 1714783635,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l2iax3h",
+                  "score": 2,
+                  "body": "Well duh, otherwise it'd be called the yolo strategy",
+                  "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2iax3h/",
+                  "created": 1714803655,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l2jitwr",
+                      "score": 1,
+                      "body": "🤣",
+                      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2jitwr/",
+                      "created": 1714829932,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "l2g2f22",
+              "score": 5,
+              "body": "Squeeze deez nuts you fuckin nerd.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",
+              "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2g2f22/",
+              "created": 1714767131,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l2ggqhc",
+              "score": 3,
+              "body": "What's your technique for the qqq?",
+              "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2ggqhc/",
+              "created": 1714772482,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l2h3x6i",
+                  "score": 15,
+                  "body": "Honestly, it's really just reading a bunch of news during afterhours and premarket. I spend about 3-4 hours in the afternoon of just browsing articles and then 2-3 hours of any updated news during premarket. I would always check the 'Magnificent 7' stock news such as earnings or anything dramatic, especially NVDA. I read any world conflict news like Israel-Iran, China, etc. Then, I check for any upcoming inflation data reports by looking at an economic calendar. Also checking for any upcoming Fed speeches. \n\nI don't follow chart analysis because that shit doesn't work a lot of times. \"Based on the chart, a V is going to happen so it's gonna go back up!\", but because the news are all negative, QQQ dips down and continues to dump throughout the day. I actually laugh at chart patterns because that's also stupid. Otherwise, we would be making easy money just off of chart patterns. \n\nWhat I'm trying to say is that news and events are way more extremely important for SPY/QQQ than stupid chart analysis with so many indicators and lines blah blah blah. And I would argue about this a lot. \n\nToday, though, I was really stupid with NVDA. There wasn't any dramatic news to drive it up. I was just really gambling and thinking it would break 900 quickly. Well, it did today, but it took so long that my contract was pretty much useless by that time lol.",
+                  "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2h3x6i/",
+                  "created": 1714782074,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l2hmhft",
+                      "score": 3,
+                      "body": "It didn’t go above 909 ![img](emote|t5_2th52|4275)",
+                      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2hmhft/",
+                      "created": 1714790233,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "l2hkgnb",
+                      "score": 1,
+                      "body": "Thank you for the response, from my short experience seeing news and WSB has helped me out a lot. We win some we lose some, just gave to keep swinging.",
+                      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2hkgnb/",
+                      "created": 1714789306,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "l2g2f5d",
+              "score": 2,
+              "body": "Squeeze my dongus you fuckin nerd. \n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",
+              "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2g2f5d/",
+              "created": 1714767132,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l2fu4i7",
+          "score": 3,
+          "body": "I was just about to ask hahaha",
+          "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2fu4i7/",
+          "created": 1714763200,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l2fzw0z",
+      "score": 11,
+      "body": "You do know it’s just meme when people say they go all in on 0dte",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2fzw0z/",
+      "created": 1714766009,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l2genyo",
+          "score": 7,
+          "body": "It's not a meme sadly it's true",
+          "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2genyo/",
+          "created": 1714771692,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l2gctg8",
+          "score": 3,
+          "body": "lies",
+          "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2gctg8/",
+          "created": 1714771004,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l2gnrbn",
+      "score": 9,
+      "body": "I did your strat too. 1 red day wipes months of gains.",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2gnrbn/",
+      "created": 1714775248,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l2h99cq",
+          "score": 0,
+          "body": "Man and that's really the frustrating part. Just really going to stay on QQQ and not stray away from it anymore. Seriously thought I could spend $4k to make a quick $10k from NVDA, but there wasn't any news to drive it up ![img](emote|t5_2th52|31225)",
+          "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2h99cq/",
+          "created": 1714784396,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l2im3au",
+              "score": 4,
+              "body": "Bro. The stock climbed 3.5% - that is monumental.  You gambled on needing a 7%+ rise without earnings. Very stupid gambler.",
+              "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2im3au/",
+              "created": 1714811828,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l2gc42h",
+      "score": 7,
+      "body": "21.95 day ![img](emote|t5_2th52|4271)",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2gc42h/",
+      "created": 1714770739,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l2gdb1m",
+          "score": 2,
+          "body": "Most of us would kill for that.",
+          "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2gdb1m/",
+          "created": 1714771185,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l2gvm9a",
+              "score": 2,
+              "body": "No way yal don’t make 20 a day",
+              "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2gvm9a/",
+              "created": 1714778504,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l2h1blj",
+                  "score": 1,
+                  "body": "How can you make 20 a day when you’re negative all time?",
+                  "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2h1blj/",
+                  "created": 1714780946,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l2huoxl",
+                      "score": 1,
+                      "body": "Aah true guess being down 20 everyday is not that hard of a skill set",
+                      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2huoxl/",
+                      "created": 1714794243,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l2h0i98",
+          "score": 1,
+          "body": "Had calls at first on that day lol. But then after some crabbing, I just fucking bought puts and hoped it wouldn't go up. Thankfully it was going down, recovering my deep red call loss (it was -$1,800+) and sold my puts the moment my Daily P&L was green. Could have been like $100-$200, but I was like, \"Nah fuck this.\" And just walked away. \n\nI decided that I'm not going to trade on the day before FOMC meetings ever again. Would rather just be patient and wait for Jpow to speak.",
+          "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2h0i98/",
+          "created": 1714780590,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l2gjy9f",
+      "score": 4,
+      "body": "Me too, NVDA always F me, down 4 k today![img](emote|t5_2th52|4260)",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2gjy9f/",
+      "created": 1714773719,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2fz5jh",
+      "score": 9,
+      "body": "Had you just bought 4 850c's expiring today with the money you put in the regarded calls you bought, you'd have been 15-20k up on them. Why did you even buy 920c's, you thought NVDA would move $100 in a day just to get your calls ITM![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4267)",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2fz5jh/",
+      "created": 1714765014,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2glw9r",
+      "score": 5,
+      "body": "Tough break. I lost about that much on TLRY today, too. Tim Cook and Mr Bezos saved my ass, though, so I'm still up 7k on the day. Apple announcing that buyback thr day before my calls expired was fucking NICE.",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2glw9r/",
+      "created": 1714774497,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2h78db",
+      "score": 5,
+      "body": "Got fcked hard by NVDA today too. For some reasons people made so much out of NVDA and Tesla , but whenever I touch those two I got fcked hard.",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2h78db/",
+      "created": 1714783511,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2fxiyx",
+      "score": 3,
+      "body": "Looks about right",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2fxiyx/",
+      "created": 1714764404,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2h477m",
+      "score": 3,
+      "body": "How?!? Shit! Why?!? Y did you buy it that far out?!?!?",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2h477m/",
+      "created": 1714782194,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l2h5gi1",
+          "score": 3,
+          "body": "Yeah I know lol. I'm just gonna stick with QQQ and leave NVDA alone. No worries, I can get back $4k quickly next week, especially with those Fed speeches ![img](emote|t5_2th52|18630) ![img](emote|t5_2th52|31225)",
+          "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2h5gi1/",
+          "created": 1714782740,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l2htw3j",
+      "score": 3,
+      "body": "I can see the trend with your account and how you make larger and larger gains, which is likely due to your position size increasing. \n\nI can see that your profitable and have a strategy going on that is somewhat consistent, and you can take that to the next level by introducing some better risk management and position sizing with your plays. Leverage the power of probability towards your side. \n\nToo often I’ve seen people (myself included) start running away after a while and begin recklessly using more and more of their portfolio in each trade. This will produce outsized gains, but it only takes once for everything to go down the drain, and it WILL Happen. It’s not if, it’s when. So limit yourself to a portion of your portfolio and have the damm discipline to do that, otherwise you should seriously consider not trading.\n\nGood luck brother.",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2htw3j/",
+      "created": 1714793838,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2iv8xv",
+      "score": 3,
+      "body": "Man, this week really was all about turning decent gains into losses.",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2iv8xv/",
+      "created": 1714818268,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2ftnye",
+      "score": 2,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 1 | **First Seen In WSB** | 2 months ago\n**Total Comments** | 124 | **Previous Best DD** | \n**Account Age** | 1 year | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2ftnye/",
+      "created": 1714763038,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2gkkaa",
+      "score": 2,
+      "body": "That’s the fucking worst but understand.",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2gkkaa/",
+      "created": 1714773962,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2hetn2",
+      "score": 2,
+      "body": "The SPX just didn’t really have any intraday movement today so everyone who straddled or bought 0DTE calls/puts lost out. The large move was made yesterday after hours and pre market due to Apple’s buyback and the unemployment numbers being ok. Also it’s kinda crazy ur gamble wiped out all the gains you made from the 15th that must suck. Hopefully u regain it back.",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2hetn2/",
+      "created": 1714786838,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l2hhfqz",
+          "score": 1,
+          "body": "Yeah it wiped out like 72% of my gains. Still got like $1.5k profit besides my account fund. Really just gonna stay loyal to QQQ and not betray her again lol. A lot of those profit days could have hit $1k, but I'm that kind of guy who just takes like 20-30% and stops trading.",
+          "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2hhfqz/",
+          "created": 1714787956,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l2ik1ea",
+      "score": 2,
+      "body": "Highly suggest looking up a companies ATR on Finviz before choosing a 0DTE strike. ATR is Average True Range. It gives an reading on how far the stock moves in a typical day. \n\nObviously highly Volatile days like FOMC and Earnings make that number useless, but it’s still helpful to guage if you’re pushing the throttle a little too hard.\n\nAlso pay attending to the shares outstanding and float. \n\nA stock like Ford which I got raped on after earnings (even though I had calls 😒), has billions of shares. The ATR is like $0.37. So in an earnings situation if you’re buying 0DTE, +/- $1.50 would be like the MAX you’d want to go if you’re really pushing the envelope",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2ik1ea/",
+      "created": 1714810262,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2iul7l",
+      "score": 2,
+      "body": "Price go up but calls fall in price = theta decay lol 😂 theta gang gang for the win",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2iul7l/",
+      "created": 1714817827,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2iw9nx",
+      "score": 2,
+      "body": "Bruh you’re super consistent. If it ain’t broke…",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2iw9nx/",
+      "created": 1714818922,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2izhg3",
+      "score": 2,
+      "body": "If it makes you feel better I didn’t even get my first one for free 😅",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2izhg3/",
+      "created": 1714820910,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2gdqud",
+      "score": 1,
+      "body": "What app is this table",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2gdqud/",
+      "created": 1714771348,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l2h0njt",
+          "score": 1,
+          "body": "Webull app and that's the P&L calendar feature.",
+          "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2h0njt/",
+          "created": 1714780654,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l2gh4ra",
+      "score": 1,
+      "body": "What app is that?",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2gh4ra/",
+      "created": 1714772636,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2hds70",
+      "score": 1,
+      "body": "Guh...thanks for sharing.",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2hds70/",
+      "created": 1714786389,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2hgv4l",
+      "score": 1,
+      "body": "Gotta make sure to get itm options",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2hgv4l/",
+      "created": 1714787709,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2hhe92",
+      "score": 1,
+      "body": "What exactly is your strategy? I could use Green Day’s like you man",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2hhe92/",
+      "created": 1714787939,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l2hk71d",
+          "score": 2,
+          "body": "[My reply to another comment with your question](https://www.reddit.com/r/wallstreetbets/comments/1cjgmcu/comment/l2h3x6i/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)\n\nIn other words, for me, news are way more important than chart analysis because QQQ is a whole index and not an individual stock. Lots of news dwell around QQQ every single day. Even world conflicts like breaking news on Israel-Iran will cause QQQ to pump up a lot or dump like crazy. Fed Speeches that happens during market hours could cause QQQ to spike up or dip so much just like Neel Kashkari (apparently he's speaking on Tuesday, 5/7 at 11:30am EST so that's one thing to add to a list of events). \n\nTake advantage of Jpow speeches on FOMC meetings. His next FOMC speech is on June 12. It's always at 2:30pm EST. I made $1.67k from his speech as you could see in my photo, but honestly, that would have been $14k+ if I held on longer while he's speaking. But, I'm used to just taking 20-30% profit and walking away. \n\nA lot of those profit days in the photo could have easily been $1k+, but like I said, I take 20-30% and just stop trading. Using those profits the next day, repeat, repeat, repeat. Today, I just gambled like a moron without thinking properly because of greed. No dramatic news for NVDA to cause it to go up. Lesson costed me 72% of my gains, leaving me with only $1.5k profit besides my account fund. \n\nSo yeah. I take a lot of time reading news and preparing for events. Check the US stock market economic calendar. Upcoming inflation data reports, world conflict news (mainly wars), Fed speeches, Magnificent 7 earnings reports, Jpow's speeches on FOMC days, etc.",
+          "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2hk71d/",
+          "created": 1714789183,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l2hqujm",
+              "score": 1,
+              "body": "Same strategy I use, but for SPY 0DTE.",
+              "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2hqujm/",
+              "created": 1714792309,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l2hqwsv",
+              "score": 1,
+              "body": "Very helpful, thank you!",
+              "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2hqwsv/",
+              "created": 1714792340,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l2hluwe",
+      "score": 1,
+      "body": "bro u just lost one week... rest is in + continue so you lose all",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2hluwe/",
+      "created": 1714789942,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2hr36k",
+      "score": 1,
+      "body": "As of Qqq trader what’s the forecast for next week?",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2hr36k/",
+      "created": 1714792427,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2huqdh",
+      "score": 1,
+      "body": "Did you get cummed in ???",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2huqdh/",
+      "created": 1714794263,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2hus4h",
+      "score": 1,
+      "body": "TLDR on OPs strategy: half port on whatever vibe he’s feeling in the morning",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2hus4h/",
+      "created": 1714794287,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2hypm3",
+      "score": 1,
+      "body": "You were expecting NVDA to go up $60-70 on a normal non earnings day?? Yea you belong here",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2hypm3/",
+      "created": 1714796317,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2hznwx",
+      "score": 1,
+      "body": "You liked it, you know you did! Because all regards love it!",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2hznwx/",
+      "created": 1714796816,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2iae2f",
+      "score": 1,
+      "body": "Whatever gets you off",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2iae2f/",
+      "created": 1714803302,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2iaq1n",
+      "score": 1,
+      "body": "Why would you buy 920 calls that’s a stretch",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2iaq1n/",
+      "created": 1714803523,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2idc6z",
+      "score": 1,
+      "body": "![img](emote|t5_2th52|29637)![img](emote|t5_2th52|4267)",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2idc6z/",
+      "created": 1714805330,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2ilwpi",
+      "score": 1,
+      "body": "OP you are beyond regarded, and also have no idea how options work. Your calls are worthless unless NVDA closes the day above 920. So even if the stock is climbing, it is going to rapidly lose value unless it approaches 920.\n\nI’ve always wondered who is at the end of free money option sales, and I found OP",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2ilwpi/",
+      "created": 1714811688,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2imbt8",
+      "score": 1,
+      "body": "Well what’s the strategy",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2imbt8/",
+      "created": 1714812011,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2iob8p",
+      "score": 1,
+      "body": "So 13/15 wins , is this your regular 0dte ratio?",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2iob8p/",
+      "created": 1714813473,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l2ir38s",
+          "score": 2,
+          "body": "For the entire month of April (1-30), which is 22 trading days, I got 16/22 wins. Though it's 6 losses, I actually only count 3 of them as an actual loss since they were above $100 ($433.40, $195, $238). The other 3 were tiny losses like I just spent money on food ($25, $40, $15).\n\nFor this month of May though, so far 2/3 wins. Got a really nice start from the FOMC meeting. But today...Yeah it was bad. Would most likely have been a win if I sticked to QQQ, but I was feeling really greedy today for NVDA and ended up being a regard lol.",
+          "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2ir38s/",
+          "created": 1714815417,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l2itykg",
+              "score": 1,
+              "body": "Thanks so you aim for 10/15% , if the trade goes nowhere first minutes you just close it at a slight loss/breakeven?",
+              "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2itykg/",
+              "created": 1714817404,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l2m2gxl",
+                  "score": 2,
+                  "body": "Yeah I use a large amount of my account to get a very cheap contract for my entry and usually it would go the way I choose before it goes the other way. The huge amount of cons I have makes it able to reach $250-$400+ very quickly in minutes. \n\nIf things are obviously going the other way, I try to lessen it as much as I can with my remaining funds for the day.",
+                  "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2m2gxl/",
+                  "created": 1714863434,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l2nnp1o",
+                      "score": 1,
+                      "body": " Ok thanks it's just with 0dtes all it takes is a red5m candle and you down like 40/50% but like you said You open and close in minutes",
+                      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2nnp1o/",
+                      "created": 1714892286,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l2ippo3",
+      "score": 1,
+      "body": "Quick question … why QQQ and not TQQQ.  Or UPRO instead is SPY? Do the “the greeks” favor QQQ or SPY?",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2ippo3/",
+      "created": 1714814455,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l2irvov",
+          "score": 2,
+          "body": "To be honest with you, ever since I was introduced to QQQ 0dte, I just pretty much sticked to it and never did options outside of it. It was my first ever options play and the only options I trade until now. That's why I thought I could do the same for NVDA today, but you know the rest. For the QQQ/SPY question, I can't really give an answer for the greeks question, but I chose QQQ because it's an index that focuses on technology and other high-growth tech companies, which made me just stay with it.",
+          "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2irvov/",
+          "created": 1714815973,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l2irwqa",
+      "score": 1,
+      "body": "NVDA after first 30-45 mins of market is just up down up down manipulation.. fuck ur puts fuck ur calls... we're going to 900.. we're going to 800.. down 25 bucks back up 38... after market up 20 more points.. open sell off.. repeat.. low key i think its consolidating like last time for a big move up.. NVDA options have so much volume.. almost every strike price has decent liquidity.. but when you miss on 0dte options..it hurts.. cause NVDA buy/ask spread is like a dollar at times and really fucks the option value",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2irwqa/",
+      "created": 1714815993,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2it17t",
+      "score": 1,
+      "body": "even with the 4k loss you are still up",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2it17t/",
+      "created": 1714816770,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2jclik",
+      "score": 1,
+      "body": "First time?",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2jclik/",
+      "created": 1714827332,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2jdvn2",
+      "score": 1,
+      "body": "I have a similar story. My strategy is to put it on black. One time I put it on red and lost bigly",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2jdvn2/",
+      "created": 1714827880,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2jhgun",
+      "score": 1,
+      "body": "For this strategy to work it has to be on a big move within 5-10 mins. Buying 880 c’s yesterday when it was already up was so much more profitable over the course of the whole day. You ought to have known better than to think the theta and vega wouldn’t absolute get crushed when it started consolidating around the 885 level; that was the time to book the loss. Honestly dude, look at the charts, it wasn’t ever going to go to 920, you could tell by 10:15; sometimes $NVDA does NVDA things, but you have to be able to recognize it. Both call and put volume were only 30% of the 15 day average too, it was never going to happen. Yesterday was Tim Apple’s day.",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2jhgun/",
+      "created": 1714829361,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2jp0cl",
+      "score": 1,
+      "body": "Just relax your anus and get ready for Monday",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2jp0cl/",
+      "created": 1714832422,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2jqm8u",
+      "score": 1,
+      "body": "What platform do you use to trade? :)",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2jqm8u/",
+      "created": 1714833052,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2ka9ir",
+      "score": 1,
+      "body": "You felt real smart till yesterday eh",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2ka9ir/",
+      "created": 1714840159,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2l7l49",
+      "score": 1,
+      "body": "A month of gains wiped out in hours 😭",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2l7l49/",
+      "created": 1714851697,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2n3myj",
+      "score": 1,
+      "body": "That looks almost like mine. Scary af.",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2n3myj/",
+      "created": 1714880097,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2fz4j5",
+      "score": 0,
+      "body": "Had you not just bought 4 850c's expiring today with the money you put in the regarded calls you bought, you'd have been 15-20k up on them. Why did you even buy 920c's, you thought NVDA would move $100 in a day just to get your calls ITM![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4271)",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2fz4j5/",
+      "created": 1714765000,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l2fv9ui",
+      "score": -13,
+      "body": "[deleted]",
+      "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2fv9ui/",
+      "created": 1714763607,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l2fwztn",
+          "score": 7,
+          "body": "thats not even a little bit true",
+          "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2fwztn/",
+          "created": 1714764216,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l2g2w0n",
+          "score": 3,
+          "body": "dude thinks you pay taxes on each trade \\^",
+          "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2g2w0n/",
+          "created": 1714767312,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l2g46v1",
+              "score": 3,
+              "body": "He’s a cardiologist",
+              "permalink": "/r/wallstreetbets/comments/1cjgmcu/deleted_by_user/l2g46v1/",
+              "created": 1714767801,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

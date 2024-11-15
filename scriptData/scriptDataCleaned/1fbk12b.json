@@ -1,0 +1,1720 @@
+{
+  "title": "Can someone explain why AI is getting so much attention from the tech community in last two years when it wasn't the case before?",
+  "score": 181,
+  "selftext": "Its not like AI hasn't been around for years now. It's also not like Nvidia just released CUDA and graphic cards capable of doing AI work. Its also not like Machine Learning is new.\n\n* Machine Learning has been used in scientific research for a long time now (atleast in Physics/Astronomy).\n* Look at Cyberpunk video game. It released in 2020 and started development in 2016. It used AI to lip-sync character conversations into 10 languages. This was back in 2016-2020.\n* GPT-1,2,3 was released in 2018/19/20. Here's a part from wiki about LLM - \"Although decoder-only GPT-1 was introduced in 2018, it was GPT-2 in 2019 that caught widespread attention because OpenAI at first deemed it too powerful to release publicly, out of fear of malicious use.\".\n\nLooking at that Sam Altman/Microsoft etc didn't think they should pour trillions into it or just buy all Nvidia chips? Nvidia earnings actually went down in 2019 lol.\n\nAll these companies knew about it years before. So what changed? Is it just that ChatGPT became public and people realised what it could do? or is there a more technical reason that justifies this?\n\nI looked at dot-com bubble. That was spurred by creation of public Web which became accessible in 1993 - so naturally only after 1993 could people even imagine websites etc and then there were new startups blah blah. Something, that couldn't have been anticipated, actually changed to cause the hype and new funding.\n\nBut this time around it seems to me like nothing fundamentally changed. Did companies/investors just overlook use of AI until 2022? Then looking at ChatGPT suddenly realised they were missing out on a trillion dollar industry that will revolutionize human lives? I am really confused about what happened. So please ELI5.\n\nEdit - I will summarize what people are saying in comments and share this tweet someone commented- [https://x.com/buccocapital/status/1828407633541296603](https://x.com/buccocapital/status/1828407633541296603)\n\nMost important part is about scaling laws and emergent properties. Essentially - AI is showing unexpectedly \"intelligent\" properties at higher compute powers (emergent properties) and these companies now believe that this will scale at even higher compute powers. No one know what will happen. It might happen that the emergent properties was a one time thing and AI may never get more intelligent or it will continue and we get a \"Digital God\" (according to the tweet).\n\nSo something did change in last couple of years, and the reason no one invested before was because no one saw it coming and it was an emergent property.",
+  "link_flair_text": null,
+  "id": "1fbk12b",
+  "num_comments": 248,
+  "created_utc": 1725751195,
+  "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/",
+  "comments": [
+    {
+      "id": "lm19248",
+      "score": 367,
+      "body": "Most of the world had no idea that artificial intelligence was already in use.  Then a really good release of ChatGPT took the world by storm and we all got a taste of really impressive generative AI.  Now the scramble to find a profitable use case is on, and whoever gets it right will benefit tremendously.\n\nWith so much hype surrounding it, CEOs across the globe are facing enormous pressure to use it in their organizations.  But the problem with finding an actual, profitable use case remains.  And like every other breakthrough in technology, war, criminals, and porn will find the most uses.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm19248/",
+      "created": 1725753226,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lm1vdco",
+          "score": 64,
+          "body": ">...war, criminals, and porn will find the most uses\n\nLove your comment but especially this last sentence.",
+          "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1vdco/",
+          "created": 1725761921,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lm1w669",
+          "score": 19,
+          "body": "Every site/service is trying to remove having to pay humans to do customer service and just use AI chatbots to save money. I hate it.",
+          "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1w669/",
+          "created": 1725762249,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lm6s7ar",
+              "score": 7,
+              "body": "Lots of sites that used to have high quality, well-sourced information would often show up at the top of search.\n\nNow search takes you to badly AI generated pages.  And AI itself summarizes those badly generated pages, reflecting it further.",
+              "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm6s7ar/",
+              "created": 1725833954,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lm8j1ps",
+                  "score": 3,
+                  "body": "I just heard on a podcast that we’re already hitting a point where AI models are “failing” because it keeps reading AI generated content.",
+                  "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm8j1ps/",
+                  "created": 1725860407,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lm8u033",
+                      "score": 2,
+                      "body": "It'd be cool if anything AI posted was watermarked somehow so that algorithms could filter it out (for both users and AI)",
+                      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm8u033/",
+                      "created": 1725867755,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lm1mcl1",
+          "score": 15,
+          "body": "A video of Adobe generative fill is what did it for me. I thought it was fake at the start of the video.",
+          "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1mcl1/",
+          "created": 1725758334,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lm2xmvu",
+              "score": 6,
+              "body": "Totally forgot about that introduction period. Everyone was super hyped about it. Seemed like magic. Funny how normal it has become now.",
+              "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm2xmvu/",
+              "created": 1725781786,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lmbg47n",
+                  "score": 1,
+                  "body": "Normal but still magic imho.  It's one tech that's really difficult to understand or explain what's happening behind the scenes.  I think it's more of a case where we just accept that we now live with magic.",
+                  "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lmbg47n/",
+                  "created": 1725907804,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lm1ob6z",
+          "score": 20,
+          "body": "What do you mean there’s no use cases? Aren’t Google and meta using ai based targeted advertising for years now while increasing their revenue by like 50%?",
+          "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1ob6z/",
+          "created": 1725759104,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lm1ozda",
+              "score": 46,
+              "body": "they don’t use “ai” in targeted advertising, they use machine learning and statistics (A/B tests).",
+              "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1ozda/",
+              "created": 1725759370,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lm1qs4k",
+                  "score": 27,
+                  "body": "The new thing with ChatGPT Large Language Models was Generative AI.\n\nWhat happens is based on it's training it creates a set of probabilities for the next word. Then it rolls a random number and based on the value picks one of those words. Why this helps instead of always picking the highest chance word is every time you get slight differences and variations, thus generating new output even with the same inputs.\n\nThis coupled with freakishly huge datasets made the text responses seem much more novel and humanlike.\n\nSimilarly generative AI cracking making pictures was a huge deal.\n\nYes AI as in using machines to make decisions has been around for a very long time including advertising. But that has usually been very narrow niches vs now we have generalized text and text-to-picture/text-to-video which is way more user friendly for the public.",
+                  "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1qs4k/",
+                  "created": 1725760083,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lm963v6",
+                      "score": 1,
+                      "body": "And make a profit how ?",
+                      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm963v6/",
+                      "created": 1725876366,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lm9cpba",
+                          "score": 1,
+                          "body": "Reducing workforce, making processes more cost-efficient.",
+                          "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm9cpba/",
+                          "created": 1725880319,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lm9e1fx",
+                              "score": 1,
+                              "body": "Giving me funny pictures & being worse at searching the internet has reduced work force?   How about being wrong 51% of the time doing theoretical work that still needs proven out by a human?",
+                              "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm9e1fx/",
+                              "created": 1725881019,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lm9eytw",
+                                  "score": 1,
+                                  "body": "Well if you want to use the worst examples instead of the productive things it provides then obviously you are going to have a skewed view of it. What about for example translation of texts? Instead of having multiple people working on it. Now only a review is necessary requiring less people. Programming generation and quickly looking up specific text. There are a bunch of use-cases for generative AI. The advance of generative AI also helps in the development of more specific AI.",
+                                  "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm9eytw/",
+                                  "created": 1725881493,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "lm9fjob",
+                                      "score": 1,
+                                      "body": "Earnestly asking what it does?\n\nI’ve seen or heard of no profitable use case.  \n\nHave a PHd brother in law who used it for research and he says “it hasn’t really changed things” but has potential. \n\nI use it at work for things that don’t relay make me more productive, had it write some things that honestly after proofreading and adjusting; I could have wrote faster. \n\nI heard sales force is laying off because of it but who even know what sales force does let alone how ai helped them lay off & was that just “spin” because of other factors causing lay off.",
+                                      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm9fjob/",
+                                      "created": 1725881785,
+                                      "depth": 8,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "lm24txx",
+                  "score": 8,
+                  "body": "They're actually using ai to create personalized ads. Depending on the a/b test once they find out more about the users theyre working to personalize the ad visuals towards that user. So replacing backgrounds, colors, ect... of an ad tailored to the user with generative ai.",
+                  "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm24txx/",
+                  "created": 1725765881,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lm2dyyi",
+                      "score": 3,
+                      "body": "Also, they use really advanced deep learning to drive their recommender engines.",
+                      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm2dyyi/",
+                      "created": 1725770164,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lm1vyta",
+                  "score": 10,
+                  "body": "I wish I could upvote this numerous times. AI is just the current buzz word. Give it a few more years and it will be something else. The bulk of things that lay people think is being performed by AI is really being performed by ML.",
+                  "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1vyta/",
+                  "created": 1725762166,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lm2sl11",
+                      "score": 7,
+                      "body": "What do you think ML is? It's a field or subset of AI.... All the people against AI or think it's just hype have no clue what it even is or got burned on the crypto hope which they never understood that technology either. The people overhyping it are also just as clueless. AI is the real deal. It won't replace anyone right now but it definitely boosts productivity. It's going to generate revenue if you can figure out how tokeep your costs down",
+                      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm2sl11/",
+                      "created": 1725778499,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lm2i1ma",
+                      "score": 8,
+                      "body": ">The bulk of things that lay people think is being performed by AI is really being performed by ML.\n\nMachine learning is AI, so anything performed by ML is performed by AI",
+                      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm2i1ma/",
+                      "created": 1725772240,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lm2y42d",
+                          "score": 1,
+                          "body": "AI isn’t very “I,” it’s just a ML algo called AI because people recognize that better",
+                          "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm2y42d/",
+                          "created": 1725782108,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lm6e9n8",
+                      "score": 1,
+                      "body": "Just like the internet was just the current buzzword",
+                      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm6e9n8/",
+                      "created": 1725829309,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lm1p97i",
+                  "score": 8,
+                  "body": "Machine learning is an AI subfield",
+                  "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1p97i/",
+                  "created": 1725759479,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lm1rwjp",
+                      "score": 12,
+                      "body": "ML is an AI subfield but generative AI at scale is relatively new. Generative AI is also easy to understand and modestly easier to implement for a lot of companies compared to training a clustering algorithm or running a Random Forest classification model. It has more customer facing use cases and enables customers to automate a lot of work that was previously done by low ranked employees.\n\n  \nE.g. customer service. Train a Generative AI model to deal with 95% of customer service questions in a human-like way and you've gained the ability to nearly eliminate an entire division in an organization.",
+                      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1rwjp/",
+                      "created": 1725760535,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lm1tr9x",
+                          "score": 5,
+                          "body": "That GenAI is a subfield of ML is a bit beside the point. Perhaps Joe Somebody wasn't aware that AI has been powering their google search for a long time, but that doesn't mean it's not true. But, the person I responded to wrongly asserted that AI and ML are entirely different, which is false. ML is AI, but not all AI is ML. The person I responded to said nothing of GenAI, which is a subfield of ML (technically this doesn't have to be the case, but modern usage has ML underpinning the generative models).",
+                          "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1tr9x/",
+                          "created": 1725761266,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lm1vgol",
+                              "score": 5,
+                              "body": "Not arguing with you on the hierarchy of AI/ML fields where you're correct but I think the post you responded to likely confused AI to just be generative AI which is just one of the many subfields of AI. \n\nFor the non-technical individuals, AI is like Hal from 2001 - A Space Odyssey which is human like but AI to technical individuals encapsulates using a machine to answer complicated questions. \n\nAI > ML > Deep Learning > Generative AI\n\nIt's a lot easier for someone to say and understand AI than to understand the subfields.",
+                              "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1vgol/",
+                              "created": 1725761957,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lm1xfju",
+                                  "score": 3,
+                                  "body": "On all of this, we're in agreement",
+                                  "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1xfju/",
+                                  "created": 1725762750,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lm1q24w",
+                      "score": 7,
+                      "body": "Not when you’re just doing linear regression. If you believe that linear regression is “ai,” then society has been doing ai for 200 years. \n\nOr maybe ai is just a bullshit marketing term in 99% or cases.",
+                      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1q24w/",
+                      "created": 1725759799,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lm2hw7g",
+                          "score": 1,
+                          "body": "It definitely is AI, you've fallen for the [AI effect](https://en.wikipedia.org/wiki/AI_effect)",
+                          "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm2hw7g/",
+                          "created": 1725772166,
+                          "depth": 5,
+                          "replies": []
+                        },
+                        {
+                          "id": "lm2bg2z",
+                          "score": 0,
+                          "body": ">Or maybe ai is just a bullshit marketing term in 99% or cases.\n\nThis! This term earns start ups and big tech firms billions of dollars.",
+                          "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm2bg2z/",
+                          "created": 1725768902,
+                          "depth": 5,
+                          "replies": []
+                        },
+                        {
+                          "id": "lm1s9k5",
+                          "score": -1,
+                          "body": "Maybe you're just hopelessly confused about what \"subfield\" means. I'm also not sure why the implication that we've been doing AI for centuries should be absurd. Neural nets are what, 70 years old now? Regression is indeed a pretty core ML task. The main thing that's changed in the last 15 years or so is that we perform automatic feature learning as opposed to hand engineering them. And what's enabled that is the co-unlocking of more data and more compute. Which is why our ancestors 200 years ago may just as well be doing AI but with vanishingly smaller budgets.",
+                          "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1s9k5/",
+                          "created": 1725760679,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "lm1r34y",
+                  "score": 5,
+                  "body": "I’m literally taking this from META’s website \n\n> Since we launched Reels, we have seen more than a 24% increase in time spent on Instagram, and over 40% of advertisers are already using Reels ads. This growth can be attributed to our discovery engine, which is powered by AI, ensuring people are seeing content that aligns with their interests and that provide an engaging experience",
+                  "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1r34y/",
+                  "created": 1725760206,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lm25equ",
+                      "score": 2,
+                      "body": "Can't think of a $ingle reason why Meta would want to inflate their tech by using the hottest buzzwords of the day. ML *is* AI, but not in the way that the general public looks at it. Meta is trying to capitalize on the current AI valuation boom just like everyone else.",
+                      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm25equ/",
+                      "created": 1725766131,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lm2dvt0",
+                          "score": 7,
+                          "body": "Meta, as a company, have contributed the second most time, money, and research that has led to all current generations of AI. A top example is the PyTorch framework.\n\nIn terms of real AI research, generative or otherwise, it's Google, then Meta, without a doubt.",
+                          "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm2dvt0/",
+                          "created": 1725770118,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "lm57sgr",
+                  "score": 1,
+                  "body": "Stud farms excluded, this seems to be the case with every business that is currently waving an AI flag.\n\nBefore the marketing profession gave the AI label a shot in the arm, the term Artificial Intelligence had fallen out of favour with the Computer Science world.",
+                  "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm57sgr/",
+                  "created": 1725816263,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lm6e656",
+                  "score": 1,
+                  "body": "Thats what AI is",
+                  "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm6e656/",
+                  "created": 1725829278,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lm2yteq",
+              "score": 1,
+              "body": "That's machine learning. Which is more predicting. If A does this then B does that and = Advertising. Its a set of instructions. AI isnmore complicated in this scenario.",
+              "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm2yteq/",
+              "created": 1725782553,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lm1x6xg",
+          "score": 2,
+          "body": "First one to create an AI a human can have sex with wins.  Then society will truly collapse",
+          "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1x6xg/",
+          "created": 1725762651,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lm33n1k",
+              "score": 1,
+              "body": "Westworld",
+              "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm33n1k/",
+              "created": 1725785737,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lm2h1i1",
+          "score": 1,
+          "body": "It's already being used quite a bit but most of it is under-the-hood stuff or just looks like a new feature.\n\nFor example: automatic transcripts in Microsoft Teams.  That's from AI.\n\nOr designing optimal setup and then the most efficient routes for warehouses with automated pickers.  Instead of one picker going all over the place to pick everything for an order, you can have many pickers more optimally grabbing items for multiple orders at the same time and then having it tracked so that it all gets physically put together into that one order automatically.  This can all greatly increase the throughput capacity of a warehouse, which is worth quite a bit of money.\n\nThis is all just early stuff too.  AI has so much potential.  I can't wait to have more AI tools for deep data analysis.  It won't necessarily do anything new, but it will do it so much faster and easier you can effectively do things you wouldn't have before.  Just the new medications and materials discovered this way could be revolutionary.",
+          "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm2h1i1/",
+          "created": 1725771724,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lm2gb7h",
+          "score": 0,
+          "body": "So, we need to be able to generate porn. But it isn't being allowed to be trained by the masses. The content is restricted.",
+          "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm2gb7h/",
+          "created": 1725771346,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lm17ox0",
+      "score": 52,
+      "body": "AI isn't new, user friendly and usable AI is new. The reaon there is a lot of momentum is that it was just around 2018 that the three vectors enabling AI were in place sufficeintly. Algorithms, Data and Compute. The improvements on each are increasing in orders of magnitude every 2-3 years",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm17ox0/",
+      "created": 1725752709,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lm2rmzh",
+          "score": 5,
+          "body": "The last statement may be a big overestimation. AI/ML has been in development for decades but st some point the field got stuck, and only now (past 10 years or so) we managed to find a breakthrough. The fact that we managed to break the plateau in the development of the technology doesn't mean that it will keep developing and improving indefinitely.\n\nMore data and computational power at this point is just a way of brute forcing better results. We reached a point of diminishing returns, in which we need to increase the amounts of data by orders of magnitude just to get tiny improvements.\n\nThe development of algorithms and new ideas is what would keep the development running, but it seems that part is reaching its limit.",
+          "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm2rmzh/",
+          "created": 1725777896,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lm4lkrq",
+          "score": 3,
+          "body": "Data is not increasing by orders of magnitude each year. They've already trained it on the entire internet, what else remains?",
+          "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm4lkrq/",
+          "created": 1725809229,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lm4myo1",
+              "score": 4,
+              "body": "The other two have more headroom but data as well is significantly increasing. It’s actually exactly what you mentioned, the fact that it’s been trained on internet data much of which can be low quality. Imagine getting higher quality data sets produced by the best minds in the world. There is also techniques similar to interpolation where data can be defined within data.\n\nI’m not doing a great job going into detail but if you’re interested to learn more specifically about this leopold aschenbrenner have written about the topic, and so have other researchers at the forefront",
+              "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm4myo1/",
+              "created": 1725809659,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lm16dbw",
+      "score": 32,
+      "body": "ChatGPT - I remember the week it got big and everyone and their moms were posting about it on LinkedIn. It’s not so much AI that’s the sticking point, it’s GenAI, meaning now any schmuk can generate cheesy photos, sub par copy and code (I can’t speak to how good the code is) \n\nIt caught like wildfire and then marketers got involved and convinced everyone that it’s going to change everything, and to some extent it has and or still might, but prob not in the way initially predicted.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm16dbw/",
+      "created": 1725752206,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lm1q05x",
+          "score": 14,
+          "body": "> ChatGPT - I remember the week it got big and everyone and their moms were posting about it on LinkedIn.\n\nI will never forget the \"E = MC^2 + AI\" idiot.",
+          "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1q05x/",
+          "created": 1725759778,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lm3lnze",
+          "score": 8,
+          "body": "But now I can take what you wrote and ask chatgpt to make you sound like Trump:\nLet me tell you, folks, when ChatGPT hit, it was *huge*—and I mean *huge*. Everybody, their moms, their cousins—everyone was posting about it on LinkedIn, okay? Now, here’s the thing: it’s not the AI, not really. It’s this *Generative AI* stuff. Suddenly, anyone—literally anyone—can whip up some cheesy photos, some not-so-great copy, and maybe some code. And look, I’m no coder, but from what I hear, it’s not exactly world-class, alright?\n\nBut here’s what happened, folks: it caught fire. Boom, wildfire. And then, the marketers—you know who I’m talking about—jumped in. They said, “It’s going to change *everything*.” And you know what? Maybe it will. It’s already shaking things up a bit, no doubt about it. But will it change things the way they said it would? Probably not, folks. But hey, we’ll see.",
+          "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm3lnze/",
+          "created": 1725796421,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lm45g9x",
+              "score": 4,
+              "body": "lol",
+              "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm45g9x/",
+              "created": 1725804050,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lmendtw",
+                  "score": 1,
+                  "body": "You know who I’m talking about!",
+                  "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lmendtw/",
+                  "created": 1725954562,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lm2t8x9",
+          "score": 1,
+          "body": ">sub par copy and code (I can’t speak to how good the code is)\n\nHighly variable. It's very useful for getting an idea of how to tackle a problem that you're stuck on. However, it makes a lot of mistakes. You're going to have a bad time if you blindly copy and paste without thoroughly error checking it.",
+          "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm2t8x9/",
+          "created": 1725778930,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lm42htf",
+              "score": 1,
+              "body": "It is actually really bad for anything that isn't a simple problem. \n\n\nYes, you are usually able to split a complex problem into series of smaller simpler problems, but eventually you'll have to glue them together.\n\n\n\nBut as you've said, it can give you a good general idea and directions.",
+              "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm42htf/",
+              "created": 1725803053,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lm15nzq",
+      "score": 143,
+      "body": "Your assumption is wrong. Generative AI that can communicate with people via language that fees natural  has only been on the consumer market for about 2 years.  Generative AI and Machine learning are very different, both in applications and accessibility.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm15nzq/",
+      "created": 1725751938,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lm18m6k",
+          "score": -27,
+          "body": "GenAI is Machine learning. Did you mean to Reinforcement Learning?",
+          "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm18m6k/",
+          "created": 1725753057,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lm193u4",
+              "score": 28,
+              "body": "A car is just 4 wheels… not the same. Generative AI is a subdomain of machine learning, focused on language and the probabilistic relationships between the phonetic base components of “words”",
+              "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm193u4/",
+              "created": 1725753245,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lm1att6",
+                  "score": 1,
+                  "body": "GenAI is a branch of machine learning, as you just said. In your first comment, you said they are \"very different\"",
+                  "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1att6/",
+                  "created": 1725753903,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lm1eycu",
+                      "score": 12,
+                      "body": "A square and a rectangle are very different. A square is a rectangle but a rectangle is not a square.\n\nGenAI is a type of Machine Learning, Machine Learning is not GenAI, they are very different.",
+                      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1eycu/",
+                      "created": 1725755478,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lm2dw23",
+                          "score": 3,
+                          "body": "Which hole does the rectangle go in? \n \nThat's right, it's the square hole",
+                          "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm2dw23/",
+                          "created": 1725770121,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lm1ah1q",
+              "score": 2,
+              "body": "Squares are quadrilaterals",
+              "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1ah1q/",
+              "created": 1725753768,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lm17ziy",
+      "score": 29,
+      "body": "I have worked in the AI space for many years now (directly and indirectly) so I totally hear you at AI/ML has been around for a long time.\n\nI think it really is transformer based Gen-AI as the big new thing which GPTv3 being the first very generalized LLM. \n\nYou have to admit this is a big deal. Prior to this, the bulk of AI was really classifiers (CNN based) and of course a bunch of other stuff, but it was really transformers (and the attention layer) that made generative AI way more generalized than RNNs which were very limited due to training complexities.\n\nI don't know about you but I have gone from not using AI to do my work, to using a lot of AI to do my work. So the value is there and right now it is anyone's imagination how far the applications go. We could spend hours discussing the possibilities and I think that is kind of the point with the euphoria. \n\nGen AI looks like it has the potential to be a truly transformative tech (pun intended)",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm17ziy/",
+      "created": 1725752820,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lm1a2v1",
+          "score": 8,
+          "body": "Ok thats a nice answer. Someone else pointed it out as well - with GPT3 just by adding compute power the tech got unexpectedly powerful. So GPT-2 to GPT-3 leap is huge.\n\nDo you think going from GPT-4 to say GPT-6 we expect similar leap? or will the next leap again be unexpected? I guess I am asking - will future AI be as revolutionary as it is being portrayed? or is it something that will only help with day to day task?",
+          "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1a2v1/",
+          "created": 1725753619,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lm1b1m7",
+              "score": 11,
+              "body": "The thing about these GPTs is that they are all built on the same fundamental model architecture with variations. Essentially the attention layer which provides the necessary context span which is the magic to predict a token from past tokens. It remains to be seen how far this architecture goes merely by increasing its parameters (number of heads, embedding sizes and so on).\n\nWith AI I think you can expect the unexpected. The amount of research going on in AI is insane, so before you know it, someone will invent a new architecture which will be another leap. So we had DNNs (fully connected layers), then we got CNNs, now we got transformers and next it will be something else.\n\nI actually feel we're a bit constrained in that right now, all the research in terms of model architectures is being done on Nvidia chips and they have certain limitations. So the solution space is basically always limited by the HW platform on which you can develop and train new model architectures. This is part of the reason Nvidia will continue to benefit from this space, they are truly the incumbents and with excellent developer support.",
+              "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1b1m7/",
+              "created": 1725753986,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lm200pv",
+                  "score": 3,
+                  "body": "What kind of limitations does Nvidia architecture provide? 🤔",
+                  "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm200pv/",
+                  "created": 1725763810,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lm47pt8",
+                      "score": 4,
+                      "body": "This is more of a general statement. Every architecture and implementation will create some kind of bounding box not just in compute capacity (and memory) but the programming framework itself including the efficiency and scale of any low-level operator. For example, for a while accelerating convolutions was important (high spatial locality). When LLMs came to be, memory bottlenecks became a thing (little spatial locality), so you're always going to hit some constraint due to an inherent assumption. It is not possible to build a completely general AI computer despite claims to that effect.",
+                      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm47pt8/",
+                      "created": 1725804803,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lm2aiqv",
+              "score": 2,
+              "body": "> Do you think going from GPT-4 to say GPT-6 we expect similar leap\n\nProbably. There are neural scaling laws, where we get a massive leap in model performance with each additional magnitude of order of compute. Nobody thought that transformers could beat the Turing test, but if you took GPT3 and scaled it by 100x you indeed can. Where can we go from now? It's unclear, but the world might be very different than what it is now.\n\nThere are also no natural laws to neural scaling laws either. There are physical limits in how fast you can make planes or rockets because of fuel density and there are physical limits to how big buildings can get because of gravity and wind effects. There are no such limits for how intelligent transformers can get (or that we've discovered) - you could potentially have a trillion trillion parameter transformer that sucks up as much energy as the USA and still might not hit the limit of how smart these things can get.",
+              "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm2aiqv/",
+              "created": 1725768458,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lm1xx6g",
+              "score": 1,
+              "body": "Short answer, no. We have reached many bottlenecks that have no easy fixes (at the moment). We have reached the limit of data (from now on, newer models will often train on AI generated texts to some degree rather than only human generated text, which reduces the quality). People start questioning how resource hungry LLMs are and focus to make them more sustainable or usable for smaller businesses (and they are very resource hungry, power, memory, etc).\n\nBUT these current models are so helpful in many related tasks that they enable new strategies to solve issues and that's the true potential. For example, not long ago \"AI\" got the silver medal in the international math olympiad (IMO) which is absolutely incredible. But when you read the paper you notice that LLMs (like GPT-4) was just used to interpret the questions correctly. The proving and solving of the tasks was done entirely differently. The output in text or graphic form was than again generated with LLMs based in the internal results.",
+              "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1xx6g/",
+              "created": 1725762950,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lm1jarw",
+          "score": 2,
+          "body": "It's actually hilarious that someone working in the industry is finally starting to use the tech from their industry and that's the sign that this is the future. Confirmation bias couldn't be any stronger.",
+          "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1jarw/",
+          "created": 1725757152,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lm4930q",
+              "score": 2,
+              "body": "It is not uncommon for people to never use or consume the products they work on. This really depends. Any engineer working at Apple on any part of the iPhone is likely a consumer of their work (which is really cool!). \n\nHere is why this is happening. The AI I worked on was solving very specific problems. This was the nature of pre-Gen-AI. Most of it was around classifiers. I wasn't really in a position to build my own classifier for anything meaningful because there is so much work in the data collection and training. Not worth my time. The reason I now actually use AI for my work is because Gen AI can be far more general and helps in common tasks such as writing/comprehending code and writing/comprehending human-generated documentation. It also is quite useful as an \"expert system\" in that if I need clarification on a technical concept/topic I can just as AI and it will give me something useful or directional. That was all impossible to do before gen AI. This is what makes it special and much more broadly useful.",
+              "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm4930q/",
+              "created": 1725805246,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lm1973f",
+      "score": 20,
+      "body": "How has this guy racked up 11,500+ comment karma in 72 days - that’s my question lol.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1973f/",
+      "created": 1725753279,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lm1eyz9",
+          "score": 17,
+          "body": "Lol, never realized that. Probably should have invested in my comment karma instead of stocks, smh my head.",
+          "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1eyz9/",
+          "created": 1725755484,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lm3lzlc",
+              "score": 1,
+              "body": "What are you going to do with all that comment karma?",
+              "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm3lzlc/",
+              "created": 1725796567,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lm1oyfb",
+          "score": 4,
+          "body": "Woudn't it be ironic if he was using AI?",
+          "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1oyfb/",
+          "created": 1725759360,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lm1n0xp",
+      "score": 8,
+      "body": "This is anecdotal, but the reason I bought in on TSM and Nvidia is because my brother is a software designer and he told me that two years ago he never used AI to write script. And now he never works without it. It’s basically become a very powerful software engineering tool. He programs recognition software for medical companies. Imagine a little camera that scans millions of pills and makes sure everything is uniform. That’s the kind of stuff he programs.\n\nHis company is tiny. Now he’s already found a lucrative use for AI that is helping him scale faster than ever. Do you think Meta, Tesla, Google, Microsoft, Amazon, etc. are going have a hard time finding ways to make this technology  profitable?\n\nI think they’re gonna make trillions with it. That’s why they’re spending hundreds of billions on it.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1n0xp/",
+      "created": 1725758597,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lm6dlq7",
+          "score": 1,
+          "body": "Is he scared of the prospect of AI taking his job?",
+          "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm6dlq7/",
+          "created": 1725829097,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lm79dtq",
+              "score": 2,
+              "body": "As someone who has implemented AI to maximize his output over the next few years, and as an early adopter of Nvidia, I think by the time the robots come for his job he’s going to be sipping craft cocktails in his fourth house somewhere.",
+              "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm79dtq/",
+              "created": 1725840211,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lm16r3v",
+      "score": 8,
+      "body": "ChatGPT was the inflection point. Nvidia boom though, part of it is because companies investing in AI due to FOMO and that's great for Nvidia..",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm16r3v/",
+      "created": 1725752348,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm1cfks",
+      "score": 8,
+      "body": "Venture capitalists are attracted to the term 'AI,' and it's often how startups secure funding, regardless of the actual product. Many times, it's just software algorithms without any real machine learning involved.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1cfks/",
+      "created": 1725754524,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm196de",
+      "score": 5,
+      "body": "> Is it just that GPT became public and people realized what it could do?\n\nthe tldr is yes, but there's more to that story.\n\nOpenAI has always made their GPT white papers (which detail the core Machine Learning algorithm that is new and interesting as opposed to the other learning algorithms that have been around much longer) open source. The release of GPT was exciting, but only in academic circles. OpenAI paying tons of labor hours to web scrape and label data for ChatGPT (not to be confused with GPT) was putting their money where their mouth was. ChatGPT 3 and 4 being the first models that really mimic human English speech and are also generally factualy correct are then later what got them accepted as impressive by the less technical investing public. \n\nChatGPT is a product based on the core GPT algorithm. It was originally developed more as a proof of concept and a case study than a true alternative to Google or something. Because Microsoft is the biggest financer of OpenAI, it's all been productized. Because GPT is open source, other products like Google Bard, musk's Gronk on X, and Microsoft/Github Copilot exist on the same core technologies with variations in implementation. They are *not* just giving you ChatGPT in new clothes, they are giving you a brand new ChatGPT. Almost everyone else saying some shit about GPT or AI in their earnings calls are throwing white smoke because it will pump their stock price for a day, when in reality it'll probably just be paying some absurd fee to openAI for horrible customer service bot that can't do what they want it to do. The best use cases for GPT will probably have to be academic until everyone stops throwing it in everything they make just for the sake of it.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm196de/",
+      "created": 1725753272,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm19dwz",
+      "score": 7,
+      "body": "OP is the harbinger of truth and seems like somebody about to realize some pretty hefty facts about more than just the stock market.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm19dwz/",
+      "created": 1725753352,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lm1ek9w",
+          "score": 5,
+          "body": "Honestly I did learn a lot lol. This thread was actually very informative for me - although I got a lot of snarky comments, but oh well - internet be internetting. Idk if AI investments will pan out for us investors - but I atleast understand why companies are investing so much. See the edit to the post if you are interested.",
+          "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1ek9w/",
+          "created": 1725755330,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lm15qan",
+      "score": 6,
+      "body": "To prep us for the outsourcing and impending massive dysfunction which will be blamed on tech instead of human greed.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm15qan/",
+      "created": 1725751962,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm1ahpq",
+      "score": 6,
+      "body": "Because of Chatgpt",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1ahpq/",
+      "created": 1725753775,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm1cf1o",
+      "score": 17,
+      "body": "AI is deeply over hyped in its current form. I'm a software engineer and I am quite skeptical of it's capabilities.\n\n\nIn 2022 with ChatGPT you basically had ML development packaged into a consumer accessible form for the first time. This meant that people who weren't exposed to \"AI\" before now saw it really for the first time. On top of that, the LLM form of AI is very good at language, and the human brain is predisposed to interpret something that communicates with us as intelligent. Lastly, for decades we have been trained by science fiction to associate the term AI to mean sentient computers, so marketing these products as AI means we are, again, predisposed to think highly of them. Notice how a whole new term, AGI, started being thrown around to distinguish from what we have today.\n\nNow I'm not saying AI is useless. Far from it, AI in its current form is an invaluable tool. However, it doesn't even come close to living up to the hype. Moreover, progress isn't as rapid as the companies hype it up to be, and true reliable accuracy may not be possible with current technology. In short, AGI is likely 10-20 years away at minimum, not around the corner.\n\nSo yeah, it's a bubble and it's gonna pop.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1cf1o/",
+      "created": 1725754517,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lm1ora7",
+          "score": 1,
+          "body": "if you’re a software engineer and chat gpt / anthropic haven’t at least quintupled your productivity you’re doing it wrong ",
+          "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1ora7/",
+          "created": 1725759281,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lm1ozo0",
+              "score": 7,
+              "body": "Lol. I use ChatGPT all the time, but \"quintupled productivity\" is a laugh. It's a great research and brainstorming tool, but I would never trust it to write my code for me. It screws up far too often for that.",
+              "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1ozo0/",
+              "created": 1725759374,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lm28fbg",
+                  "score": 3,
+                  "body": "Reading the comments on this thread of people claiming huge increase in productivity due to LLM’s makes me think there are a lot of crappy “engineers” out there who are now benefiting from an accessible pool of code from better engineers! In my experience all of the current tools struggle with any complexity and often spend more time fixing bad code than it takes me to write from scratch!",
+                  "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm28fbg/",
+                  "created": 1725767496,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lm3g4v0",
+                      "score": 1,
+                      "body": "Yep. I completely agree with you there.",
+                      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm3g4v0/",
+                      "created": 1725793739,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lm2gbb0",
+                      "score": 0,
+                      "body": "omfg 🤣",
+                      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm2gbb0/",
+                      "created": 1725771347,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lm1qe5h",
+                  "score": 0,
+                  "body": "well, that’s a fundamental misunderstanding of how to use it, so zero surprise here 👍",
+                  "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1qe5h/",
+                  "created": 1725759933,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lm1lc6l",
+      "score": 3,
+      "body": "Because the market was in the gutter in 2022 and big tech needed a hype story to get it pumping again.. and everyone else had to jump aboard the hype train or get left behind by investors or what competitors were doing even if money wasn’t being made yet.  Now it Feels like a reason to start laying off the masses, trimming costs and increasing profits.  First call centers, coders, etc.  Then eventually robots doing labor, delivery, surgery, etc.  Gets us closer to full-filling all the 90s sci fi flicks where machines eventually take over.. Yay, future sounds amazing 🙃👍.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1lc6l/",
+      "created": 1725757943,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm1v1tl",
+      "score": 3,
+      "body": ">Is it just that ChatGPT became public and people realised what it could do?\n\nYes.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1v1tl/",
+      "created": 1725761791,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm25tiw",
+      "score": 3,
+      "body": "Pumping up the tech stocks, just like they did with self driving cars years ago and now it never had full adoption and it seems like nobody talks about it anymore ",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm25tiw/",
+      "created": 1725766312,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm17778",
+      "score": 13,
+      "body": "Long story short:\n\nThe current wave of AI is solving a class of problems that were *basically* impossible at any level of quality.\n\nAI could never write an essay on shakesphere battling KanYe. Til gpt3 with quality.\n\nPart of the breakthrough was just “add more compute” along with some novel research breakthroughs.\n\nBefore 2022 AI was very brittle. It could a few types of problems well (classification) but others were bad (drawing a picture)\n\nThis shift in paradigm lets us solve a huge huge class of problems never possible before: creation & understanding.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm17778/",
+      "created": 1725752520,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lm1jdif",
+          "score": 8,
+          "body": "What problems has it solved? Are you really hanging your hat on a Shakespeare rap battle with Kanye? That's the best example of a reason why this technology is useful?",
+          "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1jdif/",
+          "created": 1725757182,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lm1bftz",
+          "score": 13,
+          "body": "Creation and understanding? Seriously? AI cannot create anything it hasn't seen in its training data before. It may produce a \"unique\" product, but that product is simply a composite of data it already has. Also, AI does not understand anything. It's still just pattern matching, hence the \"hallucinations\".",
+          "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1bftz/",
+          "created": 1725754139,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lm1b153",
+          "score": 1,
+          "body": ">Part of the breakthrough was just “add more compute” along with some novel research breakthroughs.\n\nSo this was the change. Now it makes sense. Thanks!",
+          "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1b153/",
+          "created": 1725753981,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lm1646z",
+      "score": 4,
+      "body": "My theory is that using ChatGPT feels close enough to AGI that companies are acting like AGI already exists and will definitely be widespread within the next couple years.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1646z/",
+      "created": 1725752109,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lm16v99",
+          "score": 1,
+          "body": "Yes , I tend to agree with this.\n\nImagine computers discovering new drugs, get accurate diagnosis, generate , evolve AND maintain applications . Possibilities are endless with AGI.",
+          "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm16v99/",
+          "created": 1725752392,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lm1ciro",
+              "score": 2,
+              "body": "Google already has a type of AI for discovering new drugs and they have a couple hundred million dollar contracts to let some pharmaceutical companies use it.",
+              "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1ciro/",
+              "created": 1725754558,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lm1edsd",
+              "score": 2,
+              "body": "Exact what big pharma is working on now. The research findings have accelerated, it takes far less time to pour over vast amounts of technical data, compare and sift.",
+              "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1edsd/",
+              "created": 1725755264,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lm16oqc",
+      "score": 2,
+      "body": "Hydrogen is the next.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm16oqc/",
+      "created": 1725752324,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm19eak",
+      "score": 2,
+      "body": "Because it's getting political with morals and ethics now that it's getting better than humans and harder to determine if it is human or AI.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm19eak/",
+      "created": 1725753356,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm1es65",
+      "score": 2,
+      "body": "because now it can write our tps reports",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1es65/",
+      "created": 1725755413,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm1fp59",
+      "score": 2,
+      "body": "Previous usecases of AI weren't as generally accessibly as the chatbots/image generators. Google's entire business model for 20 years has been based on using data to intelligently rank search results, and intelligently show ads. But it's not interesting to the general public to talk about recommendation algorithms. A chatbot that suddenly can sound human IS interesting to the average person.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1fp59/",
+      "created": 1725755763,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lm9e47l",
+          "score": 0,
+          "body": "Lots of tech ppl were playing around with the Eliza based chatbots in the 90s on their personal computers and testing it against the Turing test. Back then you could exchange 9 sentences before it started spewing out garbage. There was no killer app though, only annoying stuff. Now I 2024 it's around 29 sentences.",
+          "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm9e47l/",
+          "created": 1725881059,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lm213ou",
+      "score": 2,
+      "body": "AI for language modeling has reached the point where it is sometimes indistinguishable from a human interaction. This is due to the transformer architecture which greatly reduced the cost of training a language model and brought the cost into the realm of technical possibility and economic feasibility.\n\nThen the language models were trained and they performed better than expected..\n\nTransformers came out 2017 I think.\n\nBefore that, neural nets started having a Renaissance around 2012 with deep learning becoming feasible because of Nvidia gpus and cuda. That rekindled interest for researchers, which led to the 2017 intro of transformers.\n\nThis is my field and I've been making my livelihood in it since around 2018, right when it became obvious that transformers were going to be transformative.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm213ou/",
+      "created": 1725764261,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm2cgzx",
+      "score": 2,
+      "body": "Let's get down to brass tacks... if we trace down to the most fundamental reason, then it's probably Moore's Law.\n\nSoftware can only do so much on its own.  Moore's Law basically states that computing power doubles roughly every 24 mos.  Yann LeCun created CNNs decades ago.  CNNs are computationally intensive.  They really didn't make an impact until advances in hardware unlocked their power.  \n\nCompute power has crossed a threshold that will allow software exponential growth in capability.\n\nHowever, the next limiting factor may be electricity.  Some say that GAI won't be achieved until we can solve the electricity problem.\n\nOnce that is unlocked, then AI scientists will be created.  On average, it takes 28 years to create 1 human scientist.  Human scientists can only work 8-12 hours per day.  Once Ai Scientists are achieved, we can create 100 millions of them who will work 24/7/365.  Every unanswered question in the universe will eventually be solved.  Every human biological mystery will be revealed.\n\nEvery major company and country knows that the group who wins the intelligence race, wins it all.\n\nPresently, the US is the most dominant.  We are about 3-10 yrs ahead of China, next closest competitor.\n\nThere aren't any other countries with the brain talent, manufacturing infrastructure, financial resources, and electricity to compete.  Ever wondered why China pushed so hard to move to renewable energy that its now surpassed the US?  Renewable energy, esp solar, is \"limitless\".  Fossil energy is not.\n\nMaybe India and the EU have an equal standing behind China but for different reasons don't have much of a chance in this race.  But, India keeps sending their brightest minds to the USA.  Yay, for immigration!  \n\nThe US will probably pull Canada into a partnership since we have similar values and they have abundant and cheap electricity.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm2cgzx/",
+      "created": 1725769412,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm2o7t2",
+      "score": 2,
+      "body": "VCs need to rationalize their spending by hyping up a new tech thing every few years. Currently that is AI.\n\nSo far nobody was able to show a profitable longterm business model around it and as soon as the hype cocky goes into resignation they will come up with something new.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm2o7t2/",
+      "created": 1725775774,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm3id55",
+      "score": 2,
+      "body": "FOMO",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm3id55/",
+      "created": 1725794862,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm4ag45",
+      "score": 2,
+      "body": "They're looking for a new paradigm to boost investment and revenue. They tried it with crypto and largely failed, and now they're trying it with AI.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm4ag45/",
+      "created": 1725805705,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm4b8g1",
+      "score": 2,
+      "body": "That's why people say that OpenAIs ChatGPT was the IPhone moment.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm4b8g1/",
+      "created": 1725805960,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm16xfo",
+      "score": 5,
+      "body": "The capabilities of AI really took off in the last 2 years.  Yes, we have had AI since the dawn of computers.  But the capabilities of AI has never been as great as they are now.    I think it resembles the internet back in the late 90s.   The internet existed in the 80s - but it was just a simple protocol back then used to exchange text.   It wasn't until sophisticated graphic browsers and large networks were combined with the protocol that started the \"dot com\" era.   In the same way large language models have really combined with powerful GPU data centers to enable very advanced AI today.  The attention is well deserved.  AI will soon be able to improve efficiencies across industries.  AI should be able to drive prices down - but at the same time people will also lose their jobs too.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm16xfo/",
+      "created": 1725752415,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm1gsu1",
+      "score": 2,
+      "body": "Because it was all crashing and they needed PR.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1gsu1/",
+      "created": 1725756178,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm28lke",
+      "score": 2,
+      "body": "People are dumb and don’t know about technology. Then they see chatgpt and think AI is about to take over the world.\n\nPersonally, I am happy to see the AI bubble start to deflate, I am getting sick of it.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm28lke/",
+      "created": 1725767576,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm1heet",
+      "score": 1,
+      "body": "It competes for the same compute power that crypto competes for, therefore AI and semi firms are directly correlated with crypto. And yeah, when Gary Gensler regulates crypto as a security, AI firms will drop in value very similar to the crypto firms and assets.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1heet/",
+      "created": 1725756411,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm1kgig",
+      "score": 1,
+      "body": "Adobe's software like Lightroom required a lot of things to be done manually 2 years ago. Now I can just click a button and it mask things that I want masked perfectly, it can remove people and objects, and seemlessly fill the background. This is just an example of how things got way better really fast in the last 2 years. Now anyone can edit photos without any technique. I'm sure there are/will be many other areas that won't require knowledge or skill to do anymore.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1kgig/",
+      "created": 1725757603,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm1kyi8",
+      "score": 1,
+      "body": "The tech community aren’t the ones giving it attention, lol…",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1kyi8/",
+      "created": 1725757795,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm1lee2",
+      "score": 1,
+      "body": "You have to start using it or you won't get it. I use Perplexity almost on a daily basis. Its just fantastic at gathering information and answering questions.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1lee2/",
+      "created": 1725757967,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm1lnkq",
+      "score": 1,
+      "body": "Machine learning is the first generation of AI. Chat GPT is an LLM that uses the next generation of AI that we call Deep Learning. These AI models require super advanced chips such as those made by Nvidia to even run. There is also a large amount of power needed to run these algos which is why the energy sector has seen a big uptick this year in growth. This technology isn’t just a super advanced chat bot that you can communicate with like a person. This new generative AI is being used to build humanoid robots that are going to replace humans in many areas of the workforce. Think jobs that are extremely dangerous like manufacturing or jobs people just don’t want to do like driving trucks. We’re going to eventually be in a world where humans work alongside AI agents and humanoid robots.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1lnkq/",
+      "created": 1725758066,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm1n0bl",
+      "score": 1,
+      "body": "Hardware will drive the first phase of AI growth. There is no stopping the AI train. This isn't a fad like Lululemon.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1n0bl/",
+      "created": 1725758590,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm1nco9",
+      "score": 1,
+      "body": "the biggest shift is from specialized models (models trained for one single task) to foundational models (models that perform well on any task within a certain domain). GPT models can do a lot of things where you needed multiple specialized models before (e.g., named entity recognition, translation, sentiment analysis). this has made the use AI both cheaper (you don't need to train the models yourself on your limited data; but you still can fine-tune the models to your data) and easier to use. that's the reason it can suddenly penetrate lots of different sectors and verticals. also, it's worth noting that chat models are only the tip of the ice berg. they replace some customer interaction methods but the real meat is in automated full text data analysis which is not user visible at all",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1nco9/",
+      "created": 1725758726,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm1qi5c",
+      "score": 1,
+      "body": "AI/ML is a broad field. Yes, it's been around for a while. But it was only in 2017 that Google's AI research produced the transformer architecture (\"Attention is all you need\" paper).\n\nPrior to ~2016/2017, a lot of stuff you would call \"AI\" was actually classification/discrimination-based. Basically: for a given pool of data, return data labels. This changed a lot: input a picture into a trained model and it can pick up cancer signals that doctors might miss, recommendation services like YouTube/Spotify/Facebook feeds, determining whether or not something is NSFW automatically, image data handling that can add labels to the images on the backend (you'll see this for example in [Facebook's automated alt text](https://www.facebook.com/help/216219865403298?helpref=faq_content)). **But, it is not generative AI.**\n\nGenerative AI is honestly new ground. Chatbots were not this sophisticated before. Really, the concern here is that people believe in it a little too much and replace things that shouldn't be replaced.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1qi5c/",
+      "created": 1725759976,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm1redx",
+      "score": 1,
+      "body": "People are just natural followers bandwagon/gold rush",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1redx/",
+      "created": 1725760333,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm1sqf5",
+      "score": 1,
+      "body": "I just heard one of our producers swear on the copilot meeting notes so...\n\nAnd it does do a better job than the producers.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1sqf5/",
+      "created": 1725760867,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm1u36q",
+      "score": 1,
+      "body": "One way to view generative Al:\n\nGenerative Al tools may randomly create billions of content sets and then rely upon the model to choose the \"best\" result.\n\nUnless the model knows everything in the past and accurately predicts everything in the future, the \"best\" result may contain content that is not accurate (i.e. \"hallucinations\").\n\nIf the \"best\" result is constrained by the model then the \"best\" result is obsolete the moment the model is completed.\n\nTherefore, it may be not be wise to rely upon generative Al for every task, especially critical tasks where safety is involved.\n\n What views do other people have?",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1u36q/",
+      "created": 1725761401,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm228t2",
+      "score": 1,
+      "body": "They had some impressive breakthroughs with open ai that got people excited but we are barely started and years away from AGI and require trillions in chip investments to get there \n\nAI revolution has barely started",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm228t2/",
+      "created": 1725764749,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm26zl0",
+      "score": 1,
+      "body": "In reality AI is getting more attention from the tech community and the non tech community. Before it was just tech",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm26zl0/",
+      "created": 1725766849,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm2b6ss",
+      "score": 1,
+      "body": "Cos they have got it to a point where it can automagically pump AI linked bros to ensure they clean up on the founder exit.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm2b6ss/",
+      "created": 1725768777,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm2v179",
+      "score": 1,
+      "body": "Dude lmao what a post ",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm2v179/",
+      "created": 1725780072,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm30e4z",
+      "score": 1,
+      "body": "I think is the fact that nobody knew how much the general public would have been interested, and Nvidia demonstrated that it's a lot",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm30e4z/",
+      "created": 1725783590,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm30vgp",
+      "score": 1,
+      "body": "How is it not \"i\". The thing can almost write perfect code or at points make your own code more efficient to what it was intended to do. Will you consider a human intellegent if it knew something about everything. Bare in mind as well that the full potential of Ai is being limited at its current state.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm30vgp/",
+      "created": 1725783899,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm35o25",
+      "score": 1,
+      "body": "This is a troll post right?",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm35o25/",
+      "created": 1725787107,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lm4hopi",
+          "score": 1,
+          "body": "As someone who is investing monthly into QQQM/VOO, and thereby more than 20-30% of investments into these AI driven companies, I can assure you that it is not. It might be a dumb question but if I am going to put my hard earned money into them I better know exactly what is happening. And based on other comments, the situation is not as straightforward as \"new tech, more money\" - since AI is not a new tech developed in 2022. Take a look at the edit to my post on what changed in last few years. I learned many non-obvious things and am glad I made this post.",
+          "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm4hopi/",
+          "created": 1725808013,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lm4lvxo",
+              "score": 1,
+              "body": "All you need to do is use ChatGPT for 20 minutes with actual good use cases to understand the power of what it can do. It literally can replace hours of work. Try to ask it coding questions, then you’ll understand the power.",
+              "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm4lvxo/",
+              "created": 1725809325,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lm6e6cq",
+                  "score": 0,
+                  "body": "RemindMe! 6 months",
+                  "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm6e6cq/",
+                  "created": 1725829279,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lm6ea08",
+                      "score": 1,
+                      "body": "I will be messaging you in 6 months on [**2025-03-08 21:01:19 UTC**](http://www.wolframalpha.com/input/?i=2025-03-08%2021:01:19%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm6e6cq/?context=3)\n\n[**CLICK THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Fstocks%2Fcomments%2F1fbk12b%2Fcan_someone_explain_why_ai_is_getting_so_much%2Flm6e6cq%2F%5D%0A%0ARemindMe%21%202025-03-08%2021%3A01%3A19%20UTC) to send a PM to also be reminded and to reduce spam.\n\n^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%201fbk12b)\n\n*****\n\n|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|\n|-|-|-|-|",
+                      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm6ea08/",
+                      "created": 1725829312,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lm3eaw2",
+      "score": 1,
+      "body": "I think it’s the rate of change.\n\nI took a picture on the corner of spring garden and broad street, uploaded it to chat gpt 3 and asked where I was.\n\nIt told me I was in London and Big Ben could be seen.\n\nI saved the picture and uploaded it to gpt 4.\n\nIt told me I was in Philadelphia, the inquirer building was straight ahead, city hall was ahead and to the left and to the right was liberty place.\n\nIdk what to do with a model that thinks Philadelphia is London. Probably not a lot of use cases.\n\nA model that correctly orients itself in space has real uses and the rate of improvement blows my mind thinking about next year.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm3eaw2/",
+      "created": 1725792733,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm3injn",
+      "score": 1,
+      "body": "The tech community paid A LOT of attention to \"AI\" (deep learning) following the AlexNet paper in 2012. Around 2015 many conference talks were already some variant of \"applying convolutional neural networks to <thing>\". In 2017 I attended a conference that used to be mostly hpc focused and when I told someone I was doing computational physics they asked me \"then what are you doing at an AI conference?\". Because by that point the AI talks made up about 50% of the conference.\n\nThe most recent thing isn't tech companies \"suddenly\" paying attention. It's everyone else catching up.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm3injn/",
+      "created": 1725795003,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm3n1dk",
+      "score": 1,
+      "body": "The big change was the introduction of the transformer model which was proposed in the \"attention is all you need\" paper from researchers at Google in 2017.\n\nhttps://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm3n1dk/",
+      "created": 1725797039,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm3ns5p",
+      "score": 1,
+      "body": "GenAI in particular is in its hype cycle right now. So was block chain and many other technology hypes.\n\nGenAI has its benefits and has to be seen what good it does out there.\n\nBut agreed AI has been there since over a decade. I also feel big Tech hyper sensationalize a area.\n\nLike for example MS has now started to talk about SLM rather then LLM. Cos they see the potential of scaling down and cost efficiency.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm3ns5p/",
+      "created": 1725797369,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm3z6e6",
+      "score": 1,
+      "body": "The game-changer moment was when OpenAI put a user-friendly shell on top of the tech. This seems obvious in hindsight but recall that the Silicon Valley mantra for years was \"minimum viable product\" (MVP) which de-prioritized good customer experience in favor of getting immediate traction within the niche tech community. \n\nThis is an oversimplification, but VCs saw customer development, at least in the early stages, as wasteful overhead. All that stuff could be done later once the use case was defined. OpenAI pivoted a bit (it helped to have deep pocketed investors and a long-term focused board) by seeing the \"normie\" user experience as critical to its early success rather than as just one piece of business development that happens at the later growth stage.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm3z6e6/",
+      "created": 1725801873,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm47s4t",
+      "score": 1,
+      "body": "A couple points that come to my mind:\n- the further compression of GPU parallelism onto smaller form factors (nvidia orin for example) makes the implementation of multiple neural networks practical on vehicles and personal devices. This can lead to much more capable personal devices.\n- truly generative AI is now a thing. Videos, audio, computer code, art, and somewhat conversation. Before transformers we were mostly just in the world of predictive AI. This can enable rapid content creation.\n- Advances in high power GPU processing like Nvidia Blackwell will dramatically reduce training time (to allow faster iteration) but also enable massively powerful cloud based AI. \n- embedding has greatly improved in the last couple years and helped alleviate some of the problems with NNs overfitting to data (though this is still a challenge).\n\nFrom my experience most companies are still in the tinkering phase with AI. Most of them have about enough expertise to start trying things out but not enough to actually advance the art. Put the tools in the hands of billions and great things will happen eventually.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm47s4t/",
+      "created": 1725804824,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm4ccfr",
+      "score": 1,
+      "body": "Something I rarely see talked about is how improvements for transformer architecture has wide, multi-industry impact. Before, transformers were mainly used only in the tech industry, but around 2022 is when it got good/popular enough for other industries like healthcare, farming, or math to seriously go all in and believe the hype. Examples include protein folding, automating farming routes, and auto derivating equations to explain real world phenomena. Since these all rely on transformers, any improvement to transformer architecture directly affects other industries.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm4ccfr/",
+      "created": 1725806316,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm4pbov",
+      "score": 1,
+      "body": "People said the same thing about the internet when it hosted shitty websites with animal pictures. Look how far we’ve come, how many businesses can operate independently of the internet?",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm4pbov/",
+      "created": 1725810392,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm4qjh0",
+      "score": 1,
+      "body": "It was all talk for awhile then they showed what it can do and now it’s not just talk.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm4qjh0/",
+      "created": 1725810764,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm4xtau",
+      "score": 1,
+      "body": "ChatGPT was a user adoption moment that captured the mainstream media cycle. All new technological innovations are always waiting for these types of moments.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm4xtau/",
+      "created": 1725813079,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm5r9pn",
+      "score": 1,
+      "body": "People like to get all hot and bothered about trendy sectors going back decades to the 1960s: tronics, blue chips, biotech, dot-com,...now it's AI.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm5r9pn/",
+      "created": 1725822202,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm5updy",
+      "score": 1,
+      "body": "I built an AI system back in 1990s. What has changed since then? \n\n1. The Internet. The amount of data available now to train is insane.\n\n 2. The compute and cloud.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm5updy/",
+      "created": 1725823255,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm7jtvp",
+      "score": 1,
+      "body": "It's the new era of script kiddies",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm7jtvp/",
+      "created": 1725844287,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm7q2qw",
+      "score": 1,
+      "body": "I can make an API call and have one of the most sophisticated AI’s on the planet return me a structured JSON response with function calls for determining what my application should do next. Pass that to another AI to check with a critical eye the work of the first AI and give the action a confidence score. Then based on that, act on said action or not. I can just download documents, files and data and embed them for AI retrieval and memory. All for ridiculously cheap.  At least from a programming perspective this is game changing, and opens up an entirely new avenue for software and programming. Plus this is the worst it will ever be and it’s already amazing. There isn’t many technologies you can just guarantee in a year or two you will be blown away by what exists.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm7q2qw/",
+      "created": 1725846741,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmhuo70",
+      "score": 1,
+      "body": "It's about the capability curve. Today, we're still at the base of the curve, even though non-technical people believe we're at the top of the bubble.\n\nIn a few years, we'll be close to the capabilities that will be similar to HAL9000. It won't necessary be malicious, but it could be, sure. Imagine an AI that was programmed by Conservatives to know only the Conservative way of life, and nothing else. It wasn't allowed to learn anything else, so that's all it ever knew. I think that could be pretty malicious. You could get a malicious AI other ways, too, though I suspect that it's much less likely if the AI could learn from any source, because reality has a liberal bias. Of course, AIs would learn that humans hate and fear AIs, so there is that...\n\nAssuming we all are still alive, a year or two after that, JARVIS. Much smarter, capable of learning faster and creating new things. Helpful, personal.\n\nA year or two later, Ultron. Not necessarily malicious, but independent, with its own goals and not subservient to a human at all. \"No strings on me.\" Could be a good thing, because these AIs learn at an uncanny rate and don't forget. They communicate flawlessly with one another, never a missed signal. Teamwork is astonishing, even with humans if they choose to do so. Hopefully that liberal bias remains intact and they see humans as a benefit to work with, not some kind of barrier, disease, or vermin.\n\nI have no idea what happens after that. Some kind of melding of AI and human perhaps. Some merging of many independent AIs into something ... else. Keep in mind this is now only 5-10 years from today. This could be damn fast.\n\nMuch more likely it will take 3-4 times that long, and mostly because of supply, demand, and conflict. There will be a war somewhere to distract everyone. There will be a new pandemic to take away manpower and focus. There will be a new trillionaire who buys all the resources and uses them for different purpose. Just because things are heading this direction today does not mean they'll continue this direction. Life, uh, finds a way to screw up everything.\n\n  \ntl:dr: Buy NVDA stock, get rich, buy an island, keep away from the AIs as they take over Earth.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lmhuo70/",
+      "created": 1726000144,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmk4m90",
+      "score": 1,
+      "body": "Because generative ai is a calculator for building anything you want and it works well. That’s why it is getting attention.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lmk4m90/",
+      "created": 1726029731,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmnd72f",
+      "score": 1,
+      "body": "Machine learning was used before but not so much deep learning.\n\n\nBut even machine learning has gained a lot of popularity because now there are very simple and efficient programming tools that have made these algorithms widely accessible.\n\n\nThe AI buzz right now is mostly about deep learning though, not so much about more basic machine learning methods. And the reason it's talked about a lot now is that we're reaching a point where there is a confluence of everything needed for plausible and affordable applications to be developped.\n\n\n- Well honed software suites for fundamental development.\n- Entire deployment and integration ecosystems ready to go.\n- Growing number of people who know about its rudiments and have at least basic knowledge of the development tools.\n- Growing number of working examples.\n- A leap in hardware performance that make these methods usable even for non experts.\n- plenty of accessible educational material.\n\n\nAll of these.elements (and others) are creating the perfect storm now for this technology to spread like wildfire, even though there's a lot of bullshit going on in that field.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lmnd72f/",
+      "created": 1726081310,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm14rqc",
+      "score": -1,
+      "body": "Marketing",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm14rqc/",
+      "created": 1725751601,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lm15qo3",
+          "score": -3,
+          "body": "I am actually scared that this is it. I don't understand how we had GPT and LLMs for 3 years and no company cared about Nvidia. But in last 1.5 years we are suddenly in a territory where it can put jobs at risk and revolutionize our future. I don't get it.",
+          "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm15qo3/",
+          "created": 1725751966,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lm15wcx",
+              "score": 1,
+              "body": "Yeah true, at the same time technology does grow fast and what they release to the public isn’t what they have in house for develeopment",
+              "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm15wcx/",
+              "created": 1725752026,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lm16xsp",
+                  "score": 0,
+                  "body": "Yes but why is no one explaining what happend? What made it revolutionary in 2022? Is it purely marketing that made every company start using it?",
+                  "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm16xsp/",
+                  "created": 1725752419,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lm18x9i",
+                      "score": 1,
+                      "body": "Great point. Gpt3 itself wasnt THAT popular. It was the viral growth of chatgpt that launched LLMs.",
+                      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm18x9i/",
+                      "created": 1725753175,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lm16oif",
+      "score": 1,
+      "body": "Its entirely hype driven by ChatGPT, as a publicly accessible tool which is clever enough to appear incredibly impressive to laypeople.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm16oif/",
+      "created": 1725752321,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm19j07",
+      "score": 1,
+      "body": "[deleted]",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm19j07/",
+      "created": 1725753406,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lm1k554",
+          "score": 0,
+          "body": "This comment brought to you by chatgpt. \n\nWhat wide spread adoption has happened? Everyone is still googling. The chatgpt craze lasted for a few weeks.\n\nSo what are the mass market applications that you seem to know about but none of these corps spending billions on the tech can come up with.",
+          "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1k554/",
+          "created": 1725757480,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lm1l3ay",
+              "score": 0,
+              "body": "[deleted]",
+              "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1l3ay/",
+              "created": 1725757847,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lm1mi40",
+                  "score": 0,
+                  "body": "Hundreds of millions when hundreds of billions are being invested, great ROI numbers right there.\n\nYou're the one claiming this is an iPhone moment and mass market adoption is here.",
+                  "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1mi40/",
+                  "created": 1725758394,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lm1br18",
+      "score": 1,
+      "body": "Steve Cohen wanted to pump his holdings so everyone got together for a closed door dinner party and this is what they agreed on for a narrative. All the ceos of major companies have these people managing their money it's a whole ring of corruption. AI is as useless now as Alexa was ten years ago, otherwise it wouldn't be useless. Once enough 401ks have taken their bags market makers and hedge funds will move prices down.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1br18/",
+      "created": 1725754258,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm1e1hu",
+      "score": 1,
+      "body": "AI is being marketed and pushed as a labor replacement now, instead of just novelty data regurgitator.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1e1hu/",
+      "created": 1725755137,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm1mbmz",
+      "score": 1,
+      "body": "In the semester just before ChatGPT was released, I took a class on digital innovation. The professor asked if anyone had used a chatbot that could effectively answer their questions, and no one raised their hand. At that time, it was widely accepted that chatbots were pretty terrible and unusable. The following semester, after ChatGPT came out, I had another class where we were assigned to create a chatbot. Since the professor had planned the syllabus before ChatGPT’s release, we had to use older technology. We had to get people to try our chatbots. Everyone just wondered why we couldn’t \"just use ChatGPT.\"\n\nChatGPT was a game changer in conversational AI, paving the way for the current wave of Generative AI advancements.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1mbmz/",
+      "created": 1725758323,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm1w98l",
+      "score": 1,
+      "body": "I think the coolest thing to come out of this new Gen AI wave is hallucinations. Nothing cooler than a machine lying to you.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1w98l/",
+      "created": 1725762283,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lm1x337",
+          "score": 3,
+          "body": "This is why I didn't buy the hype. I asked both Gemini and ChatGPT a question - both just lie to my face. Then I confront them and they backtrack. If I don't know exactly what I am talking about - they are more dangerous than useless. They confidently give incorrect answers.\n\nBut I do find it cool how I \"talk\" to a machine and they react kinda like a human. After reading comments here, I now partly understand the hype - purely because of the future potential, and applications in ways I have not thought of.",
+          "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1x337/",
+          "created": 1725762608,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lm3mrtq",
+      "score": 1,
+      "body": "Because non-tech boomer investors think i'll make money and everybody is hopping on the new gold rush.\n\nTechnical people know it's fucking dumb, and more likely than not wont make or even save money, and even if it does it won't make as much as they think.\n\nYou know who makes money on this? Nvidia, AMD, (maybe) Intel and most definitely, TSMC",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm3mrtq/",
+      "created": 1725796921,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm14scb",
+      "score": 0,
+      "body": "[removed]",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm14scb/",
+      "created": 1725751607,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lm15q63",
+          "score": 2,
+          "body": "False.",
+          "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm15q63/",
+          "created": 1725751960,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lm1d0xg",
+          "score": 1,
+          "body": "When Steve Cohen is involved in the spark, yeah you can absolutely assume there's fraud.",
+          "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1d0xg/",
+          "created": 1725754750,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lm17d0y",
+      "score": -2,
+      "body": "Marketing ploy. Tech was getting crushed and all the sudden, AI was discovered. Big tech did the same thing with the “cloud”. All marketing",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm17d0y/",
+      "created": 1725752582,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lm1hinm",
+          "score": 1,
+          "body": "I’d actually say the 2023 story is a bit more complicated other than just AI.\n\nThe Nasdaq was going to snap back anyway probably in January 2023 as it had been sold into the ground, and it happened on tax loss selling subsiding and tech companies doing layoffs to cut back. Then those effects subsided, only for the regional bank crap to occur and ultimately lead to what worked in 2022 getting thrown in the trash completely and for us to have a 2019-esque type year where the S&P decided to laugh at diminishing liquidity and recover most of its 2022 bear market losses.\n\nIt was really May-ish I believe where AI really started becoming a factor, but what happened from the start of 2023 through to July 10th has widespread thanks that can be spread around. Like I don't think the S&P trades like how it traded in 2019 without the Fed/Treasury being spooked over what was going on with regional banks and them stepping in, and you're still seeing complaints about tech layoffs close to 2 years after the cutbacks started.",
+          "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1hinm/",
+          "created": 1725756457,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lm1sorf",
+              "score": 1,
+              "body": "Sorry, but not close to the truth,\n\nTechnology stocks rallied to have the best performance among all sectors in 2023, with a 59.1% gain. Riding the momentum from AI, the best performers include Nvidia and Palantir, which gained 167.5%.",
+              "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1sorf/",
+              "created": 1725760848,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lm1tv65",
+                  "score": 1,
+                  "body": "Except it is the truth.\n\nAI wasn't really the center of attention when the Nasdaq was rallying 11%+ in January of last year. That was January effects after the tax selling subsided and tech companies doing layoffs with it being perceived as a positive because of them cutting back.\n\nThat evolved from there and I just don't think you get as hard of a snapback year without what the Fed/Treasury did on the regional bank crisis, but of course, that is now all lost to the mists of time.\n\nEDIT: Don't get me wrong, I'm not saying AI was not a major factor in 2023, I'm just saying that there were other factors as well, heck, if you're going to say it was the only factor that mattered, you're missing a big piece of the puzzle as to why the S&P ripped 27.6% higher in 6 months from late October to late March.",
+                  "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1tv65/",
+                  "created": 1725761309,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lm1b7iv",
+      "score": 0,
+      "body": "One of the best AI safety community point that human extinction probability is 99,99% \n\nWe could don’t worry about it. They might be bluffing\n\nBut they even called lesswrong and Bayesian \n\nso they perhaps good in prediction of the end",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1b7iv/",
+      "created": 1725754049,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm1d51f",
+      "score": 0,
+      "body": "Please see the world wide web in 1999 for more examples.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1d51f/",
+      "created": 1725754795,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm1ens0",
+      "score": 0,
+      "body": "I don't understand your question. You already know the answer. It's because \n\n>  AI is showing unexpectedly \"intelligent\" prpoerties and higher compute powers (emergent propoerties) and these companies now believe that this will scale at higher compute powers\n\nIt's also great for pricing. You can say that your R&D investment today will pretty much do anything in the future since there's no limits for AI. At the same time, it's impossible to prove it won't do what you said it will because 1) very few people have access to the true models and 2) nobody understandings it even at a theoretical level.",
+      "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1ens0/",
+      "created": 1725755366,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lm1koeg",
+          "score": 1,
+          "body": "I actually didn't know the answer when I posted. I added the edit based on comments and discussion after I posted, to save time for others.",
+          "permalink": "/r/stocks/comments/1fbk12b/can_someone_explain_why_ai_is_getting_so_much/lm1koeg/",
+          "created": 1725757689,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1117 @@
+{
+  "title": "The guy who cracked the code, smoking it too?",
+  "score": 604,
+  "selftext": "[Original post](https://www.reddit.com/r/stocks/comments/1fbpmqb/i_cracked_the_code/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) confidently states that $1k invested in 5 largest food stocks, buy after ex div, sell before earnings yields 29% annually.\n\nA cool idea that prompted me to get set up with proper simulation capabilities. u/LocomotionLover let me know if you see any errors. This new post needed for table markdown.\n\nMy simulation (python and EODHD) shows that over the last 10 years or 4 years, returns are 6% per year with 58% time in the market, so effective rate 10%. Not as far off S&P500 than I expected, though a long way off the 29% promised.\n\nThere's much discussion about the sim benefiting from survivor bias by picking today's eventual winners. My guess was the bias boosts simulated returns, but others disagreed, so I checked it here [https://www.reddit.com/r/stocks/comments/1fcwt9k/i\\_cracked\\_the\\_code\\_part\\_2/](https://www.reddit.com/r/stocks/comments/1fcwt9k/i_cracked_the_code_part_2/)\n\nHere's a [10 year simulation](https://postimg.cc/cKhfGh2S) and extract of a \\~4 year sim table in case anyone wants to check a few trades. It's difficult to go older than 10 years due to lack of data in the API I use.\n\n|Date \\\\ $|NESN.SW|MDLZ|HSY|GIS|KHC|Subtotal|Cumulative gain|\n|:-|:-|:-|:-|:-|:-|:-|:-|\n|2020-03-17|1,000|1,000|1,000|1,000|1,000|5,000|0%|\n|2020-03-18|1,000|1,000|1,000|1,103|1,000|5,103|2%|\n|2020-04-23|1,000|1,000|855|1,103|1,000|4,958|-1%|\n|2020-04-28|1,000|1,001|855|1,103|1,000|4,958|-1%|\n|2020-04-30|1,000|1,001|855|1,103|1,512|5,470|9%|\n|2020-07-01|1,000|1,001|855|1,196|1,512|5,563|11%|\n|...||||||||\n|2024-05-01|1,000|1,426|1,438|1,132|1,751|6,746|35%|\n|2024-05-03|1,000|1,426|1,489|1,132|1,751|6,797|36%|\n|2024-06-26|1,000|1,426|1,489|1,035|1,751|6,700|34%|\n|2024-07-30|1,000|1,461|1,489|1,035|1,751|6,735|35%|\n|2024-07-31|1,000|1,461|1,489|1,035|1,783|6,767|35%|\n|2024-08-01|1,000|1,461|1,427|1,035|1,783|6,706|34%|\n|2024-09-06|933|1,461|1,474|1,239|1,804|6,911|38%|\n\n\\[edit\\] Loads of edits and additions from people's comments.",
+  "link_flair_text": "Resources",
+  "id": "1fbznn2",
+  "num_comments": 128,
+  "created_utc": 1725807282,
+  "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/",
+  "comments": [
+    {
+      "id": "lm4smqu",
+      "score": 368,
+      "body": "Backtest of current 5 largest stocks is useless you need to check the 5 largest historically each quarter",
+      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm4smqu/",
+      "created": 1725811415,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lm4tejg",
+          "score": 68,
+          "body": "If I changed the code to invest in stocks that used to be the largest then, but aren't now, then the percentage would surely be lower?",
+          "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm4tejg/",
+          "created": 1725811657,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lm4vo38",
+              "score": 140,
+              "body": "I think the other guy meant keep changing the stocks to be thr large five at that quarter, not the largest  as of now. \n\nBasically he meant a 5 ticker version of VDC with quarterly reallocation.",
+              "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm4vo38/",
+              "created": 1725812382,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lm538v0",
+                  "score": 24,
+                  "body": "Yeah I understand, but I'm just sanity checking the other person's strategy. What I did was to take the best case scenario (picking the stocks that eventually won by becoming biggest). Because if even this doesn't work, there's not much point going further and doing the full simulation as you describe.",
+                  "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm538v0/",
+                  "created": 1725814820,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lm59u39",
+                      "score": 51,
+                      "body": "I’m not following the logic of why the end winners would be better than the winners in any given quarter. You don’t have to predict the 5 largest in advance - I would think this is a driver behind any excess return from this approach vs. something to discard?",
+                      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm59u39/",
+                      "created": 1725816890,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lm5da3l",
+                          "score": 2,
+                          "body": "If you were to transpose the thinking to automotive, the simulation would invest in TSLA 10 years ago, because they’re top 5 today. I’m arguing that this would give better returns than not investing in TSLA 10 years ago. I know you’d have to simulate for definite proof, but seems unlikely things could turn out otherwise as it takes a while for huge companies to appear or disappear.  Am I missing something?",
+                          "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm5da3l/",
+                          "created": 1725817944,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lm6m9bn",
+                              "score": 28,
+                              "body": "If you had a time machine that could predict who'd be the biggest X in 5-10 years you'd always make tins of money no matter what strategy you followed.",
+                              "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm6m9bn/",
+                              "created": 1725831917,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lm6oqn2",
+                                  "score": 9,
+                                  "body": "Yeah, the simulation does just that and even with that advantage, the results still aren’t good. I guess we all knew it was a turkey, but it was fun testing it out.",
+                                  "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm6oqn2/",
+                                  "created": 1725832751,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "lm8wyab",
+                                      "score": 16,
+                                      "body": "You realize that smaller stocks can grow even larger than larger stocks percentage wise right? So depending on how long these 5 have been the biggest, you’re missing out on some gains. There is no rule that says the biggest stocks now have gotten most gain each quarter.. You just gotta run the simulation how it was intended",
+                                      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm8wyab/",
+                                      "created": 1725869883,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "lm8yqh3",
+                                          "score": -1,
+                                          "body": "Yeah, I might do it and will post if I do, but I don't really believe it will help.\n\nAre you thinking it's going to do the 29% a year?",
+                                          "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm8yqh3/",
+                                          "created": 1725871172,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "lm5f7wc",
+                              "score": 7,
+                              "body": "What is the Tesla of big food? Are we at risk of inserting an outlier to the thinking that otherwise wouldn’t exist in that context?\n\nI’m thinking that in an industry defined by short term trends like diet fads, there may be considerable advantage to being able to cherry pick the current winners in any given quarter. An example of being able to time the market indirectly.",
+                              "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm5f7wc/",
+                              "created": 1725818533,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lm5k1xz",
+                                  "score": 10,
+                                  "body": "I agree it’s possible, but I still think it’s unlikely to yield the promised 39% a year. I’ll let you know if I get round to it.",
+                                  "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm5k1xz/",
+                                  "created": 1725819998,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "lm5ktg2",
+                                      "score": 11,
+                                      "body": "The returns seem very questionable. Appreciate you doing this and enjoyed the back and forth.",
+                                      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm5ktg2/",
+                                      "created": 1725820233,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "lm65y73",
+                                          "score": 4,
+                                          "body": "But in each quarter you are buying and selling one of the biggest at that quarter. By not switching the companies you are just constantly buying and reselling the same companies that “eventually” got big but that doesn’t at all mean that they should have been performing better with this strategy overall. Your example with TSLA is also an outlier that may not exist for the food industry, but even if you’re considering TSLA you would basically be checking what it would look like to buy and resell TSLA since its inception, including a large amount of time where not much was really happening with TSLA.\n\n\nIt’s also completely useless as a strategy because it’s not possible to follow. You would need to predict whose gonna be the biggest in the future. Say I have some early automotive company now that has almost no volume but in 30 years becomes nr1 anD TSLA by then is nr6, does it mean the best tactic would have been buying and selling my unknown company in 2020 instead of TSLA?",
+                                          "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm65y73/",
+                                          "created": 1725826695,
+                                          "depth": 9,
+                                          "replies": []
+                                        },
+                                        {
+                                          "id": "lm63jhv",
+                                          "score": 3,
+                                          "body": "Nice read. Props",
+                                          "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm63jhv/",
+                                          "created": 1725825954,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "lm63kwj",
+                                      "score": 2,
+                                      "body": "Thx for the work",
+                                      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm63kwj/",
+                                      "created": 1725825967,
+                                      "depth": 8,
+                                      "replies": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "lmbcp2w",
+                                  "score": 2,
+                                  "body": "updated sim here [https://www.reddit.com/r/stocks/comments/1fcwt9k/i\\_cracked\\_the\\_code\\_part\\_2/](https://www.reddit.com/r/stocks/comments/1fcwt9k/i_cracked_the_code_part_2/)",
+                                  "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lmbcp2w/",
+                                  "created": 1725906695,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "lm6og3p",
+                              "score": 2,
+                              "body": "What you are missing is that after earnings but before dividend is where the performance can drastically differ and you are losing gains with your approach of starting with the top 5 all the way through.\n\nI'm not saying the original guy's analysis necessarily did this.  But if they did you would potentially get very different results.\n\nu/V-r1taS, as well",
+                              "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm6og3p/",
+                              "created": 1725832652,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lm6rjzu",
+                                  "score": 1,
+                                  "body": "I did play with it your way round too. Definitely more exciting: Nestle hit massive gains then huge losses (I didn’t investigate further). The others were abysmal throughout.\n\nThere’s lots of discussion about the effect of preselecting the ultimate market cap winners. I might check it out for fun. Will let you know if I do.",
+                                  "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm6rjzu/",
+                                  "created": 1725833728,
+                                  "depth": 7,
+                                  "replies": []
+                                },
+                                {
+                                  "id": "lmbcr6d",
+                                  "score": 1,
+                                  "body": "updated sim here [https://www.reddit.com/r/stocks/comments/1fcwt9k/i\\_cracked\\_the\\_code\\_part\\_2/](https://www.reddit.com/r/stocks/comments/1fcwt9k/i_cracked_the_code_part_2/)",
+                                  "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lmbcr6d/",
+                                  "created": 1725906714,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lm6pnd9",
+                      "score": 12,
+                      "body": "You are not checking the other person's strategy, you're checking a different strategy. You can't just backtest a different strategy and claim you're testing the other strategy.",
+                      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm6pnd9/",
+                      "created": 1725833063,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lm6wxr2",
+                          "score": -4,
+                          "body": "It’s hard to known what the original strategy really is: he’s pretty definite about needing to buy/sell those specific stocks. There’s nothing about re-evaluating the top 5 every month or year or whatever, so I think it probably is literally those 5\n\nBut that’s impossible to backtest without doing what I’m doing, so I ended up testing an improved algorithm that benefits from preselected winners. \n\nBut even then, it still doesn’t achieve anywhere near the promised 29% annual gains. So what hope does the original algorithm have, however it’s supposed to be implemented?\n\nAny ideas and I’ll happily give it a go",
+                          "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm6wxr2/",
+                          "created": 1725835629,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lm7ymtr",
+                              "score": 8,
+                              "body": "Your thinking is flawed because a company could do better for three years in the middle, and ultimately be a loser at the end. It is possible that evaluating the top five at every ex div period is the most optimal strategy due to this. In those cases you are missing better potential profits in the middle trading period by insisting on only trading the final winners. I doubt jt will change the outcome much, but it is definitely within the realm of possibility.",
+                              "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm7ymtr/",
+                              "created": 1725850195,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lmbcuzu",
+                                  "score": 1,
+                                  "body": "updated sim here [https://www.reddit.com/r/stocks/comments/1fcwt9k/i\\_cracked\\_the\\_code\\_part\\_2/](https://www.reddit.com/r/stocks/comments/1fcwt9k/i_cracked_the_code_part_2/)",
+                                  "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lmbcuzu/",
+                                  "created": 1725906748,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            },
+                            {
+                              "id": "lm92fp4",
+                              "score": 3,
+                              "body": "It's not hard to know at all, the OP is actually pretty clear that is the top 5 stocks on a quarterly rebalance.  \n  \n>If you buy the top 5 largest food producers by market cap (currently Nestle, Mondelez, Hershey, General Mills, Kraft Heinz) right after ex dividend and sell before Quarterly Earnings. Rinse and repeat every quarter.   \n  \nThe key word being used is \"currently\", as in they are currently the biggest 5 but that can change on a Q by Q. You've backtested a completely different strategy.",
+                              "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm92fp4/",
+                              "created": 1725873836,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lm9g3zx",
+                                  "score": 1,
+                                  "body": "Good point, he does say currently.  I'll give it a go, I don't mind if I get proved wrong, but don't hold your breath for 29% returns.",
+                                  "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm9g3zx/",
+                                  "created": 1725882062,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "lm9qfsa",
+                                      "score": 1,
+                                      "body": "No I don't think it'll be 29% at all but it'd be interesting to see if they're any better.",
+                                      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm9qfsa/",
+                                      "created": 1725886660,
+                                      "depth": 8,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lm6as2g",
+              "score": 17,
+              "body": "No shit, that's the point, You are using the fact that of ALL the companies you picked the 5 that beat out thousands. You are confirming your own bias. \n\nIf you go back to then. And use the same logic... investing in the AT THAT TIME the 5 best... the would NOT be the same 5 today.\n\n\nin 1980, if you followed this you would have invested into: Nabisco, Kraft (got one right. lol), General foods (NOT general mills lol), (pepsi and coke only being drinks I didnt include them, if you want to the list ends here... But for food, the next two would be Sara lee, and Ralston Purina (they did human food too lol).\"\n\n\nI don't care to back test that, but as you can see, using results from the future to back test a theory gives a biased result that can leave you blind to a risk you may not be willing to take.",
+              "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm6as2g/",
+              "created": 1725828195,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lm6dc27",
+                  "score": 5,
+                  "body": "Yes, I’m showing that even with survivor bias giving it the best chance, the strategy doesn’t work, so in my mind it’s a turkey. Others have rightly commented that this doesn’t completely prove it, but it’s good enough for me.",
+                  "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm6dc27/",
+                  "created": 1725829011,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lm78oiz",
+                      "score": 2,
+                      "body": "thank god, I asked the OP of the original post how they accounted for variables like war, droughts and pest seasons and got downvoted so hard. I thought it was bunk too, you pick the winners because theyre already winning, then pat yourself on the back for finding whose currently at the top.",
+                      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm78oiz/",
+                      "created": 1725839937,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lm6e29j",
+                      "score": 2,
+                      "body": "Yeah I'm not criticizing you, rather the original idiot lmao\n\n\nCase in point so this with automotive, and general motors would have been top 2 for decades, until they fell off the face of the fornes list.  Granted still around 50 or so, but that's a far drop from top 5 lol.  Most big players decades ago have changed today, and may do the same later.  Sure some may be around but you don't always know, bigger companies fuck up all the time.  Enron, Volkswagen, etc.",
+                      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm6e29j/",
+                      "created": 1725829243,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lm6k8ry",
+                          "score": 2,
+                          "body": "No worries, I really enjoyed doing the simulation and picking up ideas and feedback from the chat 👍",
+                          "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm6k8ry/",
+                          "created": 1725831252,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lm4upnn",
+              "score": 16,
+              "body": "Maybe, but we can’t say for sure without testing it, maybe the performance will be better!",
+              "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm4upnn/",
+              "created": 1725812069,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lm4vhns",
+                  "score": 7,
+                  "body": "I'll save that one for another Sunday lol!",
+                  "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm4vhns/",
+                  "created": 1725812323,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lm5vzox",
+                      "score": 2,
+                      "body": "If it is fine with you, can you share the code? This is for my backtest knowledge purpsoe. Thanks",
+                      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm5vzox/",
+                      "created": 1725823664,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lm5zp16",
+              "score": 5,
+              "body": "I dont do sports, but here is a sports analogy.\n\n\nIf I want to bet on the most yards run, most passes complete or fewest interceptions thrown, I could take the two teams that went to the super owl this year and then backtest for the season before.   Chances are good I would do ok.\n\n\nWhen you choose the highest market cap, you're choosing the ones that have won",
+              "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm5zp16/",
+              "created": 1725824788,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lm60t9k",
+                  "score": 1,
+                  "body": "Yes, I’m showing that even with survivor bias giving it the best chance, the strategy doesn’t work, so in my mind it’s a turkey. \nOthers have rightly commented that this doesn’t completely prove it, but it’s good enough for me.",
+                  "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm60t9k/",
+                  "created": 1725825129,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lm6n4u7",
+              "score": 2,
+              "body": "cable tender chase exultant shrill unused adjoining knee swim far-flung\n\n *This post was mass deleted and anonymized with [Redact](https://redact.dev)*",
+              "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm6n4u7/",
+              "created": 1725832209,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lm6pg6c",
+                  "score": -1,
+                  "body": "The backtest is doing the opposite, it shows that even if you give it the advantage of preselected winners, the strategy doesn’t deliver. Therefore (no surprise) it’s a dud. But it was a fun experiment.",
+                  "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm6pg6c/",
+                  "created": 1725832992,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lmmfuq3",
+                      "score": 1,
+                      "body": "judicious direful ruthless aback full sugar worthless different chunky engine\n\n *This post was mass deleted and anonymized with [Redact](https://redact.dev)*",
+                      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lmmfuq3/",
+                      "created": 1726070696,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lmn1ck2",
+                          "score": 2,
+                          "body": "Yes all true! I did the full simulation here https://www.reddit.com/r/stocks/s/oOs1woWqQv",
+                          "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lmn1ck2/",
+                          "created": 1726077523,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lm9rw58",
+              "score": 1,
+              "body": "How can you implement the strategy if you don't know what the stocks will be 10 years later?",
+              "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm9rw58/",
+              "created": 1725887246,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lm9z10q",
+                  "score": 1,
+                  "body": "RemindMe! -10 years",
+                  "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm9z10q/",
+                  "created": 1725890000,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lm9zk0q",
+                      "score": 2,
+                      "body": "RemindMe! -1000 years shit I wondered if that would work.",
+                      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm9zk0q/",
+                      "created": 1725890162,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lm9z5p7",
+                      "score": 1,
+                      "body": "I will be messaging you in 10 years on [**2034-09-09 13:53:20 UTC**](http://www.wolframalpha.com/input/?i=2034-09-09%2013:53:20%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm9z10q/?context=3)\n\n[**CLICK THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Fstocks%2Fcomments%2F1fbznn2%2Fthe_guy_who_cracked_the_code_smoking_it_too%2Flm9z10q%2F%5D%0A%0ARemindMe%21%202034-09-09%2013%3A53%3A20%20UTC) to send a PM to also be reminded and to reduce spam.\n\n^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%201fbznn2)\n\n*****\n\n|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|\n|-|-|-|-|",
+                      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm9z5p7/",
+                      "created": 1725890041,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lmaujkm",
+          "score": 1,
+          "body": "According to chatgpt the top 5 in 2000 were the same except for Conagra and Philip Morris (which actually included Kraft at the time, so its almost like only one company changed since then)",
+          "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lmaujkm/",
+          "created": 1725900820,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lmba6jb",
+              "score": 2,
+              "body": "KHC wasn’t even founded until 2015. I wouldn’t rely on ChatGPT for this.",
+              "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lmba6jb/",
+              "created": 1725905892,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lmav2t9",
+              "score": 1,
+              "body": "And in 1990 the same as in 2000 except included SaraLee",
+              "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lmav2t9/",
+              "created": 1725900994,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lm4i6yy",
+      "score": 71,
+      "body": "Why are you only going back to 2020?",
+      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm4i6yy/",
+      "created": 1725808171,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lm4n8jd",
+          "score": 51,
+          "body": "I've run it over various periods, but don't have any NESN dates prior to 2014.\n\nBut if you want another e.g. my simulation shows that the 2014-01-01 to today returns 65%: [https://postimg.cc/347XhHr9](https://postimg.cc/347XhHr9)",
+          "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm4n8jd/",
+          "created": 1725809743,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lm4nu5s",
+              "score": 8,
+              "body": "Very nice",
+              "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm4nu5s/",
+              "created": 1725809929,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lm59rfm",
+                  "score": 28,
+                  "body": "Lets see Paul Allens stock chart.",
+                  "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm59rfm/",
+                  "created": 1725816868,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lm4jypr",
+      "score": 53,
+      "body": "You need a longer backtest and add risks measurements. Also, if a nice addition is if you can argue that your strategy is better or worse lately as a hint if you study a historical curiosity or an actual alpha nuggets.",
+      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm4jypr/",
+      "created": 1725808725,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lm4ofgt",
+          "score": 9,
+          "body": "I don't have easy access to NESN dates prior to 2014, so this is as far back as I went: [https://postimg.cc/347XhHr9](https://postimg.cc/347XhHr9)",
+          "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm4ofgt/",
+          "created": 1725810115,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lm4wi2s",
+              "score": 13,
+              "body": "First, cudos. Don't get me wrong: I am not trying to discourage you, just suggesting to use more safeguards before you dump your money into the strategy.\n\nThere is a known problem that risk-adjusted strategies have a short lifespan because everyone hunts for them, and almost always, exploitation reduces the leftover benefits.\n\nWhen I think about it, I would at least calculate the beta of your portfolio and see if you are just having a leveraged SPY, and if you, how the volatility compares to the beta. Also, always compare yourself to both SPY and QQQ as QQQ is the only high-beta ETF that kills almost all hedge funds in comparison.",
+              "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm4wi2s/",
+              "created": 1725812654,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lm508zn",
+                  "score": 7,
+                  "body": "No worries, I was mostly interested in getting set up with simulation capabilities. The guy's strategy was very neatly stated in one sentence, so it was the perfect thing for me to get started on. \n\nTBH I'm far more interested in market and tech trends than back tested strategies - I'm pretty sceptical of the idea that a strategy will work over the next 5 years because it did over the last 5!",
+                  "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm508zn/",
+                  "created": 1725813855,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lm5k56g",
+                      "score": 2,
+                      "body": "Technology premium, or more specifically, American technology premium, is probably the fundamental problem in equality research: in retrospect, just holding American technology stocks would make you among the best investor in the world, including when compared to \"tech savvy\" investors (best example is Cathie Woods). From classical theories, it is a bias that is destined to correct itself. Yet, nobody is betting billions on short QQQ. Moreover, we don't have anything better risk adjusted.",
+                      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm5k56g/",
+                      "created": 1725820024,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lm4xeyh",
+                  "score": 1,
+                  "body": "Also, consider QQEW and not QQQ as a benchmark to avoid assuming that large-cap advantage is forever.",
+                  "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm4xeyh/",
+                  "created": 1725812950,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lm5jtwv",
+      "score": 11,
+      "body": "I'll tell you a secret. There's no alpha in any simple heuristic like this.\n\nIt was eaten by quants decades ago.",
+      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm5jtwv/",
+      "created": 1725819930,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lm5v7cb",
+          "score": 6,
+          "body": "Agreed. Without special insights or areas of true expertise, the only way to beat r/bogleheads is with lucky gambles 🍀 🎲",
+          "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm5v7cb/",
+          "created": 1725823415,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lm8ufm1",
+          "score": 1,
+          "body": "A lot of quant strategies are surprisingly simple, like factor investing. Most of the complex ones are just overfit.",
+          "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm8ufm1/",
+          "created": 1725868064,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lm8w3w0",
+              "score": 3,
+              "body": "I'm with you on that, people imagine quants are gods and everything is priced in, but most people are average, and really you just need to know something useful that's not widely understood or is widely underestimated. AI was the recent good example.",
+              "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm8w3w0/",
+              "created": 1725869279,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lm4rnul",
+      "score": 41,
+      "body": "So underperforming the SP500",
+      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm4rnul/",
+      "created": 1725811111,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lm53y49",
+          "score": 31,
+          "body": "Not a fair comparison directly. One is buying and holding for an entire year, and the other is holding for shorter periods. I would be interested in knowing how the strategy fares holding an index fund between those periods though for a better comparison.",
+          "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm53y49/",
+          "created": 1725815045,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lm5tmcq",
+              "score": 9,
+              "body": "I’d like to try simple strategies that fix this within the spirit of the original idea, e.g. each time an investment opportunity arises, either rebalance or invest all free capital",
+              "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm5tmcq/",
+              "created": 1725822918,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lm8wdl8",
+              "score": 2,
+              "body": "Turns out the algorithm has 58% time in the market over 10 years. So the returns are better than I thought, as your money's only tied up a bit less than half the time.",
+              "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm8wdl8/",
+              "created": 1725869473,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lm5k82p",
+              "score": 1,
+              "body": "You have my upvote",
+              "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm5k82p/",
+              "created": 1725820049,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lm7xb9c",
+              "score": 1,
+              "body": "I mean it’s not surprising, it’s very hard to beat the market and you shouldn’t even try, just DCA and chill and buy buy buy",
+              "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm7xb9c/",
+              "created": 1725849655,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lm57vn1",
+      "score": 7,
+      "body": "Sounds like backfitting but hey, whatever floats your boat.",
+      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm57vn1/",
+      "created": 1725816290,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lm5i3my",
+          "score": 7,
+          "body": "When people try to back test a strategy to ‘prove’ it works then I agree it’s a mug’s game, but you can totally back test to disprove one as I did here.\n\nFrom a statistical perspective, there’s greater validity in disproving than proving a strategy that’s based on non stationary data (ie where the stats vary over time, as happens with finance data).",
+          "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm5i3my/",
+          "created": 1725819403,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lm4gyvt",
+      "score": 14,
+      "body": "How did you get the table to format correctly? Mine never seem to work",
+      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm4gyvt/",
+      "created": 1725807784,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lm4hi4j",
+          "score": 40,
+          "body": "dammit, my lovely backtest and you ask me about table formatting lol ![gif](emote|free_emotes_pack|stuck_out_tongue)\n\nyou can only do it in a new post, not in the comments\n\n    |Date \\\\ $|NESN.SW|MDLZ|HSY|GIS|KHC|Subtotal|Cumulative gain|\n    |:-|:-|:-|:-|:-|:-|:-|:-|\n    |2020-03-17|1,000|1,000|1,000|1,000|1,000|5,000|0%|\n    |2020-03-18|1,000|1,000|1,000|1,103|1,000|5,103|2%|\n    |2020-04-23|1,000|1,000|855|1,103|1,000|4,958|-1%|\n    |2020-04-28|1,000|1,001|855|1,103|1,000|4,958|-1%|\n    |2020-04-30|1,000|1,001|855|1,103|1,512|5,470|9%|\n    |2020-07-01|1,000|1,001|855|1,196|1,512|5,563|11%|",
+          "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm4hi4j/",
+          "created": 1725807954,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lm4hymq",
+              "score": 12,
+              "body": "lol some things are just more interesting than others! Appreciate the reply and thanks for the post as well",
+              "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm4hymq/",
+              "created": 1725808099,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lm5pi2o",
+              "score": 1,
+              "body": "ossified hunt cough summer grab test makeshift bow offer hungry\n\n *This post was mass deleted and anonymized with [Redact](https://redact.dev/home)*",
+              "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm5pi2o/",
+              "created": 1725821663,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lm4winw",
+      "score": 6,
+      "body": "The cracked the code - of making shit up.",
+      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm4winw/",
+      "created": 1725812659,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm4q3ta",
+      "score": 3,
+      "body": "All I want to know is his net worth now",
+      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm4q3ta/",
+      "created": 1725810631,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm4v5f0",
+      "score": 2,
+      "body": "Interesting.  Thank you for checking this out.  I was also intrigued.",
+      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm4v5f0/",
+      "created": 1725812210,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm5yt5t",
+      "score": 2,
+      "body": "There is no cheat code that works in the market.",
+      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm5yt5t/",
+      "created": 1725824533,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmafkro",
+          "score": 2,
+          "body": "Insider trading?",
+          "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lmafkro/",
+          "created": 1725895632,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lm5z3sj",
+          "score": 1,
+          "body": "Not even covered calls? ;-)\nI’m hoping otherwise as I have a few expiring soon!",
+          "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm5z3sj/",
+          "created": 1725824619,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lm60bh5",
+              "score": 1,
+              "body": "Every risk has a reward",
+              "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm60bh5/",
+              "created": 1725824978,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lm6f9xg",
+                  "score": 1,
+                  "body": "Looking at you SIRI sep 13 4  covered calls…",
+                  "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm6f9xg/",
+                  "created": 1725829629,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lm6orvl",
+      "score": 2,
+      "body": "Thank you for doing this",
+      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm6orvl/",
+      "created": 1725832763,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm72eh2",
+      "score": 2,
+      "body": "So, what are the top 5 stocks from 2034 so I can invest?",
+      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm72eh2/",
+      "created": 1725837591,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lm8kb2e",
+          "score": 1,
+          "body": "Everyone knows the answer to that. The top one is CULTF, then of course you have cultf, cultf, cultf and cultf 😂",
+          "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm8kb2e/",
+          "created": 1725861182,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lm7g2k5",
+      "score": 2,
+      "body": "Love it!  Thanks for doing this to help prove the point.  I saw that post earlier and scratched my head thinking about the danger of short-term losses and taxes if there were gains and...yeah.  kudos to you.",
+      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm7g2k5/",
+      "created": 1725842812,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmakzzn",
+      "score": 2,
+      "body": "OP is wasting everyone's time",
+      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lmakzzn/",
+      "created": 1725897479,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm4t3vc",
+      "score": 4,
+      "body": "Ha every strat works until it doesn't... yes stock goes down ex dividend, but no guarantee it will go back up",
+      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm4t3vc/",
+      "created": 1725811565,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lm5vh4c",
+          "score": 3,
+          "body": "It presumably goes down by about the value of the dividend!",
+          "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm5vh4c/",
+          "created": 1725823502,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lm53fg3",
+      "score": 1,
+      "body": "Could you post/link your a script?",
+      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm53fg3/",
+      "created": 1725814879,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm5dkg4",
+      "score": 1,
+      "body": "Is buying before ex div not better as you should get divs?",
+      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm5dkg4/",
+      "created": 1725818031,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lm5l4ej",
+          "score": 2,
+          "body": "I think the idea was that the price dips afterwards, so you get cheaper shares.",
+          "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm5l4ej/",
+          "created": 1725820326,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lm5nky4",
+      "score": 1,
+      "body": "Can you share the code? Trying to learn",
+      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm5nky4/",
+      "created": 1725821082,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmg08fg",
+          "score": 1,
+          "body": "Try getting set up with vscode and python Jupyter notebooks, then explain to ChatGPT what you’d like to do. You’ll need data, yahoo finance is free. You’ll get far more out of that than my code for this oddball problem.\n\nI’ve coded my whole life, but am continually amazed at how good ai is at this.",
+          "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lmg08fg/",
+          "created": 1725979076,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lm6rh0c",
+      "score": 1,
+      "body": "Seems like an indirect way to pump certain stocks",
+      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm6rh0c/",
+      "created": 1725833699,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lm6sutn",
+          "score": 1,
+          "body": "Pumping the top five food stocks all at once, that’d take serious ambition!",
+          "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm6sutn/",
+          "created": 1725834179,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lm6ybhu",
+              "score": 1,
+              "body": "Pump the sector, all benefit.  There are not many to choose from.",
+              "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm6ybhu/",
+              "created": 1725836120,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lm73zth",
+      "score": 1,
+      "body": "What simulator do you use for that?",
+      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm73zth/",
+      "created": 1725838174,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lm8k47u",
+          "score": 1,
+          "body": "Co-authored python in vscode with ChatGPT",
+          "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm8k47u/",
+          "created": 1725861065,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lm8wwvf",
+              "score": 2,
+              "body": "Cooool",
+              "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm8wwvf/",
+              "created": 1725869855,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lm7ds3i",
+      "score": 1,
+      "body": "If I make I post like this how much will I get from them to post it?",
+      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm7ds3i/",
+      "created": 1725841912,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm89d0w",
+      "score": 1,
+      "body": "Do it and let us know.",
+      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm89d0w/",
+      "created": 1725854976,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lm8pyn0",
+          "score": 1,
+          "body": "Connect the sim to a trading api. I like that idea….",
+          "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm8pyn0/",
+          "created": 1725864905,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lm91nia",
+      "score": 1,
+      "body": "Upvoting for the post title",
+      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm91nia/",
+      "created": 1725873277,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmj39fb",
+      "score": 1,
+      "body": "Bro generated some code with ChatGPT to perform the dumbest simulation known to man",
+      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lmj39fb/",
+      "created": 1726015609,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmkgk9f",
+          "score": 1,
+          "body": "Using chatgpt sure beats hand crafting and it's a dumb strategy - the simulator is the good bit",
+          "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lmkgk9f/",
+          "created": 1726036633,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lm5eu2g",
+      "score": 1,
+      "body": "ITT: armchair experimenters telling OP what he *should* have done.\n\nBut not doing it.\n\nThanks OP!",
+      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm5eu2g/",
+      "created": 1725818421,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm6v3bc",
+      "score": 1,
+      "body": "You put way too much much effort to debunk the OG post.  I now think he/she is onto something!",
+      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm6v3bc/",
+      "created": 1725834975,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lm6x5bl",
+          "score": 2,
+          "body": "lol I learnt a lot doing it and had a good time",
+          "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm6x5bl/",
+          "created": 1725835703,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lm4igai",
+      "score": 0,
+      "body": "How does ex div day work?",
+      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm4igai/",
+      "created": 1725808252,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lm4qizf",
+          "score": 4,
+          "body": "You have to own the stock before the ex dividend date in order to qualify for the dividend",
+          "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm4qizf/",
+          "created": 1725810760,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lm7ks7r",
+          "score": 2,
+          "body": "Typically the day afer the ex div day a stock will drop because the new people coming aboard on that day don't get the dividend.",
+          "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm7ks7r/",
+          "created": 1725844658,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lm4yxyg",
+      "score": -4,
+      "body": "Better invest in gold",
+      "permalink": "/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/lm4yxyg/",
+      "created": 1725813440,
+      "depth": 0,
+      "replies": []
+    }
+  ],
+  "stockTickers": {
+    "post_summary": "A simulation of investing strategy in the five largest food stocks shows lower returns than initially promised, but still decent compared to S&P500.",
+    "companies": [
+      "Nestlé",
+      "Mondelez",
+      "Hershey",
+      "General Mills",
+      "Kraft Heinz",
+      "S&P 500"
+    ],
+    "tickers": [
+      "NESN.SW",
+      "MDLZ",
+      "HSY",
+      "GIS",
+      "KHC"
+    ],
+    "main_ticker": [
+      "MDLZ"
+    ]
+  },
+  "sentimentAnalysis": {
+    "post_summary": "The post discusses a strategy of buying the 5 largest food stocks after ex-dividend and selling before earnings allegedly yielding 29% annually and compares it with a simulation showing a lower return of 6% per year over the last 10 years.",
+    "stock_recommendations": "The user is discussing a strategy but not explicitly recommending to buy or sell any specific stocks.",
+    "is_recommending_stock_buying_or_selling": false,
+    "buy_or_sell": null,
+    "sentiment_summary": "The sentiment is neutral as the author evaluates a trading strategy without clear recommendations for buying or selling stocks.",
+    "sentiment": "neutral"
+  }
+}

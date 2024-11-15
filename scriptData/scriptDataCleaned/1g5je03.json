@@ -1,0 +1,1476 @@
+{
+  "title": "How do I change the font color from Red to Green?",
+  "score": 4186,
+  "selftext": "I Lost this much money over the past 4 years of trading. I didn’t start with 24k. But I kept adding and adding and losing till I got to this point. However, it’s come back season watch me go even lower. ",
+  "link_flair_text": "Loss",
+  "id": "1g5je03",
+  "num_comments": 212,
+  "created_utc": 1729141810,
+  "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/",
+  "url_overridden_by_dest": "https://i.redd.it/goep3ifd29vd1.jpeg",
+  "comments": [
+    {
+      "id": "lsbj156",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 1 | **First Seen In WSB** | 2 years ago\n**Total Comments** | 6 | **Previous Best DD** | \n**Account Age** | 2 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsbj156/",
+      "created": 1729141816,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsbnb7s",
+      "score": 1649,
+      "body": "When looking at the CSS file you’ll wanna locate the ID# of “sdp-price-chart-graph” and then find the SVG path of “d:”.\n\nYou’ll wanna change the “stroke” from “var(—rh\\_\\_semantic-negative-base);” to “stroke: rgb(0 182 40);” which should be identical to Green color you’re looking for when changing the line.\n\nTo change the literal font color, find the that CSS class/ID respectively, and change the “font-color: #FF5000;” to “font-color: rgb(0 182 40);” to give the text the same color as your graph line.\n\n/s\n\nhttps://preview.redd.it/3ijq39bcc9vd1.jpeg?width=3024&format=pjpg&auto=webp&s=820827c45e56183219b95fcae76e0bf2e97b4693\n\n⬆️End Example⬆️",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsbnb7s/",
+      "created": 1729144290,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lsc5u97",
+          "score": 611,
+          "body": "This worked for me and I can finally afford groceries!! You’re the best!",
+          "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsc5u97/",
+          "created": 1729156815,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lsd8n61",
+              "score": 130,
+              "body": "Now tell me how to get rid of the “-“ in front of my port balance",
+              "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsd8n61/",
+              "created": 1729174978,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lsdgx27",
+                  "score": 95,
+                  "body": "Delete the app",
+                  "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsdgx27/",
+                  "created": 1729177691,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lse115z",
+                  "score": 56,
+                  "body": "Add another -",
+                  "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lse115z/",
+                  "created": 1729184070,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lscps3f",
+          "score": 101,
+          "body": "Also add transform: scaleY(-1) to flip it and make it looks like it’s going up!",
+          "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lscps3f/",
+          "created": 1729167866,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lsd7r0t",
+          "score": 66,
+          "body": "“Fund managers hate this one trick… “",
+          "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsd7r0t/",
+          "created": 1729174676,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lsegnv5",
+          "score": 23,
+          "body": "After all these years someone actually answered this question in earnest. ![img](emote|t5_2th52|4271)![img](emote|t5_2th52|8882)",
+          "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsegnv5/",
+          "created": 1729188961,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lsdehl9",
+          "score": 18,
+          "body": "Someone give this guy an award. No wait. I’ll do it",
+          "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsdehl9/",
+          "created": 1729176908,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lsedogw",
+          "score": 9,
+          "body": "Lol you're too accomplished for this sub🍻😁",
+          "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsedogw/",
+          "created": 1729188023,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lscf8nx",
+          "score": 29,
+          "body": "This is epic",
+          "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lscf8nx/",
+          "created": 1729162759,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lscv83x",
+          "score": 4,
+          "body": "While you're at it, can I have the code to change my willingness to kill myself?",
+          "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lscv83x/",
+          "created": 1729170111,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lsbws4y",
+      "score": 609,
+      "body": "https://preview.redd.it/ql4q9jkxr9vd1.jpeg?width=1284&format=pjpg&auto=webp&s=9c7cae40d9e200452f085e6408bf02f71c136efd",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsbws4y/",
+      "created": 1729150408,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lsclysn",
+          "score": 171,
+          "body": "Username checks out",
+          "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsclysn/",
+          "created": 1729166145,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lsbjxgg",
+      "score": 195,
+      "body": "[deleted]",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsbjxgg/",
+      "created": 1729142317,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lscegx7",
+          "score": 17,
+          "body": "Phosphorus you fool!",
+          "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lscegx7/",
+          "created": 1729162329,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lsh3voz",
+              "score": 3,
+              "body": "Activated Emeril actually",
+              "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsh3voz/",
+              "created": 1729222892,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lsbmw3d",
+      "score": 158,
+      "body": "Just do the opposite of what you've been doing",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsbmw3d/",
+      "created": 1729144038,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lseib72",
+          "score": 10,
+          "body": "this",
+          "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lseib72/",
+          "created": 1729189484,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lsc3r9o",
+      "score": 136,
+      "body": "If you had put it in the S&P you'd have like $42k now.",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsc3r9o/",
+      "created": 1729155345,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lsdkhb4",
+          "score": 94,
+          "body": "Sir this is a casino.",
+          "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsdkhb4/",
+          "created": 1729178833,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lsgwgcr",
+              "score": 15,
+              "body": "Yes we only lose money here.",
+              "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsgwgcr/",
+              "created": 1729219691,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lsgzg7k",
+              "score": 8,
+              "body": "Sluts & Poker",
+              "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsgzg7k/",
+              "created": 1729220934,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lsci2yp",
+          "score": 34,
+          "body": "Someone should tell OP about SPY",
+          "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsci2yp/",
+          "created": 1729164263,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lseomr7",
+              "score": 18,
+              "body": "Who's a spy?",
+              "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lseomr7/",
+              "created": 1729191492,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lsgqnrh",
+                  "score": 4,
+                  "body": "![img](emote|t5_2th52|4271)",
+                  "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsgqnrh/",
+                  "created": 1729217410,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lsgw28b",
+          "score": 2,
+          "body": "Should have dumped it all into tqqq and deleted the app.",
+          "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsgw28b/",
+          "created": 1729219534,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lsbkpbd",
+      "score": 42,
+      "body": "Over 4 years? Did you just like never learn from any mistakes? Do you... still buy gyna pumps? Penny stocks? Some regarded shit has to be going on here.",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsbkpbd/",
+      "created": 1729142753,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsc0hql",
+      "score": 29,
+      "body": "Wendy's has great coupons now.",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsc0hql/",
+      "created": 1729153037,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsbjfr4",
+      "score": 38,
+      "body": "Make better choices and the color changes.",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsbjfr4/",
+      "created": 1729142044,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lscyjct",
+      "score": 17,
+      "body": "Go stare at the sun for 10 seconds",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lscyjct/",
+      "created": 1729171385,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsbk5fv",
+      "score": 9,
+      "body": "Did you research about what you were doing exactly? Did you try and learn about the strategies you used or companies you were investing in?",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsbk5fv/",
+      "created": 1729142442,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lsbl4ge",
+          "score": 13,
+          "body": "Strategies I used 😂.\n1. Buy 1 share of everything. \n2. By a stock thats down alot at after 2 hours of the market.\n3. Buy TikTok stocks. \n4 learned options. And applied strategy 2. \n5 wait for a doji candle break and make 10 percent on an option for any stock. \n6 “ currently” support and resistance with some other indicators. \nEverything failed so far.\n6 turned my 400 to 1500",
+          "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsbl4ge/",
+          "created": 1729142994,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lsblcpb",
+              "score": 20,
+              "body": "Oh boy. Maybe keep it simpler?",
+              "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsblcpb/",
+              "created": 1729143127,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lsbmy5n",
+                  "score": 23,
+                  "body": "Yeah, stopping at \"buy one of everything\" would've been good tbh.",
+                  "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsbmy5n/",
+                  "created": 1729144073,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lsc9mgt",
+              "score": 16,
+              "body": "If by \"everything\" you mean a certain set of 503 stocks, then brother, I have some news for you...",
+              "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsc9mgt/",
+              "created": 1729159399,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lsg2r09",
+              "score": 4,
+              "body": "This sounds like a toddler trading",
+              "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsg2r09/",
+              "created": 1729208523,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lsbjk12",
+      "score": 21,
+      "body": "Eat green crayons only",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsbjk12/",
+      "created": 1729142109,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lseoism",
+      "score": 9,
+      "body": "Buy and hold stocks. It's actually incredibly easy. Stop trading options, you clearly do NOT know what you're doing. You learned your lesson now stop.",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lseoism/",
+      "created": 1729191458,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsbjw1f",
+      "score": 15,
+      "body": "Whatever you are telling yourself to do, do the opposite of that",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsbjw1f/",
+      "created": 1729142294,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsbzj12",
+      "score": 7,
+      "body": "Borrow money from grandma",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsbzj12/",
+      "created": 1729152349,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lsdlf6g",
+          "score": 8,
+          "body": "And put it all in intel, all of it. Doesn't question it, just trust me bro",
+          "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsdlf6g/",
+          "created": 1729179134,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lsc7zkv",
+      "score": 7,
+      "body": "By disabling options",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsc7zkv/",
+      "created": 1729158317,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lscvjze",
+      "score": 7,
+      "body": "Switch to japanese",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lscvjze/",
+      "created": 1729170242,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsdg7gw",
+      "score": 7,
+      "body": "Just get like 22000 and add it your account it will change the font color to green for 38 seconds . Rinse repeat",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsdg7gw/",
+      "created": 1729177462,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsbo8wf",
+      "score": 6,
+      "body": "By not gambling in options",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsbo8wf/",
+      "created": 1729144858,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsbowra",
+      "score": 6,
+      "body": "Have tried doing the opposite of what you're doing?",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsbowra/",
+      "created": 1729145270,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsbrd73",
+      "score": 5,
+      "body": "No need for a color switch. Flip your screen every time you open that and continue on what you're doing",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsbrd73/",
+      "created": 1729146824,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsbng7k",
+      "score": 6,
+      "body": "All in on WOLF contracts and you're gonna be back. Thank me later",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsbng7k/",
+      "created": 1729144374,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsc1jh3",
+      "score": 4,
+      "body": "Have you tried unplugging and plugging back in?",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsc1jh3/",
+      "created": 1729153779,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lse2sfr",
+      "score": 4,
+      "body": "You are down ~93% which feels bad but it feels worse when you realise that you should get +1445% to reach zero losses.",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lse2sfr/",
+      "created": 1729184621,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsgpkdl",
+      "score": 5,
+      "body": "https://preview.redd.it/nlxr6egr9fvd1.png?width=1282&format=png&auto=webp&s=cdce61c841632e8c4599a74936e93ce4cd3e1eff\n\nthere is a place in Brazil that reminds me this chart. it is called \"serra dos órgãos\" and is located in the state of rio de janeiro. this mountain, specifically, is called \"dedo de Deus\" (finger of God)",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsgpkdl/",
+      "created": 1729216984,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsctxa0",
+      "score": 3,
+      "body": "Wolfspeed Long 🚂🚂🚂",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsctxa0/",
+      "created": 1729169596,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lseno47",
+      "score": 3,
+      "body": "Stop buying options",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lseno47/",
+      "created": 1729191188,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsbjiyh",
+      "score": 2,
+      "body": "![img](emote|t5_2th52|4276)",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsbjiyh/",
+      "created": 1729142093,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsbtlnr",
+      "score": 2,
+      "body": "I feel your pain.....I got in on Nio @ $20 🥲\n\nNio Investors be like #iykyk.",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsbtlnr/",
+      "created": 1729148264,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsc0hxr",
+      "score": 2,
+      "body": "Flip it upside down then the color doesn’t matter, it’s all about line go up",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsc0hxr/",
+      "created": 1729153041,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsc5hvj",
+      "score": 2,
+      "body": "What you want to do is get the green crayon...",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsc5hvj/",
+      "created": 1729156569,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsca0t7",
+      "score": 2,
+      "body": "Do what that top left word says instead of trading (gambling).",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsca0t7/",
+      "created": 1729159654,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsccb26",
+      "score": 2,
+      "body": "Get good son.",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsccb26/",
+      "created": 1729161068,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lscfyvu",
+      "score": 2,
+      "body": "Go to Japan ?",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lscfyvu/",
+      "created": 1729163155,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsetxhl",
+      "score": 2,
+      "body": "Settings > Accessibility > Vision > Display & Text Size > Classic Invert = On",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsetxhl/",
+      "created": 1729193182,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsev09k",
+      "score": 2,
+      "body": "Go to china",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsev09k/",
+      "created": 1729193523,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lshaur5",
+      "score": 2,
+      "body": "Bro you are my twin. Also lmk when you figure out how to change to green.\n\nhttps://preview.redd.it/966jx1yr1gvd1.jpeg?width=1170&format=pjpg&auto=webp&s=af99f36e66361fd416473a3a011ed9c0a66f099d",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lshaur5/",
+      "created": 1729226359,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsirhgd",
+      "score": 2,
+      "body": "Max Payne",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsirhgd/",
+      "created": 1729256686,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsbkfz2",
+      "score": 3,
+      "body": "Take that $1500 and buy BTC hold for 40 years",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsbkfz2/",
+      "created": 1729142607,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsbne3w",
+      "score": 4,
+      "body": "I'm not sure what that is for a broker, I'm assuming RH, but most brokers allow you to go into settings and invert colors. Some even have a setting to invert the chart so short sellers can make the same mistakes in a different direction and color.  It's super fun when you're regarded and forget that you switched it up while drinking and find some awesome penny stocks to \"invest\" in. See you at Wendy's, my friend!",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsbne3w/",
+      "created": 1729144338,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsbrzzc",
+      "score": 3,
+      "body": "There is a trendline that acts as a resistance which makes your investment go lower, and it looks like you're going for it again. Goodluck.",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsbrzzc/",
+      "created": 1729147230,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsbn6h0",
+      "score": 1,
+      "body": "full port into spy 582-585c expiry 10/18",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsbn6h0/",
+      "created": 1729144210,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsbrb17",
+      "score": 1,
+      "body": "You need to turn your phone otherway",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsbrb17/",
+      "created": 1729146785,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lscakwj",
+          "score": 2,
+          "body": "Maybe turn it off altogether.",
+          "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lscakwj/",
+          "created": 1729160007,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lsbyo1m",
+      "score": 1,
+      "body": "You have a long way to go before figuring this out",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsbyo1m/",
+      "created": 1729151733,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsc1xep",
+      "score": 1,
+      "body": "Just Curious, can you share your stocks that you were holding?",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsc1xep/",
+      "created": 1729154055,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsc9wkq",
+      "score": 1,
+      "body": "Photoshop",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsc9wkq/",
+      "created": 1729159579,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lscc0ip",
+      "score": 1,
+      "body": "photoshop is going to be easiest.",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lscc0ip/",
+      "created": 1729160891,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lscds71",
+      "score": 1,
+      "body": "Just enter the 4th dimension and flip the phone.",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lscds71/",
+      "created": 1729161941,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsce921",
+      "score": 1,
+      "body": "What are you even interesting in?",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsce921/",
+      "created": 1729162206,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsch8df",
+      "score": 1,
+      "body": "NVDA - this shits easy.",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsch8df/",
+      "created": 1729163827,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsciqbw",
+      "score": 1,
+      "body": "Thats the neat part, you dont",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsciqbw/",
+      "created": 1729164593,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsclqtd",
+      "score": 1,
+      "body": "close all your positions, split what's left between QQQ and SPY, delete the app, quit this subreddit, and then reinstall it after two years.",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsclqtd/",
+      "created": 1729166042,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lscm5lh",
+      "score": 1,
+      "body": "Better life decisions I suppose.",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lscm5lh/",
+      "created": 1729166233,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lscnoan",
+      "score": 1,
+      "body": "https://www.reddit.com/r/wolfspeed_stonk/s/m2eT7nX29Q",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lscnoan/",
+      "created": 1729166933,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lscnv7h",
+      "score": 1,
+      "body": "By adding 22,649.99! You got this!!",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lscnv7h/",
+      "created": 1729167021,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lscobtr",
+      "score": 1,
+      "body": "*In order to switch from red to green, to start with you have to switch from regard to non-regards status. Too tough for many of us.*",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lscobtr/",
+      "created": 1729167230,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lscocf5",
+      "score": 1,
+      "body": "Deposit more money 💰 🤑 💸 ![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4271)",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lscocf5/",
+      "created": 1729167237,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lscp6cu",
+      "score": 1,
+      "body": "NVDA is green.",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lscp6cu/",
+      "created": 1729167605,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lscq56p",
+      "score": 1,
+      "body": "Have you tried not having Down's Syndrome?",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lscq56p/",
+      "created": 1729168023,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lscubs5",
+      "score": 1,
+      "body": "What do you expect when you use red lines for your technical analysis![img](emote|t5_2th52|4267)",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lscubs5/",
+      "created": 1729169756,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lscusl3",
+      "score": 1,
+      "body": "Just buy SPY calls after a dip.",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lscusl3/",
+      "created": 1729169941,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lscvxkc",
+      "score": 1,
+      "body": "Go to Japan. For whatever reason they use the colors inverted.",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lscvxkc/",
+      "created": 1729170389,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lscweiy",
+      "score": 1,
+      "body": "Whatever you did here just do the opposite",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lscweiy/",
+      "created": 1729170572,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lscww78",
+      "score": 1,
+      "body": "crispr should be able to edit your genes, but I'm not sure if it'll let you develop color blindness",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lscww78/",
+      "created": 1729170761,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lscwyxl",
+      "score": 1,
+      "body": "Nice slope pattern! Keep up the great work!",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lscwyxl/",
+      "created": 1729170790,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsd1z32",
+      "score": 1,
+      "body": "I know you can turn it upside down and looks good. Pretend red is Green.",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsd1z32/",
+      "created": 1729172655,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsd2n2o",
+      "score": 1,
+      "body": "Click the gold button and they’ll send you some. Works every time. ",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsd2n2o/",
+      "created": 1729172893,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsd47c4",
+      "score": 1,
+      "body": "I think you need to travel faster than speed of light",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsd47c4/",
+      "created": 1729173447,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsd5wce",
+      "score": 1,
+      "body": "Short whatever u bought, there u go pal!",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsd5wce/",
+      "created": 1729174039,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsd6jsk",
+      "score": 1,
+      "body": "Easy. Buy WOLF!",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsd6jsk/",
+      "created": 1729174264,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsd9fv3",
+      "score": 1,
+      "body": "How? We are in a bull market",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsd9fv3/",
+      "created": 1729175249,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsd9iam",
+      "score": 1,
+      "body": "Makes better life choices.",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsd9iam/",
+      "created": 1729175272,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsddvi7",
+      "score": 1,
+      "body": "Thank u for my first genuine laugh today",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsddvi7/",
+      "created": 1729176710,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsdfv9s",
+      "score": 1,
+      "body": "Evtols",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsdfv9s/",
+      "created": 1729177351,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsdiak7",
+      "score": 1,
+      "body": "Transfer $25k",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsdiak7/",
+      "created": 1729178133,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsdl7d9",
+      "score": 1,
+      "body": "just turn it upside-down",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsdl7d9/",
+      "created": 1729179065,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsdmh2j",
+      "score": 1,
+      "body": "Check the app settings.",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsdmh2j/",
+      "created": 1729179472,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsdoewo",
+      "score": 1,
+      "body": "![img](emote|t5_2th52|31226)",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsdoewo/",
+      "created": 1729180079,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsdpo6b",
+      "score": 1,
+      "body": "Only click on one that is green. If none are you are screwed. I never click on the ALL one.",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsdpo6b/",
+      "created": 1729180471,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsdrvlc",
+      "score": 1,
+      "body": "Ay just let me know when you’re making a bet next time and I’ll show you.",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsdrvlc/",
+      "created": 1729181164,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsds8pn",
+      "score": 1,
+      "body": "I suggest you colour it in lol",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsds8pn/",
+      "created": 1729181281,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsdtuo5",
+      "score": 1,
+      "body": "Idk I'm color blind bro.",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsdtuo5/",
+      "created": 1729181797,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsdudp4",
+      "score": 1,
+      "body": "Just flip your phone upside down, the graph will go upward",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsdudp4/",
+      "created": 1729181966,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsdyv39",
+      "score": 1,
+      "body": "All you have to do is flip your phone upside and then these are actually very impressive gains",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsdyv39/",
+      "created": 1729183394,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsdzd3u",
+      "score": 1,
+      "body": "If your loosing money in this market stop everything only buy voo this is poor decision making and no safety net your just gambling",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsdzd3u/",
+      "created": 1729183551,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lse1ng2",
+      "score": 1,
+      "body": "Go into the settings and find it under Get Gud",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lse1ng2/",
+      "created": 1729184261,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lse3nxv",
+      "score": 1,
+      "body": "Turn that frown upside down",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lse3nxv/",
+      "created": 1729184898,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lse7fls",
+      "score": 1,
+      "body": "What were your main trades?",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lse7fls/",
+      "created": 1729186082,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lse8gmv",
+      "score": 1,
+      "body": "Settings > Accessibility > Display & Text Size >  Classic Invert",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lse8gmv/",
+      "created": 1729186403,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lseco9p",
+      "score": 1,
+      "body": "Stop playing options",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lseco9p/",
+      "created": 1729187712,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lseebs9",
+      "score": 1,
+      "body": "Have you tried a marker?",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lseebs9/",
+      "created": 1729188229,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsemu3g",
+      "score": 1,
+      "body": "Learn to trade, in other word learn to read and understand trends!  I could help",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsemu3g/",
+      "created": 1729190925,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsennt0",
+      "score": 1,
+      "body": "i like red so much agressive and so cool, like it",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsennt0/",
+      "created": 1729191185,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lseo8xl",
+      "score": 1,
+      "body": "In iphone,  \n1. Go to Settings > Accessibility > Display & Text Size  \n2. Turn on Smart Invert or Classic Invert",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lseo8xl/",
+      "created": 1729191371,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lser83h",
+      "score": 1,
+      "body": "You’re going to have to start fading yourself out. Looks to me you’re wrong almost 93% of the time. You switch up last second. That flips that percentage in your favor. I think. I hope this was helpful.",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lser83h/",
+      "created": 1729192324,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lser88f",
+      "score": 1,
+      "body": "Invert colors",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lser88f/",
+      "created": 1729192325,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsf692i",
+      "score": 1,
+      "body": "Turn on colorblind mode and set it to green",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsf692i/",
+      "created": 1729197093,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsf6uga",
+      "score": 1,
+      "body": "Go to China",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsf6uga/",
+      "created": 1729197285,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsfkdpl",
+      "score": 1,
+      "body": "Invest in NVDA",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsfkdpl/",
+      "created": 1729201768,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsfu2xu",
+      "score": 1,
+      "body": "go into your setting and turn on color blind mode and keep flipping through the options until the red turns green",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsfu2xu/",
+      "created": 1729205297,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsfukpy",
+      "score": 1,
+      "body": "Do better",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsfukpy/",
+      "created": 1729205481,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsfw5nk",
+      "score": 1,
+      "body": "https://preview.redd.it/u49dk4dfdevd1.png?width=1080&format=png&auto=webp&s=f5bfea50157a8015f72e49da0e28828a8b9f5309\n\nGot you bro",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsfw5nk/",
+      "created": 1729206068,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsg0gi8",
+      "score": 1,
+      "body": "Spend 5 grand on gen3 night vision with green phosphor tubes and look at this under NODs, it'll appear green.",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsg0gi8/",
+      "created": 1729207669,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsg1th8",
+      "score": 1,
+      "body": "It’s really simple actually: you stop making stupid bets.",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsg1th8/",
+      "created": 1729208176,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsg3onw",
+      "score": 1,
+      "body": "U gota contact the UI designer",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsg3onw/",
+      "created": 1729208865,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsg541s",
+      "score": 1,
+      "body": "Use the convention of China stock market, we use green for dip and red for rise.",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsg541s/",
+      "created": 1729209375,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsg8076",
+      "score": 1,
+      "body": "Be better at investing. Read a book",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsg8076/",
+      "created": 1729210445,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsgbpwm",
+      "score": 1,
+      "body": "Get the Chinese/ Taiwanese version",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsgbpwm/",
+      "created": 1729211805,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsgcal8",
+      "score": 1,
+      "body": "Turn phone upside down",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsgcal8/",
+      "created": 1729212012,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsgem45",
+      "score": 1,
+      "body": "Buy Spy",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsgem45/",
+      "created": 1729212856,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsgnr1h",
+      "score": 1,
+      "body": "Zoom in to the 1D chart.",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsgnr1h/",
+      "created": 1729216282,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsgnsde",
+      "score": 1,
+      "body": "make better choices",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsgnsde/",
+      "created": 1729216296,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsgppel",
+      "score": 1,
+      "body": "Do the opposite of what youve been doing. Thanks for participating in my Ted talk.",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsgppel/",
+      "created": 1729217038,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsgr8gt",
+      "score": 1,
+      "body": "open a position to AMC long, thank me later.",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsgr8gt/",
+      "created": 1729217635,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsgsydu",
+      "score": 1,
+      "body": "Photoshop, you can also go to your monitor’s color settings and only allow the display to display green and blue. (PS: Change to to your liking to get the perfect shade of green)",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsgsydu/",
+      "created": 1729218303,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsh0lq3",
+      "score": 1,
+      "body": "Honestly you should be able to change the color. Why not ![img](emote|t5_2th52|4271)",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsh0lq3/",
+      "created": 1729221428,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsh2kls",
+      "score": 1,
+      "body": "have you heard about stop loss? testing strategy ?",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsh2kls/",
+      "created": 1729222293,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsh3fi0",
+      "score": 1,
+      "body": "Just flip the chart",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsh3fi0/",
+      "created": 1729222685,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsh3oa1",
+      "score": 1,
+      "body": "Well whatever you have been doing, you need to do the exact opposite",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsh3oa1/",
+      "created": 1729222795,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsh563p",
+      "score": 1,
+      "body": "How do I buy puts on this guy?",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsh563p/",
+      "created": 1729223494,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lsh5l9t",
+          "score": 2,
+          "body": "If that was possible I would have shorted myself even more.",
+          "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsh5l9t/",
+          "created": 1729223696,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lsha7na",
+      "score": 1,
+      "body": "Long boeing",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsha7na/",
+      "created": 1729226018,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lshq71f",
+      "score": 1,
+      "body": "Not being all the way regarded is a really good place to start",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lshq71f/",
+      "created": 1729235572,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lshv3qd",
+      "score": 1,
+      "body": "Wtf are y all investing in? I just put my money spread out on 6 7 well known IT companies and God damn it's green and growing slowly",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lshv3qd/",
+      "created": 1729238962,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lshz5hw",
+      "score": 1,
+      "body": "Deposit $23k and put it all on an earnings play",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lshz5hw/",
+      "created": 1729241794,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsi9n95",
+      "score": 1,
+      "body": "LLY gonna keep going higher. Pepsi and Tony the Tiger keep pumping out more diabetics",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsi9n95/",
+      "created": 1729248544,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsigxw5",
+      "score": 1,
+      "body": "Ever thought about selling options instead?",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsigxw5/",
+      "created": 1729252230,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsiuzm2",
+      "score": 1,
+      "body": "Options on WOLF",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsiuzm2/",
+      "created": 1729258005,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsj1w9i",
+      "score": 1,
+      "body": "I zoom out, but I see you have already tried that trick. 🤔",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsj1w9i/",
+      "created": 1729260472,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lspuyrs",
+      "score": 1,
+      "body": "Just ms paint fill the red graph with green. Invert it. The hardest part will be swapping the current balance with the starting balance. Different text sizes. The percentage gain will also be difficult.",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lspuyrs/",
+      "created": 1729360604,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lsrjufu",
+      "score": 1,
+      "body": "Don't touch options",
+      "permalink": "/r/wallstreetbets/comments/1g5je03/how_do_i_change_the_font_color_from_red_to_green/lsrjufu/",
+      "created": 1729382027,
+      "depth": 0,
+      "replies": []
+    }
+  ],
+  "stockTickers": {
+    "post_summary": "The user describes losing money in trading over four years and anticipates further losses.",
+    "companies": [],
+    "tickers": [],
+    "main_ticker": []
+  }
+}

@@ -1,0 +1,620 @@
+{
+  "title": "Why do bearish investors normally buy puts instead of just shorting a stock?",
+  "score": 55,
+  "selftext": "We always see buying a stock as the less risky method and buying a call as the more risky method.\n\nSo why isn't it the opposite with a bearish position? In all my time browsing this sub (and WSB), it seems bears usually just buy puts and not take up a stock short position. Isn't the latter lower risk too?  ",
+  "link_flair_text": "Advice",
+  "id": "1ej1ije",
+  "num_comments": 64,
+  "created_utc": 1722685905,
+  "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/",
+  "comments": [
+    {
+      "id": "lgad2hv",
+      "score": 312,
+      "body": "Limited risk. If you buy puts and the stock moons, you lose the premium. If you short the stock and it moons, you are fucked.",
+      "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgad2hv/",
+      "created": 1722686459,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lgadxss",
+          "score": 29,
+          "body": "Then what is the advantage of shorting over buying puts? What scenario will shorting make more sense than puts?",
+          "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgadxss/",
+          "created": 1722686897,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lgaeivb",
+              "score": 123,
+              "body": "Puts have theta decay and all the other garbage that comes with options. Shorting a stock is the same as holding the stock in reverse + interest (goes down 1%, you make 1%, stock goes up 1%, you lose 1%). With puts, if the stock takes too long to go down, you can still lose money even if your call was right.",
+              "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgaeivb/",
+              "created": 1722687188,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lgb2isv",
+                  "score": 15,
+                  "body": "Oh   to have shorted Intel last month.. another Lost opportunity. \n\nA put on Intel would have lower profit,  more \"insurance\"",
+                  "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgb2isv/",
+                  "created": 1722696989,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lgb837c",
+                      "score": 36,
+                      "body": "You can't do that to yourself man. Every day some stock is gonna go up 100% or down 50%. You can't expect to find them.",
+                      "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgb837c/",
+                      "created": 1722698902,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lgbem2z",
+                          "score": 11,
+                          "body": "Yup, asking \"What if....\" is the single best way to end up blowing your brains out.",
+                          "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgbem2z/",
+                          "created": 1722701114,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lgbke4b",
+                      "score": 10,
+                      "body": "Wrong. A put would have higher upside than a simple short. A put is essentially levered shorting with decay.",
+                      "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgbke4b/",
+                      "created": 1722703112,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lgc0w0q",
+                      "score": 1,
+                      "body": "Negative ghost rider ",
+                      "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgc0w0q/",
+                      "created": 1722708748,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lgbipd7",
+                  "score": 0,
+                  "body": "I understand that interests from brokerages tend to be very high. Is it still an advantage then versus the theta decay of options?",
+                  "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgbipd7/",
+                  "created": 1722702534,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lgaf6yp",
+              "score": 14,
+              "body": "When you are confident in the direction but dont know when it will happen. For example, let's say you know a company is a fraud or that it is grossly overvalued. \n\nPuts can also get pretty expensive at times. For example, when everyone else thinks a company is going to go under and implied volatility is high. DJT right after the acquisition is a great example of this",
+              "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgaf6yp/",
+              "created": 1722687515,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lgba6p1",
+                  "score": 11,
+                  "body": "How many times have I been right about direction, but off with my timing by a week to months. Too many times to think about.",
+                  "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgba6p1/",
+                  "created": 1722699611,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lgeqa75",
+              "score": 3,
+              "body": "If the stock neither moons nor drops, you lose the premium. Whereas shorting the stock loses nothing",
+              "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgeqa75/",
+              "created": 1722746968,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lgahrrt",
+              "score": 3,
+              "body": "Put value drops with time.",
+              "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgahrrt/",
+              "created": 1722688750,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lgdagmw",
+              "score": 3,
+              "body": "The 'technical' answer is volatility exposure. With a long put, you have long exposure to volatility. With direct short shares, you are neutral on volatility. If you think volatility is overpriced or will go down in the future, shorting outright may be a better option",
+              "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgdagmw/",
+              "created": 1722724981,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lgbn6d3",
+          "score": 1,
+          "body": "Or you jump",
+          "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgbn6d3/",
+          "created": 1722704063,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lgeb3ol",
+          "score": 1,
+          "body": "If you use a stop, shouldn’t really be a problem",
+          "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgeb3ol/",
+          "created": 1722739650,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lhm1llx",
+          "score": 1,
+          "body": "What about short warrants?\n\nIt daily rebalances. The stock goes down 1%, the warrant goes up 1%, and in reverse. \n\nThat seems to combine the advantages of both. You get the gains of a short, but the bank who sold the warrants holds all the risks",
+          "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lhm1llx/",
+          "created": 1723395004,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lgb71rw",
+          "score": 0,
+          "body": "that’s why u own shares",
+          "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgb71rw/",
+          "created": 1722698546,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lgaexuh",
+      "score": 23,
+      "body": "When you short a stock, you are \"borrowing\" the shares from someone and selling them at the current market price. The stock then needs to drop enough for you to be able to repurchase the shares at a lower cost basis than what you originally purchased them for. \n\nWhat makes this have increased risk is that there are borrowing costs associated with borrowing shares to short. You are essentially on a time crunch because the costs associated with borrowing are eating you up. To make matters worse, if the stock increases in value, then your loses continue to worsen to the point where you may no longer have the funds to exit the position. You're basically screwed.\n\nWhen you buy a put option, while you can lose all of your capital, the risk is defined (e.g. the cost of the premium to enter the position).\n\nThere are many nuances and risks associated with all strategies. Buying shares is considered as less risk because the maximum loss is still defined albeit it can be higher than the premium for a call option. The thought process is that you are buying shares for a stock that is stable enough where any depreciation in price will be short lived (thus less risk than a call option where you don't want to pay additional premium for time.)\n\nPersonally, I think it depends on the circumstances specific to your situation and trade what strategies you should or should not use. That being said, don't short stocks or take any positions that have unlimited risk unless you are a professional. The risk is simply not worth the potential for profit.",
+      "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgaexuh/",
+      "created": 1722687391,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lgcxtw1",
+          "score": 1,
+          "body": "But isn't the sensor getting fucked in this? If I lend shares and they tank, I am left holding the bag.",
+          "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgcxtw1/",
+          "created": 1722720299,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lgdq4st",
+          "score": 1,
+          "body": "There are only borrowing costs in rare situations when there aren’t many outstanding shares to short",
+          "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgdq4st/",
+          "created": 1722730975,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lgaekrx",
+      "score": 28,
+      "body": "It’s not because they don’t want to short but majority of people on WSB and just retail traders in general don’t have the buying power or ability to short stocks. Anyone can buy a put but almost no broker offers shorting, it also doesn’t make a lot of sense. Hedge funds do it because they literally short millions of shares/ dollars at a time and options is extremely dangerous as there isn’t enough liquidity to exit the position. \n\n  So mainly it’s because retail has too little money to short and hedge funds have too much to buy puts.",
+      "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgaekrx/",
+      "created": 1722687214,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lgauoyj",
+          "score": 12,
+          "body": "[deleted]",
+          "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgauoyj/",
+          "created": 1722694154,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lgayeic",
+              "score": 3,
+              "body": "What brokers are most people on Reddit using? Robinhood, Webull and Charles Schwab. And even for the major ones, you need permission to short and there are high requirements, such as minimum account balance.",
+              "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgayeic/",
+              "created": 1722695523,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lgb4c2u",
+                  "score": 9,
+                  "body": "you need permission to trade options too",
+                  "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgb4c2u/",
+                  "created": 1722697618,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lgc8d8c",
+                      "score": 7,
+                      "body": "The approval process for shorting is far more strict than options",
+                      "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgc8d8c/",
+                      "created": 1722711333,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lgcv062",
+          "score": 2,
+          "body": "You can short with most brokers. You just need approval",
+          "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgcv062/",
+          "created": 1722719275,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lgcz464",
+      "score": 5,
+      "body": "If you don't know anything about shorting a stock you just need to know this:  shorting can cause you to have infinite losses. Yes literally there is no limit to potential loss. Only an expert should go short which you are not,  so you can just erase the concept from your mind and you'll be better off.",
+      "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgcz464/",
+      "created": 1722720762,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lgdwdy1",
+          "score": 4,
+          "body": "You can always buy otm calls as hedge to limit the risk",
+          "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgdwdy1/",
+          "created": 1722733493,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lgaeajn",
+      "score": 5,
+      "body": "Most people on wsb wouldn't be able to handle the margin required to short sell or the fees associated with borrowing a stock.",
+      "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgaeajn/",
+      "created": 1722687075,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgae411",
+      "score": 3,
+      "body": "Accessibility.",
+      "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgae411/",
+      "created": 1722686984,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgafuty",
+      "score": 3,
+      "body": "Leverage and risk",
+      "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgafuty/",
+      "created": 1722687834,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgax41l",
+      "score": 3,
+      "body": "Limits downside. Don’t have to cover your short",
+      "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgax41l/",
+      "created": 1722695053,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgaz31n",
+      "score": 3,
+      "body": "Shorting the stock gives you unlimited - infinite - risk.",
+      "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgaz31n/",
+      "created": 1722695769,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgblv8k",
+      "score": 3,
+      "body": "Shorting technically has unlimited downside. Puts have limited downside",
+      "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgblv8k/",
+      "created": 1722703618,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgaqcyj",
+      "score": 5,
+      "body": "- Puts are more accessible on most brokerage apps than shorting is. \n- No short interest has to be paid since you’re not borrowing any stock like you are with shorting. \n- There’s more leverage in puts if the stock does end up going down.\n- Your loses are limited to what you paid for the puts versus unlimited risk with shorting",
+      "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgaqcyj/",
+      "created": 1722692460,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lgb85rq",
+          "score": -6,
+          "body": "Wrong on everything except the third point. \n\nYou need a margin account to short stocks, not that difficult \n\nYou only pay a short fee on hard to borrow securities or if your cash balance is less than the market value of your shorts\n\nAnd unless it’s a GME situation that puts your account in negative equity, you will get a margin call way before losses become “unlimited”\n\nHit the books and don’t make assumptions partner",
+          "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgb85rq/",
+          "created": 1722698927,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lgam9ua",
+      "score": 2,
+      "body": "Specific dollar risk.  Versus unknown.",
+      "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgam9ua/",
+      "created": 1722690753,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgbnspo",
+      "score": 2,
+      "body": "When buying puts your risk is limited to the premium paid. While shorting a stock the risk is higher and the capital involved is greater. Imagine you shorted a stock like TSLA or GME, a volatile stock. Can you hold it for a week if it goes against you? Can you allocate more money for a margin call? Buying options is more manageable and less riskier compared to a classical stock shorting.\nYou got many optionable instruments like TQQQ (X3 NQ) for example, instead of buying or shorting the Nasdaq index. If NQ goes -3% in a day, TQQQ goes -9%. Buying puts TQQQ is a cash machine in this case.",
+      "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgbnspo/",
+      "created": 1722704271,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgdb3uf",
+      "score": 2,
+      "body": "Because shorting has infinite downside risk.  Puts can be exercised to buy the stock with expectations the level will increase, to sell covered calls as it goes down, or sold and rebought lower if you feel antsy, usually at a profit and depending on target expiration date.\n\nThe short dated options have gotten very popular since '20.  0DTE, 1DTE, 2DTE etc.",
+      "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgdb3uf/",
+      "created": 1722725223,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgakxgf",
+      "score": 1,
+      "body": "Limits",
+      "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgakxgf/",
+      "created": 1722690173,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgav158",
+      "score": 1,
+      "body": "Buying a call isn’t necessarily more risky. If you buy a strike deep ITM, it is essentially the same thing as buying 100 shares.",
+      "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgav158/",
+      "created": 1722694280,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgb0vk5",
+      "score": 1,
+      "body": "Max set risk vs infinite risk ",
+      "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgb0vk5/",
+      "created": 1722696414,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgbhvtq",
+      "score": 1,
+      "body": "No margin",
+      "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgbhvtq/",
+      "created": 1722702250,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lgbr1bf",
+          "score": 1,
+          "body": "And no pdt",
+          "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgbr1bf/",
+          "created": 1722705375,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lgbrc9j",
+              "score": 1,
+              "body": "Yes for cash account",
+              "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgbrc9j/",
+              "created": 1722705478,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lgd0j7v",
+      "score": 1,
+      "body": "Shorting has unlimited downside, puts the most you lose is how much you pay for the premium",
+      "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgd0j7v/",
+      "created": 1722721273,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgdj5s5",
+      "score": 1,
+      "body": "I can short stocks through Schwab but it costs a lot and they label a lot of stocks 'hard to borrow' which means you probably can't short them.  I have never shorted a stock but I feel like the people who are doing it seriously would need to have industry connections and probably work for investment banks or hedge funds, etc.",
+      "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgdj5s5/",
+      "created": 1722728276,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgdr7ed",
+      "score": 1,
+      "body": "Completely different mechanics and outcomes",
+      "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgdr7ed/",
+      "created": 1722731402,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgdrheo",
+      "score": 1,
+      "body": "How long do you want to hold your bet? Shorting shares is for people who really want to ride the share price down for a LONG time. Not worth the opportunity cost of capital otherwise",
+      "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgdrheo/",
+      "created": 1722731513,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgdw072",
+      "score": 1,
+      "body": "Because Robinhood doesn’t not allow short selling",
+      "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgdw072/",
+      "created": 1722733336,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgea4r9",
+      "score": 1,
+      "body": "Basically because short squeeze. Look what happened to hedge bros during GameStop hype; they got curb stomped by a bunch of degenerate regards.",
+      "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgea4r9/",
+      "created": 1722739231,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgeeoip",
+      "score": 1,
+      "body": "I do both. It depends on the stock I am shorting. Does it pay a high dividend yield? Is the cost to borrow stupidly high? Are the shares HTB? Is the IV high for the puts? Do the puts have any liquidity? \n\nThere are so many reasons to choose one or both as a way to express a bearish position on a stock.\n\nSometimes I even buy calls when I am shorting a stock as a way to protect myself.\n\nI am always shorting something because it provides me cheap/free capital that allows me to go long other positions while milking the dumb shareholders of a shit company.",
+      "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgeeoip/",
+      "created": 1722741243,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgefszk",
+      "score": 1,
+      "body": "They like losing money and haven't figured out how stop losses work? 😂\n\nOptions are made to be sold, not bought",
+      "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgefszk/",
+      "created": 1722741769,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lgefzar",
+          "score": 2,
+          "body": "You know somebody has to buy it for it to be sold in the first place...",
+          "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgefzar/",
+          "created": 1722741852,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lgegde9",
+              "score": 0,
+              "body": "Yeah, people that don't like making money, run your statistics, why do you guys want to play games with odds like that?",
+              "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgegde9/",
+              "created": 1722742036,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lget5ft",
+      "score": 1,
+      "body": "Are you sure you know investors?  As an investor I don’t buy puts or calls I sell them at a premium to the regards in here…I’m sure someone else can explain that’s what’s really happening here",
+      "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lget5ft/",
+      "created": 1722748528,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lggvff1",
+      "score": 1,
+      "body": "How does one actually short a stock? I thought puts were essentially this? Not very option savvy as I do not use them because my portfolio wouldn’t benefit from using them as a hedge really and I don’t like gambling. Would it be selling a covered put?",
+      "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lggvff1/",
+      "created": 1722787200,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lgh126i",
+          "score": 1,
+          "body": "You sell the stock. A short is basically the exact opposite of buying a stock. The logic behind it is abit confusing but basically you're selling then buying back the stock\n\nA puts is an option contract, opposite of a call. Similarly, a short is opposite of a long stock position",
+          "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgh126i/",
+          "created": 1722789137,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lghax8j",
+              "score": 1,
+              "body": "So you need to own the shares before you short them? Isn’t that just selling a stock? Or is there some other way to do this that isn’t an option contract?",
+              "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lghax8j/",
+              "created": 1722792465,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lghdeko",
+                  "score": 1,
+                  "body": "No, you borrow money to buy the stock then sell the stock then buy back the stock again",
+                  "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lghdeko/",
+                  "created": 1722793289,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lgheplq",
+                      "score": 1,
+                      "body": "But how do you make profit doing this? Example: 10k loan to buy 100 shares @ $100, let’s say you sell immediately and have 10k cash. Now the next day the stock goes down to $50/share and you buy 200 shares @ $50. You still have a 10k loan balance that has to be repaid and 10k worth of stock. Wouldn’t the stock need to come back up for this to be profitable?",
+                      "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgheplq/",
+                      "created": 1722793722,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lgjeed8",
+                          "score": 1,
+                          "body": "You buy 100 shares @ $50, not 200 shares. That way you earn a profit of $50 per share. \n\nYou are borrowing the shares from the bank, not the $$$. So you owe back 100 shares to the bank, not whatever $$$ you paid",
+                          "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgjeed8/",
+                          "created": 1722819609,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lgjojsz",
+                              "score": 1,
+                              "body": "How does one even do this? Where can I say please borrow me 100 shares so I can pay you back 100 shares later? Is it only for people who have significant capital?",
+                              "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgjojsz/",
+                              "created": 1722823831,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lgao9f1",
+      "score": 1,
+      "body": "Mentality problem.  There are no retail bearish investors…  only buyers wanting to buy cheaper.",
+      "permalink": "/r/stocks/comments/1ej1ije/why_do_bearish_investors_normally_buy_puts/lgao9f1/",
+      "created": 1722691594,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

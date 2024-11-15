@@ -1,0 +1,380 @@
+{
+  "title": "[Bloomberg] TSMC’s Arizona Trials Put Plant Productivity on Par with Taiwan",
+  "score": 199,
+  "selftext": "> Taiwan Semiconductor Manufacturing Co. achieved production yields at its Arizona facility on par with established plants back home, an early indicator that its marquee US project is on track to achieve its targets.\n\n> The Taiwanese chipmaker’s yield rate in trial production at its first advanced US plant is similar to comparable facilities in the southern Taiwanese city of Tainan, according to a person familiar with the company, who asked not to be identified discussing private corporate matters. TSMC had said it started engineering wafer production in April with advanced 4-nanometer process technology.\n\n> Yield rate, or how many usable chips a company can produce during a single manufacturing process, is a key factor that impacts profitability. While TSMC doesn’t disclose its yield rate, investors are counting on the company’s ability to maintain steady margins. The company has said it can maintain gross margin rates at 53% or higher in the long run, and has kept its net profit steady at above 36% over the past four years.\n\n> TSMC said in an email that its Arizona project is “proceeding as planned with good progression,” without commenting on the yield.\n\n> The go-to chipmaker for Apple Inc. and Nvidia Corp. originally planned to have its first Arizona plant start full production in 2024, but pushed back the target to 2025 due to a lack of skilled workers. The delay fueled concerns that the company might not be able to make chips in the US as efficiently as in Taiwan.\n\n> The US plans to award TSMC $6.6 billion in grants and as much as $5 billion in loans to support the chipmaker’s $65 billion in investments at three plants in Arizona.\n\nhttps://www.bloomberg.com/news/articles/2024-09-06/tsmc-s-arizona-trials-put-plant-productivity-on-par-with-taiwan?srnd=phx-technology",
+  "link_flair_text": "Company News",
+  "id": "1fah4yl",
+  "num_comments": 41,
+  "created_utc": 1725634384,
+  "permalink": "/r/stocks/comments/1fah4yl/bloomberg_tsmcs_arizona_trials_put_plant/",
+  "comments": [
+    {
+      "id": "llt7jwl",
+      "score": 75,
+      "body": "Not paying to read the article. How much of the workforce was flown over from Taiwan? Not too long ago there were articles about how TSMC thought American workers were too coddled to produce chips.",
+      "permalink": "/r/stocks/comments/1fah4yl/bloomberg_tsmcs_arizona_trials_put_plant/llt7jwl/",
+      "created": 1725637546,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "llvt3tm",
+          "score": 24,
+          "body": "Most of TSMC AZ fab operations and engineering will still be in Taiwan as there’s no need for them to be local.  Fabs and fab equipment is networked and recipes can be set up from anywhere and data can be accessed anywhere.  Further the setup is the same.  The secret sauce, high level engineering, and computationally demanding work will persist in Taiwan regardless.  Very few engineers at a fab ever need to go into a clean room.   One needs techs, sustaining engineers, and equipment specialists locally but it’s doubtful that there’s anywhere close to the presence of engineers at their Taiwan fabs.",
+          "permalink": "/r/stocks/comments/1fah4yl/bloomberg_tsmcs_arizona_trials_put_plant/llvt3tm/",
+          "created": 1725668921,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lltkn3c",
+          "score": 26,
+          "body": "I'm curious to know how full-scale production of water-hungry chip manufacturing will go in a desert and how that will affect the surrounding area.\n\nDuring the recent drought in Taiwan, the government enacted water usage restrictions for everyone except TSMC. To the point that Taiwanese farmers couldn't water their crops.",
+          "permalink": "/r/stocks/comments/1fah4yl/bloomberg_tsmcs_arizona_trials_put_plant/lltkn3c/",
+          "created": 1725641724,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lltlrhv",
+              "score": 24,
+              "body": "They had a drought in Taiwan a while ago and got really big in into water reclamation and recycling.\n\n[https://www.tsmc.com/static/abouttsmcaz/index.htm](https://www.tsmc.com/static/abouttsmcaz/index.htm)\n\n[https://esg.tsmc.com/en-US/sustainability-roles/greenpower-practitioner](https://esg.tsmc.com/en-US/sustainability-roles/greenpower-practitioner)\n\nIt might be tricky initially, but I don't think it will be a problem in the long term.\n\n>In Arizona, we will comply with local regulations and pursue similar industry design standards for water management. Two important aspects of our approach are water recycling and water reclamation:\n\n>At startup, approximately 65% of the water used in the Arizona operation will come from TSMC’s in-house water recycling systems. The recycled water will be used in systems such as our air scrubbers and cooling tower systems.\n\n>To achieve our goal of 90% water reclamation, We will build an advanced water treatment facility (Industrial Water Reclamation Plant) at our Phoenix operation with a design goal of achieving “Near Zero Liquid Discharge”. This means the fabs will be capable of using nearly every drop of water back into the facility. This is a process of converting industrial wastewater into water that can be reused for a variety of purposes.",
+              "permalink": "/r/stocks/comments/1fah4yl/bloomberg_tsmcs_arizona_trials_put_plant/lltlrhv/",
+              "created": 1725642079,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lltt3cf",
+              "score": 4,
+              "body": "Yeah, that's what I haven't got about Semiconductor manufacturing in AZ as a resident. I thought this stuff took a lot of water? \n\nIDK how much actually. My understanding is that it is Agriculture that is the big abuser.",
+              "permalink": "/r/stocks/comments/1fah4yl/bloomberg_tsmcs_arizona_trials_put_plant/lltt3cf/",
+              "created": 1725644429,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lluopy3",
+                  "score": 14,
+                  "body": "at least for the Taiwan plant, it is a lot of water in a normal sense (millions of gallons a day), however on a macro scale it's comparable to maybe a few farms in the state.",
+                  "permalink": "/r/stocks/comments/1fah4yl/bloomberg_tsmcs_arizona_trials_put_plant/lluopy3/",
+                  "created": 1725654600,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "llwpkst",
+                  "score": 12,
+                  "body": "Fabs use more water per acre than crops but recycle about 90% of their water used. Traditional Farming obviously doesn’t recycle.",
+                  "permalink": "/r/stocks/comments/1fah4yl/bloomberg_tsmcs_arizona_trials_put_plant/llwpkst/",
+                  "created": 1725682176,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "llx0mfs",
+              "score": 3,
+              "body": "Almost all of the water is recycled, it’s really negligible compared to any of the farming done out there",
+              "permalink": "/r/stocks/comments/1fah4yl/bloomberg_tsmcs_arizona_trials_put_plant/llx0mfs/",
+              "created": 1725688188,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "llwpaxk",
+          "score": 3,
+          "body": "The work force was the tool installers, tradesmen. They hired a lot of local engineers and technicians and proceeded to work them into the ground.",
+          "permalink": "/r/stocks/comments/1fah4yl/bloomberg_tsmcs_arizona_trials_put_plant/llwpaxk/",
+          "created": 1725682042,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "llu6mir",
+          "score": 4,
+          "body": "A bunch. See them at 99 ranch.",
+          "permalink": "/r/stocks/comments/1fah4yl/bloomberg_tsmcs_arizona_trials_put_plant/llu6mir/",
+          "created": 1725648762,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "llua5k9",
+              "score": 7,
+              "body": "You see a lot of Taiwanese people at an ethnic-Chinese grocery store? You don’t say.",
+              "permalink": "/r/stocks/comments/1fah4yl/bloomberg_tsmcs_arizona_trials_put_plant/llua5k9/",
+              "created": 1725649900,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "llucnqm",
+                  "score": 12,
+                  "body": "They say they work at TSMC and is from Taiwan",
+                  "permalink": "/r/stocks/comments/1fah4yl/bloomberg_tsmcs_arizona_trials_put_plant/llucnqm/",
+                  "created": 1725650714,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "llv5lia",
+                      "score": 5,
+                      "body": "The question I was ultimately getting at was whether or not TSMC has decided to avoid hiring locally. We know TSMC has moved a lot of employees over from Taiwan, but estimating that percentage based on how many shop at 99 Ranch would suffer from major sampling bias.",
+                      "permalink": "/r/stocks/comments/1fah4yl/bloomberg_tsmcs_arizona_trials_put_plant/llv5lia/",
+                      "created": 1725660216,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "llukcr7",
+                      "score": 5,
+                      "body": "Chat them up more and report back",
+                      "permalink": "/r/stocks/comments/1fah4yl/bloomberg_tsmcs_arizona_trials_put_plant/llukcr7/",
+                      "created": 1725653192,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "llyab21",
+          "score": 1,
+          "body": "They arent necessarily wrong",
+          "permalink": "/r/stocks/comments/1fah4yl/bloomberg_tsmcs_arizona_trials_put_plant/llyab21/",
+          "created": 1725715722,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lluk8hy",
+          "score": 0,
+          "body": "Would be interesting if it was a large percentage of Taiwanese extra hiring and training for this expansion as well as strategic planning to nullify incentives for china to invade",
+          "permalink": "/r/stocks/comments/1fah4yl/bloomberg_tsmcs_arizona_trials_put_plant/lluk8hy/",
+          "created": 1725653154,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "llsyz6g",
+      "score": 17,
+      "body": "TSM has set up a new factory in Kaohsiung to invest in the research and development of 2nm technology",
+      "permalink": "/r/stocks/comments/1fah4yl/bloomberg_tsmcs_arizona_trials_put_plant/llsyz6g/",
+      "created": 1725634827,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "llu74xs",
+          "score": 6,
+          "body": "4nm soon to be obsolete 😂",
+          "permalink": "/r/stocks/comments/1fah4yl/bloomberg_tsmcs_arizona_trials_put_plant/llu74xs/",
+          "created": 1725648925,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "llzebdj",
+              "score": 3,
+              "body": "That’s okay Intel has 10nm.",
+              "permalink": "/r/stocks/comments/1fah4yl/bloomberg_tsmcs_arizona_trials_put_plant/llzebdj/",
+              "created": 1725729787,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "llu83qw",
+              "score": -2,
+              "body": "Yes, Japan has already started researching 2nm technology, and they plan to start mass production within 10 years. TSMC will have to wait until next year to start research and development",
+              "permalink": "/r/stocks/comments/1fah4yl/bloomberg_tsmcs_arizona_trials_put_plant/llu83qw/",
+              "created": 1725649237,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "llue5a9",
+                  "score": 7,
+                  "body": "If you mean Rapidus, I urge you to really research deep down about it.\n\nJapan Gov is throwing money at the problem but until we see results it’s just a “what if” at this stage.\n\nChip manufacturing below 7nm is really difficult and almost impossible on large scale across different chip designs (just ask Intel and Samsung) \n\nHeck if you want to go down the rabbit hole look at China and their own domestic chip production with Huawei’s Kirin in the last 3 years, despite poaching and stealing designs they still can’t get it properly done\n\nJapan strategy is good on paper but so was Intel’s back in 2017.\n\nI’m also very very curios about this but I do recommend you to research a bit on this as it’s a very strange proposition",
+                  "permalink": "/r/stocks/comments/1fah4yl/bloomberg_tsmcs_arizona_trials_put_plant/llue5a9/",
+                  "created": 1725651199,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lluv8dx",
+                  "score": 2,
+                  "body": "Who is this Japan doing research and manufacturing?",
+                  "permalink": "/r/stocks/comments/1fah4yl/bloomberg_tsmcs_arizona_trials_put_plant/lluv8dx/",
+                  "created": 1725656705,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "llt3dva",
+      "score": 18,
+      "body": "Meanwhile at intel…",
+      "permalink": "/r/stocks/comments/1fah4yl/bloomberg_tsmcs_arizona_trials_put_plant/llt3dva/",
+      "created": 1725636232,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "llt9gvp",
+          "score": 8,
+          "body": "Gelsinger is busy shitting the company bed.",
+          "permalink": "/r/stocks/comments/1fah4yl/bloomberg_tsmcs_arizona_trials_put_plant/llt9gvp/",
+          "created": 1725638145,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lltaa14",
+              "score": 3,
+              "body": "No, I think he is trying to clean it up, but his employees are shitting faster than he can cleanup. ",
+              "permalink": "/r/stocks/comments/1fah4yl/bloomberg_tsmcs_arizona_trials_put_plant/lltaa14/",
+              "created": 1725638400,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lltc2un",
+                  "score": 6,
+                  "body": "There may be some truth to that, they lost a director recently who said as much, in which case the workforce needs to quit screwing around or get replaced by a bunch of imported employees who can work harder and maybe smarter too (the TSMC approach).",
+                  "permalink": "/r/stocks/comments/1fah4yl/bloomberg_tsmcs_arizona_trials_put_plant/lltc2un/",
+                  "created": 1725638973,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "llywtsm",
+                      "score": 3,
+                      "body": "unless people fail at interviewing amd nvidia tsmc i dont see any reasons to join intel at the moment",
+                      "permalink": "/r/stocks/comments/1fah4yl/bloomberg_tsmcs_arizona_trials_put_plant/llywtsm/",
+                      "created": 1725723958,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "llsxzyx",
+      "score": 31,
+      "body": "TSM Down 4.23% today",
+      "permalink": "/r/stocks/comments/1fah4yl/bloomberg_tsmcs_arizona_trials_put_plant/llsxzyx/",
+      "created": 1725634517,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "llt9d6r",
+          "score": 30,
+          "body": "All semi stocks are down today.\n\nIt's nothing personal against TSMC.",
+          "permalink": "/r/stocks/comments/1fah4yl/bloomberg_tsmcs_arizona_trials_put_plant/llt9d6r/",
+          "created": 1725638113,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "llszwvx",
+          "score": 6,
+          "body": "Classic. ",
+          "permalink": "/r/stocks/comments/1fah4yl/bloomberg_tsmcs_arizona_trials_put_plant/llszwvx/",
+          "created": 1725635126,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "llvmjn8",
+      "score": 3,
+      "body": "I lost my job and have to pay back 6k in margin, but shit I'll borrow more to limit buy some shares, it's too tempting not to.",
+      "permalink": "/r/stocks/comments/1fah4yl/bloomberg_tsmcs_arizona_trials_put_plant/llvmjn8/",
+      "created": 1725666407,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "llwckvj",
+          "score": 1,
+          "body": "also jsut over 600 margin here, i dont see TSM continuing to tank. I think all semi are going down with market. Long TSM.",
+          "permalink": "/r/stocks/comments/1fah4yl/bloomberg_tsmcs_arizona_trials_put_plant/llwckvj/",
+          "created": 1725676504,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "llvgkxq",
+      "score": 3,
+      "body": "TSM reporting monthly sales next week. Hopefully it helps semis",
+      "permalink": "/r/stocks/comments/1fah4yl/bloomberg_tsmcs_arizona_trials_put_plant/llvgkxq/",
+      "created": 1725664158,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llvcago",
+      "score": 2,
+      "body": "With all negative articles and doomsday predictions about the plant it actually is doing well. Surprised",
+      "permalink": "/r/stocks/comments/1fah4yl/bloomberg_tsmcs_arizona_trials_put_plant/llvcago/",
+      "created": 1725662592,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lltj15n",
+      "score": 2,
+      "body": "After the Nvidia antitrust report that also cite “unknown source”, I will take bloombergs report with a grain of salt 🧂",
+      "permalink": "/r/stocks/comments/1fah4yl/bloomberg_tsmcs_arizona_trials_put_plant/lltj15n/",
+      "created": 1725641213,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "llu7di8",
+          "score": 1,
+          "body": "And reporting leaks of company secrets. SMH.",
+          "permalink": "/r/stocks/comments/1fah4yl/bloomberg_tsmcs_arizona_trials_put_plant/llu7di8/",
+          "created": 1725649001,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "llu6hvr",
+      "score": 1,
+      "body": "Good for them",
+      "permalink": "/r/stocks/comments/1fah4yl/bloomberg_tsmcs_arizona_trials_put_plant/llu6hvr/",
+      "created": 1725648722,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lluct12",
+      "score": 1,
+      "body": "I don’t doubt about the yields, but I’m worried about the long term situation regarding workers and the plant on the long term.",
+      "permalink": "/r/stocks/comments/1fah4yl/bloomberg_tsmcs_arizona_trials_put_plant/lluct12/",
+      "created": 1725650762,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "llvvm20",
+          "score": 2,
+          "body": "The issue about unavailability of workers is largely bogus and typically written by unknowledgeable people.  Sure, one needs to train technicians to work in the clean rooms.  These are not engineers.  TSMC moves people to Taiwan to train and work their hands on till they are ready.   An AZ TSMC fab does not require the large number of engineers typically resident at a large fab in Taiwan.  The difficult research work, recipe setup, analysis, and computationally intense design prep work I’m certain will still be done in Taiwan.  Further Complex equipment always has the manufacturers equipment engineers onsite.  If there is a need to bring on board high level process and design engineers, the US has the best in the world.  It’s a myth that the us doesn’t have them.",
+          "permalink": "/r/stocks/comments/1fah4yl/bloomberg_tsmcs_arizona_trials_put_plant/llvvm20/",
+          "created": 1725669827,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

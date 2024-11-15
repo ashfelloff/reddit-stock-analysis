@@ -1,0 +1,744 @@
+{
+  "title": "Raspberry PI IPO on London Stock Exchange, public trading on June 14th",
+  "score": 246,
+  "selftext": "Hey Guys,\n\nNot seen much chat on this, looks an interesting proposition, with some sources saying the IPO is already oversubscribed multiple times.\n\nInitial share offering £2.60 > £2.80 expected.\n\nI love the Raspberry PI and will be great for the LSE but not sure how its going to play out once it goes public.\n\n\"According to [reports](https://www.bloomberg.com/news/articles/2024-06-07/pc-maker-raspberry-pi-seen-pricing-ipo-at-top-end-of-range), the IPO is set to raise £179 million ($228 million) from the IPO, which will give the company a valuation of circa £540 million ($686 million). The pricing would be would be at the top end of its range, according to terms seen by Bloomberg.\"\n\n  \nEDIT. Here's the offer documents with lots of interesting info \n\n[https://media-prod.ii.co.uk/s3fs-public/pdfs/RPI\\_Factsheet.pdf](https://media-prod.ii.co.uk/s3fs-public/pdfs/RPI_Factsheet.pdf)",
+  "link_flair_text": "Company News",
+  "id": "1daxfby",
+  "num_comments": 85,
+  "created_utc": 1717832006,
+  "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/",
+  "comments": [
+    {
+      "id": "l7niqlz",
+      "score": 422,
+      "body": "This is the last company I wanted to be public",
+      "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7niqlz/",
+      "created": 1717837716,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l7nm87f",
+          "score": 34,
+          "body": "Aren't there many other valid alternatives? Like the beagle board for example (which is actually fully open hardware). There are even some risc-v sbc now.",
+          "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7nm87f/",
+          "created": 1717840358,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l7okg58",
+              "score": 55,
+              "body": "There are a lot of alternatives, but nothing has the community of the raspberry pi. That really is what makes the raspberry pi great, its not the fastest, its not the cheapest, its not the smallest etc. but it has the best community with great support",
+              "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7okg58/",
+              "created": 1717858201,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l855f5t",
+                  "score": 1,
+                  "body": "Until it goes private and people move to a nonprofit.",
+                  "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l855f5t/",
+                  "created": 1718125909,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l7pahry",
+          "score": 22,
+          "body": "Let the enshittification begin.",
+          "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7pahry/",
+          "created": 1717868106,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l7oj7iq",
+          "score": 60,
+          "body": "They were dead to me when they prioritized corporate orders over hobbiests during the pandemic leading to shortages and price gouging. Also they are unrepairable, but that's secondary.",
+          "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7oj7iq/",
+          "created": 1717857707,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l7oqdxr",
+              "score": 39,
+              "body": "> Also they are unrepairable, but that's secondary.\n\nIt's an open circuit board with a SOC. If there's a hardware failure that wasn't caught by QA, it shouldn't had been shipped. If you are wanting to repair or upgrade it... you can solider it.... but it isn't intended to be upgradable or even repairable.",
+              "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7oqdxr/",
+              "created": 1717860520,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l7p1q37",
+                  "score": 14,
+                  "body": "The power regulator chip is proprietary and unobtainable, so if a kid accidentally gives it too much voltage there is nothing you can practically do to replace it after it blows and you have now a very expensive paper weight and a really sad kid who made an expected expensive mistake.",
+                  "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7p1q37/",
+                  "created": 1717864769,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l7qa5sl",
+                      "score": 5,
+                      "body": "Very expensive? Aren't these things circa £30? The point of them is to play around and mess with it, if it breaks no harm done, you've learned what not to do for next time.",
+                      "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7qa5sl/",
+                      "created": 1717881953,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l7qohvu",
+                          "score": 10,
+                          "body": "More like £60-£80, or double that in CAD where old Pis were like $30.",
+                          "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7qohvu/",
+                          "created": 1717887981,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "l7qpda9",
+              "score": 3,
+              "body": "Regarding irreparability, it's a \\~$35 board. There's a good chance the average user would find it cheaper to buy a new one than spend their valuable time repairing it. It's not like their failure rate is problematic.",
+              "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7qpda9/",
+              "created": 1717888360,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lo9420g",
+              "score": 1,
+              "body": "Basado",
+              "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/lo9420g/",
+              "created": 1726946349,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l7ts7bq",
+          "score": 2,
+          "body": "Dumb comment, all companies work for shareholders regardless of if they are public or not\n\nThey aren't a non profit",
+          "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7ts7bq/",
+          "created": 1717947304,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l7weqq3",
+              "score": 3,
+              "body": "This is a silly comment.  They are a charity in the UK who owns the trading piece that was the other half of the split in 2013.  In the united states the foundation is a registered non-profit.",
+              "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7weqq3/",
+              "created": 1717982802,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l7nbpi4",
+      "score": 64,
+      "body": "The company just had peak sales and earnings and is capitalising to issue shares at a peak valuation in a market that's been starved of quality floats. Very smart for them. Given level of over subscription may have a spike on day 1 but then wouldn't put the trajectory over the next year or so much different to what SNOW has been on so I'm giving it a miss. GLA.",
+      "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7nbpi4/",
+      "created": 1717832518,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l7oji4g",
+          "score": 32,
+          "body": "That's what most companies do now. Instead of using ipos to help grow a young company with capital, they are now for exit liquidity for peaked large companies private investors. Roblox during the peak of the pandemic when all the kids at home playing were about to go back to school in person was the perfect example of a peak exit liquidity IPO. The thing was created in 2006.",
+          "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7oji4g/",
+          "created": 1717857826,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l7nslkv",
+      "score": 84,
+      "body": "Nowadays, you can buy an x86 mini pc for the same price of a raspberry Pi after storage costs are accounted for. I loved the projects and ecosystem that the Pi community developed but each successive generation has made it more capable but also bumped its price. Arguably it has lost its 'magic' although this is partially achieved with its nano line",
+      "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7nslkv/",
+      "created": 1717844773,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l7nvp6f",
+          "score": 11,
+          "body": "From a reputable brand? Honest question because I tried to do this a few years back and it was still to expensive.",
+          "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7nvp6f/",
+          "created": 1717846658,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l7q0qn6",
+              "score": 6,
+              "body": "Yes. Dell, Lenovo, HP all have small form factor PCs which will spin circles around a Pi for comparable prices.",
+              "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7q0qn6/",
+              "created": 1717878260,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l7q158p",
+                  "score": 3,
+                  "body": "What models? Not used. I would love to see one.",
+                  "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7q158p/",
+                  "created": 1717878416,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l7q26f2",
+                      "score": 7,
+                      "body": "I use a Dell Optiplex. Many people use Intel (Now Asus) NUCs. Lenovo has the Thinkcentre I believe it's called.\n\nI bought a Dell Optiplex with a 9th gen i5 and a 256GB SSD for 80 bucks.\n\nI don't know what your concern with a used SFF PC is though if they have a new SSD. But the NUCs you can get brand new for far better value than an RPi.",
+                      "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7q26f2/",
+                      "created": 1717878822,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l7q57ch",
+                          "score": -5,
+                          "body": "[deleted]",
+                          "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7q57ch/",
+                          "created": 1717879999,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l7q68fx",
+                              "score": 0,
+                              "body": "[removed]",
+                              "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7q68fx/",
+                              "created": 1717880408,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l7q8zsl",
+                                  "score": -1,
+                                  "body": "[deleted]",
+                                  "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7q8zsl/",
+                                  "created": 1717881486,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "l7q9zar",
+                                      "score": 3,
+                                      "body": "[Here](https://www.ebay.com/itm/145778018222?mkcid=16&mkevt=1&mkrid=711-127632-2357-0&ssspo=pnxx2K49Tu6&sssrc=4429486&ssuid=e704VpxUSEO&var=&widget_ver=artemis&media=COPY) is an Optiplex for even cheaper, with an i5 6th gen and a 128GB SSD that will beat out any Raspberry Pi on the market.\n\nFound in literally one second by just looking at a top result on ebay. If you actually spend time shopping around you can find great prices.\n\nAnd sure, if your budget is 8 dollars a used RPi is a good choice if you can find one actually available and actually working at that price. You'll most likely find RPi 1s at that price which are effectively e-waste compared to an Optiplex though.",
+                                      "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7q9zar/",
+                                      "created": 1717881881,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "l7qa68m",
+                                          "score": -10,
+                                          "body": "[removed]",
+                                          "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7qa68m/",
+                                          "created": 1717881957,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "l7qanbo",
+                  "score": 4,
+                  "body": "They sell £30 PCs now?",
+                  "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7qanbo/",
+                  "created": 1717882147,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l7qb9d3",
+                      "score": 5,
+                      "body": "A RPi isn't even 30 even anymore. Their base models are, but it doesn't include storage, power, or a case. You can get a SFF PC for dramatically better performance and lower cost than a Pi5 with storage and a case.",
+                      "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7qb9d3/",
+                      "created": 1717882396,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "l8jwqxe",
+                  "score": 1,
+                  "body": "RPi can be cheaper in long run when you take power consumption into account.\n\nAlso, RPi can run fanless (although latest ones do run hot).\n\nI also don't need the latest RPi for most of my stuff, I just buy second hand RPi 4...",
+                  "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l8jwqxe/",
+                  "created": 1718354281,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l7p2wik",
+              "score": 2,
+              "body": "Not from a reputable brand. People pay for Raspberry Pi because it's a stable platform that has its own open source ecosystem. There are a lot of RPi based boards in industrial applications and even in some cube sats. They're not going to develop around an AOOSTAR thing from Amazon just because it's faster and maybe a little cheaper.",
+              "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7p2wik/",
+              "created": 1717865222,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l7pb1ce",
+                  "score": 12,
+                  "body": "?? There are HP, Dell and Lenovo refurbs that sell for the price of a Pi. Linux is open-source and installs on anything. These arguments make no sense.",
+                  "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7pb1ce/",
+                  "created": 1717868308,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l7q0jz8",
+                  "score": 4,
+                  "body": "What are you even talking about? You can buy a Dell Optiplex for like 80-90 bucks with a 9th gen i5 and an SSD. That thing will absolutely spin circles around any Raspberry for literally any workload and it's cheaper than an 8GB Pi5 with an SD card. And Dell is *far* more reputable than Raspberry Pi in the computing space.",
+                  "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7q0jz8/",
+                  "created": 1717878189,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l7qnljx",
+                      "score": 0,
+                      "body": "Are you going to put an eBay special EOL Dell Optiplex from 5 years ago on a spacecraft, industrial HMI, or mass production robot? Embedded lifecycles are 5, 10, sometimes 20+ years.\n\n\nx86 is a small minority of the embedded market anyway. But if you want it, Intel makes a limited subset of their client chips into embedded SKUs where they guarantee minimum 10 year availability, instead of the normal ~2 years when they kill off commercial SKUs. Some of them in extended temperature range -40C/+85C, (like a Raspberry Pi compute module.) ",
+                      "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7qnljx/",
+                      "created": 1717887592,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l7qpyi9",
+                          "score": 2,
+                          "body": "REPOST because mod removed my comment for using an acronym that apparently is also a ticker symbol 🙄\n\nNope, but I wouldn't put a Raspberry Pi in those applications either if I cared about it being reliable. There are dramatically better options there. But hey, good thing no one here is talking about using it in those scenarios anyway. \n\nRegardless, those limited use cases aren't driving the majority of sales volume for RPi. Raspberry Pi is nearly never the best option.\n\nThe only area a RPi makes any sense is when:\n\n- You need minimal computing capabilities \n- You need a traditional OS\n- You need GPIO/SERIAL PERIPHERAL INTERFACE (the acronym got my comment deleted)/I2C/etc specifically \n- You don't have the knowledge/capability to design a more appropriate custom solution \n- You're not cost sensitive\n- You're not battery operated \n\nLiterally anything else and there is a better option out there.",
+                          "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7qpyi9/",
+                          "created": 1717888617,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l7qswve",
+                              "score": 0,
+                              "body": ">The only area a RPi makes any sense is when: Yeah, all of those reasons, except \"traditional OS\" whatever that's supposed to mean. \"Real\" embedded software development takes a lot more expertise than hacking together a solution on a Pi, and often proprietary tools locked behind paid licenses and/or NDA's. So Pi does very much have an industry niche, where you can copy open code from millions of other users that is known to work on your exact platform. Or you pay some real engineers $100k-200k to make an optimized \"real\" embedded system with a custom board and custom kernel where you can certainly save some power and a few grams of weight and dozens of dollars per unit, if that's *actually* important. In many situations that is not important.",
+                              "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7qswve/",
+                              "created": 1717889890,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l7qtsdn",
+                                  "score": 2,
+                                  "body": "Traditional OS as in, not any flavor of RTOS which is typically what you actually want in any embedded design. And not a scenario where an MCU would have been approiate (95% of use cases in the areas you highlighted)\n\nAnd those are all intersecting scenarios I listed. If any single one of them isn't true, it's not the best option. Meaning it's extremely unlikely an RPi is actually your best choice, ever.\n\nAlso, you're not saving \"some power\" and \"a few grams.\" Raspberry Pis are excessively horrible for those use cases. They are legitimately terrible and it's not close. You can use a SoM that will idle at under 100mA and run Linux, and it's extremely easy to integrate with any engineering resources at all. If you have no engineering resources whatsoever, I don't trust your ability to integrate an RPi in anything correctly anyway.",
+                                  "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7qtsdn/",
+                                  "created": 1717890272,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l7qdnna",
+          "score": 2,
+          "body": "The real problem is they’re so tricky to buy. I wish mini PCs had GPIO that stuff is so much fun. Like I never really understood the need to go full arduino if you can have a GPIO header that runs Linux.",
+          "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7qdnna/",
+          "created": 1717883378,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l7sn9el",
+              "score": 2,
+              "body": "If you have a real parallel port you can easily do much of what you need to. I built a simple board about 35 years ago with a 36-pin Centronics Jack and relays to handle eight outputs. That’s trivial to make. You can also demux the parallel port output to get up to 256 different digital outputs. ",
+              "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7sn9el/",
+              "created": 1717927387,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l7p5lkx",
+          "score": 0,
+          "body": "in the same form factor? can you give me some examples?",
+          "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7p5lkx/",
+          "created": 1717866252,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l7p70dx",
+      "score": 14,
+      "body": "Why does this feel DOA? As an enthusiast and have a drawer full of RPis, I feel this is not worth it.\n\n- it was revolutionary for the time it came out, however the competition caught up really quick. There are better platforms available now than ever, for you to get a better bang for your buck.\n- RPIs are no longer the cheapest, or the smallest or the fastest SBCs, they basically have no moat.\n- they use $AVGO chips with $ARM architecture to compete against the likes of $INTC and $AMD. It still feels like an enthusiast early adopter product and not something you can sell to the public or other businesses.",
+      "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7p70dx/",
+      "created": 1717866790,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l7r7fad",
+          "score": 3,
+          "body": "I'm getting the same impression. My immediate thought was \"why would I want to buy that?\"\n\n\nI can't see any moat, their products are average, and they are constantly being undercut on price by comepetitors.\n\n\nThe only advantage I can maybe see is if there is an industrial market that they have cornered, but I dount that exists, even with their pivot during covid.",
+          "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7r7fad/",
+          "created": 1717896390,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l7s0s81",
+          "score": 2,
+          "body": "I look at it as educational. What other communities have same support system for building fun hobbyist projects. \n\nI looked at Arduino but it seems much more complicated.",
+          "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7s0s81/",
+          "created": 1717911478,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l7schps",
+          "score": 1,
+          "body": "Looks like their direct channel sales are doing very well, with consumer sales dipping off \n\n[https://imgur.com/a/xUy1ShK](https://imgur.com/a/xUy1ShK)",
+          "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7schps/",
+          "created": 1717919398,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l8ignz7",
+              "score": 1,
+              "body": ">Looks like their direct channel sales are doing very well, with consumer sales dipping off\n\nBecause THEY INTENTIONALLY NUKED THEM! Its in their offering prospectus. The CEO/HEAD admitted flat out! They PO'd every one and now that \"consumer\" base has chosen to move on.. read around here.. lots of PO'd consumers. Rightly so... \n\nTime to GME them!",
+              "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l8ignz7/",
+              "created": 1718326385,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l7ohvi7",
+      "score": 11,
+      "body": "What’s the use case for pis? I thought it was mainly hobbiest. I bought one a few years ago for fun, but is there a bigger use case or market I’m not aware of?",
+      "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7ohvi7/",
+      "created": 1717857172,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l7oo1cm",
+          "score": 9,
+          "body": "IoT",
+          "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7oo1cm/",
+          "created": 1717859613,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l7p2uea",
+              "score": 23,
+              "body": "Meh, most IoT is gonna use a microcontroller of some sort. Raspberry pi's are pretty inefficient from an embedded standpoint, and most IoT will run on some ESP32 or STM32. The Pico makes a decent amount of sense, but using a whole computer(like the pi) doesn't make much sense for an embedded device where you're trying to squeeze as much performance out of a tiny board as possible.",
+              "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7p2uea/",
+              "created": 1717865200,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l7opcrv",
+              "score": 5,
+              "body": "Is this true? Is a pi really the best solution? I would think many iot applications have their own dedicated hardware. I don’t see Amazon putting pis in all their trucks.",
+              "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7opcrv/",
+              "created": 1717860122,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l7r5xpc",
+                  "score": 5,
+                  "body": "Esp32 or stm32 for most. Risc for anything more now instead of pis which cost too much.",
+                  "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7r5xpc/",
+                  "created": 1717895713,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l7oz8c5",
+                  "score": -2,
+                  "body": "Designing your own custom hardware to go into IoT devices is expensive. With a Pi you get convenience and a tested platform that you can build upon. Amazon probably won't go this route but lots of small businesses can leverage a Pi for IoT applications.\n\nThey have microcontrollers as well for $4:\nhttps://www.raspberrypi.com/products/raspberry-pi-pico/",
+                  "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7oz8c5/",
+                  "created": 1717863806,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l7p3ij1",
+                      "score": 1,
+                      "body": "Another perk is you can start developing on a stock Raspberry Pi as a test kit in parallel with developing a full custom board, or a specialized carrier module.\n\n\nGetting representative development board for other platforms can be expensive (sometimes $1000+) and not readily available. With Pi it's easy to get started at fast and with low investment.",
+                      "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7p3ij1/",
+                      "created": 1717865453,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "l7pprgy",
+                      "score": 1,
+                      "body": "Yeah, but I’m thinking in terms of why I would want to invest. If it’s just for small companies and individuals I don’t see the growth potential…",
+                      "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7pprgy/",
+                      "created": 1717873968,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l7se4ca",
+                          "score": 2,
+                          "body": "Have a read of the documents, the direct channel seems to be doing very well, and the figures look positive [https://media-prod.ii.co.uk/s3fs-public/pdfs/RPI\\_Factsheet.pdf](https://media-prod.ii.co.uk/s3fs-public/pdfs/RPI_Factsheet.pdf)",
+                          "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7se4ca/",
+                          "created": 1717920582,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l7pl2xx",
+          "score": 2,
+          "body": "I use them for my home built IoT, for my 3D printer, for my TV shows and movies, and for an extremely portable quick PC.",
+          "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7pl2xx/",
+          "created": 1717872151,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l7p4h0f",
+          "score": 1,
+          "body": "Seen a lot of digital sineage using Pis. Software like https://pisignage.com/ makes it's really easy to stick one to the back of a big screen",
+          "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7p4h0f/",
+          "created": 1717865820,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l7oh247",
+      "score": 29,
+      "body": "Bruh they be IPOing anything and everything.",
+      "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7oh247/",
+      "created": 1717856843,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l7qsfqu",
+          "score": 8,
+          "body": "Peak reddit. The opposite is actually happening.",
+          "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7qsfqu/",
+          "created": 1717889683,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l7ojnb1",
+          "score": 8,
+          "body": "still less than what was going on in the 90s",
+          "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7ojnb1/",
+          "created": 1717857883,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l7pgz4w",
+              "score": 3,
+              "body": "Less than 2021 too",
+              "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7pgz4w/",
+              "created": 1717870557,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l7paehc",
+      "score": 6,
+      "body": "Raspberry Pis went from affordable toys with astronomical potential to overpriced rarities. You can get full computers with multiple times the power for the same price now.\n\nI was looking for another Pi after falling in love with it during the pandemic and while searching it just made no sense to use it instead of a refurbished mini-pc.\n\nThis and the whole ex-cop hire debacle… 🚮",
+      "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7paehc/",
+      "created": 1717868070,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l7nr3k3",
+      "score": 15,
+      "body": "I own Sony, which made an investment in Raspberry Pi. That’s another idea if you don’t want to buy into the IPO and/or purchase stocks on the London exchange. \n\nhttps://www.sony-semicon.com/en/news/2023/2023041201.html",
+      "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7nr3k3/",
+      "created": 1717843804,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l7px425",
+          "score": 25,
+          "body": "What would be the point in that? The market cap for RPi is $500m, Sony market cap is $100B. If sony owned ALL of RPi and RPi quadrupled, your sony investment would only be up 2%.",
+          "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7px425/",
+          "created": 1717876845,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l7pc8vl",
+      "score": 3,
+      "body": "I'm excited for RedBull and Chik-Fil-A I.P.O. !!! (I keep praying 🙏 every night for it)",
+      "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7pc8vl/",
+      "created": 1717868760,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l7pisqq",
+      "score": 3,
+      "body": "Pi 3 was the last board I went with. Pandemic era pricing killed them for me. For hobbyist, you're better off buying a used miniPC/NUC, depending on your use case you can even use an old Android phone. Then there's Odroid, Udoo, BananaPi, and all the other ARM and RISC-V boards. At this point I've been hearing the, it's all about the community, for Raspberry Pi for at least a decade and every year that becomes less of an advantage. So on that makes sense to try and cash out as soon as possible in an IPO.\n\nThe most recent Raspberry Pi wasn't very compelling in my opinion. Fine for IOT but not such an upgrade to be preferable against older Pis or alternatives. Also its video encoding/decision capabilities looks like they've conceded the HTPC status of Raspberry Pi's to competitor SBCs and mini PCs. Raspberry Pi is top as a brand name but in my opinion that brand name is losing its reverence in the SBC and miniPC market",
+      "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7pisqq/",
+      "created": 1717871268,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l7plkbl",
+      "score": 3,
+      "body": "I expect it to pop but not necessarily draw down. There's a dearth of tech in London so it will attract inflows. Op profit should be upwards of £40m this year so $680m is only 17x, growing in the mid teens. It's probably worth over a billy",
+      "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7plkbl/",
+      "created": 1717872338,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l7xyl1k",
+          "score": 1,
+          "body": "great post thanks.",
+          "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7xyl1k/",
+          "created": 1718015353,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l7ofod3",
+      "score": 7,
+      "body": "[deleted]",
+      "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7ofod3/",
+      "created": 1717856281,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l7ojo86",
+          "score": 13,
+          "body": "They sold out long ago with private equity.",
+          "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7ojo86/",
+          "created": 1717857893,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l7ouheh",
+          "score": 1,
+          "body": "You’d do the same.",
+          "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7ouheh/",
+          "created": 1717862094,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l7nque0",
+      "score": 2,
+      "body": "Ticker?",
+      "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7nque0/",
+      "created": 1717843633,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l7of5og",
+          "score": 4,
+          "body": "Yeah it'll have a ticker",
+          "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7of5og/",
+          "created": 1717856067,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l7ts8ca",
+          "score": 1,
+          "body": "[deleted]",
+          "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7ts8ca/",
+          "created": 1717947314,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l7or0w9",
+      "score": 2,
+      "body": "They don't make sense at the current price point.",
+      "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l7or0w9/",
+      "created": 1717860766,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8im19b",
+      "score": 1,
+      "body": "Looks like the institutions like the stock, gone up rather a lot with only them trading …. Open to retail tomorrow",
+      "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l8im19b/",
+      "created": 1718328645,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8l6ro9",
+      "score": 1,
+      "body": "Where can one buy the stock? I don't find it on ny brokers page",
+      "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l8l6ro9/",
+      "created": 1718376817,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l8lv1no",
+          "score": 1,
+          "body": "I believe you can buy it on IBKR. I can view the chart on there but I don’t have my account funded yet so I’m not 100% positive a buy button will appear once I do. The ticker is RPI. It’s on the LSE (London Stock Exchange)",
+          "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/l8lv1no/",
+          "created": 1718385017,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lo93zrf",
+      "score": 1,
+      "body": "Wasn't it a foundation?",
+      "permalink": "/r/stocks/comments/1daxfby/raspberry_pi_ipo_on_london_stock_exchange_public/lo93zrf/",
+      "created": 1726946327,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

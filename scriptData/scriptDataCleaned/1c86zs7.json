@@ -1,0 +1,1640 @@
+{
+  "title": "First Post - 6 years of experience to absolutely paper hands it.",
+  "score": 657,
+  "selftext": "Been trading options for 6 years. Pretty much always sucked at it, but decent enough to not like, lose all my money; build up slow; take big risk, wipe out gains, repeat.\n\nYesterday morning I bought NVDA puts at 855, just two. Stock start going up fast. Tried averaging down. Just stared at the market for 3 hours; started coming down. I panic sold to get out. Figured, rather lose $1,700 today than $3k.\n\nI had 9 that averaged at 3.90ish.\n\nIf I had held to close today, I would have made $80k.\n\n\n\n$3,700 to $80k.\n\nInstead... $-1,700.\n\n\n\nThat one broke me, fam. I finally posted.",
+  "link_flair_text": "Loss",
+  "id": "1c86zs7",
+  "num_comments": 182,
+  "created_utc": 1713558437,
+  "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/",
+  "comments": [
+    {
+      "id": "l0cmzoe",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 1 | **First Seen In WSB** | just now\n**Total Comments** | 0 | **Previous Best DD** | \n**Account Age** | 9 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0cmzoe/",
+      "created": 1713558440,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0coatg",
+      "score": 499,
+      "body": "On Fridays, you need to have a different mentality instead. Listen.\n\nInstead of scalping for a couple bucks here and there and then letting your emotions control your paper hands after the market makers hunt your stop loss levels (which appears to be what happened to you today), set aside a fixed amount you're willing to lose (let's say $2K for simplicity). \n\nJust assume you've already lost this amount. Consider it already gone before you execute your trade. No paper hands bullshit. No emotions to conquer. So now just go all in with this predetermined amount with what you've decided (NVDA calls or puts or strangle both)\n\nThere are four possible outcomes:\n\n1. You pick the wrong direction ($2K in NVDA calls) = you lose and try again next Friday\n2. You pick the right direction ($2K in NVDA puts) = pay off your house, new lambo, thicc hookers\n3. You pick a strangle ($1K in NVDA puts, $1K in calls) with today's volatility = bear leg prints, bull leg expires worthless and you win pretty big.\n4. You pick a strangle ($1K in NVDA puts, $1K in calls) and market stays flat = both legs expire worthless, you lose and try again next Friday\n\nYou still have money. Still a good chance you're retiring early bro.\n\nI've tried scalping but the large position size and bid ask spread REALLY fucks your emotions. Citadel sees your large order and they WILL move that shit temporarily against you to scare you into selling even if you're right in the first place (which is what happened to you)\n\nDon't feel too bad, bro. Try a different strategy and in two weeks let's see some gain porn",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0coatg/",
+      "created": 1713558915,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l0cv1yp",
+          "score": 108,
+          "body": "X2 on this guy’s mentality. Trick is discipline in executing it.",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0cv1yp/",
+          "created": 1713561408,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l0exvyt",
+              "score": 3,
+              "body": "this is how i did it as well, literally same exact strategies, it’s not guaranteed but it’s kinda like basic strategy in blackjack, it’s the best we got",
+              "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0exvyt/",
+              "created": 1713596273,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l0cpsqf",
+          "score": 44,
+          "body": "Fuck, thanks man.\n\nYeah, it's like every is fine in a relatively safe zone; I try to enter at smart points, I generally don't pick bad when I got my bar charts up. My brain deals with it all, particularly after a years messing around for funnies and knowing the risks and such. I'm familiar with the panics, and have learn to cope pretty well; knowing what was an acceptable loss, paying further out in time to remove some of impending dome feeling, lol. That one just hit so much different.\n\nI've been messing with making a bot and testing in Alpaca; once I finally get things working, I would definitely like to start testing my strategies and removing my wimpy little brain from the equation for sure.\n\nI appreciate the encouragement. Definitely ain't a quitter... but definitely hard reset the old risk tolerance.",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0cpsqf/",
+          "created": 1713559463,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l0e6l43",
+              "score": 10,
+              "body": "It is great because then you could blame the bot instead of blaming yourself.",
+              "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0e6l43/",
+              "created": 1713581288,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l0fyvah",
+                  "score": 8,
+                  "body": "True, and it has no emotional baggage, so it won't mind taking the blame, I'm sure.\n\nI'll even program in some basic responses, \"Ah, that one was my bad\", \"Shit, dude, that one is totally on me\", \"You programmed me so well, and yet I still suck\".",
+                  "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0fyvah/",
+                  "created": 1713617625,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l0g6ykf",
+                      "score": 3,
+                      "body": "Lmao..",
+                      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0g6ykf/",
+                      "created": 1713620982,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "l0e8m50",
+              "score": 7,
+              "body": "The problem I am sensing is an initial lack of capital in the first place to lack giving a fuck. Instead of swinging like 2k on some short term 1 or 0 day option, do like 150-250, and then say one of them explodes and does like x50, and you did 200, thats + 10k  . Repeat this a few times, and say this is how it works , 7 trades lose, 3 work, and \n\n  \n7\\*200= 1400 total losses due to diamond hand\n\n10\\*200= 2000 for a small win the first one\n\n6\\*200= 1200\n\n60\\*200= 12,000 biggest one \n\n15200-1400= 13000 net gain doing some trades. Of course no guarantee you'll hit the x60 trade in 10 trades but their is a chance .",
+              "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0e8m50/",
+              "created": 1713582250,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l0ebume",
+                  "score": 16,
+                  "body": "This can't possibly go tits up",
+                  "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0ebume/",
+                  "created": 1713583838,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l0eiacb",
+                      "score": 4,
+                      "body": "I outlined a best possible scenario .\n\nRealistically probably \n9 out of 10 losing trades and the one winner is like x10.\n\n-200*9=1800 loss \n200*10=2000 gain \n\nYea 0 days can move a lot more then x10 but I'm assuming ur selling early or the market just didn't give that crazy gain you sought . \n\nIf we increase it to like x40\n\nThen it's -1800 loss vs a 8000 gain , a 8000-1800=6800 net gain risking 2000 capital . X3.4 \n\nNot that great considering you can do like some longer term options lasting a few months on a more visible trend and make like x15-20 and have a fighting chance",
+                      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0eiacb/",
+                      "created": 1713587143,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "l0edkow",
+                  "score": 6,
+                  "body": "This. Bet size was too high for your capital.",
+                  "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0edkow/",
+                  "created": 1713584685,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l0fzluz",
+                      "score": 4,
+                      "body": "Indeed, and I held decently strong as it moved the wrong way, but once the panic was hit, my brain was stuck too much in \"minimum loss mode\" to make anything but clouded judgements at that point. Just got too deep into my risk tolerance than I was ready to go into that morning on essentially a whim. Lesson learned; I played with too much to feel comfortable, and NVDA was just too volatile to stomach.",
+                      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0fzluz/",
+                      "created": 1713617943,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "l0eff0f",
+                  "score": 5,
+                  "body": "The problem is he needs a high moving stock like nvda to yolo on, and that comes with a higher startup fee",
+                  "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0eff0f/",
+                  "created": 1713585619,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l0ei0bg",
+                      "score": 4,
+                      "body": "Yup . Op is mad that this trade he canceled but the only reason for such a paper hand reaction if he had traded like more then a 1/3 of his portfolio in a single option trade . Of course that would happen",
+                      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0ei0bg/",
+                      "created": 1713586986,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "l0fzsz7",
+                      "score": 1,
+                      "body": "Yes indeed. Just bad judgement. It's like walking in the casino, and taking a swing a the $500 slot machine, when I was on my way to play a little low stakes roulette lol.\n\nDefinitely will not be yoloing on anything though, lol.",
+                      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0fzsz7/",
+                      "created": 1713618029,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l0djonu",
+          "score": 11,
+          "body": "TLDR : buy 0 dte and hold till 1 minute before close and grow some balls you virgin!",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0djonu/",
+          "created": 1713571294,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l0ebrbk",
+          "score": 11,
+          "body": "It’s like poker chips in a tourney.  Once the cash is turned into chips, you already accepted the potential loss when you bought in.  Just play the game and make the most of it.  You don’t bail.",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0ebrbk/",
+          "created": 1713583793,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l0coqs2",
+          "score": 12,
+          "body": "Sound advice here",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0coqs2/",
+          "created": 1713559078,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l0cvn5n",
+          "score": 3,
+          "body": "Solid advise. I’m starting my long term calls along  with short term puts just in case. Any profit from the puts will go into the long.",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0cvn5n/",
+          "created": 1713561628,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l0d8lci",
+          "score": 4,
+          "body": "Damn nice. Thicc hookers",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0d8lci/",
+          "created": 1713566617,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l0fvkef",
+              "score": 1,
+              "body": "Id risk it all for thicc hookers",
+              "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0fvkef/",
+              "created": 1713616153,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l0d7i6y",
+          "score": 2,
+          "body": "Do you hold till end of the day?",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0d7i6y/",
+          "created": 1713566182,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l0dntzt",
+              "score": 11,
+              "body": "Depends on the ticker, ES and NQ sentiment, VIX and any catalysts. You need to let your 0dtes ride and not paper hand with a small win like a pussy. I'd say on a day like today when your OTM goes few strikes ITM or at least a 10X your original investment you can sell half and then ride the rest until an hour before market close. Or until market close if there's enough momentum and consistently elevating IV (puts consistently held their value even during any spikes upward) Today NVDA and SCMI puts had some hundred baggers.\n\nEven if you lose five fridays in a row, one strangle on a black swan style friday will wipe out all your previous losses. The point is having significantly larger wins than losses. 0dtes, though high risk have insanely high rewards which is why one needs to detach emotionally with a predetermined amount",
+              "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0dntzt/",
+              "created": 1713573068,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l0e6t9t",
+                  "score": 7,
+                  "body": "Ah yes.  Just need a black swan style event every 5 weeks and we good.",
+                  "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0e6t9t/",
+                  "created": 1713581393,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l0mm74k",
+                  "score": 1,
+                  "body": "Any good source you would recommend to learn about all these? Knowing options I always think the sensible way to do is option 3, but never know enough details about options to do it.\n\nAnd why one not just do this on every earning call days?",
+                  "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0mm74k/",
+                  "created": 1713723046,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l0dkqnn",
+          "score": 2,
+          "body": "This. I only scalp 25%-30% of my $$. The rest is for long term, more predictable trades.",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0dkqnn/",
+          "created": 1713571750,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l0g9hp0",
+              "score": 1,
+              "body": "Just curious, could I have one example of a “predictable “ trade?",
+              "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0g9hp0/",
+              "created": 1713621966,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l0gq1c4",
+                  "score": 1,
+                  "body": "The market only goes up. SPY and QQQ will return and surpass ATH guaranteed. Not if but when. Dollar cost average shares would be a slow and steady \"predictable\" trade.",
+                  "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0gq1c4/",
+                  "created": 1713628098,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l0i44nn",
+                      "score": 1,
+                      "body": "Spy, qqq. Yup this is what I imagined you’d say. Thanks!",
+                      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0i44nn/",
+                      "created": 1713645787,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "l0it4st",
+                  "score": 1,
+                  "body": "Swing trading AAPL is one. Also been buying outs in INTC since it has been falling in sympathy with nvda.",
+                  "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0it4st/",
+                  "created": 1713655332,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l0e9spw",
+          "score": 2,
+          "body": "Dude likes strangles and thicc hooks.  How often you employ the strangle?",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0e9spw/",
+          "created": 1713582827,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l0ctx1o",
+          "score": 1,
+          "body": "That’s some good advice! Copy clip and read again for sure !",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0ctx1o/",
+          "created": 1713560986,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l0d71xc",
+          "score": 1,
+          "body": "Could you elaborate on the practicality of a strangle? Newb regard here wanting to learn. How do you measure out how far OTM to get the calls and puts?",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0d71xc/",
+          "created": 1713565999,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l0dp07x",
+              "score": 5,
+              "body": "You also need to make sure the strike you're selecting has enough volume, open interest, and practical spread.\n\nYou can simulate the profitability of a long strangle here for free: https://www.optionsprofitcalculator.com/\n\nIf there's some bad premarket news like on SMCI with overreacting selling pressure where there's blood to be had, it's time to execute for some 20 bagger puts",
+              "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0dp07x/",
+              "created": 1713573564,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l0dh471",
+              "score": 1,
+              "body": "Based on how big of a move do you expect, it's that simple basically.",
+              "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0dh471/",
+              "created": 1713570182,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l0d7ljx",
+          "score": 1,
+          "body": "Do others in the market see where he puts his loss stop?",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0d7ljx/",
+          "created": 1713566220,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l0do9we",
+              "score": 6,
+              "body": "Citadel, PFOF benefactors, and trading bots do see large retail orders come in. They've been known to hunt (move a stock price momentarily or \"wick a candle\") to fill a set stop loss order, then let the stock proceed in its original direction",
+              "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0do9we/",
+              "created": 1713573254,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l0drcio",
+                  "score": 1,
+                  "body": "Huh, wonder if that’s what the huge spike and then dump middle of the day Wednesday was. That shit fucked me over so hard",
+                  "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0drcio/",
+                  "created": 1713574563,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l0dlgb2",
+              "score": 2,
+              "body": "They see where there is buy/ sell volume.",
+              "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0dlgb2/",
+              "created": 1713572051,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l0dl98k",
+          "score": 1,
+          "body": "That mental gymnastics about preparing to lose train ball of steel",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0dl98k/",
+          "created": 1713571969,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l0dp6w2",
+          "score": 1,
+          "body": "Wow, the best comment that I ever seen 🔥",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0dp6w2/",
+          "created": 1713573642,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l0dusuj",
+          "score": 1,
+          "body": "This is the way",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0dusuj/",
+          "created": 1713576028,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l0dy5fj",
+          "score": 1,
+          "body": "What you’ve described is essentially a money hack tbh . Have you done it to success ?",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0dy5fj/",
+          "created": 1713577475,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l0e7zsf",
+          "score": 1,
+          "body": "[changes handle to Option 2]",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0e7zsf/",
+          "created": 1713581953,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l0f0xru",
+          "score": 1,
+          "body": "> Citadel sees your large order and they WILL move that shit temporarily against you to scare you into selling even if you're right in the first place (which is what happened to you)\n\nMy guy had 2 puts, Citadel ain't doing shit for that \"large order\" lmfao",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0f0xru/",
+          "created": 1713598090,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l0fubii",
+          "score": 1,
+          "body": "I like option 2. How can I get to option 2",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0fubii/",
+          "created": 1713615572,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l0g89c8",
+          "score": 1,
+          "body": "I love this advice but my issue is when to take profits. I always take small profits because i’m scared shitless that it will start to move in the other direction. I have missed out on so much money because of this.",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0g89c8/",
+          "created": 1713621494,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l0gfwml",
+          "score": 1,
+          "body": "This man fucks ![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)![img](emote|t5_2th52|8882)",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0gfwml/",
+          "created": 1713624370,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l0gxqdk",
+          "score": 1,
+          "body": "I promise you no market maker is hunting this guys 2 contract stop😂",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0gxqdk/",
+          "created": 1713630853,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l0cvh3s",
+      "score": 54,
+      "body": "This happens to everyone. Rule number one is NO BACKTRADING.\n\nYou traded a certain way, it didn't go to plan, and any amount of regret and sadness you feel now will not change the situation you are in. In fact, if you keep focusing on it you will become more impulsive and risk tolerant in your future trades, most likely only to blow up your account.\n\nDon't stress, you'll make the money again.",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0cvh3s/",
+      "created": 1713561565,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l0cx5zh",
+          "score": 21,
+          "body": "\"In fact, if you keep focusing on it you will become more impulsive and risk tolerant in your future trades, most likely only to blow up your account.\"\n\n  \nYes, thank you. Hoping a couple margaritas will help me finish through the acceptance phase this weekend.\n\nIt's funny how panic makes you react impulsively, and just do dumber things. Just forgot how much until the last couple days, lmao. Hopefully the lesson sticks a little more this go around.",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0cx5zh/",
+          "created": 1713562196,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l0dr9b7",
+              "score": 7,
+              "body": "I sold some shit 24hrs too early, July last year .... Would've been up>100k on it lol it still fucks with me. \n\nThere are always other plays though my dude",
+              "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0dr9b7/",
+              "created": 1713574526,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l0cyo0m",
+              "score": 10,
+              "body": "yeah brother just enjoy the weekend, also my tip would be to browse the other posts on this sub labeled 'Loss' so you can feel better about your own situation lol",
+              "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0cyo0m/",
+              "created": 1713562761,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l0cz93l",
+                  "score": 7,
+                  "body": "Yes, that is working really well, thank you.\n\nI was definitely humbled. Definitely realized I'm an idiot. But yeah, nothing squandered except the fact I should of just bought AMD and shit 5 years ago when I was staring at it thinking it was such a good deal, lol. \n\nThis next go around is definitely going to involve stashing some of the gains into long-term investments as I go.\n\nJust knowing I'm not like anywhere close to 90% of my life savings bad. Definitely ain't running to deposit money into my account to feed the void. Plenty to be graceful for.",
+                  "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0cz93l/",
+                  "created": 1713562982,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l0czaas",
+                      "score": 13,
+                      "body": "The fool pondered yet failed to act—an all-too-common tale among the poor.",
+                      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0czaas/",
+                      "created": 1713562995,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l0d1sqs",
+                          "score": 10,
+                          "body": "![img](emote|t5_2th52|18630)lol",
+                          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0d1sqs/",
+                          "created": 1713563950,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l0daudg",
+          "score": 9,
+          "body": "Good advice. NO BACKTRADING. I need to stop looking back like OP. \n\n25x QQQ 420p 4/22 bought at open, cost basis of 1.81. Sold 24 at 2.39. Left a runner and sold it at 2.79. Not even 20 minutes in the trade. A win in my book but continued to watch QQQ drop its boat anchor. The 4/22 420p maxed at 7.03. \n\nI have a rule if I shoot my shot and win I do not chase. But I backtraded the entire afternoon session.",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0daudg/",
+          "created": 1713567528,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l0dllh5",
+          "score": 1,
+          "body": "I noticed after severe less my capacity to handle risk becoming much lower and I instead losing more of my money because I keep having trade hit SL before it's started to move in my favour",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0dllh5/",
+          "created": 1713572112,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l0cqc4d",
+      "score": 43,
+      "body": "The last time when something like this was happening to me I asked myself what difference does it make to lose $3k instead of just $1.7k. Nothing. So I did nothing and lost $3k. While taking risk, be greedy and be lazy \n— fellow regard",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0cqc4d/",
+      "created": 1713559658,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l0fovji",
+          "score": 1,
+          "body": "LOL",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0fovji/",
+          "created": 1713612865,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l0ctdvx",
+      "score": 40,
+      "body": "If you made 80k from the play, it is luck. If you did not, it’s normal. You are just not lucky enough bro. Eat it and move on.",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0ctdvx/",
+      "created": 1713560786,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l0ctw5d",
+          "score": 12,
+          "body": "Thanks, unfortunate but accurate.",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0ctw5d/",
+          "created": 1713560976,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l0cteii",
+          "score": 12,
+          "body": "Luck only gets you so far. If you didn't make a killing off it, you're a chump.",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0cteii/",
+          "created": 1713560793,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l0czfkk",
+              "score": 5,
+              "body": "When visual mod says some shit, you know it’s fax",
+              "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0czfkk/",
+              "created": 1713563050,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l0ctmfg",
+              "score": 1,
+              "body": "Exactly.",
+              "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0ctmfg/",
+              "created": 1713560875,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l0e7lv6",
+          "score": 2,
+          "body": "Exactly this. \n\nToday I would have made 1k plus literally in 5 mins candle. I was just one click away to get in the position. But chickened out, waited for a confirmation, and had to settle down for $350 lmao \n\nI didn’t leave it for my luck haha",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0e7lv6/",
+          "created": 1713581769,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l0cnwcn",
+      "score": 12,
+      "body": "Damn bruh that hurts sorry",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0cnwcn/",
+      "created": 1713558766,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0cnilm",
+      "score": 9,
+      "body": "It happens move on to next play",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0cnilm/",
+      "created": 1713558630,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l0codwl",
+          "score": 7,
+          "body": "Ah, yeah, shorted SPY today for next week and am up %60 in it at the moment. Of course... much smaller position to build back up.\n\nIt shook my ego man... hit me somewhere inside so deep my brain is still just reeling. Had I broke even or walked with a $1k, would have been one thing. Watching the charts, I could have made that back today easy; but that one took the wind out of me a bit.",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0codwl/",
+          "created": 1713558947,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l0cp2px",
+              "score": 10,
+              "body": "What happened to me is I made 20 k buying puts all of sudden I wanted to switch to call lost that 20 k in couple of days. . It did hurt me bro . Thing about Options man , if you are not rdy to lose it all you are not rdy to win it all period There is always a new play everyday. Enjoy your weekend and come back win again next week",
+              "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0cp2px/",
+              "created": 1713559199,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l0cqy5d",
+                  "score": 3,
+                  "body": "Yeah, always prepared myself to lose it all. Just never prepared myself to mistake myself out of like life changing money. My brain just was not ready to ingest that one.",
+                  "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0cqy5d/",
+                  "created": 1713559881,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l0cutki",
+      "score": 8,
+      "body": "Had 90 AMD 4/19 $152.50p for $0.87/ contract that I paper handed yesterday before close attempting to limit my losses with the expectation that NFLX would crush earnings and tech would scream higher.\n\nWould have been $65k if I closed at 3:00pm today.",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0cutki/",
+      "created": 1713561321,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l0cvtos",
+          "score": 3,
+          "body": "Ah, god, yes you know the feeling spot on then ha. \n\nI pretty much questioned every facet of my existence by close yesterday. Shit had me back this morning on baby's first options trades.",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0cvtos/",
+          "created": 1713561696,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l0cw2bc",
+              "score": 3,
+              "body": "Right there with ya brother 🫡\n\nWe’ll get ‘em next time.",
+              "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0cw2bc/",
+              "created": 1713561786,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l0cv7fb",
+      "score": 7,
+      "body": "Run this play again on Wednesday before PCE and Core PCE are released. Going to be a bloodbath because CPI was up, commodities were up, retail sales were way up, and initial claims were still low.  \nEdit: Not the paper hand part.",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0cv7fb/",
+      "created": 1713561465,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0dda2z",
+      "score": 7,
+      "body": "You did the right thing *with the information you had at the time*. You didn't panic sell. You monitored it for hours and when it moved back, *then* you sold. Kept the losses down to let you fight another day. It could have gone *up* 10%.\n\nTrading with hindsight will drive you mad. There was no way to *know* NVDA would drop 10% today.",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0dda2z/",
+      "created": 1713568544,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l0dhpxe",
+          "score": 2,
+          "body": "Ah thanks. Yeah, just a set back. At least I got a new reference point for panic mode, lol.",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0dhpxe/",
+          "created": 1713570444,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l0cts0h",
+      "score": 6,
+      "body": "You are not alone there.. I bought the same and sold too early.. i didn’t do that high of trade but my gain would have been 4x over if I had waited too..",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0cts0h/",
+      "created": 1713560933,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0d3zyi",
+      "score": 6,
+      "body": "It happens man, I’ve had this happen more times than I care to think about.\n\nFor example my last trade cost 7k sold at +20k yesterday, had I held into close today it would be close to 50k.\n\nYou win some you lose some. Just keep managing the risk and as long as you don’t blow up your account you can fight another day.",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0d3zyi/",
+      "created": 1713564799,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0dvive",
+      "score": 6,
+      "body": "Same boat here. I did this twice this week. I'm debating if the stress is worth the reward. I'm leaning towards following my trading plan for the next year and reporting back. I think anyone with any sort of trading plan or rules for taking trades most likely had this happen at least once this week, if not 3 or 4 times. This was not a normal week. While there are a few Yolo gamblers on here that made $80k on silly unlikely plays, it almost motivates me to go ahead and follow my plan for 1 year. It's just detrimental that a single, one fuckin decision to not follow the plan can melt away 30, 60 or 90 days of sticking to the plan. It's a battle, and I think those who are successful at trading are the ones that can win that battle alone, not the ones that have good luck on lotto otm 0dte options. While it would be nice to get a head start or a nice buffer off of one giant trade like that, they say easy come easy go. I'm lowering my risk next week and getting back to the basics. Base hits. This is a marathon not a sprint. I'm also considering deleting Reddit as it inflates red days when you see Bob hitting 40k on a $200 entry. Especially when Bob doesn't show that he lost every single penny of that 40k the very next day. Send me a dm, maybe we could report daily, or even weekly about our trading to help stay on track. Like I said, I'm in the same boat as you. I went on tilt and bought 70 lotto puts, took a 40% sl and they went +1000% 3 hours later. Bob sat thru -40% then -70% and even -90% to finally hit +1000%. That strategy doesn't work over time.",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0dvive/",
+      "created": 1713576341,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0cp7xq",
+      "score": 5,
+      "body": "That's hard to read. Sorry man.",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0cp7xq/",
+      "created": 1713559250,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l0cr22k",
+          "score": 5,
+          "body": "It's alright. I could be down, down, instead, I hopped of the money train. So hardly the worst I've seen on these boards, for sure.",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0cr22k/",
+          "created": 1713559921,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l0d4cqd",
+      "score": 5,
+      "body": "Not just you my friend !! I paper handed too today ..! I would have been sitting at 60k+ if i would have hodledd !! 🥹\n\nhttps://preview.redd.it/hfo4f619givc1.jpeg?width=1284&format=pjpg&auto=webp&s=d9e56a03f4ef1bbdab7147cebd105997d85e0a03",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0d4cqd/",
+      "created": 1713564937,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l0di6qn",
+          "score": 2,
+          "body": "Ah yea, kills me because in my head we were going down; but it's like the market tested me all the way to the breaking point and forced the cloudy judgment. It's really my fault for touching NVDA, when I almost exclusively look at and trade on SPY.",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0di6qn/",
+          "created": 1713570645,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l0daxaj",
+      "score": 3,
+      "body": "See you Monday!",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0daxaj/",
+      "created": 1713567561,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0df3rv",
+      "score": 3,
+      "body": "I've been in the same situation as you years ago so I know the feeling. You need to work on having a game plan for the day before the market opens. And of course every day that plan will be different but analyze, create the game plan and stick to the plan no matter what. It won't work every single day but you will greatly minimize these situations from happening and you'll profit. Also, if you can help it, do not hold anything over night. Close your positions by the end of the day. Most options expire worthless in the long run and I learned through experience not to hold anything overnight. You'll never get caught off guard and you'll come into the market every morning fresh with a game plan especially if you pay attention to premarket movements. Don't give up!",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0df3rv/",
+      "created": 1713569316,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0e12mw",
+      "score": 3,
+      "body": "I did the same thing a month ish ago. Bought $3800 worth of 2dte $900 puts for NVDA. After two hours I was down 50% and sold. The next morning if I held I would have made 21k. Sucks.",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0e12mw/",
+      "created": 1713578761,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0ej10g",
+      "score": 3,
+      "body": "You lost half a months salary but could have made 3 years worth.. think about it",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0ej10g/",
+      "created": 1713587560,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0ejtij",
+      "score": 3,
+      "body": "Hey dont worry, i sold my 46 contracts, 800 strikes for a 3k gain this morning. They were worth 200k at one point.",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0ejtij/",
+      "created": 1713588012,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0fddka",
+      "score": 3,
+      "body": "lol u didnt know i have 100x 800p expired today. I sold those for 5000 which now is worth 400000. Yes I sold at open, after down 90% on my nvda bear port that I held for 3 months",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0fddka/",
+      "created": 1713605982,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l0fdec1",
+          "score": 1,
+          "body": "The poor will always be among us. It is their lot in life.",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0fdec1/",
+          "created": 1713605996,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l0fxbqt",
+      "score": 3,
+      "body": "You’re in a tough spot.  There is no way of knowing which way nvda was going to go on Friday.  Chart shows that nvda is right at support and could easily break to the upside.  You could have been -80k. You did the right thing.  Just take the L and move on.",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0fxbqt/",
+      "created": 1713616948,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0cv6f2",
+      "score": 2,
+      "body": "I sold my UAL calls for $2k and if I held to expiration I would have made $20k 😭 not as bad, but still frustrating! \n\nLearning moments!",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0cv6f2/",
+      "created": 1713561455,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l0cwfq7",
+          "score": 1,
+          "body": "Yeah, no matter what I do going forward, definitely learned a lesson this week.",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0cwfq7/",
+          "created": 1713561922,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l0czvda",
+      "score": 2,
+      "body": "Been there myself recently, actually last week when Apple shot up and back down. Thought about the money I left on the table for about 2 days. Hurts almost as much losing money you never had, as losing your own. Find a way to have a good weekend and move on. For me that’s cocktails by the pool in sunny Florida as we speak. Good luck my friend!",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0czvda/",
+      "created": 1713563217,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l0d28lm",
+          "score": 2,
+          "body": "You as well. Thanks!",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0d28lm/",
+          "created": 1713564118,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l0d5ed9",
+      "score": 2,
+      "body": "You would've panic sold this morning.",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0d5ed9/",
+      "created": 1713565345,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l0dh6k2",
+          "score": 1,
+          "body": "Probably so, lol.",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0dh6k2/",
+          "created": 1713570211,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l0d6ylr",
+      "score": 2,
+      "body": "I almost did the same but thank fing god I held on to my bag of 750, 800 and 840P",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0d6ylr/",
+      "created": 1713565962,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0df22h",
+      "score": 2,
+      "body": "i had a rough day too bud, but there are more trading days to come",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0df22h/",
+      "created": 1713569296,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0dm1z3",
+      "score": 2,
+      "body": "Hey. Sorry to hear about your experience today. If someone has been playing this game for a while they will have a similar story. But you protected your capital and experienced traders are disciplined. It could have easily gone against you even more and would have lost everything.\n\nIt seems like everyday people come to play this game and everyday someone blows up their account never to be heard from again. Just hang in there man, you get a chance to play again unlike anyone who had calls expiring today.\n\nAt least you were not that poor guy with 1200 490p expiring (expired) today. He counted his tendies and the market said nope.\n\nTry to get your mind off of it.\n\nAnd honestly diamondhanding is not really a trading strategy. Honor your stop losses.",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0dm1z3/",
+      "created": 1713572306,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l0dm1zs",
+          "score": 1,
+          "body": "Oh my gourd! \n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0dm1zs/",
+          "created": 1713572306,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l0dv6zl",
+          "score": 1,
+          "body": "Ha thanks. Yeah, I mean I know I've made some dumb trades, but never sought to make one of the dumbest ones imaginable lmao.\n\nI shorted SPY today, just .. very cautiously this go around. Buy yea getting through the 495 pivot, I knew it'd be good for the rest of the day, but getting down to 491, let alone breaking the last pivot seemed like a stretch, as happy as I would have been myself, ha.",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0dv6zl/",
+          "created": 1713576198,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l0dwz9o",
+              "score": 2,
+              "body": "lol I hear ya. Hang in there, you will get more chances. Next few months are gonna be a bit wild up and down I imagine.",
+              "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0dwz9o/",
+              "created": 1713576968,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l0dv70l",
+              "score": 1,
+              "body": "*This “pivot.” Is it in the room with us now?*\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",
+              "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0dv70l/",
+              "created": 1713576198,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l0dns15",
+      "score": 2,
+      "body": "Spending 6 years to go nowhere while wasting a lot of energy on trading is pretty sad. \n\nOver the past 5 years s&p up about 70%\n\nPassive investing would have absolutely crushed spending lots of effort to go no where",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0dns15/",
+      "created": 1713573044,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0do5gv",
+      "score": 2,
+      "body": "Why so weak?",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0do5gv/",
+      "created": 1713573202,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l0dpx8d",
+          "score": 1,
+          "body": "If only I knew! ![img](emote|t5_2th52|4260)",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0dpx8d/",
+          "created": 1713573951,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l0dzc4t",
+      "score": 2,
+      "body": "All you can do in this situation is remember the following \n\n1. Theoretical gains were not your money so you can't miss them\n\n2. You are not worse off than you were before \n\n3. You are actually better off than you were before because now you have another learning experience to help formulate future trades\n\n4. Giving in to the despair of missing will only waste your time, brain power, and your loved ones patience\n\n5. There are 10 bagger, sometimes even 100 bagger, trades to be made on a weekly basis these days. There's always another after you bungle \"the one\"\n\n6. Probably most importantly, absolutely nobody expected 2024's favorite stock to tank 10% today. It punched through 800 with no resistance. You did not expect this, otherwise you would have traded it, so those gains were not yours. There's no point in worrying over it. You know in your heart this was unexpected",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0dzc4t/",
+      "created": 1713577991,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l0e0e5f",
+          "score": 1,
+          "body": "Oh yeah, I was mostly bummed I panic sold, instead of just holding until close yesterday, and pocketing a couple grand, which I most likely would have panic sold into had I even made it that far. It was watching a close today just looking at the numbers thinking... mf'er.\n\nBut all points worth remembering. Thanks.",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0e0e5f/",
+          "created": 1713578455,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l0e03d9",
+      "score": 2,
+      "body": "Brah I feel you, I feel you.",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0e03d9/",
+      "created": 1713578325,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0e1tbf",
+      "score": 2,
+      "body": "Well played regard",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0e1tbf/",
+      "created": 1713579097,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0e60pp",
+      "score": 2,
+      "body": "Hahaha it’s okay to get PTSD and chicken out.",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0e60pp/",
+      "created": 1713581023,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0enlxs",
+      "score": 2,
+      "body": "had 257 shares of AMC at 9$ sold at 21$ thinking I was the biggest winner ever. Shits turns and goes to 70$. I feel ya brother.",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0enlxs/",
+      "created": 1713590236,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0ev2at",
+      "score": 2,
+      "body": "The mental game of trading..buy it read it.  Make your plays and walk away from the monitor.  Go for a walk.  Go garden. Clean the floors.  ANYTHING BUT WATCHING THE MONITOR. I knee jerked after earnings once and lost 17,000 dollars and had I not been WATCHING THE MONITOR, an hour later would have hit my mark of plus 7 G and the stock actually ( if I hadn’t had a mark) would have netted me 14 G.  3rd time is a charm.  The market is a very good teacher if you can LEARN FROM IT.",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0ev2at/",
+      "created": 1713594615,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l0g331g",
+          "score": 2,
+          "body": "Thanks, I'm definitely going to change around the strategy to try to remove staring at things so intently. At the very least, if I lose on a given day, I don't waste 3 hours in a vague panic attack lol.",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0g331g/",
+          "created": 1713619411,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l0ftt3t",
+      "score": 2,
+      "body": "I had Tesla 155, 152.50, 150, and 149 strike puts since Monday and I sold the shit out of them on open Wednesday thinking the Tesla fanboys would pump it like they usually do. I even had the thought maybe I’ll keep the 149 since I made some decent money but my risk averseness prevailed and I got out completely. I don’t even want to know how much I would have made if I held till Friday close.",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0ftt3t/",
+      "created": 1713615336,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l0fykux",
+          "score": 2,
+          "body": "Ah, brutal. I felt like it was market correction time, just picked like the worst morning to start with. Hopefully we got another month of down turn to play with. If the cat bounces though, just know that's when I put my order in, lol.",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0fykux/",
+          "created": 1713617499,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l0gr65a",
+              "score": 1,
+              "body": "I was super bearish all week but Friday I made the classic mistake of thinking, “highly unlikely to have 6 red days in a row” so I went all out on calls and got crushed.",
+              "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0gr65a/",
+              "created": 1713628499,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l0cq7m4",
+      "score": 1,
+      "body": "Hey man, I feel you. I joined the markets late in the March, was up a bit and then lost almost all of it and no matter what I did I was losing money.  \n  \nI closed almost all my positions today (which in hindsight was a good decision), and going to just watch what happens next week and maybe will figure something out. For now its a good idea for us to take a little break and figure out our next strategy based on the information that we get next week.\n\nHope this helps.",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0cq7m4/",
+      "created": 1713559612,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l0cvnuc",
+          "score": 5,
+          "body": "I joined the market on march 28 and I’ve never seen any positive gains to this day. I should have closed all my positions like you but it’s to late now microstrategy, nvidia and rddt have eaten my soul and there’s no pulling out now.![img](emote|t5_2th52|31225)",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0cvnuc/",
+          "created": 1713561635,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l0eiclw",
+              "score": 2,
+              "body": "I joined last week and my fear and lack of understanding has prevented me from risk. Sitting on a whopping $5 loss this week. Now I am sitting here debating on whether or not to buy SMCI after it dropped 23% today.",
+              "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0eiclw/",
+              "created": 1713587178,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l0eo4ai",
+                  "score": 1,
+                  "body": "5 dollars is 5 dollars.",
+                  "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0eo4ai/",
+                  "created": 1713590554,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l0d5jjg",
+      "score": 1,
+      "body": "Fridays and NVDA could make one a millionaire with just a few thousand bucks",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0d5jjg/",
+      "created": 1713565400,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0d9g72",
+      "score": 1,
+      "body": "paper handed lil btich... man up!",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0d9g72/",
+      "created": 1713566959,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0dasgr",
+      "score": 1,
+      "body": "I hope you’re one of the clowns hating on DJT if not sorry bro learn to trade, you’re gambling",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0dasgr/",
+      "created": 1713567506,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0dbusk",
+      "score": 1,
+      "body": "That sucks and you’ll never forget it, but it’s all luck.",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0dbusk/",
+      "created": 1713567944,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0dd6mb",
+      "score": 1,
+      "body": "There is no if bro. If will never happen to you.",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0dd6mb/",
+      "created": 1713568504,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0dkctl",
+      "score": 1,
+      "body": "20/20 hindsight is a good thing",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0dkctl/",
+      "created": 1713571583,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0dkl4u",
+      "score": 1,
+      "body": "I just started trading from last month, if there's one thing I learnt, Friday with catalyst as strong as war, everyone will most likely sell because no one know how Monday will start.\n\nI saw the trend all week long, ate the shit on Monday and when I wake up morning and saw the news I know that I will only short today.",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0dkl4u/",
+      "created": 1713571684,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0dn3p5",
+      "score": 1,
+      "body": "Fridays- Strangle an amount you’re willing to expire worthless",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0dn3p5/",
+      "created": 1713572753,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0dpgge",
+      "score": 1,
+      "body": "Pretty much always sucked at it. Lollllll",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0dpgge/",
+      "created": 1713573755,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l0dsqll",
+          "score": 1,
+          "body": "I could have went from sucked to master in a day. It could have been a very different first post. ![img](emote|t5_2th52|18630)",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0dsqll/",
+          "created": 1713575158,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l0dt2d2",
+              "score": 1,
+              "body": "No no bro. You are always gonna be trash at this.  Someone who’s fired off this many excuses already really has no place in this risky world. Set up a vanguard and just buy a few ETFs every month, you not gonna find yourself.",
+              "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0dt2d2/",
+              "created": 1713575301,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l0dvwzi",
+                  "score": 0,
+                  "body": "Well, I do that already, but still, I'm gonna play a little, fam, c'mon.",
+                  "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0dvwzi/",
+                  "created": 1713576511,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l0dsx24",
+      "score": 1,
+      "body": "You got cucked by interest rates. Happens to the best of us.",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0dsx24/",
+      "created": 1713575237,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0dvr8u",
+      "score": 1,
+      "body": "[deleted]",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0dvr8u/",
+      "created": 1713576442,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l0dvr9i",
+          "score": 1,
+          "body": "Holy shit. It's Chad Dickens.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0dvr9i/",
+          "created": 1713576442,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l0dz4wy",
+      "score": 1,
+      "body": "why did u panic sell when you saw it coming down?",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0dz4wy/",
+      "created": 1713577902,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0dzrtk",
+      "score": 1,
+      "body": "Panic sold = letting your emotions control your decisions",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0dzrtk/",
+      "created": 1713578183,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0e499b",
+      "score": 1,
+      "body": "I'm looking at the charts and don't see a single point in the past 5 days where NVDA was \"going up fast\".",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0e499b/",
+      "created": 1713580213,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l0e5gi2",
+          "score": 1,
+          "body": "Looking back at the charts, it's hardly even noticeable that NVDA was up 4% yesterday halfway through the day. But yeah, it spooked me. Which is probably indicative as to why I should avoid NVDA, tbh.",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0e5gi2/",
+          "created": 1713580760,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l0egp3d",
+              "score": 2,
+              "body": "If it's a sudden volatility spike, those usually reverse very quickly. I always sell on those if I'm going long. I like to have a preplanned exit in mind to take emotions out of the equation.",
+              "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0egp3d/",
+              "created": 1713586281,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l0g2d37",
+                  "score": 1,
+                  "body": "Indeed. Just a rash decision on my part touching NVDA to try to make a quick buck, instead of sticking with my fundamental plans on SPY taking it easy. Lesson learned. Just been a been a while since I had that adrenaline cloud my judgment trading around lol.",
+                  "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0g2d37/",
+                  "created": 1713619115,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l0e5zh4",
+      "score": 1,
+      "body": "hindsight is 20/20\n\nbut seriously what are the chances you actually would have made the $80k. you probably would have sold well before that anyway\n\nalso, it’s been dropping all week. who would’ve thought it’d  mega drop today",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0e5zh4/",
+      "created": 1713581007,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l0g2jxv",
+          "score": 1,
+          "body": "So true. Basically needed to place my bet, and then go comatose for 48 hours and wake up this morning.",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0g2jxv/",
+          "created": 1713619193,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l0e8ki0",
+      "score": 1,
+      "body": "This is why options are for gamblers.  They will never make sense.",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0e8ki0/",
+      "created": 1713582228,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0eblt7",
+      "score": 1,
+      "body": "Wow, im so sorry",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0eblt7/",
+      "created": 1713583716,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0edgmg",
+      "score": 1,
+      "body": "I'm just holding on to silver",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0edgmg/",
+      "created": 1713584628,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0efcfx",
+      "score": 1,
+      "body": "Same💀",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0efcfx/",
+      "created": 1713585582,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0egn3j",
+      "score": 1,
+      "body": "![img](emote|t5_2th52|4260)",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0egn3j/",
+      "created": 1713586251,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0eih5q",
+      "score": 1,
+      "body": "80k Life changing money for me ugh … damn I’m sorry hope you get em next time",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0eih5q/",
+      "created": 1713587249,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0eqa06",
+      "score": 1,
+      "body": "Man I just started trading options and I sold my 200 nvidia put for 250 ($50) profit. If I held it would’ve been 6k profit lol",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0eqa06/",
+      "created": 1713591877,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l0g2snz",
+          "score": 2,
+          "body": "Bro, you just started trading, and was holding 200 puts?! My god, lol.",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0g2snz/",
+          "created": 1713619292,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l0fbd3s",
+      "score": 1,
+      "body": "Naw fam. Not paper hands. Sound like U didn’t have a plan. Bad trade. U see the outcome red Friday and hindsight bias kicks in.\n\nI’ve seen paper hands where they get in and sell within minutes for small gains or small loss or to save little of what’s left of the option when they would been better forgetting about it.",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0fbd3s/",
+      "created": 1713604666,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0fmozq",
+      "score": 1,
+      "body": "I did the same thing, but with SMCI puts \n\nFor me, I didn’t know what was possible on a bear day like yesterday.  Now that I’ve seen it, and know how bad it can get, I’ll have the confidence to hold, especially if the price action is supporting it\n\nDont feel bad.  It was just a tuition fee.   Make sure you don’t pay it again",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0fmozq/",
+      "created": 1713611698,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0g1q2b",
+      "score": 1,
+      "body": "Ive been in this subreddit for 3 years, and I still have no clue how to trade options.\n\nRecommendations?",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0g1q2b/",
+      "created": 1713618845,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0gxzog",
+      "score": 1,
+      "body": "I can't control my own emotions, so I don't trade doomsday options. I only buy call options that expire after 6 months, and sell after holding them for an average of 2-3 weeks. Make a trading plan a few months in advance and strictly implement it. But I haven't made money yet. TSMC's plan failed.",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0gxzog/",
+      "created": 1713630946,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0h0bsg",
+      "score": 1,
+      "body": "I feel you OP NVDA and SMCI are cursed on me with paper handing puts. I couldn’t sleep last night cause of the amount of money I almost made.",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0h0bsg/",
+      "created": 1713631780,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0h18mh",
+      "score": 1,
+      "body": "If you try to hold it’s usually a lose, lose situation. You still did the right thing. The market movement last 2 weeks made no sense. \nI bet if you held it would have gone to $0 😂",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0h18mh/",
+      "created": 1713632102,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0hps4q",
+      "score": 1,
+      "body": "Buying NVDA now is madness. Also you let your emotions take over. Any money you invest on the stock market should be considered lost. Your reasoning let me understand that you couldn’t loose that (much) money, and you sure did.",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0hps4q/",
+      "created": 1713640631,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0ley8p",
+      "score": 1,
+      "body": "i paper handed like a little bitch too on my DJT 30.50c for 4/19 and took a loss. What a pussy I am.",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0ley8p/",
+      "created": 1713707229,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0m2qui",
+      "score": 1,
+      "body": "[removed]",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0m2qui/",
+      "created": 1713716254,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l0m2smg",
+          "score": 1,
+          "body": "Remember to always know your worth --- money doesn't grow on trees.",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0m2smg/",
+          "created": 1713716272,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l0wtg3h",
+      "score": 1,
+      "body": "there is help available",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0wtg3h/",
+      "created": 1713890257,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0cprom",
+      "score": 1,
+      "body": "sold nvda puts this morning for $600 profit, left $20k on the table",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0cprom/",
+      "created": 1713559453,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l0cyskv",
+          "score": 3,
+          "body": "Yeah, NVDA had me too scared to even look at it lmao.  Now I'm like... fuck now I got to stare at it for the next couple weeks as we go through this correction, wondering when to buy calls.",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0cyskv/",
+          "created": 1713562809,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l0d7xw2",
+          "score": 1,
+          "body": "How much money did you put in?",
+          "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0d7xw2/",
+          "created": 1713566358,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l0dcukz",
+              "score": 1,
+              "body": "https://preview.redd.it/d6etksdhqivc1.jpeg?width=750&format=pjpg&auto=webp&s=c36d03797dea5fd77fc86eafa6ad907e8e54e2b8",
+              "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0dcukz/",
+              "created": 1713568362,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l0co1w2",
+      "score": -1,
+      "body": "It’s a sign to stop trying",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0co1w2/",
+      "created": 1713558823,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l0dy9bc",
+      "score": 0,
+      "body": "I sure wish trump would set himself on fire.",
+      "permalink": "/r/wallstreetbets/comments/1c86zs7/first_post_6_years_of_experience_to_absolutely/l0dy9bc/",
+      "created": 1713577522,
+      "depth": 0,
+      "replies": []
+    }
+  ],
+  "stockTickers": {
+    "post_summary": "The user lost $1,700 trading NVIDIA options instead of making $80,000.",
+    "companies": [
+      "NVIDIA"
+    ],
+    "tickers": [
+      "NVDA"
+    ],
+    "main_ticker": [
+      "NVDA"
+    ]
+  },
+  "sentimentAnalysis": {
+    "post_summary": "The user shares a personal story about trading NVDA options and regrets panic selling, resulting in a loss instead of a potential large gain.",
+    "stock_recommendations": "The user is not recommending buying or selling any stocks.",
+    "is_recommending_stock_buying_or_selling": false,
+    "buy_or_sell": "",
+    "sentiment_summary": "The sentiment is neutral as the user is reflecting on a past mistake rather than suggesting future actions.",
+    "sentiment": "neutral"
+  }
+}

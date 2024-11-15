@@ -1,0 +1,331 @@
+{
+  "title": "Summarized comments from Jensen Huang from today's GS Conference",
+  "score": 193,
+  "selftext": "1) Jensen once again highlights his view that Moore's Law no longer delivers the rate of innovation that's needed and causes computation inflation in Data Center. As such, the rebuilding of $1T data center infrastructure that's currently installed will drive growth over the next 10 years, bringing material performance improvement and cost savings\n\n  \n2) ROI: Jensen reiterates that while using a GPU to augment a CPU will drive an increase in cost in nominal terms (roughly 2x), in the case of Spark (a distributed processing system and analytics engine for big data), the net cost benefit could be as large as 10x as the application will be sped up 20x.\n\n  \nFrom a top line generation, he shares that hyperscale customers can generate $5 in rental revenue for every $1 spent on NVDA GPUs, given sustained strength in the demand for accelerated computing.\n\n  \n3) With respect to Nvidia's moat, Jensen highlights that the large install base of NVDA GPUs across multiple platforms, ability to augment their hardware with their proprietary software, and ability to build rack-level systems and innovate across various chips creates an insurmountable moat.\n\n  \n4) Jensen once again compliments his supply chain partners, highlighting TSMC for being the reason for NVDA's exponential revenue growth in 2H23/2024. That being said, he did note that NVDA has adequate in-house IP to shift manufacturing without material disruption if needed. He also stressed that companies are relentlessly demanding new chips so they can be first, to the point where tensions are rising as they demand their chips now.\n\n  \n5) The most important part: Jensen reiterated that the company will begin shipping Blackwell chips in 4Q25 and that shipments will scale in FY26 (Note that NVDA is currently in 3Q25 for their accounting calendar). Demand for Blackwell is incredibly strong and he feels that NVDA has a personal responsibility to ensure all companies are able to obtain the supplies needed to develop AI",
+  "link_flair_text": "Company Discussion",
+  "id": "1fenhlm",
+  "num_comments": 39,
+  "created_utc": 1726094881,
+  "permalink": "/r/stocks/comments/1fenhlm/summarized_comments_from_jensen_huang_from_todays/",
+  "comments": [
+    {
+      "id": "lmop9ew",
+      "score": 68,
+      "body": "Nice write up 👍",
+      "permalink": "/r/stocks/comments/1fenhlm/summarized_comments_from_jensen_huang_from_todays/lmop9ew/",
+      "created": 1726097592,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmpyra9",
+          "score": 10,
+          "body": "I am sure some taken from ChatGpt, which are running on Nvidia built models.",
+          "permalink": "/r/stocks/comments/1fenhlm/summarized_comments_from_jensen_huang_from_todays/lmpyra9/",
+          "created": 1726116725,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lmpywm3",
+              "score": 7,
+              "body": "even better",
+              "permalink": "/r/stocks/comments/1fenhlm/summarized_comments_from_jensen_huang_from_todays/lmpywm3/",
+              "created": 1726116806,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lmonn9n",
+      "score": 38,
+      "body": "Not all heroes wear capes.  Some wear leather jackets.",
+      "permalink": "/r/stocks/comments/1fenhlm/summarized_comments_from_jensen_huang_from_todays/lmonn9n/",
+      "created": 1726096985,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmph2rz",
+      "score": 32,
+      "body": "People were screaming that it will drop to $50. r/stocks in shambles",
+      "permalink": "/r/stocks/comments/1fenhlm/summarized_comments_from_jensen_huang_from_todays/lmph2rz/",
+      "created": 1726108376,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmovan9",
+      "score": 23,
+      "body": "Did you buy the dip? If not, why do you hate money?",
+      "permalink": "/r/stocks/comments/1fenhlm/summarized_comments_from_jensen_huang_from_todays/lmovan9/",
+      "created": 1726099892,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmowymo",
+          "score": 6,
+          "body": "I did, did you?",
+          "permalink": "/r/stocks/comments/1fenhlm/summarized_comments_from_jensen_huang_from_todays/lmowymo/",
+          "created": 1726100530,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lmonlj1",
+      "score": 27,
+      "body": "EPS is set to rise almost 50% next year. Stock will cook once Blackwell starts shipping",
+      "permalink": "/r/stocks/comments/1fenhlm/summarized_comments_from_jensen_huang_from_todays/lmonlj1/",
+      "created": 1726096967,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmork4p",
+          "score": 23,
+          "body": "Does cook mean go up?",
+          "permalink": "/r/stocks/comments/1fenhlm/summarized_comments_from_jensen_huang_from_todays/lmork4p/",
+          "created": 1726098466,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lmox4w9",
+              "score": 15,
+              "body": "medium rare please",
+              "permalink": "/r/stocks/comments/1fenhlm/summarized_comments_from_jensen_huang_from_todays/lmox4w9/",
+              "created": 1726100597,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lmy60jd",
+          "score": 1,
+          "body": "Don’t churn my serving, please",
+          "permalink": "/r/stocks/comments/1fenhlm/summarized_comments_from_jensen_huang_from_todays/lmy60jd/",
+          "created": 1726244135,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lmoop4p",
+      "score": 9,
+      "body": "This is highly speculative, but I wonder if Jensen being Taiwanese helps his relationship with TSMC at all.",
+      "permalink": "/r/stocks/comments/1fenhlm/summarized_comments_from_jensen_huang_from_todays/lmoop4p/",
+      "created": 1726097382,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmor57x",
+          "score": 17,
+          "body": "Probably nice on optics but wont do much, tsmc and nvda are already extremely tangled together even on a “military interest” perspective\n\nTsm being Biggest foundry supplier for NVDA the biggest chip suppliers for the most technically advanced country, thats the mother of all MOATs",
+          "permalink": "/r/stocks/comments/1fenhlm/summarized_comments_from_jensen_huang_from_todays/lmor57x/",
+          "created": 1726098308,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lmpgpgo",
+              "score": 4,
+              "body": "As well as Taiwan being an Island, and probably guarded by the US Navy when push comes to shove.",
+              "permalink": "/r/stocks/comments/1fenhlm/summarized_comments_from_jensen_huang_from_todays/lmpgpgo/",
+              "created": 1726108223,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lmounuc",
+          "score": 5,
+          "body": "Not really, TSMC dominates advanced chips market. They were smart enough to create a unique business plan in the 1980s. We’ll master the fabrication process and we’ll leave design to you without ever competing. They’re pretty much the only game in town at this point.",
+          "permalink": "/r/stocks/comments/1fenhlm/summarized_comments_from_jensen_huang_from_todays/lmounuc/",
+          "created": 1726099647,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lmoqo3s",
+      "score": 8,
+      "body": "Why is NVDA’s accounting a year ahead?",
+      "permalink": "/r/stocks/comments/1fenhlm/summarized_comments_from_jensen_huang_from_todays/lmoqo3s/",
+      "created": 1726098129,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmottc6",
+          "score": 35,
+          "body": "That’s how fiscal years work.",
+          "permalink": "/r/stocks/comments/1fenhlm/summarized_comments_from_jensen_huang_from_todays/lmottc6/",
+          "created": 1726099320,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lmpga9n",
+          "score": 14,
+          "body": "They are from the future",
+          "permalink": "/r/stocks/comments/1fenhlm/summarized_comments_from_jensen_huang_from_todays/lmpga9n/",
+          "created": 1726108051,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lmp6wk7",
+          "score": 6,
+          "body": "Fiscal year probably starts Jan 31 or something.",
+          "permalink": "/r/stocks/comments/1fenhlm/summarized_comments_from_jensen_huang_from_todays/lmp6wk7/",
+          "created": 1726104335,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lmpd5f5",
+              "score": 9,
+              "body": "This is correct (almost). Fiscal year ends the last Saturday of January the next year for NVIDIA. This can be verified by looking at the 10k front page header btw.",
+              "permalink": "/r/stocks/comments/1fenhlm/summarized_comments_from_jensen_huang_from_todays/lmpd5f5/",
+              "created": 1726106797,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lmotdbg",
+          "score": 0,
+          "body": "Must be the international date line",
+          "permalink": "/r/stocks/comments/1fenhlm/summarized_comments_from_jensen_huang_from_todays/lmotdbg/",
+          "created": 1726099149,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lmy6tjr",
+              "score": 1,
+              "body": "I am in there with you 💯",
+              "permalink": "/r/stocks/comments/1fenhlm/summarized_comments_from_jensen_huang_from_todays/lmy6tjr/",
+              "created": 1726244395,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lmoqppe",
+      "score": 2,
+      "body": "🐐",
+      "permalink": "/r/stocks/comments/1fenhlm/summarized_comments_from_jensen_huang_from_todays/lmoqppe/",
+      "created": 1726098146,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmqg28l",
+      "score": 2,
+      "body": "so the reason NVIDIA is ahead is because they already live in the future (2025)",
+      "permalink": "/r/stocks/comments/1fenhlm/summarized_comments_from_jensen_huang_from_todays/lmqg28l/",
+      "created": 1726127732,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmpc18l",
+      "score": 2,
+      "body": "How are they in Q3 2025? That’s the part I don’t get lol.",
+      "permalink": "/r/stocks/comments/1fenhlm/summarized_comments_from_jensen_huang_from_todays/lmpc18l/",
+      "created": 1726106359,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lndgdmf",
+          "score": 1,
+          "body": "Are you 12 years old?",
+          "permalink": "/r/stocks/comments/1fenhlm/summarized_comments_from_jensen_huang_from_todays/lndgdmf/",
+          "created": 1726468576,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lmsl8r5",
+      "score": 1,
+      "body": "Were these not all the things he already said when the last earnings were released?",
+      "permalink": "/r/stocks/comments/1fenhlm/summarized_comments_from_jensen_huang_from_todays/lmsl8r5/",
+      "created": 1726161022,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmw71zn",
+      "score": 1,
+      "body": "Wow, this screams bubble burst incoming. I don't know why, but a lot of his comments recently are hyperbolic in nature. \n\nThe mantra for investing is very simple. Don't fight short term trends, but keep an eye on long term value. Right now, the LLM hype is fading, and there is public fatigue over what was promised, vs what is realized. Finally, look around not many are making money off these so called killer AI applications (yet). \n\nEver saw what happened to Cisco two decades ago? Everyone said the Internet is the future, and that Cisco was going to power everything. Turns you didn't need Cisco products always, and competitors caught up. Sound familiar? Tick tock, tick tock.",
+      "permalink": "/r/stocks/comments/1fenhlm/summarized_comments_from_jensen_huang_from_todays/lmw71zn/",
+      "created": 1726211659,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ln17kic",
+      "score": 1,
+      "body": "[removed]",
+      "permalink": "/r/stocks/comments/1fenhlm/summarized_comments_from_jensen_huang_from_todays/ln17kic/",
+      "created": 1726284099,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmouv7w",
+      "score": -3,
+      "body": "RemindMe! 6 months",
+      "permalink": "/r/stocks/comments/1fenhlm/summarized_comments_from_jensen_huang_from_todays/lmouv7w/",
+      "created": 1726099726,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmox0ju",
+          "score": 9,
+          "body": "$200 in 6m",
+          "permalink": "/r/stocks/comments/1fenhlm/summarized_comments_from_jensen_huang_from_todays/lmox0ju/",
+          "created": 1726100550,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lmouzxf",
+          "score": 1,
+          "body": "I will be messaging you in 6 months on [**2025-03-12 00:08:46 UTC**](http://www.wolframalpha.com/input/?i=2025-03-12%2000:08:46%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/stocks/comments/1fenhlm/summarized_comments_from_jensen_huang_from_todays/lmouv7w/?context=3)\n\n[**5 OTHERS CLICKED THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Fstocks%2Fcomments%2F1fenhlm%2Fsummarized_comments_from_jensen_huang_from_todays%2Flmouv7w%2F%5D%0A%0ARemindMe%21%202025-03-12%2000%3A08%3A46%20UTC) to send a PM to also be reminded and to reduce spam.\n\n^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%201fenhlm)\n\n*****\n\n|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|\n|-|-|-|-|",
+          "permalink": "/r/stocks/comments/1fenhlm/summarized_comments_from_jensen_huang_from_todays/lmouzxf/",
+          "created": 1726099776,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lmraxvi",
+      "score": 0,
+      "body": ">application will be sped up 20x.\n\nSuch a naivete.\n\nDevelopers will work hard to make things as slow as possible",
+      "permalink": "/r/stocks/comments/1fenhlm/summarized_comments_from_jensen_huang_from_todays/lmraxvi/",
+      "created": 1726145477,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmy7ee9",
+          "score": 1,
+          "body": "Yep, plenty of bugs in the coding. Debugging that will be bringing job security in the future.",
+          "permalink": "/r/stocks/comments/1fenhlm/summarized_comments_from_jensen_huang_from_todays/lmy7ee9/",
+          "created": 1726244582,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

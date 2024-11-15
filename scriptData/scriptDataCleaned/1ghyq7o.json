@@ -1,0 +1,1613 @@
+{
+  "title": "Why I think TSM/INTC will outpace NVDA/AMD growth in the next decade. ",
+  "score": 1152,
+  "selftext": "Tech giants like Amazon, Google, Microsoft, and Meta are spending billions of CapEx on AI. Lets just look at their last 2 quarters spending:\n\n* **Amazon**: Increased CapEx from $60 billion in Q2 2024 to $70 billion in Q3 2024.\n* **Google**: Increased CapEx from $44 billion to $49 billion in the same period.\n* **Microsoft**: Increased CapEx from $44 billion to $49 billion.\n* **Meta**: Increased CapEx from $29 billion to $31 billion.\n\nHowever not all that CapEx is going to third party AI solutions like Nvidia/AMD. Each and every company listed above has or is developing it's own custom AI silicon.\n\nLets look how they are transitioning from 3rd party to In-House AI silicon:\n\n**Amazon**: Developed AWS Inferentia and Tranium chips for AI processing (manufactured by TSM & INTC).\n\n**Google**: Developed Tensor Processing Unite (TPU) and Axion chip for AI processing (manufactured by TSM).\n\n**Microsoft**: Developed Azure Maia AI chip and Azure Cobalt for AI processing (manufactured by TSM & INTC).\n\n**Meta**: Developed Meta trading and Inference Accelerator (MTIA) for AI processing (manufactured by TSM).\n\nAll those developments reduce dependence on external GPU suppliers, allow more customized/efficient AI processing and most importantly huge cost savings.\n\nJust to understand the level of savings (and why would they invest huge R&D budget on this):\n\nA **regular Nvidia H100 GPU**, cost approximately **$3,320** to manufacture from TSMC. However it is being sold at **$25,000 to $30,000** each!\n\nThat's almost 800%-900% profit margins that has to be paid by the companies above, when they opt not to choose In-House Silicon.\n\nAs more of the AI CapEx goes to custom silicon (will never be 100%, but expect that percentage only to grow larger over time, driven by cost savings)  TSMC and Intel foundries will benefit directly from this trend (both have EUV capabilities, INTC will mass produce 18A EUV chips next year, with Amazon as first client)\n\nAnd this will position TSMC and INTC for substantial growth, because **the rate limiting factor for AI growth will be how much silicon can TSMC or INTC manufacture** for the entire world's AI demand.  \n  \n\n\n\n\n",
+  "link_flair_text": "DD",
+  "id": "1ghyq7o",
+  "num_comments": 249,
+  "created_utc": 1730560665,
+  "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/",
+  "comments": [
+    {
+      "id": "lv10y3a",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 9 | **First Seen In WSB** | 8 months ago\n**Total Comments** | 70 | **Previous Best DD** | \n**Account Age** | 4 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv10y3a/",
+      "created": 1730560670,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv14v97",
+      "score": 481,
+      "body": "RemindMe! 10 years",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv14v97/",
+      "created": 1730561989,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lv1xn5l",
+          "score": 211,
+          "body": "Remind me and Nana buddy\n\nhttps://preview.redd.it/lkidzycl4jyd1.png?width=1080&format=pjpg&auto=webp&s=59b147a9d572eea8059ab90b1aeccbc18a1572cc",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1xn5l/",
+          "created": 1730571173,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lv2h37d",
+              "score": 43,
+              "body": "!WakeUpNana 10 years\n\nhttps://preview.redd.it/1hrsrtp2njyd1.jpeg?width=1024&format=pjpg&auto=webp&s=e524cd4a73aebb6ad2c7e91ee11cb0a1a28ba94c",
+              "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv2h37d/",
+              "created": 1730577388,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lvdkf2b",
+                  "score": 1,
+                  "body": "Where do you make this?",
+                  "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lvdkf2b/",
+                  "created": 1730740560,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lv2gzen",
+          "score": 36,
+          "body": "Nana is patient…\n\nhttps://preview.redd.it/bqpr3ufymjyd1.jpeg?width=1024&format=pjpg&auto=webp&s=d0dce02f37cd09c37de20cffb1a845e10972f4ef",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv2gzen/",
+          "created": 1730577354,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lv1504p",
+          "score": 28,
+          "body": "I will be messaging you in 10 years on [**2034-11-02 15:39:49 UTC**](http://www.wolframalpha.com/input/?i=2034-11-02%2015:39:49%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv14v97/?context=3)\n\n[**151 OTHERS CLICKED THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Fwallstreetbets%2Fcomments%2F1ghyq7o%2Fwhy_i_think_tsmintc_will_outpace_nvdaamd_growth%2Flv14v97%2F%5D%0A%0ARemindMe%21%202034-11-02%2015%3A39%3A49%20UTC) to send a PM to also be reminded and to reduce spam.\n\n^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%201ghyq7o)\n\n*****\n\n|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|\n|-|-|-|-|",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1504p/",
+          "created": 1730562034,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lv1hk59",
+              "score": 15,
+              "body": "Following for reminder, lol",
+              "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1hk59/",
+              "created": 1730566132,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lv1wclj",
+              "score": 3,
+              "body": "RemindMe! 10 years",
+              "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1wclj/",
+              "created": 1730570756,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lvcsk8c",
+              "score": 1,
+              "body": "RemindMe! 10 years",
+              "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lvcsk8c/",
+              "created": 1730732017,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lv1qwmy",
+          "score": 4,
+          "body": "RemindMe! 10 years",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1qwmy/",
+          "created": 1730569041,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lv1sb9i",
+          "score": 4,
+          "body": "RemindMe! 10 years",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1sb9i/",
+          "created": 1730569474,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lv1slku",
+          "score": 3,
+          "body": "RemindMe! 10 years",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1slku/",
+          "created": 1730569563,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lv4vokx",
+          "score": 3,
+          "body": "RemindMe! 10 years",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv4vokx/",
+          "created": 1730610061,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lv2go4t",
+          "score": 2,
+          "body": "RemindMe! 5 years",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv2go4t/",
+          "created": 1730577252,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lv41ect",
+              "score": 1,
+              "body": "RemindMe! 5 years",
+              "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv41ect/",
+              "created": 1730597146,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lv5myvr",
+          "score": 2,
+          "body": "RemindMe! 5 years",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv5myvr/",
+          "created": 1730628176,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lv28v2z",
+          "score": 1,
+          "body": "Remind me! 5 years",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv28v2z/",
+          "created": 1730574711,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lv40thi",
+              "score": 1,
+              "body": "RemindMe! 5 years",
+              "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv40thi/",
+              "created": 1730596925,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lv4fi4q",
+                  "score": 1,
+                  "body": "Remindme! 5 years",
+                  "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv4fi4q/",
+                  "created": 1730602600,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lv1k76g",
+      "score": 199,
+      "body": "https://preview.redd.it/xuqnomy1siyd1.jpeg?width=800&format=pjpg&auto=webp&s=de015b3d0a9fd85a453cd242acc1742f670b6f1b",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1k76g/",
+      "created": 1730566953,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lv6mroj",
+          "score": 14,
+          "body": "https://preview.redd.it/7i9ts5428pyd1.jpeg?width=964&format=pjpg&auto=webp&s=2270c0468d5094da0c4dff328557c6dd9ef0ae73",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv6mroj/",
+          "created": 1730644977,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lv3mjd9",
+          "score": 22,
+          "body": "Best summary of this post",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv3mjd9/",
+          "created": 1730591660,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lv4uaab",
+          "score": 2,
+          "body": "😂",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv4uaab/",
+          "created": 1730609348,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lv14u99",
+      "score": 262,
+      "body": "Very interesting. But I think the biggest concern is the potential Taiwan-China-USA conflict",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv14u99/",
+      "created": 1730561979,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lv1owwh",
+          "score": 17,
+          "body": "True, but both INTC and TSM have and are building more fabs in the US. Also TSM has stated they basically have a kill switch in Taiwan to dissuade China from actually doing anything",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1owwh/",
+          "created": 1730568419,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lv187vp",
+          "score": 93,
+          "body": "I agree that seems to be the biggest concern. But the way I see it, such a conflict wouldn’t be limited to these 3 countries.  TSMC falling under Chinese control would have a massive cascading effect across economies around the world, not to mention security concerns of China having sole access to the latest tech advances in CPUs.  It really has the potential to lead to WWIII so therefore I think such an invasion is unlikely.\n\nAlso, SHOULD such a situation come to pass, the market will just tank all around.  The entire NASDAQ would collapse.  All of our portfolios will turn to shit whether or not it includes TSM stock.\n\nIt is a good thing the TSMC plant in AZ is doing really well. The risk will be greatly diminished if fabrication can be done in the U.S. and other allied countries.  I believe TSM will eventually have the highest market cap out there. \n\nIntel, on the other hand… yeah.. maybe if a conflict becomes inevitable we can give Intel to China and let them feel like they came out ahead or something.",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv187vp/",
+          "created": 1730563098,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lv1k99v",
+              "score": 36,
+              "body": "lol no. China can’t just “take over” TSMC. The company depends on a world wide supply chain to make those chips. Also, you can bet your ass that the US would ship out all the top end fabs and engineers they could, and then destroy what’s left before China gets even close. It’s a lose-lose situation, but China loses more as their country is more dependant on foreign trade then just about anybody. They would have to be stupid as hell to try it",
+              "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1k99v/",
+              "created": 1730566971,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lv23h81",
+                  "score": 16,
+                  "body": "It should also be noted that TSMC is setting up alternate fabs in Germany and Arizona to circumvent this exact problem. There have been some operational hurdles but they should eventually open and mitigate this, as well as international shipping expenses for much of their supply chain thereafter.",
+                  "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv23h81/",
+                  "created": 1730573021,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lv1n8y3",
+                  "score": 26,
+                  "body": "China likely will not need to take over TSMC. I think they will be competitive within 10 years:\n\n* China graduates about the same number of STEM engineers annually as the US employs in its entire workforce. Their research is at the forefront of science not like 10 years ago when they were catching up.\n\n* Their companies have zero regulatory burden. They have the state helping them any way they can.\n\n* Plenty of taiwanese go to China. They hired tons of TSMC engineers. The nations are not some huge enemies like the koreas.\n\n* They have the resources to copy the entire giant worldwide supply chain TSMC uses. Building shit is what they do and not just cheap crap.",
+                  "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1n8y3/",
+                  "created": 1730567904,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lv21t4g",
+                      "score": 20,
+                      "body": "75% people in the world have zero idea what today’s China is capable of doing 😭💀 it blows my mind",
+                      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv21t4g/",
+                      "created": 1730572495,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lv4hl1h",
+                          "score": 7,
+                          "body": "99% of people who make up random stats are morons",
+                          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv4hl1h/",
+                          "created": 1730603447,
+                          "depth": 5,
+                          "replies": []
+                        },
+                        {
+                          "id": "lv2f2bx",
+                          "score": 8,
+                          "body": "All they hear from mainstream news China copy China steal.   Welp that happened decades ago.  They are now pass the copy stage and now innovating.  It’s over.",
+                          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv2f2bx/",
+                          "created": 1730576728,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lv32tv7",
+                              "score": 3,
+                              "body": "they still are trying to copy anything smaller than 14nm",
+                              "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv32tv7/",
+                              "created": 1730584694,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lv5jbuo",
+                          "score": 2,
+                          "body": "Probably 100% of those 75% are in WSB",
+                          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv5jbuo/",
+                          "created": 1730625638,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lv40f8o",
+                      "score": 2,
+                      "body": "ASML has a 100% monopoly on lithography and zeiss has a 100% monopoly on the lenses. They arnt even close",
+                      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv40f8o/",
+                      "created": 1730596773,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lv52br3",
+                      "score": 1,
+                      "body": "Building shit is correct",
+                      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv52br3/",
+                      "created": 1730613908,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lv571qm",
+                  "score": 1,
+                  "body": "I think they have a lot more leverage than people think honestly, people go to China because of the price, they already mistreat a ton of workers regularly and give them bad wages and people don't care and are still customers I doubt anything other than higher prices in the form of tariffs or something could affect their exports tbh.",
+                  "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv571qm/",
+                  "created": 1730617042,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lv24w7k",
+          "score": 4,
+          "body": "A war for Taiwan would crush the global economy. Palmer Luckey says we won't even be able to manufacture cars. Everything would be fcked.",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv24w7k/",
+          "created": 1730573458,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lv16u0c",
+          "score": 5,
+          "body": "100 percent",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv16u0c/",
+          "created": 1730562639,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lv1wet6",
+          "score": 2,
+          "body": "That conflict that’s been going on since before most of us have been born?",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1wet6/",
+          "created": 1730570775,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lv1wrs4",
+          "score": 2,
+          "body": "Both chinas are young. We just need to work out the average peace time of a chinese dynasty.",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1wrs4/",
+          "created": 1730570891,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lv1xl4z",
+          "score": 2,
+          "body": "It'll be the biggest dip to buy, maybe ever",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1xl4z/",
+          "created": 1730571155,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lv22jmo",
+          "score": 2,
+          "body": "It seems like China has pulled off of their pro war stance vs Taiwan tbh, as many of Chinas leadership figures have become wise to the issues with such a conflict, especially seeing Russias struggles in Ukraine.\n\nXi has gotten a decent amount of pushback and they haven’t appeared to be as keen on invading Taiwan since. Could change, but right now they don’t appear to be confident in an invasion.",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv22jmo/",
+          "created": 1730572727,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lv1ts1u",
+          "score": 9,
+          "body": "Bullish for Intel",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1ts1u/",
+          "created": 1730569931,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lv2ialk",
+          "score": 1,
+          "body": "INTC, ASML, etc all get 1/4to 1/3rd their rev from China—on a quarterly basis as much as 44% iirc from China \n\nTaiwan Strait conflict, and and aftermath of further sanctions of supply chain, trade, etc would crater all chip related tech",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv2ialk/",
+          "created": 1730577775,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lv71r8c",
+          "score": 1,
+          "body": "We're not going to fight China for Taiwan. We'll gladly take TSMC's senior management and top engineering talents and evacuate them from Taiwan and send them to AZ where they belong. \n\nThere's already a contingency plan in place to 1) evacuate key TSMC personnel and 2) disable all Taiwan based TSMC fans if China invades.\n\nLong TSMC and INTC",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv71r8c/",
+          "created": 1730649758,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lvaygx4",
+          "score": 1,
+          "body": "You think if Trump loses, China would attack Taiwan and South Korea will try to attack the U.S?",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lvaygx4/",
+          "created": 1730696885,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lv16a86",
+      "score": 48,
+      "body": "gamgam is smiling down from heaven",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv16a86/",
+      "created": 1730562459,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv1bo05",
+      "score": 11,
+      "body": "Well it's obviously not a 900% markup because there is tons of intellectual property and RD investment necessary to have the design of the chip. \n\nBut I think NVDA's roughly 60-70% reported margin is still crazy and there is a lot of space for big tech to develop competing solutions",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1bo05/",
+      "created": 1730564235,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv1k40i",
+      "score": 11,
+      "body": "positions?",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1k40i/",
+      "created": 1730566926,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv19toy",
+      "score": 62,
+      "body": "This is stupid. First off your Capex numbers aren't scoped correctly. You're making it seem like Amazon is spending 70 billion in a quarter which it's not. So you should fix that.\n\nThe next silly thing this article does is that it manages to ignore advancements and gains from Nvidia over the time frame.\n\nHere's what every hyoerscaler is not telling you about custom chips. They're ass, and not Nvidias chips. Hell they're not amd or Intel chips.\n\nThey're some weird bandaid that they feel is something that can add to their infrastructure in the short term because of capacity constraints on Nvidia chips.\n\nThis isn't some secret market it's the reality of being ass out of luck for Nvidia, supply.",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv19toy/",
+      "created": 1730563626,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lv1b35m",
+          "score": 27,
+          "body": "I think the move to custom chips is reasonable, considering crypto initially used GPUs for mining until custom ASICs could be designed and eventually those became widely used in mining.",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1b35m/",
+          "created": 1730564044,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lv1do1j",
+              "score": 18,
+              "body": "bAsics argument won't work here. Let me explain. Bitcoin fundamentally has never changed. It's the same algorithm with minor tweaks and adjustments. It's like you're about to take a test and I'm going to give you worksheets that are exactly like the test.\n\nYeah, it's very simple to build a very narrow instruction set. However, that not how this AI works. Everything about the algorithm is changing. You could have a massively depreciating asset by creating custom silicon on custom software by trying to do this.\n\nIn other words, imagine not being able to adjust or go in a different direction because you locked yourself in to custom hardware.",
+              "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1do1j/",
+              "created": 1730564890,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lv1hcxs",
+                  "score": 10,
+                  "body": "I guess I assume that their chips are going to be running LLMs for whatever they need and that the people at Microsoft are smarter than me in understanding how to make hardware do what they want. Otherwise they wouldn’t be spending money on this.\n\nIf we assume they can get the ASIC to do what they want, there’s one thing we do know: power efficiency will be better than running on a GPU",
+                  "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1hcxs/",
+                  "created": 1730566070,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lv36bmi",
+                      "score": 3,
+                      "body": "Here's what I think. I think that there are models that will run on less intense GPU sets that are geared towards inferencing. Small models. Slimmed down model revisions. But it's not all clear. Again, Nvidia can make the argument that that their GPU's just do way more inferencing. In fact, Nvidia's GPU's do mostly inferencing. I think they want to run some models, some search stuff through probably custom chips. The latest and greatest is going to be running on Nvidia and it's going to keep rolling that way for some years. \n\nThey do want to run it cheaper and they're working towards that but the newest innovation is just not going to be cheap to run. It's like 4o-mini perhaps. But I don't even know that's true. All of Microsoft's custom silicon was purely ARM server based offerings. TPU's is a dangerous game. What is interesting is that OpenAI wants custom chips. Now if there was some real pressure on Nvidia this is where it would come from but we're talking about 2 - 3 years out and then by then who knows what Nvidia is coming out with by then.",
+                      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv36bmi/",
+                      "created": 1730585931,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lv585iz",
+                  "score": 1,
+                  "body": "Ok, I see your point a bit better now, I still kind of disagree? I think the transformer architecture's not general enough to were in 10 years an ASIC doesn't make sense for training and inference like I genuinely don't think a lot is changing in terms of the actual basic compute of the architecture honestly, maybe some gimmicks like mixture of experts or chain of thoughts but I haven't seen a big fundamental computing change in that yet honestly and transformers are really what the AI hype is about.\n\nedit: and even if we go more general I think at the end of the day a TON of AI models are really about manipulating an MLP in some way, and that's also something you can pretty easily conceptualize an ASIC for and honestly taking away the training argument, ASICs for inference seem to make a ton of sense to me with what groq's doing, maybe they are shit and they just cover it up in some way but they seem to be able to do inference a shit ton faster than most GPU services for inference.",
+                  "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv585iz/",
+                  "created": 1730617793,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lv58jse",
+                      "score": 1,
+                      "body": "right, I think eventually to your point things may level off but like I said, the Nvidia GPU's are ultra powerful and loaded with memory. The compute density is a real thing in that way. If you have to run an AI brain in the cloud with millions of users the compute density is a thing. Endless acres of airplane hangars full of asic type compute would never work. \n\nPersonally, I feel that these hyperscalers simply hate the cost of the chip but the argument of why is solid. You're getting literally 1000's of chips in 1.",
+                      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv58jse/",
+                      "created": 1730618070,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lv22lcd",
+          "score": 3,
+          "body": "AWS has been making hardware for quite some time now. Networking hardware (nitro), CPUs (graviton), and likely various others. These are not “shit” at all and are better or competitive. Assuming hyperscalers can’t make a competitive product is flawed based on evidence to the contrary. They will catch up to nvidias hardware and software.",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv22lcd/",
+          "created": 1730572742,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lv2zrij",
+          "score": 2,
+          "body": "[deleted]",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv2zrij/",
+          "created": 1730583623,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lv3403e",
+              "score": 2,
+              "body": "I think you're missunderstanding me. TPU is not some new term you're right. Tensor Processing Unit. Or NPU Neural Processing Unit have been around for some time. But that's not the point. You can create an inferior chip all you want. You can buy millions of those. At some point the compute density of what Nvidia is offering is extremely efficient.\n\nYou can't say oh this TPU that I made 10 years ago is viable today. And then what you can possibly make today isn't viable today either lol. Do you think that Nvidia, AMD, and Intel are all just idiots?\n\nEverybody could make their own OS but yet we only have MacOs and Windows and Linux.\n\nJust because somebody can do it doesn't mean that they should do it. The compute density that Nvidia creates is unmatched. People are like, OMG it's power hungry.\n\nLet me explain it in the perspective to you like this. I Blackwell B200 GPU devlivers 20 petaflops or 20,000 teraflops of FP4 performance. The highest end Core i9-14900KF is approximately 1 teraflop of FP32 performance.\n\nI don't know what there is to say after that. The space savings/density of accelerated compute versus general compute is unfathomable.\n\nNvidia is King - the end.",
+              "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv3403e/",
+              "created": 1730585109,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lvb9ctk",
+                  "score": 1,
+                  "body": "It's not inferior though, there is good reason to believe TPU provides better perf/$. The catch being for certain applications, it has strengths and weaknesses.",
+                  "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lvb9ctk/",
+                  "created": 1730703192,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lvb9fje",
+                      "score": 1,
+                      "body": "There is no way lol it's not even remotely close. have you seen the chart?",
+                      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lvb9fje/",
+                      "created": 1730703240,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lvbvy1e",
+                          "score": 1,
+                          "body": "https://www.semianalysis.com/p/tpuv5e-the-new-benchmark-in-cost\n\n\n> it makes economic sense for OpenAI to use Google Cloud with the TPUv5e to inference some models, rather than A100 and H100 through Microsoft",
+                          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lvbvy1e/",
+                          "created": 1730718478,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lv13kue",
+      "score": 112,
+      "body": "TSM is the way, INTC is a sinking ship",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv13kue/",
+      "created": 1730561553,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lv1cpqk",
+          "score": 25,
+          "body": "Don’t let Nana hear you say that",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1cpqk/",
+          "created": 1730564580,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lv1e35d",
+              "score": 49,
+              "body": "Who is mocking my grandson?\n\nhttps://preview.redd.it/tqo1fg42miyd1.jpeg?width=1024&format=pjpg&auto=webp&s=fabcb51d36a1b668f6e1b26ded2d61553b932485",
+              "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1e35d/",
+              "created": 1730565023,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lv14zb2",
+          "score": 36,
+          "body": "You mean stinking shit?",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv14zb2/",
+          "created": 1730562027,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lv15nwc",
+              "score": 7,
+              "body": "You mean Kitty trip?",
+              "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv15nwc/",
+              "created": 1730562253,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lv1651x",
+                  "score": 9,
+                  "body": "You mean daddy hit?",
+                  "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1651x/",
+                  "created": 1730562411,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lv16bec",
+                      "score": 17,
+                      "body": "You mean Nana Chip?",
+                      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv16bec/",
+                      "created": 1730562469,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lv18dld",
+                          "score": 6,
+                          "body": "You mean Diddy drip?",
+                          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv18dld/",
+                          "created": 1730563150,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lv2m1s6",
+          "score": 1,
+          "body": "Intel uses TSM for the newest generation of desktop processors, their foundry is falling behind. OEMs are stills primarily using their cpus for enterprise users however the lucrative server cpu market is dominated by AMD at this point. I envision Qualcomm and NVIDIA will get more into competitive CPUs and NPUs and Intel will progressively be abandoned.",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv2m1s6/",
+          "created": 1730579003,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lv1j3wo",
+      "score": 101,
+      "body": "Yup, this has always frustrated me with wall streets obsession with the 'chip makers' who don't make anything like AMD and NVIDIA. Designing chips is only getting cheaper. The Apple was the first very public example of how one of these mega software users could bring design in house and get huge efficiency benefits. At that point it became clear that the vast majority of data center compute is going to move to internally designed chips before long. It always seems so wild to me that AMD was valued so high and Intel was valued at less than its equipment when there is an avalanch waiting for both when FAANG moves to internally designed data chips. Intel has a plan for this (become a foundry, regain process leadership). I am not sure what AMDs plan is.. \n\nIt also seems truly wild that Intel is valued at less than their equipment when we are likely to see them regain a tie for process leadership this year. Backside power delivery is a big deal imo...",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1j3wo/",
+      "created": 1730566621,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lv1nxbg",
+          "score": 34,
+          "body": "Dude if designing chips was that easy everyone would be doing it. But when nvidia’s design kicks your inhouse design ass you still buy nvidia. There’s so much market to go after the big tech are working on deploying AI solutions and probably don’t have capacity, believe it or not, to take on the market leader in chip designs. TOUGH WORK.",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1nxbg/",
+          "created": 1730568116,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lv1xvyz",
+              "score": 19,
+              "body": "Developing custom ASIC isn’t easy but it isn’t as hard as semiconductor manufacturing.  There are a whole of secrets behind achieving good yield. You probably don’t agree unless you understand, take a couple 500 level EE courses then you’ll know.",
+              "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1xvyz/",
+              "created": 1730571253,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lv21s8d",
+                  "score": 11,
+                  "body": "Did my undergrad in EE and spent some time working in our nanotech lab. I fucked up many silicon wafers doing basic shit, lmao. Can’t imagine the complexity that goes into manufacturing these complex chips.",
+                  "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv21s8d/",
+                  "created": 1730572488,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lv8cxtw",
+                      "score": 1,
+                      "body": "True, but we literally saw Apple beat plenty of designs with their M1 chip. If Apple can do it, why not Microsoft, Facebook etc.?\n\nBreaking into the Zeiss <-> ASML <-> TSMC space is a totally different beast.",
+                      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv8cxtw/",
+                      "created": 1730663912,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lvo3b7b",
+                          "score": 1,
+                          "body": "I wonder why I can't do virtualization of Windows on M1-4 chips... oh right because they're using proprietary hardware to match their proprietary software thus completing the entire stack and that's why it's \"fast\" and \"efficient\". Except nothing else runs on it. You COULD run Windows via emulator to run x86 to then run a VM.. but that's just completely aѕs. Why not just get an Intel mcore laptop, cause it'll feel the same.",
+                          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lvo3b7b/",
+                          "created": 1730877828,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lv28f4z",
+              "score": 3,
+              "body": "But also creating drivers and software for the chips is a much bigger hassle",
+              "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv28f4z/",
+              "created": 1730574569,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lv8yvg6",
+              "score": 1,
+              "body": "I mean they are all doing it. Apple does it, google does it, amazon does it. Its literally the thesis of the original post of this thread. There's a capital investment, but we're talking about around a billion or so in investment to get significant gains in integrated efficiency and reductions in cost. Relative to other capital investments that could give similar returns, its dirt cheap. I would be astounded if in a decade any of these major software companies with big data center infrastructure was buying off the shelf externally designed chips. Those will be left to the smaller players, but the big ones will all go internal, the cost vs benefit calc switched a few years ago and we are seeing that switch play out.",
+              "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv8yvg6/",
+              "created": 1730670675,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lvau3b9",
+                  "score": 1,
+                  "body": "We will see, but you know the saying « it’s not rocket science? » turns out there is something harder than that and it’s semi conductors. Yes they’d like that, but it ain’t gonna be easy",
+                  "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lvau3b9/",
+                  "created": 1730694696,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lv2hj9t",
+          "score": 4,
+          "body": "AMD valued high? This shit was a $2 stock in 2016 and people thought it wasn’t going to survive because of the debt load.",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv2hj9t/",
+          "created": 1730577531,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lv1y0zs",
+          "score": 5,
+          "body": "I just checked oustanding shares, I cannot fuckin believe INTC's market cap is only $100B, this is incredible",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1y0zs/",
+          "created": 1730571298,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lv2b6cn",
+              "score": 2,
+              "body": "It’s like 1/10th TSM’s.",
+              "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv2b6cn/",
+              "created": 1730575457,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lv2k1ux",
+          "score": 3,
+          "body": "this is a pretty dumb/ignorant take.\n\nthey're going in house for specialized applications.  amd's dc cpus are way better than graviton/etc.  \n\nsimilarly, the h100/mi300 are better than the aforementioned in-house designs.  and hyperscalers are also buying custom/semi-custom (half the ones you mentioned, btw), which has been a boon to avgo.  it's probably only a matter of time before amd has custom ai gpu designs, as well.",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv2k1ux/",
+          "created": 1730578352,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lv1q88l",
+      "score": 7,
+      "body": "How will ASML do? I bought more on this latest dip but yikes Im down hard total on this. Im gonna bag hold I guess. \n\nBut my TSM is up 50% and its 7% of my portfolio now. Gonna hold that too.",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1q88l/",
+      "created": 1730568832,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lv1vxbt",
+          "score": 5,
+          "body": "ASML is near the bottom in terms of value added in semis. The value in terms of revenue and profits is accrued at the top.\n\n1. Designers make the most revenue and profits\n2. Fabricators are second\n3. Third are equipment manufacturers/process companies \n4. Bottom are architecture companies like ARM \n\nYou can enjoy the best ROIs by just getting the best from #1 and 2",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1vxbt/",
+          "created": 1730570620,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lv1tsbr",
+      "score": 7,
+      "body": "I have been piling into Intel.",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1tsbr/",
+      "created": 1730569933,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv165qy",
+      "score": 16,
+      "body": "I think INTC will regain glory days.",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv165qy/",
+      "created": 1730562417,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv1646d",
+      "score": 4,
+      "body": "![img](emote|t5_2th52|4640)",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1646d/",
+      "created": 1730562402,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv1z7l5",
+      "score": 4,
+      "body": "Next week is perfect to load up on Intel ![img](emote|t5_2th52|4276)",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1z7l5/",
+      "created": 1730571675,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv187t7",
+      "score": 20,
+      "body": "NVIDIA has licensing on CUDA.\n\nA lot of existing AI/ML/GPU-intensive processes are designed to run on NVIDIA’s (licensed) software, so sure, TSM can outpace NVDA in growth, but Amazon, Google, Microsoft, Meta etc. will still be paying NVDA license fee to run code on TSMC hardware (so NVDA will still have steady revenue stream).\n\n\n[https://d3.harvard.edu/platform-digit/submission/nvidias-winning-platform-strategy-with-cuda/](https://d3.harvard.edu/platform-digit/submission/nvidias-winning-platform-strategy-with-cuda/)\n\n\nThe only way that would change is if you get engineers to modify the existing libraries and codebase to be able to run on something other than CUDA, and then the ML/AI engineers to incorporate that change. \n\n\nI agree TSM growth can outpace NVDA growth, but NVDA will still grow accordingly",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv187t7/",
+      "created": 1730563097,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lv1cq17",
+          "score": 30,
+          "body": "I see this argument every time in the comments and it doesn’t make sense. \n\nSure, you need CUDA to train your models, perhaps because the framework you are using (say PyTorch) is optimized for CUDA. However, once you train your model and have your weights, you don’t really need CUDA. In fact, you can build custom chips specific to the model architecture that can run inference a lot more efficiently than any of the NVIDIA chips. \n\nFor almost all the companies, my guess is more than 90% of their current compute goes to inference, not training. Think about it, once Anthropic trained Sonnet 3.5, all the GPUs are just used to serve that one model to millions of users. \n\nGiven this, I totally expect every company spending billions of dollars to try and invest in their own chips. They might still use NVIDIA chips for training sure, but that won’t be as significant as today. \n\nPlus, in a few years, every company will try to create their own framework and training chips from scratch. Google kind of did it long ago. They trained Gemini in Jax, which uses their own TPUs and doesn’t depend on CUDA.",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1cq17/",
+          "created": 1730564583,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lv28cwh",
+              "score": 11,
+              "body": "CUDA is not the magic bullet you think it is.  CUDA is appealing to average developers who maybe renting out data center. To that end, NVDA will continues to do well.  To the hyperscalers they can just spend the money to develop a new framework for their ASIC.",
+              "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv28cwh/",
+              "created": 1730574549,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lv29k6u",
+                  "score": 1,
+                  "body": "I never said CUDA is a magic bullet. Also, what percentage of developers are actually training models lol. I know entire custom trained model stacks that got wiped off by a good prompt and GPT 4 API.\n\nThose hyperscalers make up a significant perctange of NVIDIA revenue. 46% of its revenue recently came from four companies. If I increase that to 20 companies, I’m sure the revenue would be like 70% or more. All 20 companies could develop their own chips.",
+                  "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv29k6u/",
+                  "created": 1730574936,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lv2m02x",
+                      "score": 1,
+                      "body": "> Those hyperscalers make up a non significant perctange of NVIDIA revenue. \n\nyou got that backwards.  it's significant.",
+                      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv2m02x/",
+                      "created": 1730578987,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lv2ptqe",
+                          "score": 1,
+                          "body": "Oops that was a typo, my bad. My point still remains the same.",
+                          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv2ptqe/",
+                          "created": 1730580242,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lv21jln",
+              "score": 2,
+              "body": "But they will need to train new models all the time, and to keep up, they will need the latest architecture",
+              "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv21jln/",
+              "created": 1730572413,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lv22gd6",
+                  "score": 3,
+                  "body": "Sure, but training models won't need as many GPUs as these companies are buying, \n\nAnd if any point the companies realize training models is going to be a thing forever and the GPUs is significant part of their capex, they would invest hard to move away from the dependency (CUDA, NVIDIA). \n\nGoogle's TPUs are a living example of this. They have Jax and TPUs that don't depend on CUDA or NVIDIA at all. If Google can do it, Microsoft and Amazon can do it too - Microsoft already started doing it. You can argue that designing GPUs is not easy. Sure, but with money, you can do it. Apple is a living example of that.",
+                  "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv22gd6/",
+                  "created": 1730572698,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lv1b5dj",
+          "score": 9,
+          "body": "Or... maybe the whole world gets tired of chatbots being shoved down their throats.",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1b5dj/",
+          "created": 1730564064,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lv1yvag",
+              "score": 2,
+              "body": "But will they get tired of a sweet talking a.i. sexbot?",
+              "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1yvag/",
+              "created": 1730571565,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lv202eq",
+              "score": 1,
+              "body": "Too be fair; the chatbots are somewhat useful… not life changing technology, but I find myself using it every other day lol.",
+              "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv202eq/",
+              "created": 1730571952,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lv25jt0",
+                  "score": 1,
+                  "body": "And yet OpenAI's projected annual loss is more than its market cap.",
+                  "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv25jt0/",
+                  "created": 1730573664,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lv1vhjf",
+          "score": 2,
+          "body": "Also all of the cloud companies like google, Microsoft, oracle, aws, etc. need to buy Nvidia gpus bc people want to use them on their cloud compute bc no company doing research can reasonably buy a cluster of Blackwell chips for medical research or machine learning so they have to rent them through 3rd parties (Microsoft). Nvidia could see some margin crunch from custom silicon but I don’t see it affecting their pockets for 3-5 years. They will most likely increase profit over the next 5 years bc they are highly innovative.",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1vhjf/",
+          "created": 1730570477,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lv172uk",
+      "score": 7,
+      "body": "making  chips and design them is extremely hard, intel trying for a decade to catch tsmc while showering with government money, still failing, china also trying hard a while, but couldnt make much progress, you need nanometer of precision, other companies can try but it's not easy.",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv172uk/",
+      "created": 1730562721,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv12pfq",
+      "score": 8,
+      "body": "Very interesting!",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv12pfq/",
+      "created": 1730561261,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv15kxk",
+      "score": 3,
+      "body": "Even if you correctly identify the production bottleneck, that doesnt mean they will grow faster- LOL",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv15kxk/",
+      "created": 1730562226,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv3fqnw",
+      "score": 3,
+      "body": "If you are right, shouldnt you be long on ASML and Zeiss?",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv3fqnw/",
+      "created": 1730589241,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv3m9xq",
+      "score": 3,
+      "body": "https://preview.redd.it/qpel6q88tkyd1.jpeg?width=1200&format=pjpg&auto=webp&s=3e89fd08db1fab5f2d02ffecc817b66ed10edc13",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv3m9xq/",
+      "created": 1730591565,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv42hqp",
+      "score": 3,
+      "body": "https://preview.redd.it/o2dvt8w2blyd1.jpeg?width=1024&format=pjpg&auto=webp&s=8a3f368af00ea36decdcde272ac9a619ff8a5dca",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv42hqp/",
+      "created": 1730597567,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv5fdu3",
+      "score": 3,
+      "body": "The biggest risk to Nvidia is the lack of revenue generating use cases for their chips before their customers’ earnings peak and start to decline.\n\nIf you trace the money that Nvidia’s revenue comes from it goes like this:\n\nNvda -> msft/amzn/meta/tsla/etc. -> enterprise software companies and individual paying customers -> ?\n\nIt’s that last question mark- who is going to pay for the use of these chips? Will companies and government agencies actually buy more software because of AI? If so, where will that extra money come from?\n\nRight now investors who believe in the AI hype train are suspending disbelief and pretending that all of this infrastructure investment will start generating massive productivity and revenue gains such that companies and government agencies will spend much more on software. But it’s pretty clear that’s not going to happen simply because the real economy isn’t growing in a way that would allow the spend that would make these chip investments worthwhile to actually occur.\n\nI’m massively short semis for this reason. I think the last couple of years created a massive hype cycle where semi companies, hyper scalers, and enterprise software companies all had an interest in pumping AI as the future but what is still lacking are significant numbers of paying customers.",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv5fdu3/",
+      "created": 1730622833,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv19gkm",
+      "score": 7,
+      "body": "This is definitely the biggest threat to NVDA growth. That said, there's a strong desire by these companies to stay at the bleeding edge for fear of falling behind in the race. While their own custom chips may be good enough for some inference services, they won't be as competitive for training.\n\n\nSo just like chip designers continue to use TSMC because of its superior technology even though cheaper offerings are available from Samsung and Intel, hyperscalers will continue to use Nvidia for the same reason. They don't mind paying a premium for the best bleeding edge technology.\n\n\nThe one exception is Google who has been designing AI chips for almost as long as Nvidia, and have an already mature ecosystem around them.",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv19gkm/",
+      "created": 1730563506,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lv1d3io",
+          "score": 2,
+          "body": "And that’s totally fine? The compute use for inference is much much much higher than the compute used for training.",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1d3io/",
+          "created": 1730564705,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lv1d3js",
+              "score": 2,
+              "body": "Bagholder spotted.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",
+              "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1d3js/",
+              "created": 1730564706,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lv1v8b0",
+          "score": 1,
+          "body": "And Google still buys a ton of GPUs from Nvidia",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1v8b0/",
+          "created": 1730570395,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lv1gmbq",
+      "score": 7,
+      "body": "I stopped reading at INTC",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1gmbq/",
+      "created": 1730565833,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv1if6m",
+      "score": 6,
+      "body": "Lot of NVDA bagholders in here",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1if6m/",
+      "created": 1730566407,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv1iczp",
+      "score": 2,
+      "body": "r/wallstreetlongterminvestmenrs",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1iczp/",
+      "created": 1730566387,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv1rfab",
+      "score": 2,
+      "body": "RemindMe! 10 years",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1rfab/",
+      "created": 1730569199,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv22rrl",
+      "score": 2,
+      "body": "\n\nRemindMe! 10 years",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv22rrl/",
+      "created": 1730572799,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv238u7",
+      "score": 2,
+      "body": "RemindMe! 69 years",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv238u7/",
+      "created": 1730572947,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv25b00",
+      "score": 2,
+      "body": "I stopped reading after he wrote something about 800% profit margins.",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv25b00/",
+      "created": 1730573588,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv2whnw",
+      "score": 2,
+      "body": "So you have come to the conclusion that China and Taiwan will be 100% best pals for the next 10years at least ?",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv2whnw/",
+      "created": 1730582485,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv304uv",
+      "score": 2,
+      "body": "You don’t know what you’re talking about. None of these are Nvidia replacements. For example, AWS Inferential and Tranium are specifically for AWS SageMaker workloads not EC 2 instances. Translation: unless you want to use traditional ML models in an AWS locked ecosystem system through SageMaker, you wouldn’t use these chips. They don’t even have transformers working on them efficiently. Meta is also using it for non-transformer ml models like Ads. Meta will never train Llama on MTIA, it’s not built for that and the performance can’t compare. The closest competition are Googles TPUs and their performance is still garbage compared to Nvidia. I’m talking like 10x slower inference. But Google is locked in and has already put too much money so they might just stick with it. And I don’t see a universe where Amazon and Meta are using TPUs over Nvidia. So yeah, I think you might want to look deeper into what they mean by custom silicon. Not all custom silicon is competition to Nvidia, most of them actually are not.",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv304uv/",
+      "created": 1730583751,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv3zx44",
+      "score": 2,
+      "body": "This is the only positive news/DD I have read all week about Intel. Fuck, I needed this",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv3zx44/",
+      "created": 1730596580,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv4vbzq",
+      "score": 2,
+      "body": "This... makes sense",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv4vbzq/",
+      "created": 1730609882,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv9luq4",
+      "score": 2,
+      "body": "I'm buying some intel if it goes down today. Seems like it's undervalued",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv9luq4/",
+      "created": 1730678008,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv1i3v0",
+      "score": 4,
+      "body": "[deleted]",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1i3v0/",
+      "created": 1730566307,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lv25edj",
+          "score": 1,
+          "body": "Proof?",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv25edj/",
+          "created": 1730573618,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lv1cmo2",
+      "score": 3,
+      "body": "Lol no",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1cmo2/",
+      "created": 1730564553,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv1dzb3",
+      "score": 3,
+      "body": "INTC may not exist in 10 years",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1dzb3/",
+      "created": 1730564990,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lv2bdx0",
+          "score": 5,
+          "body": "They will exist but something like Kodak. A sad life waiting to be put down.",
+          "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv2bdx0/",
+          "created": 1730575525,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lv1jmyw",
+      "score": 2,
+      "body": "Nana just got kicked out of the DOW and got replaced by Nvidividvid and here you are making your DD without even mentioning it.",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1jmyw/",
+      "created": 1730566780,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv17wek",
+      "score": 5,
+      "body": "Op mental gymnastics could win a special olympic gold medal",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv17wek/",
+      "created": 1730562992,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv1dsbn",
+      "score": 1,
+      "body": "Intel is a shit company. Idk why that's so hard for you guys to see. Also, who do you think is going to develop a better chip: a company that's spread out over a million different projects, or one that only makes chips.",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1dsbn/",
+      "created": 1730564928,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv18nif",
+      "score": 1,
+      "body": "INTC doesn’t grow anymore, check the chart for a couple decades",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv18nif/",
+      "created": 1730563241,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv1dmtn",
+      "score": 1,
+      "body": "Implied volatility will continue to keep AMD choppy. Volatility is **priced in**,  based on the options market and 6 other variables one of which is an unknown, there’s not a foreseeable **catalyst** to make the jump. \n\nNVDA had a stock split earlier this year as a clear 🚀",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1dmtn/",
+      "created": 1730564879,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv1uqc1",
+      "score": 1,
+      "body": "RemindMe! 10 years",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv1uqc1/",
+      "created": 1730570234,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv205cp",
+      "score": 1,
+      "body": "Flat out until someone has a product with performance equal to Nvidia it is a winner take all game and if you don't have the best you aren't competitive. There is no \"good enough\" and the people with the purses are being told this by their engineers and researchers.",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv205cp/",
+      "created": 1730571978,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv25y1b",
+      "score": 1,
+      "body": "RemindMe! 10 years",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv25y1b/",
+      "created": 1730573790,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv2c1dn",
+      "score": 1,
+      "body": "Remind me! 10 years",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv2c1dn/",
+      "created": 1730575738,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv2dsr2",
+      "score": 1,
+      "body": "RemindMe! 1 year",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv2dsr2/",
+      "created": 1730576313,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv2i04u",
+      "score": 1,
+      "body": "Interesting, but NVIDIA is making the highest quality chips, also TSMC and Nvidia aren’t competitors, if they’re growing Nvidia is growing too. INTC is going to get passed up unless they change fundamentally, AMD I agree has lots of potential.",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv2i04u/",
+      "created": 1730577681,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv2mge2",
+      "score": 1,
+      "body": "AI uses massive GPUs, not CPUs. The entire base of your argument groups them both into \"silicon\"",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv2mge2/",
+      "created": 1730579136,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv2sls2",
+      "score": 1,
+      "body": "!remindme 50 years",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv2sls2/",
+      "created": 1730581164,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv2zmy6",
+      "score": 1,
+      "body": "Why I think you are delusional",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv2zmy6/",
+      "created": 1730583579,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv3fcat",
+      "score": 1,
+      "body": "Losers average losers",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv3fcat/",
+      "created": 1730589100,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv3ly50",
+      "score": 1,
+      "body": "I am glad I got a put on INTC. These idiots believe anything they want.",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv3ly50/",
+      "created": 1730591448,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv3ot79",
+      "score": 1,
+      "body": "It's obvious to Mega Cap companies buying NVDA chips and every other chimp with more than two brain cells working at a time that NVDA chips WILL keep getting bought up as fast as they are produced, period...  First to market on the next major use cases for AI will 1000x investment.  That 700-800% tax they are paying on NVDA chips is literally peanuts compared to the pay off of a multi decade new technology produced from it.  No one has any idea of where AI will take us, but everyone can see that it will be revolutionary in literally every aspect of life and soon enough 2000-2020, the internet era will be looked at like the 1950-60's are now.  Companies need the BEST, NOW and might settle for something else (inhouse) when they temporarily can't get it but they want and need and will get as much NVDA chips as possible until, if ever, another chip designer comes out with something better.",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv3ot79/",
+      "created": 1730592485,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv3sikk",
+      "score": 1,
+      "body": "TSMC i understand but INTC idk.           \nbut nice post tho OP",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv3sikk/",
+      "created": 1730593830,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv3tfsc",
+      "score": 1,
+      "body": "The main thing is performance, NVIDIA has a huge lead in that area and unlikely in house solutions will match it, which means if your competitors are using NVIDIA chips you’re falling behind.",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv3tfsc/",
+      "created": 1730594165,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv3zyty",
+      "score": 1,
+      "body": "post positions.",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv3zyty/",
+      "created": 1730596599,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv43vqm",
+      "score": 1,
+      "body": "\"All those developments reduce dependence on external GPU suppliers”\n\nBut increases dependence on the external processor manufacturing capabilities of Taiwan??",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv43vqm/",
+      "created": 1730598103,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv4a2q4",
+      "score": 1,
+      "body": "Two words:  Nvidia’s ecosystem",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv4a2q4/",
+      "created": 1730600485,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv4r0vq",
+      "score": 1,
+      "body": "That invasion though on Taiwan , wait for it….",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv4r0vq/",
+      "created": 1730607721,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv4urwd",
+      "score": 1,
+      "body": "This makes no sense. \n\nYou mention about other companies making chips with TSM, but you are overlooking 1 major key peice of infomation. Those companies are making inhouse chips with TSM, in very low volumes, just a few thousand. \n\nAMD and NVDA are high volume customers of TSM, paying for millions of chips to be manufactured. \n\nBundled with Apple, the 3 major customers of TSM are Apple, AMD and Nvidia, they make up 99% of TSMs manufacturing capacity. the other 1% are the other companies you mentioned.\n\nSo for you to claim TSM will outpace AMD/NVDA is an impossibilty.",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv4urwd/",
+      "created": 1730609597,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv4xuhp",
+      "score": 1,
+      "body": "\\>  **the rate limiting factor for AI growth will be how much silicon can TSMC or INTC manufacture** \n\nAnother limiting factor is that it doesnt actually work.",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv4xuhp/",
+      "created": 1730611236,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv56p3s",
+      "score": 1,
+      "body": "I agree a lot for TSMC, I think a big part for it's current valuation is just them not capitalizing more on the huge monopoly they have and the geopolitics of being a Taiwan company and over the years I would expect both of those to change, with Intel I don't really agree honestly, I mean I agree it's not going anywhere but it's not exactly super clear to me how they further their growth of the foundry yet, it's not as obvious as the positives for TSMC it's something that's been losing billions upon billions of dollars for years so it's just not as clear-cut, I personally own intel stock because I believe their investments in that will pan out at some point but it's definitely not a clear-cut thing, especially since intel makes most of their money from desktop CPUs people own and AMD's been a really huge competitor to them in that market, for actual professional business most people still prefer intel but that could really change, especially given their recent stability issues and such.",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv56p3s/",
+      "created": 1730616810,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv5d2pj",
+      "score": 1,
+      "body": "No worries, chillin' in the lee with my MU bags.",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv5d2pj/",
+      "created": 1730621186,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv69n8p",
+      "score": 1,
+      "body": "https://www.reddit.com/r/wallstreetbets/s/BGbctsLDPE\n\n\nSurprise!!",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv69n8p/",
+      "created": 1730640150,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv6ss0x",
+      "score": 1,
+      "body": "Lulz didnt even read it",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv6ss0x/",
+      "created": 1730646959,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv6ss90",
+      "score": 1,
+      "body": "RemindMe! 10 years",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv6ss90/",
+      "created": 1730646961,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv7h38r",
+      "score": 1,
+      "body": "possible",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv7h38r/",
+      "created": 1730654400,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv8zx5n",
+      "score": 1,
+      "body": "!remindme 3 years",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv8zx5n/",
+      "created": 1730671002,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lv9xk5k",
+      "score": 1,
+      "body": "Intel cost me thousands upon thousands.... The only loss in my port. ![img](emote|t5_2th52|4260)",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lv9xk5k/",
+      "created": 1730682012,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lva9mi7",
+      "score": 1,
+      "body": "Republicans will gain the House and Senate. Johnson already let slip that they intend to kill the CHIPS act.\n\nIntel is poorly managed.",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lva9mi7/",
+      "created": 1730686385,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lvs6wqs",
+      "score": 1,
+      "body": "Imo all of these proxy wars are all leading up to a battle over Taiwan between China and the US.\n\nGlobal powers and P○liticz impact this stock. Be careful",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lvs6wqs/",
+      "created": 1730926976,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lw2ewr9",
+      "score": 1,
+      "body": "Regardless of which manufacturer you use, they need silicone 28, consider investing in Isotope manufactures like ASPI",
+      "permalink": "/r/wallstreetbets/comments/1ghyq7o/why_i_think_tsmintc_will_outpace_nvdaamd_growth/lw2ewr9/",
+      "created": 1731068138,
+      "depth": 0,
+      "replies": []
+    }
+  ],
+  "stockTickers": {
+    "post_summary": "The post discusses how TSMC and Intel (INTC) are positioned to outpace Nvidia (NVDA) and AMD's growth due to the tech giants' shift towards in-house AI silicon development.",
+    "companies": [
+      "TSMC",
+      "Intel",
+      "Nvidia",
+      "AMD",
+      "Amazon",
+      "Google",
+      "Microsoft",
+      "Meta"
+    ],
+    "tickers": [
+      "TSM",
+      "INTC",
+      "NVDA",
+      "AMD"
+    ],
+    "main_ticker": [
+      "TSM",
+      "INTC"
+    ]
+  },
+  "sentimentAnalysis": {
+    "post_summary": "The post argues that TSM and INTC will surpass NVDA and AMD in growth due to the growing investment in custom AI silicon by major tech companies.",
+    "stock_recommendations": "The user is recommending to buy TSM and INTC stocks.",
+    "is_recommending_stock_buying_or_selling": true,
+    "buy_or_sell": "buy",
+    "sentiment_summary": "There is positive sentiment because the author believes TSM and INTC will benefit from increased demand for custom AI silicon and recommends buying their stocks.",
+    "sentiment": "positive"
+  }
+}

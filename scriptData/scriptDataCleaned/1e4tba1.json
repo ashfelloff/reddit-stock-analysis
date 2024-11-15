@@ -1,0 +1,964 @@
+{
+  "title": "Recent Intel Gaming Chips have >50% Failure Rate",
+  "score": 424,
+  "selftext": "It has been known for months that Intel's consumer desktop chips of the 13th and 14th generation are widely affected by stability problems. It was thought that these issues were caused by motherboard vendors pushing the chips above the voltage intended by Intel and this was what was causing the chips to fail. [Source](https://videocardz.com/newz/intel-addresses-instability-issues-with-13th-14th-gen-core-k-series-cpus-in-latest-statement)\n\nLast friday some investigative journalism by the youtuber [Level1Techs](https://www.level1techs.com/node/2958) revealed that these issues are not caused by running the chips out of Intel's specifications. He has failure reports from multiple cloud gaming providers which use the relevant chips in large numbers and well within spec. His aggregated data shows a failure rate of 50% per week of continuous running.  [Source](https://www.tomshardware.com/pc-components/cpus/13th-and-14th-gen-intel-cpu-instability-also-hits-servers) , [Further Reading](https://semiwiki.com/forum/index.php?threads/intel-13th-and-14th-gen-core-i9-stability-problems.20614/)\n\n\nI'm mostly making this post because I have not seen this being reported on outside of niche tech circles. Couldn't this mean a huge recall operation for Intel? A company already struggling to profit losing (tens-hundreds of)millions on a recall that also hurts consumer trust. I mean, as far as I understand the findings, this means all high-powered consumer chips Intel has sold for the last 2 years are slowly degrading and a lot of them could fail. [Call for a recall](https://www.techspot.com/news/103797-developer-alderon-games-intel-actually-selling-defective-crash.html)\n\nWhat impact could this have on the stock? (Disclose of relevant positions: AMD, NVDA, MU)",
+  "link_flair_text": "Company Discussion",
+  "id": "1e4tba1",
+  "num_comments": 99,
+  "created_utc": 1721147975,
+  "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/",
+  "comments": [
+    {
+      "id": "ldhqnhv",
+      "score": 129,
+      "body": "Intel calls will never print :(",
+      "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldhqnhv/",
+      "created": 1721156161,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldipmvn",
+          "score": 35,
+          "body": "How far out are you buying them? You should know that Intel is unlikely to recover anytime soon.",
+          "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldipmvn/",
+          "created": 1721167717,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldisovp",
+              "score": 18,
+              "body": "Yeah 2026 leaps at minimum if anything based on Intels turnaround timeline. \n\nI’m currently just holding 100 shares and selling 2 week out calls and rolling them out (and higher if I can) when they’re about to expire. Little extra income while I wait.",
+              "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldisovp/",
+              "created": 1721168825,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ldjylri",
+                  "score": 5,
+                  "body": "> and rolling them out (and higher if I can) when they’re about to expire\n\nWhy not just let them expire and resell? Or sell puts if they get exercised?",
+                  "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldjylri/",
+                  "created": 1721185187,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "ldkjseh",
+              "score": 3,
+              "body": "You really think if chip sales go back up the stock can't possibly go back up? The foundry side won't recover soon. Same isn't  necessarily true for what actually makes them money, client computing.",
+              "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldkjseh/",
+              "created": 1721195997,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "ldsanrm",
+              "score": 1,
+              "body": "How about 50 years call?",
+              "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldsanrm/",
+              "created": 1721316887,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ldkjm1o",
+          "score": 3,
+          "body": "This is bad news but it doesn't impact the stock in any meaningful shape or form. \n\n\n\nOh no, some Intel replacements or a lawsuit YEARS down the line. Their entire lineup is getting refreshed. New laptop, new server, new desktop SKUs",
+          "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldkjm1o/",
+          "created": 1721195892,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldiym3m",
+          "score": 3,
+          "body": "The stock has to go up for that and it’s hardly gone up in 3 decades",
+          "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldiym3m/",
+          "created": 1721171006,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldlp66n",
+          "score": 1,
+          "body": "look again!",
+          "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldlp66n/",
+          "created": 1721220443,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldh3a4t",
+      "score": 56,
+      "body": "The main question is what impact does this have going forward? Intel is switching to a new node with 15th gen, after squeezing the living shit out of the old node for 12, 13 and 14 gen. This squeezing is probably whats causing the issues (though i dont have a deep understanding of the issues, i have watched the linked videos and some commentary on them). Will these issues carry through to the new gen? I would be surprised if they do but its not impossible. \n\nIf there is no effect on the new gen things should balance out somewhat, but there will be some short term pain to go through. Before the medium term pain of not having their own fabs making their own chips. But surely theres no long term pain coming right? Right?\n\nGood thing i bought NVIDIA, AMD and Intel together back in 21. The other two more than make up for the losses in the black sheep",
+      "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldh3a4t/",
+      "created": 1721148615,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldh4tc2",
+          "score": 27,
+          "body": "I doubt the issue is going to carry over to the next generation. The lawsuits could drag on for a while, though. And It's just one more thing that makes Intel's recovery more difficult and incentivizes customers to choose AMD. \n\nHa, I bought those 3 in 2021 too as some of my first investments. I probably lost more money exiting in and out of that Intel position than you did holding it till today, lol.",
+          "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldh4tc2/",
+          "created": 1721149105,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldk647v",
+              "score": 9,
+              "body": "If I owned a chip, even if it was not failing, my resale value has plummeted. My product longevity is maybe 3 years instead of 5-6 years. Overclocking is now risky. There might be a microcode or other patches that will undervolt and reduce performance I paid  for. Brand reputation is also lost due to this.\n\nI would expect some compensation. They can't give the 15 series chips to customers as an rma, its a new chipset so new mobo. They would have to buy them a new mobo. \n\nOnce this hits mainstream news, im buying puts. To me this will cost a lot. All of the consumer revenue from chips in the last 2 years is at risk. Its been 2+ months, and they have not said shit.  Nvidia called them out over the error crash reports.",
+              "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldk647v/",
+              "created": 1721188629,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "ldl8hls",
+              "score": 3,
+              "body": "It may or may not. But as long as intel’s own manufacturing node is falling behind TSMC, the similar behavior from intel to squeeze the last bit of performance will continue. Otherwise their flagship will look bad in the benchmarks.",
+              "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldl8hls/",
+              "created": 1721212320,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ldibdmb",
+          "score": 3,
+          "body": "Hey! I thought I was the only one who bought all three at once (in 2022). I did it in equal quantities, too. Perhaps not the *most* prudent decision, but Nvidia's run has been so insane I don't mind the Intel underperformance, and the AMD is a nice treat on the side too. \n\nAlso I agree: hopefully Intel really manages to accomplish more with the new generation of chips, without pushing the prior ones so hard.",
+          "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldibdmb/",
+          "created": 1721162885,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldhffls",
+      "score": 40,
+      "body": "What I don’t understand is why use consumer chips for cloud servers, Xeons are made for that or Epyc, I know it’s a cheaper solution but still you need the right equipment for the right job. Personal I’m using a 13900KF and never experienced any issues or breakdowns.",
+      "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldhffls/",
+      "created": 1721152520,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldk42pe",
+          "score": 10,
+          "body": "need high single core perf. which server chips is not known for..",
+          "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldk42pe/",
+          "created": 1721187661,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldkfilz",
+          "score": 5,
+          "body": "For these ge servers higher clock speeds are advantageous, as well as having less servers running per chip, so when something crashes, it doesn't take out as many game servers at once.\n\n\nIf some of the theories for what's going on are true either you got rather lucky with the binning of your chip, or it's just aatter of time before it kills itself.\n\n\nWe don't really have enough information to know if it's a fundamental design flaw, or a problem with manufacturing, so we'll have to wait and see for the ones like yours that are still going, though it does sound very unlikely to be anything software related.",
+          "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldkfilz/",
+          "created": 1721193534,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldi7iqd",
+          "score": 3,
+          "body": "I use 13th i7 full time - no issues",
+          "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldi7iqd/",
+          "created": 1721161639,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldhfep9",
+      "score": 48,
+      "body": "It's the top of the line chips for the 13th and 14th gen that have high failure rates. Particularly the 13900s and 14900s. Not the whole generation. Also the 50% figure is for error rates associated with those CPUs. That could be a severe error or something that the user won't notice. The critical failure rate is closer to 20% which is still abysmal but it's not remotely close to 50% of those two generations failing.",
+      "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldhfep9/",
+      "created": 1721152512,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldj5x15",
+          "score": 19,
+          "body": "The crash rates are *worse* than 50% for enterprises that are running the CPU continuously. Yes, it's that bad and that serious.",
+          "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldj5x15/",
+          "created": 1721173756,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldjs2mc",
+              "score": 7,
+              "body": "Source for this claim?",
+              "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldjs2mc/",
+              "created": 1721182459,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ldtjno0",
+                  "score": 1,
+                  "body": "There are now multiple sources citing various significant failure rate stats, from Level1techs to enterprise support providers, but the worst of them being Alderon Games seeing a 100% failure rate in their testing.",
+                  "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldtjno0/",
+                  "created": 1721331666,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "ldksiom",
+                  "score": 1,
+                  "body": "His ass",
+                  "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldksiom/",
+                  "created": 1721201578,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "leqgkrx",
+          "score": 1,
+          "body": "Cite your source...",
+          "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/leqgkrx/",
+          "created": 1721840264,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "leqgxy7",
+              "score": 1,
+              "body": "The Level1Tech video Wendell released.",
+              "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/leqgxy7/",
+              "created": 1721840377,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ldha7x7",
+      "score": 19,
+      "body": "hey, how come your link saying it’s the source of that claim doesn’t actually say what you say it did?",
+      "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldha7x7/",
+      "created": 1721150850,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldiuu95",
+          "score": 10,
+          "body": "> hey, how come your link saying it’s the source of that claim doesn’t actually say what you say it did?\n\nI almost pointed out the same thing.\n\nAnd you know *exactly* why OP did that.",
+          "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldiuu95/",
+          "created": 1721169619,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldkgz0y",
+              "score": 4,
+              "body": "I think OP just misunderstood some of the failure rates that were mentioned and paraphrased poorly.\n\n\n\n\n\nThe problem is, this might actually be a design flaw , and if it is, all of them will die eventually, in which case a full recall is probably going to be needed.",
+              "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldkgz0y/",
+              "created": 1721194355,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ldkgg54",
+          "score": 3,
+          "body": "I think he's misunderstanding the failure rates quoted. It is very high though, and may be a fundamental design flaw, and if so, even the ones that haven't failed yet are basically time bombs. If so, Intel will have to do a recall of a huge number of these chips.",
+          "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldkgg54/",
+          "created": 1721194058,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldhc8wx",
+          "score": 1,
+          "body": "Which one? Obviously, I'm paraphrasing entire articles and yt videos, so my sourcing isn't exactly on university paper level. But my main claims were: \n\n-Stability issues were known, and Intel blamed motherboard vendors (Source 1 is adequate for that IMO)\n-Stability issues are not because of motherboards, but an inherent issue that also occurred on comparatively low powered data center motherboards (source 2 and the linked yt video say this)\n-50% failure rate (mentioned in source2 and the yt video)",
+          "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldhc8wx/",
+          "created": 1721151502,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldmjhb3",
+              "score": 3,
+              "body": ">-50% failure rate (mentioned in source2 and the yt video)\n\nThis is not stated in that source. The source says that 50% experience stability issues, not a 50% failure rate, and the source for that is also the YT video, so it's just the same source.",
+              "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldmjhb3/",
+              "created": 1721231129,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ldj9pju",
+      "score": 4,
+      "body": "I just sold a call for a 45% gain. It can crash now.",
+      "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldj9pju/",
+      "created": 1721175213,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldkwrx5",
+      "score": 5,
+      "body": "[deleted]",
+      "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldkwrx5/",
+      "created": 1721204497,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "les9tz5",
+          "score": 1,
+          "body": "Yeah people are pretty brain dead. The overall losses are also due to huge investments in factories, which will eventually pay off most tech companies have problems when they try to scale quickly. I don’t know why people are surprised that they are loosing money on foundry business it’s pretty new. Plus when the is government is your customer your probably gonna be ok",
+          "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/les9tz5/",
+          "created": 1721861777,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lesarp5",
+          "score": 1,
+          "body": "I just checked they out performed the last 4 earnings projections.",
+          "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/lesarp5/",
+          "created": 1721862121,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lg1c5ld",
+          "score": 1,
+          "body": "Oops",
+          "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/lg1c5ld/",
+          "created": 1722545425,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldig8n7",
+      "score": 4,
+      "body": "nice months old “news”",
+      "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldig8n7/",
+      "created": 1721164483,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldilo8k",
+          "score": 11,
+          "body": "Old news, and unresolved months later. That is actually news, the fact that they cant fix this with software, since its likely failing hardware.",
+          "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldilo8k/",
+          "created": 1721166331,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldilz5d",
+              "score": 3,
+              "body": "So this is olds? Not news",
+              "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldilz5d/",
+              "created": 1721166435,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ldiqp4r",
+                  "score": 7,
+                  "body": "It is new information, that even on lower setting these chips still are defective. Intel is keeping quiet instead of dealing with this. They are basically going to wait for class action lawsuits and then fix it.",
+                  "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldiqp4r/",
+                  "created": 1721168098,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ldkh7l2",
+          "score": 1,
+          "body": "This has been happening and investigated this week. There's updates from a few days ago and people are collecting data to try to figure out the cause right now.",
+          "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldkh7l2/",
+          "created": 1721194489,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldht275",
+      "score": 6,
+      "body": "Failing right before an upgrade cycle. Bullish. Anyway why are commercial cloud gaming providers using consumer desktop chips? No expert here but that seems like going cheap on the capex and pushing the chips beyond intended use. No excuse for them to fail at that rate if within spec but something about this story seems off.",
+      "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldht275/",
+      "created": 1721156950,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldjey84",
+          "score": 7,
+          "body": "Because consumer chips are designed for speed, which gaming (even from cloud providers) requires the most.\n\nWhile Xeon counterparts exist, they are not as fast and cheap as the consumer counterparts",
+          "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldjey84/",
+          "created": 1721177249,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldtkbqd",
+          "score": 1,
+          "body": "The Xeon chips are designed for the typical use case of running lots of virtual machines and parallel workloads. Lots of cores and threads, less grunt per core.\n\nIt’s no secret they aren’t great for gaming.",
+          "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldtkbqd/",
+          "created": 1721331885,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldhymin",
+      "score": 7,
+      "body": "Used to call the stock a disappointment.... It's a pathetic stock now.",
+      "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldhymin/",
+      "created": 1721158762,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldibq5e",
+      "score": 6,
+      "body": "Intel hasn’t hit its all time high since 2000… people have been bagholding for 24 years",
+      "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldibq5e/",
+      "created": 1721162999,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldk6oft",
+          "score": 4,
+          "body": "And those who bought during the IPO in 1971 are up 154,000%.",
+          "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldk6oft/",
+          "created": 1721188900,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldicsif",
+          "score": 5,
+          "body": "It paid dividends at least.",
+          "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldicsif/",
+          "created": 1721163342,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldh5nz5",
+      "score": 8,
+      "body": "This is why I haven’t updated my 2013 4770k system. It’s custom built and still plenty powerful. But def lags in photoshop. 🤣",
+      "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldh5nz5/",
+      "created": 1721149384,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldha9dx",
+          "score": 4,
+          "body": "I upgraded my 3930k recently, built a completely new system with a 14900k. After a couple of months gaming and general usage ive not really had any issues.\n\n\nNot doubting all those who got issues tho!",
+          "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldha9dx/",
+          "created": 1721150863,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldh80iq",
+          "score": 4,
+          "body": "I scored one off of fb marketplace, 4770k with water cooled cpu, water cooled motherboard, 32gb ram and it came with 2 graphics cards, but I upgraded to the 3080. All for $250. What a deal. Only issue is a stupid cpu over voltage error and no over clocking abilities thanks to that.\n\nOnly game that this system can’t handle is Microsoft Flight Simulator on 4k-ultra settings.",
+          "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldh80iq/",
+          "created": 1721150144,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldi4ruf",
+              "score": 14,
+              "body": "[deleted]",
+              "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldi4ruf/",
+              "created": 1721160760,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ldi99g7",
+                  "score": 4,
+                  "body": "Yep, waiting on Black Friday to cyber Monday to come so I can build another one, but for $250 it isn’t bad. And the 3080 was just luck, I was buying an Xbox series x from this guy off fb marketplace for $300 and he happened to have the 3080 for sell and I was able to get both for $650 with a couple of rgb fans included.",
+                  "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldi99g7/",
+                  "created": 1721162199,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "ldiw16n",
+                  "score": 2,
+                  "body": "I'm still using my 1950X (16c/32t) Threadripper and got a 4080 to replace my 1080ti when I upgraded to a 4k TV/Monitor.  It plays most things perfectly fine, about the only issue I have is some single-threaded game workloads (X4 Foundations with tons of small fighters in a single sector), even Cyberpunk 2077 runs fine maxed out.",
+                  "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldiw16n/",
+                  "created": 1721170059,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "ldht1j3",
+              "score": 0,
+              "body": "holy fuck that is like the best deal of all time, way to go!",
+              "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldht1j3/",
+              "created": 1721156944,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ldiyqxa",
+                  "score": 1,
+                  "body": "It really isn't, $250 for a i7 4770K system is a pretty shit deal",
+                  "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldiyqxa/",
+                  "created": 1721171057,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ldico2s",
+          "score": 1,
+          "body": "Bro I have upgraded 3 times since my 4770k. When you finally upgrade you will be in heaven lol.",
+          "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldico2s/",
+          "created": 1721163303,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldijz60",
+      "score": 2,
+      "body": "Seems bad",
+      "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldijz60/",
+      "created": 1721165753,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldkat16",
+      "score": 2,
+      "body": "Good thing I bought a 12th gen to save money when I built my PC last year",
+      "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldkat16/",
+      "created": 1721190981,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldljwp2",
+      "score": 2,
+      "body": "some regards will still say INTC is undervalue. INTC stock will rise by 1% in 2070",
+      "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldljwp2/",
+      "created": 1721218171,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldmmf3b",
+      "score": 2,
+      "body": "This reminds me of the joke 40 y/ago.\n\"Intel iside\" is a warning label.",
+      "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldmmf3b/",
+      "created": 1721232070,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldhga1t",
+      "score": 3,
+      "body": "Not enough real information in the article. The discussion board is mainly rumor and speculation, and I'm not spending 20 minutes listening. \n\nThe article on Toms starts with saying that 50% have a high rate of crashing. Then later on it says that updates have not resolved all issues, suggesting that there is an improvement, but doesn't say how much of an improvement. I expect better from Toms. \n\nSo, at this moment, the rate is apparently less than 50% have issues. How frequent are issues, what kind of issues? Application crash, OS crash, hardware crash? \n\nNote that this is not a defense of Intel, just a statement that there is significant \"reasonable doubt\" in the claim for the current time/date.",
+      "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldhga1t/",
+      "created": 1721152795,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldhohpt",
+          "score": 10,
+          "body": "Calling it \"rumor and speculation\" is really disingenuous to Wendel's research. You can see the [posts from the Warframe developers](https://forums.warframe.com/topic/1405008-instability-on-recent-intel-processors/) also about the failure rates.",
+          "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldhohpt/",
+          "created": 1721155466,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldi4vdc",
+              "score": 1,
+              "body": "From your link:\n\n\"After updating his BIOS to the latest he hasn’t crashed in nvgpucomp64.dll since and we’re optimistic that the weird crashes that only he was getting won’t be back either.\" \n\nAnother one says that some developers think they know what the problem is, and think that intel does too, but neither are saying it. \n\nIntel says that the bios update from a couple weeks ago is much better but not the real cause, but doesn't say what the real cause is. [https://community.intel.com/t5/Processors/June-2024-Guidance-regarding-Intel-Core-13th-and-14th-Gen-K-KF/m-p/1607807](https://community.intel.com/t5/Processors/June-2024-Guidance-regarding-Intel-Core-13th-and-14th-Gen-K-KF/m-p/1607807) \n\nIt is a strange situation.",
+              "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldi4vdc/",
+              "created": 1721160791,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ldikpu7",
+                  "score": 6,
+                  "body": "Here’s a post I recently made from another developer who is seeing the same thing, with all of their info clearly laid out. https://www.reddit.com/r/technology/comments/1e19v3g/intel_is_selling_defective_cpus_alderon_games/",
+                  "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldikpu7/",
+                  "created": 1721166004,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ldimir5",
+                      "score": 2,
+                      "body": "Interesting.",
+                      "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldimir5/",
+                      "created": 1721166621,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ldhklke",
+          "score": 3,
+          "body": ">  Then later on it says that updates have not resolved all issues\n\nSounds like the \"updates\" just delay the inevitable, since the chips still fail even with reduced settings. Something isnt right with these chips, and Intel's silence is deafening.",
+          "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldhklke/",
+          "created": 1721154204,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldl7qj0",
+              "score": 2,
+              "body": "And the updates will certainly hit the performance badly to run the chips in a lower voltage and power budget. Which is counterintuitive to what people brought the i9 for. \n\nThe other thing is the updates won’t able to save the chips which has already been degraded by previous bios settings.",
+              "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldl7qj0/",
+              "created": 1721211865,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ldmk5ue",
+          "score": 2,
+          "body": ">The article on Toms starts with saying that 50% have a high rate of crashing\n\n50% are showing instability, not even a failure rate necessarily.",
+          "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldmk5ue/",
+          "created": 1721231348,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldkhr3t",
+          "score": 1,
+          "body": "The summary of the videos is \"I got data from server hosting companies and game developers, the hosting companies are seeing excessive crashing and high failure rates, and the diagnostic data from the game devs have frequent crashes on the same chips\"\n\n\nThe problem is it's an active investigation and no one really know what's going on yet, but it looks like the chips may be killing themselves, and if that's the case, this will only get worse for intel as these chips are run longer.",
+          "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldkhr3t/",
+          "created": 1721194801,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldmdyzi",
+              "score": 1,
+              "body": "That is a potential. They released a bios update and made it better, but also said that it didn't fix the core issue. But, they haven't said what the core issue is.",
+              "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldmdyzi/",
+              "created": 1721229347,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ldhroa5",
+          "score": 2,
+          "body": "Well a real company who's processors have 100% failure and losing millions of dollars should be enough real information.",
+          "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldhroa5/",
+          "created": 1721156493,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldi3g9c",
+              "score": 1,
+              "body": "What is this 100% failure you mention?",
+              "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldi3g9c/",
+              "created": 1721160331,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ldj5fky",
+      "score": 2,
+      "body": "Pushing or not, the damage is done...I could see Intel dropping in the near future. This December will be hard for them.",
+      "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldj5fky/",
+      "created": 1721173570,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldh9srm",
+      "score": 2,
+      "body": "50% - hey, one out of two ain’t bad",
+      "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldh9srm/",
+      "created": 1721150715,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldl6x1o",
+          "score": 3,
+          "body": "50% so far. It’s talking about chip degradation. Systems passed all the stress test 2 months ago can now become unstable, so it’s a matter of time.",
+          "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldl6x1o/",
+          "created": 1721211357,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldhktg8",
+      "score": 3,
+      "body": "Just like Tesla recalling cars - recalling things is one way to get wall street interested by the looks of it",
+      "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldhktg8/",
+      "created": 1721154273,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldht95w",
+          "score": 7,
+          "body": "People shrug off Tesla recalls because they're almost always over the air software updates that the NHTSA requires them to label a \"recall\". \n\nIMO Tesla shows exactly why the NHTSA should update their regulations to differentiate between physical recalls that require you to take your car to a garage, and over the air software updates. If I owned a Tesla I would just assume any recall stories I hear about are nothing-burgers that are fixed with a software update, which would be quite dangerous if it was one that required me to take it into a garage.",
+          "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldht95w/",
+          "created": 1721157013,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldiax4x",
+      "score": 1,
+      "body": "How the heck do you recall chips? It’s not like the ones installed on the existing can be turned off and not providing services, I would imaging it’s really different than recalling a car",
+      "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldiax4x/",
+      "created": 1721162738,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldilv5k",
+          "score": 6,
+          "body": "Admit all chips are defective, replace them all with working products.",
+          "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldilv5k/",
+          "created": 1721166396,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldkmhsa",
+      "score": 1,
+      "body": "yea I don't fuck around with these chip stocks. I just don't know enough about it",
+      "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldkmhsa/",
+      "created": 1721197657,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldkveav",
+      "score": 1,
+      "body": "I think it will cost them some money. But they will fight back with Arrow Lake and Lunar Lake. Those will take back the crown. \n\nThey are said to use less GHz. Maybe that will keeo the chips alive.",
+      "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldkveav/",
+      "created": 1721203552,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldlmk8x",
+      "score": 1,
+      "body": "i am curious, are these chips made at Intel foundries?  Or at TSMC or some other company foundry?\n\nit would bode poorly for whomever the foundry owner is!  their processes are out of control",
+      "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldlmk8x/",
+      "created": 1721219340,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldmjs3u",
+      "score": 1,
+      "body": "Bagholder here. Please keep spreading FUD so I can keep accumulating before the lift off",
+      "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldmjs3u/",
+      "created": 1721231223,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldxxvch",
+      "score": 1,
+      "body": ">Dev reports Intel's laptop CPUs are also suffering from crashing issues — several laptops have suffered similar failures in testing\n\n>New evidence busts any theories that Raptor Lake instability is a desktop-specific issue.\n\nhttps://www.tomshardware.com/pc-components/cpus/dev-reports-that-intels-laptop-cpus-are-also-crashing-several-laptops-have-suffered-similar-crashes-in-testing\n\nMassively incompetent, everything is perfect for their future and they are screwing it up.\n\nIts not just about producing hips, but making profits doing so.... not selling faulty products, and being forced to compensate customers.",
+      "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldxxvch/",
+      "created": 1721402843,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "leqgsht",
+      "score": 1,
+      "body": "Just buy AMD.  They're competitive and cheaper, with less Gremlins.  Just do it.",
+      "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/leqgsht/",
+      "created": 1721840330,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lfl8rxv",
+      "score": 1,
+      "body": "Just curious does the affect ALL chips? I have an i9 13900KF. I never overclocked it or adjusted its settings. I have used it for gaming should I expect it to crash?",
+      "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/lfl8rxv/",
+      "created": 1722306545,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgxn209",
+      "score": 1,
+      "body": "The failure rate is so high b/c of a couple problems.\n\n1) The the voltage spikes.  I don't think it so much the MB setting, but that the voltage will spike under load and over time this is making the chip failure\n\nIntel is releasing a micro code update to the BIOS which will stop the spiking but any damage previously done will already done.  Also Intel already said that the voltage spike is a problem but probably not the root cause, they still don't know the root cause\n\n2) oxidization on the chips themselves.  This is a hardware problem can can't be fixed with any software updates\n\n3) the class action lawsuit that will come.  they are not doing a recall, they are not refunding, and up until recently they have been turning down a lot of RMAs.  Intel \"fix\" is to gimp the CPU so you are no longer getting the advertised speeds.  Intel suggest under volting the chip \\~10% which hits performance.  \n\nMy old PC was running a 9% overclock for 5 years straight with a failing AIO cooler and still didn't die.",
+      "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/lgxn209/",
+      "created": 1723036559,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldi6wup",
+      "score": 1,
+      "body": "[deleted]",
+      "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldi6wup/",
+      "created": 1721161446,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldilz3l",
+          "score": 2,
+          "body": "How do you value the loss of consumer (and potentially all clients) confidence?",
+          "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldilz3l/",
+          "created": 1721166435,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldhytj2",
+      "score": 1,
+      "body": "Isn’t this bullish because now somebody has to buy ANOTHER intel chip? Intel go brr?",
+      "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldhytj2/",
+      "created": 1721158826,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldiczmg",
+          "score": 5,
+          "body": "Ah yes, the Xbox 360 strategy.",
+          "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldiczmg/",
+          "created": 1721163406,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldi94xr",
+      "score": 1,
+      "body": "Poots on intel. 5 more years it turns into a penny stock 😂",
+      "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldi94xr/",
+      "created": 1721162160,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldic8b9",
+      "score": -2,
+      "body": "Meh that's normal. It won't impact the stock IMO.",
+      "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldic8b9/",
+      "created": 1721163163,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldh6i3q",
+      "score": -3,
+      "body": "Whats the point of waiting for earnings if whatever profits they make, will eventually be lost due to recalls, or class action lawsuits to force the recalls. Their silence points to this being their faulty hardware. Yes they may fix this on their next generation products (hopefully), but to lose a few years of \"profits\" plus pay for recalls may take some years to undo, additionally the loss of trust by consumers is hard to quantify. There's a reason people pay extra for reliability.\n\nIm not buying any puts because markets can remain irrational, but INTC really shit the bed on this, and silence is an admission of guilt.",
+      "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldh6i3q/",
+      "created": 1721149658,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldhd47r",
+          "score": 5,
+          "body": "I'm not an expert but I assume they can write it off or use any other book keeping tricks. If it had material earnings impact they would need to release a profit warning",
+          "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/ldhd47r/",
+          "created": 1721151782,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lesahxh",
+          "score": 1,
+          "body": "This is a small portion of intels overall business, even if the rumours are confirmed this won’t sink them.",
+          "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/lesahxh/",
+          "created": 1721862021,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lf1kdfb",
+              "score": 1,
+              "body": "Comment downvoted as INTC went from $37 to $31, which is a 20% down movement, just shows this sub is full of bad traders who reject common sense.",
+              "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/lf1kdfb/",
+              "created": 1722006129,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lf2miuw",
+                  "score": 1,
+                  "body": "Everyone is looking for the short term trades I'm looking to hold intel for the long haul I think they will pop off in 2026-2028 when their new factories come online",
+                  "permalink": "/r/stocks/comments/1e4tba1/recent_intel_gaming_chips_have_50_failure_rate/lf2miuw/",
+                  "created": 1722018431,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "stockTickers": {
+    "post_summary": "Intel's recent gaming chips have a high failure rate and may result in a significant recall operation.",
+    "companies": [
+      "Intel"
+    ],
+    "tickers": [
+      "INTC",
+      "AMD",
+      "NVDA",
+      "MU"
+    ],
+    "main_ticker": [
+      "INTC"
+    ]
+  },
+  "sentimentAnalysis": {
+    "post_summary": "The post discusses stability issues with Intel's 13th and 14th generation gaming chips resulting in a high failure rate.",
+    "stock_recommendations": "The user implies a negative sentiment towards Intel, potentially suggesting selling or avoiding Intel stock.",
+    "is_recommending_stock_buying_or_selling": true,
+    "buy_or_sell": "sell",
+    "sentiment_summary": "There is negative sentiment due to potential recalls negatively impacting Intel's reputation and financial performance.",
+    "sentiment": "negative"
+  }
+}

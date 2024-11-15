@@ -1,0 +1,1739 @@
+{
+  "title": "CrowdStrike (CRWD) code update bricking Windows machines around the world",
+  "score": 506,
+  "selftext": ">BREAKING An update to a product from infosec vendor CrowdStrike is bricking computers running Windows.\n\n>*The Register* has found numerous accounts of Windows 10 PCs crashing, displaying the Blue Screen of Death, then being unable to reboot.\n\n>“We're seeing BSOD Org wide that are being caused by csagent.sys, and it's taking down critical services. I'll open a ticket, but this is a big deal,” [wrote](https://twitter.com/McCurdy1987/status/1814164537815585049) one user.\n\n>Forums [report](https://www.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/) that Crowdstrike has issued an advisory with a URL that includes the text \"Tech-Alert-Windows-crashes-related-to-Falcon-Sensor-2024-07-19\" – but it's behind a regwall that only customers can access.\n\n>An apparent [screenshot](https://twitter.com/Xaaavier_8613/status/1814180533108400569) of that article reads \"CrowdStrike is aware of reports of crashes on Windows hosts related to the Falcon Sensor. Symptoms include hosts experiencing a bugcheck\\\\blue screen error related to the Falcon Sensor.\"\n\n>CrowdStrike's engineers are working on the issue.\n\n>Falcon Sensor is an agent that CrowdStrike [claims](https://www.crowdstrike.com/products/trials/try-falcon-prevent/) \"blocks attacks on your systems while capturing and recording activity as it happens to detect threats fast.\"",
+  "link_flair_text": null,
+  "id": "1e6xol5",
+  "num_comments": 275,
+  "created_utc": 1721373016,
+  "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/",
+  "comments": [
+    {
+      "id": "ldwax5h",
+      "score": 769,
+      "body": "When your antivirus is worse than any virus 💀",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldwax5h/",
+      "created": 1721374731,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldx1x93",
+          "score": 257,
+          "body": "Computer can't get a virus if the computer doesn't work.",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldx1x93/",
+          "created": 1721390981,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldy7zzg",
+              "score": 46,
+              "body": "*Task failed successfully.*",
+              "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldy7zzg/",
+              "created": 1721406169,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "ldxgtih",
+              "score": 22,
+              "body": "Success",
+              "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxgtih/",
+              "created": 1721397039,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "ldxsbme",
+              "score": 5,
+              "body": "The Russian special forces approach",
+              "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxsbme/",
+              "created": 1721401009,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "le1r5xt",
+                  "score": 1,
+                  "body": "The Russian approach.  \nFTFY. 🧐",
+                  "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/le1r5xt/",
+                  "created": 1721457554,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ldxengw",
+          "score": 55,
+          "body": "McAfee is like \"FINALLY I'm not the worst anymore!\"",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxengw/",
+          "created": 1721396238,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "le0n9bi",
+              "score": 12,
+              "body": "Isnt the ceo at crowdstrike an ex mcafee employee",
+              "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/le0n9bi/",
+              "created": 1721437261,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ldx2vdg",
+          "score": 52,
+          "body": "Have we ever experienced a virus that caused this much global damage before? I imagine foreign powers who have spent years trying to design or find flaws in Western systems must be having one of those \"what the heck\" moments right now.",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldx2vdg/",
+          "created": 1721391404,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldxlfei",
+              "score": 15,
+              "body": "There was a worm back in the day and ISPs literally wouldn't let you look at any website until you installed an update.\n\nProbably not as bad as this.",
+              "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxlfei/",
+              "created": 1721398676,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "ldydeyf",
+              "score": 8,
+              "body": "[Blaster worm](https://www.csoonline.com/article/539610/business-continuity-blaster-worm-lessons-learned-a-decade-later.html#:~:text=2%20Billion%20computers%20had%20been,some%20people%2C%20attributed%20to%20Blaster.) comes to mind.",
+              "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldydeyf/",
+              "created": 1721407961,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "ldz640b",
+              "score": 6,
+              "body": "NotPetya in 2017 was pretty disruptive, got loose from it's original target and shut down the biggest shipping company in the world among many others but this is probably bigger in overall business impact",
+              "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldz640b/",
+              "created": 1721417447,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "le8uvt9",
+              "score": 3,
+              "body": "Not a virus, but a group of bad actors [literally shut down the biggest refined products pipeline in the Western Hemisphere, Colonial Pipeline, for 5 days in 2021](https://en.wikipedia.org/wiki/Colonial_Pipeline_ransomware_attack), which is a much bigger disaster economically than a day's worth of grounded flights.",
+              "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/le8uvt9/",
+              "created": 1721579207,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "le0da3y",
+              "score": 1,
+              "body": "The morris worm was a pretty good one.\n\nhttps://en.m.wikipedia.org/wiki/Morris_worm",
+              "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/le0da3y/",
+              "created": 1721433115,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "le18ypc",
+              "score": 1,
+              "body": "When Meta went down a few years ago because some pimple-faced engineer fucked 3/4 of internet routing by locking everyone out it of the backend?",
+              "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/le18ypc/",
+              "created": 1721446942,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ldx72as",
+          "score": 31,
+          "body": "Ironic AI will be the doom of our society but it is not what you think.. \n\nit’s Because companies are shifting ton of resources (especially the talented ones) to work on AI, as core functionality is neglected. \n\nJust few hrs before this incident we had huge Azure outage and azure has been going down hill terms of stability for the past six months",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldx72as/",
+          "created": 1721393228,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldxpqkr",
+          "score": 5,
+          "body": "The virus of the antivirus 😁",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxpqkr/",
+          "created": 1721400147,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldy9dgb",
+          "score": 4,
+          "body": "The ultimate virus",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldy9dgb/",
+          "created": 1721406627,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldyn8e6",
+          "score": 8,
+          "body": "This, all my personal computers that has no anti-virus for the past 20 years (other than what came with windows), never had an issue. Work laptop with crowdstrike? BSOD all day long, still not fixed, I fear they deleted some essential file that can not be fixed without a full re-imaging.",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldyn8e6/",
+          "created": 1721411179,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "le0bjnr",
+              "score": 8,
+              "body": "Windows comes with Defender which is AV.",
+              "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/le0bjnr/",
+              "created": 1721432419,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "ldynzoa",
+              "score": 4,
+              "body": "You have to boot into safe mode and delete a crowdstrike file. The fix should be online.",
+              "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldynzoa/",
+              "created": 1721411424,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ldya897",
+          "score": 3,
+          "body": "So every commercial antiivrus?",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldya897/",
+          "created": 1721406913,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldypvdv",
+          "score": 1,
+          "body": "Exactly.",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldypvdv/",
+          "created": 1721412036,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldw9q8u",
+      "score": 277,
+      "body": "Wait is this why airlines are grounding planes lol?",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldw9q8u/",
+      "created": 1721373941,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldwq0tl",
+          "score": 357,
+          "body": "that's what happens when you push to prod on Fridays lol",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldwq0tl/",
+          "created": 1721384724,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldxhqov",
+              "score": 57,
+              "body": "Never push to prod on a Friday",
+              "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxhqov/",
+              "created": 1721397373,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ldy1jz3",
+                  "score": 17,
+                  "body": "Well they're good then, looks like they pushed it at about 5pm on Thursday.",
+                  "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldy1jz3/",
+                  "created": 1721404041,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ldzsvnt",
+                      "score": 6,
+                      "body": "Thank God. Now we can go into the weekend knowing we're fucked",
+                      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldzsvnt/",
+                      "created": 1721425276,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ldy18rp",
+              "score": 27,
+              "body": "> push to prod\n\nwithout testing, without staggered roll out.\n\nidk anything about this company, is it run by a bunch of fresh out of college kids? Huge leadership fail that will kill the company (I know a tiny consequence compared to all the people that are dying, billions in losses etc.)",
+              "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldy18rp/",
+              "created": 1721403939,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ldyy9rh",
+                  "score": 9,
+                  "body": "I thought it was a windows update at first that bricked it. Can't believe they would do a rollout that huge all at once. Someone is getting fired, that's just plain ignorance.",
+                  "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldyy9rh/",
+                  "created": 1721414796,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "le00fac",
+                      "score": 7,
+                      "body": "A lot of people are getting fired",
+                      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/le00fac/",
+                      "created": 1721428078,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "le1kw3w",
+                          "score": 8,
+                          "body": "This probably happened because a lot of people already got fired a while ago, lmao.",
+                          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/le1kw3w/",
+                          "created": 1721453621,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ldx59h4",
+              "score": 22,
+              "body": "fffff...this is going to trigger more overcorrective red tape across the board now isnt it",
+              "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldx59h4/",
+              "created": 1721392461,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ldxa05b",
+                  "score": 67,
+                  "body": "I wouldn’t be against a law that says “test your software so it doesn’t crash every server it’s pushed to.” Was this pushed to hospital systems? Lives are at stake when it comes to software. Is it common sense? Yeah. Do companies flagrantly ignore common sense? Also yeah.",
+                  "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxa05b/",
+                  "created": 1721394429,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ldy2kz6",
+                      "score": 13,
+                      "body": "It was pushed to health systems, everyone is talking up the flight ground stop but the hospitals are what I'm most concerned about",
+                      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldy2kz6/",
+                      "created": 1721404373,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "ldy2vpz",
+                          "score": 6,
+                          "body": "Mass General cancelled all non-urgent operations and appointments today.",
+                          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldy2vpz/",
+                          "created": 1721404471,
+                          "depth": 5,
+                          "replies": []
+                        },
+                        {
+                          "id": "le57g6f",
+                          "score": 2,
+                          "body": "I work it healthcare. It sucked.",
+                          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/le57g6f/",
+                          "created": 1721514054,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "le5jyps",
+                              "score": 2,
+                              "body": "Hey, past tense is good news! Did you guys recover already?",
+                              "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/le5jyps/",
+                              "created": 1721519176,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "le5qqp8",
+                                  "score": 3,
+                                  "body": "For the most part. Some workstations are still down as well as some laptops.",
+                                  "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/le5qqp8/",
+                                  "created": 1721522012,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "ldxa8hw",
+                      "score": 0,
+                      "body": "I see you don't work in IT",
+                      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxa8hw/",
+                      "created": 1721394521,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "ldxaax6",
+                          "score": 24,
+                          "body": "I literally do.",
+                          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxaax6/",
+                          "created": 1721394548,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "ldyjxuw",
+                      "score": 1,
+                      "body": "That's absurd and impossible.",
+                      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldyjxuw/",
+                      "created": 1721410102,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "ldynycn",
+                          "score": 1,
+                          "body": "username checks out.",
+                          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldynycn/",
+                          "created": 1721411412,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ldygprs",
+              "score": 1,
+              "body": "This guy develops",
+              "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldygprs/",
+              "created": 1721409045,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ldwk5sq",
+          "score": 46,
+          "body": "Yes it's a worldwide thing. Supermarkets, banks, air traffic control centres etc etc etc. Every organization running that security suite \"Falcon Sensor\" that had updated is experiencing this issues",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldwk5sq/",
+          "created": 1721380993,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldx99f9",
+              "score": 23,
+              "body": "[deleted]",
+              "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldx99f9/",
+              "created": 1721394126,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ldxszkt",
+                  "score": 26,
+                  "body": "What do you mean? The P/E is only 623, that is a totally fair valuation",
+                  "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxszkt/",
+                  "created": 1721401230,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "ldxgvwf",
+                  "score": 7,
+                  "body": "I would be surprised if true. i suspect market sentiment to be wrong. If there is fallout it wont be in view today",
+                  "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxgvwf/",
+                  "created": 1721397063,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "ldxa35e",
+                  "score": 3,
+                  "body": "Yup.",
+                  "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxa35e/",
+                  "created": 1721394463,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ldwflov",
+          "score": 19,
+          "body": "Yes",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldwflov/",
+          "created": 1721377875,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldwfy8s",
+          "score": 12,
+          "body": "Yep!\n\n\nAirports' systems are affected. The scale of impact still not clear. ",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldwfy8s/",
+          "created": 1721378112,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldx6ed1",
+          "score": 4,
+          "body": "Planes themselves are not impacted, but I reckon the ticketing/booking systems and possibly ATC probably uses windows.\n\n&#x200B;\n\nCan't let people on a plane if you can't check them in/verify their identity/etc",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldx6ed1/",
+          "created": 1721392947,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldxar67",
+          "score": 3,
+          "body": "Yeah.  911 systems and Computer Aided Dispatch systems for police/fire/EMS was down all over the country too.  It was a mess.",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxar67/",
+          "created": 1721394728,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldwtkm9",
+          "score": 1,
+          "body": "Yeah my bank in New Zealand is down from it too.",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldwtkm9/",
+          "created": 1721386802,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldwg1hz",
+      "score": 184,
+      "body": "Crowdstrike has market share of around 20 percent in endpoint-protection market. This will affect a lot of stocks today. I call it a buy the dip day,",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldwg1hz/",
+      "created": 1721378174,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldwhn4o",
+          "score": 105,
+          "body": "You mean buy the dip of other companies, not crwd right?",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldwhn4o/",
+          "created": 1721379269,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldwi2v6",
+              "score": 49,
+              "body": "Yes.",
+              "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldwi2v6/",
+              "created": 1721379572,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "ldwiofd",
+              "score": 17,
+              "body": "Specifically MSFT or GOOGL I would say, as GOOGL plans to acquire Wiz who will undoubtedly be seizing the opportunity to poach CRWD’s clients",
+              "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldwiofd/",
+              "created": 1721379983,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ldws1md",
+                  "score": 53,
+                  "body": "Two very different products. Crowdstrike is endpoint protection while wiz is vulnerability tracking for cloud infrastructure",
+                  "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldws1md/",
+                  "created": 1721385933,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ldxd5l5",
+                      "score": 1,
+                      "body": "[deleted]",
+                      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxd5l5/",
+                      "created": 1721395664,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "ldxgv7v",
+                          "score": 8,
+                          "body": "My book on what to buy.",
+                          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxgv7v/",
+                          "created": 1721397056,
+                          "depth": 5,
+                          "replies": []
+                        },
+                        {
+                          "id": "ldxvzos",
+                          "score": 3,
+                          "body": "For you? Index funds.",
+                          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxvzos/",
+                          "created": 1721402229,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "ldy1r5f",
+                      "score": 1,
+                      "body": "They offer more than edr products.   In fact their website directly compares their CNAPP to Wiz.",
+                      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldy1r5f/",
+                      "created": 1721404105,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "ldws9w2",
+                  "score": 15,
+                  "body": "Wiz don't have an EDR, they're a cloud security company (while EDR is endpoint protection).\n\nWhile they're both \"cybersecurity\" companies, they're not really competitors (maybe just some specific cloud security products CrowdStrike have, but those aren't related to what happened today).\n\nIt's like how Adobe and Salesforce are both software companies, but don't compete.\n\nCompanies with actual competeing products are mainly Microsoft, Palo Alto Networks, and SentinelOne",
+                  "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldws9w2/",
+                  "created": 1721386064,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "ldxcfpc",
+                  "score": 5,
+                  "body": "GOOG is green lol",
+                  "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxcfpc/",
+                  "created": 1721395386,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "ldy28f6",
+                  "score": 1,
+                  "body": "> MSFT\n\nI hold a ton of MSFT, since this only hit windows systems I'm expecting a brutal hit today.\n\nAAPL might jump today.",
+                  "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldy28f6/",
+                  "created": 1721404260,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "ldyn2d9",
+                  "score": 1,
+                  "body": "YES, GOOGL",
+                  "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldyn2d9/",
+                  "created": 1721411124,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "ldx2frr",
+              "score": 4,
+              "body": "I usually find the market overcorrects, always hard to know for sure but could be a good punt to buy when it inevitably tanks on opening and then sell on the bounce back",
+              "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldx2frr/",
+              "created": 1721391212,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "ldxkqoq",
+              "score": 7,
+              "body": "Buy CRWD, these things happen occasionally and there is rarely a long term impact",
+              "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxkqoq/",
+              "created": 1721398437,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ldy4e64",
+                  "score": 29,
+                  "body": "This is the type of event that causes large companies to rethink contracts.",
+                  "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldy4e64/",
+                  "created": 1721404968,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "ldykwjh",
+                  "score": 2,
+                  "body": "lol... that's very risky. The lawsuits that are going to come out of this will be immense",
+                  "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldykwjh/",
+                  "created": 1721410418,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "le56duw",
+                  "score": 2,
+                  "body": "What’s your definition of occasionally?",
+                  "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/le56duw/",
+                  "created": 1721513611,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ldxcyyq",
+          "score": 16,
+          "body": "Too bad I can’t transfer any money to my Schwab account to buy the dip…because of Crowdstrike",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxcyyq/",
+          "created": 1721395592,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldxix7u",
+              "score": 2,
+              "body": "I smell a conspiracy!",
+              "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxix7u/",
+              "created": 1721397795,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ldy4hul",
+                  "score": 1,
+                  "body": "Hi Tom. ",
+                  "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldy4hul/",
+                  "created": 1721405003,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ldxndcc",
+          "score": 4,
+          "body": "Can't buy if your bank / brokerage is down ",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxndcc/",
+          "created": 1721399341,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldwrcz8",
+      "score": 51,
+      "body": "I’m a dummy and I don’t understand IT bit large corporations don’t have their IT departments run test rollouts on their networks before pushing to the entire organization?",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldwrcz8/",
+      "created": 1721385534,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldwvtix",
+          "score": 91,
+          "body": "Normally yes, but we've Cloudified things.   Crowdstrike pushed an \"unskippable\" update to all of their phone-home endpoints.  Anyone set with an N-1 or N-2 configuration (where N represents the most recent version of the software, and the -# is how many versions behind someone chooses to be) had that option ignored.  \n\nIn some sense this is logical for this product.  A 0-day fix needs to be propagated immediately.  Being N-1 on a 0day is not wise.  \n\nEveryone believed that Crowdstrike was doing their due diligence in staging before pushing out to the rest of the world.  Obviously someone in Crowdstrike skipped a step.  Whatever approval/implementation system they used has failed them.  Anyone using the Crowdstrike program got the update and died.  \"BSOD as a Service\".  \n\nThis only impacts Windows systems currently.  Mac and Linux systems are unaffected.",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldwvtix/",
+          "created": 1721388014,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldzo9kn",
+              "score": 12,
+              "body": "> Anyone using the Crowdstrike program got the update and died\n\nRIP",
+              "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldzo9kn/",
+              "created": 1721423625,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ldx41mg",
+          "score": 28,
+          "body": "There is no test like production.",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldx41mg/",
+          "created": 1721391926,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldwzu8m",
+          "score": 32,
+          "body": "Push for meeting deadlines, meeting KPIs. This can lead to shortcuts etc.\n\nIt's Friday, we need to get this out, send it attitude.",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldwzu8m/",
+          "created": 1721390013,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldwsn6y",
+          "score": 34,
+          "body": "They hire fake IT people especially in the management",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldwsn6y/",
+          "created": 1721386275,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldx6ibo",
+              "score": 26,
+              "body": "IT admin here.  I tried ctrl-z this morning.  Didn't work.",
+              "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldx6ibo/",
+              "created": 1721392993,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ldx04n7",
+          "score": 14,
+          "body": "Happens all the time. I've seen business critical apps getting uninstalled because IT thought no one is using them (I've heard from sales guy he was doing a demo for customer and uninstall started in the middle of that), pushing some updates during closing the books period that bricks some laptops and whole accounting is paralyzed etc. Fun times.",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldx04n7/",
+          "created": 1721390149,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldww1tk",
+          "score": 6,
+          "body": "Probably allowed to automatically update itself with critical patches, for security concerns. Ironic",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldww1tk/",
+          "created": 1721388132,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "le10jtq",
+          "score": 3,
+          "body": "This is one of the benefits of cloud, non IT companies can push the responsibility  to the software vendors, a clothes retailer, for example, in the early 2000s, they would’ve had to hire an entire IT team to run their accounting systems, inventory management, POS systems, web development/digital marketing teams - now, this is all taken care of by buying the relevant software which is on the cloud or SaaS - clothes retailer only needs to hire people that actually deal with the fashion industry and have outsourced all these IT personnel/costs",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/le10jtq/",
+          "created": 1721442996,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldxhm44",
+      "score": 44,
+      "body": "Who lied and said they tested this?  Obviously if your code bricks everything you never tested it",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxhm44/",
+      "created": 1721397328,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldy4a3l",
+          "score": 15,
+          "body": "I know a guy that does this",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldy4a3l/",
+          "created": 1721404930,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldzb7ax",
+              "score": 9,
+              "body": "Did he buy puts?",
+              "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldzb7ax/",
+              "created": 1721419163,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "le0x1qn",
+          "score": 4,
+          "body": "Usually these things are caused by a series procedural breakdowns made by more than one person.  I have been involved with production rollouts at a cloud provider (albeit at a smaller scale).  You would be surprised how often all the effort is placed on the 5000 test cases that cover all the obscure cases but somehow the the most obvious gets neglected (can't see the forest amongst all the trees).\n\nPlus, teams are spread out all over the world.\n\nAlso, often the most dangerous people in the company are the \"smartest\".  A late breaking \"fix\" that everyone views as trivial can be deadly.  But of course, processes are supposed to catch these.\n\nAs rollouts become smaller and more numerous (like daily?) there is less time to perform exhaustive testing.\n\nSometimes the bug is not only in the feature but also the testing framework.\n\nMan I am glad I don't do this anymore.",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/le0x1qn/",
+          "created": 1721441452,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldwrzyk",
+      "score": 50,
+      "body": "Was the code written using copilot ?",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldwrzyk/",
+      "created": 1721385907,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldxttei",
+          "score": 20,
+          "body": "Doesn't matter if copilot writes the code or not, copilot isn't pushing the code to prod.",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxttei/",
+          "created": 1721401509,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldxtwro",
+              "score": 5,
+              "body": "Well , Devin might ✌🏻",
+              "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxtwro/",
+              "created": 1721401540,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ldxpz4y",
+          "score": 1,
+          "body": "This is THE question …..",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxpz4y/",
+          "created": 1721400226,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldy4nzl",
+      "score": 39,
+      "body": "How are they ONLY down 9%? This is an astronomical fuck up no?",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldy4nzl/",
+      "created": 1721405060,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "le0k5l5",
+          "score": 8,
+          "body": "IT failures mostly go unpunished. Data leaks cost peanuts to companies (see what will happen with ATT)\n\nThe only way to fix the current approach is laws and fines by the government. And it does not seem like this will happen anytime soon.",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/le0k5l5/",
+          "created": 1721435944,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldy9y8i",
+          "score": 7,
+          "body": "Mind blowing",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldy9y8i/",
+          "created": 1721406821,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldym78b",
+          "score": 0,
+          "body": "Welcome to the scam wallstreet casino where only the house wins!",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldym78b/",
+          "created": 1721410841,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldwq1et",
+      "score": 46,
+      "body": "https://old.reddit.com/r/crowdstrike/top/?t=all\n\nNow the top post in the Crowdstrike sub, beating the old top post by 1400% and rising lol\n\nI don't know how they are ever going to top this they literally broke the planet",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldwq1et/",
+      "created": 1721384735,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldxl8ck",
+          "score": 20,
+          "body": "It's not just my Reddit right? They have deleted all posts going back the past 16 hours as of making this comment lmao",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxl8ck/",
+          "created": 1721398608,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldx43xy",
+      "score": 30,
+      "body": "Short CRWD, long PANW. This is global and will hurt their reputation. Similar to banks, cybersecurity stocks rely on a pristine reputation to gain clients. This is a major fuck up costing clients what could end up being billions of dollars collectively.\n\nHonestly this reminds of the kind of disruption people were talking about back with Y2K lol.",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldx43xy/",
+      "created": 1721391954,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldxv4v1",
+          "score": 14,
+          "body": "You know whose the biggest buyer of PANW?   \nNancy Pelosi. Boom! Mind blown.",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxv4v1/",
+          "created": 1721401947,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldy2mn6",
+              "score": 5,
+              "body": "Isn't her husband a fund manager, stock trading is kind of their thing.\n\nPoliticians shouldn't be allowed to trade individual stocks, but repubs will never allow a ban on that.",
+              "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldy2mn6/",
+              "created": 1721404389,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ldyj2tl",
+                  "score": 2,
+                  "body": "lol u think Nancy is the one yoloing millions of calls on NVIDIA?\n\nYes it’s her husband. He runs a venture capital firm in SF. Heavy in tech.",
+                  "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldyj2tl/",
+                  "created": 1721409820,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "ldy0va6",
+              "score": 1,
+              "body": "She's smart,  I've ided it as the best choice for awhile too",
+              "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldy0va6/",
+              "created": 1721403817,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ldx5ide",
+      "score": 10,
+      "body": "QA be like whoopsi daisy.",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldx5ide/",
+      "created": 1721392568,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldxm5kr",
+          "score": 5,
+          "body": "Deploying updates at the end of the work week. Also known as \"fuck around and find out Friday\"",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxm5kr/",
+          "created": 1721398926,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldwg0s4",
+      "score": 18,
+      "body": "I got BSODed on my work laptop, I thought I fucked up somehow. I feel slightly vindicated that it's actually Crowdstrike's fault lmao\n\nIt's 1:30 AM where I am, no idea what I'm going to do come morning. Can't even log into my email to check for outage messages from IT.",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldwg0s4/",
+      "created": 1721378159,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldwnaja",
+          "score": 24,
+          "body": "CrowdStrike Engineering has identified a content deployment related to this issue and reverted those changes.\n\nWorkaround Steps:\n\n    ⁠Boot Windows into Safe Mode or the Windows Recovery Environment\n    ⁠Navigate to the C:\\Windows\\System32\\drivers\\CrowdStrike directory\n    ⁠Locate the file matching “C-00000291*.sys”, and delete it.\n    ⁠Boot the host normally.",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldwnaja/",
+          "created": 1721382992,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldx9m5o",
+              "score": 21,
+              "body": "[deleted]",
+              "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldx9m5o/",
+              "created": 1721394273,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ldxhei1",
+                  "score": 8,
+                  "body": "Millions of PC's. Still there is bullish sentiment. The market is absolutely delusional. There has got to be significant fallout from this..",
+                  "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxhei1/",
+                  "created": 1721397250,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ldxhkfu",
+                      "score": 3,
+                      "body": "[deleted]",
+                      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxhkfu/",
+                      "created": 1721397310,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "ldy35uv",
+                          "score": 5,
+                          "body": ">  This outage caused billions in damages\n\nA lot of deaths too as it impacted hospital systems.",
+                          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldy35uv/",
+                          "created": 1721404562,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "ldy05ru",
+                  "score": 2,
+                  "body": "Damn, Nancy from accountant who has no idea how to boot into safe mode is going to be so screwed.",
+                  "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldy05ru/",
+                  "created": 1721403587,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ldwvlm3",
+      "score": 8,
+      "body": "HAHAHA \"I'll open a ticket, but this is a big deal\"",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldwvlm3/",
+      "created": 1721387898,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldxs1jw",
+      "score": 8,
+      "body": "Stock should be down way more than it is. But we know Uber rich people are invested in this stock that’s why it pumped so much since earnings. They will keep this afloat using their networks. But as others have mentioned the coming legal challenges will be crushing. They are keeping the price up to get bag holders.",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxs1jw/",
+      "created": 1721400917,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "le0kiu9",
+          "score": 1,
+          "body": "What challenges? Any license says software vendors are never responsible",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/le0kiu9/",
+          "created": 1721436097,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldwmaal",
+      "score": 48,
+      "body": "If reddit says to sell crwd, you buy immediately",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldwmaal/",
+      "created": 1721382426,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldwzp3b",
+          "score": 14,
+          "body": "Follow the Crowd",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldwzp3b/",
+          "created": 1721389946,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldx300e",
+              "score": 11,
+              "body": "Strike",
+              "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldx300e/",
+              "created": 1721391463,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ldx4xs8",
+          "score": 21,
+          "body": "Okay but this IT security company just took down half the internet. There are fuck ups. There is doors falling off planes. And then there is this.",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldx4xs8/",
+          "created": 1721392318,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldx1wgv",
+          "score": 8,
+          "body": "[deleted]",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldx1wgv/",
+          "created": 1721390972,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldxex4u",
+          "score": 2,
+          "body": "If these idiots think the company is done we absolutely should buy",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxex4u/",
+          "created": 1721396339,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldxd241",
+          "score": 1,
+          "body": "But now you and others saying this means reddit is saying to buy, so do we sell?",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxd241/",
+          "created": 1721395625,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldx5em6",
+      "score": 6,
+      "body": "Company name is 100% on-point.",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldx5em6/",
+      "created": 1721392522,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "le19bhn",
+          "score": 2,
+          "body": "Underrated comment",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/le19bhn/",
+          "created": 1721447117,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldxcowg",
+      "score": 5,
+      "body": "Question: Who will pay for all this expensive fk up? \nlawsuits will be sent to what companies and by who?",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxcowg/",
+      "created": 1721395484,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldxdly1",
+          "score": 5,
+          "body": "It's probable that in the contracts that Crowdstrike and their clients sign that Crowdstrike is financially responsible for issues directly caused by them..",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxdly1/",
+          "created": 1721395837,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldxreju",
+      "score": 6,
+      "body": "I wanna be the guy who presses the button to deploy this thing. Imagine having that much power",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxreju/",
+      "created": 1721400704,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "le1bb4p",
+          "score": 3,
+          "body": "I bet an intern fucked up",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/le1bb4p/",
+          "created": 1721448116,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldw9exu",
+      "score": 16,
+      "body": "[deleted]",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldw9exu/",
+      "created": 1721373737,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldwsvcx",
+          "score": 10,
+          "body": "This wont age well",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldwsvcx/",
+          "created": 1721386405,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldxebn6",
+              "score": 2,
+              "body": "Inverse reddit.",
+              "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxebn6/",
+              "created": 1721396113,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ldwa465",
+      "score": 21,
+      "body": "From *former* infosec vendor CrowdStrike",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldwa465/",
+      "created": 1721374195,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldwsrja",
+      "score": 3,
+      "body": "All the shorts and longs will be burned by the market movers, as usual",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldwsrja/",
+      "created": 1721386345,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "le0qmyn",
+      "score": 4,
+      "body": "I am just pissed why my laptop was not affected. Why the whole world got Friday off and I was stuck working",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/le0qmyn/",
+      "created": 1721438701,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldy4f33",
+      "score": 12,
+      "body": "Im an engineer for one of the main competitors to Crowdstrike Falcon Sensor, so I guess downstream this might be a good thing for me? \n\nThe fact that it's even possible for something like this to be deployed + released + rolled out worldwide without being caught and halted through multiple layers of validation, internal dogfooding, A/B testing, integration testing, unit testing, system testing, manual testing, etc. indicates the problem is **a lot** more systemic than a dumb junior, outsourcing or DEI hire.\n\nThis has me incredibly bearish, especially for a company I was considering to join a few months back. Its a horrible reflection on the quality control and engineering practices going on at Crowdstrike. Its not a \"dip\" to buy, in the cybersec space TRUST is everything, and once youve lost it, its hard to deal with.\n\nHopefully these tech companies realize that you can't get away with mass engineering layoffs while injesting idiotic non-tech MBAs at every corner without consequences. You'd think Boeing is the case-study on why this doesnt work, but alas I guess short term profits rule all.",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldy4f33/",
+      "created": 1721404977,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldyezcl",
+          "score": 2,
+          "body": "You would be surprised how little testing exists for even big companies. \n\nI work for a top tech company and we only have unit tests. Beyond that there’s nothing. No QA, basically relying on the engineer who worked on the feature to do some manual tests. And with distributed systems integration testing should be critical.",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldyezcl/",
+          "created": 1721408473,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldxd1yc",
+      "score": 3,
+      "body": "We're not ready for cyberwarfare. If major disruptions would happened on a prolonged period, things would get bad pretty quick.",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxd1yc/",
+      "created": 1721395624,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldxxcyd",
+      "score": 3,
+      "body": "Y2k bug came late...",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxxcyd/",
+      "created": 1721402676,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldwdosj",
+      "score": 11,
+      "body": "Advertisement for linux? Lol.",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldwdosj/",
+      "created": 1721376578,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldx4v9a",
+          "score": 6,
+          "body": "Crowdstrike had similar issue on Linux this month, so no\n\nhttps://access.redhat.com/solutions/7068083",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldx4v9a/",
+          "created": 1721392288,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldy3dvx",
+              "score": 3,
+              "body": "> rowdstrike had similar issue on Linux this month\n\nholy fuck, and they did *after* this. This is an all time history of the world fuck up.",
+              "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldy3dvx/",
+              "created": 1721404634,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ldx5qof",
+      "score": 4,
+      "body": "Fixed it by \nBoot Windows into Safe Mode or the Windows Recovery Environment\nNavigate to the C:\\Windows\\System32\\drivers\\CrowdStrike directory\nLocate the file matching “C-00000291*.sys”, and delete it. \nBoot the host normally.",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldx5qof/",
+      "created": 1721392665,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldyb92k",
+      "score": 2,
+      "body": "Who is the reddit mod in the picture?",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldyb92k/",
+      "created": 1721407253,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldykrp4",
+      "score": 2,
+      "body": "I sold my $S too early smh",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldykrp4/",
+      "created": 1721410374,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldzdfow",
+      "score": 2,
+      "body": "Its weird that my company uses a microsoft stack and azure and im a dev and there was seemingly no effect and i dont see any emails, or logs indicating anything yet CNBC says there was a seperste outage of msft services unrelated to the crowdstrike thing 🤔.  Maybe in a different region.",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldzdfow/",
+      "created": 1721419916,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldztmhn",
+      "score": 2,
+      "body": "Why Elon musk is saying the culprit was a DEI Hire? Is the person responsible have been identified?",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldztmhn/",
+      "created": 1721425542,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "le19j1i",
+      "score": 2,
+      "body": "Can you imagine being the software engineer responsible for the PR that caused this?\n\nI actually feel bad for them because in my opinion the blame for this issue rests squarely on their QA/testing folks, not on the developers.",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/le19j1i/",
+      "created": 1721447221,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldwkpxx",
+      "score": 4,
+      "body": "It shows how big CRWD is.",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldwkpxx/",
+      "created": 1721381371,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldx1rvq",
+      "score": 5,
+      "body": "This is like when Ai will “accidentally” deploy nukes",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldx1rvq/",
+      "created": 1721390913,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldxmcqg",
+          "score": 4,
+          "body": "And then investigate itself and find it did nothing wrong",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxmcqg/",
+          "created": 1721398994,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldwj7wa",
+      "score": 2,
+      "body": "yay! PANW!",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldwj7wa/",
+      "created": 1721380355,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldx1qcu",
+      "score": 5,
+      "body": "Some people are aiming to buy the dip. I explained the situation to my ai friend, Claude, and it said the following:\n\n Thank you for providing this additional context. This information significantly changes the assessment of the situation. Given the scale and duration of the outage, as well as the critical nature of the affected sectors, I would indeed revise my assessment. Here's an updated perspective:\n\nRevised Assessment:\n\n1. Severity of the Impact:\n   - The global scale and duration of the outage, affecting critical infrastructure like airports, banks, and government agencies, is extremely serious.\n   - This level of disruption is likely to have severe financial and reputational consequences for CrowdStrike.\n\n2. Potential Financial Impact:\n   - The company may face substantial compensation claims from affected businesses.\n   - Loss of revenue due to contract cancellations is likely to be significant.\n   - Potential fines from regulatory bodies could be substantial.\n\n3. Reputational Damage:\n   - Trust is paramount in cybersecurity, and this incident severely damages CrowdStrike's reputation.\n   - Regaining trust from major institutions like banks and government agencies will be challenging and time-consuming.\n\n4. Legal Ramifications:\n   - The likelihood of multiple high-profile lawsuits has increased significantly.\n   - Potential class-action lawsuits from affected businesses and individuals could be substantial.\n\n5. Competitive Position:\n   - Competitors are likely to gain significant market share as businesses look for alternative solutions.\n   - CrowdStrike's position as a leader in the industry is now in jeopardy.\n\n6. Regulatory Scrutiny:\n   - Given the impact on critical infrastructure, expect intense regulatory scrutiny and possible new regulations.\n\n7. Recovery Timeline:\n   - The recovery process, both in terms of fixing the issue and rebuilding trust, is likely to be lengthy.\n\nRevised Investment Perspective:\n\nGiven this new information, the investment risk has increased substantially. While there might still be a potential \"buy the dip\" opportunity for very risk-tolerant, long-term investors, the risks are now much higher:\n\n1. The stock price could potentially fall much further as the full impact becomes clear.\n2. Recovery, if possible, is likely to take much longer than initially estimated.\n3. The company's growth trajectory and market position may be permanently altered.\n\nRecommendation:\n\n1. Exercise extreme caution. This situation is more severe than initially thought.\n2. If considering an investment, wait for much more clarity on the financial impact, legal consequences, and the company's recovery plan.\n3. Watch for signs of how quickly major clients return to using CrowdStrike's services, if at all.\n4. Monitor for any changes in senior management or company structure as a result of this incident.\n5. Consider the potential for the company to become an acquisition target if the stock price falls dramatically.\n\nRemember, in situations like this, there's a real possibility of permanent capital loss. Any investment decision should be made with the understanding that this could potentially be a company-altering event. As always, diversification and careful risk management are crucial.",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldx1qcu/",
+      "created": 1721390894,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldx5h99",
+          "score": 9,
+          "body": "They're going to lose clients and get sued over this agreed. Safer to just go with PANW anyway as they're also a great business in the same market without this baggage.",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldx5h99/",
+          "created": 1721392554,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldxf78v",
+          "score": 5,
+          "body": "I'm not sure about asking an LLM for financial advice",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxf78v/",
+          "created": 1721396444,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldxfogq",
+              "score": 5,
+              "body": "I gather information, not advice. If it resonates, i use (part of) it, if not then not. No different from any general source of information that offers information to better contextualize events. Parse it and use it where it offers something of value, ignore it when it does not..",
+              "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxfogq/",
+              "created": 1721396620,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ldx1lvy",
+      "score": 2,
+      "body": "CrowdStrike Falcon Sensor software is causing Microsoft Windows to crash and display the \"Blue Screen of Death\". The glitch is due to a software update of CrowdStrike's EDR (Endpoint Detection and Response) product. This cannot be updated remotely and the problem must be solved manually, endpoint by endpoint. This is expected to be a process that will take days.",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldx1lvy/",
+      "created": 1721390836,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldxfi4b",
+      "score": 2,
+      "body": "Microsoft cloud is down in all regions.",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxfi4b/",
+      "created": 1721396554,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldy4nyv",
+          "score": 5,
+          "body": "The CRWD CEO did not know this. dude looked defeated  about to a layoff or two there",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldy4nyv/",
+          "created": 1721405060,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldy4128",
+      "score": 1,
+      "body": "Even Jim Cramer asked why this went all out at once. Crowdsrike does not believe in Canary Envs.",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldy4128/",
+      "created": 1721404846,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldyrwlt",
+      "score": 1,
+      "body": "I guarantee you there are no attacks succeeding against my PC that can't boot",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldyrwlt/",
+      "created": 1721412702,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "le0xoim",
+      "score": 1,
+      "body": "So it’s a great time to buy!!!",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/le0xoim/",
+      "created": 1721441724,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "le1338t",
+      "score": 1,
+      "body": "Class action lawsuit coming?",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/le1338t/",
+      "created": 1721444138,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "le17ftw",
+      "score": 1,
+      "body": "AI made corporate antivirus.  \nTrust lost completely",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/le17ftw/",
+      "created": 1721446195,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "le19hve",
+      "score": 1,
+      "body": "I can't believe that one single file caused so much caos to the world.",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/le19hve/",
+      "created": 1721447205,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "le1hesh",
+      "score": 1,
+      "body": "What an opportunity for a crowd strike by it was on its way to 400. Nothing’s gonna change it bye-bye bye",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/le1hesh/",
+      "created": 1721451537,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "le2hono",
+      "score": 1,
+      "body": "Pppppp",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/le2hono/",
+      "created": 1721475568,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "le4e77q",
+      "score": 1,
+      "body": "[deleted]",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/le4e77q/",
+      "created": 1721502833,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "legciqe",
+          "score": 1,
+          "body": "ye that aged very well..",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/legciqe/",
+          "created": 1721687090,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "le4njub",
+      "score": 1,
+      "body": "How do we know this is real? Isn't the more likely scenario that it was a hack and they had crowdstrike take the blame? We know that Crowdstrike is very deeply entrenched with the intelligence agencies.  Makes it seem even more suspicious when the crowdstrike CEO gives interviews, without giving any real details!!  Like what is the point of giving an interview except for trying to promote a narrative/story.",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/le4njub/",
+      "created": 1721506361,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "leb8cj9",
+      "score": 1,
+      "body": "Rubrik ready to pop?\n\nI’ve been thinking with the recent crowdstrike meltdown and loss of functionality it caused does this highlight a case for Rubrik to be a lot bigger than we think it could be? They essentially back up the functionality of your business when the internet/system goes down, seems now more than ever this might be more important than we think. Curious your thoughts as I have had this on my watchlist, thanks !",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/leb8cj9/",
+      "created": 1721609396,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lebdyww",
+          "score": 3,
+          "body": "Backups aren’t a new or exciting technology. Rubrik is a modern offering for a need that has existed from the beginning of time, but it’s not a proprietary recipe or strategy and like many things will likely blend into the market long term. Veeam, Backup Exec, and many others at one time held the top spot.\n\nRubrik in the context of the CrowdStrike incident would produce the most value for virtual machines. For bare metal and end user compute, it’s not useless but far more work to use than it would be to perform the fix CrowdStrike provided. Backups are a last resort in most cases and I don’t think that will change anytime soon. Most organizations run Windows endpoints and servers, so even if your servers were all virtual machines and could be restored via Rubrik, the server infrastructure was still toast.\n\nNo, I don’t think Runrik is where you’ll see the most value long-term.",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/lebdyww/",
+          "created": 1721611693,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "leia1sd",
+      "score": 1,
+      "body": "Man, it'd be wonderful to never have to worry about errors again. Let's design a system like this.",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/leia1sd/",
+      "created": 1721717313,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lejbodp",
+      "score": 1,
+      "body": "I was a CRWD bull but this breaks my thesis. I sold 3/4 of my position for about ~310 a share and yesterday sold the rest of my shares for about 260. \n\nStill over a 200% gain but yeah, thesis is broken.",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/lejbodp/",
+      "created": 1721739164,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lejj2pk",
+          "score": 1,
+          "body": "Yeah a 30% drop is brutal, there was no indication something like this would happen. \n\nI’m cautious on cybersecurity in general right now. One colossal fuckup and the stock tanks big time, like Okta did as well as Crowdstrike.",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/lejj2pk/",
+          "created": 1721742000,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lekl4cz",
+              "score": 1,
+              "body": "This has honestly soured me on the whole sector in general. CRWD screwing up this bad may open opportunities for other incumbents but for now, I am looking elsewhere.",
+              "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/lekl4cz/",
+              "created": 1721754378,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ldwfekw",
+      "score": 1,
+      "body": "Is this the end of this stock even long term?",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldwfekw/",
+      "created": 1721377743,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldwuyjj",
+          "score": 5,
+          "body": "Probably not.\n\nSolarWinds is still alive despite their massive breach and AWS/Cloudflare are still massive despite their occasional catastrophic outages.\n\nCrowdstrike will temporarily lose some customers but probably not many due to the high amount of vendor lock-in and the fact that they're still one of the best options on the market.",
+          "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldwuyjj/",
+          "created": 1721387558,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldy5f3w",
+              "score": 4,
+              "body": "Failures in the release and rollout of a kernel driver made for infosec telemetry causing widespread BSOD, with no linear path to rollback, is **exponentially worse** than blips in service / outages for cloud providers like AWS.\n\nThe former is an extremely egregious mistake which reflects bad engineering practices, the latter is expected every now and then just by virtue of how networking functions at scale",
+              "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldy5f3w/",
+              "created": 1721405314,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ldxvmua",
+      "score": 1,
+      "body": "I am sure there will be a conspiracy theory that this was intentional and meant to cover the tracks of what transpired this past weekend.",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldxvmua/",
+      "created": 1721402110,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldyasn7",
+      "score": 1,
+      "body": "I had a great run with Crowdstrike. Sold it all and putting it into a Cybersecurity ETF.",
+      "permalink": "/r/stocks/comments/1e6xol5/crowdstrike_crwd_code_update_bricking_windows/ldyasn7/",
+      "created": 1721407101,
+      "depth": 0,
+      "replies": []
+    }
+  ],
+  "stockTickers": {
+    "post_summary": "CrowdStrike's update is causing Windows computers to crash and become unbootable.",
+    "companies": [
+      "CrowdStrike"
+    ],
+    "tickers": [
+      "CRWD"
+    ],
+    "main_ticker": [
+      "CRWD"
+    ]
+  },
+  "sentimentAnalysis": {
+    "post_summary": "An update from CrowdStrike is causing Windows machines to crash with a Blue Screen of Death and can prevent rebooting.",
+    "stock_recommendations": "No explicit buy or sell recommendation for CRWD stock provided.",
+    "is_recommending_stock_buying_or_selling": false,
+    "buy_or_sell": null,
+    "sentiment_summary": "The post highlights a serious issue with CrowdStrike's product update but does not make specific stock recommendations.",
+    "sentiment": "neutral"
+  }
+}

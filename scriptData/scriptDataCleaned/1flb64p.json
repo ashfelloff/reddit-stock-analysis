@@ -1,0 +1,166 @@
+{
+  "title": "Anybody fully understands the relationship between openai and msft? Will msft benefit if openai becomes a profitable company?",
+  "score": 31,
+  "selftext": "From the latest report in ft it seems more like msft has been taken advantage off. They don’t own anything, only some capped profits, and they can show msft the finger any time the board wants: \n\nThere are also signs of strain in the group’s relationship with Microsoft, which has committed $13bn to OpenAI and hitched its AI strategy to the start-up’s success. The companies are increasingly competing for customers, while Microsoft is building its own consumer AI team under Inflection founder Mustafa Suleyman and has designated OpenAI as a “competitor” in its annual report. \n\nMore: \nHow Microsoft spread its bets beyond OpenAI https://www.ft.com/content/7ca3a8a2-7660-4da3-a19e-1003e6cf45db",
+  "link_flair_text": "Company Discussion",
+  "id": "1flb64p",
+  "num_comments": 17,
+  "created_utc": 1726836438,
+  "permalink": "/r/stocks/comments/1flb64p/anybody_fully_understands_the_relationship/",
+  "comments": [
+    {
+      "id": "lo1ybbm",
+      "score": 58,
+      "body": "Their profits are capped at 100x. So OpenAI owes them up to $1T in distributions on their $10B investment.  \n\n“Only some capped profits” is an understatement.",
+      "permalink": "/r/stocks/comments/1flb64p/anybody_fully_understands_the_relationship/lo1ybbm/",
+      "created": 1726841558,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lo1pg4k",
+      "score": 27,
+      "body": "MSFT, doesn’t care if OAI becomes profitable, the technology is worth more.",
+      "permalink": "/r/stocks/comments/1flb64p/anybody_fully_understands_the_relationship/lo1pg4k/",
+      "created": 1726838412,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lo4dc95",
+          "score": 6,
+          "body": "but they don't own anything of that tech right? that's my q..",
+          "permalink": "/r/stocks/comments/1flb64p/anybody_fully_understands_the_relationship/lo4dc95/",
+          "created": 1726870068,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lom4rfj",
+              "score": -1,
+              "body": "I mean, if they don’t make a profit and go bankrupt, they can scoop that up too.",
+              "permalink": "/r/stocks/comments/1flb64p/anybody_fully_understands_the_relationship/lom4rfj/",
+              "created": 1727137205,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lo26kjz",
+      "score": 19,
+      "body": "AI labs and hyperscalers use a psuedo form of financial round  tripping.\n\nIe MSFT investing in openai and giving them azure credits. Openai uses azure. \n\nMsft claims AI and datacenter growth.\n\nGives  them more azure credits.\n\nOpenai business model isnt sustainable without the credits.  Microsoft AI and datacenter growth wouldnt be as high without the credits.",
+      "permalink": "/r/stocks/comments/1flb64p/anybody_fully_understands_the_relationship/lo26kjz/",
+      "created": 1726844276,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lomynh0",
+          "score": 1,
+          "body": "Is anyone else concerned that when you dig deep enough it seems like massive parts of our economy are based on nonsense accounting and tricks like this?",
+          "permalink": "/r/stocks/comments/1flb64p/anybody_fully_understands_the_relationship/lomynh0/",
+          "created": 1727148601,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lo4g5nr",
+      "score": 11,
+      "body": "OpenAI's moat is pretty fragile (if present at all)... o1 is a big achievement, but Google just released an arXiv paper today that describes how the tech works and will likely have a release hot on OAIs tail soon (not to mention Anthropic, Meta, AWS, etc).",
+      "permalink": "/r/stocks/comments/1flb64p/anybody_fully_understands_the_relationship/lo4g5nr/",
+      "created": 1726871127,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lo5j23s",
+          "score": 2,
+          "body": "I cant find the paper. Could you send the link?",
+          "permalink": "/r/stocks/comments/1flb64p/anybody_fully_understands_the_relationship/lo5j23s/",
+          "created": 1726887087,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lo5jrep",
+              "score": 1,
+              "body": "Following",
+              "permalink": "/r/stocks/comments/1flb64p/anybody_fully_understands_the_relationship/lo5jrep/",
+              "created": 1726887408,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lo5kmsl",
+                  "score": 1,
+                  "body": "I found it: [https://arxiv.org/abs/2408.03314](https://arxiv.org/abs/2408.03314), while I am no expert, this does not seem to explain the underlying implementation of o1. Feel free to educate me",
+                  "permalink": "/r/stocks/comments/1flb64p/anybody_fully_understands_the_relationship/lo5kmsl/",
+                  "created": 1726887802,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lo5m7ya",
+                      "score": 2,
+                      "body": "this one: https://arxiv.org/abs/2409.12917",
+                      "permalink": "/r/stocks/comments/1flb64p/anybody_fully_understands_the_relationship/lo5m7ya/",
+                      "created": 1726888533,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lo5mjzs",
+                          "score": 1,
+                          "body": "That makes way more sense lol. Ty!",
+                          "permalink": "/r/stocks/comments/1flb64p/anybody_fully_understands_the_relationship/lo5mjzs/",
+                          "created": 1726888689,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lo5mmzp",
+                              "score": 1,
+                              "body": "np!",
+                              "permalink": "/r/stocks/comments/1flb64p/anybody_fully_understands_the_relationship/lo5mmzp/",
+                              "created": 1726888728,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lo4tkdq",
+          "score": 4,
+          "body": "OpenAI is impressive but they’re not a moat. Not profitable, no clear path, fairly low barrier to entry, lots of competition.",
+          "permalink": "/r/stocks/comments/1flb64p/anybody_fully_understands_the_relationship/lo4tkdq/",
+          "created": 1726876365,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lo7dibt",
+      "score": 3,
+      "body": "If there’s anybody who knows how to do business, it’s MSFT. Not some Silicon Valley upstarts like Google or OpenAI. MSFT has thrived for longer than most of us have been alive and never went through a near death situation like Apple. They are boring but know how to do business.",
+      "permalink": "/r/stocks/comments/1flb64p/anybody_fully_understands_the_relationship/lo7dibt/",
+      "created": 1726925288,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lowrk0n",
+          "score": 1,
+          "body": "Amen to that. You hit that nail in the head.",
+          "permalink": "/r/stocks/comments/1flb64p/anybody_fully_understands_the_relationship/lowrk0n/",
+          "created": 1727294660,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

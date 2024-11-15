@@ -1,0 +1,336 @@
+{
+  "title": "ARM, so far so good",
+  "score": 37,
+  "selftext": "The consensus in this sub is that arm is overpriced. That’s probably true, but this is also a sub for risky gambles, and arm is up nearly 200% since IPO, and steadily climbing over the past quarter.\n\nThe bull case:\n- Dominance in mobile market with full market share + demand for more compute + increasing royalties over license fees = money printer for arm \n- Huge potential in laptop market, as demonstrated by Apple M series and most recently with Qualcomm’s latest snapdragon laptop processor. They are already dethroning Intel and AMD, who will be left playing catch up because x86 is too far behind in power efficiency terms.\n- Infrastructure: everyone (literally everyone) is shifting towards arm processors for datacenter workloads. Look for huge growth in market penetration here\n- IoT, automotive etc: arm still dominates in these sectors, with better and more modern IP for new applications \n- AI: obviously closely tied to all these other areas as everyone desperately tries to slap AI in their products, the arm+Nvidia combo is the clear winner across all sectors in this space \n\nThe bear case:\n- RISCV: who cares? No one. Because it’s an open ISA, not a dedicated IP company will billions to spend on R&D to stay ahead of the curve\n- AI hype: fair\n- overpriced: maybe, consider consistent revenue premium from their unique business model and huge growth opportunities \n- intel and amd catching up: these guys are in the dust mucking around with x86, arm is focussing on specific markets where their IP has considerable advantages\n\nPositions:\n800@67$ average, balls deep\n\n ",
+  "link_flair_text": "DD",
+  "id": "1dz47lc",
+  "num_comments": 38,
+  "created_utc": 1720536351,
+  "permalink": "/r/wallstreetbets/comments/1dz47lc/arm_so_far_so_good/",
+  "comments": [
+    {
+      "id": "lccw523",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 1 | **First Seen In WSB** | 3 years ago\n**Total Comments** | 50 | **Previous Best DD** | \n**Account Age** | 5 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1dz47lc/arm_so_far_so_good/lccw523/",
+      "created": 1720536357,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lccxk45",
+      "score": 29,
+      "body": ">intel and amd catching up: these guys are in the dust mucking around with x86\n\nthe windows on arm (3rd attempt!) shit is a dumpster fire.  the qcom laptops cost a lot, but can't even play games and have all kinds of issues regarding emulation (perf loss) or compatibility.\n\nmeanwhile, amd has made solid perf:watt gains every gen and even intel's new laptops (lunar lake) look absolutely killer.\n\nqcom's new (arm) laptops lose to amd's year old laptops... while having a msrp of roughly twice that.  they're basically chromebooks.\n\nyou're either being disingenuous or you truly don't even comprehend the bear thesis.\n\n\nedit:  perhaps i misinterpreted, and you were referring to datacenter (dcai).  if that's the case, it's even worse - epyc blows anything by arm out of the water.  graviton has nothing on bergamo/turin.",
+      "permalink": "/r/wallstreetbets/comments/1dz47lc/arm_so_far_so_good/lccxk45/",
+      "created": 1720536832,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lcd3bri",
+          "score": 1,
+          "body": "Ampere is taking marketshare as well",
+          "permalink": "/r/wallstreetbets/comments/1dz47lc/arm_so_far_so_good/lcd3bri/",
+          "created": 1720538746,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lcd4idy",
+              "score": 3,
+              "body": "eh, ampere seems way too late.  if their designs hit the market earlier, they may have gotten a foothold.  but against bergamo/turin, oof.  i doubt they anticipated that.",
+              "permalink": "/r/wallstreetbets/comments/1dz47lc/arm_so_far_so_good/lcd4idy/",
+              "created": 1720539133,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lccxzsa",
+          "score": -2,
+          "body": "https://youtu.be/w5h_1Buf54I?si=bB4v5KG2K-uwWJqY\n\nYe ye",
+          "permalink": "/r/wallstreetbets/comments/1dz47lc/arm_so_far_so_good/lccxzsa/",
+          "created": 1720536978,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lcd11s1",
+              "score": 8,
+              "body": "...so you truly don't comprehend this.  got it.\n\n(days later, the same people did a livestream showing the performance of the same laptops... they performed quite poorly, to say the least)\n\nltt is a terrible source for hardware reviews.\n\neta:  https://old.reddit.com/r/hardware/comments/1duz2za/ill_play_any_game_you_ask_on_snapdragon_x_ltt/lbmbmja/",
+              "permalink": "/r/wallstreetbets/comments/1dz47lc/arm_so_far_so_good/lcd11s1/",
+              "created": 1720538000,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lcd46am",
+                  "score": 0,
+                  "body": "Well… Gaming is a specific use case that only covers a portion of the high end laptop market. Think of all the people who use macs - they don’t care about gaming, and are willing to spend 1000$s on their devices. Of course you should expect a completely hassle free experience if you are trying to run games through some Rosetta equivalent. Ultimately as this tech gets adopted, and more people use it, developers will release compatible builds of their games with native performance. That’s not a hardware/tech issue.\n\nI hardly think that means that windows on arm will never be used, as there are clear advantages in the laptop space. And even if it did, that doesn’t discount other areas of much larger growth arm have access to",
+                  "permalink": "/r/wallstreetbets/comments/1dz47lc/arm_so_far_so_good/lcd46am/",
+                  "created": 1720539023,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lcd53e0",
+                      "score": 5,
+                      "body": ">Gaming is a specific use case\n\nk, but it's not just gaming.  many programs just don't run at all or do so - but the emulation required negates any efficiency gains.\n\n>that only covers a portion of the high end laptop market\n\n...wait, you thought they were compared to high end laptops?  ooooooof.  those were compared to **intel's last igpus**.  that's the point.  amd's apus are much better and we're not even talking about dgpus.  this isn't high end.\n\nyou don't know what you're talking about.",
+                      "permalink": "/r/wallstreetbets/comments/1dz47lc/arm_so_far_so_good/lcd53e0/",
+                      "created": 1720539323,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lcdaqwd",
+                          "score": 0,
+                          "body": "No, I didn’t think that, I’m aware of what there are comparing in the video and have been following this space for years. My point was who the hell is trying to run elden ring on these systems? If you want a gaming rig, buy a gaming rig. They are not competing there because it would decimate their primary selling point which is battery life. As for native software, my point stands. Software companies aren’t in the habit of releasing software for platforms that no one is interested in. People are interested in windows on arm due to them having much better compute power per watt, as evidenced by the Mac M series success reviving apples laptop brand, which was dead under intel. Therefore, as the tech becomes increasingly available in hardware and supported in software, arm will see growth in this sector.",
+                          "permalink": "/r/wallstreetbets/comments/1dz47lc/arm_so_far_so_good/lcdaqwd/",
+                          "created": 1720541174,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lcdeacz",
+                              "score": 5,
+                              "body": "wat\n\nyou completely missed the point, moved goalposts to irrelevant high end gaming laptops (and now with backpedaling, as if you did it for literally no reason), and made even more blunders.\n\n>People are interested in windows on arm due to them having much better compute power per watt\n\ndude, then buy amd.  because arm gets murdered in perf:watt.  THAT'S THE POINT.\n\nthey only have low-mid perf at low watt.  their performance is unacceptable at gaming, and like i said (twice) already - when they need to emulate (which is like, all the time), they lose efficiency... when it even works.  which it often doesn't.  their curve is lower than amd's last gen.  and that's when shit actually works.\n\nyou CLEARLY don't know what you're talking about.  stop pretending/claiming otherwise, it's not working.  \n\n> Therefore, as the tech becomes increasingly available in hardware and supported in software, arm will see growth in this sector.\n\nyou still spout this drivel, apparently not understanding what windows is.  ffs, (again) this is the 3rd attempt at windows on arm.",
+                              "permalink": "/r/wallstreetbets/comments/1dz47lc/arm_so_far_so_good/lcdeacz/",
+                              "created": 1720542320,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lcdeadu",
+                                  "score": 2,
+                                  "body": "Our AI tracks our most intelligent users. After parsing your posts, we have concluded that you are within the 5th percentile of all WSB users.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",
+                                  "permalink": "/r/wallstreetbets/comments/1dz47lc/arm_so_far_so_good/lcdeadu/",
+                                  "created": 1720542320,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "lcdf55b",
+                                      "score": 1,
+                                      "body": "i've finally made it into the bottom 5%!  party time!",
+                                      "permalink": "/r/wallstreetbets/comments/1dz47lc/arm_so_far_so_good/lcdf55b/",
+                                      "created": 1720542595,
+                                      "depth": 8,
+                                      "replies": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "lch2k36",
+                                  "score": 1,
+                                  "body": "wtf are you talking about dude?...if everything you say is true..can u explain to me why currently at this moment the highest single core performance score on a consumer tier silicon chip is held by the M4 Chip in the new freaking iPad Pro?...or are u just talking about arm on windows?...Apple's M series chips...which are highly optimized arm chips..have consistently smoked everything else ESPECIALLY in performance per watt....im genuinely confused why you think its the opposite......also, performance unacceptable in gaming? how do u explain this? [https://www.youtube.com/watch?v=G4lnBgGj6yM](https://www.youtube.com/watch?v=G4lnBgGj6yM) thats Cyberpunk 2077 running at a solid 60fps on a first gen Apple M series macbook....via 3 layers of emulation",
+                                  "permalink": "/r/wallstreetbets/comments/1dz47lc/arm_so_far_so_good/lch2k36/",
+                                  "created": 1720592697,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "lch43rx",
+                                      "score": 2,
+                                      "body": "we're talking about windows on arm.  there were only like 15 mentions of this in the prior comments, as well as links, so i can see why you'd inexplicably think we're talking about apple.\n\n\neta:  lolz @ that link.  we weren't talking about apple, but yes - the gaming is unacceptable there, too.  many games don't run or run poorly (it's not just fps).  and your own link is ~30 fps on medium with fsr2 (oof) or 50s-60s on medium with fsr3... with bugs.  ffs, there are a whole 4 comments and 3 are complaining about visual bugs.\n\nshit, your link is more of a testament for amd's software (which brings much irony) than anything arm or apple.",
+                                      "permalink": "/r/wallstreetbets/comments/1dz47lc/arm_so_far_so_good/lch43rx/",
+                                      "created": 1720593680,
+                                      "depth": 8,
+                                      "replies": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "lcdfe23",
+                                  "score": -2,
+                                  "body": "Aha, so you either work for amd or have a substantial investment in amd, I can see how I must have struck a nerve there. We’re clearly talking cross purposes so let’s check back in 1-2 years and see what’s up. Good luck\n\nEdit: I do work in graphics driver development so although I don’t have the patience to grovel endlessly on reddit, I do actually know a thing or two about gaming",
+                                  "permalink": "/r/wallstreetbets/comments/1dz47lc/arm_so_far_so_good/lcdfe23/",
+                                  "created": 1720542673,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "lcdt2kq",
+                                      "score": 3,
+                                      "body": "Bro he just pawned you with receipts to back it up",
+                                      "permalink": "/r/wallstreetbets/comments/1dz47lc/arm_so_far_so_good/lcdt2kq/",
+                                      "created": 1720547103,
+                                      "depth": 8,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lcd8gwh",
+      "score": 14,
+      "body": "“Following its IPO, owner Softbank kept a 90.6% stake. The chip designer's 10 largest shareholders control almost 95% of its shares, according to LSEG data. That tiny supply of Arm shares available for trading may be contributing to the stock's recent surge.”\n\nThis says it all.",
+      "permalink": "/r/wallstreetbets/comments/1dz47lc/arm_so_far_so_good/lcd8gwh/",
+      "created": 1720540429,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lcd9bkf",
+          "score": 2,
+          "body": "It’s not in their interests to dump it. They were only looking to raise some cash for expansion, no need to auction off their majority stake. Low liquidity can increase volatility though",
+          "permalink": "/r/wallstreetbets/comments/1dz47lc/arm_so_far_so_good/lcd9bkf/",
+          "created": 1720540707,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lcdo85p",
+              "score": 7,
+              "body": "tf, it is definitely in their interest to dump it.  Don't you know how this works, the insiders buy low, sell high.  You buy high and sell low.  Know your place.",
+              "permalink": "/r/wallstreetbets/comments/1dz47lc/arm_so_far_so_good/lcdo85p/",
+              "created": 1720545544,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lccxwet",
+      "score": 6,
+      "body": "I have massive put position on ARM. Have you looked into a Bear thesis as well?",
+      "permalink": "/r/wallstreetbets/comments/1dz47lc/arm_so_far_so_good/lccxwet/",
+      "created": 1720536947,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lccy3xr",
+          "score": -1,
+          "body": "I’m so sorry for your loss. What bear case?",
+          "permalink": "/r/wallstreetbets/comments/1dz47lc/arm_so_far_so_good/lccy3xr/",
+          "created": 1720537016,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lcfhmy6",
+              "score": 7,
+              "body": "“The best thing an investor can do is not disregard those on the opposite side of a trade. Be quiet and listen. Always assume either side can be wrong, specially yourself.” - George Soros and Stan Druckenmiller \n\nI believe the above quote is important to not get married to one’s own thesis. As this is usually what kills an investor. \n\nHappy trading!!",
+              "permalink": "/r/wallstreetbets/comments/1dz47lc/arm_so_far_so_good/lcfhmy6/",
+              "created": 1720567545,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lccyitj",
+      "score": 4,
+      "body": "I hold ARM stock and will keep holding.  INTC is lost right now.  AMD is strong but far behind NVDA. I hold more NVDA and TSM but ARM is definitely a long-termer.",
+      "permalink": "/r/wallstreetbets/comments/1dz47lc/arm_so_far_so_good/lccyitj/",
+      "created": 1720537154,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lcfe6rb",
+          "score": 2,
+          "body": "I'm pretty much in the same boat, but switch out TSM for ONTO which has seen some solid gains the past few months but I've never seen mentioned around here.",
+          "permalink": "/r/wallstreetbets/comments/1dz47lc/arm_so_far_so_good/lcfe6rb/",
+          "created": 1720566212,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lcgdobp",
+              "score": 2,
+              "body": "Will look into it now!",
+              "permalink": "/r/wallstreetbets/comments/1dz47lc/arm_so_far_so_good/lcgdobp/",
+              "created": 1720579946,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lcj8438",
+                  "score": 2,
+                  "body": "Not the biggest semi company ($11B) but has grown  a ton, 120% the past year, 600% past 5 years.",
+                  "permalink": "/r/wallstreetbets/comments/1dz47lc/arm_so_far_so_good/lcj8438/",
+                  "created": 1720629360,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lcd58sj",
+      "score": 3,
+      "body": "Overbought doesn’t mean much. Stocks can remain overbought for many months and still pump, as hundreds of them do.",
+      "permalink": "/r/wallstreetbets/comments/1dz47lc/arm_so_far_so_good/lcd58sj/",
+      "created": 1720539372,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lcdh5hi",
+      "score": 2,
+      "body": "SoftBank and ARM go together as in arm in arm :)",
+      "permalink": "/r/wallstreetbets/comments/1dz47lc/arm_so_far_so_good/lcdh5hi/",
+      "created": 1720543245,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lcfjvib",
+      "score": 2,
+      "body": "25% or 2.7 billion USD of its revenue last year was from China\n\nit should at least be considered that should hostilities increase across the Taiwan Strait that impact TSMC and results into trade sanctions against China, others stand to greatly fall, too. INTC too IIRC gets a quarter of its revenue from China. I forget which off hand but I think it was ARM, and it got 40-41% of its revenue from China in Q3.\n\nshould any chip related firm no longer able to import materials or components from China, and more significantly, no longer export their products to sell in China, they will have a significant material impact on revenue that could vary wildly from 20-30% to even 49-50% varying on the supply chain impact.\n\npersonally I think Taiwan Strait war is MAD but it may not necessarily take the form of full-on invasion. minor attacks on infrastructure and no loss of life could take place which still result trade sanctions that are to the material detriment of many chip firms but including ARM.\n\nthat said, there’s likely no long equity hedge against it as likely everything would sell off. \n\nthe hedge would be cash or near-cash kept safe and liquid to buy ARM, INTC, etc cheaply in the aftermath as in the long term they would stand to benefit from any decline in TSMC.",
+      "permalink": "/r/wallstreetbets/comments/1dz47lc/arm_so_far_so_good/lcfjvib/",
+      "created": 1720568393,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lcg9li8",
+      "score": 3,
+      "body": "ARM'S got legs, bro.",
+      "permalink": "/r/wallstreetbets/comments/1dz47lc/arm_so_far_so_good/lcg9li8/",
+      "created": 1720578284,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lcdc8ra",
+      "score": 1,
+      "body": "Overhyped, to much priced in for My taste, unless They unexpectedly beat earnings by a large margin, consistantly the next quarters",
+      "permalink": "/r/wallstreetbets/comments/1dz47lc/arm_so_far_so_good/lcdc8ra/",
+      "created": 1720541663,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lcdf3yy",
+      "score": 1,
+      "body": "If Arm64 is better than x64 because of a smaller instruction set then RISCV will beat Arm64. Plus it's free.\n\n\nNo one is producing chips in x64 at the size that the market wants, the comparison is not fair.\n\n\nx64 is behind because Intel is garbage.",
+      "permalink": "/r/wallstreetbets/comments/1dz47lc/arm_so_far_so_good/lcdf3yy/",
+      "created": 1720542584,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lcdqx83",
+      "score": 1,
+      "body": "Congrats on your 2x gain.  Now put your big boy pants on and cover your ass.  It's okay to take profit.",
+      "permalink": "/r/wallstreetbets/comments/1dz47lc/arm_so_far_so_good/lcdqx83/",
+      "created": 1720546410,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lcebxpl",
+      "score": 1,
+      "body": "Does softbank still hold 90 percent of float",
+      "permalink": "/r/wallstreetbets/comments/1dz47lc/arm_so_far_so_good/lcebxpl/",
+      "created": 1720553114,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

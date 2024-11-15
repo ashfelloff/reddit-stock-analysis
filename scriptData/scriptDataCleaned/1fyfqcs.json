@@ -1,0 +1,769 @@
+{
+  "title": "US judge orders Google to open up app store to competition",
+  "score": 271,
+  "selftext": "A U.S. judge on Monday ordered Alphabet's Google to overhaul its mobile app business to give Android users more options to download apps and to pay for transactions within them, following a jury verdict last year for “Fortnite” maker Epic Games.\n\nThe injunction by U.S. District Judge James Donato in San Francisco outlined the changes Google must undertake to open up its lucrative app store, Play, to greater competition, including making Android apps available from rival sources.\n\nDonato's order said that for three years Google cannot prohibit the use of in-app payment methods and must allow users to download competing third-party Android app platforms or stores.\n\nThe order restricts Google from making payments to device makers to preinstall its app store and from sharing revenue generated from the Play store with other app distributors.\n\nGoogle and Epic did not immediately respond to requests for comment.\n\nAlphabet shares were down nearly 2% following the ruling. Donato said Epic and Google must establish a three-person technical committee to implement and monitor the injunction. Epic and Google each get a pick, and those two members will select the third person.\n\nEpic’s lawsuit, filed in 2020, accused Google of monopolizing how consumers access apps on Android devices and how they pay for in-app transactions.\n\nThe Cary, North Carolina-based company persuaded a jury in December 2023 that Google unlawfully stifled competition through its controls over app distribution and payments, paving the way for Donato's injunction.\n\nGoogle had urged Donato to reject Epic’s proposed reforms, arguing they were costly, overly restrictive and could harm consumer privacy and security. The judge mostly dismissed those arguments during an August hearing.\n\n“You’re going to end up paying something to make the world right after having been found to be a monopolist,” he told Google's lawyers.\n\nIn a separate antitrust case in Washington, U.S. District Judge Amit Mehta on Aug. 5 ruled for the U.S. Justice Department and said Google had illegally monopolized Web search, spending billions to become the internet’s default search engine.\n\nGoogle also began a trial in September in Virginia federal court in a Justice Department lawsuit over its dominance in the market for advertising technology.\n\nGoogle has denied the claims in all three cases.\n\nhttps://finance.yahoo.com/news/us-judge-orders-google-open-183039864.html",
+  "link_flair_text": "Company News",
+  "id": "1fyfqcs",
+  "num_comments": 88,
+  "created_utc": 1728327963,
+  "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/",
+  "comments": [
+    {
+      "id": "lqto4pq",
+      "score": 163,
+      "body": "IMO, I doubt people who are using Android are going to use a different App Store. Regulations, security, brand recognition, reputation, and trustworthy are all playing in GOOGL’s hand.",
+      "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqto4pq/",
+      "created": 1728328839,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lqtq2s0",
+          "score": 18,
+          "body": "Yep. Google shareholder and I hated both companies for taking a cut from in-app transactions. That stifles competition greatly and developers should have the right to direct users to an actual website or stripe integration to avoid the double digit fee.\n\nGoogle Play Store is going nowhere because no other company is capable of building the trust and security (of the store not the apps listed on the store) that Apple and Google have. Not to mention that the bureaucratic mess that's on these platforms will be a major factor in not wanting to publish on other stores.",
+          "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqtq2s0/",
+          "created": 1728329458,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lqtqzk6",
+              "score": 21,
+              "body": "Amazon and Samsung have their own Android app stores, but it's also a chicken/egg problem - they have a limited number of apps, which means not a lot of people use the store, which means developers have little incentive to put their apps on those stores, and etc. etc.\n\nGoogle Play avoids the problem of insufficient user count by pre-installing on all Androids through package deals with OEMs, and hence the antitrust ruling",
+              "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqtqzk6/",
+              "created": 1728329752,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lqukhme",
+                  "score": 8,
+                  "body": "Google also paid Samsung $8B for them to not go with their own store. \n\nIf this ruling goes through, I don't see why Samsung would continue to obey that agreement. Same with other big manufacturers, especially Xiaomi or Oneplus who already do the same in China with their own stores.",
+                  "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqukhme/",
+                  "created": 1728339335,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lqup5hd",
+                      "score": 4,
+                      "body": "> I don't see why Samsung would continue to obey that agreement\n\nthey probably won't (although I'm curious to see what kind of clauses are in these agreements for contract termination in the event of a judicial antitrust order)\n\nand ironically enough, the other antitrust case on browser search engines also focused on Google's billion dollar deals with Apple and Mozilla to make Google the default search engine on Safari and Firefox - Apple will probably shrug off the deal termination given their size, but Mozilla will lose a huge chunk of their revenue\n\n> Xiaomi or Oneplus who already do the same in China with their own stores\n\nChina already has a very competitive Android app store market (Tencent/Baidu/Xiaomi/Oppo/Huawei/AppChina/Flyme/Vivo/etc.), granted some of those are also because of pre-installation (Xiaomi/Oppo/Huawei/Vivo), but no single device manufacturer is dominant (and hence no single device manufacturer's pre-installed Android app store has a market monopoly)\n\na lot of it is also attributed to the absence of Google services and the Google Play store there, but for overseas markets outside China, those device makers install Google Play because no one will buy those Androids if they don't\n\nHuawei and ZTE's overseas phone business also got hammered after the US government banned Google from doing business with them, so there's also an additional push these days to move to open-source or CN homegrown software ecosystems that can't be unilaterally rugpulled by the US gov",
+                      "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqup5hd/",
+                      "created": 1728340994,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lqtqefr",
+              "score": 3,
+              "body": "Yep, when the European regulations hit Google’s search engine. They let people choose what search engines to use and Google still retained like 95% of it.",
+              "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqtqefr/",
+              "created": 1728329562,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lqy2pzh",
+              "score": 1,
+              "body": "Agreed...but if there were an app store with strictly games that were not pay to play, I would use that and probably never download a game through Google or Apple ever again.",
+              "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqy2pzh/",
+              "created": 1728398690,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lqtogej",
+          "score": 4,
+          "body": "I agree. I’d be curious to see if there’s any metrics out there on how Apple being forced to open up in the EU has impacted their App Store revenues",
+          "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqtogej/",
+          "created": 1728328941,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lqvvmjc",
+              "score": 2,
+              "body": "Probably minor- I doubt many even care enough besides the very basic apps basically every store app has",
+              "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqvvmjc/",
+              "created": 1728356936,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lqw33oj",
+              "score": 1,
+              "body": "Probably very little if at all.  People buy iPhones because they are pretty secure.  The vast majority of people are not going to give that up so an app developer can get a bigger % of the pie.",
+              "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqw33oj/",
+              "created": 1728360361,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lr5m925",
+                  "score": 1,
+                  "body": "> so an app developer can get a bigger % of the pie\n\ndepends on if the app developer passes on the savings in the form of lower prices\n\nfor example, Twitter Blue's subscription is cheaper when purchased in a browser as opposed to from the app (which requires Twitter to remit IAP commissions to Apple/Google)",
+                  "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lr5m925/",
+                  "created": 1728509079,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lr5nplr",
+                      "score": 1,
+                      "body": "Fair enough, but going to Twitter/X’s website gives you a little bit of secure feeling.  I used to play a game named Kings of Avalon, it’s a P2W type of game that finally got too expensive to play.  Anyway, it was a Chinese game from Fun Plus that was constantly trying to push players to use their website to purchase “diamonds” that were equivalent to dollars to spend in game.  Needless to say I never meet a single player outside our handful that were Chinese inside our kingdom that purchased them.  Chiefly among the reasons is I didn’t want to hand over all of my data to a Chinese company.  It’s bad enough American companies fuck me raw without even a curtesy spit when it comes to data, I don’t need Chinese companies doing it as well.  That and at least if something bad happens because of a data leak or misuse I can at least sue the American company, winning is another discussion, with a Chinese company I would only get laughed at.",
+                      "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lr5nplr/",
+                      "created": 1728509572,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lquhqjr",
+          "score": 3,
+          "body": "They might be forced by big phone makers like Samsung.\n\nIf Google can't revenue share with Samsung etc (Google paid Samsung $8B?), then Samsung likely will and should make Galaxy Store the default and only place to install apps from.\n\nWe're talking billions of dollars here. Given that Samsung dwarfs competitors in the US in terms of phone market share, and they could reasonably force major app developers to work with them.\n\nAfter all, the court has ruled it legal for Apple to maintain a monopoly on app store on iPhones. Why not legal for Samsung phones?",
+          "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lquhqjr/",
+          "created": 1728338371,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lqvc7z1",
+              "score": 1,
+              "body": "Samsung cannot do that. That’s why GOOGL was sued, it was defaulted. Samsung will face the same lawsuits.",
+              "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqvc7z1/",
+              "created": 1728349446,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lqyyzzz",
+                  "score": 1,
+                  "body": "only if their app store marketshare becomes dominant\n\nit's the reason why Apple could pre-install Safari on Macs and Microsoft got in trouble for pre-installing Internet Explorer on Windows back during the browser antitrust era",
+                  "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqyyzzz/",
+                  "created": 1728409195,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lqwjnym",
+          "score": 1,
+          "body": "The all new Temu app store a vkrus with every visit",
+          "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqwjnym/",
+          "created": 1728369965,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lqwumre",
+          "score": 1,
+          "body": "It's not like there's no precedent for this on android. I've downloaded APKs from other sources many times. I remember Samsung having their own store as well. It's just Play Store has matured very nicely and the protections in place are mostly solid to the point where it is just a nice experience (probably in part due to the threat of competition from Samsung Store etc.).\n\nTake note Apple users.",
+          "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqwumre/",
+          "created": 1728377729,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lqxlj3w",
+          "score": 1,
+          "body": "Security is the same, all android (and ios) applications are sandboxed and you need to request user permissions to interact with pretty much everything.",
+          "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqxlj3w/",
+          "created": 1728392459,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lqyos0i",
+          "score": 1,
+          "body": "What if TikTok opened an appstore tab?",
+          "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqyos0i/",
+          "created": 1728405828,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lqugy72",
+          "score": 1,
+          "body": "If the app is able to tell users to use a competing app store to get a 10% discount, then I think users will",
+          "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqugy72/",
+          "created": 1728338103,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lqva0b6",
+              "score": 0,
+              "body": "Maybe. Some apps already say go subscribe on your browser and we’ll charge you 30% less because of Apple’s fee and people don’t care.",
+              "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqva0b6/",
+              "created": 1728348649,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lqz0lhr",
+          "score": 1,
+          "body": "security is a good meme here. I'm fairly sure there's been a ton of apps on the google store that were reportedly approved for listing but ended up stealing and hacking users data/information.",
+          "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqz0lhr/",
+          "created": 1728409721,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lqu2lxy",
+      "score": 84,
+      "body": "Apple will eventually have to do the same thing. Won’t make a big difference IMO. Most users will still go with default options",
+      "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqu2lxy/",
+      "created": 1728333445,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lqubbu3",
+          "score": 22,
+          "body": "I am not sure. Apple already won their case against Epic in the supreme court. Google lost theirs which the reason for these changes. Apple does have to make changes in regard’s to the EU ruling but thats only in Europe.",
+          "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqubbu3/",
+          "created": 1728336230,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lqyroa1",
+              "score": 3,
+              "body": "That’s so interesting hmm. Can anyone fill me in on what was at issue in the Apple case compared with Alphabet’s? Why did Apple succeed? Why did alphabet lose?",
+              "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqyroa1/",
+              "created": 1728406760,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lr5mwlo",
+                  "score": 2,
+                  "body": "Google got caught red handed paying phone manufacturers to pre-install Google Play and shut out other app stores, that's a very low hanging legal fruit in the antitrust world\n\nIntel got busted for something similar many years back, giving bulk discounts on Intel chips to PC makers on the condition they don't use AMD chips",
+                  "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lr5mwlo/",
+                  "created": 1728509302,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lqywatc",
+                  "score": 1,
+                  "body": "Google obviously paid the wrong people lol",
+                  "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqywatc/",
+                  "created": 1728408303,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lquhhpu",
+          "score": 3,
+          "body": "The only thing I want from iPhone is letting me use chrome or Firefox with adblockers.  It sucks that I have to use unknown brand like Brave instead over reputable brands.\n\nHow the hell did no one sue Apple on their monopoly with safari on iPhone?  Everything sucks because Safari is the only one with Adblock.",
+          "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lquhhpu/",
+          "created": 1728338287,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lqw46jw",
+              "score": 14,
+              "body": "Brave is reputable LOL",
+              "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqw46jw/",
+              "created": 1728360903,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lqw4lj0",
+              "score": 0,
+              "body": "That sounds like buying a designer mountain bike and complaining that they use some proprietary seat latch that makes it so you can't switch seats.\n\nDude, don't buy a designer mountain bike, what are you thinking. A phone is a very important tool and practically a necessity, why would you buy some overpriced hunk of pretty junk in place of the real deal?\n\nMaking a statement on style and individuality is awesome, but theres just times when its not appropriate.",
+              "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqw4lj0/",
+              "created": 1728361111,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lqx87yg",
+                  "score": 5,
+                  "body": "Not sure why you're being downvoted - phone is clearly not suitable for their needs, so... The best thing to do is stop buying it.",
+                  "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqx87yg/",
+                  "created": 1728386420,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lqtybd1",
+      "score": 76,
+      "body": "This Judge don't have a fk clue how Android works. Since when can't peoples install 3rd part app store?",
+      "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqtybd1/",
+      "created": 1728332087,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lqu2ntx",
+          "score": 58,
+          "body": "All Samsung phones come with the Galaxy app store and apps can be installed without an app store. Saying the play store is a monopoly is ridiculous.",
+          "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqu2ntx/",
+          "created": 1728333462,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lqu7oy3",
+          "score": 14,
+          "body": "I mean Epic is literally suing Google again (as well as Samsung) for exactly this, with the default behavior on new phones to block installs from \"untrusted\" sources, i.e. anything but their own app stores:\n\n[Link](https://www.theverge.com/policy/2024/9/30/24256395/epic-sues-google-samsung-antitrust-auto-blocker)\n\nSure you can change the security settings, but a ton of people won't, which is exactly the point of it.",
+          "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqu7oy3/",
+          "created": 1728335053,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lque3xm",
+          "score": 9,
+          "body": "To be fair, the average non-technical person doesn't know how to install apps elsewhere, or what an apk file is.\n\nPlus you have to allow the installation of apps outside of the play store in the settings, which comes with a big warning that would scare many people off.",
+          "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lque3xm/",
+          "created": 1728337155,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lqxqsn2",
+              "score": 3,
+              "body": "As it should.",
+              "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqxqsn2/",
+              "created": 1728394505,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lqz0u68",
+          "score": 1,
+          "body": "They're saying google needs to open up their specific play store. Yes, people can install 3rd party app stores on android, but that's not what they're going after",
+          "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqz0u68/",
+          "created": 1728409799,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lqtxavo",
+      "score": 37,
+      "body": "Why can't I buy digital games from someone other than Nintendo on my Switch, is that anti-competition? What about not being able to buy books from someone other than Amazon on my Kindle? Seems like the rules are applied at random based on how popular the o/s or hardware is rather than applied consistently. \n\nOr I guess it's not random it's about pandering for voters by hitting the big bad. Not gonna win votes chasing down beloved Nintendo lol\n\nIf having 1 play store on Android was illegal someone should have told Google 15 years ago?",
+      "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqtxavo/",
+      "created": 1728331769,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lqv0nzs",
+          "score": 5,
+          "body": "I develop on console for a living, so just to mention some potential differences.. Game console providers partially subsidize development with a ton of tools and features designed to ship games, specialized for each console. Games that ship on each console undergo heavy cert requirements that start from becoming an approved developer in the first place. Trust me when I say this cert process is a far cry from the app store approvals on mobile (which are a complete joke in comparison). People don't buy consoles to use them as general computing devices either.",
+          "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqv0nzs/",
+          "created": 1728345198,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lr5njod",
+              "score": 1,
+              "body": "> People don't buy consoles to use them as general computing devices either\n\nconsoles have a lot of general computing power now\n\n> Game console providers partially subsidize development\n\nGoogle had a similar argument, it could give away Android and its suite of Google services for free since they can make the money back later through app store and IAP commissions\n\ngiven the legal precedent now set, I think game console platforms are now also in dangerous territory and it's possible in the future games are cheaper and no longer need to go through Nintendo/Sony/etc. publishers but the hardware consoles themselves will become more expensive since Nintendo/Sony will get fewer commissions off game sales",
+              "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lr5njod/",
+              "created": 1728509518,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lqv1foi",
+          "score": 13,
+          "body": "> Seems like the rules are applied at random based on how popular the o/s or hardware is rather than applied consistently.\n\n\nYou've hit the nail on the head here. Apple is all cuddly and they have cute commercials. \n\n\nGoogle is the thing that powers the fucking world, so let's try and fuck that up. ",
+          "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqv1foi/",
+          "created": 1728345487,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lqxev14",
+          "score": 1,
+          "body": "Android was an open source which mean everyone got to contribute it wasn’t Google’s to own to begin with. They just bought the software and decided to use it which is why all these other phones can do what they want with it.",
+          "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqxev14/",
+          "created": 1728389620,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lqty092",
+          "score": -4,
+          "body": "[deleted]",
+          "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqty092/",
+          "created": 1728331990,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lqtym82",
+              "score": 5,
+              "body": "Pretty sure that's also true of side-loading Android apps",
+              "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqtym82/",
+              "created": 1728332182,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lqua9b8",
+      "score": 18,
+      "body": "A 64 year old judge who probably never used a phone most of his life let alone an Android phone is stating that you can't install 3rd party apps on Android.\n\nWe really need special courts and juries for technology related cases.",
+      "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqua9b8/",
+      "created": 1728335879,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lquguqq",
+      "score": 20,
+      "body": "How the hell does Apple win and Google lose? This is BS",
+      "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lquguqq/",
+      "created": 1728338070,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lqv4roq",
+          "score": 9,
+          "body": "Apple uses their app store on their own devices and nothing else. Google uses their play-store on many devices and there was evidence brought into the case that Google was pushing back door deals that other apps would only use their play-store as well as other 3rd party devices. Apple doesn’t go through any 3rd party cause they build their own devices.",
+          "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqv4roq/",
+          "created": 1728346746,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lqvklxl",
+              "score": 4,
+              "body": "Just because Apple builds their own devices doesn't make it not anti-competition or monopolistic.",
+              "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqvklxl/",
+              "created": 1728352585,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lqvvctu",
+                  "score": 8,
+                  "body": "I never said it wasn’t. I was just giving the reason outlined in the case.",
+                  "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqvvctu/",
+                  "created": 1728356821,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lqx8znx",
+                      "score": 2,
+                      "body": "Google needs better lawyers. I'm not sure how Apple can get away with it while Google cannot, and the judge things it'll be less monopolistic for Google to suddenly turn around and say \"Android is exclusive to Pixel phones!\" and think that's better for the industry.",
+                      "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqx8znx/",
+                      "created": 1728386815,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lqyzct6",
+                          "score": 1,
+                          "body": "Google got busted paying money to phone manufacturers to pre-install Google Play and no other app stores\n\nthat kind of legal red flag is something Apple was able to avoid",
+                          "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqyzct6/",
+                          "created": 1728409312,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lqz56fg",
+                              "score": 1,
+                              "body": "Right, and so it's best to avoid it by Google making their own phones and their own OS exclusive to their hardware.\n\nIs that what the judge prefers?",
+                              "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqz56fg/",
+                              "created": 1728411236,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lqztq2c",
+                                  "score": 1,
+                                  "body": "I think under that scenario another software company will take over the market for all the non-Pixel Androids by forking the open source code (or a third mobile OS like Windows becomes viable if Google is exiting the market for non-Pixel Android OSes)",
+                                  "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqztq2c/",
+                                  "created": 1728419456,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "lr0500c",
+                                      "score": 1,
+                                      "body": "Sounds like an absolute nightmare and further locks people into their own bubbles/brands, or makes people hesitant to spend money in the first place since their purchases won't carry over *despite it being the same OS*.\n\nThere is no good solution for this and so Apple should not be allowed to do the same. Microsoft resolved this nonsense with PC's in thr 80's and Google with Android (since Symbian didn't go anywhere). Let's not go back in time please.",
+                                      "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lr0500c/",
+                                      "created": 1728423361,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "lr58xg2",
+                                          "score": 1,
+                                          "body": "> since their purchases won't carry over despite it being the same OS\n\nmost apps are subscription-based now\n\n> Microsoft resolved this nonsense with PC's in thr 80's \n\nMicrosoft was actually in danger of being split up into separate companies, one for Windows OS and one for Office and Internet Explorer software\n\nMicrosoft finally compromised and allowed more access to private Windows APIs for other software makers to avoid the antitrust breakup\n\nand in Europe, Microsoft allowed multiple browser choice selections at Windows OS setup to settle that antitrust suit\n\nwhat's most likely is that Google makes a similar deal where they allow alternate app stores to be installed on all Androids and stop their exclusivity deals with OEMs\n\nGoogle Pixel has piss poor hardware marketshare so if Google went the route you're imagining, it's likely the forked Android OS gets dominant marketshare (maybe with Samsung), and the Pixel-only OS ends up dying due to the chicken-and-egg problem with Pixel phone adoption\n\n> Apple should not be allowed to do the same\n\nApple is already in trouble in EU and likely other countries more and more\n\nApple is already required to allow 3rd party app stores to be installed on iOS and bypass IAP commissions in EU\n\nand it's still possible Apple faces more US antitrust scrutiny, it's just that Google's app store exclusivity deals with OEMs is such a blatant antitrust violation and legal low-hanging fruit,  mirroring Intel's problematic deals with PC makers in the 2000s to shut out AMD from their products",
+                                          "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lr58xg2/",
+                                          "created": 1728504781,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lqz0yto",
+          "score": 1,
+          "body": "found the $GOOG call holder LMAO",
+          "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqz0yto/",
+          "created": 1728409843,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lqtx71y",
+      "score": 16,
+      "body": "Any time I see US Judge, followed by whatever names company, I know nothing is going to happen",
+      "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqtx71y/",
+      "created": 1728331735,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lquctyo",
+          "score": 6,
+          "body": "Man say that to spirit and jblu… they fricken f that up and now poor spirit about to file bankruptcy… WTF the doj was thinking",
+          "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lquctyo/",
+          "created": 1728336724,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lqucvil",
+              "score": 2,
+              "body": "Sorry I had to get the time out fricken DOJ",
+              "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqucvil/",
+              "created": 1728336739,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lqx1q4q",
+      "score": 5,
+      "body": "Fucking epic just won't go away",
+      "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqx1q4q/",
+      "created": 1728382669,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lqx9cwv",
+          "score": -3,
+          "body": "They're the good guys in this. Or would you also like apps to only be installable on the Windows Store/Mac App Store?",
+          "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqx9cwv/",
+          "created": 1728386999,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lqxejaf",
+              "score": 10,
+              "body": "If they had their way apps would only be installable on the epic store, they aren't the good guys, they just want a bigger piece of the pie.",
+              "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqxejaf/",
+              "created": 1728389472,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lqxp7ly",
+      "score": 3,
+      "body": "Dumb",
+      "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqxp7ly/",
+      "created": 1728393901,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lqu2yyo",
+      "score": 7,
+      "body": "Bad for consumer safety",
+      "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqu2yyo/",
+      "created": 1728333559,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lqx9bik",
+          "score": 0,
+          "body": "How so?",
+          "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqx9bik/",
+          "created": 1728386979,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lqxegb3",
+              "score": 2,
+              "body": "In theory it means you can allow installs of any app.",
+              "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqxegb3/",
+              "created": 1728389433,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lqxlp3b",
+      "score": 1,
+      "body": "Good, maybe I can now buy Kindle books through the Kindle app.",
+      "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqxlp3b/",
+      "created": 1728392527,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lqy78g1",
+      "score": 1,
+      "body": "sorry noob question , how is this a different decision than Apple vs Epic ??? Apple was sided with on that case and yet Google lost here? someone explain (ie like a 6 year old please :) )",
+      "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqy78g1/",
+      "created": 1728400168,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lr24jfd",
+      "score": 1,
+      "body": "Apple should have been asked to do this.",
+      "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lr24jfd/",
+      "created": 1728458541,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lr2rqew",
+      "score": 1,
+      "body": "I gotta side with Google on part of this - they need way more than a month to ensure that there is some kind of protection from malicious apps from third party stores. This ***will*** result in a marked increase in malware if it is forced to go through on the time scale the judge ordered. \n\nThat isn't to say that I am opposed to the ruling generally -- Google behaved badly in order to enrich itself and there should be consequences for that. However, the users should not be paying a price in the form of their devices being more susceptible to malware.",
+      "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lr2rqew/",
+      "created": 1728474022,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lqu60nu",
+      "score": 1,
+      "body": "Good to see USA following abit up on changes EU is doing to make competition better to improve things for users.",
+      "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqu60nu/",
+      "created": 1728334519,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lqu5651",
+      "score": -1,
+      "body": "GOOD. It’s time",
+      "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqu5651/",
+      "created": 1728334255,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lqv13c1",
+      "score": 0,
+      "body": "Why US is copying the EU, but 2 years later?",
+      "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqv13c1/",
+      "created": 1728345358,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lqv46nm",
+          "score": 1,
+          "body": "They’re not “copying” them. The Google vs Epic case started years ago.",
+          "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqv46nm/",
+          "created": 1728346525,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lqtxw8z",
+      "score": 0,
+      "body": "[deleted]",
+      "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqtxw8z/",
+      "created": 1728331955,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lqunt38",
+          "score": 0,
+          "body": "So then everyone should be a lawyer",
+          "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqunt38/",
+          "created": 1728340515,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lqxdme2",
+      "score": 0,
+      "body": "I'm excited because I haven't been able to purchase or pay for anything google related since they started demanding my government ID.. I used to have the Google drive but had to download my Google data after they wouldn't take payment without government ID. To me it just feels like a way to connect my face to facial recognition and have it be government verified.",
+      "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqxdme2/",
+      "created": 1728389052,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lqxegs6",
+      "score": 0,
+      "body": "Android was an open software. This is the difference between android and Apple and android used open source software. I’m guessing this is why they ruled against Google… am I wrong ??",
+      "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqxegs6/",
+      "created": 1728389440,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lqvfz97",
+      "score": -1,
+      "body": "Is it that easy?  Can a judge order companies to stop price gouging?",
+      "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqvfz97/",
+      "created": 1728350836,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lqwt2ne",
+      "score": -1,
+      "body": "Time to dump that turd of a stock 💩",
+      "permalink": "/r/stocks/comments/1fyfqcs/us_judge_orders_google_to_open_up_app_store_to/lqwt2ne/",
+      "created": 1728376606,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

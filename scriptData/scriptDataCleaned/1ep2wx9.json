@@ -1,0 +1,338 @@
+{
+  "title": "Can someone explian this - after market trading question ",
+  "score": 85,
+  "selftext": "Can someone explain the after markt trading on google? when you type in INTC , you'll that , during the after hours trading section , there was a brief moment INTC went up to alomost $40, WHAT does this means? ( if you type in INTC on google, you will see it ) \n\n[https://postimg.cc/LJgKFvt6](https://postimg.cc/LJgKFvt6)\n\n[INTC after hour chart](https://postimg.cc/LJgKFvt6)",
+  "link_flair_text": null,
+  "id": "1ep2wx9",
+  "num_comments": 37,
+  "created_utc": 1723322670,
+  "permalink": "/r/stocks/comments/1ep2wx9/can_someone_explian_this_after_market_trading/",
+  "comments": [
+    {
+      "id": "lhi7e1v",
+      "score": 101,
+      "body": "grandmas revenge",
+      "permalink": "/r/stocks/comments/1ep2wx9/can_someone_explian_this_after_market_trading/lhi7e1v/",
+      "created": 1723329517,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lhi88bo",
+          "score": -34,
+          "body": "Imagine we have thousands of grandmas doing it, intc would be Gamestop back in 2020",
+          "permalink": "/r/stocks/comments/1ep2wx9/can_someone_explian_this_after_market_trading/lhi88bo/",
+          "created": 1723329843,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lhi5bif",
+      "score": 30,
+      "body": "Who’s going to ask this again tomorrow?",
+      "permalink": "/r/stocks/comments/1ep2wx9/can_someone_explian_this_after_market_trading/lhi5bif/",
+      "created": 1723328721,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhia3se",
+      "score": 23,
+      "body": "Thats a bug in the software recorded a option between two parties at that $40 strike price.  Should not record that nor even have access to the information really.",
+      "permalink": "/r/stocks/comments/1ep2wx9/can_someone_explian_this_after_market_trading/lhia3se/",
+      "created": 1723330563,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhhuo3n",
+      "score": 26,
+      "body": "someone probably exercised a put with $40 strike",
+      "permalink": "/r/stocks/comments/1ep2wx9/can_someone_explian_this_after_market_trading/lhhuo3n/",
+      "created": 1723324767,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lhi81lt",
+          "score": -28,
+          "body": "Does it mean my \"sell order at $39\" (I'm selling 500 shares to $39 as a \"wishful thinking kinda thing\") will be executed Monday morning most likely ?",
+          "permalink": "/r/stocks/comments/1ep2wx9/can_someone_explian_this_after_market_trading/lhi81lt/",
+          "created": 1723329771,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lhi9dz8",
+              "score": 30,
+              "body": "no. the option is a contract between two parties. when the option is exercised only those two parties are involved in the sale. you would only be able to buy or sell at the market price",
+              "permalink": "/r/stocks/comments/1ep2wx9/can_someone_explian_this_after_market_trading/lhi9dz8/",
+              "created": 1723330288,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lhs95hv",
+              "score": 1,
+              "body": "Only orders that U place during market hours are executed, U have to be actively trading during after hours to get your order filled. After hours trading is not on an exchange, this is strictly peer to peer trading...\n\n**How After-hours trading Works**\n\nAfter-hours trading in the U.S. stock market refers to the buying and selling of securities outside the standard trading hours of 9:30 AM to 4:00 PM Eastern Time. This trading occurs from 4:01 PM to 8:00 PM Eastern Time, and is conducted through **electronic communication networks (ECNs).**\n\n* **Electronic Communication Networks (ECNs):** Trades are executed through ECNs, which match buy and sell orders electronically.\n* Extended Hours: The after-hours session starts at 4:01 PM and can go until 8:00 PM, though activity typically decreases significantly after the first couple of hours.\n* Price Volatility: Prices can be more volatile due to lower trading volumes and fewer participants compared to regular trading hours.\n\n**Primary Participants:**\n\n* Institutional Investors: Large financial institutions often trade after hours to react to news or events that occur outside regular market hours.\n* Market Makers: These entities provide liquidity by being ready to buy and sell securities at any time, helping to facilitate smoother trading.\n\n**Reasons for Non-Execution:**\n\n* Order Restrictions: Most brokers have restrictions on which types of orders can be executed after hours. For example, they might not allow certain limit orders to be filled outside regular trading hours.\n* ECN Limitations: ECNs match buy and sell orders that occur after hours, only active participants in after-hours trading get their orders matched and filled. ECNs do not support all types of orders or securities during after-hours trading, which will prevent execution of open orders from nonparticipants during after-hours trading.\n\n ",
+              "permalink": "/r/stocks/comments/1ep2wx9/can_someone_explian_this_after_market_trading/lhs95hv/",
+              "created": 1723487141,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lhhtvrx",
+      "score": 20,
+      "body": "It was probably an option trade that got exercised, or someone used a market order in after hours trading and got screwed on the fill.",
+      "permalink": "/r/stocks/comments/1ep2wx9/can_someone_explian_this_after_market_trading/lhhtvrx/",
+      "created": 1723324492,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lhig57j",
+          "score": 23,
+          "body": "> probably an option trade that got exercised\n\nI don't think option exercises would be displayed on the price graph. Otherwise, it would be all over the place.",
+          "permalink": "/r/stocks/comments/1ep2wx9/can_someone_explian_this_after_market_trading/lhig57j/",
+          "created": 1723332918,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lhkey7h",
+          "score": 5,
+          "body": "can't do market orders in ah",
+          "permalink": "/r/stocks/comments/1ep2wx9/can_someone_explian_this_after_market_trading/lhkey7h/",
+          "created": 1723369494,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lhi8gqq",
+          "score": -17,
+          "body": "There must be tons of sell orders to be filled to get to $39 level, I'm selling 1000 shares of intc at $39, maybe this guy bought my sell order lol",
+          "permalink": "/r/stocks/comments/1ep2wx9/can_someone_explian_this_after_market_trading/lhi8gqq/",
+          "created": 1723329932,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lhifoh2",
+              "score": 25,
+              "body": "The fact you keep repeating this smells of absolute desperation. average down while you can and hope for the best because you bought at an absolute terrible price.",
+              "permalink": "/r/stocks/comments/1ep2wx9/can_someone_explian_this_after_market_trading/lhifoh2/",
+              "created": 1723332739,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lhi7ovc",
+          "score": -24,
+          "body": "I do have a sell order at $39,does it means Monday morning most likely my sell order will be executed? That'd be awesome, my wishful thinking I guess 😁",
+          "permalink": "/r/stocks/comments/1ep2wx9/can_someone_explian_this_after_market_trading/lhi7ovc/",
+          "created": 1723329636,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lhi3gw3",
+      "score": 7,
+      "body": "[deleted]",
+      "permalink": "/r/stocks/comments/1ep2wx9/can_someone_explian_this_after_market_trading/lhi3gw3/",
+      "created": 1723328013,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lhii880",
+          "score": 4,
+          "body": "An option is a contract between 2 parties to buy/sell a stock at a certain price. Exercise a put means the contract was executed at that sell price.",
+          "permalink": "/r/stocks/comments/1ep2wx9/can_someone_explian_this_after_market_trading/lhii880/",
+          "created": 1723333736,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lhm9l9v",
+          "score": 2,
+          "body": "Trading =\\= investor. \n\nCompletely different philosophies, mentalities & strategies, very important not to confuse the two. \n\nOptions trade =\\= investing.\n\nOptions trade = trading.",
+          "permalink": "/r/stocks/comments/1ep2wx9/can_someone_explian_this_after_market_trading/lhm9l9v/",
+          "created": 1723397721,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lhm7ski",
+      "score": 2,
+      "body": "Considering the time, this may have been due to the latest Anastasi in Tech Video, which hyped Intel considerably. Will probably not be relevant for years, though.",
+      "permalink": "/r/stocks/comments/1ep2wx9/can_someone_explian_this_after_market_trading/lhm7ski/",
+      "created": 1723397111,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhr2a80",
+      "score": 1,
+      "body": "It's just a stock Option being executed only between the buyer and seller of the Option. You can't join the the trade at the mentioned price, even if you have and order within the range, as it is a trade only between two people , made some time ago and just executed now.",
+      "permalink": "/r/stocks/comments/1ep2wx9/can_someone_explian_this_after_market_trading/lhr2a80/",
+      "created": 1723473578,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhhy8ya",
+      "score": 1,
+      "body": "Options",
+      "permalink": "/r/stocks/comments/1ep2wx9/can_someone_explian_this_after_market_trading/lhhy8ya/",
+      "created": 1723326068,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhihvqj",
+      "score": 2,
+      "body": "What is the volume at the time. Likely a phantom ghost with little volume. Can be a big order fill.",
+      "permalink": "/r/stocks/comments/1ep2wx9/can_someone_explian_this_after_market_trading/lhihvqj/",
+      "created": 1723333600,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhiihgi",
+      "score": 1,
+      "body": "okay i’ve seen these all the time in after hours as well as the inverse, is there anything stopping me from putting in a limit order to buy well below the current price and getting something at a huge discount?",
+      "permalink": "/r/stocks/comments/1ep2wx9/can_someone_explian_this_after_market_trading/lhiihgi/",
+      "created": 1723333839,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lhj1zeb",
+          "score": 3,
+          "body": "You can put the order in. Very unlikely itll fill.",
+          "permalink": "/r/stocks/comments/1ep2wx9/can_someone_explian_this_after_market_trading/lhj1zeb/",
+          "created": 1723341921,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lhj76jp",
+              "score": -5,
+              "body": "I have a sell order at $39 since a month ago, somebody take it over please 😅",
+              "permalink": "/r/stocks/comments/1ep2wx9/can_someone_explian_this_after_market_trading/lhj76jp/",
+              "created": 1723344173,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lhjclvr",
+          "score": 3,
+          "body": "This is exactly what happened with NVDA recently, right near the end of the market there was a spike down for one second.\n\n\nThen a person on the chat was excitedly saying they had put a 3 thousand shares limit order in for around $95 just for fun, and it immediately filled.\n\n\nThe share price was around $108 at the tine, so it was instant profit of $13 per share.\n$39k total, like hitting the jackpot.\n\n\nThey sold immediately of course.\nI would too.\n\n\nOn investigation, it seems that around 13k or so had filled at $65/$80/$95\n\n\nThis means some absolute fool had sold 13k of shares well below the market price.\n\n\nLikely made a mistake and meant to put $165 as the limit, but put $65 instead, and then it just filled all available orders from $65 up.\n\n\nThey won't do that again 🤣\n\n\nWhoever filled at $65 would have been speechless.",
+          "permalink": "/r/stocks/comments/1ep2wx9/can_someone_explian_this_after_market_trading/lhjclvr/",
+          "created": 1723346628,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lhjcv0d",
+              "score": 3,
+              "body": "i see those spikes down all the time though, i think it’s mostly from options expiring, might start trying to snag them",
+              "permalink": "/r/stocks/comments/1ep2wx9/can_someone_explian_this_after_market_trading/lhjcv0d/",
+              "created": 1723346745,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lhl19oz",
+          "score": 1,
+          "body": "Nothing expect what if the news was bad and the stock gapped down and didn't come back up?",
+          "permalink": "/r/stocks/comments/1ep2wx9/can_someone_explian_this_after_market_trading/lhl19oz/",
+          "created": 1723381911,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lhisi99",
+      "score": 1,
+      "body": "Isn't it like 80% of the best gains on a portfolio happen outside market hours? I saw few graphs one time that were stunning, vs the dumb strategy of selling your stocks before the bell and buying them back at market open sucks.",
+      "permalink": "/r/stocks/comments/1ep2wx9/can_someone_explian_this_after_market_trading/lhisi99/",
+      "created": 1723337940,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhhrfgy",
+      "score": -3,
+      "body": "[deleted]",
+      "permalink": "/r/stocks/comments/1ep2wx9/can_someone_explian_this_after_market_trading/lhhrfgy/",
+      "created": 1723323632,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lhhtozs",
+          "score": 7,
+          "body": "Not everything is a conspiracy",
+          "permalink": "/r/stocks/comments/1ep2wx9/can_someone_explian_this_after_market_trading/lhhtozs/",
+          "created": 1723324426,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lhhvbw0",
+              "score": 3,
+              "body": "That's what the deep state would say!!\n\n/s",
+              "permalink": "/r/stocks/comments/1ep2wx9/can_someone_explian_this_after_market_trading/lhhvbw0/",
+              "created": 1723325007,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lhjkf6p",
+      "score": -1,
+      "body": "Of fucking course it did. I had $21c 8/9 expiry…and naturally it has an AH spike, a few hours too late.",
+      "permalink": "/r/stocks/comments/1ep2wx9/can_someone_explian_this_after_market_trading/lhjkf6p/",
+      "created": 1723350410,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhkuclm",
+      "score": -1,
+      "body": "Most likely someone placed a market buy order and the only market maker open at that time showed $40 as the price, I’ve seen it happen.  Most MM pull all bids/asks and close sometimes you’ll see a bid .10 x $90 and if some newby places a buy order at Market the computer hits the only available price.  NEVER PLACE A MARKET ORDER AFTER HOURS",
+      "permalink": "/r/stocks/comments/1ep2wx9/can_someone_explian_this_after_market_trading/lhkuclm/",
+      "created": 1723378715,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhkug46",
+      "score": -1,
+      "body": "Not an option trade!!",
+      "permalink": "/r/stocks/comments/1ep2wx9/can_someone_explian_this_after_market_trading/lhkug46/",
+      "created": 1723378763,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhj1uaf",
+      "score": -4,
+      "body": "It’s called MANIPULATION",
+      "permalink": "/r/stocks/comments/1ep2wx9/can_someone_explian_this_after_market_trading/lhj1uaf/",
+      "created": 1723341860,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

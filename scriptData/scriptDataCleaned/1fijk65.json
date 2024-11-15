@@ -1,0 +1,1788 @@
+{
+  "title": "Microsoft announces $60 billion stock buyback and 10% dividend increase",
+  "score": 2283,
+  "selftext": "The share repurchase agreement, which has no expiration date, replaces a $60 billion buyback program announced in 2021.\n\nMicrosoft Corp. unveiled a new $60 billion stock-buyback program, matching its largest-ever repurchase authorization, and raised its quarterly dividend 10%, \n\nThe software company said shareholders as of Nov. 21 will receive a quarterly dividend of 83 cents a share, compared with the current 75 cents. The share repurchase agreement, which has no expiration date, replaces a $60 billion buyback program announced in 2021.\n\nThe shares of the Redmond, Washington-based company have gained 31% in the past year.",
+  "link_flair_text": "Company News",
+  "id": "1fijk65",
+  "num_comments": 309,
+  "created_utc": 1726529520,
+  "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/",
+  "comments": [
+    {
+      "id": "lni29ik",
+      "score": 121,
+      "body": "Only two more years until $1 per share dividend each quarter!",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lni29ik/",
+      "created": 1726535133,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lnkj1a9",
+          "score": 24,
+          "body": "That would bring it to almost 1% annualized",
+          "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnkj1a9/",
+          "created": 1726580801,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lnldwa4",
+              "score": 14,
+              "body": "Not if the share price grows at a remotely similar rate as it has the last two years.",
+              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnldwa4/",
+              "created": 1726590917,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lnhqdzp",
+      "score": 1206,
+      "body": "Nothing better to invest in basically.",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnhqdzp/",
+      "created": 1726530742,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lnhr078",
+          "score": 274,
+          "body": "M&A isn’t available to big tech so their options are limited",
+          "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnhr078/",
+          "created": 1726530967,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lniiemf",
+              "score": 58,
+              "body": "You can also invest in leap frog projects like a 1 million GPU cluster.",
+              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lniiemf/",
+              "created": 1726541269,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lnj5vx0",
+                  "score": 24,
+                  "body": "Fab capacity doesn't allow that, they can't dump cash on Nvidia and get it because it doesn't exist, and won't be for a long time if order is placed now. TSMC is building several additional fabs in America but they would come online in 2026 at the earliest. Intel is a potential alternative, especially since advanced gpus bottleneck is packaging, not front-end.",
+                  "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnj5vx0/",
+                  "created": 1726553096,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lnjbvop",
+                      "score": 5,
+                      "body": "So you make a JV with others who are able to secure 100k+ GPUs. Align on training and sharing outputs.",
+                      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnjbvop/",
+                      "created": 1726557107,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lnk7oec",
+                      "score": 2,
+                      "body": "How do you know bottleneck is packaging vs front end? Do you work in industry?\n\nAlso who does the packaging for Nvidia GPUs?",
+                      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnk7oec/",
+                      "created": 1726576444,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lnk9z8x",
+                          "score": 3,
+                          "body": "I don't, but I read semi news regularly.\n\nHere's [the article](https://www.tomshardware.com/pc-components/gpus/nvidia-adresses-significant-blackwell-yield-issues-production-ramp-in-q4) that should answer both your questions.",
+                          "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnk9z8x/",
+                          "created": 1726577394,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lnksjhu",
+                              "score": 2,
+                              "body": "Ok got it thanks for sharing\n\nFrom the article packaging is not the bottleneck in the traditional sense of the word, it’s simply the point of failure currently in the design. Typically bottleneck refers to the manufacturing throughput capability of a functioning line. This is considered a yield issue due to process, not a bottleneck. It likely isn’t even the bottleneck even with these yield issues, but the yield issue itself is functioning as a constraint limiting the output of the fab to a percentage of total starts. Still, they will have a true “bottleneck” elsewhere in the fab. Usually photo (lithography)\n\nI hadn’t read this until now but honestly that’s a good place to have this sort of issue. If it was an alignment issue caught at packaging, that’s a different order. The cycle time is low once at packaging which means any fixes are quickly implemented and out the door\n\nGood news",
+                              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnksjhu/",
+                              "created": 1726584057,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lnku5k6",
+                                  "score": 4,
+                                  "body": "But it's though. All the passed chiplets have been manufactured and awaiting to be connected to the plate that hold them together. As higher and higher speed is requried, more direct connection with smaller pitch is needed to minimize impedance, which means misalignment is very unforgiving.\n\nThis part is extremely important because if the connection failed, then all the previously good chiplets are either unusable or underperforming compared to design specs as the connection doesn't allow high speed connection. So there are two yields to keep track of now, chiplets fabbing yield and packaging yield. Doesn't matter if one yield is high, if the other is bad, then the overall yield is not suitable for mass production.",
+                                  "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnku5k6/",
+                                  "created": 1726584585,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lnllse4",
+                      "score": 1,
+                      "body": "They could do a Google and create their own chips. They have enough money",
+                      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnllse4/",
+                      "created": 1726593408,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lnpewyj",
+                  "score": 1,
+                  "body": "You mean like the thing they're investing $100B in right now? Stargate?\n\nThey pretty much maxed out all investment lol",
+                  "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnpewyj/",
+                  "created": 1726649376,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lniqgaf",
+              "score": 6,
+              "body": "*laughs in ATVI*",
+              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lniqgaf/",
+              "created": 1726544629,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lnoacoi",
+              "score": 2,
+              "body": "They literally just completed one of the largest acquisitions in history",
+              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnoacoi/",
+              "created": 1726626429,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lniz11p",
+              "score": 3,
+              "body": "Only Amazon the lone wolf that doesn’t do anything",
+              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lniz11p/",
+              "created": 1726548981,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lni2uog",
+          "score": 163,
+          "body": "They should invest the money into hiring more engineers and expanding their product line. There's lots of produts that still need improvement or can be expanded. For example, the Microsoft store is a joke compared to the Apple store and other marketplaces. Buying back shares at 36x earnings isn't exactly the best investment",
+          "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lni2uog/",
+          "created": 1726535351,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lnicmlb",
+              "score": 73,
+              "body": "Products to be sold in what market? Microsoft tried hard with  Windows mobile and it's app store. But they just aren't apple or Google and that's ok. The consumer markets are getting tight everybody is investing in ai. Gaming kinda hit a plateau as did consumer computing. So where is left to go? Too big to fail too big to do anything new.",
+              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnicmlb/",
+              "created": 1726539016,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lniosdb",
+                  "score": 26,
+                  "body": ">  But they just aren't apple or Google and that's ok.\n\nYeah, because they don't wanna invest their money in areas where they're failing and improve. Maybe we should go back in time to when the Xbox was a joke and tell them to stop investing, and to do a big fat chunk of stock buybacks instead. That'll be profitable in the long run! It just drives me mad when we see hordes of people crying out for Youtube/Twitter/Amazon/etc alternatives, and MS is like \"Welp, nothing to invest in! 60B in buybacks at the top!\"\n\n>Gaming kinda hit a plateau\n\nMostly because of the massive, massive failures of AAA gaming studios, which seem utterly dominated by political hires dictating a sizeable amount of their budgets. Failures like Concord would have been absolutely unimagineable 10 or so years ago. Now it's almost expected after things like Suicide Squad, Anthem, Forspoken, etc.",
+                  "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lniosdb/",
+                  "created": 1726543868,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lnl9qaj",
+                      "score": 3,
+                      "body": "From my understanding, neither Youtube nor Twitter/X is profitable.\n\nAnd the way they treating Activision and even Xbox in general, MSFT seems like they are in panic mode that it could start dragging the entire company down.",
+                      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnl9qaj/",
+                      "created": 1726589580,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lnkaof5",
+                      "score": 2,
+                      "body": "I think they are referring to Xbox and their studios. Keep buying companies to shutter them quickly after",
+                      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnkaof5/",
+                      "created": 1726577672,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lnik44c",
+                  "score": 12,
+                  "body": "The issue is too many applications and games are sold through third party marketplaces. Microsoft is losing out on Billions in revenue they could be making from distribution fees. If they could get a stranglehold on all app distribution like Apple has, they could make hundreds of Billions per year.\n\nImagine anytime your company pays for a software license, anytime someone buys a game or software for their PC, Microsoft gets a 30% cut. This kind of thing could bring them to be a $10 Trillion market cap company.",
+                  "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnik44c/",
+                  "created": 1726541963,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lnj01a6",
+                      "score": 13,
+                      "body": "That's just not going to happen though. Steam is king for a reason.",
+                      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnj01a6/",
+                      "created": 1726549550,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lnkke5k",
+                          "score": 3,
+                          "body": "All Microsoft has to do is make it so apps need to be signed and distributed through Microsoft to be able to run on Windows just like how Apple does with their iOS, OR require a per install royalty and 30% license fee to competing app stores. Courts have already ruled that it's apparently not anti competitive to do this when companies sued apple, so Microsoft should cash in on that.",
+                          "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnkke5k/",
+                          "created": 1726581282,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lnjb6t0",
+                      "score": 8,
+                      "body": "Apple doesn't have that on OSX, just IOS. People would never stand for it on Windows or OSX.",
+                      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnjb6t0/",
+                      "created": 1726556627,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lniou3c",
+                      "score": 6,
+                      "body": "They have gamepass, which is a pretty phenomenal product.",
+                      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lniou3c/",
+                      "created": 1726543890,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lnl3wtt",
+                      "score": 1,
+                      "body": "That isn’t ever going to happen on PC",
+                      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnl3wtt/",
+                      "created": 1726587718,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lnj5iuv",
+                  "score": 3,
+                  "body": "They could easily make their Windows game store 5x better at 30% cheaper prices to eat away at Steam's market share but they just keep treating PC gaming like a red head stepchild in spite of their xbox console failing miserably.",
+                  "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnj5iuv/",
+                  "created": 1726552859,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lnjcf0d",
+                      "score": 2,
+                      "body": "They see the game store as dead and game pass / streaming as the future.\n\nHowever agree windows store should print money but is just poorly executed.",
+                      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnjcf0d/",
+                      "created": 1726557481,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lnja5cb",
+                      "score": 1,
+                      "body": "As a redheaded stepchild, I take immense insult in this statement.\n\nHow dare you compare me to PC gaming.",
+                      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnja5cb/",
+                      "created": 1726555932,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lnjdhjt",
+                      "score": 1,
+                      "body": "Well they own the 3rd largest Store \"Battle.net\", If not the 2nd largest.\n\nI think they should use that to rework the Xbox and Microsoft Store on PC.",
+                      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnjdhjt/",
+                      "created": 1726558239,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lniporx",
+                  "score": 3,
+                  "body": "Augmented reality is the next frontier",
+                  "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lniporx/",
+                  "created": 1726544274,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lnliugj",
+                      "score": 2,
+                      "body": "MSFT already canned most of their HoloLens division and gave up the Army contract.",
+                      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnliugj/",
+                      "created": 1726592478,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lnlkokd",
+                  "score": 1,
+                  "body": "Maybe they could use some of that money to hire engineers to remove the ads from Windows?",
+                  "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnlkokd/",
+                  "created": 1726593062,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lntbith",
+                      "score": 1,
+                      "body": "Hahahaha no",
+                      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lntbith/",
+                      "created": 1726701349,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lnin3fa",
+              "score": 31,
+              "body": "They don't care. They're selling to some of the largest organizations in the world.\n\n\nTheir sales pitch is that with them they have a product for basically everything.  They're all mediocre, sure, but the CTO of the company they're selling to doesn't have to use them personally, so he barely cares.  So you sign one contract and everything is taken care of.\n\n\n\nOtherwise, those companies would have to negotiate with like 20 different IT providers instead. And that's like, work, man. Something those execs are trying to do less of. \n\n\nThis defines the MS engineering culture. Just check those boxes on the feature list.  They literally don't care if it's shit, just as long as they can say the product \"works\". They don't hire innovative people anymore. Engineering is just another cost to be minimized.",
+              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnin3fa/",
+              "created": 1726543142,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lnipdme",
+                  "score": 22,
+                  "body": "Nailed it. They buy enough to make everything a B- with a few As Cs and Ds in their, but buying that suite independently would literally take 10x as much time and a significant cost increase. \n\nJust the M365 suite would probably cost 3-5x if you had to piece it all together independently, not to mention the death grip Azure AD aka one of the worst marketing names ever, Entra, has on managing control and MFA for the average business. \n\nTo be fair though, starting up a company with a credit card and $35/user a month to cover 80% of your IT needs is pretty impressive. It's all the legacy crap that remains insanely expensive, that and Salesforce",
+                  "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnipdme/",
+                  "created": 1726544133,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lnj7ure",
+                      "score": 8,
+                      "body": "Salesforce is wildly overpriced compared to others and has rested on its laurels far too long.  But yes. ",
+                      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnj7ure/",
+                      "created": 1726554386,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lnjac8h",
+                  "score": 3,
+                  "body": "This is beginning to crack in a few areas though. Microsoft repeatedly getting hacked, they repeatedly go down (other than the Crowdstrike disaster which wasn't their fault). The new wave of CTOs don't want to risk their career because Microsoft isn't investing in maintaining at least the bear minimum of product quality.",
+                  "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnjac8h/",
+                  "created": 1726556058,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lnij8p4",
+              "score": 12,
+              "body": "Nope. Nuh uh. I do not want Microsoft making consumer products, they suck at it. I want Microsoft to focus on improving their development ecosystem and cloud computing, which is what they’ve been doing and why they’ve actually been very successful.",
+              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnij8p4/",
+              "created": 1726541603,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lnmw05i",
+              "score": 3,
+              "body": "> produts that still need improvement\n\nFor instance, Windows.",
+              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnmw05i/",
+              "created": 1726607825,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lnibetm",
+              "score": 4,
+              "body": "I don’t think they will be rewarded as long as interest rates are so high on investing in their products.",
+              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnibetm/",
+              "created": 1726538554,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lnibq3o",
+                  "score": 15,
+                  "body": "interest rates are irrelevant because they don't need to borrow money. But rates are dropping a lot anyways",
+                  "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnibq3o/",
+                  "created": 1726538675,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lnigbnb",
+                      "score": 2,
+                      "body": "I know they don’t need to borrow money buts it’s the narrative. We’re at cost cutting era, it doesn’t matter that big tech can afford it, it’s whether they can do what Wall Street wants which is aggressively cut costs.",
+                      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnigbnb/",
+                      "created": 1726540449,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lnj6cr7",
+              "score": 1,
+              "body": "I wonder how much they think they are going to benefit from OpenAI.   In 5 years, the workplace might be completely different than it is today.",
+              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnj6cr7/",
+              "created": 1726553395,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lnjwarc",
+              "score": 1,
+              "body": "Doesn't MS have like 200k employees already?",
+              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnjwarc/",
+              "created": 1726571054,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lnktb9n",
+              "score": 1,
+              "body": "Why would \"hiring more engineers\" accomplish that?",
+              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnktb9n/",
+              "created": 1726584309,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lnktlm6",
+                  "score": 1,
+                  "body": "You need engineers to build new products/enhance existing ones?",
+                  "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnktlm6/",
+                  "created": 1726584404,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lnlqb0b",
+              "score": 1,
+              "body": "Why would they do that when its where they lose",
+              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnlqb0b/",
+              "created": 1726594817,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lo524h5",
+              "score": 1,
+              "body": "Nothing good worth ripping off",
+              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lo524h5/",
+              "created": 1726879806,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lnjnl2i",
+          "score": 4,
+          "body": "75 cents per 430$ invested is the best we can do?",
+          "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnjnl2i/",
+          "created": 1726565617,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lnlv9uv",
+              "score": 3,
+              "body": "> The shares of the Redmond, Washington-based company have gained 31% in the past year.",
+              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnlv9uv/",
+              "created": 1726596378,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lnjux3y",
+          "score": 6,
+          "body": "Are stock backs considered an investment really? It just increases the value of money of current holders by spending money right? So it doesn't have any net benefit to the company's future via their fundamentals?",
+          "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnjux3y/",
+          "created": 1726570289,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lnk276r",
+              "score": 7,
+              "body": "Buybacks are just a way to do dividends with favorable tax treatment",
+              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnk276r/",
+              "created": 1726574024,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lnk73jr",
+          "score": 2,
+          "body": "They still have plenty of funds to invest and perform research.",
+          "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnk73jr/",
+          "created": 1726576198,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lnm1xv6",
+          "score": 1,
+          "body": "I got like 60k in my portfolio currently.  Wish I bought more.",
+          "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnm1xv6/",
+          "created": 1726598462,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lnojkot",
+          "score": 1,
+          "body": "They should invest in getting the servers in COD safe again😫",
+          "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnojkot/",
+          "created": 1726630372,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lo0dzo9",
+          "score": 1,
+          "body": "80 cents per quarter or 3:60$ per year or 0.8%. Plus 60b for a 3.2T company. So is that per year? So it's 2%. In total then 2.8% while you can get 5% at a bank. Yay?",
+          "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lo0dzo9/",
+          "created": 1726811392,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lr8o46j",
+          "score": 1,
+          "body": "You mean MSFT has some much of free cash they don’t know how to invest it? Then growth will slow in coming quarters",
+          "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lr8o46j/",
+          "created": 1728562489,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lnhqhqe",
+      "score": 219,
+      "body": "Newb here. Does this mean that the sharebuyback does not necessarily have to materialise when it has no expiry?",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnhqhqe/",
+      "created": 1726530779,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lnhtz85",
+          "score": 118,
+          "body": "Yes\nIt’s an option to buyback, no guarantee.",
+          "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnhtz85/",
+          "created": 1726532075,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lnl3v53",
+              "score": 2,
+              "body": "And it looks like it just replaces the last one that sat there? So this is a non story right? The dividend is basically non existent so a 10% raise there means nothing and the stock buyback doesn’t really mean much either.",
+              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnl3v53/",
+              "created": 1726587703,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lnlhazo",
+                  "score": 3,
+                  "body": "The divs not bad but the stock price rise has outpaced it making the yield look meh. But I'll take 10% div rises for the next 30 years.",
+                  "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnlhazo/",
+                  "created": 1726591993,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lnhtwjt",
+      "score": 729,
+      "body": "Lay off 650 Xbox employees, buy back 60 billion in stock.",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnhtwjt/",
+      "created": 1726532048,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lnhxwdi",
+          "score": 223,
+          "body": "Pretty much - shows how much cash they really generate. 650 people was only 2B in savings",
+          "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnhxwdi/",
+          "created": 1726533530,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lni8h6x",
+              "score": 142,
+              "body": "Those were some extremely well paid employees",
+              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lni8h6x/",
+              "created": 1726537453,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lni97kb",
+                  "score": 94,
+                  "body": "For real, 3m/yr is the average salary for the 650 laid off??",
+                  "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lni97kb/",
+                  "created": 1726537728,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lnicj7j",
+                      "score": 80,
+                      "body": "We can assume a fair amount of overhead was eliminated along with the staff. I run a fully administrative team with no significant equipment needs or supply needs, and salaries are only about half of my budget.",
+                      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnicj7j/",
+                      "created": 1726538979,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lnih25t",
+                          "score": 38,
+                          "body": "That would still be $1.5million per employee. Even at a company like Microsoft where salaries like that aren't unheard of, those would be very high ranking employees. And at that level, these people probably have a very specific and highly sought after skillset.\n\nI mean i have no idea, maybe they were actually paid that much. But those are insane salaries even for FAANG software developers.",
+                          "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnih25t/",
+                          "created": 1726540745,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lnk0ptb",
+                              "score": 11,
+                              "body": "MSFT employees don't begin to approach 1.5M a year until L68. Even then, it has to be a maxed out rewards year with most of that being a multi year stock award. \n\nThe majority of that 650 will be in the 250 - 450k total compensation range if they are in the L64-L65 bands.\n\nSo even at 450k per, that's just under 300M",
+                              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnk0ptb/",
+                              "created": 1726573324,
+                              "depth": 6,
+                              "replies": []
+                            },
+                            {
+                              "id": "lniyhbu",
+                              "score": 3,
+                              "body": "Yeah, the average salary is still nuts no matter how you shake it. I'm in the wrong business.",
+                              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lniyhbu/",
+                              "created": 1726548679,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lnjuef0",
+                                  "score": 6,
+                                  "body": "Probably closed some office space and saved on PC equipment etc. I imagine they laid of a couple high level managers making $1m+ in total comp. Median is probably well under $500k + the contractor point someone else made.",
+                                  "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnjuef0/",
+                                  "created": 1726569997,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "lnk10gc",
+                                      "score": 3,
+                                      "body": "Gotta think about benefits as well. Huge hidden costs per employee",
+                                      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnk10gc/",
+                                      "created": 1726573464,
+                                      "depth": 8,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lnim68n",
+                      "score": 12,
+                      "body": "They also may have terminated contractors. Those wouldn’t be considered layoffs but they would still be included savings",
+                      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnim68n/",
+                      "created": 1726542782,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lnkz2wg",
+                      "score": 3,
+                      "body": "Probably total compensation package, not just salaries.\n\n\nI'm betting $100k salary was closer to $200k-$250k total.compensation package when accounting for health insurance, 401k, PTO/time off, etc.",
+                      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnkz2wg/",
+                      "created": 1726586176,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lnozahb",
+                          "score": 1,
+                          "body": "You are very far from reality. Source: ms employee &118 base.",
+                          "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnozahb/",
+                          "created": 1726638578,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lns767v",
+                              "score": 1,
+                              "body": "And I think you severely underestimate how much your total compensation package really is.",
+                              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lns767v/",
+                              "created": 1726687967,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lns7wio",
+                                  "score": 1,
+                                  "body": "Lmao. You got it champ 👍🏼",
+                                  "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lns7wio/",
+                                  "created": 1726688198,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "loela22",
+              "score": 1,
+              "body": " Needed to add - the 2B was projected in savings over the next 4 years.  Sheesh Redit",
+              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/loela22/",
+              "created": 1727030884,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lniggod",
+          "score": 6,
+          "body": "Layoffs have the potential to be received as bad news. The dividend increase and buyback may be a very large way of saying that everything is fine.",
+          "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lniggod/",
+          "created": 1726540506,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lnmbo1i",
+          "score": 3,
+          "body": "That's precisely how companies should operate. When you sell / liquidate a business line, you free up capital. If you can invest that money profitably in a new business line, or in improving an existing one, good for you. If you can't do that profitably, you should buy back your shares, since you can't make good use of that capital. This ensures that your shareholders don't expect you to compensate for the lack of revenue caused by liquidating / selling a business line.",
+          "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnmbo1i/",
+          "created": 1726601505,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lnhytfd",
+          "score": 22,
+          "body": "How much do you think those xbox employees made? The two aren’t even comparable.",
+          "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnhytfd/",
+          "created": 1726533860,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lni7t12",
+              "score": 12,
+              "body": "You're missing their point.",
+              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lni7t12/",
+              "created": 1726537197,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lnikfx3",
+                  "score": 9,
+                  "body": "Was their point that you only get to be a successful company with billions in free cash flow by occasionally reducing divisions when it makes good business sense?",
+                  "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnikfx3/",
+                  "created": 1726542099,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lni45gc",
+          "score": 15,
+          "body": "Go back to /r/technology",
+          "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lni45gc/",
+          "created": 1726535842,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lni0fgz",
+      "score": 124,
+      "body": "Their older one havent expired yet fyi (no expiration). Basically they wanted option to buy 60million in case of a downturn in stock prices. \n\n\nThe dont have to do the buy back, just have the option. For us this should be a sign of possible down turn in the next year or two... if it happens.\n\nAlso fucking 60bill.... swimming with money, and nothing they can use it for that they are not doing already",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lni0fgz/",
+      "created": 1726534452,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lni8g48",
+          "score": 57,
+          "body": "Microsoft: we have so much free cash we might buyback $60Bn in stock\n\n[Also Microsoft](https://www.cnbc.com/2024/09/12/microsoft-to-cut-650-jobs-at-xbox-gaming-unit.html): \n\n> In a memo obtained by CNBC, Phil Spencer, CEO of Microsoft Gaming, told employees that the firm had taken this “difficult” decision to align its post-acquisition team structure and “organize our business for long term success.”",
+          "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lni8g48/",
+          "created": 1726537441,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lnj6ufm",
+              "score": 11,
+              "body": "I'm going to take a guess here that Microsoft Gaming isn't the division making the big bucks. So yes, a division inside a massively profitable company can still have its own issues that might need drastic changes to sort out it's issues.",
+              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnj6ufm/",
+              "created": 1726553719,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lnroe4s",
+                  "score": 2,
+                  "body": "Their gaming division is making money but people seem to forget they've been acquiring a lot of big companies which were most likely full of people they didn't need, so they now just fire them.\n\nNothing unusual really, buy a company for some of it's people, products and IP, fire the bad stuff keep the good stuff.",
+                  "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnroe4s/",
+                  "created": 1726682072,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lniphfz",
+              "score": 24,
+              "body": "That's exactly what they should be doing. There are always going to be a ton of redundant roles after merge/acquisition. It'd be some seriously shitty corporate management if they didn't do that.\n\nHaving incredible cashflow isn't an excuse to run your business like a charity. Satya doesn't fuck around.",
+              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lniphfz/",
+              "created": 1726544182,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lnjh7lj",
+                  "score": 14,
+                  "body": "It also isn't sensible to tell your employees no pay raises and no team budget for basically 2 years and then do this. The morale of the employees was at an all time low.",
+                  "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnjh7lj/",
+                  "created": 1726560950,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lnklqa9",
+                      "score": 3,
+                      "body": ".....wonder how many of these employees have an equity portion to their annual comp package......?",
+                      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnklqa9/",
+                      "created": 1726581744,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lnkllxg",
+              "score": 1,
+              "body": "Yeah, if you're going to announce a 10% divvy increase, it sort of helps make that increase in your cost of capital a little less painful by reducing share count.....",
+              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnkllxg/",
+              "created": 1726581701,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lnlvie4",
+                  "score": 1,
+                  "body": "Corps needs to announce the future date for stock purchase, which they can decide when and where. Microsoft is doing a warrent style (call), they can do it when they want, and in this case its an unlimited forever warrent with no set price. Most of what we are familar with is \"will\" purchase it on this date for x price. \n\nThe share count for a dividend is based on a selected date which is going to be before any stock purchase in question.",
+                  "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnlvie4/",
+                  "created": 1726596454,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lnihvuq",
+      "score": 18,
+      "body": "$60 billion sounds like a huge number but it's a drop in a bucket compared to Microsoft's market cap.\n\nStill doesn't change the fact that MSFT is one of the best stocks in the market today.",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnihvuq/",
+      "created": 1726541074,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnj8656",
+      "score": 25,
+      "body": "Are we acting like the dividend is actually good? At 431 dollars per share that's a 0.2% quarterly dividend. A whooping 0.8% annualized. Yes, share price will increase, but the dividend payout for a company printing this much money is just atrocious.",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnj8656/",
+      "created": 1726554597,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lnjqz8a",
+          "score": 22,
+          "body": "10% annual dividend growth rate is good. It's just that their share price growth has been crazy the last few years. Both can be true at once.",
+          "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnjqz8a/",
+          "created": 1726567910,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lnholsh",
+      "score": 82,
+      "body": "Now do a stock split next.",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnholsh/",
+      "created": 1726530086,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lnhrf0s",
+          "score": 20,
+          "body": "why",
+          "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnhrf0s/",
+          "created": 1726531120,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lnhuy8f",
+              "score": 26,
+              "body": "Options",
+              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnhuy8f/",
+              "created": 1726532445,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lni3m2m",
+                  "score": 1,
+                  "body": "I'm hoping for a 4 or 5 to 1",
+                  "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lni3m2m/",
+                  "created": 1726535639,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lnhrh51",
+          "score": 10,
+          "body": "Can you explain this to me? Pretend I like large pepperoni pizzas cut into quarters and all of a sudden it’s cut into eights.",
+          "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnhrh51/",
+          "created": 1726531142,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lnhwhnu",
+              "score": 24,
+              "body": "Options are priced per 100 shares. Selling (for example) 1 put contract on a stock priced at $25 is drastically different than selling 1 contract for shares priced at $250 per share. \n\nThe account balance requirements are drastically different. There are ways to work around this, but assuming just regular selling of 1 put contract and nothing additional, it's still $2,500 vs. $25,000 that you could be required to have available in case you're assigned.\n\nI honestly can't think of a good way to explain it using pizza slices.",
+              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnhwhnu/",
+              "created": 1726533017,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lnhrt33",
+              "score": 30,
+              "body": "Only advantage I can think of is smaller price make it more affordable for people who can only buy one share. And it seems less expensive. ",
+              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnhrt33/",
+              "created": 1726531267,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lnhss9w",
+                  "score": 14,
+                  "body": "It's better for options, also more trades for the$ amount means more chances for hft.",
+                  "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnhss9w/",
+                  "created": 1726531632,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lnid5he",
+                  "score": 3,
+                  "body": "Partial shares also aren't a thing in a number of countries, so when the share price gets too expensive it can price people out of it.",
+                  "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnid5he/",
+                  "created": 1726539214,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lnhvvce",
+                  "score": 4,
+                  "body": "A lot of traders trade emotionally, so it's possible I guess, but the same rules that apply to a 1.99 salisbury steak TV dinner don't apply to a stock.",
+                  "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnhvvce/",
+                  "created": 1726532787,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lnrp4g3",
+                  "score": 1,
+                  "body": "It's options related mostly, right now if you want to do certain things you need to spend/have available $45k.\n\nRight now $30k won't let you sell covered calls.",
+                  "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnrp4g3/",
+                  "created": 1726682299,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lni3aqp",
+              "score": 2,
+              "body": "You can't fit nor carry the larger slices in your mouth or pockets. Now that they are smaller, you have more options.",
+              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lni3aqp/",
+              "created": 1726535522,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lniymn1",
+              "score": 1,
+              "body": "That's stock split not buy back.  Buy back means the share price goes up ..is all we need to know.",
+              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lniymn1/",
+              "created": 1726548758,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lnhs6be",
+          "score": 1,
+          "body": "Just buy a fractional share if ya can’t put down the 400 bucks",
+          "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnhs6be/",
+          "created": 1726531404,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lnhv0h7",
+              "score": 16,
+              "body": "Can’t buy fractional options",
+              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnhv0h7/",
+              "created": 1726532467,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lnjxjvc",
+                  "score": 1,
+                  "body": "Use xtb like me.",
+                  "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnjxjvc/",
+                  "created": 1726571734,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lnjdz51",
+              "score": 2,
+              "body": "Fractional shares are still not widely available outside North America. Brokers be stupid.",
+              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnjdz51/",
+              "created": 1726558594,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lnjms49",
+                  "score": 1,
+                  "body": "Trading212 offers fractional shares all throughout the EU, UK and Australia, and IBKR offers them all around the world.",
+                  "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnjms49/",
+                  "created": 1726565039,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lnp7261",
+                  "score": 1,
+                  "body": "For Canadians, you can use Wealth Simple",
+                  "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnp7261/",
+                  "created": 1726643685,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lnht3uz",
+              "score": -1,
+              "body": "The big houses (Merrill, Vanguard, Fidelity) don't allow you to buy fractional shares unless it is dripped. Schwab may but not certain.",
+              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnht3uz/",
+              "created": 1726531751,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lnhtnix",
+                  "score": 21,
+                  "body": "Fidelity has fractional shares",
+                  "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnhtnix/",
+                  "created": 1726531954,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lnhwnw5",
+                  "score": 7,
+                  "body": "I just bought fractional shares on fidelity today",
+                  "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnhwnw5/",
+                  "created": 1726533082,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lnhqoq0",
+      "score": 158,
+      "body": "Tells me growth is slowing",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnhqoq0/",
+      "created": 1726530849,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lnhr6j9",
+          "score": 326,
+          "body": "It’s a $3T company lol. Ofcourse growth is slowing",
+          "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnhr6j9/",
+          "created": 1726531032,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lnhrt05",
+              "score": 51,
+              "body": "Gonna be worth $6 trillion in 10 years.",
+              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnhrt05/",
+              "created": 1726531267,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lnhs4ef",
+                  "score": 42,
+                  "body": "So it grows by 7% per year? So?",
+                  "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnhs4ef/",
+                  "created": 1726531385,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lnhts1t",
+                      "score": 20,
+                      "body": "Right now, MSFT is growing in the teens.",
+                      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnhts1t/",
+                      "created": 1726532002,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lnklzgr",
+                          "score": 2,
+                          "body": "And there's an obvious trade off in terms of share price appreciation growth and increasing your shareholders cash yield by increasing your dividend by 10%.....",
+                          "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnklzgr/",
+                          "created": 1726581835,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "lnhuxma",
+                  "score": 7,
+                  "body": "I’d bet closer to 5 than 10.",
+                  "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnhuxma/",
+                  "created": 1726532439,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lnhxrue",
+              "score": 8,
+              "body": "That's what they said when it was 500B. And when it was 1T. And when it was 2T. And when it is 3T now.",
+              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnhxrue/",
+              "created": 1726533486,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lnkie0e",
+                  "score": 2,
+                  "body": "Growth can slow and then accelerate again",
+                  "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnkie0e/",
+                  "created": 1726580570,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lnkiah2",
+              "score": 2,
+              "body": "Forward PE is 36… not exactly priced in",
+              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnkiah2/",
+              "created": 1726580536,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lnicxmf",
+          "score": 9,
+          "body": "They've been doing this for years. The dividend increase is literally right in line with their 5 year average.",
+          "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnicxmf/",
+          "created": 1726539132,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lnjlwy7",
+          "score": 3,
+          "body": "Tells me they're not throwing money hand over fist at NVDA anymore and the absurd capex is starting to issue a return.\n\nEPS is up over 35% since the last time they announced buybacks and that is with a massive fed induced headwind.",
+          "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnjlwy7/",
+          "created": 1726564407,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lnigudg",
+          "score": 4,
+          "body": "Tells me management is sitting on alot of excess cash and is returning it to the shareholders. Bullish",
+          "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnigudg/",
+          "created": 1726540658,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lnhsol3",
+      "score": 36,
+      "body": "I'm not sure wheether to take this as bullish or bearish. Bullish because outside investors will want to 'take advantage' of the buyback, bearish because I expect MSFT plans on buying back at lower valuations than the current. One then the other, I suppose.",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnhsol3/",
+      "created": 1726531594,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnkkm2j",
+      "score": 8,
+      "body": "Microsoft bought Blizzard for ~$70 Billion, does this and also announced laying off 650 people from the Xbox team. \n\nI can't imagine how it must feel to get laid off and then see something like this.",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnkkm2j/",
+      "created": 1726581357,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lnrpgav",
+          "score": 2,
+          "body": "They didn't buy Blizzard because of their roster of stellar employees, anyone who knows Blizzard also knows most of their staff was shit, Microsoft doing what it takes.",
+          "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnrpgav/",
+          "created": 1726682401,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "loqjl56",
+              "score": 1,
+              "body": "Stacking the IPs for sure. As an avid StarCraft fan since the 200s, I thought them getting bought would bring new life to the games. Alas",
+              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/loqjl56/",
+              "created": 1727205051,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lnidjfc",
+      "score": 12,
+      "body": "Bought MSFT back in 2009 though only 45 shares for $25/share. Currently,  60 shares with average cost of $45 per share. ROI is fantastic.",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnidjfc/",
+      "created": 1726539357,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lnr8j0q",
+          "score": 1,
+          "body": "Microsoft was the first stock I ever bought when I started investing in 2019. I bought it at around 100 bucks",
+          "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnr8j0q/",
+          "created": 1726677094,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lnhswvr",
+      "score": 22,
+      "body": "Msft is godlike. Just wish I bought more in 2020. But cant complain no one knows the future.",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnhswvr/",
+      "created": 1726531679,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnkbj9e",
+      "score": 5,
+      "body": "The only announcement I’m waiting for: Warcraft 4. I can’t believe I’m waiting on that from Microsoft at this point. 🥱",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnkbj9e/",
+      "created": 1726578010,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnhn7xq",
+      "score": 11,
+      "body": "The share repurchase agreement, which has no expiration date, replaces a $60 billion buyback program announced in 2021.\nhttps://fortune.com/2024/09/16/microsoft-60-billion-stock-buyback-10-percent-dividend-increase/",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnhn7xq/",
+      "created": 1726529571,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnir1gm",
+      "score": 7,
+      "body": "Dividends would be better than buybacks at this price.",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnir1gm/",
+      "created": 1726544901,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnixs4h",
+      "score": 3,
+      "body": "So this is just authorization, not actual buyback? Dividend increase is pretty huge though.",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnixs4h/",
+      "created": 1726548304,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnkid5c",
+      "score": 3,
+      "body": "Microsoft just laid off 650 people from their gaming division. Sounds like they don’t know what to invest in to grow the company.",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnkid5c/",
+      "created": 1726580562,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnhruii",
+      "score": 5,
+      "body": "Sounds good",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnhruii/",
+      "created": 1726531282,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnhq288",
+      "score": 19,
+      "body": "They do this when a slow down is coming, so not good lol",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnhq288/",
+      "created": 1726530624,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lnijkti",
+          "score": 46,
+          "body": "Didn’t you predict a market crash 9 months ago? Where’s the crash?",
+          "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnijkti/",
+          "created": 1726541743,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lnip1vg",
+              "score": 24,
+              "body": "Lmao you weren’t lying\n\nhttps://www.reddit.com/r/realestateinvesting/s/GXMHhAMg0H",
+              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnip1vg/",
+              "created": 1726543986,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lnjd97m",
+              "score": 9,
+              "body": "lol he cooked",
+              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnjd97m/",
+              "created": 1726558073,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lni42ds",
+          "score": 10,
+          "body": "No guarantee….they buy back when they feel the price is too low.. thats what you want. \nAnd if it doesnt come about then they have cash on hand for r&d or m&a.",
+          "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lni42ds/",
+          "created": 1726535810,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lnkm2fe",
+          "score": 1,
+          "body": "You heard it guys - pack it up and go 100% cash. The end is nigh.",
+          "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnkm2fe/",
+          "created": 1726581864,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lnkyrde",
+      "score": 5,
+      "body": "The world is so fucked, while palestinians are bombed into obliteration, billions struggle for food and shelter across the world and even average working westerners struggle to put food on the tables and a roof over their heads, MSFT and NVDA are spending a combined $130 billion just buying their own stock. Just pissing $130 billion into the ether never to be seen again basically.  The world, and all of our mentalities are so utterly fucked.",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnkyrde/",
+      "created": 1726586072,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lnpfdir",
+          "score": 7,
+          "body": "peak reddit comment\n\nthis is so beautifully stupid it should get framed and presented at the Louvre",
+          "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnpfdir/",
+          "created": 1726649712,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lnm9l51",
+          "score": 1,
+          "body": "> Just pissing $130 billion into the ether never to be seen again basically.\n\n?",
+          "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnm9l51/",
+          "created": 1726600854,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lni8z1w",
+      "score": 2,
+      "body": "I sold my call too early last week fml",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lni8z1w/",
+      "created": 1726537640,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lniyb1v",
+      "score": 2,
+      "body": "Welcome news ..as MSFT has been such a slow slow burner in my portfolio.",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lniyb1v/",
+      "created": 1726548584,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnjj9j0",
+      "score": 2,
+      "body": "The FOMO isn't strong on this one. I will pass",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnjj9j0/",
+      "created": 1726562465,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnjjjch",
+      "score": 3,
+      "body": "Stock buybacks should be illegal.",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnjjjch/",
+      "created": 1726562663,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lniq0sh",
+      "score": 2,
+      "body": "Fire from the US, Hire in cheap ass markets, the $ saved go into stock buybacks. \n\nGreat American companies. 🤡",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lniq0sh/",
+      "created": 1726544428,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnhp0xo",
+      "score": 2,
+      "body": "Calls then??",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnhp0xo/",
+      "created": 1726530244,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnm5w4j",
+      "score": 2,
+      "body": "Didnt they just fire a bunch of people? ",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnm5w4j/",
+      "created": 1726599689,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnj07pw",
+      "score": 1,
+      "body": "Basically windows will be written in C# now",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnj07pw/",
+      "created": 1726549653,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnj879x",
+      "score": 1,
+      "body": "Microsoft has announced a $60 billion stock buyback program and a 10% increase in its dividend, reflecting confidence in its financial health and commitment to returning value to shareholders.",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnj879x/",
+      "created": 1726554618,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnjwj6m",
+      "score": 1,
+      "body": "Why do I get a feeling without expiration is a bad thing",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnjwj6m/",
+      "created": 1726571186,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnk3k1a",
+      "score": 1,
+      "body": "Oh so this is what those Xbox layoffs were for",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnk3k1a/",
+      "created": 1726574638,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnlp420",
+      "score": 1,
+      "body": "Just like NVIDIA, their stock will go down?",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnlp420/",
+      "created": 1726594442,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnmx8xg",
+      "score": 1,
+      "body": "Maybe they could fix all the fucking bugs in new Outlook with that money.",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnmx8xg/",
+      "created": 1726608234,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnn5axw",
+      "score": 1,
+      "body": "So 2% of the market cap in buybacks with unlimited date and dividend up to around 0.8%.   \nNot huge but it seems they are out of ideas to invest the money. It would be a boring value stock by now but a prospect of them selling AI powered services to all the big corps around the world are very juicy :)",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnn5axw/",
+      "created": 1726610979,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnnkx2k",
+      "score": 1,
+      "body": "The dividend seems really small for the price and a company as big as Microsoft.",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnnkx2k/",
+      "created": 1726616683,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lno5o2t",
+      "score": 1,
+      "body": "Just give us all the 61billion.   I’d rather a one time dividend than bullshit buy back.",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lno5o2t/",
+      "created": 1726624569,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnoerhr",
+      "score": 1,
+      "body": "when is a good time to buy MSFT?",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnoerhr/",
+      "created": 1726628262,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lnyyeqz",
+          "score": 1,
+          "body": "Always.",
+          "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnyyeqz/",
+          "created": 1726789019,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lnonog1",
+      "score": 1,
+      "body": "Wait until they roll up every promising AI startup",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnonog1/",
+      "created": 1726632338,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnqz9rx",
+      "score": 1,
+      "body": "They are committed to buying a single share?",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnqz9rx/",
+      "created": 1726674167,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnzq5th",
+      "score": 1,
+      "body": "They layed off 11,158 people 2023...",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnzq5th/",
+      "created": 1726799609,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lni777n",
+      "score": 2,
+      "body": "$60 billion dispersed to holders as a special dividend would be preferable to a $60 billion stock buyback.",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lni777n/",
+      "created": 1726536966,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lnirgib",
+          "score": 10,
+          "body": "But dividends are taxed as income. Increasing the stock price allows investors to withdraw and pay a lower capital gains tax.",
+          "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnirgib/",
+          "created": 1726545101,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lnjumqx",
+      "score": 1,
+      "body": "Make this illegal",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnjumqx/",
+      "created": 1726570128,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnio1fd",
+      "score": 1,
+      "body": "So how much can this actually move the stock price over the time it’s done?",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnio1fd/",
+      "created": 1726543541,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lnyyxg7",
+          "score": 1,
+          "body": "Well Microsoft’s market cap is 3.26T, so a 60B buyback is roughly a 1.84% increase.",
+          "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnyyxg7/",
+          "created": 1726789211,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lo075s5",
+              "score": 1,
+              "body": "So mathematically insignificant 🤣",
+              "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lo075s5/",
+              "created": 1726807518,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lnizzec",
+      "score": 1,
+      "body": "Seems like vast majority talk about Gaming, MS suite of software. Does anybody not know that Azure is the most profitable largest and growing contributor to MSFT?",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnizzec/",
+      "created": 1726549519,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnjcljk",
+      "score": 1,
+      "body": "MSFT is one of the few stocks I invest in directly. Their share of the cloud market, which is also growing overall, is increasing at pace and will continue to do so. As all the major public cloud platforms offer MS based virtual machines, databases etc, MS get a share of that revenue too. Ongoing cloud adoption means MS will get more revenue and reduce support costs due to cloud making it far less likely that organisations will sweat their OS and software assets as many are inclined to do in a traditional on premises environment. \n\nThere are some other interesting things going on, like development of Copilot and its integration into the office suite. That may seem no big deal to some but, having trialled it myself, it offers a significant productivity increase. As organisations click to the benefits and start buying enterprise licenses for their users I expect to see it contribute significant additional revenue.",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnjcljk/",
+      "created": 1726557609,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnjfa8y",
+      "score": 1,
+      "body": "At $403 their dividend pays .7%. they can keep they're 80 cents. There's better opportunities out there",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnjfa8y/",
+      "created": 1726559553,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lnnsvvf",
+          "score": 5,
+          "body": "It's a tech stock that pays a div. Ill take that SP appreciation anyday even if the yield is low.",
+          "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnnsvvf/",
+          "created": 1726619669,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lnm2agx",
+      "score": 1,
+      "body": "Simply no future innovation so to increase share price or inflate the stock they are doing buyback same what apple has been doing no innovation and doing large buybacks left right and center to inflate the prices",
+      "permalink": "/r/stocks/comments/1fijk65/microsoft_announces_60_billion_stock_buyback_and/lnm2agx/",
+      "created": 1726598572,
+      "depth": 0,
+      "replies": []
+    }
+  ],
+  "stockTickers": {
+    "post_summary": "Microsoft announces $60 billion stock buyback and 10% dividend increase.",
+    "companies": [
+      "Microsoft"
+    ],
+    "tickers": [
+      "MSFT"
+    ],
+    "main_ticker": [
+      "MSFT"
+    ]
+  },
+  "sentimentAnalysis": {
+    "post_summary": "Microsoft announces a new $60 billion stock buyback program and a 10% dividend increase.",
+    "stock_recommendations": "The post implies holding onto or potentially buying MSFT stock due to positive developments.",
+    "is_recommending_stock_buying_or_selling": true,
+    "buy_or_sell": "buy or hold",
+    "sentiment_summary": "The sentiment is positive as Microsoft is enhancing shareholder value through stock buybacks and increased dividends.",
+    "sentiment": "positive"
+  }
+}

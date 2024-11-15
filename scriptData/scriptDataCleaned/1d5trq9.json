@@ -1,0 +1,937 @@
+{
+  "title": "Do you think Cloudflare (NET) could eventually become a profitable business?",
+  "score": 233,
+  "selftext": "[deleted]",
+  "link_flair_text": "Company Discussion",
+  "id": "1d5trq9",
+  "num_comments": 96,
+  "created_utc": 1717267411,
+  "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/",
+  "comments": [
+    {
+      "id": "l6nxgra",
+      "score": 461,
+      "body": "The fact that they aren’t already at this point is insane. They power the fucking internet",
+      "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6nxgra/",
+      "created": 1717268856,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6oq2e6",
+          "score": 50,
+          "body": "Well they are Cashflow positive amd think most of their losses is due to ESOP",
+          "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6oq2e6/",
+          "created": 1717279800,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6rdv2w",
+              "score": 10,
+              "body": "Can you elaborate on why/how ESOP leads to losses for companies; cloudflare specifically?",
+              "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6rdv2w/",
+              "created": 1717332650,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6ref0b",
+                  "score": 16,
+                  "body": "Yes companies report Gaap earnings and ESOP‘s count as expense in the income statement although no money is leaving the company . That’s why cashsflow is a better metric for fast growing companies in my opinion.",
+                  "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6ref0b/",
+                  "created": 1717332919,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l6s7l70",
+                      "score": 18,
+                      "body": "Pretending compensation isn’t an expense is the dumbest thing on the planet. The engineering team will leave if they stop issuing stock, and giving 200K starting grants with 50K refreshers to L5s isn’t free to shareholders. You have to issue buy backs to offset that",
+                      "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6s7l70/",
+                      "created": 1717344872,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l6t37qs",
+                          "score": 2,
+                          "body": "I didn’t say it isn’t an expense but I don’t care if a company is just not profitable due to ESOP‘s. If they Cashflow is positive it means the company is at least not dying cuz of the reported losses",
+                          "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6t37qs/",
+                          "created": 1717356584,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l6t51kk",
+                              "score": 3,
+                              "body": "If my equity position is slowly bled by dilution that’s not great either, especially when the employees demand more stock or cash to offset a stock that isn’t growing or is failing. \n\nThey can try to cut labor but without innovation tech companies often fall apart, or at best get strip mined for value optimization. \n\nIt works well until it doesn’t. I’ve been at a tech I main where the stock price was cut in half and all the senior people ran for the exits",
+                              "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6t51kk/",
+                              "created": 1717357265,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "l6reksc",
+                      "score": 3,
+                      "body": "Thanks !",
+                      "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6reksc/",
+                      "created": 1717332999,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l6ocqx2",
+          "score": 45,
+          "body": "Because almost everyone uses the free version. CF would crash and burn off they get rid of the free version or heavily restrict it. \n\nBut what I could see is restrictions on the free version like 2000 GB data transfer ofer all services",
+          "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6ocqx2/",
+          "created": 1717274656,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6ofutf",
+              "score": 35,
+              "body": "Not really, I use them and I'd pay for the same free stuff if it was reasonably priced.\n\nThey have legitimate useful offerings that fill a niche between a registrar/static hosting provider and a full fledged cloud provider like AWS.\n\nLike you're not going back to something like GoDaddy after you switch to Cloudflare, especially since those kind of companies have been overcharging for crap offerings for a decade+... the only other direction is growing into AWS.",
+              "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6ofutf/",
+              "created": 1717275794,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l6o4ns8",
+          "score": 64,
+          "body": "They have no moat really, all the major cloud providers do almost everything CF does and a lot more that CF doesn't do. Pretty much the only selling point is price, and even then they're not *that* much better than AWS for example.",
+          "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6o4ns8/",
+          "created": 1717271596,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6ovbkm",
+              "score": 108,
+              "body": "They're much better at everything they compete with AWS at. Source: I work at AWS",
+              "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6ovbkm/",
+              "created": 1717281972,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6pg23o",
+                  "score": 67,
+                  "body": "I agree (I work at cloudflare lol)",
+                  "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6pg23o/",
+                  "created": 1717290995,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l6ph1aa",
+                  "score": 8,
+                  "body": "I use both and AWS has the first mover advantage and that’s it’s nothing they do is market leading except maybe lambda but even then not really.",
+                  "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6ph1aa/",
+                  "created": 1717291437,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l6p8sg7",
+                  "score": 16,
+                  "body": "Sure, I've used both of their products. It's just that when the rest of your infra is on AWS, it's much lower friction to use the AWS services. Unless you're serving millions of daily users, you can get by with pretty naive setups in AWS Route53 and Cloudfront. It takes like 10 minutes to spin up a Cloudfront distribution in terraform that integrates easily with an s3 bucket/lambda function/ECS/whatever.",
+                  "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6p8sg7/",
+                  "created": 1717287744,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l6r1ksm",
+                      "score": 1,
+                      "body": "Impossible to do for a non tech savvy user",
+                      "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6r1ksm/",
+                      "created": 1717325520,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l6xb937",
+                          "score": 2,
+                          "body": "I don't think non tech savvy people are directly interacting with CDN and DNS services my man. I weep for the orgs that would allow such things, nothing good could possibly come of letting unqualified people muck about with your DNS configuration.",
+                          "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6xb937/",
+                          "created": 1717429340,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "l6p5zve",
+              "score": 33,
+              "body": "I work in the industry, they are waaaay better in what they do then AWS. I’d even go as far as say CF is leading the pack in while AWS is barely keeping up with it.",
+              "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6p5zve/",
+              "created": 1717286518,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6pd406",
+                  "score": 3,
+                  "body": "one thing they are not good at is customer support and handling of critical issues.  we ditched them a couple years back after the took our website off line numerous times when upgrading software on their side with buggy, untested code.",
+                  "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6pd406/",
+                  "created": 1717289668,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l6qcmt8",
+                      "score": 4,
+                      "body": "And on AWS that costs you a pretty penny. https://aws.amazon.com/premiumsupport/pricing/ .",
+                      "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6qcmt8/",
+                      "created": 1717307481,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l6ts4em",
+                          "score": 1,
+                          "body": "Yeah, but we were paying for premium support from cloudflare also but they sucked so?",
+                          "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6ts4em/",
+                          "created": 1717366051,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "l6pcc0d",
+                  "score": 0,
+                  "body": "the thing about AWS is that its just big; this is its moat.  source: completely guessing.",
+                  "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6pcc0d/",
+                  "created": 1717289313,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l6oqcs5",
+              "score": 20,
+              "body": "Price is ok until you get blackmailed into an enterprise plan.",
+              "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6oqcs5/",
+              "created": 1717279918,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l6o87s7",
+              "score": 23,
+              "body": "Beat me to it. They're handy because of cheap domains, but otherwise they do literally nothing unique/special.",
+              "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6o87s7/",
+              "created": 1717272947,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6uio98",
+                  "score": 1,
+                  "body": "might take a look at their zero trust offering",
+                  "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6uio98/",
+                  "created": 1717377078,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l6p42ka",
+              "score": 2,
+              "body": "But not all the cloud providers have their net retention. Their existing customers spend more year after year.",
+              "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6p42ka/",
+              "created": 1717285676,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l6soidq",
+          "score": 2,
+          "body": "This, it’s ludicrous they haven’t figured out how to be profitable from their partnerships. They backed up Meta when it got fucked and shot the stock up.\n\nIf they’re not profitable now I have little hope. Not because they can’t be but because it seems on their road to becoming profitable they’re just pissing off devs and small products instead of capitalizing on their relationship with Meta and the like.",
+          "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6soidq/",
+          "created": 1717351150,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l6pcqo1",
+          "score": 3,
+          "body": "no moat.\n\nwe replaced Cloudflare with equivalent AWS services in order to consolidate to a single cloud provider and because Cloudflare was absolutely incompetent with a few bugs that took our website offline a number of times (we paid for top level support).",
+          "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6pcqo1/",
+          "created": 1717289498,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6o9zzm",
+      "score": 66,
+      "body": "I really like cloudflare. They are very focused on  expanding their developer platform to compete with cloud providers expanding their reach beyond their traditional DNS, DDOS protection, and CDN offerings.\n\nIn the last few years they have built products including a key value store, a hosting service, a database, and an object storage service - products that are more in the vein of a cloud provider like AWS/GCP/Azure. They are continuing to invest in these and additional capabilities while focusing on keeping costs low for their clients as a competitive advantage.\n\nIt's going to take them some more time to build more of these products to be truly competitive with the big cloud providers but they are already competitive with the medium sized ones so I think its a great long term hold.",
+      "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6o9zzm/",
+      "created": 1717273633,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6on6bm",
+          "score": 10,
+          "body": "Agree, their latest Serverless SQL (D1) looks pretty good. As a developer myself, I could see myself moving to Cloudflare once they have a few more products in their catalog. Long term hold for me.",
+          "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6on6bm/",
+          "created": 1717278636,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6rec65",
+              "score": 2,
+              "body": ">I could see myself moving to Cloudflare once they have a few more products in their catalog.\n\nDue to cost?",
+              "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6rec65/",
+              "created": 1717332881,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l6oov8g",
+          "score": 3,
+          "body": "Problem is a lot of large organizations are already with AWS or Azure. We’re looking to move our external site off of Cloudflare not expand our footprint.",
+          "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6oov8g/",
+          "created": 1717279309,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6ox5yn",
+              "score": 5,
+              "body": "My company has more than 100k billings monthly with aws. We are planning to move from s3 to r2 cause it’s 100% compatible and much cheaper. Coast savings will be very big.",
+              "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6ox5yn/",
+              "created": 1717282742,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6pnvtt",
+                  "score": 9,
+                  "body": "Keep in mind data transfer costs out from AWS. If your workload is running on AWS, using r2 instead of s3 could get very expensive",
+                  "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6pnvtt/",
+                  "created": 1717294565,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l6tzj9p",
+                      "score": 1,
+                      "body": "We know this and that is one of the reason we want to leave S3 actually. After 3k daily egress costs in one bucket for nothing better to leave.",
+                      "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6tzj9p/",
+                      "created": 1717369058,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "l6sptvk",
+              "score": 1,
+              "body": "I’ve seen maybe not huge but plenty of midsized companies migrate entire infrastructures to another provider solely for costs.",
+              "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6sptvk/",
+              "created": 1717351635,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l6o5y48",
+      "score": 106,
+      "body": "They generated $300M in free cash flow last year. Net earnings are negative because of stock comp and investments in growth. Similar to what Amazon did for a long time.",
+      "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6o5y48/",
+      "created": 1717272073,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6oj4dr",
+          "score": 34,
+          "body": "Im looking at their 10-k and they report their FCF as $120M.  And even then, if you generated $120M because $290M of your expenses were compensated in stock instead of cash, I wouldn’t call that meaningful cash generation for equity holders.",
+          "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6oj4dr/",
+          "created": 1717277037,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l6op8w0",
+          "score": 14,
+          "body": "Fair but ignoring stock compensation when calculating profitability is nuts. Those employees expect to get a reliable grant every year or whatever as part of their compensation - I don't see how it's logical to calculate that expense as any different than paying wages directly.",
+          "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6op8w0/",
+          "created": 1717279463,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6ou6qn",
+              "score": 2,
+              "body": "You need to keep everything into account. FCF is one measure of profitability which is useful when companies are in a hypergrowth phase. For NET reinvesting in the business makes sense, I think.",
+              "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6ou6qn/",
+              "created": 1717281508,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l6orado",
+          "score": 9,
+          "body": "That's still a cost to investors in the form of dillution - and since it's comp it may be likely to continue this way for the foreseeable future",
+          "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6orado/",
+          "created": 1717280301,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6otopm",
+              "score": 7,
+              "body": "All tech companies use stock based compensation and are the most valuable companies in the world. When done right, the stock incentives are aligned with shareholders interest.",
+              "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6otopm/",
+              "created": 1717281298,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6ou0c9",
+                  "score": 12,
+                  "body": "Absolutely. Employee incentives are huge - for one it's a reason companies can hire the best talent. However it's still a real cost and should be considered as such. Even if the theory is true that it incentivizes shareholder-friendly employee behaviour, that's no different than cash expenses for things that increase shareholder value (as business expenses generally should)",
+                  "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6ou0c9/",
+                  "created": 1717281434,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l6ocyqs",
+      "score": 31,
+      "body": "They are the ones with the lava lamp security right?",
+      "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6ocyqs/",
+      "created": 1717274730,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6qabrf",
+          "score": 3,
+          "body": "Yes",
+          "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6qabrf/",
+          "created": 1717306062,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6qppf4",
+              "score": 1,
+              "body": "Sold!",
+              "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6qppf4/",
+              "created": 1717316680,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l6o9r3g",
+      "score": 79,
+      "body": "Skimming through the comments, the Reddit sentiment on average is negative so the answer to your question is yes.",
+      "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6o9r3g/",
+      "created": 1717273537,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6ogxgq",
+          "score": 26,
+          "body": "[deleted]",
+          "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6ogxgq/",
+          "created": 1717276194,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6ohrn6",
+              "score": -15,
+              "body": "Seriously -- they have no proprietary tech, they have no tech advantage, they have no ecosystem to keep customers. No one is moving to them, most are moving off. They will slowly die. Sincerely, someone who's worked cloud tech for over 15 years.\n\nRemember when Akamai was big?",
+              "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6ohrn6/",
+              "created": 1717276511,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6p2f69",
+                  "score": 12,
+                  "body": "Everything you just posted is false. I highly recommend you do your research again.",
+                  "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6p2f69/",
+                  "created": 1717284977,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l6opjo5",
+                  "score": 14,
+                  "body": "Akamai is still one of the largest CDNs in the world. They bought Linode too. It still is big, not was.",
+                  "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6opjo5/",
+                  "created": 1717279586,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l6q01t5",
+                  "score": 7,
+                  "body": "Opposite is true for everything you just said.",
+                  "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6q01t5/",
+                  "created": 1717300413,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l6ojepl",
+          "score": 8,
+          "body": "Reddit is just hive mind cramer.",
+          "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6ojepl/",
+          "created": 1717277150,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6rcgyz",
+              "score": 2,
+              "body": "Except Cramer is bullish on NET...",
+              "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6rcgyz/",
+              "created": 1717331951,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l6onefy",
+          "score": 3,
+          "body": "I mean reddit is generally negative lol. This is where I come when I have to stop myself from doing anything",
+          "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6onefy/",
+          "created": 1717278725,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l6potjj",
+          "score": 2,
+          "body": "Reddit is 100% entertainment",
+          "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6potjj/",
+          "created": 1717295004,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6p29s9",
+      "score": 14,
+      "body": "Cloudflare is a client of mega caps. Microsoft is using Cloudflare for functions of Microsoft Edge. It’s not a this company or that company absolutist economy when it comes to tech. They’re all beneficial from each other’s different aspects and functions in varying degrees. \n\nCloudflare currently has a lot of volume in put options and by trading patterns was projected to go down with a red market. Look at June 21st contracts to see the current anomalies. It seems like a great long term hold as they have their needs in the industry, but it does look like more fall to come short term.",
+      "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6p29s9/",
+      "created": 1717284913,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6p33v3",
+          "score": 4,
+          "body": "[deleted]",
+          "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6p33v3/",
+          "created": 1717285266,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6p3x6q",
+              "score": 4,
+              "body": "I don’t have a why it’s happening, just a what is happening. It’ll be an interesting day for the stock one way or another.",
+              "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6p3x6q/",
+              "created": 1717285612,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l6oula1",
+      "score": 9,
+      "body": "I hope so, I’m sandbagging at 130 average :(",
+      "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6oula1/",
+      "created": 1717281672,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6o77th",
+      "score": 7,
+      "body": "Yes.\nThat said, at that level of multiple they should be very profitable.\nCRWD is the only company in a similar ballpark and they do 40% FCF margin…\n\nNET is one of those « great company, questionable stock » conundrum…",
+      "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6o77th/",
+      "created": 1717272557,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6nuxdy",
+      "score": 15,
+      "body": "Yes I do",
+      "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6nuxdy/",
+      "created": 1717267871,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6nwaek",
+      "score": 11,
+      "body": "[deleted]",
+      "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6nwaek/",
+      "created": 1717268397,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6o0pts",
+          "score": -14,
+          "body": "Hold what? Your breath?",
+          "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6o0pts/",
+          "created": 1717270110,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6pfn0j",
+      "score": 3,
+      "body": "My take. Very reliant on SME by hooking them in on free plans or low cost plans. Net is playing the long game by reaping financially when it's customers scale up. The macro over the years after the ipo have not helped this fact.",
+      "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6pfn0j/",
+      "created": 1717290802,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6nxsik",
+      "score": 3,
+      "body": "Yeah probably. It seems like they're still firmly in the growing phase since their assets are growing at a similar rate to their liabilities. But it does seem like their assets are growing ever so slightly faster.",
+      "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6nxsik/",
+      "created": 1717268984,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6od58c",
+      "score": 8,
+      "body": "Short to Medium term, I think it's unlikely, and their stock price still has A LOT of room to fall. They are just like FSLY, essentially a CDN company with extras. But their core business is still selling a commodity (CDN service), which means they have to compete on price with razor thin margins. So just like FSLY, they can grow their revenue, but absolutely unable to make good profits. NET's valuation is much higher than FSLY for some reason, so that's why I think NET still have a lot of room to fall, and FSLY may have hit the bottom already.",
+      "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6od58c/",
+      "created": 1717274795,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6osbh4",
+      "score": 8,
+      "body": "Cloudflare is gold. At some point they will become a regular household bill or thats their goal. Just like you pay for internet you will have to pay for its security. Just buy and hold!",
+      "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6osbh4/",
+      "created": 1717280729,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6qvemz",
+          "score": 1,
+          "body": "Don’t understand this comment, why would any household pay for cloudflare? Isn’t it a B2B business? Showing my ignorance here.",
+          "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6qvemz/",
+          "created": 1717320991,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6qx8zu",
+              "score": 1,
+              "body": "As of now yes. Eventually it will go direct to consumer",
+              "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6qx8zu/",
+              "created": 1717322382,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6qyli2",
+                  "score": 3,
+                  "body": "In the form of what?",
+                  "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6qyli2/",
+                  "created": 1717323383,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lol8r31",
+                      "score": 1,
+                      "body": "your smarthouse getting haxed",
+                      "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/lol8r31/",
+                      "created": 1727126155,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l6nvxxq",
+      "score": 4,
+      "body": "yes with some considerations\n\n- cloudflare security (waf/anti bots) is easy to bypass with or without paid services so if they were able to improve that to the level of datadome/perimeterx \n\n- if they implemented more services (excluding current service offerings) to compete with AWS or another of the top clouds and made some deals with govts, in my country Chile the govt uses azure or gcp so CF is not even in the radar to expand its bussiness.\n\nso it could take a couple of years to achieve those stuff.",
+      "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6nvxxq/",
+      "created": 1717268261,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6owz2h",
+          "score": 1,
+          "body": "Please, datadome/perimeterx are jokes running on ai hype that can be bypassed with a budget of 15 bucks.",
+          "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6owz2h/",
+          "created": 1717282660,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6rkkr4",
+              "score": 1,
+              "body": "give me a repo to bypass the captcha of perimeterx ex. [https://www.walmart.com/blocked](https://www.walmart.com/blocked)\n\nfor cloudflare there are many working in github for free [https://www.reddit.com/r/webscraping/comments/1d69kh2/docker\\_image\\_providing\\_api\\_for\\_cloudflare/](https://www.reddit.com/r/webscraping/comments/1d69kh2/docker_image_providing_api_for_cloudflare/)",
+              "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6rkkr4/",
+              "created": 1717335761,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6rw07c",
+                  "score": 1,
+                  "body": "You don't need to bypass the captcha if you never trigger it. Use rotating proxies.",
+                  "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6rw07c/",
+                  "created": 1717340443,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l6sb8sl",
+                      "score": 1,
+                      "body": "if you do that with a lot of reqs (1000s reqs per min) is cheaper to bypass cf as it needs less ips and those ips doesn't need to be premium so bandwidth is a lot cheaper too, and if cf is configured with super anti bot mode you can use a free repo from git to auto solve the captcha for CF, but that is not available for perimeterx, i haven't check datadome yet but someone who works in scraping told that is more challeging.",
+                      "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6sb8sl/",
+                      "created": 1717346255,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l6o4oxj",
+      "score": 6,
+      "body": "They could become profitable, but only if they find other services they can sell.\n\nNobody will pay much for a simple CDN. If it becomes too expensive you just go to AWS Cloudfront or even host your own Nginx proxy with cache.\n\nI can't see them making much money.",
+      "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6o4oxj/",
+      "created": 1717271608,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6q0sei",
+          "score": 10,
+          "body": "Cloudflare was a simple CDN maybe 10 years ago. I recommend you do some research.",
+          "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6q0sei/",
+          "created": 1717300797,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6p3p8v",
+      "score": 1,
+      "body": "They can be profitable any time they want, but they are focused on expanding and building out new products.",
+      "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6p3p8v/",
+      "created": 1717285518,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6qbavr",
+      "score": 1,
+      "body": "Meanwhile my login keeps looping around and I can’t use the damn thing",
+      "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6qbavr/",
+      "created": 1717306655,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6rdbhp",
+      "score": 1,
+      "body": "I bought some recently. I feel like it’s not something that’s a sure thing but I like and use them myself and they basically power the entire internet at this point. Even if they fail I feel like Microsoft or someone would acquire them so it’s a win either way",
+      "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6rdbhp/",
+      "created": 1717332379,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6rllz9",
+      "score": 1,
+      "body": "Here are the key factors that will determine Cloudflare’s probability of achieving profitability: revenue growth rate, product portfolio, operational expense, customer loyalty, market position, general trends in the use and availability of the Internet globally, legal and other market-related constraints, and its financial strategy. The critical success factors are new market development, product differentiation and development, controlling operating expenses, customer retention and sales, strategic market positioning, world-class practices and compliance, local and global environment, and investment and profitability targets. Although, the key concerns that Cloudflare can deliver on these fronts and thereby become profitable in the near future.",
+      "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6rllz9/",
+      "created": 1717336214,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6t91wd",
+      "score": 1,
+      "body": "No.",
+      "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6t91wd/",
+      "created": 1717358766,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6o2miq",
+      "score": 2,
+      "body": "Probably not. Their margins will continue to get smaller as bandwidth gets cheaper and cheaper.",
+      "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6o2miq/",
+      "created": 1717270836,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6o0dg3",
+      "score": 1,
+      "body": "Doubtful with their current leadership and sales model.",
+      "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6o0dg3/",
+      "created": 1717269980,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6r8pww",
+      "score": 1,
+      "body": "Can someone tell me why someone would buy Cloudflare over something like Fastly? Both are CDN companies and Fastly is valued much much more favorably.",
+      "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6r8pww/",
+      "created": 1717329926,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6sosmp",
+          "score": 6,
+          "body": "Cloudflare stopped being just a CDN company awhile ago. They're pushing into network security and access with Zero Trust and partnering with Microsoft to do it.\n\n **Product**          | **Cloudflare** | **Fastly** |\n|----------------------|----------------|------------|\n| CDN                  | X              | X          |\n| WAF                  | X              | X          |\n| DNS                  | X              |            |\n| Domain Registrar     | X              |            |\n| Serverless Functions | X              | X          |\n| KV Store             | X              | X          |\n| Message Broker       | X              | X          |\n| Load Balancing       | X              | X          |\n| Static Site Hosting  | X              |            |\n| SASE / Zero Trust    | X              |            |\n| Object Storage       | X              |            |",
+          "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6sosmp/",
+          "created": 1717351255,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l6sbskk",
+          "score": 0,
+          "body": "Truth. I’m long Fastly at $8 - it’s honestly the perfect candidate for an assymetric risk equity at this point.  It’s possible AI unlocks some interesting edge compute use cases that require legacy CDNs to shift and consume more traffic / bandwidth.  \n\nAll they need to do is tap into some more growth and they could become a $3B- $5B market cap company again.  Anywhere from $25-40 per share.  Not to mention, the latent chance someone just acquires them to consolidate.  Guessing someone could do that at a $2.5B valuation. Around $20 a share.",
+          "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6sbskk/",
+          "created": 1717346459,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6ogd1e",
+      "score": 1,
+      "body": "Have my doubts.   There is a lot of competition and not sure what fundamental advantage Cloudflare has?\n\nKey is having lower cost and that is just not true for Cloudflare.\n\nTake Google for example.   They have all their own processors and protocols they use to lower their cost.\n\nhttps://www.theregister.co.uk/2016/02/09/google_processor/",
+      "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6ogd1e/",
+      "created": 1717275984,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6qz7r4",
+      "score": 1,
+      "body": "It's better for us all of they don't.",
+      "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6qz7r4/",
+      "created": 1717323846,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6t9ado",
+      "score": 1,
+      "body": "They are not yet? Something is seriously wrong with them then.",
+      "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6t9ado/",
+      "created": 1717358852,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6o5eqg",
+      "score": -3,
+      "body": "I kept beating the table that $NET is over valued and people kept dogging me. At one time it was 20X+ sales and just absurd.\n\nI rode the fun wave during 2020-2021 for $NET. Made some nice cash but knew to bail.\n\nWelp. Congrats on the dead money. \n\nEven if they increase revenue and profits, the valuation isn’t going to allow multiple expansion. Sorry, try again.",
+      "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6o5eqg/",
+      "created": 1717271872,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6pu696",
+      "score": 0,
+      "body": "[removed]",
+      "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6pu696/",
+      "created": 1717297498,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6ppkb0",
+      "score": -1,
+      "body": "Beware.\n\nhttps://robindev.substack.com/p/cloudflare-took-down-our-website",
+      "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6ppkb0/",
+      "created": 1717295348,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6sku0n",
+      "score": 0,
+      "body": "Nope. Google killed them with their updates.",
+      "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6sku0n/",
+      "created": 1717349814,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6qq154",
+      "score": -2,
+      "body": "CLOUDFLARE also willingly enables scammers worldwide by offering them free protection. They do it for the exposure, knowing that very little of it turns into revenue (has a cost though). Behind a good front, their ethics are deeply flawed.",
+      "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6qq154/",
+      "created": 1717316925,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6p1swo",
+      "score": -15,
+      "body": "I lost $17,000 to cloudflare calls during earnings. Basically since retail is doing terrible, cloudflare is doing terrible. Fuck cloudflare $NETRASH. Hope it goes bankrupt",
+      "permalink": "/r/stocks/comments/1d5trq9/do_you_think_cloudflare_net_could_eventually/l6p1swo/",
+      "created": 1717284710,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

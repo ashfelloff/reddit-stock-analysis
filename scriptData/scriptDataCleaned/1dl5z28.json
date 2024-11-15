@@ -1,0 +1,267 @@
+{
+  "title": "Finding Mispriced Call Options",
+  "score": 60,
+  "selftext": "Yesterday I posted about Tegna (TGNA ), with its high short-interest, and the ungodly amount of share buybacks that the company is doing. Finding that whole situation was mostly unintentional, although now I'm looking for similar management vs. short seller face-offs. My original goal was just to find cheaply priced call options. I didn't expect to find a fight in progress. I figured I would share with the community how I did that. If anyone else has a better strategy for finding them I would also love to hear it.\n\nI was getting annoyed at how often the market seems to price call options in such a manner that profiting off of them seems unlikely. I mean it does make sense that the market makers know what they are doing, at least most of the time. So my first thought was stocks with a high short interest, where the market is expecting a drop, could be a place to find cheap calls.\n\nI used this formula to screen for stocks with a high short interest:\n\nShort interest \\* Price >= Market Cap \\* 0.05\n\nShort interest being the total number of shares sold short multiplied by the share price to get the total dollar amount. Then comparing the dollar amount to the overall market cap.  Screening out stocks with less than 5% short interest when compared to market cap.\n\nI wanted to add another piece though, since while I was looking for cheap call options, I wanted mispricings. Not calls that are cheap because the company is dog shit and dying.\n\nSo there's this other formula I like to use:\n\nCash and Short Term Investments (Quarterly) + Total Receivables (Quarterly) >= Payables and Accrued Expenses (Quarterly) \\* 1.2\n\nWhen the government shut down all the shopping centers in the country because of COVID I got kicked in the balls hard because I owned a debt-heavy Shopping Center REIT that was trying to make a comeback. It went bankrupt. I learned a lesson there. I like that formula since the idea is that the company has enough money to pay its bills for the next year. That would seem common sense but a surprising number of corporations don't.\n\nThis yielded good results, but I noticed that if the stock had high short interests and a high PE, it seemed to indicate disagreement in the market about the stock's value, and the call options would be expensive.\n\nSo I added PE <= 10 to try and narrow it down to just the stocks that the market is willing to sell call options cheaply on.\n\nMuch like Tegna (TGNA) I did find numerous other corporations, including GM, with high short interest that were launching \"accelerated share buybacks\"  I guess it's not that uncommon for corporate CEOs to give the middle finger to short sellers. But in a lot of these cases, the options market again, isn't selling calls cheaply.\n\nI'm keeping my eyes peeled for another opportunity where management is fighting short sellers with massive buybacks and the company is of sound financial strength and calls are cheap. I don't only use the one standard for financial strength. After a stock pops up on the screening and I confirm the calls are selling cheaply, I start to dive into their financial statements. Looking at a lot of other things aside from the corporation's ability to pay their bills for the next year.\n\nThe professionals seem to know what they are doing most of the time. But boy is it sure delicious when they get it wrong. Especially with retail investors, watching, waiting, and ready to strike.\n\nI am curious if anyone else knows of a good way to find cheaply priced calls. My method is a bit labor intensive and slow for me to do.\n\n\\*edit\\*\n\nThere was a good point the comments, I wanted to add that I also look for stock where the market is selling calls that don't expire for a year or more. Long-term call options.\n\nAs I think more about his comment it might also be a good idea to wait for the share buybacks to have gone on for a long time. In the case of TGNA they bought back 25% of their shares last year. Doing this at the beginning of last year wouldn't have worked. So I think that should be a consideration with this strategy too. How long has the fight been dragging on for.",
+  "link_flair_text": "Discussion",
+  "id": "1dl5z28",
+  "num_comments": 34,
+  "created_utc": 1718981749,
+  "permalink": "/r/wallstreetbets/comments/1dl5z28/finding_mispriced_call_options/",
+  "comments": [
+    {
+      "id": "l9mgjpb",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 3 | **First Seen In WSB** | 1 week ago\n**Total Comments** | 22 | **Previous Best DD** | \n**Account Age** | 3 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1dl5z28/finding_mispriced_call_options/l9mgjpb/",
+      "created": 1718981754,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9mkykj",
+      "score": 12,
+      "body": "I'd love to know where all the cheap calls/puts went.  Seems like options are generally way more expensive than when I got into trading back in 2021.  Like the implied volatility is constantly high on every stock from shitcos to megacaps and daily multiple % swings in either direction are always priced in to everything.",
+      "permalink": "/r/wallstreetbets/comments/1dl5z28/finding_mispriced_call_options/l9mkykj/",
+      "created": 1718983296,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9mmuxv",
+          "score": 16,
+          "body": "As soon as any stock is mentioned here, the robots mining data here collate that data for market maker bots and they adjust, so when us regards go to buy, shit is too expensive.\n\nI have learned to give about a week for any decent play that comes from here, most retailers will have pulled out by then. For example, at one point some regard stock TNDM mentioned here, was as expensive as NVDIA options pre split some bag holder convinced many regards that it was about to moon because they had a blackout period and they would be bought.   \n  \nI am pretty sure most of them didn't make money ![img](emote|t5_2th52|4271)",
+          "permalink": "/r/wallstreetbets/comments/1dl5z28/finding_mispriced_call_options/l9mmuxv/",
+          "created": 1718983952,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9yt84d",
+              "score": 2,
+              "body": "I lost a coupled hundred dollars haha![img](emote|t5_2th52|4271)",
+              "permalink": "/r/wallstreetbets/comments/1dl5z28/finding_mispriced_call_options/l9yt84d/",
+              "created": 1719181133,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l9nkd59",
+          "score": 1,
+          "body": "Inflation baby",
+          "permalink": "/r/wallstreetbets/comments/1dl5z28/finding_mispriced_call_options/l9nkd59/",
+          "created": 1718995421,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l9mi6z4",
+      "score": 13,
+      "body": "I’m digging this idea. Nice work",
+      "permalink": "/r/wallstreetbets/comments/1dl5z28/finding_mispriced_call_options/l9mi6z4/",
+      "created": 1718982332,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9mjgpp",
+          "score": 5,
+          "body": "![gif](emote|free_emotes_pack|money_face)",
+          "permalink": "/r/wallstreetbets/comments/1dl5z28/finding_mispriced_call_options/l9mjgpp/",
+          "created": 1718982775,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l9mlt0o",
+      "score": 15,
+      "body": "rare useful wsb post",
+      "permalink": "/r/wallstreetbets/comments/1dl5z28/finding_mispriced_call_options/l9mlt0o/",
+      "created": 1718983588,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9ndwtd",
+      "score": 3,
+      "body": "This is the company that makes the jerk off eggs right?",
+      "permalink": "/r/wallstreetbets/comments/1dl5z28/finding_mispriced_call_options/l9ndwtd/",
+      "created": 1718993170,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9mjwsy",
+      "score": 4,
+      "body": "It's awesome to see someone on here actually do a little research.  Here is my feedback based off my experience.  Fair warning this isn't really a WSB answer.\n\nYou are essentially going down the path of value investing with your strategy.  I don't believe this is an idea strategy for buying call options.  I say this because as we all know... The market can stay irrational longer that you can stay solvent.\n\nIf you continue down this path you are going on and decide to buy long term stocks I think you will find much greater success.  Call options have a short window to become profitable.  If you find a company and you know it's a good buy it still may not increase in price for two years and as a result you may not make money even on a good company.\n\nIf you want to buy calls it might be more efficient to chase speculation and find catalysts.",
+      "permalink": "/r/wallstreetbets/comments/1dl5z28/finding_mispriced_call_options/l9mjwsy/",
+      "created": 1718982929,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9mkpds",
+          "score": 2,
+          "body": "I guess I left out an important bit, I'm also looking for stocks where I can buy calls that are don't expire for over a year. \n\nFor this one I found calls with a strike price of 17 that don't expire until mid December of (edit)2025.\n\nBut yes you are absolutely right, my value investor colors are showing.",
+          "permalink": "/r/wallstreetbets/comments/1dl5z28/finding_mispriced_call_options/l9mkpds/",
+          "created": 1718983206,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9mmcyr",
+              "score": 1,
+              "body": "What catalyst will cause this stock to jump 27% by the end of 2025?  I'm assuming you ment to say 2025 but correct me if I'm wrong.",
+              "permalink": "/r/wallstreetbets/comments/1dl5z28/finding_mispriced_call_options/l9mmcyr/",
+              "created": 1718983779,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l9mo0ha",
+                  "score": 1,
+                  "body": "I did, I talked about it in my old post yesterday. They bought back 25% of all shares from 2023 through Q1 this year. Buybacks equal to another 13% of all common stock is authorized for the rest of 2024. I’m guessing more is coming in 2025. \n\nThats a lot of buying power for someone to fight against in trying to force the price lower.",
+                  "permalink": "/r/wallstreetbets/comments/1dl5z28/finding_mispriced_call_options/l9mo0ha/",
+                  "created": 1718984351,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l9mpoy4",
+                      "score": 1,
+                      "body": "Yes I saw that.  I've been stalking you for the past 20 minutes on reddit lol.  Your research on the stock has been worth my time so thank you for that.\n\nWe are now almost done with Q2.  After Q1 they had roughly 11% of that 13% left that you referenced above.  I'm still not confident that this alone will cause that 27% increase in share price.\n\nAny idea what has caused the stock to fall this low?  You might be on to something with this ticker long term but it's scary that this is falling when everything else is up.",
+                      "permalink": "/r/wallstreetbets/comments/1dl5z28/finding_mispriced_call_options/l9mpoy4/",
+                      "created": 1718984923,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l9mrm9a",
+                          "score": 2,
+                          "body": "Given that the drop seems so removed from fundamentals I think its short seller activity. This is where it gets speculative for me. Since my thought is management will continue to authorize share buybacks. Shorting the stock will become less and less profitable then as the shorts move on with their lives the price recovers to a PE of 10. \n\nBut you’re correct the strategy i’m talking about is speculative. If I bought in a year ago my options would have expired and I would have had to buy in again.",
+                          "permalink": "/r/wallstreetbets/comments/1dl5z28/finding_mispriced_call_options/l9mrm9a/",
+                          "created": 1718985579,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l9myxvu",
+      "score": 2,
+      "body": "Market irrationality is a good criticism here, but in some cases it can work in your favor. \n\nNot exactly the same approach, but my search for underpriced options brought me to NOK where I bought some far out calls. Not too long after, it got mentioned here on WSB mid May.\n\nHere's the IV30 and the Historical Stock Price\n\nhttps://preview.redd.it/4885p0s8cy7d1.jpeg?width=393&format=pjpg&auto=webp&s=d6d27b19aaf3963c6dc524da25163ae499a2c707\n\nDespite the underlying staying relatively steady, the IV shot up and so did my calls.\n\nLooking back, I should have sold and reentered, but I held onto them.",
+      "permalink": "/r/wallstreetbets/comments/1dl5z28/finding_mispriced_call_options/l9myxvu/",
+      "created": 1718988083,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9n7wug",
+          "score": 2,
+          "body": "Nice, how did you find it?",
+          "permalink": "/r/wallstreetbets/comments/1dl5z28/finding_mispriced_call_options/l9n7wug/",
+          "created": 1718991134,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9nkcsx",
+              "score": 3,
+              "body": "It's not as robust as your approach, but I screen IV30 vs HV30 and IV60 vs HV60 to start. I try to find patterns of IV dipping below HV before jumping back up to a capturable difference before time value deteriation can set in. Then I look at some basic fundamentals (earnings, lowish P/E, financial statements) to try and get a gauge if there's a possibility the options are undervalued or the company is shit.\n\nhttps://preview.redd.it/i94xvbsiuy7d1.jpeg?width=1988&format=pjpg&auto=webp&s=d9f6980ceea10e364181539a64fa532a27f8e865\n\nI search for at least 6MO options and set a soft deadline of 2MO and hard one for 1MO. Ideally, the stock grows beyond expectations and intrinsic value is enough to capitalize, or at some point along the way, general consensus believes the stock is undervalued and then cash in on IV.\n\nAs a kicker, I try to find stocks that are on the fringe of being widely speculated on. Getting lucky with NOK was the perfect example. I still believe it would've jumped back up, but WSB really helped out.\n\nFord and WB didn't make the cut, but I jumped in on Kohl's at the dip and am considering AT&T.\n\nForgive me for not giveing more concrete numbers to all this, but I'm still fairly new to it and am experimenting to iron out the strategy.",
+              "permalink": "/r/wallstreetbets/comments/1dl5z28/finding_mispriced_call_options/l9nkcsx/",
+              "created": 1718995417,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l9nmioe",
+                  "score": 3,
+                  "body": "I'm just starting to read some books on trend following, I have a lot to learn on that front.",
+                  "permalink": "/r/wallstreetbets/comments/1dl5z28/finding_mispriced_call_options/l9nmioe/",
+                  "created": 1718996171,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l9uh1f7",
+      "score": 2,
+      "body": "You’re on the right track to looking at options like a professional, but as one person already pointed out, you’re essentially taking a classic value investing approach and levering it with options. \n\nYou want to be trading the price of the options themselves which means taking a volatility centered lens.\n\nCheck out this guy’s substack and research platform. Kris Abdelmessih, two decade options veteran and market maker. He runs an awesome substack, very mathy, that I only pretend to understand. Moontower AI was just launched as an options volatility research platform. I think it’s what you’re trying to do with your search filters. Subscribe to the substack and read through the Moontower Primer for a overview of this approach.\n\nhttps://moontowermeta.com/the-beauty-of-option-theory/\n\nhttps://app.moontower.ai/",
+      "permalink": "/r/wallstreetbets/comments/1dl5z28/finding_mispriced_call_options/l9uh1f7/",
+      "created": 1719107467,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9v8kym",
+          "score": 1,
+          "body": "Good looking out! Thanks man",
+          "permalink": "/r/wallstreetbets/comments/1dl5z28/finding_mispriced_call_options/l9v8kym/",
+          "created": 1719121857,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l9wweow",
+      "score": 2,
+      "body": "BYND 7/5 6.5C only .48 at last close",
+      "permalink": "/r/wallstreetbets/comments/1dl5z28/finding_mispriced_call_options/l9wweow/",
+      "created": 1719156143,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9msgdo",
+      "score": 2,
+      "body": "I doubt they're mispriced, but PFE options seem ridiculously cheap right now. The breakeven on Jan 26 calls is like 12.5% higher than the current share price. Probably a good reason for that, but I would expect it to spike that much at some point in the next 18 months.",
+      "permalink": "/r/wallstreetbets/comments/1dl5z28/finding_mispriced_call_options/l9msgdo/",
+      "created": 1718985869,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9migia",
+      "score": 1,
+      "body": "Interesting approach. Finding mispriced options can feel like searching for a golden ticket, right? \n\nLove the focus on short interest and buybacks - definitely signals some action brewing.  PE ratio is a good filter too for value plays. \n\nMight also want to check out unusual options activity - sometimes where there's smoke there's fire (or at least an opportunity).  \n\nRemember, no crystal ball, but sounds like you're on the right track digging into those financials.",
+      "permalink": "/r/wallstreetbets/comments/1dl5z28/finding_mispriced_call_options/l9migia/",
+      "created": 1718982424,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9mr3ds",
+      "score": 1,
+      "body": "My understanding is finding the intrinsic value of options is quite complicated, particularly when it comes to volatility assumptions.",
+      "permalink": "/r/wallstreetbets/comments/1dl5z28/finding_mispriced_call_options/l9mr3ds/",
+      "created": 1718985401,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9pmvb9",
+      "score": 1,
+      "body": "You should look into Put-Call parity for American options and then see if you find mispricing.",
+      "permalink": "/r/wallstreetbets/comments/1dl5z28/finding_mispriced_call_options/l9pmvb9/",
+      "created": 1719024565,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9rirs8",
+      "score": 1,
+      "body": "CNBC sometimes has straight up bangers you just have to leave it on and catch news when it breaks. They broke the Gilead hiv shot news way before the market reacted to a point I thought it was priced in but was just early af. Those calls went crazy!",
+      "permalink": "/r/wallstreetbets/comments/1dl5z28/finding_mispriced_call_options/l9rirs8/",
+      "created": 1719065118,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

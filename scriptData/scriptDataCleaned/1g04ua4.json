@@ -1,0 +1,1174 @@
+{
+  "title": "Internal OpenAI projections suggest no profits until 2029, MSFT allegedly entitled to 20% of OpenAI's revenue",
+  "score": 434,
+  "selftext": "* Microsoft-backed (NASDAQ:MSFT) OpenAI is not expected to earn annual profits until 2029, according to company financial documents obtained by The Information.\n* The documents show annual losses could spike as high as $14B in 2026, the report said.\n* The projections showed the company reaching annual revenue of $100B in 2029. OpenAI also expects to spend about $200B through the end of the decade, minus stock compensations. Losses between 2023 and 2028 are projected to total $44B.\n* The report also found that Microsoft is entitled to 20% of OpenAI's revenue.\n* Last week, OpenAI completed its latest funding round totaling $6.6B, which propelled the company to a $157B valuation. Microsoft and Nvidia (NVDA) both participated in the round.",
+  "link_flair_text": "Company News",
+  "id": "1g04ua4",
+  "num_comments": 120,
+  "created_utc": 1728515197,
+  "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/",
+  "comments": [
+    {
+      "id": "lr65gad",
+      "score": 327,
+      "body": "2029 is wild. They legit might not even exist by then with how much money they are hemorrhaging  ",
+      "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr65gad/",
+      "created": 1728515992,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lr6vmg8",
+          "score": 196,
+          "body": "OpenAi's largest expense is compute.\n\nCompute that they rent from their largest investor.\n\nIf MSFTs investment is at risk, you can bet good money that Daddy Satya will be providing a heavy discount on their Azure bills.\n\nFor now, they have very cheap access to capital, and Daddy likes his cloud computing revenues juiced.",
+          "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr6vmg8/",
+          "created": 1728525923,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lr731x5",
+              "score": 73,
+              "body": "Round tripping at its finest.",
+              "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr731x5/",
+              "created": 1728528941,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lr7c1ut",
+                  "score": 12,
+                  "body": "What’s round tripping?  I could google but want to learn from people first",
+                  "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr7c1ut/",
+                  "created": 1728533046,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lr7je27",
+                      "score": 81,
+                      "body": "If you owned two companies, Company A can sell $1 of services to Company B and then company B can sell the output of said service back to Company A for $1. If you did this 2 million times, each company can recognize $1M in revenue each but there's been no real business activity.",
+                      "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr7je27/",
+                      "created": 1728536902,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lraawi0",
+                          "score": 6,
+                          "body": "Oh it’s even worse than I imagined.  Cheers for this",
+                          "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lraawi0/",
+                          "created": 1728582990,
+                          "depth": 5,
+                          "replies": []
+                        },
+                        {
+                          "id": "lretrpn",
+                          "score": 1,
+                          "body": "Do taxes have to be paid on this?",
+                          "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lretrpn/",
+                          "created": 1728654486,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lr7j8ng",
+                      "score": -25,
+                      "body": "…be proactive and google it",
+                      "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr7j8ng/",
+                      "created": 1728536816,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lr7rio8",
+                          "score": 24,
+                          "body": "That person's explanation was good though",
+                          "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr7rio8/",
+                          "created": 1728541864,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lraased",
+                              "score": 1,
+                              "body": "So round tripping is revenue from investment that you can arbitrarily calculate to best serve your investment?\n\nThe fuck?!",
+                              "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lraased/",
+                              "created": 1728582955,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lr91adr",
+              "score": 10,
+              "body": "This feels like WeWork level of shenanigans and funny math.",
+              "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr91adr/",
+              "created": 1728567845,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lr797ni",
+              "score": 14,
+              "body": "Intercompany revenue does not reflect on the financial statements. Most of what you’re saying I will agree with, except the revenue juicing",
+              "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr797ni/",
+              "created": 1728531679,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lr88cfp",
+                  "score": 9,
+                  "body": "Is it actually intercompany revenue when they only have a minority stake in OpenAI?",
+                  "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr88cfp/",
+                  "created": 1728553716,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lr7brg3",
+              "score": 8,
+              "body": "If it came to it, I don't think MSFT would sacrifice a ton to keep OpenAI afloat as it was a 13B  investment, which is not astronomical for how much cash thry have and free cash flow they generate",
+              "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr7brg3/",
+              "created": 1728532902,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lr8e3d3",
+              "score": 3,
+              "body": "> OpenAi's largest expense is compute.\n\nWhy not R&D, i.e. salaries.\n\nCompute is massive, of course, but easier to nego.",
+              "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr8e3d3/",
+              "created": 1728557377,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lr8ym5x",
+              "score": 1,
+              "body": "they are looking to buy their own ai hw company. \n\nhttps://www.datacenterdynamics.com/en/news/openai-considers-making-its-own-ai-chips-acquiring-hardware-business/",
+              "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr8ym5x/",
+              "created": 1728566825,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lrdbttg",
+              "score": 1,
+              "body": "At this point makes more sense to invest in the shovel and pickaxe seller ,not the goldigger \n\nAnd by that I mean Microsoft and Nvidia",
+              "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lrdbttg/",
+              "created": 1728623736,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lre10vx",
+                  "score": 1,
+                  "body": "TSM is way better.",
+                  "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lre10vx/",
+                  "created": 1728640702,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lr82krx",
+              "score": 0,
+              "body": "Not all their DC space is from Microsoft",
+              "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr82krx/",
+              "created": 1728549621,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lr9x2x9",
+              "score": 0,
+              "body": "THIS.",
+              "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr9x2x9/",
+              "created": 1728578561,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lrajlxk",
+              "score": 0,
+              "body": "Compute is the largest expense (besides labor) for practically every SaaS company at this point. This isn't a revelation. Storage is practically free.",
+              "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lrajlxk/",
+              "created": 1728585802,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lr69htc",
+          "score": 23,
+          "body": "Losses show 44B in 5 years from the post. It seems high but I assume a lot of that will be assumed at low interest rates? If thats the case after 2029 depending on profit/assets it might not be too bad. Telco also invests heavily on towers but then make it back after build out.",
+          "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr69htc/",
+          "created": 1728517491,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lr6gwyd",
+              "score": 15,
+              "body": "They won't pay interest on it, they'll raise that money through additional equity offerings (i.e. venture capital). It does mean existing shareholders will be diluted though, and the amount of dilution does depend on interest rates, but it's very indirect.\n\nBut agreed, for a capital-intensive company with massive reach like OpenAI it's normal to accumulate large losses during the rapid growth phase. Uber accumulated a 30B loss before finally turning a profit. I'm guessing 44B would be a record, but it's potentially a much more significant company than Uber (its private valuation is already on par with Uber's valuation) so I could see it even going much higher than that.",
+              "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr6gwyd/",
+              "created": 1728520272,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lra6sv0",
+          "score": 2,
+          "body": "[deleted]",
+          "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lra6sv0/",
+          "created": 1728581678,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lraaril",
+              "score": 7,
+              "body": "I generally agree with you but there’s alot of negative sentiment on OpenAI. Right now their major advantage is they are a household name but similar to Skype/Zoom, that isn’t enough unless they continue to push momentum forward ",
+              "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lraaril/",
+              "created": 1728582947,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lr6ihel",
+          "score": 2,
+          "body": "Well, if we are assuming that they will meet profitability in 2029, we should not assume that they will continue to haemorrhage money. So their projection will be the losses will grow smaller by the year and reach that profit by 2029.",
+          "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr6ihel/",
+          "created": 1728520860,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lrdpnlg",
+          "score": 1,
+          "body": "Honestly, o1 is a leap ahead of everyone else in the space, and if they even make a major iteration on it before anyone else catches up their valuation is reasonable.",
+          "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lrdpnlg/",
+          "created": 1728632584,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lrf854t",
+          "score": 2,
+          "body": "This is why Sam has been pursuing profitability, closed-source models and corporate partnerships. \n\nI think he realized that the path to AGI was not going to feasibly happen with a nonprofit that creates open source software.\n\nTo run his company on the path towards AGI he needs many billions of dollars. So he can either rely on kind hearted redditors who want AI waifu girlfriends to donate to him, or, he can go ask investors for billions, in which case they’re going to imitate Kevin O’Leary: “how the hell am I going to get my money BACK? What are your SALES?”",
+          "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lrf854t/",
+          "created": 1728659430,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lr63wdb",
+      "score": 107,
+      "body": "Yikes lol, tbh the only people getting rich here are the early investors. If openAI ever goes public it’ll be retail and everyone else who ends up getting a bad deal per usual ofc.",
+      "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr63wdb/",
+      "created": 1728515406,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lr6e630",
+          "score": 67,
+          "body": "If they’re at $160b pre-IPO they’re gonna IPO at $300-400b easy and retail will get wiped out.",
+          "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr6e630/",
+          "created": 1728519250,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lr72mym",
+              "score": 4,
+              "body": "This",
+              "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr72mym/",
+              "created": 1728528765,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lr8oumw",
+              "score": 0,
+              "body": "or $500B-$1T",
+              "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr8oumw/",
+              "created": 1728562819,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lr7uc3f",
+          "score": 3,
+          "body": "That's assuming no more funding rounds. With losses of 44b expected in coming years I doubt they have enough cash to go without more VC fundraises..",
+          "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr7uc3f/",
+          "created": 1728543720,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lr8981p",
+          "score": 3,
+          "body": "It’s like that with every successful tech company",
+          "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr8981p/",
+          "created": 1728554300,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lr7w4pi",
+          "score": 7,
+          "body": "Sorry but r/stocks said this about RDDT, CART, ARM, CAVA in the last year, with so much conviction. Truth is no one knows how crazy a market can get.",
+          "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr7w4pi/",
+          "created": 1728544961,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lr95tr0",
+              "score": 8,
+              "body": "[deleted]",
+              "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr95tr0/",
+              "created": 1728569492,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lr96bpz",
+                  "score": 3,
+                  "body": "Depends if AI lives up to the hype. I mean some stuff its doing was unthinkable a few years ago…If all of big tech is going so hard on it I believe they must see something a little further than I",
+                  "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr96bpz/",
+                  "created": 1728569666,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lra7qg5",
+                  "score": 1,
+                  "body": "[deleted]",
+                  "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lra7qg5/",
+                  "created": 1728581978,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lrastq5",
+                      "score": 1,
+                      "body": "I'd like a new survey of what one stock the consensus of VC's would buy now.",
+                      "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lrastq5/",
+                      "created": 1728588773,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lr671fl",
+      "score": 56,
+      "body": "100B revenue by 2029 would be nuts.",
+      "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr671fl/",
+      "created": 1728516584,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lr88k1u",
+          "score": 8,
+          "body": "No, it's actually very low if their promises come even close to reality. \n\nIn 2023 just Google Search generated 175B in revenue. \n\nOpenAI has been promising to do way more than just replace some of Google search's market share.",
+          "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr88k1u/",
+          "created": 1728553857,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lrk93py",
+              "score": 2,
+              "body": "Lol, Google spent 25 years building an unassailable moat to get to $175B in annual search revenue. \n\nOpenAI cannot even retain its top talent. They are probably going to collapse.",
+              "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lrk93py/",
+              "created": 1728739473,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lr95we2",
+              "score": 2,
+              "body": "[deleted]",
+              "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr95we2/",
+              "created": 1728569518,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lr97z0b",
+                  "score": 6,
+                  "body": "Well there are multiple possible sources.\n\nAds - there was already a leak of OpenAI pitching Preferred Publisher Program \n\n>Additionally, members of the program receive priority placement and “richer brand expression” in chat conversations, and their content benefits from more prominent link treatments. Finally, through PPP, OpenAI also offers licensed financial terms to publishers.\n\nSubscriptions - they already promised investors they will be aggressively increasing the subscription prices in the next few years.\n\nAPI costs - Main source of income would probably be from B2B where other businesses will use their models. They seemed to be sure they could replace many white collar laborers in the near future.",
+                  "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr97z0b/",
+                  "created": 1728570231,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lrbqywp",
+              "score": 1,
+              "body": "I get your point but Google search is massive. 100B is a ton of revenue and would probably make OpenAi a 500B dollar company.",
+              "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lrbqywp/",
+              "created": 1728600280,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lr83aqs",
+          "score": 2,
+          "body": "Through what exactly? Ad revenue from AI suggested products?",
+          "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr83aqs/",
+          "created": 1728550135,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lr6u10g",
+          "score": -20,
+          "body": "100B will be peanuts by then",
+          "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr6u10g/",
+          "created": 1728525306,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lr8kq2a",
+              "score": 2,
+              "body": "This guy inflations",
+              "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr8kq2a/",
+              "created": 1728560889,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lr81kle",
+          "score": -2,
+          "body": "Right. What are they doing now? Maybe like 5 billion a year?",
+          "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr81kle/",
+          "created": 1728548901,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lr6f7w8",
+      "score": 57,
+      "body": "Save this comment.  Open AI will never turn a profit.",
+      "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr6f7w8/",
+      "created": 1728519640,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lr6x4be",
+          "score": 39,
+          "body": "kinda crazy when you think about that whole product roster of Open AI will eventually just another free product feature for Meta and Google.",
+          "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr6x4be/",
+          "created": 1728526516,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lr6zbw8",
+              "score": 18,
+              "body": "Yup. And most of their competition had money making divisions that can fund data centers. Open AI doesn't.",
+              "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr6zbw8/",
+              "created": 1728527395,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lr7w3u7",
+                  "score": 3,
+                  "body": "Well, that’s where Microsoft has come in",
+                  "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr7w3u7/",
+                  "created": 1728544944,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lr8kr3j",
+                      "score": 3,
+                      "body": "That isn't how that deal works.",
+                      "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr8kr3j/",
+                      "created": 1728560903,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lr76ggc",
+              "score": 9,
+              "body": "Even small companies like Zoom have pretty good AI in their product / roadmap (watched their keynote today and now think they are extremely undervalued)",
+              "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr76ggc/",
+              "created": 1728530428,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lra4det",
+                  "score": 2,
+                  "body": "What did Zoom roadmap?",
+                  "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lra4det/",
+                  "created": 1728580902,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lradd3b",
+                      "score": 3,
+                      "body": "Too much to put in a comment - look up “Zoomtopia recaps” for a full set of details. But I will say what jumped out to me:\n\nNon-native “AI Companion” that follows you through integrated partners via API (they showed a significant list). This was the biggest piece for me which demonstrated that they’re beyond meetings, and full asynch UCaaS innovators. They announced plans to monetize AI through premium features / an “AI studio,” but still include many features in their bundled plans. From an investor perspective, this was a huge missing piece for them, since I worried about how they would roll out so many expensive (to run) features and maintain their margins. \n\nIndustry solutions (healthcare, education, fed) - very differentiated products to solve for pain points in these massive TAMs vs giving everyone the same “meetings” platform. \n\nThe power of their contact center solutions, had some great use case demos. They specifically noted in an analyst session that they organically doubled their CX base in the past year alone.  This was striking to me because they did something similar with their PBX phone replacement ZoomPhone. Lots of TAM for taking, and doing it organically is a +1 on the quality of their product. \n\nEmployee engagement / EX: tailoring their software for front-line workers vs. being enterprise “knowledge worker” focused. They acquired a company named Workvivo, and were named preferred and only migration partner from META’s EX spindown. They demoed a use case that was very compelling in their keynote. \n\nThey are casting a very wide net on B2B and B2C.\n\nI also attended their investor sessions (virtually) and was very impressed with their long-term plan. They plan to maintain their gold standard gross margin, and improve operating and FCF margins which are already insanely impressive. I already sing their praises for their financial mgmt, and their new CFO seems like she’ll be able to help place bets on B2B and B2C sides (she was MSFT commercial CFO).",
+                      "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lradd3b/",
+                      "created": 1728583783,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lramw8g",
+                          "score": 3,
+                          "body": "Thanks for response and rec, I’ll check em out.",
+                          "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lramw8g/",
+                          "created": 1728586856,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lrazyqg",
+                              "score": 3,
+                              "body": "No problem! I follow the UCaaS space a bit and this kind of bucks the trend I’ve seen (race to the bottom on pricing due to feature parity). My gut tells me there’s potential for stock price reversal due to that, but it’ll depend on how well they monetize and execute the new stuff. They are FAST with feature releases though, they also publicly announced 3000+ feature pushes in the past year, so still keeping up lots of speed.",
+                              "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lrazyqg/",
+                              "created": 1728591046,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lr7wkwt",
+              "score": 4,
+              "body": "You dont think theres levels to this? Real question…\n\nI havent compared much but for example Claude is really good at some things and GPT o1 is very lifelike etc. Which model can be super efficient on little phone processors and so on.\n\nAnother example is self driving cars…whoever cracks it best will just sell to all car companies (probably with a number provider 2 for antitrust reasons)",
+              "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr7wkwt/",
+              "created": 1728545282,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lr9639e",
+                  "score": 1,
+                  "body": "[deleted]",
+                  "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr9639e/",
+                  "created": 1728569583,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lr97qoh",
+                      "score": 1,
+                      "body": "I didnt say they were. Just how the first and second to crack something usually control it nowadays. \n\nIos/android, instagram/tiktok , aws/azure and so on.",
+                      "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr97qoh/",
+                      "created": 1728570153,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lr76br6",
+          "score": 9,
+          "body": "RemindMe! 5 years \"OpenAi kaching or kaboom?\"",
+          "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr76br6/",
+          "created": 1728530370,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lr76gg7",
+              "score": 3,
+              "body": "I will be messaging you in 5 years on [**2029-10-10 03:19:30 UTC**](http://www.wolframalpha.com/input/?i=2029-10-10%2003:19:30%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr76br6/?context=3)\n\n[**11 OTHERS CLICKED THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Fstocks%2Fcomments%2F1g04ua4%2Finternal_openai_projections_suggest_no_profits%2Flr76br6%2F%5D%0A%0ARemindMe%21%202029-10-10%2003%3A19%3A30%20UTC) to send a PM to also be reminded and to reduce spam.\n\n^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%201g04ua4)\n\n*****\n\n|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|\n|-|-|-|-|",
+              "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr76gg7/",
+              "created": 1728530428,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lra6w8c",
+              "score": 2,
+              "body": "!RemindMe 3 years",
+              "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lra6w8c/",
+              "created": 1728581708,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lr76hxx",
+              "score": 1,
+              "body": "Kaboom or gets purchased for a vastly reduced value.",
+              "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr76hxx/",
+              "created": 1728530446,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lr78n4a",
+          "score": 3,
+          "body": "Yeah, people said the same thing about Palantir when it went public. How did that turn out? !Remindme 5 years",
+          "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr78n4a/",
+          "created": 1728531415,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lr8l1rb",
+              "score": 1,
+              "body": "Palantir had A LOT of people banging the drum that they would be profitable. They are also unique.",
+              "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr8l1rb/",
+              "created": 1728561044,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lr8ggwk",
+          "score": -1,
+          "body": "People said that about Google, Netflix, Facebook, Spotify... ",
+          "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr8ggwk/",
+          "created": 1728558706,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lr8ko54",
+              "score": -1,
+              "body": "When Netflix got going were there 5 other larger companies doing the same thing but with more money?",
+              "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr8ko54/",
+              "created": 1728560862,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lr8lfvk",
+                  "score": 0,
+                  "body": "I don't see anyone doing the same thing as OpenAi. Maybe in their imagination but currently their product is lightyears ahead of anything coming from Google, Apple et al. ",
+                  "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr8lfvk/",
+                  "created": 1728561233,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lr8qxk2",
+                      "score": 3,
+                      "body": "Open AI has 4 big problems. 1) They require everyone else's data. 2) They have no money making product or moat 3) Their product exists in the heads of the employees that keep leaving 4) Their most famous product is a consumer product that is free while requiring insane resources to run.\n\n\nOne of the big tech players will just hire away a few of their employees and build a better version.",
+                      "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr8qxk2/",
+                      "created": 1728563728,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lr922xj",
+                          "score": 1,
+                          "body": "1) welcome to tech. They already signed deals with plenty of publishers and news sources. \n\n\n2) simply not true. They are already selling their Ai b2b. That will explode with time.  \n3) again you can make the same argument for Facebook et al. First mover advantage enters the chat. How long did it take apple and Disney to start competing with Netflix? And coding a streaming platform is 100 simpler than AI. \n\n\nPlus the fact that you didn't even mention OpenAi's biggest obstacle tells me you didn't really do your research. Spoiler : it's the corporates legal structure. ",
+                          "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr922xj/",
+                          "created": 1728568139,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lr93295",
+                              "score": 0,
+                              "body": "You should really look up the details on how the \"deals\" OpenAI negotiated actually work. For example the Apple deal.\n\n\nhttps://fortune.com/2024/06/13/apple-not-paying-openai-chatgpt-millions-users-iphones-devices/",
+                              "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr93295/",
+                              "created": 1728568496,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lr940i6",
+                                  "score": 1,
+                                  "body": "Is Apple a publisher or a newssource? That deal has nothing to do with what we were talking about. ",
+                                  "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr940i6/",
+                                  "created": 1728568840,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "lr9l5wr",
+                                      "score": 0,
+                                      "body": "Wait, you think publishers are paying OpenAI?\n\nDude, OpenAI is paying the publishers for access. They are not making any profit.",
+                                      "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr9l5wr/",
+                                      "created": 1728574657,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "lr9ow3p",
+                                          "score": -2,
+                                          "body": " I brought up deals with publishers regarding to your concern in  point 1) that they require everyone else's data. Specifically hightlited as a reply to 1). \n\n\n\nIt can't be that hard to comprehend. \nI'm clearly wasting my time here. \n\n\nWe can simply agree to disagree. \n\n\nRemindMe! 7 years ",
+                                          "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr9ow3p/",
+                                          "created": 1728575870,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lr69cdz",
+      "score": 21,
+      "body": "I've read the OpenAI agreement and it says nothing about revenue sharing.",
+      "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr69cdz/",
+      "created": 1728517435,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lr6hbhq",
+          "score": 19,
+          "body": "https://www.theverge.com/2023/1/23/23567448/microsoft-openai-partnership-extension-ai\n\n> Rumors of this deal suggested Microsoft may receive 75 percent of OpenAI’s profits until it secures its investment return and a 49 percent stake in the company. \n\nIt's been rumored to be a part of the deal in one way or another for a while now.",
+          "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr6hbhq/",
+          "created": 1728520425,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lr6q4vw",
+              "score": 25,
+              "body": "75% of profits vs 20% of gross revenues aren’t even in the same ball park of rumors.\n\nThe latter is basically a juiced royalty agreement.",
+              "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr6q4vw/",
+              "created": 1728523792,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lr77kk4",
+                  "score": 9,
+                  "body": "*until paid off\n\nA fucking 20% royalty is CRIPPLING lol.",
+                  "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr77kk4/",
+                  "created": 1728530933,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lr6bgd8",
+          "score": 3,
+          "body": "If that's a real thing then I'm also shocked that 1) OpenAI would ever agree to something so stupid when they aren't going to be profitable for so long, and 2) That this wouldn't have been widely well known already.",
+          "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr6bgd8/",
+          "created": 1728518220,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lr7s2p7",
+          "score": 1,
+          "body": "They absolutely have revenue sharing but in the other direction. Azure OpenAI. \n\nThe numbers probably cite a gross revenue figure in the top which includes the Azure hosted OAI services. So you got to take out Microsoft’s cut of it.",
+          "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr7s2p7/",
+          "created": 1728542227,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lr96lnw",
+              "score": 1,
+              "body": "Yes but that's not \"revenue sharing\" at all. This is a misinterpretation. Technically, Microsoft gains equal revenue to the Azure Credits it provides.  That's not new revenue, in theory.",
+              "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr96lnw/",
+              "created": 1728569760,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lr64d7l",
+      "score": 15,
+      "body": "Random, but is that 2029 $100B in today’s dollars?",
+      "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr64d7l/",
+      "created": 1728515584,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lr79285",
+          "score": 25,
+          "body": "The difference between those is probably within the margin of error of the estimate anyway.",
+          "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr79285/",
+          "created": 1728531610,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lr9apls",
+          "score": 2,
+          "body": "Usually forward projected estimates are nominal.",
+          "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr9apls/",
+          "created": 1728571164,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lr79osj",
+      "score": 10,
+      "body": "How much are they going to have to charge people for a Chat GPt subscription to make a profit? 50$/month? 75$??? I guess it depends on how many users they have, but with compute costs it'll be difficult to turn a profit.",
+      "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr79osj/",
+      "created": 1728531902,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lr7n5m2",
+          "score": 8,
+          "body": "I'd be shocked if their profits were even 10% through subscriptions from individuals. B2B services will make up the majority of their revenue if they are to end up turning a profit.",
+          "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr7n5m2/",
+          "created": 1728539103,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lrg5154",
+              "score": 3,
+              "body": "Similar with Amazon, their AWS makes them way more profit than the consumer retail business.",
+              "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lrg5154/",
+              "created": 1728670114,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "ltd0yfm",
+              "score": 1,
+              "body": "Anthropic is very strong in B2B.  I suspect B2B customers will be more price-sensitive, and the moats will be narrower there.  Think about it -- if you're spending thousands or millions of dollars, you're going to shop around.  If a competitor is cheaper, just get your AI code assistant to rewrite all your API calls and maybe you can save some cash.",
+              "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/ltd0yfm/",
+              "created": 1729699707,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lr7z72m",
+          "score": 2,
+          "body": "They prolly earn a major chunk of revenue through b2b contracts.\n\nCopilot is based on openai models which means all of Office 365 AI offerings are based on openai models.",
+          "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr7z72m/",
+          "created": 1728547191,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lr7wppn",
+          "score": 0,
+          "body": "Depending on the quality of videos, audio, programming, teaching, answering calls, healthcare…I think the sky is the limit.\n\nAlso I think compute costs will either shrink or what we have by then is truly mind blowing. Simply cant be both those things.",
+          "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr7wppn/",
+          "created": 1728545378,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lr7wsdb",
+      "score": 5,
+      "body": "RemindMe! 1 year\n\nTSLA 2021 vibes all over the thread.",
+      "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr7wsdb/",
+      "created": 1728545431,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lr6yyer",
+      "score": 14,
+      "body": "$100B annual revenue in 5 years would be insane considering they were under $2B last year. We’ve genuinely never seen anything like it. It’d  basically put them where NVDA is at now, and they’d be catering to all the same megacap companies. \n\nAuthor of the article is completely incompetent if they think taking 6 years to turn a profit when you’re 50x’ing your revenue is a bad thing.",
+      "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr6yyer/",
+      "created": 1728527247,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lr89p8z",
+          "score": -1,
+          "body": "Well 100B on its own sounds insanely high, but after some thinking it actually sounds like they don't believe their AI will be able to replace anywhere near as many products/services as they were promising.\n\nIf by 2029 their revenue is just $100B it means they don't have the conviction to take a majority of market share in search business.\n\nGoogle search on its own generated revenue of 175B in 2023.",
+          "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr89p8z/",
+          "created": 1728554615,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lr8tcho",
+              "score": -1,
+              "body": "Not sure I agree with this argument. BlackBerry’s revenue was still increasing 5 years after Apple released the iPhone, and they existed as a dominant player in the phone market for almost 10 years. You have to understand the scalability here, and that while a 50x in revenue is gigantic, it’s not enough to take the entire market. But OpenAI generating $100B annual revenue in 5 years and them believing their AI will replace many products/services aren’t mutually exclusive. It’s just going to take more than 5 years.",
+              "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr8tcho/",
+              "created": 1728564741,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lr8u89c",
+                  "score": 0,
+                  "body": "Well that was my point. With annual revenue of 100B they are predicting the AI adoption to be way slower than many predicted.",
+                  "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr8u89c/",
+                  "created": 1728565100,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lr8xtjl",
+                      "score": 3,
+                      "body": "No one was predicting Google to be overtaken by OpenAI in 5 years lol. Not to be blunt, but I work in the industry and anyone trying to downplay what OpenAI is doing is clearly uneducated in the matter. Getting from effectively 0 revenue to $100B within a decade would make them the most successful company of all time. There’s no other company we’ve ever seen even remotely close.",
+                      "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr8xtjl/",
+                      "created": 1728566521,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lr8zu7t",
+                          "score": 1,
+                          "body": ">No one was predicting Google to be overtaken by OpenAI in 5 years lol.\n\nSee a dozen people in /r/singularity do it daily. But there are many crazy people there.\n\n>Getting from effectively 0 revenue to $100B within a decade would make them the most successful company of all time.\n\nWell maybe. Wouldn't they also lose the most money any company ever did on the way there?",
+                          "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr8zu7t/",
+                          "created": 1728567296,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lr88ojp",
+      "score": 6,
+      "body": "No one went broke going long MSFT.",
+      "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr88ojp/",
+      "created": 1728553940,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lr8ellv",
+          "score": 5,
+          "body": "Peep the Ballmer years",
+          "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr8ellv/",
+          "created": 1728557668,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lr9o1l0",
+              "score": 1,
+              "body": "Still not broke...",
+              "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr9o1l0/",
+              "created": 1728575595,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lra8dbv",
+          "score": 2,
+          "body": "I aint rich either tho lol   In all seriousness,  I'm impatient with msft,  but I've only ever made money by shutting the fuck up and waiting.  So I wait.",
+          "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lra8dbv/",
+          "created": 1728582181,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lrar0m4",
+              "score": 2,
+              "body": "The market always wins.  Go long, be strong, get paid.  Diversification is for the weak and Warren Buffet.  Be Arkk or be Berkshire Hathaway",
+              "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lrar0m4/",
+              "created": 1728588191,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lr6pegu",
+      "score": 2,
+      "body": "I dont see how openai even able to breakeven with purely generative ai unless they manage to find a way to penetrate google’s search business",
+      "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr6pegu/",
+      "created": 1728523508,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lr8lfkg",
+      "score": 2,
+      "body": "Too big to fail. But who’s going to make money here besides investors.",
+      "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr8lfkg/",
+      "created": 1728561229,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lr9w8y0",
+      "score": 3,
+      "body": "OpenAI looking like a shell company used by MSFT and NVDIA to hide losses at this point",
+      "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr9w8y0/",
+      "created": 1728578292,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lr7v6zb",
+      "score": 3,
+      "body": "Noone here understands that OpenAI is literally building ASI and they are on track to reach their goal this decade. This is not about a chatbot.",
+      "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr7v6zb/",
+      "created": 1728544309,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lr83ozq",
+          "score": 3,
+          "body": "Chatbot is the beer drinking app of ai. Just the beginning. We will laugh about this in decades of how small our thinking was.",
+          "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr83ozq/",
+          "created": 1728550417,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lreb036",
+      "score": 1,
+      "body": "Lol. Bbbbbbbbuuuuutttt they’re gonna overtake google search. Ok",
+      "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lreb036/",
+      "created": 1728646586,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lr80e12",
+      "score": 1,
+      "body": "$14 billion annual losses good god",
+      "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr80e12/",
+      "created": 1728548049,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lr85xyt",
+          "score": 3,
+          "body": "Insane. Meta google etc was producing free cash flow from the start with very little capital needed to grow Rev.",
+          "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr85xyt/",
+          "created": 1728552026,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lr7uvry",
+      "score": 1,
+      "body": "This is total clown word that somebody or something is willing to eat these losses for that long.",
+      "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr7uvry/",
+      "created": 1728544094,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lr6dwow",
+      "score": -10,
+      "body": "$100b in revenue by 2029 is essentially where Nvidia is at now (granted Open AI’s gross margins would be much lower). Nonetheless it would be a super quick growth rate. I’m fairly confident they’ll survive with all this backing. Altman is also proven.\n\nBtw, I think Microsoft’s terms are a bit different. Original reporting is something like 75% of revenues until they get their investment back and then 50% of revenues capped at 100x. Something unique like that.",
+      "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr6dwow/",
+      "created": 1728519152,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lr6ucl5",
+          "score": 18,
+          "body": "Altman is proven in what exactly? He had a tiny exit 12 yrs ago for his startup Loopt which of course no one has heard of today.",
+          "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr6ucl5/",
+          "created": 1728525431,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lr6wc75",
+          "score": 8,
+          "body": "Lol Altman is proven. What about worldcoin? Did that shit take off?",
+          "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr6wc75/",
+          "created": 1728526206,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lr8h0cv",
+      "score": -2,
+      "body": "ChatGPT is absolutely incredible. The app has replaced my use of safari and chrome and literally out of the google search bull crap.",
+      "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr8h0cv/",
+      "created": 1728558994,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lr7wkv4",
+      "score": -3,
+      "body": "How the fuck do you agree to buy 49% of a company and only get 20% of the revenue? \n\nI guess MSFT was so desperate to not miss the AI hype train like they did with smartphone 15 years ago they were willing to give openAI a sweetheart deal.",
+      "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr7wkv4/",
+      "created": 1728545281,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lr8a59k",
+          "score": 7,
+          "body": "20% revenue is great. Especially if the company makes negative profits.\n\nBut even for profitable business.\nIf you look at Microsoft for example and have the option of taking 49% of their profits or 20% of their revenue you should absolutely take the revenue. You would make way more money.\n\nDon't also forget that all the computer costs OpenAI is paying go directly to Microsoft for Azure services.",
+          "permalink": "/r/stocks/comments/1g04ua4/internal_openai_projections_suggest_no_profits/lr8a59k/",
+          "created": 1728554912,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "stockTickers": {
+    "post_summary": "OpenAI is not expected to be profitable until 2029, with Microsoft entitled to 20% of its revenue.",
+    "companies": [
+      "OpenAI",
+      "Microsoft",
+      "Nvidia"
+    ],
+    "tickers": [
+      "MSFT",
+      "NVDA"
+    ],
+    "main_ticker": [
+      "MSFT"
+    ]
+  },
+  "sentimentAnalysis": {
+    "post_summary": "OpenAI is not expected to make profits until 2029 with potential large annual losses, while Microsoft is entitled to 20% of OpenAI's revenue.",
+    "stock_recommendations": "The user does not make any specific buy or sell recommendations.",
+    "is_recommending_stock_buying_or_selling": false,
+    "buy_or_sell": null,
+    "sentiment_summary": "There is a neutral sentiment as the post discusses financial projections without making specific stock recommendations.",
+    "sentiment": "neutral"
+  }
+}

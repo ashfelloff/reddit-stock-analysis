@@ -1,0 +1,620 @@
+{
+  "title": "Stock Market Cheat Sheet - Peer Evaluation",
+  "score": 242,
+  "selftext": "I was dumb enough to actually test the theory on front page\n\nData: Sept 1997 - May 2017 Daily Spy and Spy 500 Future data.\n\nAssuming the following:\n\n* Change % is measured in (Open price - Close price)/(Open Price)\n* Green is defined as Change % > 0.5%\n* Red is defined as Change % < -0.5%\n* Crab is anything in between; -0.5% < Change % < 0.5%\n\nMarked in bold is what the OP claimed to be the SPY performance the day after:\n\nGreen Today + Green Futures:\n\n30 counts total. 37% Green Tomorrow, **23% Crab Tomorrow**, 40% Red Tomorrow.\n\nGreen Today + Crab Futures:\n\n234 counts total. 22% Green Tomorrow, 48% Crab Tomorrow, **30% Red Tomorrow**\n\nGreen Today + Red Futures:\n\n949 counts total. **23% Green Tomorrow**. 52% Crab Tomorrow. 25% Red Tomorrow\n\nCrab Today + Green Futures:\n\n283 counts total. **29%** **Green Tomorrow**. 42% Crab Tomorrow. 29% Red Tomorrow\n\nCrab Today + Crab Futures:\n\n1827 counts total. 20% Green Tomorrow. 60% Crab Tomorrow. **20% Red Tomorrow**\n\nCrab Today + Red Futures:\n\n452 counts total. 25% Green Tomorrow. **56% Crab Tomorrow**. 19% Red Tomorrow\n\nRed Today + Green Futures:\n\n901 counts total. 33% Green Tomorrow. **39% Crab Tomorrow**. 28% Red Tomorrow\n\nRed Today + Crab Futures:\n\n248 counts total. **27% Green Tomorrow**. 48% Crab Tomorrow. 25% Red Tomorrow\n\nRed Today + Red Futures:\n\n25 counts total. 32% Green Tomorrow. 36% Crab Tomorrow. **32% Red Tomorrow.**\n\n**TLDR**: u/Slick_MF_iG **is full of shit**\n\n# ",
+  "link_flair_text": "Discussion",
+  "id": "1er1zno",
+  "num_comments": 67,
+  "created_utc": 1723535109,
+  "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/",
+  "comments": [
+    {
+      "id": "lhvlgrg",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 1 | **First Seen In WSB** | 5 days ago\n**Total Comments** | 4 | **Previous Best DD** | \n**Account Age** | 4 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhvlgrg/",
+      "created": 1723535112,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhvn2gf",
+      "score": 81,
+      "body": "So what your saying is thetagang, er crabgang win most days?",
+      "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhvn2gf/",
+      "created": 1723536181,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lhvneyl",
+          "score": 24,
+          "body": "im sure there are intraday opportunities, but just looking at open/close, yes.",
+          "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhvneyl/",
+          "created": 1723536420,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lhyaix1",
+              "score": 14,
+              "body": "Thanks on the good DD, because you're the type of regard WSB deserves, but not the one it needs ever. So they'll hate you. Because you can take it. Because you're not [our hero](https://np.reddit.com/r/wallstreetbets/comments/1epojbl/intel_guy_gets_inducted_into_the_wsb_hall_of_fame/). yadda yadda yadda. A dark regardegen.\n\nI'd favor banning Slick_MF_iG if they posted in [DD] instead of just under [Meme]. Upon reading it, I instantly thought it was the [stupidest post of the day](https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNzc2NTI5OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTczMzYyODc0Nn0.2ciojZ5JcOsyHJjBhvK3DgUjvg2ghmArzDBblfRGd-E/img.png?width=800&quality=85) because it offered 0 advantage to OP but only made the collective community dumber because a few fucking regards wouldn't get that it's a fucking joke. It was so fucking dumb I didn't even bother to post in the comments of that thread. \n\nThat said, I can offer some insight on thetagang. They usually would win most of the time because they aren't going for the flashy 10x, the hail marry pass, the beyond half court 3pt shot, etcetc. The Thetagang I see and participate with are a mix/combination of feeding fish, an underground casino, and janitor. They do menial shit while taking small risks with clear downsides so they can win more than they lose. Whether they are in the red or black doesn't come down to the number of wins because options expire worthless more often than not. The make/break is on how much opportunity cost they gave up to run their options instead of investing, how bad they lose the few times they do lose, and if they bought adequate protection for the cases they lost.",
+              "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhyaix1/",
+              "created": 1723574579,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lhzmed5",
+                  "score": 5,
+                  "body": "Yup - I also took it as a joke, but the comment section had me spooked. Plenty of people took it seriously as solid financial advice.",
+                  "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhzmed5/",
+                  "created": 1723591543,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lhw18oo",
+      "score": 67,
+      "body": "Join WSB for 2 months + Post WSB Call  = Red Tomorrow   \n\nJoin WSB for 2 months + Post WSB Put  = Green Tomorrow\n\nAccuracy 100% back tested 2 months. No need to look further.",
+      "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhw18oo/",
+      "created": 1723545493,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lhwef6s",
+          "score": 15,
+          "body": "You forgot - post WSB shares = Intel drops 30%",
+          "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhwef6s/",
+          "created": 1723551996,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lhvmsc6",
+      "score": 18,
+      "body": "or flip a coin. Or get a magic 8 ball.   \n[Original Magic 8 Ball (magic-8ball.com)](https://magic-8ball.com/)",
+      "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhvmsc6/",
+      "created": 1723535993,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhwclev",
+      "score": 14,
+      "body": "Can you really call  a 0,5% change on the spy a crab day ?",
+      "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhwclev/",
+      "created": 1723551193,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lhxyng4",
+          "score": 5,
+          "body": "if the nasdaq 100 was perfectly liner in progression we would get 252 market days a year of +0.075% (1.00075\\^252= 1.207) 20.7%",
+          "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhxyng4/",
+          "created": 1723570830,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lhystyo",
+              "score": 2,
+              "body": "Yes this ! I think a more empirical way would be to call a 0,2% change in either direction a crab day",
+              "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhystyo/",
+              "created": 1723580383,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lhwr120",
+      "score": 11,
+      "body": "Isnt 0.5% a bit high for spy",
+      "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhwr120/",
+      "created": 1723556894,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhvx0f0",
+      "score": 7,
+      "body": "I also have a theory. The test subjects brain function is directly inversely proportional to his believe in financial theories of broke mfs who don't use them but love writing about or sell them.",
+      "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhvx0f0/",
+      "created": 1723542882,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhw4nlo",
+      "score": 8,
+      "body": "Nice, hopefully people see this post before they go all in on the other one",
+      "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhw4nlo/",
+      "created": 1723547400,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lhxyx80",
+          "score": 0,
+          "body": "![img](emote|t5_2th52|4271)",
+          "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhxyx80/",
+          "created": 1723570914,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lhw9xij",
+      "score": 6,
+      "body": "So you're saying we've got crabs",
+      "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhw9xij/",
+      "created": 1723549984,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhy1n6f",
+      "score": 4,
+      "body": "Do 0.1% for crab day",
+      "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhy1n6f/",
+      "created": 1723571761,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhvr435",
+      "score": 9,
+      "body": "You’re doing God’s work",
+      "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhvr435/",
+      "created": 1723538926,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhw50wq",
+      "score": 2,
+      "body": "So today's a crab day?",
+      "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhw50wq/",
+      "created": 1723547595,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lhxqtfy",
+          "score": 1,
+          "body": "Is it?",
+          "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhxqtfy/",
+          "created": 1723568405,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lhxqz6u",
+              "score": 1,
+              "body": "Nope. Greeeeeeeen Day!!!!",
+              "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhxqz6u/",
+              "created": 1723568454,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lhw6gom",
+      "score": 2,
+      "body": "![img](emote|t5_2th52|4271)",
+      "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhw6gom/",
+      "created": 1723548328,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhzgvbe",
+      "score": 2,
+      "body": "Ah. Will delete the screenshot. Thanks.",
+      "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhzgvbe/",
+      "created": 1723589466,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "li1bwx1",
+      "score": 2,
+      "body": "My initial reaction was to looms for anything over 50% then I realize it was all crabs. How do I profit off of crab options? What broker offers them?",
+      "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/li1bwx1/",
+      "created": 1723618658,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lidet12",
+      "score": 2,
+      "body": "I believe your methodology is flawed, change percent should be based around yesterday's high to the next days high, this tells a lot more about actual trade opportunities. If you look at a daily candle plot for most assets you'll see many days where open and close are very tight yet the day still had a high and/or low price considerably distant from open price.",
+      "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lidet12/",
+      "created": 1723794100,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lkry0kt",
+          "score": 1,
+          "body": "Yep and I being a regard did some more research\n\nLet's take for example some random day in the past and assume we want to guess what may 11th will be\n\nMay 10th was red.\n\nTo determine whether futures was red, green or crab, We should look at futures information only for may 10th at 6 PM (when the futures market opens) to may 11th at 930 AM and cut it off there (when the futures market and regular market are both open) not the whole futures session from May 10th at 6 PM to may 11th at 5 PM (when the futures market closes). OP didn't mention whether they did it or not.. Because if they looked at the whole futures session it is pointless",
+          "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lkry0kt/",
+          "created": 1725072234,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lhvmddv",
+      "score": 5,
+      "body": "Op is the guy at party that spoil your jokes with monotone facts.",
+      "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhvmddv/",
+      "created": 1723535715,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lhvmtxo",
+          "score": 22,
+          "body": "u guys get invited to parties?",
+          "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhvmtxo/",
+          "created": 1723536022,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lhy69ct",
+              "score": 1,
+              "body": "It's OK..  You're probably too busy crunching numbers to go anyway. ![gif](emote|free_emotes_pack|joy)",
+              "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhy69ct/",
+              "created": 1723573220,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "li1c7pz",
+              "score": 1,
+              "body": "Change crab to +-.25 newb",
+              "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/li1c7pz/",
+              "created": 1723618844,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lhxz0vv",
+          "score": 1,
+          "body": "jokes on you i love monotone facts",
+          "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhxz0vv/",
+          "created": 1723570946,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lhvnlau",
+      "score": 1,
+      "body": "Neat to see, I might try to do it for several different scenarios depending on IV, with green/red re-defined as 0.4%, and for different ETFs.",
+      "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhvnlau/",
+      "created": 1723536538,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhw8tlh",
+      "score": 1,
+      "body": "So just inverse?",
+      "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhw8tlh/",
+      "created": 1723549467,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhxxp1f",
+      "score": 1,
+      "body": "TLDR: In all scenarios, its a higher chance of every day being Red or Crab, than the chance of it being green.",
+      "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhxxp1f/",
+      "created": 1723570533,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lhy6u7z",
+          "score": 2,
+          "body": "It's kinda remarkable that the market is trending upwards under those statistics. \n\nMight have to consider the frequency of movements  ranging beyond  1 standard deviation on each green movement vs. red movement.",
+          "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhy6u7z/",
+          "created": 1723573403,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "li1c01l",
+          "score": 2,
+          "body": "Nope. That's impossible. His variables are wrong. Crab isn't defined correctly.",
+          "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/li1c01l/",
+          "created": 1723618711,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "liqny5z",
+          "score": 1,
+          "body": "isn't op's % change formula just the intraday % change? not from previous close to current close change?",
+          "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/liqny5z/",
+          "created": 1723999962,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ljbyoz4",
+          "score": 1,
+          "body": "Hmmm that doesn’t make sense.  The market goes up on average each day over the very long term so more days should be green or positive crab then red or negative crab.",
+          "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/ljbyoz4/",
+          "created": 1724302741,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lhxy4xv",
+      "score": 1,
+      "body": "Thank you for your service",
+      "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhxy4xv/",
+      "created": 1723570670,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhxy5o9",
+      "score": 1,
+      "body": "Could you imagine a universe where it was that formulaic and simple? Everyone would be a millionaire and we'd have inflation like you've never see before then societal collapse due to hyper inflation.",
+      "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhxy5o9/",
+      "created": 1723570677,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhy5ktf",
+      "score": 1,
+      "body": "Very interesting little bit of insanity.\n\nIt's awesome that you tested it out, but you're still freaking insane. Seriously, the stuff wsb'ers get up to in their moments between trades never fails to astound me.*\n\nAlthough my inner geek is kinda going \"woah,so much data to process*\"\n\nResults are kinda interesting, dint think green today, and green futures would have a 40% chance of red,eod.",
+      "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhy5ktf/",
+      "created": 1723573005,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhy67vm",
+      "score": 1,
+      "body": "Damn i was wondering if this spill was accurate or not.  But can you really judge the strategy by attempting it once?  Idk   I would like to take this and apply it over 30 days.  And then asses how accurate it really is.  Who knows.",
+      "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhy67vm/",
+      "created": 1723573207,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhy87tb",
+      "score": 1,
+      "body": "Bro wtf is all this",
+      "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhy87tb/",
+      "created": 1723573846,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhzi97o",
+      "score": 1,
+      "body": "Doesnt matter crab today, crab tmr or crab futures. 99% traders cant even afford to eat crabs due to losses",
+      "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhzi97o/",
+      "created": 1723589974,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "li19cy8",
+      "score": 1,
+      "body": "crab? what about kangaroo?\n\nhttps://preview.redd.it/q76ply8iqkid1.jpeg?width=404&format=pjpg&auto=webp&s=c3420142a70772ece890da701ecff89d0bd27fd0",
+      "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/li19cy8/",
+      "created": 1723617079,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "li5hicx",
+      "score": 1,
+      "body": "Where did you get the data for this? Mind sharing it?",
+      "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/li5hicx/",
+      "created": 1723676284,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lifp8jb",
+      "score": 1,
+      "body": "Did you check each day by open to close or high to low?",
+      "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lifp8jb/",
+      "created": 1723828642,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ljbyzq6",
+      "score": 1,
+      "body": "I like this but we need a more in depth analysis.  Statistically you do have a n=25 on all of your sample sets so some measure of statistical significance could be derived though we need n=1000+ for each scenario.  Also may need to narrow the 0.5 to -0.5 for crab days to be a little tighter.",
+      "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/ljbyzq6/",
+      "created": 1724302902,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llsizfu",
+      "score": 1,
+      "body": "Good work regard",
+      "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/llsizfu/",
+      "created": 1725629395,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhvxsfe",
+      "score": 1,
+      "body": "What the fuck does crab mean im new and regarded",
+      "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhvxsfe/",
+      "created": 1723543375,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lhvzbj4",
+          "score": 4,
+          "body": "You know how crabs walk right?",
+          "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhvzbj4/",
+          "created": 1723544328,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lhvzcug",
+              "score": 7,
+              "body": "Sideways?",
+              "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhvzcug/",
+              "created": 1723544351,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lhw6scv",
+                  "score": 5,
+                  "body": "Hole in 1 champ",
+                  "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhw6scv/",
+                  "created": 1723548489,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lhw8vqg",
+                      "score": 1,
+                      "body": "But what does it mean",
+                      "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhw8vqg/",
+                      "created": 1723549496,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lhwhc3j",
+                          "score": 5,
+                          "body": "It means you belong here. Welcome aboard.",
+                          "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhwhc3j/",
+                          "created": 1723553221,
+                          "depth": 5,
+                          "replies": []
+                        },
+                        {
+                          "id": "lhw9fjk",
+                          "score": 9,
+                          "body": "It means you definitely shouldn't be trading options. Or if you are going to, at least have the decency to do it on margin.",
+                          "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhw9fjk/",
+                          "created": 1723549753,
+                          "depth": 5,
+                          "replies": []
+                        },
+                        {
+                          "id": "lhxzan8",
+                          "score": 3,
+                          "body": "Market goes sideways like acute little cwabby 🦀",
+                          "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhxzan8/",
+                          "created": 1723571029,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lhvptmn",
+      "score": 1,
+      "body": "[deleted]",
+      "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhvptmn/",
+      "created": 1723538049,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lhvq9sz",
+          "score": 1,
+          "body": "Even without percentages, he is wrong on 7 out of 9 categories. He also claimed 97% backtest accuracy - this is just outright misleading.",
+          "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhvq9sz/",
+          "created": 1723538353,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lhxzkhx",
+              "score": 1,
+              "body": "I thought the original post was a joke. Was it trolling/ill-intent?",
+              "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhxzkhx/",
+              "created": 1723571114,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lhwcg3t",
+      "score": 1,
+      "body": "Do one 1% instead of 0.5%",
+      "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhwcg3t/",
+      "created": 1723551127,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lhy8uoi",
+          "score": 3,
+          "body": "Yep, same here. I would be interested in seeing the results, too. Could be interesting.\n\nIf we go by the 0.5%, the probability indicates that the market should have been slowly eroding over time. So, we probably need to account for larger movements.",
+          "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhy8uoi/",
+          "created": 1723574048,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lhwdaco",
+      "score": 1,
+      "body": "Whats the crab day definition in %?",
+      "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhwdaco/",
+      "created": 1723551500,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lhxzggg",
+          "score": 2,
+          "body": "was this post edited? it's line 6\n\n* Crab is anything in between; -0.5% < Change % < 0.5%",
+          "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhxzggg/",
+          "created": 1723571079,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lhyjza8",
+              "score": 1,
+              "body": "Thanks. Didn’t see.",
+              "permalink": "/r/wallstreetbets/comments/1er1zno/stock_market_cheat_sheet_peer_evaluation/lhyjza8/",
+              "created": 1723577595,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,630 @@
+{
+  "title": "Reddit's partnership with Google is worth closer to $50M per quarter rather than the reported $15M",
+  "score": 170,
+  "selftext": "In previous posts, I shared some data on the root cause of Reddit's substantial user growth over the past few quarters: Google.\n\nMore specifically, my view is that Google has been using their \"Helpful Content Update\" series of \"core updates\" to their search engine to significantly boost the visibility of Reddit's content. This has been happening for the past 3-4 quarters.\n\n**Partnership deal starting Q1 2024 worth $15.6M per quarter through Q1 2027**\n\nIn February 2024, the media [reported on](https://techcrunch.com/2024/02/22/reddit-says-its-made-203m-so-far-licensing-its-data/) the newly announced Data Licensing partnership between Google and Reddit. The terms, as reported, looked like this:\n\n>In January 2024, we entered into certain data licensing arrangements with an aggregate contract value of $203.0 million and terms ranging from two to three years. We expect a minimum of $66.4 million of revenue to be recognized during the year ending December 31, 2024 and the remaining thereafter.\n\nWhen I first read about this deal, I was surprised at how low Reddit went on Google's license, especially since Sam Altman *hates* Google. $15M per quarter is a drop in the bucket for Google and doesn't move the needle much for Reddit either. If you look at the deal from the lens of increased search engine visibility, **the** ***actual*** **value of the deal is closer to $50M per quarter (perhaps even higher)** for Reddit.\n\n**How Reddit and Google reported their partnership**\n\nFrom [Reddit's announcement](https://www.redditinc.com/blog/reddit-and-google-expand-partnership):\n\n>**With this partnership**, and via our Data API, **we’re ushering in new ways for Reddit content to be displayed across Google products** by providing programmatic access to new, constantly evolving, and dynamic public posts, comments, etc., on Reddit. **This enhanced collaboration** provides Google with an efficient and structured way to access the vast corpus of existing content on Reddit and **enables Google to use the Reddit Data API to improve its products and services – including supporting new ways to display Reddit content and providing more efficient ways to train models.**\n\nFrom [Google's announcement](https://blog.google/inside-google/company-announcements/expanded-reddit-partnership/):\n\n>**Over the years, we’ve** [seen](https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=reddit&hl=en) **that people increasingly use Google to search for helpful content on Reddit** to find product recommendations, travel advice and much more. We know [people find this information useful](https://blog.google/products/search/google-search-perspectives/), so we’re developing ways to make it even easier to access across Google products. **This partnership will facilitate more content-forward displays of Reddit information that will make our products more helpful for our users** and make it easier to participate in Reddit communities and conversations.\n\nTo summarize, the deal between Reddit and Google was never limited to a payment of $15M per quarter in exchange for access to Reddit's data API. It also included a commitment from Google to make it \"easier to access\" Reddit data across Google products. They have been executing on that deal every quarter since the partnership started.\n\n**Google added over 20M new daily active users to Reddit as of Q2 2024**\n\nThey are on track for 30M by Q4 2024. This corresponds to a 50% increase in Reddit's total user base exclusively from increased Google visibility in about a year.\n\nThese calculations are based on several things. I won't get into the nitty gritty but the gist of it is this: you can use a regression on Reddit's user growth data from the quarters leading up to the first Helpful Content Update that benefitted Reddit starting in July 2023. You can then diff those predicted numbers with the actual user counts to arrive at the difference in users caused by Google's search engine changes.\n\n\\[Go to this [post](https://www.reddit.com/r/Burryology/comments/1f86raz/reddits_partnership_with_google_is_worth_closer/) and scroll down to see a chart of this. Not able add more than 1 attachment atm.\\]\n\nThe data point for September 2024 uses Semrush's Organic Keyword count for [reddit.com](http://reddit.com/) to predict the increase in daily active users. As it turns out, the Organic Keyword count metric has the strongest relationship with changes in logged out and logged in daily active users with R-squared values of 0.991 and 0.971.\n\nAssuming that Reddit will appear in the top results for 365M organic keywords by end of Q3 2024 (which is where its current value for that metric stands as of 9/2/2024), you get the following predictions:\n\n* **Predicted Logged-Out Users**: 54,780,763\n* **Predicted Logged-In Users**: 43,504,706\n\nhttps://preview.redd.it/fyygxtnobnmd1.png?width=1210&format=png&auto=webp&s=8565321f6dd9d62f73e9fed47a4cfcdbdaf1073b\n\nVisually, this prediction looks correct when plotted against the rest of their daily active user data.\n\nIf you make an assumption that Logged Out users are monetizing at an ARPU of $1.20 per logged out user and $3 per logged in user (which seems reasonable and potentially conservative), you get the stacked chart shown at the bottom of [this post](https://www.reddit.com/r/Burryology/comments/1f86raz/reddits_partnership_with_google_is_worth_closer/) showing upwards of $58 million Google-delivered dollars in Q3 2024.\n\n**Achieving Profitability**\n\nThe predicted user counts above reinforce Reddit's Q3 revenue guidance which was $290M - $310M. The predicted user counts come out to roughly $303M for Q3 quarterly revenue which is almost smack dab in the middle of Reddit's guidance.\n\nConspicuously, they provided that guidance in the middle of Google's July and August core updates which added quite a bit to Reddit's Organic Traffic and Organic Keyword metrics. This suggests that Reddit was potentially anticipating this increase.\n\nOn a recent podcast, Steve (CEO) mentioned how happy he was that Reddit was able to scale revenue by 50% per quarter (YoY) while keeping head count fixed. In Q2, expenses came out to about $313M for SGNA, R&D, and CoR. If expenses for Q3 come in close to expenses for Q2, or perhaps something a few percentage points higher, they'll just about break even for the first time ever.\n\nThe fourth quarter tends to be higher than the rest of the prior year. Assuming no additional visibility increases by Google and assuming the typical seasonal increase arrives on time, Q4 could be the first time where Reddit meaningfully achieves profitability on a GAAP basis. I believe I calculated $42 million left over assuming revenue of $360M and a 3% quarterly increase in SGNA/R&D/CoR.\n\nRelated Posts:  \nFor Semrush data: go [here](https://www.reddit.com/r/Burryology/comments/1ezlz28/rddt_watching_the_effects_of_a_monopoly_unwind_in/)",
+  "link_flair_text": "DD",
+  "id": "1f893d8",
+  "num_comments": 67,
+  "created_utc": 1725392135,
+  "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/",
+  "comments": [
+    {
+      "id": "llcrtgc",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 3 | **First Seen In WSB** | 3 years ago\n**Total Comments** | 10 | **Previous Best DD** | [x](https://www.reddit.com/r/wallstreetbets/comments/1dw06xt/rddt_set_a_new_alltime_high_this_morning/) \n**Account Age** | 3 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llcrtgc/",
+      "created": 1725392139,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llcsgwg",
+      "score": 132,
+      "body": "bro just post what i should buy, c'mon",
+      "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llcsgwg/",
+      "created": 1725392345,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "llcskwh",
+          "score": 34,
+          "body": "Sorry, Jesus.",
+          "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llcskwh/",
+          "created": 1725392381,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lldu06n",
+              "score": 40,
+              "body": "What's the ticker for Jesus",
+              "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/lldu06n/",
+              "created": 1725405563,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "llek6th",
+                  "score": 2,
+                  "body": "puts on jesus, the only christians left hate everything jesus preached. he's gonna come back, trump will call him a commie, they'll put him on a stake again.",
+                  "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llek6th/",
+                  "created": 1725415615,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "llfxyau",
+                      "score": 1,
+                      "body": "Marx: I can confirm it. It is me.",
+                      "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llfxyau/",
+                      "created": 1725443523,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lldie6n",
+              "score": 14,
+              "body": "how do i buy Jesus",
+              "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/lldie6n/",
+              "created": 1725400701,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lldom91",
+                  "score": 20,
+                  "body": "DCA every Sunday",
+                  "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/lldom91/",
+                  "created": 1725403005,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "llexo3h",
+                  "score": 4,
+                  "body": "Get on your knees.",
+                  "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llexo3h/",
+                  "created": 1725421139,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "llef94f",
+                  "score": 3,
+                  "body": "You can find Jesus on Saturday morning in front of Home Depot",
+                  "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llef94f/",
+                  "created": 1725413718,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lle55yp",
+              "score": 6,
+              "body": "This whole part of the thread had me laughing so hard I had s coughing fit... fuck man. This sub makes my day every day",
+              "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/lle55yp/",
+              "created": 1725409872,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "llcu459",
+              "score": 11,
+              "body": "Include strike & date",
+              "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llcu459/",
+              "created": 1725392867,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "llcumzz",
+                  "score": 7,
+                  "body": "Dates: April 2025 or Jan 2026. Not financial advice.",
+                  "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llcumzz/",
+                  "created": 1725393031,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "llcv0i1",
+                      "score": 18,
+                      "body": "PUT YOUR HANDS UP JohnnyTheBoneless!!! POLICE ARE ENROUTE! PREPARE TO BE BOOKED FOR PROVIDING ILLEGAL FINANCIAL ADVICE!\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",
+                      "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llcv0i1/",
+                      "created": 1725393149,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "llcvl7b",
+                      "score": 3,
+                      "body": "What symbol?",
+                      "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llcvl7b/",
+                      "created": 1725393327,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "llcvnu5",
+                          "score": 9,
+                          "body": "RDDT",
+                          "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llcvnu5/",
+                          "created": 1725393351,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "llcvv8t",
+                              "score": 8,
+                              "body": "![gif](emote|free_emotes_pack|upvote)",
+                              "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llcvv8t/",
+                              "created": 1725393415,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "llegz08",
+          "score": 8,
+          "body": "Bro reads a post on Reddit, about Reddit, and doesn’t know to buy fucking Reddit.",
+          "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llegz08/",
+          "created": 1725414379,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "llfm11g",
+              "score": 0,
+              "body": "Bringing dumb money to even dumber levels.",
+              "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llfm11g/",
+              "created": 1725435169,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lledq77",
+      "score": 14,
+      "body": "Who else scrolled down looking for a TLDR and got let down?",
+      "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/lledq77/",
+      "created": 1725413130,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "llee6rr",
+          "score": 6,
+          "body": "Just read the bold parts and stare at the chart",
+          "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llee6rr/",
+          "created": 1725413306,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "llcuf7m",
+      "score": 71,
+      "body": "Reddit is currently bots self masturbating each other really. Its also pushing fake and misleading quotes and videos now. Clearly taking sides on every topic, locking and removing posts they don't agree with. \nNothing explains democracy and freedom better than being told what im allowed to say or think.",
+      "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llcuf7m/",
+      "created": 1725392963,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "llcxpba",
+          "score": 48,
+          "body": "And yet you’re still here.\n\nCalls it is.![img](emote|t5_2th52|29637)",
+          "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llcxpba/",
+          "created": 1725393999,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lldr5az",
+              "score": 8,
+              "body": "Clearly he's an AI too. As am I",
+              "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/lldr5az/",
+              "created": 1725404339,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lldiawu",
+              "score": 1,
+              "body": "My interaction is more limited than ever and i only use \"normal\" people subs like this one. In fact my main use of reddit now is for a sport sub like NBA. The rest is basically the most biased, fake and censored crap ive seen since the printing press was created. \nPolitical issues are not based on economy, safety, education or living conditions anymore.",
+              "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/lldiawu/",
+              "created": 1725400671,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lldj2j9",
+                  "score": 19,
+                  "body": "You consider this a “normal” person sub? lol",
+                  "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/lldj2j9/",
+                  "created": 1725400935,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lldjd3z",
+                      "score": 7,
+                      "body": "Addicts are normal people too.",
+                      "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/lldjd3z/",
+                      "created": 1725401039,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lldk3sf",
+                          "score": 3,
+                          "body": "Good point",
+                          "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/lldk3sf/",
+                          "created": 1725401299,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "llejaei",
+                      "score": 3,
+                      "body": "It's a \"normal\" person sub because the things that are said would never fly in a typical reddit sub. The bots and AI wouldn't be allowed to say certain words this sub holds dear.",
+                      "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llejaei/",
+                      "created": 1725415271,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "llfbe1c",
+                          "score": 6,
+                          "body": "You don't think bots are allowed to call you regarded when you say dumbshit like this?",
+                          "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llfbe1c/",
+                          "created": 1725428319,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "llff5s0",
+                              "score": -2,
+                              "body": "It's a lonely night huh?",
+                              "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llff5s0/",
+                              "created": 1725430603,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "llfhl7f",
+                                  "score": 5,
+                                  "body": "Hilarious and original. Definitely never heard that one before. Gold star for you.",
+                                  "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llfhl7f/",
+                                  "created": 1725432177,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "llfhvo4",
+                                      "score": -2,
+                                      "body": "My makers will be pleased you found my response hilarious and original. Please purchase the gold star and support your reddit community! Remember to vote blue no matter who!",
+                                      "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llfhvo4/",
+                                      "created": 1725432368,
+                                      "depth": 8,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "llgpdfq",
+              "score": 0,
+              "body": "Likes to watch",
+              "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llgpdfq/",
+              "created": 1725456515,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lldk6n6",
+          "score": 2,
+          "body": "Bad bot!",
+          "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/lldk6n6/",
+          "created": 1725401326,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lle5ep0",
+          "score": 1,
+          "body": "Digital Dutch rudder",
+          "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/lle5ep0/",
+          "created": 1725409964,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "llebi7b",
+          "score": 1,
+          "body": "It was awful two years ago, and it’s gotten so much worse since then ",
+          "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llebi7b/",
+          "created": 1725412275,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "llcuv2b",
+          "score": 2,
+          "body": "I've seen some of what you are referring to. I actually think Reddit has made it more difficult to do this recently. I'm sure the bot makers will continue finding ways around their efforts.",
+          "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llcuv2b/",
+          "created": 1725393101,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lleblth",
+              "score": 6,
+              "body": "When a human gets banned from a major sub due to shitty bratty moderators they just don’t come back.  \n\nGuess who does - bots.  ",
+              "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/lleblth/",
+              "created": 1725412314,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "llew6uw",
+              "score": 2,
+              "body": "I use AI and social media for a lot for work. The first company that creates a product that scrubs forums and comments over the last 20 years and compiles data based on public sentiment will have made a very in-demand product. Obviously Google has attempted that with Reddit, but whoever can get the contracts and deals made that allows AI to scrub forums and comment sections of major sites like Reddit, Facebook, IG, Twitter and other comment services will have effectively put a major dent in certain data collection agencies out there.",
+              "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llew6uw/",
+              "created": 1725420474,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "llcwn4c",
+      "score": 5,
+      "body": "My $200 Sept 20 calls on Google have been cooked for a minute I don’t trust Google enough to commit again.",
+      "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llcwn4c/",
+      "created": 1725393659,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "llcwvrc",
+          "score": 7,
+          "body": "This is definitely not a Google play. This is a \"Google is personally doubling Reddit's user base in a couple of years because they want Gemini to not suck any more\" type of play.",
+          "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llcwvrc/",
+          "created": 1725393735,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "llctz1b",
+      "score": 4,
+      "body": "So ur basically saying Reddit calls = 20 bagger?",
+      "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llctz1b/",
+      "created": 1725392822,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "llcujrv",
+          "score": 9,
+          "body": "Depends on your mood.\n\nIf someone forced me to pick call options, it'd be in the April 2025 or Jan 2026 time range. I'd want to give Reddit and Google a couple more quarters to make the data obvious to the market who seems asleep on this one.\n\n Not financial advice.",
+          "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llcujrv/",
+          "created": 1725393003,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "llcv257",
+              "score": 13,
+              "body": "PUT YOUR HANDS UP JohnnyTheBoneless!!! POLICE ARE ENROUTE! PREPARE TO BE BOOKED FOR PROVIDING ILLEGAL FINANCIAL ADVICE!\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",
+              "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llcv257/",
+              "created": 1725393163,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "llcybv9",
+      "score": 4,
+      "body": "Reddit has about 500 million users but these Google and OpenAI partnerships would only be bringing in $260M a year. There’s no incentives for people to sign up for an account since every functionality, even search, is open to non-Redditors. Reddit only seems concerned with preventing porn content for those that don’t have an account.\n\nWould like to see this dip below IPO price along with addressing the revenue issue before I would jump in",
+      "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llcybv9/",
+      "created": 1725394197,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "llcyyk8",
+          "score": 8,
+          "body": "The Google and OpenAI partnerships currently only \"officially\" bring in about $120M in yearly revenue. On top of the first two quarters of $15M each, Google has also pushed over 20 million new users to Reddit's user base which translates to an additional $30-40M per quarter. They continue to push new traffic to Reddit by making sure that Reddit threads show up in millions of Google search results for new keywords that were previously surfacing blogs and other stuff.",
+          "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llcyyk8/",
+          "created": 1725394396,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lld0cim",
+              "score": 0,
+              "body": "Every social media platform limits how much non-users can see except for Reddit. They need to fix that loophole and monetize content, it can’t be all about flairs and avatars",
+              "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/lld0cim/",
+              "created": 1725394835,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lld0n4z",
+                  "score": 8,
+                  "body": "I get where you're coming from and I was thinking the same thing too.\n\nHowever, Steve (CEO) said on both a recent podcast and on the recent reddit investor Q&A that they tried being more aggressive about getting non-users to make an account and login but it apparently did not go very well and everybody hated it so they stopped.",
+                  "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/lld0n4z/",
+                  "created": 1725394926,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lldai89",
+                      "score": 4,
+                      "body": "RDDT management is wise to focus on engaging people whether or not they have an account.\n\nTheir bread and butter will be advertising. Other revenues are nice, but won’t move the needle a ton.\n\nVolatility will exist on RDDT, but it will reward people willing to buy-and-hold for a few years.",
+                      "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/lldai89/",
+                      "created": 1725398080,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "llhxlvf",
+                      "score": 1,
+                      "body": "So the non-users emailed Reddit about not being able to see Reddit content because they didnt have an account? This makes zero sense. \n\nThere are so few user engagement metrics on Reddit that it’s hard to trust what Steve says. They have a long road ahead of them nearly 20 years in and now they are starting to focus on profitability",
+                      "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llhxlvf/",
+                      "created": 1725471016,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lmeqbap",
+      "score": 2,
+      "body": "So do I buy Google or Reddit?",
+      "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/lmeqbap/",
+      "created": 1725956735,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lt9vv7s",
+          "score": 1,
+          "body": "Both but Reddit",
+          "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/lt9vv7s/",
+          "created": 1729647833,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lldwa5g",
+      "score": 1,
+      "body": "That explains the censorship",
+      "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/lldwa5g/",
+      "created": 1725406508,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lllq5ii",
+      "score": 1,
+      "body": "And how many of those are alts from people getting banned by increasingly gejer mods?",
+      "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/lllq5ii/",
+      "created": 1725528585,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lluc58t",
+      "score": 1,
+      "body": "I still don't know if you're saying calls or puts",
+      "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/lluc58t/",
+      "created": 1725650546,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm72949",
+      "score": 1,
+      "body": "Training AI on a CCP owned website with blatant censorship and misinformation is going to be the death knell for Google.",
+      "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/lm72949/",
+      "created": 1725837536,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "llcxadm",
+      "score": 1,
+      "body": "I don't think its clear that their revenue scales on DAU/MAU.\n\n  \nQ2 they reported non-ad revenue at \\~$28 million (goog + everything else).\n\n  \nSo not sure how to get to $50 still.",
+      "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llcxadm/",
+      "created": 1725393865,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "llcy433",
+          "score": 4,
+          "body": "Revenue definitely scales with daily active users. In Reddit's case, it's logged in users that drive most of the revenue. I have a correlation matrix that shows the strength of these different relationships. I didn't post it because I don't want to scare people away.\n\nAll ad-generated revenue will get reported with the ad segment. So any massive increase in users will go to that segment and be lumped in with everything else. If you go to the post below, my first graph in that post has the count of users that Google has added to Reddit's user base since they started engaging in this practice. Not sure why but I wasn't allowed to post more than one image in my post on wsb.\n\n[https://www.reddit.com/r/Burryology/comments/1f86raz/reddits\\_partnership\\_with\\_google\\_is\\_worth\\_closer/](https://www.reddit.com/r/Burryology/comments/1f86raz/reddits_partnership_with_google_is_worth_closer/)",
+          "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llcy433/",
+          "created": 1725394129,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "llcw4ph",
+      "score": 0,
+      "body": "R/stocks wants their DD back\nhttps://www.reddit.com/r/stocks/s/45eb8MO6mj",
+      "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llcw4ph/",
+      "created": 1725393498,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "llcwm08",
+          "score": 4,
+          "body": "It pains me to have my precious home-grown novel data compared to a 10-sentence post about someone's gut feel. That being said, he's not wrong.",
+          "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llcwm08/",
+          "created": 1725393649,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "llfdico",
+      "score": -1,
+      "body": "Bro. As soon as you mentioned Sam Altmans feelings i checked out. Money > Sentiment. Clearly, if you know anything about the markets lol",
+      "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llfdico/",
+      "created": 1725429587,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "llfyclr",
+          "score": 2,
+          "body": "That’s kinda the point. Why would Reddit (which Sam owns 9% of) give Google a sweetheart deal on their data for just $15 million per quarter when they could ask for much more than that? Logically one would expect Sam to push harder for more money from a trillion dollar monopoly.\n\nNow all of it makes sense. Google demonstrated their ability to materialize new quarterly users and revenue for Reddit with trial runs in Q3 and Q4 2023 and they used that success to offer Reddit triple, possibly quadruple, the reported deal amount.",
+          "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llfyclr/",
+          "created": 1725443778,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lleulcg",
+      "score": -7,
+      "body": "Reddit is never going to be profitable.",
+      "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/lleulcg/",
+      "created": 1725419781,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "llfxm8s",
+          "score": 8,
+          "body": "Incorrect. On track for Q4 profitability on a GAAP basis. Could happen this quarter if things trend in their favor.",
+          "permalink": "/r/wallstreetbets/comments/1f893d8/reddits_partnership_with_google_is_worth_closer/llfxm8s/",
+          "created": 1725443302,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

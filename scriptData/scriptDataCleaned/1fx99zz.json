@@ -1,0 +1,292 @@
+{
+  "title": "How influential/important is after hours stock trading?",
+  "score": 114,
+  "selftext": "I'm incredibly new to the game, so I figured I'd ask about this. \n\nHow important is it to keep an eye on after-market hours trading? How greatly does it influence the following days stock prices, if at all?\n\nAdditionally, if it's important, where would the best place to keep tabs on post-market movers be?",
+  "link_flair_text": "Industry Question",
+  "id": "1fx99zz",
+  "num_comments": 35,
+  "created_utc": 1728191808,
+  "permalink": "/r/stocks/comments/1fx99zz/how_influentialimportant_is_after_hours_stock/",
+  "comments": [
+    {
+      "id": "lqkquvc",
+      "score": 64,
+      "body": "It really depends on the stock. If it's very liquid, like NVDA or SPY then it's a pretty good indicator. On the other hand if you take a stock like BTU or AMPL, these are illiquid enough that any extended hours trading isn't really relevant.",
+      "permalink": "/r/stocks/comments/1fx99zz/how_influentialimportant_is_after_hours_stock/lqkquvc/",
+      "created": 1728192725,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lql8w9w",
+          "score": 6,
+          "body": "So, for instance, with [this stock](https://imgur.com/a/aeeNKmK), would the after-market hours price make it so that when the market opens again it'll jump to-said price? \n\nJust trying to make sure I'm reading this all right!",
+          "permalink": "/r/stocks/comments/1fx99zz/how_influentialimportant_is_after_hours_stock/lql8w9w/",
+          "created": 1728204346,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lql9gy2",
+              "score": 17,
+              "body": "I can't be sure because I don't know the stock, but a general rule is if the extended hours bid/ask is really wide, then it's not relevant. If it's a few cents then usually it matters more.",
+              "permalink": "/r/stocks/comments/1fx99zz/how_influentialimportant_is_after_hours_stock/lql9gy2/",
+              "created": 1728204745,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lqla02z",
+                  "score": -3,
+                  "body": "Apologies, the stock is JD.\n\nSo, from what you're saying, the less the increase is during after hours, then it's more likely that the increase will stick for the opening of the market the following day?\n\nFor example, if it closes at $50 and after hours it's either $50.24 or $51.02, then it's more likely that when the market opens again, it'll be closer to the former?",
+                  "permalink": "/r/stocks/comments/1fx99zz/how_influentialimportant_is_after_hours_stock/lqla02z/",
+                  "created": 1728205112,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lqlalmx",
+                      "score": 6,
+                      "body": "It depends on the volume, the great the volume in extended hours the more accurate. I took a look and the bid/ask for JD was 47.30/47.40 which is pretty good and there was decent volume to support that, so I would say this is a decent indicator of where trading will go in the next session. Keep in mind though any events over the weekend or pre market could change this.",
+                      "permalink": "/r/stocks/comments/1fx99zz/how_influentialimportant_is_after_hours_stock/lqlalmx/",
+                      "created": 1728205527,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lqnqol0",
+                          "score": 2,
+                          "body": "It's a Chinese stock. The Chinese market opens 12 hours before NY so it may go up Sunday night. People may short sell it Monday morning and then dive back in after it takes a slight dip",
+                          "permalink": "/r/stocks/comments/1fx99zz/how_influentialimportant_is_after_hours_stock/lqnqol0/",
+                          "created": 1728241127,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lqoj3sm",
+                              "score": 1,
+                              "body": "Don't companies listed on the NASDAQ still have to wait until the US stock exchange opens to begin trading, regardless of if their home countries' exchange opens earlier?",
+                              "permalink": "/r/stocks/comments/1fx99zz/how_influentialimportant_is_after_hours_stock/lqoj3sm/",
+                              "created": 1728250112,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lqlapj5",
+                          "score": 1,
+                          "body": "Alright, thanks for the info!",
+                          "permalink": "/r/stocks/comments/1fx99zz/how_influentialimportant_is_after_hours_stock/lqlapj5/",
+                          "created": 1728205601,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lqlh4pv",
+                              "score": 2,
+                              "body": "For JD, you should watch the Hang Seng futures market.",
+                              "permalink": "/r/stocks/comments/1fx99zz/how_influentialimportant_is_after_hours_stock/lqlh4pv/",
+                              "created": 1728210086,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lqlwe29",
+                      "score": 1,
+                      "body": "> So, from what you're saying, the less the increase is during after hours, then it's more likely that the increase will stick for the opening of the market the following day?\n\nThat's not what they're saying.\n\nThey're saying if the bid-ask spread, the difference between the Bid price and the Ask price, is small, those prices are more likely to be representative of the expected price at opening.\n\nIf the bid-ask spread is large, which is common in afterhours trading for many stocks, the prices are less likely to be representative of the expected price at opening.",
+                      "permalink": "/r/stocks/comments/1fx99zz/how_influentialimportant_is_after_hours_stock/lqlwe29/",
+                      "created": 1728218667,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lqlbi5m",
+      "score": 11,
+      "body": "I'm not exactly sure why, but I find after hours nowhere near as important as before hours.  It seems like stocks that make drastic jumps in the morning tend to go up during the day (or at least morning hours).  But when they do it after hours, it could go either way the next day.",
+      "permalink": "/r/stocks/comments/1fx99zz/how_influentialimportant_is_after_hours_stock/lqlbi5m/",
+      "created": 1728206161,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lqkr8sy",
+      "score": 16,
+      "body": "I've noticed a lot of news breaks at the end of the day, so many individual stocks will jump after trading\n\nI'd guess that's purposeful, to give people time to sleep on things before trading on it...but institutions are gonna trade afterhours (hell, they probably already knew)",
+      "permalink": "/r/stocks/comments/1fx99zz/how_influentialimportant_is_after_hours_stock/lqkr8sy/",
+      "created": 1728192946,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lqnsap6",
+          "score": 2,
+          "body": "It’s almost exclusively retail and active participants. Every major broker lets users enable AH trading. The low volume can swing prices rapidly if people are willing to buy or offload in a hurry.",
+          "permalink": "/r/stocks/comments/1fx99zz/how_influentialimportant_is_after_hours_stock/lqnsap6/",
+          "created": 1728241640,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lqkqd8t",
+      "score": 39,
+      "body": "There's a brilliant graphic out there showing that almost all of the historical gains of the S&P have taken place after hours, with the day charts basically flat since time immemorial. AH is Wall Street party time, and you're not invited",
+      "permalink": "/r/stocks/comments/1fx99zz/how_influentialimportant_is_after_hours_stock/lqkqd8t/",
+      "created": 1728192443,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lql195f",
+          "score": 62,
+          "body": "That’s because most earnings are reported after hours, it’s not all that deep",
+          "permalink": "/r/stocks/comments/1fx99zz/how_influentialimportant_is_after_hours_stock/lql195f/",
+          "created": 1728199126,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lqmnxzh",
+              "score": 6,
+              "body": "And also global markets are open 24/5 so with US trading hours only being open 6.5 hours it makes sense lots can happen between 4pm and 9:30am",
+              "permalink": "/r/stocks/comments/1fx99zz/how_influentialimportant_is_after_hours_stock/lqmnxzh/",
+              "created": 1728228829,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lql59xj",
+          "score": 22,
+          "body": "You are invited if you have a decent broker though.",
+          "permalink": "/r/stocks/comments/1fx99zz/how_influentialimportant_is_after_hours_stock/lql59xj/",
+          "created": 1728201864,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lqkrk5l",
+          "score": 4,
+          "body": "I mean that was explicity for buying open vs closet etc, which is not a good strategy so obviously its gonna do shit",
+          "permalink": "/r/stocks/comments/1fx99zz/how_influentialimportant_is_after_hours_stock/lqkrk5l/",
+          "created": 1728193130,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lqntkdi",
+          "score": 3,
+          "body": "> AH is Wall Street party time, and you're not invited\n\nAH trades amounts are like $20K-50K on the high end. Thats not Wall St.",
+          "permalink": "/r/stocks/comments/1fx99zz/how_influentialimportant_is_after_hours_stock/lqntkdi/",
+          "created": 1728242042,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lqkr5hr",
+      "score": 2,
+      "body": "Any news feed or through your broker the news updates about after hours trading works.  It is important if you are day trading and depending on the stock, sometimes the early morning, before trading news from the previous night causes stocks to go up or down.  Just watch it in case the swings continue after the market opens (sometimes they do, sometimes they don't) and decide to act as you see fit.  If you are long term on the stock it is just noise.  Unless the company is going bankrupt.",
+      "permalink": "/r/stocks/comments/1fx99zz/how_influentialimportant_is_after_hours_stock/lqkr5hr/",
+      "created": 1728192894,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lqmrlsc",
+      "score": 2,
+      "body": "Can be useful for gauging market reactions, but doesn’t always indicate next-day trading trends.",
+      "permalink": "/r/stocks/comments/1fx99zz/how_influentialimportant_is_after_hours_stock/lqmrlsc/",
+      "created": 1728230040,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lqry368",
+      "score": 2,
+      "body": "After-hours trading is important as it shows investor reactions and can impact next day's prices. For updates, check sites like Yahoo Finance.",
+      "permalink": "/r/stocks/comments/1fx99zz/how_influentialimportant_is_after_hours_stock/lqry368/",
+      "created": 1728308762,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lr3i3n3",
+      "score": 2,
+      "body": "After hours moves are usually because companies report earnings, significant news before or after the close, and the price reacts. I find after hours moves are crazy erratic , can be trusted 50 percent of the time, and can sometimes be laughably incorrect at predicting the next days action. View it more as low volume reactions to news, which should be taken with a grain of salt. Fun to watch, sometimes meaningful and Sometimes not. If you are a long term investor, it isn’t super impactful long term. More important to see how a stock trades when the volume is high (normal trading hours). And fwiw, I would not recommend trading after hours 🎲",
+      "permalink": "/r/stocks/comments/1fx99zz/how_influentialimportant_is_after_hours_stock/lr3i3n3/",
+      "created": 1728484615,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lqm10va",
+      "score": 1,
+      "body": "Low volume, big moves, especially when a stock reports after the bell, very important to follow action and sometimes trade it\nCheap easy place to follow after market moves is Robinhood",
+      "permalink": "/r/stocks/comments/1fx99zz/how_influentialimportant_is_after_hours_stock/lqm10va/",
+      "created": 1728220692,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lqn9b8m",
+      "score": 1,
+      "body": "I think its more valuable to pay attention to the after hours news. \n\nUsually things that happen after hours such us world events etc. Can cause extreme panic and bring lots of downturn.",
+      "permalink": "/r/stocks/comments/1fx99zz/how_influentialimportant_is_after_hours_stock/lqn9b8m/",
+      "created": 1728235709,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lqogctb",
+      "score": 1,
+      "body": "Put up bollinger bands and you'll see when a stock is rejected from upper band in the after hours, it will likely continue downward if and when market starts during the trend.",
+      "permalink": "/r/stocks/comments/1fx99zz/how_influentialimportant_is_after_hours_stock/lqogctb/",
+      "created": 1728249210,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lqtt81m",
+      "score": 1,
+      "body": "After-market hours trading can give you an idea of how stocks might move the next day, especially if there's news or earnings reports. However, it's often more volatile due to lower trading volume, so the movements aren’t always a reliable indicator of the next day’s market direction.\n\nIf you want to keep an eye on after-hours trading, websites like Nasdaq, Yahoo Finance, or brokerage platforms like TD Ameritrade and E\\*TRADE have sections dedicated to post-market movers.",
+      "permalink": "/r/stocks/comments/1fx99zz/how_influentialimportant_is_after_hours_stock/lqtt81m/",
+      "created": 1728330474,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lql03ix",
+      "score": 0,
+      "body": "Are options available? If so what platform",
+      "permalink": "/r/stocks/comments/1fx99zz/how_influentialimportant_is_after_hours_stock/lql03ix/",
+      "created": 1728198356,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lqmciua",
+      "score": 0,
+      "body": "It's not important, you should invest in solid companies for the long term.",
+      "permalink": "/r/stocks/comments/1fx99zz/how_influentialimportant_is_after_hours_stock/lqmciua/",
+      "created": 1728225010,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lqlbbb7",
+      "score": -2,
+      "body": "Most broker charts don't show after hours, they just give you the current number. When you see a gap in a candlestick chart ..that was the jump overnight.\n\nWhere I live wallstreet opens at 11pm so after hours is much needed.",
+      "permalink": "/r/stocks/comments/1fx99zz/how_influentialimportant_is_after_hours_stock/lqlbbb7/",
+      "created": 1728206025,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

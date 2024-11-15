@@ -1,0 +1,1332 @@
+{
+  "title": "Can someone explain exactly how AI services will be changing the world in a meaningful way?",
+  "score": 53,
+  "selftext": "[deleted]",
+  "link_flair_text": null,
+  "id": "1e5qd67",
+  "num_comments": 139,
+  "created_utc": 1721242956,
+  "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/",
+  "comments": [
+    {
+      "id": "ldnmtpj",
+      "score": 50,
+      "body": "Here are a couple use cases that are in use today: It can quickly generate subtitles for audio and vice versa, it can translate text and speech accurately and nearly instantly, It makes autofill and suggestions more accurate, it can create ads and promos that are more tailored and individually persuasive, it can instantly identify interesting data points or correlations in a massive data set based on a sentence prompt. It can do things like take a research paper and generate a short summary or a slide deck for a briefing in a couple minutes. It is also useful for identifying images quickly, including facial recognition and shape recognition. We're already seeing the shape recognition being used practically by armed drone operators in Ukraine for target acquisition and tracking.\n\nThe main issue is, the cost of operation is so expensive the benefits are hard to justify as of today. Start ups and people like Sam Altman are hyping the promises of it, but proven money making tech hasn't hit. It's mainly enhancements in efficiency so far but not much in terms of facilitating completely new ways of business or thinking yet as promised. Best play is still the shovels, rather than the companies competing to offer the AI product itself, but even those tickers are overbought.\n\nIMO, AI is not nearly as revolutionary as the internet, mainly due to the high operating and set up costs, unproven cases for enabling efficiency and automation without significant manual intervention, and the lack of transformative opportunities it opens up (for instance, ecommerce has made retail MUCH more profitable and enabled completely new business models like Amazon's). It's a mission enabler, not a completely new category or market. \n\nGoldman released a good write-up recently called \"Too Much Spend, Too Little Benefit\" on the potential of AI that I find myself agreeing with at these price levels.",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldnmtpj/",
+      "created": 1721243640,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldpx9f3",
+          "score": 18,
+          "body": "Also the auto-generated subtitles are full of errors, with no way for end users to correct them.  I see this constantly on both YouTube videos and streaming services.  It's kind of nice that subtitles were generated cheaply, but consumers also suffer from the bad quality.",
+          "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldpx9f3/",
+          "created": 1721273882,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldqf08m",
+              "score": 5,
+              "body": "It is improving rapidly though. And the automatic transcripts in my teams meetings at work are insanely convenient and surprisingly accurate\n\nNot really a use case to rave about for trillion dollar valuations though",
+              "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldqf08m/",
+              "created": 1721283392,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ldrj7d5",
+                  "score": 6,
+                  "body": "My team's meeting transcripts are garbage.",
+                  "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldrj7d5/",
+                  "created": 1721307150,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ldt3wt7",
+                      "score": 1,
+                      "body": "I only use them to find a part of a video I need to rewatch. It's good for that. But yeah it does suck.",
+                      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldt3wt7/",
+                      "created": 1721326537,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ldr6oal",
+              "score": 1,
+              "body": "YT auto subtitles are now incredibly more accurate than they were several years ago. Same for Google translate. All this is thanks to AI",
+              "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldr6oal/",
+              "created": 1721301305,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lds8kvx",
+                  "score": 0,
+                  "body": "It still doesn’t mean that they’re accurate though.",
+                  "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/lds8kvx/",
+                  "created": 1721316220,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lduvo07",
+                      "score": 1,
+                      "body": "Way more accurate than some algorithm doing it and way most cost efficient than hiring a translator which is literally impossible for covering all videos.\n\nAnd it will continue to get more accurate as AI advances. Right now the translations chatGPT give me is already more precise than Google translate lol",
+                      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/lduvo07/",
+                      "created": 1721349586,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ldpnbk3",
+          "score": 8,
+          "body": "when is too much data, too much data ? back to square one.",
+          "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldpnbk3/",
+          "created": 1721269549,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldpe4d4",
+          "score": 2,
+          "body": "Your examples predate Trillion dollar NVDA valuation which happened after chatgpt.   Is generating subtitles really LLM . I thought thats just traditional ML.",
+          "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldpe4d4/",
+          "created": 1721265881,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldrvlzq",
+              "score": 0,
+              "body": "ML is still under the AI umbrella",
+              "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldrvlzq/",
+              "created": 1721311871,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ldr6gkx",
+          "score": 0,
+          "body": "AI WILL be revolutionary once AI robots become a thing. This is a HUGE potential so many people are forgetting right now. AI is basically a super intelligent human that's stuck to the internet without tangible form at the moment\n\nOnce you can put AI into a robot (which theyve already done) and equipped it with training data on spatial awarebess (which is where we are progressing at now), the real AI revolution shall truly begin. \n\nSuch robots will replace workers, replace laborers, become new entertainment (eg. sex, comedy, fighting) and basically like slaves for all things humans want. \n\nAI driven robots will also reach the point of being smart enough to eventually take on office level jobs like being accountants, being analysts and even artists like they are doing already.",
+          "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldr6gkx/",
+          "created": 1721301192,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldsisk0",
+              "score": 1,
+              "body": "Don't know why you are being downvoted. What you are saying is correct. Technically we already have primitive versions of such bots available.",
+              "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldsisk0/",
+              "created": 1721319615,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "leatndl",
+              "score": 1,
+              "body": "'Lets build robots so they can go to offices and sit at a computer all day'  lol what is the point of putting it in a robot?\n\n\nI dont know about replacing workers either.  I think youre vastly underestimating how expensive these robots would be.  Is dollar general or walmart really going to buy thousands of $250k robots to replace people theyre paying 10 of 15 dollars an hour? Manufacturing cars or whatever already uses non ai non humanoid robots specifically made for the job, no reason to replace them either.",
+              "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/leatndl/",
+              "created": 1721603642,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lebso9b",
+                  "score": 1,
+                  "body": "The cost of production for androids will go down overtime due to economies of scale. The same cant be said for humans who continually demand higher and higher salaries",
+                  "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/lebso9b/",
+                  "created": 1721617903,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ldqqp4v",
+          "score": -2,
+          "body": "[deleted]",
+          "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldqqp4v/",
+          "created": 1721291089,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldxftrb",
+              "score": 0,
+              "body": "You should look up the use cases of AI in medicine and healthcare, and how these are likely to improve both patient outcomes and clinicians' workflows. \n\nFor example, there is AI that can detect cancers and other pathologies on radiological imaging. Clearly we are still at a relatively early stage, but its accuracy is only going to improve. Truly revolutionary.",
+              "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldxftrb/",
+              "created": 1721396675,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ldnmxp0",
+      "score": 7,
+      "body": "I think not about the current state but the trajectory. The best I could imagine was what siri could offer 5 years ago. Then chatgpt showed up. At this rate with serious investment, what would be possible in 5-10years? \n\nAI could get very advanced and automate many things. They wont replace people but a few employees using AI tools could be as productive as many perhaps",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldnmxp0/",
+      "created": 1721243677,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldpehin",
+          "score": 6,
+          "body": "trajectory doesn't look promising. chatgpt from 18 months ago isn't much different than chatgpt of today. It hasn't enabled any new applications that you couldn't with gpt 3.5",
+          "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldpehin/",
+          "created": 1721266025,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldptpud",
+              "score": 1,
+              "body": "ChatGPT hasn't grown at all for a year. It certainly has use cases but it's really not that important in AI.\n\nI think the most important will be in areas where you can have high quality and reliable data like in the sciences. However, we will need to see drug discovery result in marketed drugs with the help of AI.",
+              "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldptpud/",
+              "created": 1721272264,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "ldr6za0",
+              "score": 0,
+              "body": "Chatgpt 18 months ago was limited up to 2021 data. Now it is not. Also Chatgpt 18 months ago couldnt generate nor recognize images and videos and understand instructions from them to generate new media.\n\nPlz go follow AI more closely in the news. Also AI is not just about Chatgpt like so many morons here think. Most of the revenue right now is seen from the B2B side. The B2C side will only see revolution once AI robots arrive",
+              "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldr6za0/",
+              "created": 1721301465,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ldnlkro",
+      "score": 42,
+      "body": "[deleted]",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldnlkro/",
+      "created": 1721243235,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldo9zb2",
+          "score": 16,
+          "body": "To me it’s a benefit to reducing r&d costs for pharma and improving grid management for utilities. Everyone else .. some app to do something so you can continue devolving. ",
+          "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldo9zb2/",
+          "created": 1721251079,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldoa7kw",
+              "score": 9,
+              "body": "[deleted]",
+              "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldoa7kw/",
+              "created": 1721251156,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ldq1s6f",
+                  "score": 6,
+                  "body": "That’s what it will be used for. Stuff like that is why it’s so transformative. Some use cases are just more visible and publicized than others. \n\nMost people think AI is chatgpt but that’s like 1% or less of the use cases. It’s just the first mainstream one because it’s so anthropomorphic and fits how AI is portrayed in movies so it gets a lot of attention.",
+                  "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldq1s6f/",
+                  "created": 1721276040,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ldo7i7b",
+          "score": 5,
+          "body": "Yea what makes businesses more money is automating tasks and processing them quicker and more accurately than humans. It increases production and reduce costs by eliminating workers with simple/repetitive tasks. Automation via algorithms has been happening for decades already too. It’s nothing new. But AI is very hyped right now.",
+          "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldo7i7b/",
+          "created": 1721250255,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldojswd",
+          "score": 4,
+          "body": "so more reducing costs than increasing revenue.",
+          "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldojswd/",
+          "created": 1721254469,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldoe0lf",
+          "score": 8,
+          "body": "Honestly the AI image gen stuff can be equally game changing if and when it gets good enough to be indistinguishable from true photos. Not for posting shitty photos of African kids building cars out of plastic bottles on Facebook, but for advertisements, stock photography, visualization projects, hell I'm sure at one point you'll be able to implement real-time generative AI to video games to create infinitely detailed procedural worlds with completely true-to-life graphics.\n\nWe should definitely be focusing on the deepmind applications first and foremost, that's where the actual revolution will be in the short term, but I wouldn't write off the possibility of the more face-value consumerist side of AI coming into play in the long term",
+          "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldoe0lf/",
+          "created": 1721252444,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldp7zay",
+              "score": 8,
+              "body": ">implement real-time generative AI to video games to create infinitely detailed procedural worlds with completely true-to-life graphics. \n\n\nI've heard this before and immediately thought \"whoever thinks interacting with things in video games are just a matter of generating pictures hasn't gotten closer to game development than PowerPoint presentations\".  \n\n\n I'd need to dig out the paper but all the estimates for when we'll be able to do the easy stuff we'll keeps moving back while the hard stuff no-ones even started tackling is still the same, aka the more abstract we still are the easier people think it is. ",
+              "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldp7zay/",
+              "created": 1721263469,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ldpktbt",
+                  "score": 6,
+                  "body": "I'm an engineering student, I specialize in real-time interactive visualization in Unreal Engine, Twinmotion, Blender, etc. I'm of course not suggesting the entire game and anything in it would be magically coded to perfection by chatgpt, but a lot of the limiting factors involved with open world game maps could be drastically improved with AI implementation. \n\nLook at MS Flight Simulator, they have created a 1:1 replica of the earth using photogrammetry and satellite imagery. It looks decent at a distance, but the second you get up close to a city you'll see that the buildings are kinda just weird splotchy boxes on a poorly textured ground surface. And that's completely to be expected, obviously you can't expect a map designer to go through every single street and city on earth and model it by hand to look like real life. But if you could somehow train an AI model to \"brush up\" on those assets (for example by cross referencing street view photography), then you could create a full-size replica of the earth that's detailed enough for 1st person walking around. Basically just AI image upscaling, but for 3D assets. We're already able to do this, just not at a large enough scale for it to be practical. As the technology matures, I could easily see this becoming standard practice for games, allowing for much larger projects with less dev time. There's also the potential of LLM powered NPCs (already being tested in its early stages) and generative sound design.\n\nI could go on but there's really no point. I won't claim to be an expert on AI, but I've seen the things it's already able to do conceptually and how far some of it has already gotten. AI is not going away and I'm almost certain we'll see it show up in every aspect of our digital lives, sooner or later. Of course first we need to teach it how to draw hands properly.",
+                  "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldpktbt/",
+                  "created": 1721268523,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ldplmun",
+                      "score": 3,
+                      "body": "The key word you use is \"conceptually\". There is a price tag attached. \n\nSome advancement happens in smaller steps but investment wants leaps and finance is still reading all the small print and footnotes.  \n\nAI as a word is ahead of the term blockchain by the numbers in media use though .",
+                      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldplmun/",
+                      "created": 1721268859,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "ldpr4sl",
+                          "score": 2,
+                          "body": "Sure, I'm not saying any of this will happen overnight, or even in the next few years, my claim is just that AI from a consumerist standpoint will probably stick around for at least a good couple of decades and not be an overnight fad like 3D TVs or tamagotchis. And that's ignoring the professional use cases.\n\nNVDA to $1000 by 2038",
+                          "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldpr4sl/",
+                          "created": 1721271136,
+                          "depth": 5,
+                          "replies": []
+                        },
+                        {
+                          "id": "ldq9f7s",
+                          "score": 2,
+                          "body": "They didn’t suggest it would be cheap.",
+                          "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldq9f7s/",
+                          "created": 1721280076,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "ldpbujt",
+                  "score": 9,
+                  "body": "The less a person knows about AI the more excited they are about all the problems it will solve in the next few years.",
+                  "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldpbujt/",
+                  "created": 1721264984,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ldplzaj",
+                      "score": 4,
+                      "body": "bingo. \n\nMy new electric toothbrush has \"AI Technology \" ?",
+                      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldplzaj/",
+                      "created": 1721268998,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "ldq46t0",
+                          "score": 0,
+                          "body": "And it \"might\" as in some kind of ML was used for finding a slightly better bristle configuration or material or some other part of the design but whatever it is it's not some game changing revenue multiplier.",
+                          "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldq46t0/",
+                          "created": 1721277248,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ldppqwd",
+              "score": 0,
+              "body": "Yeah that sounds like a nightmare. Anything that is artistic expression should only come from something with real sentience and experience. Otherwise it's worthless masturbation.",
+              "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldppqwd/",
+              "created": 1721270549,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ldpshhx",
+                  "score": 5,
+                  "body": "Even when that artistic expression boils down to hiring an Indonesian software graduate to spend 50 hours a week placing virtual bushes in Unity?",
+                  "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldpshhx/",
+                  "created": 1721271719,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ldpx9nk",
+                      "score": 0,
+                      "body": "yeah thats not what you said. Being able to automate menial work is something everyone supports(disregarding the fact that the indonesian guy now needs a new job).   \n\n\nArt as an expression or as a product needs to come from a person. Otherwise it's just empty visual data assembled by generative word association. This includes advertisements, and \"visualization projects\" whatever the fuck that is supposed to mean. Because advertising has to actually convince or speak to a person for it to be effective.   \n\n\nCurrent generative models exclusively pump out worthless slop as a party trick, thats all it does at the moment to consumers. It's fad technology, not worth investment right now.",
+                      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldpx9nk/",
+                      "created": 1721273885,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "ldpxtu8",
+                          "score": 3,
+                          "body": ">Current\n\n>At the moment\n\n>Right now\n\nSome mildly important phrases I found in your comment",
+                          "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldpxtu8/",
+                          "created": 1721274145,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "ldq2az8",
+                              "score": 0,
+                              "body": "Right. It's your money.",
+                              "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldq2az8/",
+                              "created": 1721276296,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "ldrixka",
+                  "score": 1,
+                  "body": "Well, what is 'artistic expression'? One might say it's just the ability to make someone feel something via a creation. On that definition, AI can make art.\n\nFurther, for the most part, these images and videos are created by humans and hence conscious minds ever still, through prompting. Do they get no credit in the creative process?\n\nI don't disagree with you necessarily, but it's a very interesting topic worth exploring.",
+                  "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldrixka/",
+                  "created": 1721307036,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ldpdjec",
+          "score": 2,
+          "body": "Thats not GenAI/LLM though right. I think OP is specifically asking about all the talk about AI taking over the world which started after chatgpt. Deepmind stuff you are talking about predates  ChatGPT AI mania.",
+          "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldpdjec/",
+          "created": 1721265651,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldqh0j2",
+              "score": 2,
+              "body": "Alpha Fold (especially v3) is a generative model. It benefitted a lot from the advancements of the LLM community.",
+              "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldqh0j2/",
+              "created": 1721284648,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ldv1436",
+          "score": 1,
+          "body": "yup job/task specific AI will change the world, people are to focused on poor quality general conversation models.   I have Libra producing code better then most engineers, but it cant hold a conversation about all topics/pop culture etc.   In a few years it probably will be able to write better code then most engineers and hold a better conversation, not that holding conversation better then engineers is a high bar or anything...",
+          "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldv1436/",
+          "created": 1721351776,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldomuem",
+          "score": 0,
+          "body": "It doesn't automate things. Automation needs to be reliable. Ai can't make such things as for now",
+          "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldomuem/",
+          "created": 1721255562,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldop5zb",
+              "score": 4,
+              "body": "[deleted]",
+              "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldop5zb/",
+              "created": 1721256398,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ldqrxvg",
+                  "score": 1,
+                  "body": "Yeah, they are invested. But they aren't using it to make money.\nHalf of the world invested in blockchain decade ago. How are all this companies using it to generate money today?\n\nBelive me, no matter the 'hype' about AI, no sane engineer would ever allow code from Ai on production. And even when part of it is generated, you need another trained engineer yo check it out and correct.",
+                  "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldqrxvg/",
+                  "created": 1721291929,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "ldpds70",
+                  "score": 1,
+                  "body": ">It can and it does, in cybersecurity and industrial machinery.\n\nI thought thats just regular automation. can you share an example of AI industrial machinery ? I would not go near that thing lol",
+                  "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldpds70/",
+                  "created": 1721265748,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ldpn0qb",
+                      "score": 2,
+                      "body": "There is  no AI machinery. Machines follow basic instruction and code. Control centers for automated machinery hope to incorporate more AI.",
+                      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldpn0qb/",
+                      "created": 1721269425,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "ldpnud7",
+                      "score": 2,
+                      "body": "Robotics have been used in manufacturing and logistics for decades. Now, in the past 3 years \"AI\" has started to be redefined in common language to mean \"generative AI\" which is one small subset of the broader discipline. No, you won't be using LLMs to control industrial machinery, but unfortunately every discussion about AI is going to be confusing for a while.",
+                      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldpnud7/",
+                      "created": 1721269764,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ldogq9u",
+          "score": 0,
+          "body": "Paying attention to what 60 Minutes is paying attention to is always worthwhile.",
+          "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldogq9u/",
+          "created": 1721253380,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldpiupc",
+      "score": 7,
+      "body": "I can upload a pdf print of a yahoo finance statistic page for a stock, and chatgpt 4o will analyze all financial data, do a discounted cash flow valuation, make several graphs and other visuals to point out interesting insights, etc\n\nIt's already a jr-mid level financial analyst",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldpiupc/",
+      "created": 1721267744,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldqrx13",
+      "score": 3,
+      "body": "Welcome to the grift economy. AI will be in everything whether or not it's helpful, wanted, or even sensible. But the corpos will pay for it so the line will go up. Might as well cash in.",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldqrx13/",
+      "created": 1721291914,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldo5hls",
+      "score": 10,
+      "body": "My hopes is it will help women decide what they want to eat",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldo5hls/",
+      "created": 1721249600,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldper92",
+          "score": 3,
+          "body": "Defy the laws of nature it cannot.",
+          "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldper92/",
+          "created": 1721266132,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldq3789",
+          "score": 3,
+          "body": "Not gonna happen",
+          "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldq3789/",
+          "created": 1721276744,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ldpemdq",
+          "score": 2,
+          "body": "Thats the real turing test",
+          "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldpemdq/",
+          "created": 1721266079,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lds5fl7",
+          "score": 1,
+          "body": "AI will replace men. Women will choose AI in a heartbeat over real men. They will one day just spend all their time with AI as AI caters to women's primal needs.",
+          "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/lds5fl7/",
+          "created": 1721315189,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldplhy4",
+      "score": 3,
+      "body": "Eventually AI should be able to predict, with considerable accuracy, the short and long term effects of events or activities (natural or human). For example, AI may have been able to predict, years in advance, the 2008 crash resulting from Wall Street's financial shenanigans and greed. \n\nBig banks, hedge funds, investment bankers, etc. are currently spending billions on AI for market predictions. Because of the scope and complexity, humans will not be able to understand how these predictions are made and certainly won't be able to match them. \n\nImagine being able to predict, with considerable accuracy, what effect seemingly random, unimportant events will have on commodity prices, stock prices, etc. Or, what will be the long term effects of this deep political and cultural division in the U.S. will be.",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldplhy4/",
+      "created": 1721268803,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldu9myj",
+          "score": 1,
+          "body": "This is going on now using cluster computers to run economic models.  It's been going on for years, but the models get better and better.",
+          "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldu9myj/",
+          "created": 1721340950,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldpmb4c",
+      "score": 3,
+      "body": "The next gen services will change how things around you work in a big way.\n\nFirst, most people use machine+ai today already in many ways. They are anything from your product recommendations to better search engine to fraud detections to traffic predictions to stolen vehicles detection and many many more. All of these help making the services more efficient and useful to its users. However, as good as it is, the traditional machine learning+ai has its ceilings and have been very difficult to overcome. The usefulness of a lot of the traditional approaches appear limited to specific cases and expensive to deploy due to the expertise requirements. Thus only a handful of companies and products can utilize them.\n\nWith the new wave of AI, it seems that many of the limits of the traditional approaches have been extended so much so that it appears to be human-like ( and - in many cases, are better than human) . With these, the possibilities are huge beyond the chat bots and image generations. \n\nSince you are asking about how can I change the worlds, well ... there are just too many to tell you all about but some of the cool stuffs that I think people don't talk enough are \n\n(1) In medicine, the AI are helping people in many ways from helping the doctor taking notes to remote nursing to cancer cell + anomaly detection to symptoms recognitions. A lot of these are already in used today and many are on the way ( at least in the US) . This hopefully help address some of the constraints that we have and make the doctor visit more efficient and less expensive.\n\n(2) in agriculture, ai techs are used to help farmers control pests, detecting diseases + invasive plants, and easing climate change impact via predicting whether and schedule water usage.\n\n(3) in transportation, of course the autonomous driving and taxi-ing. Beyond what elon musk promised with tesla, Waymo ( google's company) already have fleets deployed in 3 cities. \n\nThere are many more but my responses are getting long. But - personally, I work for one of the big techs and am using AI to automatically detect and address issues before they get to our customers. This helps reduces our oncall loads and enables us to work on other more interesting works.",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldpmb4c/",
+      "created": 1721269133,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldnrerp",
+      "score": 8,
+      "body": "My car has driven me to work over 40 days in a row without assistance. 13 miles each way in pretty heavy San Diego traffic.\n\nThat's AI making real life change\n\nCan't wait until it can pick me up carry out",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldnrerp/",
+      "created": 1721245118,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldpxfbb",
+          "score": 2,
+          "body": "That is cool.  Have you done anything useful with the time while the car was driving?  Or, did you get enjoyment and refreshment from it?",
+          "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldpxfbb/",
+          "created": 1721273959,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldogft5",
+      "score": 2,
+      "body": "Automation that’s takes jobs",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldogft5/",
+      "created": 1721253279,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldoursq",
+      "score": 2,
+      "body": "Among other things, AI is a massive search engine and analyst tool. \n\nThat's not all it does, but one facet of AI is that it essentially scans the internet and puts together an \"answer\" of whatever it's asked to solve or put together.   It is good at recognizing data, and has proven itself in things like reading MRIs and other medical scans, but it isn't yet able to think on its own as people think if was created to do. \n\nThat being said,  my concern about AI is that it will search the internet for information and base it's results on faulty data.  Imagine a computer that scans Wikipedia,  where anyone can add or subtract data.  If enough people do it, (like a data/hack farm in a foreign country), the results can be manipulated and the repercussions can be catastrophic.   \n\nAgain, that's a small part.of what it is supposed to be able to do,  but given human nature, and how AI can be manipulated it is a dangerous thing. And as always the laws will lag significantly behind the technology.   \n\nSomeone will learn how to exploit it at someone else's expense.  I see it potentially being a massive hacking tool as it can be programmed to figure out people's passwords and creating images online that may be able to be used in nefarious ways. \n\nI think it will definitely have some negative uses before people can get a handle on it and even after it's supposedly \"tamed\" it can and will be abused.",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldoursq/",
+      "created": 1721258451,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldqohfp",
+          "score": 2,
+          "body": "The hype LLMS gets from amateurs is appalling. It will quickly become unfeasible as cost/improvement spirals into non profitability while application scope will narrow simply because this is not \"AI\", it's machine learning.\n\nI look forward to real AI making it's appearance and can't wait for all the non technical business people to shut the f up about jamming LLMS into everything desperately trying to stay in the game with the wrong technology",
+          "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldqohfp/",
+          "created": 1721289589,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldrw1ks",
+              "score": 2,
+              "body": "> Machine learning (ML) is a field of study in **artificial intelligence** concerned with the development and study of statistical algorithms that can learn from data and generalize to unseen data and thus perform tasks without explicit instructions.",
+              "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldrw1ks/",
+              "created": 1721312025,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ldpnh8m",
+      "score": 2,
+      "body": "No longer have to pay people for work",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldpnh8m/",
+      "created": 1721269614,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldpsy0n",
+      "score": 2,
+      "body": "teaching, i relied on AI to teach me a lot of concepts and things that i don’t know. Being able to get 3 or 4 explanations on a concept without even hoping to other webpages and filter all info is great",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldpsy0n/",
+      "created": 1721271921,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldquv7a",
+      "score": 2,
+      "body": "1) Using natural language to describe and query a database or spreadsheet. Joe Middlemanager can easily draw up any report he wants from a company database. If you haven't learned SQL yet -- don't bother.\n\n2) Computer vision: predicting depth without a stereo camera or identifying various objects within the picture. Obviously very important for self-driving vehicles but would be a perfect fit for robotic mowers or farm tractors for an extra layer of protection. Or security cameras -- offering something better than \"motion detected\".\n\n3) For storytelling or gaming you can generate D&D campaigns (no more DM / the DM can play too). \n\n4) Programming assistants. An AI can write a block of code or explain what the code does, etc. If you're a programmer and you haven't explored these you're definitely missing out.\n\n5) For 3D modeling there are several vendors of systems that will create a model from a 2D sketch or image or generate the complete model from a description. At a simpler level there are options to generate just the textures for a model.\n\nI could go on. And to be clear there are working implementations of all of these examples, although I'm not aware of any implementations of 2) specifically.",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldquv7a/",
+      "created": 1721293945,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldu9mrl",
+          "score": 1,
+          "body": "I had an AI write me some code today.  I had a deadline and had to prioritize other areas of more complex code, so having an AI write me a less important piece that I just had to plug in a few things to get working saved me quite a lot of time.",
+          "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldu9mrl/",
+          "created": 1721340947,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldrbh7h",
+      "score": 2,
+      "body": "So buy the hype for the next few years… noted.\n\nAutomation is really the only part that will have a real world noticeable impact the rest is operational efficiency. NViDia are selling the tech, same as MSOFT same as apple same as amd. Tsmc and aml are selling the parts. That’s all we need to know",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldrbh7h/",
+      "created": 1721303731,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldrpmf5",
+      "score": 2,
+      "body": "Since this is /r/stocks the obvious comparison is the dot.com bubble. This is important for two reasons. First, people lost a lot of money betting on business models they didn't understand. Second, many of those businesses are now mature and profitable but it took 15-20 years for that to happen. Kudos to the posters who tried to point that out. \n\nCorporations don't think in tasks, they think in FTEs (Full-time Equivalent employees.) AI is already researching and preparing first drafts of articles, white papers, financial reports, summary reports on scientific literature, and more. That work would have been done by a junior analyst, an intern, or a grad student. One or two FTEs will be six figures annually in almost any work place. Any AI use case that fits that math will pay for itself. \n\nShort term, expect a bubble. \n\nLong term, expect power and money to flow to those companies and organizations that have large proprietary data sets that AI can mine for profits and influence. I am pretty certain that you and I are somewhere in those data sets.\n\nI wish us luck. We are going to need it.",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldrpmf5/",
+      "created": 1721309688,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldrrqoz",
+          "score": 1,
+          "body": "Fantastic answer, thank you.",
+          "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldrrqoz/",
+          "created": 1721310480,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldwc764",
+      "score": 2,
+      "body": "look. as of 2 months ago, multimodal models are able to ingest hundreds of pages of pdf documents, and give accurate insights.\n\nimagine you are a pathologist, someone who spends their entire careers looking at biopsy slides to determine if a biospy is cancerous or not. you spend about half your time, ie 5 hours a day, reading through patient charts. ie their past medical documents. thousands upon thousands of pages of notes from previous doctors. these clues help you with your final diagnosis.\n\nthese guys are paid 400k a year. half their time is wasted reading past medical documents.\n\nimagine you can summarize 2000 pages of medical documents into a 2 page chronology highlighting the most relevant facts and findings that's relevant for a cancer diagnosis.\n\n  \nyou do the math on what means from a savings perspective. both from a money perspective obviously, allowing hospitals to have more budget. but also from a life saving perspective. how many more patient files can a pathologist read in a day; how many more correct diagnosis can a pathologist make?\"\n\n\n\n  \nnow think about a patent office who spends their entire weeks hiring government contractors to read and review patent filings. most of them are garbage; meaning that 80% of their time is wasted reading through files submitted by patent trolls. your tax dollars are going to fund that.\n\nnow imagine 80% of those filings are filtered out and the remaining 20% is graded on a curve by a language model. imagine 80% of your tax dollars being saved to do more productive work. how much more willing are you to file your taxes?",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldwc764/",
+      "created": 1721375575,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldx0t5s",
+          "score": 1,
+          "body": "Great example",
+          "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldx0t5s/",
+          "created": 1721390467,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldoj9lh",
+      "score": 5,
+      "body": "Can someone explain how the steam engine will change the world in a meaningful way?\n\nCan someone explain how animal husbandry will impact the world in a meaningful way?\n\nThe answer is always more production.",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldoj9lh/",
+      "created": 1721254279,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldomtbj",
+          "score": 3,
+          "body": "This is probably the most meaningful answer I've seen so far. Your right. \n\nEven if we don't fully undersatnd how it will be implemented, companies are investing in it in order to increase production and reduce cost.",
+          "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldomtbj/",
+          "created": 1721255551,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldnn0ah",
+      "score": 2,
+      "body": "Yeah, because google search definitely didn't change the world in any meaningful way...\n\nAI requires a lot of handholding and direction through prompts and software engineers.  Software engineers that do AI are expensive, and consumers have been conditioned to not want to pay for internet services, instead they give up all their data.  AI also requires pretty expensive hardware to run, so much so that nobody with a sustainable business is going to want to build AI stuff for free.\n\nAlso, having spoken about my AI job excitedly to my hair stylist, I can say that even something proven and established like Google isn't super useful to the real \"average\" person.  They pretty much just use GPS and reviews.\n\nA lot of people don't care, those that do don't want to pay for it, and making it and running it costs too much to offer for free.\n\nA lot of AI products are focused on B2B and enterprise, where the pockets are deep and they can even afford dedicated AI software engineers to set it all up for them.\n\nThe use cases there are hard to understand unless you work in a field and see it for yourself.\n\nAlso, I want to mention, VR is genuinely a game changing technology, but it's just really early.  AI already has use cases in production and in development.",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldnn0ah/",
+      "created": 1721243701,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldnvdzz",
+      "score": 3,
+      "body": "The one impression I take away from this AI gold rush is that the companies involved don't really have a \"moat\" as some companies in the past had to rocket up their values (like Amazon).   The only moat in AI as I see it is cash.  The companies that can afford to buy up talent and smaller companies in that space without compromising their core business.\n\nI do get that companies like Nvidia have an advantage, but that's not a moat.  The implementation of AI could just as well advance to the point that the hardware doesn't matter, (at least as much as now) just as all computation-intensive technologies experienced in the past.  Those things happen much faster now.\n\nAs to meaningful change in the world, I don't know anymore than anyone else does if it will be a benefit or a hindrance, outside of some cost-cutting measures perhaps, but it could lead to some breakthroughs in other technologies that would take us wetware beings too long to discover I suppose.",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldnvdzz/",
+      "created": 1721246370,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldobwfp",
+      "score": 2,
+      "body": "AI has already meaningfully changed the world through surveillance capitalism. When you google the web, you are accessing only about 17% of it. The rest of the deep web is the internet of things, data infrastructure and data warehouses and infrastructure to keep all of that hidden.\n\nThe purpose of this is to modify your behavior and to know all about you. It has been wildly successful.  A case study would be how Walmart leveraged its online activities to increase sales dramatically.  Sales inside and outside stores. That is only 1 mega corp.\n\nDo a google search on any product and observe how many results are Amazon.    Millions of retailers have gone out of business due to Amazon's web domination.\n\nThis info is leveraged for business, political outcomes, consumption of a plethora of products and behaviors. Dynamic pricing, individual dynamic pricing, targeted consumption and on an on.  It has changed society completely. None of the below would have been possible without AI. \n\n* Today, 2,668 billionaires — 573 more than in 2020 — own $12.7 trillion, an increase of $3.78 trillion. They have an estimated $8 trillion hidden away in tax shelters. \n* The world’s ten richest men own more wealth than the bottom 40 percent of humanity, 3.1 billion people.\n* The richest 20 billionaires are worth more than the entire GDP of Sub-Saharan Africa.\n* A worker in the bottom 50 percent would have to work for 112 years to earn what a person in the top 1 percent gets in a single year.\n\n[https://www.oxfam.org/en/press-releases/pandemic-creates-new-billionaire-every-30-hours-now-million-people-could-fall](https://www.oxfam.org/en/press-releases/pandemic-creates-new-billionaire-every-30-hours-now-million-people-could-fall)",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldobwfp/",
+      "created": 1721251732,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldqkt1r",
+          "score": 3,
+          "body": "That's mostly done using traditional data analysis methods, which haven't radically changed in the last decade, not AI.",
+          "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldqkt1r/",
+          "created": 1721287098,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldued9c",
+              "score": 1,
+              "body": "Facial expressions and word phrasing is AI but you are mostly right I would imagine. However, when you are sifting through terabytes of information, you use AI to develop algorithms to speed up the process.  Sure you can use brute force, but that is more expensive. The use of AI for big data mining is seems to be prevelant among megafirms.  \n\nCambridge Analytics used AI to develop it's algorithms and that seems ages ago.  \n\nAll that said, it is not my area of expertise so most of this is information gathered from sources that may not be completely reliable.  Perhaps you can expand more upon this.",
+              "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldued9c/",
+              "created": 1721342911,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ldnwp3g",
+      "score": 2,
+      "body": "[deleted]",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldnwp3g/",
+      "created": 1721246788,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldpxoey",
+          "score": 2,
+          "body": "Sounds like your company is being hollowed out pretty thoroughly.",
+          "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldpxoey/",
+          "created": 1721274075,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldrar1b",
+              "score": 1,
+              "body": "[deleted]",
+              "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldrar1b/",
+              "created": 1721303378,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ldryhm8",
+                  "score": 1,
+                  "body": "When all the assets are overseas (or software-as-a-service), IDK why the CEO will be needed anymore...",
+                  "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldryhm8/",
+                  "created": 1721312867,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ldo7nuo",
+      "score": 2,
+      "body": "Autonomous engineers smarter than all of humanity don't immediately give the idea of world-changing? Just wait a few more years.",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldo7nuo/",
+      "created": 1721250307,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldp5k31",
+      "score": 2,
+      "body": "EVERYTHING\n\nIt’s like asking how will interstate/world commerce, or the internet, or the industrial revolution will change the world.",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldp5k31/",
+      "created": 1721262526,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldp649a",
+      "score": 2,
+      "body": "It won’t. At least not to the extent that Nvidia stock has you thinking.",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldp649a/",
+      "created": 1721262742,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldnnk1e",
+      "score": 2,
+      "body": "You’re not thinking 4th dimensionally Marty.\n\nStocks jumped on the _promise_ of AI, not AI as it currently is now.\n\nYes, it’s useful. Yes, it’s changed a lot already. But the big money will be made once AI becomes “intelligent” enough to _really_ start replacing jobs. Based on how quickly the technology has been advancing, that may come sooner than we think.\n\nImagine a fleet of automated, efficient and extremely safe taxis run by AI. Or an army of drones or robodogs. Or a McDonalds restaurant that handles orders and inventory entirely automatically, maybe even the food will be cooked by robots eventually. Or a software development team augmented or fully replaced by AI writing code.\n\nAI doesn’t need a salary. It doesn’t need a break. It doesn’t need time off, paid leave or a union.\n\nThink of the _billions_ that will be saved.",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldnnk1e/",
+      "created": 1721243877,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldnr6hl",
+          "score": 2,
+          "body": "The most impressive AI applications do need a metric ton of energy and high cost compute to run though- to the point that the real business benefits don't justify the real costs in the foreseeable future. The argument that AI costs will drop over time also is misleading, as it is a structurally different cost benefit structure from something like the low cost high benefit internet. AI is high cost and it will need a high benefit to justify it that has not materialized yet.\n\nIn terms of automation and efficiency, the age old adage about computers says: The issue with PCs is that they do *exactly* as the operator inputs, not necessarily what the operator *intends*. AI is the same and that tempers a lot of my expectations for how well truly automating things like drive throughs and taxis will go. Notably, MCD's discontinued their AI partnership for drive through orders about a month ago due to operational issues. It will surely make certain things quicker and more efficient, but I think the transformative power of it is overstated. Big Tech needs a new \"blue ocean\" like the internet to justify continued growth expectations and I think those expectations have been pulled forward too much.",
+          "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldnr6hl/",
+          "created": 1721245044,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldnvalg",
+              "score": -1,
+              "body": "You’re not thinking 4th dimensionally either. Computers with 1/100000th the processing power used to be the size of research laboratories and suck up as much power as the rest of the laboratory combined. That changed, AI tech can too.\n\n> The issue with PCs is that they do exactly as the operator inputs, not necessarily what the operator intends. AI is the same\n\nNo, it isn’t. Not even today, and that’s why it’s so game changing. By definition, true AI has the capability to reference memory, compare it to a relevant context and make decisions based on that comparison.\n\nIt _learns_. That’s why it’s called machine learning.",
+              "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldnvalg/",
+              "created": 1721246342,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ldnw9fm",
+                  "score": 2,
+                  "body": "Chips can only shrink so much though, the electron barrier is a real issue for denser chips and so progression from here is more a matter of the process of computing rather than smaller and denser chips like today compared to computers in the 70s. It's a more difficult issue to make AI more efficient here than it was for computing in general previously. There are definitely applications and many applications that are good in terms of cost benefit. But I think the near term potential has been overstated kind of like fusion energy sometimes is. We're not dealing with AGI, creative true intelligence, we're dealing with highly accurate and trained predictive algorithms. The layman presents them as equivalent but they have very different processes and endgame capabilities.",
+                  "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldnw9fm/",
+                  "created": 1721246648,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ldo0nr8",
+                      "score": 1,
+                      "body": "> Chips can only shrink so much though\n\nThat’s true, but that’s not the only bottleneck to cost effective, power saving innovation. I agree the improvements probably won’t be as drastic as they were from the 70s to today, but other sectors might pick up the slack (more efficient power generation, batteries, etc)\n\n> I think the near term potential has been overstated \n\nWithout a doubt, and I’d be shocked if we don’t see a late 90s dot com like correction in tech within a year or two.\n\nBut I think within a decade the potential will be realized. AI models have been improving dramatically, even by computer innovation standards.",
+                      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldo0nr8/",
+                      "created": 1721248049,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "ldpv1hx",
+                          "score": 2,
+                          "body": ">But I think within a decade the potential will be realized. AI models have been improving dramatically, even by computer innovation standards.\n\nYeah, but that's the problem. In stocks (and the market generally), we care about relatively short term. NVDA needs to essentially make close to $3T in the next five years or so to justify its valuation. If it takes 10+ years, then those future earnings should barely be priced in.",
+                          "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldpv1hx/",
+                          "created": 1721272860,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ldnvhhd",
+      "score": 1,
+      "body": "It’s going to make Microsoft a lot of money?",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldnvhhd/",
+      "created": 1721246401,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldnwdmp",
+      "score": 1,
+      "body": "Have you asked ai that question?",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldnwdmp/",
+      "created": 1721246686,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldoiw83",
+      "score": 1,
+      "body": "fewer call centers.",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldoiw83/",
+      "created": 1721254146,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldp8jpk",
+          "score": 3,
+          "body": "more call centers.  just no people in them.",
+          "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldp8jpk/",
+          "created": 1721263688,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldpv56q",
+              "score": 2,
+              "body": "More data centers, not call centers.",
+              "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldpv56q/",
+              "created": 1721272906,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ldpeafo",
+      "score": 1,
+      "body": "I think it can help with a lot of production and manufacturing jobs, as well as the automation and accuracy of most businesses. But that's exactly what scares me.... \n\nIf businesses start replacing human jobs with AI, where does that leave most of the work force?? Are they just going to be broke, homeless and unable to feed their families? Ai advancement makes me feel like there's no benefit to most of humanity and we'll be in a Depression era, unless you're a business owner benefiting from a reduced work force and saving money, while rest of the country rots.\n\nI think there should be some laws regarding companies not being able to fire dozens of employees due to AI implementation.",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldpeafo/",
+      "created": 1721265947,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldpex7f",
+          "score": 1,
+          "body": "Once layoffs related to automation start happening, laws will probably come into place. Or, the government will revisit the idea of universal basic income.",
+          "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldpex7f/",
+          "created": 1721266196,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldv4arb",
+              "score": 2,
+              "body": "I've not heard of a universal basic income idea. And I very much doubt it will ever happen. We (in the US) can't even give people access to universal healthcare or universal higher education!  So I very much do not see our US govt giving people free income, nor do I think they should.",
+              "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldv4arb/",
+              "created": 1721353057,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ldprb04",
+      "score": 1,
+      "body": "Generating 500 cigarettes out of air when needed",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldprb04/",
+      "created": 1721271209,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldq4ozl",
+      "score": 1,
+      "body": "I think it can immensely improve the practice of medicine:  1) help assist in identifying trends/abnormalities in imaging, labs, vitals to ensure patients get the appropriate care more safely and efficiently 2) ensure the hospital is appropriately stocked with the right equipments, tools, medicines so they are used efficiently with less waste.",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldq4ozl/",
+      "created": 1721277506,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldq5tfo",
+      "score": 1,
+      "body": "You can literally ask ChatGPT that",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldq5tfo/",
+      "created": 1721278093,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldqbj7y",
+      "score": 1,
+      "body": "Well have you tried to use ChatGPT? I’m not trying to sound rude but personally I realize the difference it can bring by really using it myself.\n\nYou could insert this exact question you posted here.",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldqbj7y/",
+      "created": 1721281305,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldqngvl",
+      "score": 1,
+      "body": "Hop in, no time to explain.",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldqngvl/",
+      "created": 1721288901,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldqq94a",
+      "score": 1,
+      "body": "Basically, when new things come out, we cannot predict how they will change the world.\n\nWhen Einstein dropped E = MC squared, people did not know it would result in nuclear power and nuclear weapons. \n\nThis is important because the order that seems natural is wrong. \n\n-> there's an unmet want -> money is invested to solve the want -> solution found.\n\nvs\n\nActual order \n\n-> group of people dedicated to pushing science/tech frontier -> new stuff available -> separate set of people make things they think are useful based on new stuff -> some boom, some don't\n\nTrying to predict what will change the world based on AI is trying to predict the internet of today half a century ago",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldqq94a/",
+      "created": 1721290789,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldqyih3",
+      "score": 1,
+      "body": "AI can write code pretty well.",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldqyih3/",
+      "created": 1721296439,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldr5ufi",
+      "score": 1,
+      "body": "I’m sure it will in some ways but generally it’s a racket",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldr5ufi/",
+      "created": 1721300862,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldrmj4m",
+      "score": 1,
+      "body": "I think of it like the early days of the computer. It was impossible to see all the ways it would permeate through our lives. Now we are at the point where you are awoken by the computer you keep with you all the time, get ready and go to work in your car that has multiple computers, likely to go to work and use a computer. So how did the computer change the world in meaningful ways, it’s almost too broad to even say. It changed the world in every way, and that is what AI will do.",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldrmj4m/",
+      "created": 1721308492,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldrqqe7",
+      "score": 1,
+      "body": "I would say... don't underestimate the value of giving people new tools. The breakthrough in transformer neutral networks in the past few years has enabled all sorts of clever applications to be formed. People are starting to get access to pretrained and incredibly powerful neural networks that could actually be used in real-time. The hardware is no longer the bottleneck and a lot of companies are willing to start giving it a shot. A couple more breakthroughs in architectures and it truly could change everything. Computers were always computationally better than humans  but they are almost becoming deductively better too.",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldrqqe7/",
+      "created": 1721310104,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldrywdr",
+      "score": 1,
+      "body": "Nvidia chips were in use way before the AI revolution. AI learning will be a huge advancement in the robotics field. AI assistants will be able to replace human assistants eventually with things like planning, scheduling, and will be able to beyond just the automated calls you have with big companies now. AI is the legitimate future.",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldrywdr/",
+      "created": 1721313008,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lds6svz",
+      "score": 1,
+      "body": "It is like the Internet was in 1996-1998. There are a lot of roads and solutions there. I think we are in the 1984 phase of it and we will get into the brave new world soon after. Culture wars will be fought and won with this technology.",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/lds6svz/",
+      "created": 1721315640,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldt39rt",
+      "score": 1,
+      "body": "Research the “ Rabbit r1 “ device. I own one and that my friend is definitely the future. It’s like a whole knowledge base that you can audibly interact with. It’s like having a professor at your side for anytime you need assistance with something. Rather it be work, school, finances, health, law, literature, or entertainment it’s all right there. It will also listen to a meeting and summarize it for you in writing. It also has a live translator for bi lingual conversations.",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldt39rt/",
+      "created": 1721326329,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldu4tew",
+          "score": 1,
+          "body": "Sounds like a bull case for ALPHABET and APPLE and future generations of android and iPhone?",
+          "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldu4tew/",
+          "created": 1721338588,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldt3q39",
+      "score": 1,
+      "body": "AI is a bubble and nobody knows when it's going to burst but it will. Question is will it burst but still be extremely important and a game changer like the Internet? Or will it merely power chat bots and help developers code?",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldt3q39/",
+      "created": 1721326477,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldv0gkw",
+      "score": 1,
+      "body": "I used Libra AI to generate python code saves hours and its getting better as I teach it.  Its revolutionary as the code it can generate is better then what most entry/mid level software engineers can do.    Keep in mind that the AI most people see now is a terrible jack of all trades, specific field AI will replaces millions of 'busywork jobs'.",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldv0gkw/",
+      "created": 1721351513,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldvf3nc",
+      "score": 1,
+      "body": "Whatever happens, I think we'll see rapid advancements for the next few years before diminishing returns kicks in. It's going to seem to moving exceptionally fast, but that's because we're working from the lowest baseline. If we were even close to reaching these things I think our tech would be kind of capable of doing it now, but we're still so far off which means it may not happen for decades or even on a timeframe that will affect us.",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldvf3nc/",
+      "created": 1721357515,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldx4vb5",
+      "score": 1,
+      "body": "A lot of medical records companies are trialing AI assisted note generation. From what I’ve seen, it works quite well. I can easily see it becoming mainstream within healthcare as it saves doctors and residents lot of time. For instance, I worked with a doctor who sees roughly 25 patients a day in her clinic and it has saved them 3-4 hours a day on writing notes",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldx4vb5/",
+      "created": 1721392288,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldxe2hz",
+          "score": 2,
+          "body": "I actually went to the dentist yesterday, and when the x-rays showed up on the screen, they were running a software called Videa AI. I looked it up later and it's a system that helps them imediately identify problem areas. \n\nThis must save the dentist hours per day reviewing patients x-ray images. I was imediately impressed by it. I'm starting to see how this is can benefit people just from a basic software perspective.",
+          "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldxe2hz/",
+          "created": 1721396015,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "le2kvku",
+              "score": 2,
+              "body": "Oh wow, interesting. As someone who is in medicine, these types of applications are fascinating. Especially given how quickly everything has been progressing. Just look at how much things have advanced in 2-3 years. However, it’s a scary sign for job security. If they can already read dental x-rays, how long until radiologists are being replaced?",
+              "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/le2kvku/",
+              "created": 1721477305,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "le2xpzd",
+                  "score": 2,
+                  "body": "I agree, but we obviously still need the human professional there to check the work done by the AI.",
+                  "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/le2xpzd/",
+                  "created": 1721483334,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "leg9gz7",
+                      "score": 1,
+                      "body": "Oh 100%. But 1 radiologist can now check the work of an AI that’s reading the same number of scans it would take 3-4 radiologists",
+                      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/leg9gz7/",
+                      "created": 1721686002,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "le480ri",
+      "score": 1,
+      "body": "People used to ask what good the internet was, other than looking at porn? … I still dont know the answer to that question … What is it good for other than porn?",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/le480ri/",
+      "created": 1721500514,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "le4fknu",
+      "score": 1,
+      "body": "The answer is advertising. \n\nYou're going to have an AI tracking everything you do and custom selecting (or even generating from scratch) the most effective ads. \n\nAlso a TON of white collar work could be replaced by an effective GPT. For example paralegal work or financial analysis. The amount of research and the quality of presentation that an AI can do in 2 minutes will soon surpass what a person can make in a full day.",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/le4fknu/",
+      "created": 1721503362,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "le9autx",
+      "score": 1,
+      "body": "There will be meaningful impacts in productivity, criminal activity, war, and porn.  Like every other new technology.",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/le9autx/",
+      "created": 1721584831,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "leakfzq",
+      "score": 1,
+      "body": "All GenAI bar none is at best an estimation of what the user requested, which always requires verification and fixing if necessary.. it will never be 100% accurate therefore i don't take it seriously, at best it gives you a hint.",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/leakfzq/",
+      "created": 1721600166,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "leed9wi",
+      "score": 1,
+      "body": "Taking jobs humans do. So less people employed for a computer program.",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/leed9wi/",
+      "created": 1721664172,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldnmpo4",
+      "score": 1,
+      "body": "Some companies will find real use cases for ai and some won’t. One real use case is robots doing human tasks in warehouses.",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldnmpo4/",
+      "created": 1721243603,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldo39vu",
+          "score": 11,
+          "body": "We have already had that for years and it’s not “ai”. The ai buzzword is being used for everything these days for technology we’ve even had for actual decades. \n\nI work in automation and controls engineering. I swear marketing people are calling technology “ai” that we’ve had since the 50s by first using pneumatics.",
+          "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldo39vu/",
+          "created": 1721248886,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ldpns3z",
+              "score": 2,
+              "body": "Bingo. Everything old is new again. the poor light sensor is so misunderstood.",
+              "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldpns3z/",
+              "created": 1721269737,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "ldo4wqt",
+              "score": 1,
+              "body": "👍🏽 ",
+              "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldo4wqt/",
+              "created": 1721249411,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ldofkpf",
+      "score": 1,
+      "body": "The BS in the comments is hilarious. It’s hype. It’s done nothing novel to date. It’s an incremental productivity gain. It can’t do complex math or science. A few large cap tech stocks are the primary drivers of the capex, if they don’t crush earnings in the next 12 months and Trump wins it will be dot com bust 2.0, the AI hoax.",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldofkpf/",
+      "created": 1721252978,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ldopmo5",
+          "score": 1,
+          "body": "You clearly don’t understand what ai correcting ai can do 🤭🫨",
+          "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldopmo5/",
+          "created": 1721256563,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ldomydo",
+      "score": 1,
+      "body": "There aren't any examples right now. It's overhyped.",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldomydo/",
+      "created": 1721255603,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ldnql1k",
+      "score": 0,
+      "body": "Look at OpenAI Sora. There are a lot of small examples for research and automation that can enhance almost any knowledge worker role, but things like Sora and Midjourney will displace and/or supplement a lot of creatives. [https://openai.com/index/sora/](https://openai.com/index/sora/)",
+      "permalink": "/r/stocks/comments/1e5qd67/can_someone_explain_exactly_how_ai_services_will/ldnql1k/",
+      "created": 1721244852,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

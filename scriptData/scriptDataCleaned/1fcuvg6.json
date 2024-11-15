@@ -1,0 +1,251 @@
+{
+  "title": "Why ElasticSearch (ESTC) is still overvalued after a 30% drop this month",
+  "score": 83,
+  "selftext": "I wanted to bring some qualitative discussion as to why I think Elasticsearch is only at the start of its downfall.\n\nYou'll need to know some history behind how Elasticsearch started and why it became so popular in the DevOps world. \n\nTLDR: They used to be opensource but Amazon basically stole their code and offered their service on AWS with the same name. Elasticsearch got pissed, changed their licensing from open source in 2021 and sued Amazon. Fast forward to today, theyve now settled with Amazon. However, since 2021, AWS has created their own competitor called Opensearch which is basically just a forked version of Elasticsearch with Amazons own contribution to it.... and they've been gaining a ton of market share.\n\nThe main reasons why\n\n1. Engineering managers and open source devs that spent time on developing Elasticsearch open source got screwed by Elastic in 2021 and trust eroded\n\n2. Opensearch is a part of the AWS ecosystem and why would a company go out of their way to add another vendor like Elastic if everythings already managed under AWS for them?\n\nThis graph shows a snapshot of the adoption of both:  \nhttps://db-engines.com/en/ranking\\_trend/system/Elasticsearch%3BOpenSearch%3BSplunk?\n\nAs you can see Opensearch is gaining more and more traction where as Elastic seems to be stagnating.\n\nHowever, anecdotally, I think this is worse than it looks for Elasticsearch. I know for a fact internally teams still refer to Opensearch as Elasticsearch because it is just a fork of it.\n\n  \nI think this story will be similar to how Microsoft Teams due to its distribution channels completely swept up market share from Zoom. Similarly, I think this will happen with Opensearch and Elasticsearch.",
+  "link_flair_text": "Company Discussion",
+  "id": "1fcuvg6",
+  "num_comments": 33,
+  "created_utc": 1725902300,
+  "permalink": "/r/stocks/comments/1fcuvg6/why_elasticsearch_estc_is_still_overvalued_after/",
+  "comments": [
+    {
+      "id": "lmb54ta",
+      "score": 81,
+      "body": "TILT, ElasticSearch is a publically traded company. 😭",
+      "permalink": "/r/stocks/comments/1fcuvg6/why_elasticsearch_estc_is_still_overvalued_after/lmb54ta/",
+      "created": 1725904269,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmbc1ad",
+          "score": 10,
+          "body": "Yep was just as surprised as you haha",
+          "permalink": "/r/stocks/comments/1fcuvg6/why_elasticsearch_estc_is_still_overvalued_after/lmbc1ad/",
+          "created": 1725906484,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lmcjh2b",
+      "score": 10,
+      "body": "You forgot reason 3 - they made sure it was a cost savings compared to Elastic Search.\n\nSigned, a guy whose shop migrated everything from ES to OS.",
+      "permalink": "/r/stocks/comments/1fcuvg6/why_elasticsearch_estc_is_still_overvalued_after/lmcjh2b/",
+      "created": 1725920372,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmbg24s",
+      "score": 16,
+      "body": "I am amazed at how company that doesn’t even grow at 20% and lost over 50 mill last Q is trading at 6x its revenue..",
+      "permalink": "/r/stocks/comments/1fcuvg6/why_elasticsearch_estc_is_still_overvalued_after/lmbg24s/",
+      "created": 1725907786,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmbeg7s",
+      "score": 11,
+      "body": "I don't think it's that simple all. Some enterprise companies or government will not choose open source and sometimes prefer closed source. Sure individual and small projects will use Opensearch, because it is easier to get started, but what larger companies will do is what is important. Because it is a fork of a now closed source application, it is going to diverge more and more and not be a one to one replacement as more time goes on. Just because there is competition doesn't mean anything. I am no expert in evaluating database stock, but I know mongodb is publicly traded and they have a lot of document store database competition and they are still doing fine on the market.",
+      "permalink": "/r/stocks/comments/1fcuvg6/why_elasticsearch_estc_is_still_overvalued_after/lmbeg7s/",
+      "created": 1725907264,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmbimzt",
+          "score": 4,
+          "body": "I should have mentioned that after the backlash, Elasticsearch has gone back to being open source again. So both are open source options but Elasticsearch has to convince people that their solution is not only better than Opensearch, but that its worth adding a vendor like Elastic to manage their service. With the eroded trust, I would bet against experienced engineering managers in the DevOps space trusting Elastic again. The amount of added work Elastic put on engineering teams to analyze pricing with the changing of licenses really confused the market and a lot of teams opted to switch to Opensearch even though their search as of now is not superior. But Amazon looks committed to improving Opensearch and if I were a betting man, I'd bet on Amazon's ability to improve and close the gap.",
+          "permalink": "/r/stocks/comments/1fcuvg6/why_elasticsearch_estc_is_still_overvalued_after/lmbimzt/",
+          "created": 1725908611,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lmd255n",
+          "score": 0,
+          "body": "I'm not sure why you believe it would be limited to individual and small projects, AWS has become the backbone of the server world (like reddit).  AWS has such a big portion of the cloud marketshare they essentially dictate what gets used, you could even argue it borders into anti-competitive.  It kind of reminds me of when Microsoft packaged IE in with the OS to kill the competition.\n\nI think OP's reasoning is pretty good, no idea how it will play out though.",
+          "permalink": "/r/stocks/comments/1fcuvg6/why_elasticsearch_estc_is_still_overvalued_after/lmd255n/",
+          "created": 1725927153,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lmcf9a3",
+      "score": 3,
+      "body": "This graph is not proof, it's mentions on Reddit.  What would be proof is their database falling in usefulness, which I don't think is happening.  \n\n\nThe problem with open source is the boring work is rarely done, especially if every other cloud provider can pilfer your work.  Its the old Redhat vs Debian debate.",
+      "permalink": "/r/stocks/comments/1fcuvg6/why_elasticsearch_estc_is_still_overvalued_after/lmcf9a3/",
+      "created": 1725918931,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmbfygs",
+      "score": 6,
+      "body": "between this and hashicorp, I only have so much money for deep otm puts lmao",
+      "permalink": "/r/stocks/comments/1fcuvg6/why_elasticsearch_estc_is_still_overvalued_after/lmbfygs/",
+      "created": 1725907752,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmbi39j",
+          "score": 5,
+          "body": "Hashicorp is set to be acquired by IBM",
+          "permalink": "/r/stocks/comments/1fcuvg6/why_elasticsearch_estc_is_still_overvalued_after/lmbi39j/",
+          "created": 1725908433,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lmblci1",
+              "score": 2,
+              "body": "why is IBM making a comeback?",
+              "permalink": "/r/stocks/comments/1fcuvg6/why_elasticsearch_estc_is_still_overvalued_after/lmblci1/",
+              "created": 1725909481,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lmc0i3b",
+                  "score": 2,
+                  "body": "IBM isn't really the same company anymore. They spun a lot of their legacy businesses off in Kyndryl, which has been a complete disaster since the spinoff (still down like 43%), though to be fair it lost most of it's value in the first month or so of that spinoff and has slowly worked it's way up since.",
+                  "permalink": "/r/stocks/comments/1fcuvg6/why_elasticsearch_estc_is_still_overvalued_after/lmc0i3b/",
+                  "created": 1725914227,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lmdh4xh",
+      "score": 2,
+      "body": "Just on how much they bring in they are overvalued, I wouldn’t be surprised if they even drop in the 50s. The only issue is they get the benefit of the doubt cause they are tech.",
+      "permalink": "/r/stocks/comments/1fcuvg6/why_elasticsearch_estc_is_still_overvalued_after/lmdh4xh/",
+      "created": 1725932607,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmc502j",
+      "score": 1,
+      "body": "I use elasticsearch a lot, the biggest use case for it is using it for systems monitoring and observability, it is however a very bad tool for doing that. It was a great tool about 10-15 years ago but it's been superseded with much better purpose put tools and they simply can't keep up. As I write this my main project at work is dumping our elasticsearch setup and moving to a competitor.",
+      "permalink": "/r/stocks/comments/1fcuvg6/why_elasticsearch_estc_is_still_overvalued_after/lmc502j/",
+      "created": 1725915614,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmc63hw",
+          "score": 1,
+          "body": "Which competitor?",
+          "permalink": "/r/stocks/comments/1fcuvg6/why_elasticsearch_estc_is_still_overvalued_after/lmc63hw/",
+          "created": 1725915962,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lmc6e5o",
+              "score": 3,
+              "body": "Probably Grafana cloud, but not for sure yet.",
+              "permalink": "/r/stocks/comments/1fcuvg6/why_elasticsearch_estc_is_still_overvalued_after/lmc6e5o/",
+              "created": 1725916056,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lmdg2yr",
+                  "score": 2,
+                  "body": "What problems with elastic are you trying to solve for exactly",
+                  "permalink": "/r/stocks/comments/1fcuvg6/why_elasticsearch_estc_is_still_overvalued_after/lmdg2yr/",
+                  "created": 1725932212,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lmdjtd8",
+                      "score": 2,
+                      "body": "Are you asking as an engineer or a business person trying to understand the company? In general, their observability stack is difficult to use, has poor performance, and requires too much baby sitting to keep it working. A big issue is to setup alerts you have to write a 200 line json file in a propritary query language, then combine and massage the results with another scripting language to alert you if you have a database running low on storage. For someone who isn't an expert on writing alerts, it may mean a day or two massaging a query to alert on something trivial that should take a few minutes.",
+                      "permalink": "/r/stocks/comments/1fcuvg6/why_elasticsearch_estc_is_still_overvalued_after/lmdjtd8/",
+                      "created": 1725933621,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lmezd89",
+                          "score": 1,
+                          "body": "I've setup 20 alerts so far and it doesn't seem that hard to me. Perhaps I'm missing something though?",
+                          "permalink": "/r/stocks/comments/1fcuvg6/why_elasticsearch_estc_is_still_overvalued_after/lmezd89/",
+                          "created": 1725963208,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lmg8g08",
+                              "score": 1,
+                              "body": "Watchers or alert rules? Alert rules are new and simple but are limited in what you can do with them.",
+                              "permalink": "/r/stocks/comments/1fcuvg6/why_elasticsearch_estc_is_still_overvalued_after/lmg8g08/",
+                              "created": 1725981769,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lmgnspd",
+                                  "score": 1,
+                                  "body": "Alert rules I think.\n\nWhat are watchers?",
+                                  "permalink": "/r/stocks/comments/1fcuvg6/why_elasticsearch_estc_is_still_overvalued_after/lmgnspd/",
+                                  "created": 1725986663,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "lmhl746",
+                                      "score": 1,
+                                      "body": "Alert rules are very limited, if you need to something like divide disk usage by disk capacity you have to use a watcher instead of an alert rule. Alert rules only got added in version 8 of elastcisearch and didn't exist previously. Watchers require you to write the elasticsearch query by hand, the trigger, and the action.\n\nHere is an example of one I had to write a while ago \n\n    {\n      \"trigger\": {\n        \"schedule\": {\n          \"interval\": \"5m\"\n        }\n      },\n      \"input\": {\n        \"search\": {\n          \"request\": {\n            \"search_type\": \"query_then_fetch\",\n            \"indices\": [\n              \"metricbeat-*\"\n            ],\n            \"rest_total_hits_as_int\": true,\n            \"body\": {\n              \"query\": {\n                \"bool\": {\n                  \"must\": [\n                    {\n                      \"bool\": {\n                        \"must\": [],\n                        \"filter\": [\n                          {\n                            \"bool\": {\n                              \"should\": [\n                                {\n                                  \"exists\": {\n                                    \"field\": \"prometheus.labels.pvc\"\n                                  }\n                                }\n                              ]\n                            }\n                          }\n                        ]\n                      }\n                    }\n                  ],\n                  \"filter\": [\n                    {\n                      \"range\": {\n                        \"@timestamp\": {\n                          \"gte\": \"now-5m\"\n                        }\n                      }\n                    },\n                    {\n                      \"match_phrase\": {\n                        \"prometheus.labels.mountpath\": \"/kafka-logs\"\n                      }\n                    },\n                    {\n                      \"match_phrase\": {\n                        \"prometheus.labels.cluster\": \"px-eng-infrastructure-platform-prod\"\n                      }\n                    },\n                    {\n                      \"exists\": {\n                        \"field\": \"prometheus.metrics.px_volume_capacity_bytes\"\n                      }\n                    }\n                  ]\n                }\n              },\n              \"aggs\": {\n                \"nodes\": {\n                  \"terms\": {\n                    \"field\": \"prometheus.labels.pvc\"\n                  },\n                  \"aggs\": {\n                    \"used_in_bytes\": {\n                      \"max\": {\n                        \"field\": \"prometheus.metrics.px_volume_usage_bytes\"\n                      }\n                    },\n                    \"available_in_bytes\": {\n                      \"max\": {\n                        \"field\": \"prometheus.metrics.px_volume_capacity_bytes\"\n                      }\n                    },\n                    \"used_storage_pct\": {\n                      \"bucket_script\": {\n                        \"buckets_path\": {\n                          \"available_in_bytes\": \"available_in_bytes\",\n                          \"used_in_bytes\": \"used_in_bytes\"\n                        },\n                        \"script\": \"params.used_in_bytes / params.available_in_bytes\"\n                      }\n                    }\n                  }\n                }\n              },\n              \"size\": 0\n            }\n          }\n        }\n      },\n      \"condition\": {\n        \"always\": {}\n      },\n      \"actions\": {\n        \"webhook_open\": {\n          \"condition\": {\n            \"script\": {\n              \"source\": \"return ctx.payload.aggregations.nodes.buckets.stream().anyMatch(it -> it.used_storage_pct.value > ctx.metadata.lower_bound);\",\n              \"lang\": \"painless\"\n            }\n          },\n          \"transform\": {\n            \"script\": {\n              \"source\": \"ctx.payload.aggregations.nodes.buckets.stream().filter(it -> it.used_storage_pct.value < ctx.metadata.lower_bound).map(it -> ['node_name':it.key,'available_in_gb':Math.round((it.available_in_bytes.value/1073741824) * 100)/100,'used_in_gb':Math.round((it.used_in_bytes.value/1073741824)* 100)/100, 'used_pct':(it.used_in_bytes.value/it.available_in_bytes.value)]).collect(Collectors.toList());\",\n              \"lang\": \"painless\"\n            }\n          },\n          \"webhook\": {\n            \"scheme\": \"https\",\n            \"host\": \"api.alerthost.com\",\n            \"port\": 443,\n            \"method\": \"post\",\n            \"path\": \"/v2/alerts\",\n            \"params\": {},\n            \"headers\": {\n              \"Authorization\": \"::es_redacted::\",\n              \"Content-Type\": \"application/json\"\n            },\n            \"body\": \"\"\"{\n            \"message\": \"Kafka - Disk Usage Higher than {{ctx.metadata.lower_bound}}% on production\",\n            \"description\": \"monitor name: \\n{{ctx.payload.monitor_name}}\\n\\n {{#ctx.payload._value}}{{node_name}}: {{used_pct}}% Disk Used{{/ctx.payload._value}}\\n\",\n            \"alias\": \"{{ctx.watch_id}}\",\n            \"note\": \"TODO: add notes\"}\"\"\"\n          }\n        },\n        \"webhook_close\": {\n          \"condition\": {\n            \"script\": {\n              \"source\": \"return ctx.payload.aggregations.nodes.buckets.stream().anyMatch(it -> it.used_storage_pct.value < ctx.metadata.clear_bound);\",\n              \"lang\": \"painless\"\n            }\n          },\n          \"webhook\": {\n            \"scheme\": \"https\",\n            \"host\": \"api.alertservice.com\",\n            \"port\": 443,\n            \"method\": \"post\",\n            \"path\": \"/v2/alerts/{{ctx.watch_id}}/close\",\n            \"params\": {\n              \"identifierType\": \"alias\"\n            },\n            \"headers\": {\n              \"Authorization\": \"::es_redacted::\",\n              \"Content-Type\": \"application/json\"\n            },\n            \"body\": \"{}\"\n          }\n        }\n      },\n      \"metadata\": {\n        \"lower_bound\": 0.85,\n        \"clear_bound\": 0.8\n      }\n    }",
+                                      "permalink": "/r/stocks/comments/1fcuvg6/why_elasticsearch_estc_is_still_overvalued_after/lmhl746/",
+                                      "created": 1725997222,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "lmhxqk6",
+                                          "score": 1,
+                                          "body": "Holy shit.. that is a lot to unpack on mobile. \n\nWe use Datadog for metrics and elastic for logging so luckily I don't have to deal with that.\n\nHow do you even write/debug something like that",
+                                          "permalink": "/r/stocks/comments/1fcuvg6/why_elasticsearch_estc_is_still_overvalued_after/lmhxqk6/",
+                                          "created": 1726001082,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lmdxc5w",
+      "score": 1,
+      "body": "Thanks for the info",
+      "permalink": "/r/stocks/comments/1fcuvg6/why_elasticsearch_estc_is_still_overvalued_after/lmdxc5w/",
+      "created": 1725939084,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmeewkp",
+      "score": 1,
+      "body": "It’s not as simple to replace as calling with a different app. \n\nI believe their offering will be somewhat sticky when used as an observability product. Their enterprise customers will have it integrated into many different systems and applications, that any migration will be costly - not complicated,  just involving many components and possibly gaps in being able to monitor live systems.\n\nIt appears that they have not properly started to squeeze out the juice and with OpenSearch as a backup option they may have to keep somewhat honest. \n\nAlso, Amazon was free to create their own version based on the licensing terms that Elastic had selected. I would not call that stealing.",
+      "permalink": "/r/stocks/comments/1fcuvg6/why_elasticsearch_estc_is_still_overvalued_after/lmeewkp/",
+      "created": 1725948696,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

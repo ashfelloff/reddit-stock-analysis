@@ -1,0 +1,889 @@
+{
+  "title": "What determines a stock price? Is it the intrinsic value of a company or the public perception of such",
+  "score": 75,
+  "selftext": " Im having trouble understanding what determines the value of a stock. If it is determined by the finances of a company in a literal way. My understanding was that its public perception of the company that effects the share price after the initial public offering. Like they release all the total shares of the company at the public offering, and then after it is simply the public trading in the market and determining the share price value. \nThe reason this question has come up is in regards to a dividend payment. Is it my share of the profits (free money) or are they taking away from their share price to pay for the dividend? I didnt know companies had the power to do that other than through a stock split. So Im deeply confused. ",
+  "link_flair_text": null,
+  "id": "1dx6ml8",
+  "num_comments": 100,
+  "created_utc": 1720321204,
+  "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/",
+  "comments": [
+    {
+      "id": "lbzwxhc",
+      "score": 116,
+      "body": "> *In the short run, the market is a voting machine but in the long run, it is a weighing machine.* -- Ben Graham. \n\nIn the longterm the stock price must always trend towards the company's intrinsic value; over the short-term the price can vary enormously according to pubic perception.\n\nRead *The Intelligent Investor*.",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lbzwxhc/",
+      "created": 1720326633,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lc1cmt3",
+          "score": 10,
+          "body": "I usually explain it like this:\n\nThink of fair value as the center of gravity for a stock's price. Absent outside forces, the price will converge to fair value.\n\nPerception (aka, sentiment), structural flows, hedging behavior, etc can all \"push\" a stock away from it's fair value in the short term.\n\nPrice is basically orbiting around fair value through time",
+          "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc1cmt3/",
+          "created": 1720358937,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lc1h2k1",
+              "score": 1,
+              "body": "I like your analogy. So,... how do you determine fair value... specifically?",
+              "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc1h2k1/",
+              "created": 1720360818,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lc1wrae",
+                  "score": 3,
+                  "body": "It boils down to having a good valuation model. The most basic example would be a simple 1 stage DCF model.\n\nCan your model predict a stock's growth rate (and changes in that growth rate) more accurately than others? If yes, then you have an edge. \n\nI work for a quant hedge fund so we use hundreds of equity factor signals and modified BARRA factors for risk modeling",
+                  "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc1wrae/",
+                  "created": 1720366661,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lc25h2r",
+                      "score": 1,
+                      "body": "Wow. Thanks for the info. I always like to hear people's thoughts on valuations or attempts at it in some cases",
+                      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc25h2r/",
+                      "created": 1720369729,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lc14cfv",
+          "score": 20,
+          "body": "Meanwhile at $TSLA...",
+          "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc14cfv/",
+          "created": 1720354944,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lc25ky3",
+              "score": 16,
+              "body": "Tesla was trading at greater multiples in the past - it is trending towards fair value.",
+              "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc25ky3/",
+              "created": 1720369766,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lc18m64",
+              "score": -19,
+              "body": "TSLA is barely above 50P/E… the company generates revenues and has promising technology which will generate substantially MORE revenue. At the moment, it is heavily UNDERvalued if these technologies pan out. Until then yes it is over valued and if the technology never works out the stock will tank and return to the value without the assumption of future revenues.\n\nIt’s all pretty straightforward",
+              "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc18m64/",
+              "created": 1720357095,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lc1aotz",
+                  "score": 0,
+                  "body": "[deleted]",
+                  "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc1aotz/",
+                  "created": 1720358056,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lc1bqzd",
+                      "score": 1,
+                      "body": "Money, resource and time saver. From what I understand they can now plug these things straight into the grid (from Tesla) with their new generation mega packs. I don’t know that much about the energy side of Tesla tech but I believe a big issue in the current grid is basically over production of energy. They build the grid to essentially be able to handle peak power vs average since they have no way of distributing. At peak hours it’s all just gotta be on or it won’t work at all. That leaves the rest of the day heavily underutilized.\n\nThrow some mega packs in there and I’d bet they could up to double their effective average output. Peak would just have to be met by a combo of mega packs + production\n\nI’m sure it’s a hell of a lot cheaper to buy some mega packs than to build a new plant or expand existing ones and certainly much quicker.",
+                      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc1bqzd/",
+                      "created": 1720358538,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lc2c6vm",
+                      "score": 0,
+                      "body": "US  infrastruture, not the world infrastructure. \n\nTesla will have sizable marketshare where Chinese products are restricted. Everywhere else, China will just outcompete them by undercutting price.",
+                      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc2c6vm/",
+                      "created": 1720372103,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lc2ewps",
+                          "score": 1,
+                          "body": "Europe, South East Asia, and North America are all weary of Chinese influence and infrastructure. That’s a pretty big market. Plus we have our major allies in Mexico, Costa Rica, Panama, Brazil, Chili, Argentina, Colombia, Morocco, Isreal, Jordan and Egypt that’ll likely be more receptive to our international economic policies than Chinas.",
+                          "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc2ewps/",
+                          "created": 1720373065,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lc2f4ph",
+                              "score": 3,
+                              "body": "Weary and concrete tariff is a different story.\n\nUS is weary of China, but we are the biggest consumer of Chinese electronics because it's cheap.",
+                              "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc2f4ph/",
+                              "created": 1720373142,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lc2gz8u",
+                                  "score": 1,
+                                  "body": "True. I think the story changes a little when it’s critical infrastructure. Sure a TV is fine, but the grid? I don’t think that’ll ever fly under any administration. And I think a good amount of countries feel the same way.",
+                                  "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc2gz8u/",
+                                  "created": 1720373792,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "lc2ktn4",
+                                      "score": 1,
+                                      "body": "Huawei and ZTE is the biggest networking gear supplier in these countries. Chinese heavy industries already supply majority of transformers and switch gears. \n\n DJT is the biggest exporter of drones (and drones are the future of warfare as seen by Russo-Ukrainian War). \n\nAgain, the only thing that matters at the end of the day is money. Show me an outright ban or heavy tariff and I will be convinced. Until then, China is going to eat Tesla's lunch, just like in the EV space. There's a reason no one's talking about Tesla selling 10 million vehicles anymore. China will bleed any competitor by racing to the bottom.",
+                                      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc2ktn4/",
+                                      "created": 1720375140,
+                                      "depth": 8,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lc02x3f",
+      "score": 8,
+      "body": "Price and value are two different things that are connected by an elastic band. The biggest determinant of price is how well the company is doing in the future, you see the problem? Sure people value stocks, they use the old discounting of future cash flows, ( a fancy way of saying how much money that will be made in the future is worth today,) or growth guestimates but price is really what somebody, (some entity actually,) is willing to sell or buy for and it can be based on squiggly lines or the greater fool theory just as well as any sober green lampshade cogitation. The IDEA of value is that you use whatever your methods are to come to an idea of what a stock's true value is and when the price is higher than that you sell and when it is lower you buy, good luck!\n\nThe dividend thing is the source of doctrinaire argumentation basically along the lines that paying a dividend reduces a stocks value as cash that would have stayed in the company and used to allow it to grow or buy shares back is instead pissed away on a bunch of old pensioners who are to stupid to live and clamor for \"income\" because they are just that stupid. This paying of dividends is bad because.....it is a perfect world and the companies are pillars of rectitude who will only make sober and appropriate decisions about what to do with these \"retained earnings,\" (doesn't that sound classy?) So, sure, only dopes get lured into stocks with juicy dividends because it is all about growth, right? I mean it isn't like you can get double humped by a telecom company that apparently has no idea what to do with money and ends up both giving out a big dividend and engaging in a bunch of moronic acquisitions trying to become some kind of media company, I mean, satellite TV is the future right?  The sports channels alone........\n\nThe point is \"Wall Street\" exists to make pretty pieces of paper that can be sold to put your money into \"their\" pocket. I mean sure, there is a great story about allocating capital efficiently, placing risk with those who want it and removing it from those who don't, basically god's work, virtuous considered actions taken by men and women of probity and sagacity....plus tech! Don't forget the miracle of mathing up the world to make sure that that donut shop on the corner gets the best price on capital it can.\n\nGenerally speaking read a book like \"Where Are The Customers Yachts\" which while super old and quite dated in some regards, (do stock brokers even exist anymore?) really does capture the spirit of the thing.",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc02x3f/",
+      "created": 1720329995,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lbzp760",
+      "score": 68,
+      "body": "If it’s not from company actions, then it’s the market makers, trading desks, trading algos etc. True public reception/sentiment doesn’t  immediately hit the lit market. Market makers manufacture the whole show. Financial media creates narratives. Options, other underlying derivatives including swaps, can move stock price in ways completely disconnected from corporate action etc.\n\nThat’s why being able to hold long term through all that racket is the best way to go for most people in the market.",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lbzp760/",
+      "created": 1720322756,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lc0t159",
+          "score": 15,
+          "body": "Yeah it's essentially this. 'Back in the day' the system worked on a Bid and Ask process where if someone wasn't willing to sell a share for $50 then tough shit, you'd have to offer $51, $52 etc. And that would influence the price.\n\nThe way the market works now though is Market Makers will fulfill an order at the current bid regardless if there's a seller. They'll then either fulfill the order at a later date (likely at a cheaper price in order to pocket the difference) or produce an FTD.\n\nMarket Makers have even recently, openly stated that they are determining the price of stocks. They've admitted that they will steer prices to where THEY think they should be rather than the actual market determining it which is pretty bonkers.",
+          "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc0t159/",
+          "created": 1720348003,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lc0ycog",
+              "score": 7,
+              "body": ">  They've admitted that they will steer prices to where THEY think they should be rather than the actual market determining it which is pretty bonkers.\n\nBut to be fair they are just another part of the market, it's no different from a trader only making trades they personally think have good prices at the moment.\n\nMarket Makers are taking on larger risks the more opinionated they get instead of just sitting there collecting spreads.",
+              "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc0ycog/",
+              "created": 1720351528,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lc10qqb",
+                  "score": -1,
+                  "body": "I think the main issue is that they can influence the price though. They can choose when they decide to deliver shares or decide to not bother at all. They can decide whether to route trades through lit markets or OTC.\n\nThey have far more (and arguably ultimate) control over the price of stocks. That's not to say they can't get caught with their trousers down though.",
+                  "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc10qqb/",
+                  "created": 1720352946,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lc162qf",
+                      "score": 4,
+                      "body": "Every market participant influences the price, why can't market makers influence the price?",
+                      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc162qf/",
+                      "created": 1720355842,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lc19udi",
+              "score": 3,
+              "body": "We still work on a bid ask process, and market makers have always existed. They just provide liquidity, they don't care about direction.",
+              "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc19udi/",
+              "created": 1720357668,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lc1aarb",
+          "score": 2,
+          "body": "If you truly think the market is \"manufactured\" then why would you even invest?",
+          "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc1aarb/",
+          "created": 1720357877,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lc1jyzp",
+              "score": 5,
+              "body": "Nobody would touch the market if it weren’t comfort wrapped in a nice 401k login.  If people knew exactly what went on day to day, and year to year in the market, the system would have imploded by now imo.",
+              "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc1jyzp/",
+              "created": 1720361984,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lca0grm",
+                  "score": 1,
+                  "body": "Bro just VOO and chill",
+                  "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lca0grm/",
+                  "created": 1720484637,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lc20zo8",
+              "score": 1,
+              "body": "It’s not “really” investing. It’s gambling. \n\nYou are betting that a company will continue making a profit. \n\nAnd that implies value. And here’s what we know about people. People will always want.  And want more. As are willing to spend. On stuff. They’ll work to make money to buy stuff. From companies. \n\nYou, on the other hand are willing to work, to make money, to gamble on other people’s willingness to work.  To spend. In the company you are gambling on",
+              "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc20zo8/",
+              "created": 1720368137,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lc2sr0c",
+              "score": -2,
+              "body": " Because the vast majority of people don’t know this or they choose to believe that price discovery is true free and fair. Market makers have been on video record stating that they define prices.",
+              "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc2sr0c/",
+              "created": 1720377924,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lca0j78",
+                  "score": 1,
+                  "body": "Except they haven't said that on video",
+                  "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lca0j78/",
+                  "created": 1720484663,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lc0vyvu",
+          "score": 0,
+          "body": "Read my username",
+          "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc0vyvu/",
+          "created": 1720350020,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lc00kiv",
+      "score": 9,
+      "body": "Think of stocks as an economic version of politics. People buying stocks are like those voting for a candidate. Different people will act for different reasons. Some will pick based on the company’s fundamentals, some will pick based on the company’s promise (perceived or real), and some will pick a company simply because they’ve been talked into it.\n\nFollowing the voting analogy, it’s worth adding that not all people have an equal voice in the stock market. What Warren Buffet buys will have a far greater impact on the market than what you buy, both because he can buy more shares and because people care more about his opinion. You can kind of thing of them a little like special interests if you want.\n\nThe end result is that there’s no one size fits all reason for a stock price.",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc00kiv/",
+      "created": 1720328628,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lc2sz3t",
+          "score": 0,
+          "body": "95% of votes are routed through dark pools. Sec chair has stated this.",
+          "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc2sz3t/",
+          "created": 1720378002,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lca0p4k",
+              "score": 1,
+              "body": "It's nowhere near 95% lol",
+              "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lca0p4k/",
+              "created": 1720484727,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lbzr2o9",
+      "score": 11,
+      "body": "Yes and yes. I think the one thing to keep in mind about companies is that most companies are in highly competitive situations with other companies. \n\nThe very TOP companies however, at the very apex of the SP500 are valuable mainly because they (like planetary gas giants) have absorbed or destroyed all competition.\n\nNVIDIA shot up from its former position (despite not owning any silicon fabs) due to its quasi monopoly over machine learning with its CUDA software + hardware combination.\n\nMeta (like the telecom and railroad monopolies of old) maintains a network monopoly that is virtually impossible to eliminate without degrading the value of the services they provide.",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lbzr2o9/",
+      "created": 1720323659,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lc14iy2",
+          "score": 1,
+          "body": "In space terms, what could NVDA be compared to?",
+          "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc14iy2/",
+          "created": 1720355039,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lbzn473",
+      "score": 9,
+      "body": "You are correct in your notion that it’s the public’s perception of the stock’s future earnings (most importantly large institutions’ perceptions), but the company can affect the price through supply and demand, such as buying back shares or selling shares they currently hold (or issuing new shares). \n\nDividends do indeed affect the share price - the share price goes down by the amount of the dividend. Because the company is paying out the dividend amount from its current EPS. https://www.schwab.com/learn/story/ex-dividend-dates-understanding-dividend-risk \n\nThis is one reason dividend investing is controversial, some believe it is no better than growth investing because your gain on the dividend is offset by the loss on the stock price.",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lbzn473/",
+      "created": 1720321787,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lbzxdrq",
+          "score": 6,
+          "body": "[deleted]",
+          "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lbzxdrq/",
+          "created": 1720326878,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lc0fhig",
+              "score": -1,
+              "body": "Except since the cash has already been paid out, that means it won't be paid out in the future, decreasing the share's value.",
+              "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc0fhig/",
+              "created": 1720338222,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lc10axc",
+                  "score": 2,
+                  "body": "Or the company could just waste the money with a stupid marketing idea like Colgate Lasagna at least with the dividend you can either reinvest it back into the company or use it in another way as income.",
+                  "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc10axc/",
+                  "created": 1720352692,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lc0yfg9",
+                  "score": 1,
+                  "body": "[deleted]",
+                  "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc0yfg9/",
+                  "created": 1720351575,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lc1r5gi",
+                      "score": 1,
+                      "body": "Yes, that's true, but the question which was being asked was \"why does the stock price decrease after a dividend\", and the person I was responding to said, \"It doesn't unless the market is interpreting a dividend as a sign of management losing confidence, or if the market is being irrational\", which is not true; the share price decreased because the expected future dividends have decreased as a result of the dividend payment.",
+                      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc1r5gi/",
+                      "created": 1720364674,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lbzojqy",
+          "score": 4,
+          "body": "What does eps stand for? \nThank you for your response its starting to make sense",
+          "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lbzojqy/",
+          "created": 1720322450,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lbzorh6",
+              "score": 6,
+              "body": "Earnings per share - the net profit divided by the number of shares. \nFor example,\nABC earns $2.00 per share and pays a dividend of $1.50. They retain $0.50 to reinvest in the company. The stock price goes down from $100 to $98.50 on the ex-dividend date.",
+              "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lbzorh6/",
+              "created": 1720322550,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lbzo2gr",
+      "score": 17,
+      "body": "There is only two things that determine a price of a stock.\n\nThe bid and the ask. \n\nWhat someone is willing to buy it at, \n\nWhat someone is willing to sell it at.",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lbzo2gr/",
+      "created": 1720322225,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lc0ja7r",
+          "score": 1,
+          "body": "That's not answering the question as it just begs the follow up question of why someone is willing to bid at certain price. Why bid $220 for AAPL? Why not $14?",
+          "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc0ja7r/",
+          "created": 1720340895,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lc0jmwd",
+              "score": 7,
+              "body": "It does answer the question. You will have to ask the person who bid at $220 for their specific reason.\n\nBoth information and money are scarce. People determine the appropriate price to bid according to the information they have.",
+              "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc0jmwd/",
+              "created": 1720341147,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lc0mvtc",
+                  "score": 0,
+                  "body": "would be a reasonable answer if not for the fact that pretty much **everyone** is willing to bid $200 but not $210, so there's obviously some reason for that",
+                  "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc0mvtc/",
+                  "created": 1720343508,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lc1s8jk",
+              "score": 2,
+              "body": "Public companies have transparent records about how their company works. A company will make investments to increase the value of their company, or hedge against risk. This is where people get a baseline value of the company and do their DCF. That's why people won't bid $14 for a stock currently asking $220. They calculated the current value of the company and it is not $14. \n\nYou're not the only one who can do that. Everyone can do it. So what happens when a bunch of buyers want to buy a stock? The people holding the stock can demand more money over the baseline value because everyone wants it. This pushes the stock price up.\n\nThe buyer is trying to get the lowest price, but must pay more because they're competing with every other buyer. Biding $14 won't get them anywhere.",
+              "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc1s8jk/",
+              "created": 1720365066,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lc3tj6d",
+              "score": 2,
+              "body": "People need to stop downvoting you, because it is a legit question. The answer is that when one person bids $220, it doesnt matter that someone else bid less. It gets sold to the highest bidder. Some bids are irrational, as shown by stories about ebay selling Britney Spear’s fars for millions.",
+              "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc3tj6d/",
+              "created": 1720390987,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lc2e3jx",
+              "score": 0,
+              "body": "It does answer the question and is the only real correct answer to this question. This might be unsettling to some when it comes to investing. \n\nUnfortunately, there no correct magic formula that determines price of stocks. There so many other reason why someone, an institution, a sovereign entity is willing to sell or buy at a certain price to either store as future value or offset current and future liabilities. the intrinsic value and P/E values all go out the window once, there so many players involved with different goals and metrics in mind.",
+              "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc2e3jx/",
+              "created": 1720372778,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lc4pclf",
+                  "score": 1,
+                  "body": "I get what you are trying to get at. People trade for various reasons. But it's incorrect to reduce it to bid ask as what you end up doing it describing the mechanism of a trade. But not the reason.\n\nWhy did Nvidia shoot up? You can answer this. It saw a massive demand for its products.\n\nWhy doesn't a stock that pays $4 dividend trade at $2? \n\nWhy did a stock trade down after an accounting fraud is discovered?\n\nYou can't say for sure why a stock is $100 or $120. But you can say why it's not $1 or $100,000.\n\nReducing it to just the bid ask is a non-answer.",
+                  "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc4pclf/",
+                  "created": 1720403559,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lbzxhy2",
+          "score": -3,
+          "body": "Supply and demand",
+          "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lbzxhy2/",
+          "created": 1720326942,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lbzwbg2",
+      "score": 2,
+      "body": "Under the Dividend Discount Model, it’s the present value of future distributed earnings (dividends) discounted at the rate you’d expect to earn for the level of risk.",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lbzwbg2/",
+      "created": 1720326312,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lc01ic6",
+      "score": 2,
+      "body": "In this market? It’s the speculation. Retail investors are morons who will cause a crash when they inevitably pull out based on speculation the same way they’ve invested. If Nvidia does see a major correction for instance, many retail investors will pull out to preserve their capital rather than HODL. Hedgies will then reduce their positions as well but will also short the stock to capitalize and hedge against their holdings. Only hedgies will win in the long term here. And corporate kleptocrats in government.\n\nIntrinsic value isn’t driving stock price for most of the big market movers. Perceptions of value is. And that’s not a good thing when everyone and their mom thinks they can beat the market due to its historical performance these past few years.",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc01ic6/",
+      "created": 1720329166,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lc0y6md",
+      "score": 2,
+      "body": "There's no such thing as \"intrinsic value\", it's all subjective.",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc0y6md/",
+      "created": 1720351425,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lc18hjd",
+      "score": 2,
+      "body": "At the end of the day it's supply and demand. What are people willing to pay for a share and what are people willing to sell it for.",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc18hjd/",
+      "created": 1720357033,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lc18qyw",
+      "score": 2,
+      "body": "Excuse me, but the entire investment industry is shaped by the people who run it. \n\nThere are dynamics such as \"pump-and-dump\" which are nothing more than \n\ncompanies or corporations inflating prices when they think it will benefit them. \n\nPharmaceutical companies are notoriuous for this. Currently the Artificial \n\nIntelligence industry is seeing this and when done on a larger scale its called\n\n\"a bubble\". \n\nBION there are members in the Investment Industry who jockey for locations\n\ncloser to the Wall Street area in an effort to shave hundreds of a second off\n\ntheir datalines.  Think you can compete with that?",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc18qyw/",
+      "created": 1720357158,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lbzpe32",
+      "score": 1,
+      "body": "Positioning of market participants determines price.",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lbzpe32/",
+      "created": 1720322847,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lc0f035",
+      "score": 1,
+      "body": "Share prices are determined by supply and demand. They're set to ensure that every market order gets filled as fast as possible at the best possible price, by increasing the price when there are unfilled market buys to encourage more selling and decreasing the price when there are unfilled market sells to encourage more buying.\nShare prices decrease after a dividend because, if they didn't, people would be able to make a lot of money buying stocks before the dividend, selling after and then doing the same with a different stock. However, because people saw that opportunity so long ago, enough people do it that it's no longer really profitable.",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc0f035/",
+      "created": 1720337880,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lc0vaea",
+      "score": 1,
+      "body": "Short term : market perception\n\nLong term : financials and growth",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc0vaea/",
+      "created": 1720349568,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lc0y0sb",
+      "score": 1,
+      "body": "The stock market is... a market. The price of a stock is what people are willing to pay for it at any given moment in time. Different people will value stocks differently, have different timeframes, have different risk appetites. So a price that would cause one person to sell a certain stock could cause someone else to buy it because their goals and strategies are different.",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc0y0sb/",
+      "created": 1720351328,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lc0ynms",
+      "score": 1,
+      "body": "Market determines the current stock price by creating the balance between the supply and demand. Which doesn't really answer your question, so let me rephrase: stock price doesn't really move based on what company is realistically worth, or based on what company has done - instead, it moves based on expectations of what it will be worth in future.\n\nYoung companies will rapidly expand in the market as their future potential is much higher. When a company matures, and captures a lot of the expected market, the stock will typically become less volatile, which is why at that point you'll see dividends or buybacks.",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc0ynms/",
+      "created": 1720351713,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lc0z7w1",
+      "score": 1,
+      "body": "Public perception and what moves the larger shareholders make.",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc0z7w1/",
+      "created": 1720352052,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lc0zqgq",
+      "score": 1,
+      "body": "Stock prices represent three things: the future earnings for the company, divided by the number of total shares, discounted by the riskiness of those earnings.",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc0zqgq/",
+      "created": 1720352359,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lc100gw",
+      "score": 1,
+      "body": "Jeff makes it up",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc100gw/",
+      "created": 1720352522,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lc153np",
+      "score": 1,
+      "body": "What the next person is willing to pay.",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc153np/",
+      "created": 1720355339,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lc1ei11",
+      "score": 1,
+      "body": "In longterm its eps",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc1ei11/",
+      "created": 1720359753,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lc1fp57",
+      "score": 1,
+      "body": "The stock price is determined by whatever someone is willing to sell their shares at. Of course someone has to be willing to buy at that price",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc1fp57/",
+      "created": 1720360257,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lc1izqg",
+      "score": 1,
+      "body": "Depends on the industry. Tech stocks usually trade at a multiple of their forward P/E. Staples usually move near their intrinsic value. The rest fall somewhere in between.",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc1izqg/",
+      "created": 1720361599,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lc1luej",
+      "score": 1,
+      "body": "I do",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc1luej/",
+      "created": 1720362712,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lc1nes8",
+      "score": 1,
+      "body": "Both.",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc1nes8/",
+      "created": 1720363303,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lc2le11",
+      "score": 1,
+      "body": "Op, you can’t determine what influences what is driving stocks prices on a day to day basis. You can speculate about what different participants are doing and why but ultimately you’re not gonna know why every trade occurs. This is referred to as “mister market.” \n\nAs others have noted, stocks generally trend closer to their intrinsic value over time. But they don’t always and often times, expensive stocks just stay, or get more expensive. So often times hype is a significant component, as is the fact that good stocks often are more expensive.",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc2le11/",
+      "created": 1720375336,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lc4h3o9",
+      "score": 1,
+      "body": "It's a mixture of both. Short term, more toward public perception.  Long term intrinsic value comes into play.",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc4h3o9/",
+      "created": 1720400188,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lc4jxde",
+      "score": 1,
+      "body": "read \"How To Buy Stocks\" by Louis Engel & Brendan Boyd",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc4jxde/",
+      "created": 1720401337,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lc4yzql",
+      "score": 1,
+      "body": "According purely to theory, a dividend does not increase or decrease overall company value. For example, if ABC company is worth a $1B and issues a $50M dividend, the overall value of ABC drops to $950M (which should be reflected in lower share price). To the shareholder value is unchanged because now you own a company worth less but have deployable cash.",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc4yzql/",
+      "created": 1720407650,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lc56xip",
+      "score": 1,
+      "body": "Magic",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc56xip/",
+      "created": 1720411350,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lc7mfrm",
+      "score": 1,
+      "body": "I would say both of those combined set the price",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc7mfrm/",
+      "created": 1720455465,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lcedot6",
+      "score": 1,
+      "body": "Money in the stock (market cap) divided by share float. Thats all to it",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lcedot6/",
+      "created": 1720553675,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lcedzkb",
+          "score": 1,
+          "body": "Dividend is paid put by the company itself, which subtracts from company's net profit, which actually slows the growth if the stock. Only well established companies pay dividend.",
+          "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lcedzkb/",
+          "created": 1720553771,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lbzoglj",
+      "score": 1,
+      "body": "Yes",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lbzoglj/",
+      "created": 1720322410,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lbzs8pz",
+      "score": 1,
+      "body": "You wont find one equation that will point to you to the exact number, although there are some that estimates. It really depends on the industry. Also companies are bought due to the potential they could be as well.",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lbzs8pz/",
+      "created": 1720324232,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lc2yp0w",
+      "score": 1,
+      "body": "It's really just a big pyramid scheme. The company could be sitting on 5 trillion dollars in cash but if no one buys your shares from you at a higher price, you're fucked plain and simple. In reality it doesn't actually end up working out that way, but the fact that it \\*could\\* theoretically tells you it's a scam. It just happens to be a scam that works if you play it right.\n\nBut really, don't convince yourself that a company is worth more than the share price. Plenty of companies trade well below/above \"fair value\" for months or years. It's all bullshit.",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc2yp0w/",
+      "created": 1720380028,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lbzu7bw",
+      "score": -2,
+      "body": "turn off the tv,  go take economics",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lbzu7bw/",
+      "created": 1720325225,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lbzn3lw",
+      "score": 0,
+      "body": "Following",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lbzn3lw/",
+      "created": 1720321778,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lbzypgs",
+      "score": 0,
+      "body": "Over the short term, the price is a combination of public perception and finances. Over the long term it’s pretty much all finances. One way to think about of this is what dividend yield the company *could* pay. But a much better way (and more correct way) to think of it is that as the company increases in value, the share price increases. That said, if the market cap is already overvalued, it’s not going to give you a very good return. \n\nIn answer to your last question, yes a dividend is the company paying out their profits, rather than reinvesting them. So the change to the share price is often nil (between the cutoff and ex-dividend dates). It’s basically the same thing as the company having that money on their balance sheet or using it for an acquisition. So they are effectively taking it from their share price as you put it. \n\nAlso, a stock split doesn’t actually create any value. It simply splits the shares and then reduces the share price by that multiple. It simply makes it easier for people to buy individual shares.\n\nEdit: a better way of saying my first paragraph is, as Strolls said, it follows the intrinsic value of the company. Which can take several years.",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lbzypgs/",
+      "created": 1720327592,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lbzzwp4",
+      "score": 0,
+      "body": "Stock price is determined by market perception of anticipated value of a company. It is always forward looking, not current.",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lbzzwp4/",
+      "created": 1720328254,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lc037r1",
+      "score": 0,
+      "body": "Intrinsic value gives stock a floor price. \n\nEarnings drive share prices higher.",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc037r1/",
+      "created": 1720330173,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lc0bd6q",
+      "score": 0,
+      "body": "whatever the price that a willing seller is able to get from a willing buyer",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc0bd6q/",
+      "created": 1720335363,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lc0xsl9",
+      "score": 0,
+      "body": "Why I can’t post on r/stock \nI have enough carma and comments",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc0xsl9/",
+      "created": 1720351187,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lc18w0o",
+      "score": 0,
+      "body": "Hedge funds and high frequency algos.",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc18w0o/",
+      "created": 1720357224,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lc1o9f8",
+      "score": 0,
+      "body": "It's what people will pay for it, nothing more, nothing less.  A stock exchange just matches people willing to buy with people willing to sell.  The price of a share is the point where nobody is offering to buy it for more and nobody is offering to sell it for less.\n\nOf course, it's correlated to a bunch of things, which is why there's statistics like price/earnings, price/sales, price/book, etc.  All ways to compare what it costs to what it's \"worth\".",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc1o9f8/",
+      "created": 1720363619,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lc25ftz",
+      "score": 0,
+      "body": "The stock price is the market consensus, exactly where the buyers and sellers compromise the price should be. The majority of the market will be the big players, hedge funds and institutional investors, whose analysts determine the price based on their own algorithms, including growth, revenues, and sentiment. So it's less public trading and more analyst consensus. It's still loosely tied to intrinsic value, which is why dividends directly decrease stock price.",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc25ftz/",
+      "created": 1720369717,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lc293do",
+      "score": 0,
+      "body": "A thing, any thing, is worth whatever someone will pay for it. \n\nThat becomes a price.\n\nIts value is a completely different thing.",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc293do/",
+      "created": 1720371011,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lc3dibl",
+      "score": 0,
+      "body": " Crime",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc3dibl/",
+      "created": 1720385205,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lc0jbv2",
+      "score": -2,
+      "body": "Damn, a lot of you guys don't know shit.\n\nThe price of a stock is what the last agreed price was in the market between a buyer and a seller. Things like earnings and fundamentals just help buyers/sellers decide how much they are WILLING to buy/sell it for. But the market doesn't care. The share price just shows the last agreed price between 2 people.\n--\nImagine a room where everybody has an identical apple. Everybody who wants to buy more apples are on the left side, and everyone who wants to sell their apples are on the right side. \n\nThe buyers all have the price they are willing to pay written on a Sign. The Higher their pay price, the closer to the middle they stand. The Lower it is, the closer to the left wall they stand.\n\nSame with sellers. The Lower they are willing to sell their apples, the closer they stand in the middle of the room.. the higher they want to sell it for, the closer to the for right wall they are.\n\nThe prices in the middle that are the same between buyer and seller is the magical Stock Price of the apple.\n\n--\n\n\nDividends:\nDividends is usually when companies make money that don't need to get reinvested into the company and so they pay out the extras to shareholders in a way of Dividends. That's how I've always seen it",
+      "permalink": "/r/stocks/comments/1dx6ml8/what_determines_a_stock_price_is_it_the_intrinsic/lc0jbv2/",
+      "created": 1720340927,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

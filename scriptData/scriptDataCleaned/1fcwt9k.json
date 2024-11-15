@@ -1,0 +1,353 @@
+{
+  "title": "I cracked the code - part 2",
+  "score": 137,
+  "selftext": "[I did a simulation](https://www.reddit.com/r/stocks/comments/1fbznn2/the_guy_who_cracked_the_code_smoking_it_too/), that turned out a bit controversial, to sanity check whether a guy's trading strategy had any chance of delivering as advertised:\n\n>If you buy the top 5 largest food producers by market cap (currently Nestle, Mondelez, Hershey, General Mills, Kraft Heinz) right after ex dividend and sell before Quarterly Earnings. Rinse and repeat every quarter. They statistically yield 29% annually.\n\nMy original sim just used those 5 named stocks for the last 4 and 10 years, on the basis that if it can't perform even with ultimate market winners, it has to be a dud. The result was 6% annual returns. \n\nBut some disagreed, arguing that choosing today's winners would make things worse, not better, as it loses the benefit of exploiting short term movers. So I took on the challenge of improving the simulation as a fun project.\n\nAnd [here are the results](https://postimg.cc/gwkDKNN5) and some extra info showing [how the top 5 shuffle over time](https://postimg.cc/5XmgvZqL). The new approach gives an annualised return of 1%.  \n\nThe algorithm: wake up each day and check if there's any earnings dates and if so sell. Then if you have available capital, check the top 5 stocks, and if there's ex div dates, buy.\n\nI didn't bother with restaurant chains, drinks co's etc as that didn't seem to be the original intention.   ",
+  "link_flair_text": null,
+  "id": "1fcwt9k",
+  "num_comments": 39,
+  "created_utc": 1725907084,
+  "permalink": "/r/stocks/comments/1fcwt9k/i_cracked_the_code_part_2/",
+  "comments": [
+    {
+      "id": "lmbgtfa",
+      "score": 84,
+      "body": "So basically dividend scalping a defensive sector, which incidentally did unusually well during covid (which presumably covers the entire 4 year period) by raising their prices above the rate of inflation (which was also high from 2022 onwards), and which they are likely unable to repeat (certainly the crappy ones like GIS). Mmmh. IMO, back tests almost always suck because they often are more biased than the testers want to acknowledge (survivorship bias, hindsight bias).",
+      "permalink": "/r/stocks/comments/1fcwt9k/i_cracked_the_code_part_2/lmbgtfa/",
+      "created": 1725908027,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmbmd0d",
+          "score": 24,
+          "body": "Yeah, agreed. My interest was more in seeing to what extent you can simulate a fairly complex scenario, co-authoring with AI and using web APIs.",
+          "permalink": "/r/stocks/comments/1fcwt9k/i_cracked_the_code_part_2/lmbmd0d/",
+          "created": 1725909808,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lmf9dsk",
+          "score": 2,
+          "body": "Backtest 20 years?",
+          "permalink": "/r/stocks/comments/1fcwt9k/i_cracked_the_code_part_2/lmf9dsk/",
+          "created": 1725968704,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lmfye7d",
+              "score": 1,
+              "body": "Agreed, it’d be nice to see it, even if the results are unlikely to be much better, but the api I use only goes back 4-10 years for earnings and dividends.",
+              "permalink": "/r/stocks/comments/1fcwt9k/i_cracked_the_code_part_2/lmfye7d/",
+              "created": 1725978456,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lme4nxx",
+          "score": 1,
+          "body": "Companies don’t raise their prices based on inflation as measured by CPI but rather as measured by PPI which rose faster.",
+          "permalink": "/r/stocks/comments/1fcwt9k/i_cracked_the_code_part_2/lme4nxx/",
+          "created": 1725942693,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lmc2nht",
+      "score": 79,
+      "body": "OP, you clearly did your research. This is not allowed. Here on Reddit we invest purely based on which side of our buttcheeks itch more on a particular morning",
+      "permalink": "/r/stocks/comments/1fcwt9k/i_cracked_the_code_part_2/lmc2nht/",
+      "created": 1725914891,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmc47sa",
+          "score": 38,
+          "body": "I ain't simulating that !",
+          "permalink": "/r/stocks/comments/1fcwt9k/i_cracked_the_code_part_2/lmc47sa/",
+          "created": 1725915372,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lmcomwn",
+              "score": 5,
+              "body": "Surely you can simulate $BOFA",
+              "permalink": "/r/stocks/comments/1fcwt9k/i_cracked_the_code_part_2/lmcomwn/",
+              "created": 1725922244,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lme50pe",
+              "score": 4,
+              "body": "[removed]",
+              "permalink": "/r/stocks/comments/1fcwt9k/i_cracked_the_code_part_2/lme50pe/",
+              "created": 1725942880,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lmepiqt",
+                  "score": 1,
+                  "body": "edit: [BAC.US](http://BAC.US) simulation here: - it would work better if there were 5+ similar stocks to choose from, however it seems to be loss making [https://postimg.cc/hhJbxYpY/1c8148af](https://postimg.cc/hhJbxYpY/1c8148af)",
+                  "permalink": "/r/stocks/comments/1fcwt9k/i_cracked_the_code_part_2/lmepiqt/",
+                  "created": 1725956146,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lmdblea",
+      "score": 7,
+      "body": "Very impressive turnaround time and thank you for doing this. Looks like the skepticism was indeed well founded.",
+      "permalink": "/r/stocks/comments/1fcwt9k/i_cracked_the_code_part_2/lmdblea/",
+      "created": 1725930562,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmcab7g",
+      "score": 6,
+      "body": "Market been around for 100+ years, if it can be *cracked*, then those smart economist would already have done so by now. Instead we have terms (germs?) like \"Black Swan\" events that totally overwhelm the economy.",
+      "permalink": "/r/stocks/comments/1fcwt9k/i_cracked_the_code_part_2/lmcab7g/",
+      "created": 1725917327,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmdji05",
+      "score": 6,
+      "body": "Beautiful work mate 👍👍",
+      "permalink": "/r/stocks/comments/1fcwt9k/i_cracked_the_code_part_2/lmdji05/",
+      "created": 1725933502,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmea3ch",
+          "score": 2,
+          "body": "Thanks appreciate it 👌🏽",
+          "permalink": "/r/stocks/comments/1fcwt9k/i_cracked_the_code_part_2/lmea3ch/",
+          "created": 1725945706,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lmbmct2",
+      "score": 5,
+      "body": "90% of the posts here about games and losses are total bs anyway.",
+      "permalink": "/r/stocks/comments/1fcwt9k/i_cracked_the_code_part_2/lmbmct2/",
+      "created": 1725909806,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmbyq9k",
+      "score": 3,
+      "body": "[deleted]",
+      "permalink": "/r/stocks/comments/1fcwt9k/i_cracked_the_code_part_2/lmbyq9k/",
+      "created": 1725913673,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmc0juz",
+          "score": 6,
+          "body": "I'm not going to bother as the strategy is poor, but you're right it could easily be added and the multiple tax events a year would have a significant effect on a profitable strategy.",
+          "permalink": "/r/stocks/comments/1fcwt9k/i_cracked_the_code_part_2/lmc0juz/",
+          "created": 1725914242,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lmco4p8",
+      "score": 3,
+      "body": "[deleted]",
+      "permalink": "/r/stocks/comments/1fcwt9k/i_cracked_the_code_part_2/lmco4p8/",
+      "created": 1725922061,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lme9tqp",
+          "score": 1,
+          "body": "One guy went into a rage over it 🤷‍♂️",
+          "permalink": "/r/stocks/comments/1fcwt9k/i_cracked_the_code_part_2/lme9tqp/",
+          "created": 1725945549,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lmc9o6t",
+      "score": 2,
+      "body": "so 1st op was wrong?\n\nnow try this with the top 5 sp500 stocks",
+      "permalink": "/r/stocks/comments/1fcwt9k/i_cracked_the_code_part_2/lmc9o6t/",
+      "created": 1725917120,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmeubs3",
+          "score": 1,
+          "body": "It doesn't quite come out as you expect as some of the biggest don't pay dividends. I chose 10 that do... AAPL, MSFT, LLY, JPM, AVGO, UNH, XOM, V, … which I think covers all the biggest ones of the last few years, and this is how the top 5 changed over time: [https://postimg.cc/Lq3DhZ43](https://postimg.cc/Lq3DhZ43)\n\nThe annualised return is 11%, with 61% time in the market which could be considered an 18% return.  [https://postimg.cc/LhbTqSSw](https://postimg.cc/LhbTqSSw)\n\nI didn't check, but I suspect that just investing in the top 5 on day 1 would have a much bigger return.",
+          "permalink": "/r/stocks/comments/1fcwt9k/i_cracked_the_code_part_2/lmeubs3/",
+          "created": 1725959734,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lmfjhlj",
+      "score": 1,
+      "body": "OP, you seem really smart. You don't belong here.",
+      "permalink": "/r/stocks/comments/1fcwt9k/i_cracked_the_code_part_2/lmfjhlj/",
+      "created": 1725973069,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmfqgce",
+      "score": 1,
+      "body": "very cool, interesting work!\n\nI would think that some institution out there has at \\*least\\* one person like you, whose entire job is to see if they can crack the code\n\nat least during times of economic excess, I'd think they'd have teams of grads working on it for a few months at a time or something \n\nthe potential payoff is just too great for them to have not tried it... though if someone figured it out, it may not work at scale, so they'd probably keep it to themselves and get rich!",
+      "permalink": "/r/stocks/comments/1fcwt9k/i_cracked_the_code_part_2/lmfqgce/",
+      "created": 1725975701,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmfwmfo",
+          "score": 2,
+          "body": "Check out quants! \nhttps://www.investopedia.com/articles/financialcareers/08/quants-quantitative-analyst.asp",
+          "permalink": "/r/stocks/comments/1fcwt9k/i_cracked_the_code_part_2/lmfwmfo/",
+          "created": 1725977854,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lmhwdeg",
+              "score": 1,
+              "body": "oh man...if I didn't have a successful engineering career, I'd LOVE to do that kind of work. I truly enjoy working with numbers, and I'm huge on deep investigative canvassing, always looking for an edge (have been a top player in a few competitive games that way)\n\nthe work you're doing here is cool because even if it doesn't pan out, at least you've taught yourself another skill with these programs. the next time you need to build out a simulation, you'll do it 5x faster. not a bad skill to have!",
+              "permalink": "/r/stocks/comments/1fcwt9k/i_cracked_the_code_part_2/lmhwdeg/",
+              "created": 1726000669,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lmgd0kz",
+      "score": 1,
+      "body": "Are you trying to brag about some magical wand that you own and wish to share it for a small $$$ donation $$$ with the unwilling?",
+      "permalink": "/r/stocks/comments/1fcwt9k/i_cracked_the_code_part_2/lmgd0kz/",
+      "created": 1725983225,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmgycrl",
+          "score": 1,
+          "body": "No, I created a tech business and retired early. This is just a hobby.",
+          "permalink": "/r/stocks/comments/1fcwt9k/i_cracked_the_code_part_2/lmgycrl/",
+          "created": 1725989998,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lmh1pv8",
+              "score": 1,
+              "body": "Nice hobby, to keep your mind Alzheimer’s free. \nGood luck with your expected outcome. Probably Congratulations are in order or soon will be.",
+              "permalink": "/r/stocks/comments/1fcwt9k/i_cracked_the_code_part_2/lmh1pv8/",
+              "created": 1725991058,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lmphvyz",
+      "score": 1,
+      "body": "We’re supposed to track all 5 companies daily?   \nIf you bought the biotech etf, XBI, every time it hit 65 and sold every time it hit 90, you made 7x in the last 10 years. 700% initial principal. Hell of a lot easier to fact check and (btw) to execute.",
+      "permalink": "/r/stocks/comments/1fcwt9k/i_cracked_the_code_part_2/lmphvyz/",
+      "created": 1726108712,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmqbh6v",
+          "score": 1,
+          "body": "Or buy nvidia 10 years ago, do nothing and make ~2,000% 😳\nBut yeah, the main issue is it’s not a good algorithm. I was more interested in building a general purpose simulator.",
+          "permalink": "/r/stocks/comments/1fcwt9k/i_cracked_the_code_part_2/lmqbh6v/",
+          "created": 1726124506,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lmctvoa",
+      "score": 1,
+      "body": "That’s interesting. I’m never gonna apply any of this, but just really cool to read about.",
+      "permalink": "/r/stocks/comments/1fcwt9k/i_cracked_the_code_part_2/lmctvoa/",
+      "created": 1725924151,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmdvyga",
+      "score": 1,
+      "body": "Just for grins and giggles, what is the total number of days per year that you would be holding the exposure?  If it’s pretty short and you calculate the implied RATE OF RETURN, how do the numbers look?",
+      "permalink": "/r/stocks/comments/1fcwt9k/i_cracked_the_code_part_2/lmdvyga/",
+      "created": 1725938465,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lme7fpw",
+          "score": 1,
+          "body": "About half the capital is invested at any given time, you can see it visually with the blue area on the bottom chart, and it works out at 48% - so you could argue effective returns are double what I reported",
+          "permalink": "/r/stocks/comments/1fcwt9k/i_cracked_the_code_part_2/lme7fpw/",
+          "created": 1725944190,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lmj8ykw",
+              "score": 1,
+              "body": "Interesting, but still not supportive of the thesis.",
+              "permalink": "/r/stocks/comments/1fcwt9k/i_cracked_the_code_part_2/lmj8ykw/",
+              "created": 1726017726,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lmbrhe5",
+      "score": -22,
+      "body": "You have no clue what you're talking about",
+      "permalink": "/r/stocks/comments/1fcwt9k/i_cracked_the_code_part_2/lmbrhe5/",
+      "created": 1725911428,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmbybwt",
+          "score": 5,
+          "body": "you think the strat would work? 😂",
+          "permalink": "/r/stocks/comments/1fcwt9k/i_cracked_the_code_part_2/lmbybwt/",
+          "created": 1725913551,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "title": "With INTC being ~$30 and owning 95% of MBLY, each INTC share includes ~.2 MBLY shares valued at $6.6, so each INTC share only costs $24?",
+  "score": 12,
+  "selftext": "INTC only sold 38.5m shares of MBLY, keeping 95% for themselves in the meantime: https://www.nasdaq.com/market-activity/stocks/mbly/insider-activity\n\nso each INTC share is backed by around ~0.19 MBLY shares (4b intc shares, 750m MBLY shares is 0.19 MBLY per INTC share), and for some reason we saw MBLY recently hit $33 per share, does this mean each INTC share has a $6.6 exposure to MBLY? Might fluctuate higher or lower based on MBLY market price and recent investor interest in AI and self driving technology markets. \n\nAlso for some reason MBLY is being massively shorted with 21% of outstanding shares being shorted.- not sure what this 20% (20m shares) is because theres 806m shares, and INTC only sold 38.5m so far. Might be the 38.5m + stock options from MBLY employees is ~100m shares. https://fintel.io/ss/us/mbly",
+  "link_flair_text": "Company Question",
+  "id": "1dcutnt",
+  "num_comments": 28,
+  "created_utc": 1718049255,
+  "permalink": "/r/stocks/comments/1dcutnt/with_intc_being_30_and_owning_95_of_mbly_each/",
+  "comments": [
+    {
+      "id": "l81i72o",
+      "score": 117,
+      "body": "This is copium because its double counting.\n\nIntel already reports mobileye revenue contribution to their total revenue. I believe they have to as per accounting standards.\n\nBy adding mobileye to your intel share price, you would need to subtract everything mobileye related from intels 10q.\n\nOr just take their financials at face value since it already counts mobileye.\n\nIts like looking at volkswagen which owns porsche and is included in their statements then subtracting the market cap of porsche owned by volkswagen then concluding that volkswagen is trading at 10b market cap or 15% of its current stock price.\n\nI cant believe people upvote this nonsense…",
+      "permalink": "/r/stocks/comments/1dcutnt/with_intc_being_30_and_owning_95_of_mbly_each/l81i72o/",
+      "created": 1718063402,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l82seh6",
+          "score": 25,
+          "body": "It’s not double accounting. He didn’t actually mention revenue or earnings, just $ value of exposure per share to mobileye)\n\nHe’s dipping his toes into a common valuation method (esp for conglomerates) called SOTP.\n\nHis question is valid and on the correct path. Mobileye is segmented in “all other operating segments” along with Altera which is given both a top line and op Inc. Split out from the main business.\n\nYou can absolutely model the main segments and construct a fair value separately, then incorporate where the market is currently valuing the Mobileye shares vs the primary operating segments. \n\nThis is actually the most appropriate approach to an intel model because terminal value multiples and discount rates on a foundry business are going to be wildly different from a chip design which will be wildly different from an auto tech co.",
+          "permalink": "/r/stocks/comments/1dcutnt/with_intc_being_30_and_owning_95_of_mbly_each/l82seh6/",
+          "created": 1718084670,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l83tqvm",
+              "score": 8,
+              "body": "You are correct. This guy is quite arrogant and not informed enough.\n\nThere is so much hate on this stock that I might start consider buying it.",
+              "permalink": "/r/stocks/comments/1dcutnt/with_intc_being_30_and_owning_95_of_mbly_each/l83tqvm/",
+              "created": 1718108672,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l85fj3a",
+          "score": 4,
+          "body": "> I cant believe people upvote this nonsense…\n\nWell, OP was asking a question in which you answered. I don't think people upvoting are sitting there like \"yeah!! I am going to blindly believe all this!!\" and moreso just curious for an answer themselves. \n\nThis post is literally sitting at +9 while your comment alone is at 114. Your last comment just seems unnecessarily harsh when OP was simply asking a question on if their math is correct or not. You corrected OP, and that's the end of the story. I don't know why you had to be all grumpy about it.",
+          "permalink": "/r/stocks/comments/1dcutnt/with_intc_being_30_and_owning_95_of_mbly_each/l85fj3a/",
+          "created": 1718129230,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l826xui",
+          "score": 15,
+          "body": "You’re the reason why I read comments.\n\nThis post smelled like BS, but I’m nowhere near smart enough to know why. People like you are so damn important.",
+          "permalink": "/r/stocks/comments/1dcutnt/with_intc_being_30_and_owning_95_of_mbly_each/l826xui/",
+          "created": 1718073666,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l80s0bp",
+      "score": 64,
+      "body": "The cope is \"that stock\" levels with INTC lately. It's dead money until it isn't, buy it or don't but stop trying to pedal this shit on everyone to lighten your bags.",
+      "permalink": "/r/stocks/comments/1dcutnt/with_intc_being_30_and_owning_95_of_mbly_each/l80s0bp/",
+      "created": 1718053444,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l80u7kj",
+          "score": -6,
+          "body": "Its tempting to only buy nvidia and go all in 100% on 1 stock, but INTC might have some of that future market share as well (CPU/GPU/FAB), so it makes sense to hedge some of the other companies in the same category. I like the thesis that AI is the best future technology, and NVDA is best positioned today, but it might not just be 1 company forever, it could be multiple companies.",
+          "permalink": "/r/stocks/comments/1dcutnt/with_intc_being_30_and_owning_95_of_mbly_each/l80u7kj/",
+          "created": 1718054213,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l80vlkd",
+              "score": 22,
+              "body": "Why bet on the horse that’s gonna finish last in the race? Especially one destined for the glue factory.",
+              "permalink": "/r/stocks/comments/1dcutnt/with_intc_being_30_and_owning_95_of_mbly_each/l80vlkd/",
+              "created": 1718054704,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l812udq",
+                  "score": 7,
+                  "body": "Exactly. Intel got greedy with their market share. I guarantee you they decided to do stock buy backs during that time rather than invest in R&D. Then Lisa su and and kept dropping invitation after innovation and now Intel is behind for once. Intel is going to take the IBM route if they don't innovate. Luckily they are taking steps in the right direction but and is so far ahead it's going to be difficult to keep up.",
+                  "permalink": "/r/stocks/comments/1dcutnt/with_intc_being_30_and_owning_95_of_mbly_each/l812udq/",
+                  "created": 1718057349,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l817vvs",
+                      "score": 17,
+                      "body": "That's not really a true point. For example in 2018. Intel spent almost twice as much on R&D than NVDA, TSMC, and AMD combined (You can google it if you want). They did buy back stock. But certainly, they spent huge money on R&D. The main issue was they fucked up their process technology twice in a row, and company leadership did not properly handle it. It was leadership problem not a resource problem",
+                      "permalink": "/r/stocks/comments/1dcutnt/with_intc_being_30_and_owning_95_of_mbly_each/l817vvs/",
+                      "created": 1718059295,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l83vn9q",
+                          "score": 2,
+                          "body": "It’s a problem, that’s what matters. If Intel was incredibly undervalued it might be worth a bite, but it’s not, so it’s not worth the investment currently.",
+                          "permalink": "/r/stocks/comments/1dcutnt/with_intc_being_30_and_owning_95_of_mbly_each/l83vn9q/",
+                          "created": 1718109558,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l841wsb",
+                              "score": 2,
+                              "body": "I do own the stock, and was a long term hater. Intel messing up 2 nodes in a row was a huge tailwind for AMD. That is clearing up now and next year Intel will be ahead of TSMC on 2nm class products. You'll be able to buy an Intel 18A CPU (panther lake and Clearwater Forest) and the tsmc 2nm iPhone is not coming out next year. Personally I think Intel is back on track when it comes to process node technology. Node technology always leads revenue by years. Market under estimates that imo, just like they did when AMD was ahead (via TSMC).",
+                              "permalink": "/r/stocks/comments/1dcutnt/with_intc_being_30_and_owning_95_of_mbly_each/l841wsb/",
+                              "created": 1718112203,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "l83dhgc",
+                      "score": 3,
+                      "body": "They're building several new fabs for cutting edge nodes, it's just that they're scheduled to come online in 2028. Question is if you want to park your money at INTC until we see their investments pay off 4+ years ago when there are better opportunities in the semi space.",
+                      "permalink": "/r/stocks/comments/1dcutnt/with_intc_being_30_and_owning_95_of_mbly_each/l83dhgc/",
+                      "created": 1718099553,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l8dqyk9",
+                          "score": 1,
+                          "body": "The 18a fab in chandler is due to come online next year.",
+                          "permalink": "/r/stocks/comments/1dcutnt/with_intc_being_30_and_owning_95_of_mbly_each/l8dqyk9/",
+                          "created": 1718253995,
+                          "depth": 5,
+                          "replies": []
+                        },
+                        {
+                          "id": "l84dw0x",
+                          "score": 0,
+                          "body": "But isn't their current fab worse than Samsung? And Samsung was so bad for Nvidia that they went back to tsmc instantly. Like Intel is also super behind on their fab tech..then you have the fact that AMD is playing with the idea of 2nm nodes when they're at like I think 5nm nodes now. Intel isn't even at 5 yet and the power to performance is through the roof. I just don't see Intel being a viable option for about a decade but even then they'll be behind. I took a step back from the consumer tech space for a while so I could be out of date. However, Intel just doesn't seem stable and they pass the buck like no other and couple that with mismanagement and you have a company that will never recover. \n\nMeanwhile amd and Nvidia are the leaders in the space. And the fact that epic CPUs for servers are starting to replace xeons should terrify Intel. Just my two cents.",
+                          "permalink": "/r/stocks/comments/1dcutnt/with_intc_being_30_and_owning_95_of_mbly_each/l84dw0x/",
+                          "created": 1718116691,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l8dr87o",
+                              "score": 2,
+                              "body": "10nm was a crap process from the start. Intel didn’t want to spend the money on EUV because they said they could make it work and it bit them in the ass. So now Intel is going in on high NA EUV while the competition is staying away because of the cost and saying they can make do. Sound familiar?",
+                              "permalink": "/r/stocks/comments/1dcutnt/with_intc_being_30_and_owning_95_of_mbly_each/l8dr87o/",
+                              "created": 1718254142,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l8f0mhd",
+                                  "score": 0,
+                                  "body": "Yep it definitely does. That's why Intel is on my do not touch list. AMD always provides more price to performance than Intel. AMD from what I have seen has pretty much taken over the consumer market. Even their older generation of chips like a 2700x for example is still usable even to this day. Sort of astounding really.",
+                                  "permalink": "/r/stocks/comments/1dcutnt/with_intc_being_30_and_owning_95_of_mbly_each/l8f0mhd/",
+                                  "created": 1718282133,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "l83vddl",
+              "score": 2,
+              "body": "It doesn’t make sense to hedge with losing companies.",
+              "permalink": "/r/stocks/comments/1dcutnt/with_intc_being_30_and_owning_95_of_mbly_each/l83vddl/",
+              "created": 1718109433,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l82iizu",
+      "score": 5,
+      "body": "Intel had some \"bad news\" come out that their Israel fab is being delayed.  The price of the stock didn't go down, so it could be a possible turning point.",
+      "permalink": "/r/stocks/comments/1dcutnt/with_intc_being_30_and_owning_95_of_mbly_each/l82iizu/",
+      "created": 1718079101,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l819ibc",
+      "score": 2,
+      "body": "I had a had a couple hundred shares of INTC and sold it all and bought Nvidia and name more in the past couple weeks then the loss I had with INTC for the past couple months.",
+      "permalink": "/r/stocks/comments/1dcutnt/with_intc_being_30_and_owning_95_of_mbly_each/l819ibc/",
+      "created": 1718059928,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l817rec",
+      "score": -4,
+      "body": "No.\n\nThe cost of a share is the cost of a share. If you think that INTC is undervalued it's not the cost that changes but the value that changes and each share is worth 6.6 more not that each share costs 6.6 less.",
+      "permalink": "/r/stocks/comments/1dcutnt/with_intc_being_30_and_owning_95_of_mbly_each/l817rec/",
+      "created": 1718059246,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l80q5fy",
+      "score": -16,
+      "body": "This is not how it works. MBLY shares are not distributed to the INTC shareholders.\n\nINTC as an entity is the owner of 95% of MBLY, but no the INTC shareholders. So I don't own MBLY shares when I purchase INTC shares. The performance of MBLY does not directly influence the performance of INTC. When INTC reports earnings they should include a chapter for MBLY, not sure how they value this.",
+      "permalink": "/r/stocks/comments/1dcutnt/with_intc_being_30_and_owning_95_of_mbly_each/l80q5fy/",
+      "created": 1718052810,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l80vkf9",
+          "score": 19,
+          "body": "Why would they need to be distributed to shareholder to have value? It's about calculating the value of the company. Just imagine they owned 10% of Nvidia which would be valued at more than what Intel is currently worth - you wouldn't account for this in your analysis to get to a fair stock price? ",
+          "permalink": "/r/stocks/comments/1dcutnt/with_intc_being_30_and_owning_95_of_mbly_each/l80vkf9/",
+          "created": 1718054692,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l80zsd6",
+          "score": 13,
+          "body": "If INTC owns MBLY, as a shareholder of INTC, you are indirectly entitled to it. \nYou may not get the shares but you get its benefits.\nIt is a part of Intel’s assets and overall value.",
+          "permalink": "/r/stocks/comments/1dcutnt/with_intc_being_30_and_owning_95_of_mbly_each/l80zsd6/",
+          "created": 1718056211,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l815fpx",
+          "score": 9,
+          "body": "What you’re saying is balance sheets are irrelevant to stock price. I’m so amazed by the confidence though",
+          "permalink": "/r/stocks/comments/1dcutnt/with_intc_being_30_and_owning_95_of_mbly_each/l815fpx/",
+          "created": 1718058341,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l80qsed",
+          "score": 5,
+          "body": "Would you favor MBLY in as an asset for book value? That doesn’t directly change market price of course, but in theory should change the fundamental valuation",
+          "permalink": "/r/stocks/comments/1dcutnt/with_intc_being_30_and_owning_95_of_mbly_each/l80qsed/",
+          "created": 1718053026,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

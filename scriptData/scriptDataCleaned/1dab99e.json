@@ -1,0 +1,78 @@
+{
+  "title": "NYSE halt question ",
+  "score": 22,
+  "selftext": "I have searched high and low for info on how NYSE halts work, I can't even find it on investopedia. I know NASDAQ goes by 5 minute increments depending on how disjointed the indication is, but the NYSE doesn't have indications, so do the stocks just unhalt arbitrarily or is there a method to it?",
+  "link_flair_text": "Advice",
+  "id": "1dab99e",
+  "num_comments": 8,
+  "created_utc": 1717768387,
+  "permalink": "/r/stocks/comments/1dab99e/nyse_halt_question/",
+  "comments": [
+    {
+      "id": "l7j3mft",
+      "score": 29,
+      "body": "There are 3 circuit breakers. If the third breaker is tripped, the stock stops trading for the rest of the day. \n\nhttps://www.nyse.com/network/article/nyse-increases-resiliancy-during-extreme-volatility#:~:text=A%20market%2Dwide%20trading%20halt,20%25%20(Level%203).",
+      "permalink": "/r/stocks/comments/1dab99e/nyse_halt_question/l7j3mft/",
+      "created": 1717769176,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l7j3ytj",
+      "score": 8,
+      "body": "Is this what you are looking for?\n\nhttps://www.sec.gov/answers/tradinghalt.htm",
+      "permalink": "/r/stocks/comments/1dab99e/nyse_halt_question/l7j3ytj/",
+      "created": 1717769300,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l7kyna1",
+      "score": 41,
+      "body": "There were some pretty suspect halts today, hahah",
+      "permalink": "/r/stocks/comments/1dab99e/nyse_halt_question/l7kyna1/",
+      "created": 1717791945,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l7lppgc",
+          "score": 15,
+          "body": "Cheers",
+          "permalink": "/r/stocks/comments/1dab99e/nyse_halt_question/l7lppgc/",
+          "created": 1717802336,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l7j3i0p",
+      "score": 8,
+      "body": "[https://www.nasdaqtrader.com/trader.aspx?id=TradeHalts](https://www.nasdaqtrader.com/trader.aspx?id=TradeHalts)\n\nThey (essentially) operate the same way, NYSE halts just don't have a indication price while halted. Also they use different halt codes.",
+      "permalink": "/r/stocks/comments/1dab99e/nyse_halt_question/l7j3i0p/",
+      "created": 1717769133,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l7j3nn2",
+          "score": 3,
+          "body": "Thank you so much!",
+          "permalink": "/r/stocks/comments/1dab99e/nyse_halt_question/l7j3nn2/",
+          "created": 1717769189,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l7j4mnl",
+              "score": 3,
+              "body": "No problem! Also worth nothing that the website I linked also has NYSE halts in there as well, so you can just use that site for ALL the halts on the market. It's what I use :)",
+              "permalink": "/r/stocks/comments/1dab99e/nyse_halt_question/l7j4mnl/",
+              "created": 1717769539,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

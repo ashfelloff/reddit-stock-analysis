@@ -1,0 +1,432 @@
+{
+  "title": "What fkry in the option chain looks like ",
+  "score": 50,
+  "selftext": "I wanted to share a screenshot of something I noticed in Ko. It also happens in lots other companies as well.  See the picture, this was the level 2 option data for the short, near  expiry option.  This is a fake spread. I know because as soon as you place an order the entire ask changes much tighter to the bid. My theory is they are taking advantage of people who don't have access to the level 2 option data.  On think or swim for example, the automatic sale price defaults to the mid point.  If you can't see what's going on in the chain, you may think that's fair value and buy. Then you are instantly red twenty percent or more.\n\nTldr, make sure you never sell or buy at the mid price or you could get scammed",
+  "link_flair_text": "Discussion",
+  "id": "1edlx46",
+  "num_comments": 45,
+  "created_utc": 1722101910,
+  "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/",
+  "url_overridden_by_dest": "https://i.redd.it/5fmkadw4l3fd1.png",
+  "comments": [
+    {
+      "id": "lf7ug2k",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 2 | **First Seen In WSB** | 3 years ago\n**Total Comments** | 743 | **Previous Best DD** | \n**Account Age** | 3 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lf7ug2k/",
+      "created": 1722101925,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lf7x49j",
+      "score": 19,
+      "body": "A helpful post, in this sub?!?",
+      "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lf7x49j/",
+      "created": 1722102859,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lf8aeca",
+      "score": 28,
+      "body": "Algorithms will always try to do this.\n\nWhy wouldn't they? Try to scalp money off retail is their entire purpose.",
+      "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lf8aeca/",
+      "created": 1722107716,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lfffan6",
+          "score": 1,
+          "body": "Algorithms hate this one simple trick! --- looking at the L2.",
+          "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lfffan6/",
+          "created": 1722218891,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lf7zhjg",
+      "score": 16,
+      "body": "Ok... I've got plenty of experience in options.  Care to explain to me again what you think is going on?\n\nNot every option combination is quoted at any one time, keep in mind.",
+      "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lf7zhjg/",
+      "created": 1722103702,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lf84liq",
+          "score": 23,
+          "body": "Artificially giant spread.  Guaranteed if you enter a limit order to sell a couple cents below that ask, the algos will immediately adjust to something more realistic and undercut you, and then you need to lower and eventually you'll find their real ask.\n\nHappens all the time on thinner volume strikes where there is no actual market participant ask (or bid) and the algos widen the spread quite substantially.\n\nThis is why I never enter limits at mid.  I start just below the ask or just above the bid until I find the *real* midpoint, and then I figure out the actual limit amount I should use for a standing order.",
+          "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lf84liq/",
+          "created": 1722105562,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lf85ru0",
+              "score": 6,
+              "body": "But that's to be expected.  It's simply the sum (or difference) of the individual legs.  If there's no opposite side your individual complex spread (no matter how complex) that's what happens.  \n\nSay you're looking for the 75/80 call spread.  \n\nYou're going to get the market in the 75c - the 80c. That's all you could hope for.  \n\nNow if you were to submit an RFQ (request for quote) in that same spread... Which might raise the intrest of a bond fide market maker (my role) and you were trying to do any size you might get a better market.",
+              "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lf85ru0/",
+              "created": 1722105995,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lf86tkg",
+                  "score": 3,
+                  "body": "I am just referring to individual strikes (put or call) at individual expiries.\n\nThe MM algos sit on huge bid/ask spreads.  And they will instantly undercut you on both sides the moment you enter a limit order.  Multiple times.  I have HSBC puts that were priced so wide that I went to sell some and the algo undercut me all the way from over $2.50 down to $1.45.  The *real* ask they were willing to sell at.\n\nYou can also trigger this behavior.  Take the entire ask or bid at their market price, and then *watch* it immediately rocket away, only to get repriced starting about 5 seconds later at a nickel per second back towards where it was.",
+                  "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lf86tkg/",
+                  "created": 1722106383,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lf877n3",
+                      "score": 4,
+                      "body": "Oh, yes.  Well that's to be expected as well.  Nobody puts there best foot forward if there's any chance of it getting caught in the door.\n\nEdited to add: your last paragraph doesn't make much sense to me.  I don't speak WSB though",
+                      "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lf877n3/",
+                      "created": 1722106526,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lf87ga4",
+                          "score": 1,
+                          "body": "Which is why you should never use \"mid\" pricing with your trading software.\n\nIf either the bid or ask is a \"real\" price but the other is not, you're gonna get effed.",
+                          "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lf87ga4/",
+                          "created": 1722106616,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lf87rlf",
+                              "score": 0,
+                              "body": "Ah, well. We come at markets differently.  I suspect I'm twenty years older than you though.  I don't use 'mid' at all. Whatever that means.",
+                              "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lf87rlf/",
+                              "created": 1722106733,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lf880z8",
+                                  "score": 4,
+                                  "body": "?  mid is \"midpoint\"... when you click sell or buy, in most trading software, that's the default price presented to you for a \"limit order\".\n\nAlso, I'm 56.  And I don't get to meet many 76 year olds on Reddit!",
+                                  "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lf880z8/",
+                                  "created": 1722106831,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "lf889qt",
+                                      "score": 3,
+                                      "body": "Aha!  I'm 54.  \n\nNo, I'm able to infer what mid means, just my not using it means something about our different approachs to the market.",
+                                      "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lf889qt/",
+                                      "created": 1722106922,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "lf88pek",
+                                          "score": 3,
+                                          "body": "Kinda the point.  Trading software is designed to lose your money.\n\nI don't use it either.  OP is telling you not to use it.  Because of the way MMs will sit on these bogus spreads just to scalp idiots who don't know how these spreads work.",
+                                          "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lf88pek/",
+                                          "created": 1722107084,
+                                          "depth": 9,
+                                          "replies": []
+                                        },
+                                        {
+                                          "id": "lf8mwmq",
+                                          "score": 2,
+                                          "body": "Ya'll should buy some OTC sildenafil and get a room",
+                                          "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lf8mwmq/",
+                                          "created": 1722112347,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lfjy23t",
+              "score": 1,
+              "body": "What do you do then if you have good profits and price is looking like it’s going to move quickly against you? Do you still try to sell slightly below the ask or what’s the best strategy to get the best price on these huge spreads? How long do you wait before you readjust the limit price",
+              "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lfjy23t/",
+              "created": 1722289025,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lfjyhkk",
+                  "score": 1,
+                  "body": "That's a different situation, maybe.  You won't know what the *actual* prices are until you enter yours.  That's what I've experienced.  Ask at $2.50, so you go $2.45.  Instantly the algo is at $2.40.  You reset to $2.35.  Instantly the algo is at $2.30.  You go $2.25.  Instantly the algo is at $2.20.  You might find the algos real price is $2 or even lower.\n\nSame issue on the bid.",
+                  "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lfjyhkk/",
+                  "created": 1722289170,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lfk0tmu",
+                      "score": 1,
+                      "body": "Well I have encountered this a few times. Either the ask just keeps on coming down when I readjust my limit like your saying except it just keeps going until the mid or my higher limit price never sells in time. This only happens with very wide spreads but just trying to see if there is any one else who had some strategy that works here because it will just keep going down and only sell near the mid.  Which would make sense if the bid wasn’t extremely low making the mid a redixulous price. And with a huge spread that could mean a loss even when price has moved in your favor.  This happened to me on lily last week when the spread was literally $3-$200 I bought around 70 or an and couldn’t get anywhere near that 200 ask. Closest I could actually sell it for was a loss because of that redixulous low bid",
+                      "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lfk0tmu/",
+                      "created": 1722289967,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lf97b0d",
+          "score": 0,
+          "body": "This is supposed to be national best bid and ask level 2 data, and it is.  But market makers are fudging the numbers to take a way higher cut of anyone who can't see what's happening.  I think I bought this for like 84 cents or something like that.",
+          "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lf97b0d/",
+          "created": 1722120210,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lf98a6j",
+              "score": 2,
+              "body": "You may have caught a seller, congrats.",
+              "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lf98a6j/",
+              "created": 1722120605,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lf98x7e",
+                  "score": 1,
+                  "body": "Ha now if I can design an algorithm to do this all day every day.🤔",
+                  "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lf98x7e/",
+                  "created": 1722120865,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lf9atct",
+                      "score": 4,
+                      "body": "Now you're a market maker.",
+                      "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lf9atct/",
+                      "created": 1722121632,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lf8ermg",
+      "score": 4,
+      "body": "many brokers do bullshit like this, give shitty prices to lower tier accounts.",
+      "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lf8ermg/",
+      "created": 1722109342,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lf98cjn",
+          "score": 1,
+          "body": "I don't think this is webull doing this in particular although apex is a trash company.  I'm still salty at losing 14k when they turned off the buy button and locked us out of our accounts",
+          "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lf98cjn/",
+          "created": 1722120632,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lf7wzka",
+      "score": 3,
+      "body": "![img](emote|t5_2th52|4640)",
+      "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lf7wzka/",
+      "created": 1722102814,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lf88uo0",
+      "score": 3,
+      "body": "I saw something similar to this the other day with TXRH. The spread was atrocious and I put in a bid halfway between the current bid and mid price for 1 contract just for shits and giggles and as soon as I did the ask immediately jumped up. I moved my bid up a little and sure as shit the ask jumped again. I gave up after that because the chain was garbage to begin with.",
+      "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lf88uo0/",
+      "created": 1722107138,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lf871ra",
+      "score": 6,
+      "body": "[deleted]",
+      "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lf871ra/",
+      "created": 1722106465,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lf8kwhz",
+          "score": 4,
+          "body": "Yup, noticed this trying to sell my contracts on robinhood the other day. Every time i lowered my price it was almost like automation; another contract outbid me by .10 .",
+          "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lf8kwhz/",
+          "created": 1722111615,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lf8a4yb",
+      "score": 2,
+      "body": "noted",
+      "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lf8a4yb/",
+      "created": 1722107619,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lf96a0v",
+      "score": 2,
+      "body": "This was part of a calendar spread I ran and actually made a few bucks on.  I would have lost money if I bought at this midpoint.",
+      "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lf96a0v/",
+      "created": 1722119798,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lf9t2a9",
+      "score": 2,
+      "body": "So if you see this, \n\nBid 1 or 2 cent higher then the current low bid. The algorithms will start to adjust back and and forth till they set a few cents from each other.",
+      "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lf9t2a9/",
+      "created": 1722129112,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lfag4z8",
+          "score": 2,
+          "body": "Yes and I always look at the last sold price.  If underlying hasn't moved much that's a good place to start",
+          "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lfag4z8/",
+          "created": 1722139478,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lfcdst4",
+      "score": 2,
+      "body": "It’s very wide. That’s how they make their money in illiquid markets. Now look at Tesla or spy where trading markets are a penny wide. Choose your underlying wisely",
+      "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lfcdst4/",
+      "created": 1722178382,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lff84pe",
+      "score": 2,
+      "body": "Good post brother 🤙🏼",
+      "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lff84pe/",
+      "created": 1722215822,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lf98x8z",
+      "score": 1,
+      "body": "[deleted]",
+      "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lf98x8z/",
+      "created": 1722120865,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lf9efrf",
+          "score": 1,
+          "body": "But they're not real spreads... they're the \"sucker\" price.  As soon as you put a real bid or ask in there that takes their position, the algo will move it's price in front of you.",
+          "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lf9efrf/",
+          "created": 1722123103,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lfbu3rg",
+      "score": 1,
+      "body": "This happens after hours on Webull every day. Pricing will correct when the market opens.",
+      "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lfbu3rg/",
+      "created": 1722170239,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lfbwdye",
+          "score": 1,
+          "body": "https://preview.redd.it/a653m58mc9fd1.png?width=1440&format=pjpg&auto=webp&s=993ef27fac8637f12001dc746bd4dd9664053a1a",
+          "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lfbwdye/",
+          "created": 1722171338,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lfby9we",
+              "score": 2,
+              "body": "lol that’s just spread rape then",
+              "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lfby9we/",
+              "created": 1722172200,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lfjz726",
+      "score": 2,
+      "body": "This is pretty much what screwed me on lily. After I sold too early on my puts I tried to catch a little spike up and bought calls for around $70 I was only going to hold for a day or two. The next day it went up like I wanted but the bid was literally like $3 dollars and the ask was like $200+  that spread was so wide I couldn’t sell it.  even with readjusting the limit over and over again with that bid so low it wouldn’t give me anything worth while and I took a loss even though I got my spike.",
+      "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lfjz726/",
+      "created": 1722289409,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lf80uoy",
+      "score": -3,
+      "body": "It's about how the mid price is so much lower than the ask (in red)\n\nWhen you market sell it uses the mid price. With a limit sell you specify the price you sell at and that could be higher than the mid price\n\nEDIT: I'm guessing what I said is what the OP is referring to",
+      "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lf80uoy/",
+      "created": 1722104197,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lf83yy6",
+          "score": 4,
+          "body": "Market sell doesn't use the mid price.  WTF are you talking about?",
+          "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lf83yy6/",
+          "created": 1722105333,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lf8d6eo",
+              "score": -1,
+              "body": "Fair enough I was wrong. \n\nI know webull manipulates the spreads on buy/sell orders to make money",
+              "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lf8d6eo/",
+              "created": 1722108754,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lf97zzb",
+          "score": 2,
+          "body": "It's that some brokers apps like think or swim for example will default to the mid price when you try to buy or sell an option.  And they don't show you the level 2 data.  Another way to be sure you don't get hosed is to look at the last sale price and make sure it's close",
+          "permalink": "/r/wallstreetbets/comments/1edlx46/what_fkry_in_the_option_chain_looks_like/lf97zzb/",
+          "created": 1722120490,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

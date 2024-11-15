@@ -1,0 +1,332 @@
+{
+  "title": "What do people expect from Snowflake",
+  "score": 44,
+  "selftext": "So I know when you evaluate stock, you can’t rely too much on p/e or forward p/e. Sure, now I think Arm’s forward p/e is 100 something, which is too high for any traditional value investor to even consider to buy fractional shares. However, I understand the company’s ambition and its dominant market share in mobile chips. Nice. Forward p/e 100, and people still buying it. Insightful, good for them.\n\nBut how about Snowflake? \nForward p/e 200.\n\nMust be a reason right?\n\nWhat are your reason to buy Snowflake? What do people expect from it?",
+  "link_flair_text": "Company Discussion",
+  "id": "1dsr4a2",
+  "num_comments": 33,
+  "created_utc": 1719834874,
+  "permalink": "/r/stocks/comments/1dsr4a2/what_do_people_expect_from_snowflake/",
+  "comments": [
+    {
+      "id": "lb49bez",
+      "score": 35,
+      "body": "You’re going to need to understand more than estimates of forward P/E for starters. SNOW isn’t bottom line profitable, so a lot of what you’re seeing as forward P/E is based on projection/estimates from things like fcf yield, you’re probably not going to actually see them realizing even those level of earnings.\n\nWith that said, you’re going to have to build your own model to estimate growth & future margin profile. If you think they can continue to grow at 20-30%+ yoy for the next ~5, and maintain as a 20-30% fcf margin business, then current cost probably isn’t so bad. See NOW as an example of what that could look like.\n\nIf you don’t believe the above things, or more, then SNOW likely still looks overpriced.",
+      "permalink": "/r/stocks/comments/1dsr4a2/what_do_people_expect_from_snowflake/lb49bez/",
+      "created": 1719837278,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lb4k1dz",
+          "score": 16,
+          "body": "> maintain as a 20-30% fcf margin business\n\n  \nonly reason they have a \"30% FCF\" business is cause 50% of their revenue is SBC lmao\n\n  \nits like saying if you just exclude mortgage and food from your budget, you make a ton of money",
+          "permalink": "/r/stocks/comments/1dsr4a2/what_do_people_expect_from_snowflake/lb4k1dz/",
+          "created": 1719841768,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lb4n4ye",
+              "score": 6,
+              "body": "No disagreement from me, I wouldn’t buy SNOW here, just laying out the argument for one to be bullish.",
+              "permalink": "/r/stocks/comments/1dsr4a2/what_do_people_expect_from_snowflake/lb4n4ye/",
+              "created": 1719842945,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lb4tlf4",
+          "score": 1,
+          "body": "How do you build your own model?",
+          "permalink": "/r/stocks/comments/1dsr4a2/what_do_people_expect_from_snowflake/lb4tlf4/",
+          "created": 1719845242,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lb5rvgu",
+              "score": 1,
+              "body": "Loaded question because you can make it as complicated or simple as you want. There’s better resources than I can explain for a good DCF model, but I generally just keep a simple excel with a few variable inputs that allows a quick view of how those potentially change future metrics.",
+              "permalink": "/r/stocks/comments/1dsr4a2/what_do_people_expect_from_snowflake/lb5rvgu/",
+              "created": 1719856493,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lb5ugjm",
+                  "score": 3,
+                  "body": "How well has it worked?",
+                  "permalink": "/r/stocks/comments/1dsr4a2/what_do_people_expect_from_snowflake/lb5ugjm/",
+                  "created": 1719857325,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lbe8mu3",
+                  "score": 1,
+                  "body": "Could you explain a little more and where would you recommend learning this?",
+                  "permalink": "/r/stocks/comments/1dsr4a2/what_do_people_expect_from_snowflake/lbe8mu3/",
+                  "created": 1719980065,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lb467e5",
+      "score": 8,
+      "body": "Expansion, growth, more partnerships with good players.",
+      "permalink": "/r/stocks/comments/1dsr4a2/what_do_people_expect_from_snowflake/lb467e5/",
+      "created": 1719835792,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lb48auo",
+      "score": 12,
+      "body": "They will face increasing competition, and their baseline tech is not improving nor really expanding. They're going to have some down quarters until they stop being cocky and start innovating.",
+      "permalink": "/r/stocks/comments/1dsr4a2/what_do_people_expect_from_snowflake/lb48auo/",
+      "created": 1719836805,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lb4wr7i",
+          "score": 16,
+          "body": "> They're going to have some down quarters until they stop being cocky and start innovating.\n\nSnowflake is always tacking on new features. Snowpark, SQL Stored Procedures (though this should have been supported from the onset), AI database querying, etc. \n\nIt’s pretty overwhelming to follow the Snowflake developments and I’m a certified AWS Solution Architect so I’m pretty used to companies rolling out new services.",
+          "permalink": "/r/stocks/comments/1dsr4a2/what_do_people_expect_from_snowflake/lb4wr7i/",
+          "created": 1719846320,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lb4xk6y",
+              "score": 2,
+              "body": "Seeing much more growth with Databricks at the moment.  Work closely with both.",
+              "permalink": "/r/stocks/comments/1dsr4a2/what_do_people_expect_from_snowflake/lb4xk6y/",
+              "created": 1719846593,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lb73h4f",
+                  "score": 2,
+                  "body": "Honestly if databrick was public i would chose it all things being equal.",
+                  "permalink": "/r/stocks/comments/1dsr4a2/what_do_people_expect_from_snowflake/lb73h4f/",
+                  "created": 1719872164,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lb4gu3r",
+      "score": 7,
+      "body": "Honestly, I think they were an early player of a new game, but they don't have longevity. Competition is going to destroy them.",
+      "permalink": "/r/stocks/comments/1dsr4a2/what_do_people_expect_from_snowflake/lb4gu3r/",
+      "created": 1719840508,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lb75fch",
+      "score": 3,
+      "body": "Short Snowflake, got it.",
+      "permalink": "/r/stocks/comments/1dsr4a2/what_do_people_expect_from_snowflake/lb75fch/",
+      "created": 1719872887,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lb5j6y4",
+      "score": 1,
+      "body": "Prob more projected revenue growth of 50% + now to 2026.  However, their earnings per share growth projections look horrid. I'd stay away (just me).  If they can't add value to the shares while increasing revenues, why bother?",
+      "permalink": "/r/stocks/comments/1dsr4a2/what_do_people_expect_from_snowflake/lb5j6y4/",
+      "created": 1719853709,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lb6r7qj",
+      "score": 1,
+      "body": "Forget the numbers. When the stock craters upon the departure of a CEO, there's a lot more going on. I wouldn't touch SNOW with throwaway money.",
+      "permalink": "/r/stocks/comments/1dsr4a2/what_do_people_expect_from_snowflake/lb6r7qj/",
+      "created": 1719867957,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lb84vd4",
+      "score": 1,
+      "body": "I expect snowflake to not do as good as palantir",
+      "permalink": "/r/stocks/comments/1dsr4a2/what_do_people_expect_from_snowflake/lb84vd4/",
+      "created": 1719886769,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lbe1fvb",
+      "score": 1,
+      "body": "If the first time I hear about a tech company, is it's involvement with hacking... It's a red flag. But people will buy anything, it's everybody's market.",
+      "permalink": "/r/stocks/comments/1dsr4a2/what_do_people_expect_from_snowflake/lbe1fvb/",
+      "created": 1719976632,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lb4z7s1",
+      "score": 1,
+      "body": "Just want to point out that Nancy Pelosi's husband bought private shares in Databricks, a competitor",
+      "permalink": "/r/stocks/comments/1dsr4a2/what_do_people_expect_from_snowflake/lb4z7s1/",
+      "created": 1719847149,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lb69rv6",
+          "score": 0,
+          "body": "Databricks isn't a publicly traded company?",
+          "permalink": "/r/stocks/comments/1dsr4a2/what_do_people_expect_from_snowflake/lb69rv6/",
+          "created": 1719862342,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lb6ab86",
+              "score": 6,
+              "body": "Private shares",
+              "permalink": "/r/stocks/comments/1dsr4a2/what_do_people_expect_from_snowflake/lb6ab86/",
+              "created": 1719862521,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lb6l5de",
+                  "score": 2,
+                  "body": "Ah you're right, I missed that bit.",
+                  "permalink": "/r/stocks/comments/1dsr4a2/what_do_people_expect_from_snowflake/lb6l5de/",
+                  "created": 1719865964,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lb56lup",
+          "score": -2,
+          "body": "Isn't he the guy that got clocked in the head during a home invasion? Might be wise to do the opposite of what he does.",
+          "permalink": "/r/stocks/comments/1dsr4a2/what_do_people_expect_from_snowflake/lb56lup/",
+          "created": 1719849600,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lb4anav",
+      "score": -1,
+      "body": "Problematic for its customers:\n\nhttps://thehackernews.com/2024/06/snowflake-breach-exposes-165-customers.html",
+      "permalink": "/r/stocks/comments/1dsr4a2/what_do_people_expect_from_snowflake/lb4anav/",
+      "created": 1719837885,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lb6gogl",
+          "score": 1,
+          "body": "Microsoft has daily data breaches at this point, noone seems to care.",
+          "permalink": "/r/stocks/comments/1dsr4a2/what_do_people_expect_from_snowflake/lb6gogl/",
+          "created": 1719864500,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lb4gje7",
+      "score": -1,
+      "body": "Subscribed",
+      "permalink": "/r/stocks/comments/1dsr4a2/what_do_people_expect_from_snowflake/lb4gje7/",
+      "created": 1719840389,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lb4omns",
+      "score": -1,
+      "body": "[deleted]",
+      "permalink": "/r/stocks/comments/1dsr4a2/what_do_people_expect_from_snowflake/lb4omns/",
+      "created": 1719843488,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lb545dh",
+          "score": 1,
+          "body": "That part was about arm I believe",
+          "permalink": "/r/stocks/comments/1dsr4a2/what_do_people_expect_from_snowflake/lb545dh/",
+          "created": 1719848789,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lb55wmm",
+              "score": 1,
+              "body": "This is what I get for redditing at the gym",
+              "permalink": "/r/stocks/comments/1dsr4a2/what_do_people_expect_from_snowflake/lb55wmm/",
+              "created": 1719849366,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lb467q3",
+      "score": -12,
+      "body": "I dont hold SNOW but they have so much data from big companies and they could easily profit from those within the next years by generating so much insights and output. Their data lake is their best argument if you ask me.",
+      "permalink": "/r/stocks/comments/1dsr4a2/what_do_people_expect_from_snowflake/lb467q3/",
+      "created": 1719835796,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lb480bk",
+          "score": 13,
+          "body": "It's not their data. Nothing of value for them.",
+          "permalink": "/r/stocks/comments/1dsr4a2/what_do_people_expect_from_snowflake/lb480bk/",
+          "created": 1719836666,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lb4c1ie",
+          "score": 1,
+          "body": "They don’t access to that data allegedly",
+          "permalink": "/r/stocks/comments/1dsr4a2/what_do_people_expect_from_snowflake/lb4c1ie/",
+          "created": 1719838495,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lb4r8wm",
+          "score": 0,
+          "body": "Do you have any idea how anything works?",
+          "permalink": "/r/stocks/comments/1dsr4a2/what_do_people_expect_from_snowflake/lb4r8wm/",
+          "created": 1719844420,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lly7dwi",
+      "score": 1,
+      "body": "If I had money to invest - I wouldnt be going near Snowflake for now.   Are they ever really turning a profit? and if so its only been recently and guess what- every single one of their customers is griping about their pricing - so to keep them happy they will have to start reducing costs or give more value - how can they do this when usage is going up and costs of compute is going up, and their competition is very tough with hyperscalers, Databricks and not to mention other major players...  Their model was to capture market share at a loss... sell the ease of adoption and speed to market, after a couple of years when this is gone, customers are griping of costs.   Cloud repatriation for the larger workloads by the enterprise will pull back down to their data centers if they smart.  Why ?  save $$$s in dollars and with a couple of FTEs you actually now have a more customizable and cheaper product.   Snowflake is best for the SMB or Mom and Pop shops when this happens, they wont be in the data center business and as SF has already found out - data volumes are not growing as quickly as they need to keep up with their exorbinent costs.   Roll this into the IPO - having to pay out shareholders, cloud contracts from Hyperscalers going up as they have their own products which can take that market - oh yeah Im sure with SF expensive compute model they will play nice for awhile, until they dont have to- hyperscalers just want to sell infrastructure and SF is doing that well but to the pain of their customer - but the customers wont take it forever, in a saturated market and with the recession will flush them out if it comes and hits hard....   Just my guess but it looks an easy answer to me.   Probably why Slootman got out and is on the 'board'  that guy is smart- he got out while its hot.   The only way is down.  Its not a profitable model - and they have already grabbed market share - so where to next?",
+      "permalink": "/r/stocks/comments/1dsr4a2/what_do_people_expect_from_snowflake/lly7dwi/",
+      "created": 1725714489,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

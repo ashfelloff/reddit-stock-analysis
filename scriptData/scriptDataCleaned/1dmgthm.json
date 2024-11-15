@@ -1,0 +1,430 @@
+{
+  "title": "Is it legal for a publicly traded company to borrow money against their own stock?",
+  "score": 48,
+  "selftext": "Is it legal for a publicly traded company to use their own stock as a collateral when borrowing money, based on the current stock price? And if so, would it be possible for such company to go bankrupt if it's stock goes down enough and they can't meet their margin call? Are there any examples of such companies?",
+  "link_flair_text": null,
+  "id": "1dmgthm",
+  "num_comments": 48,
+  "created_utc": 1719128081,
+  "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/",
+  "comments": [
+    {
+      "id": "l9vir92",
+      "score": 105,
+      "body": "Yes, this is legal. It's called a loan stock. Lenders will find it risky however, since a company being unable to pay the loan back likely means that the value of the shares posted as collateral has tanked.",
+      "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/l9vir92/",
+      "created": 1719128811,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9vsd7m",
+          "score": 17,
+          "body": "I believe companies can include additonal stock as collateral, to help secure better terms.",
+          "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/l9vsd7m/",
+          "created": 1719135969,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9wliqe",
+              "score": 8,
+              "body": "You’d think you’d just value the stock collateral lower then its market price to make up for the risk",
+              "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/l9wliqe/",
+              "created": 1719151971,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l9xejtg",
+                  "score": 4,
+                  "body": "The lenders probably adjust to metrics like volatility and other risk measurements.",
+                  "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/l9xejtg/",
+                  "created": 1719162807,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l9yneh2",
+                  "score": 3,
+                  "body": "You’d also calculate risk related to IV and adjust loan value accordingly.",
+                  "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/l9yneh2/",
+                  "created": 1719178888,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l9vilmt",
+      "score": 35,
+      "body": "Generally when a public company wants to raise capital from their stock they will make an equity offering to sell shares on the open market. This is the opposite of a stock buyback that dilutes shareholders. If the money is being used for growth or to pay off debt this can be a good thing, but if the capital isn't used effectively it can be extremely bad for existing shareholders.",
+      "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/l9vilmt/",
+      "created": 1719128700,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9vm766",
+          "score": 4,
+          "body": "Are they just allowed to sell more shares without the agreement of current stockholders? Seems quite bizarre to me.",
+          "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/l9vm766/",
+          "created": 1719131329,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9vptpy",
+              "score": -15,
+              "body": "Yes, they are allowed. Just look at what happened with $GME, when this regards tried to make a short squeeze: the company seized the unexpected price rise in the shares to issue millions more of new shares tanking the price.\n\n[https://finance.yahoo.com/news/gamestop-stock-tanks-on-move-to-issue-shares-quarterly-sales-decline-123226611.html](https://finance.yahoo.com/news/gamestop-stock-tanks-on-move-to-issue-shares-quarterly-sales-decline-123226611.html)",
+              "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/l9vptpy/",
+              "created": 1719134041,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l9wbl4w",
+                  "score": 14,
+                  "body": "That’s wrong, it needs shareholder approval",
+                  "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/l9wbl4w/",
+                  "created": 1719147654,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l9wd742",
+                      "score": -6,
+                      "body": "Did AMC and GME get shareholder approval to issue those shares?",
+                      "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/l9wd742/",
+                      "created": 1719148397,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l9wddue",
+                          "score": 13,
+                          "body": "Yes it was all voted on",
+                          "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/l9wddue/",
+                          "created": 1719148483,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l9we6ay",
+                              "score": 15,
+                              "body": "Correct.  In GME's case they are allowed to issue all the way to 1 billion outstanding.  This was voted on a couple of years ago and approved by the shareholders.\n\nThere has either been a large number of newcomers to the stock, or people who forgot what they even voted on (or didn't bother to vote for or against).  Good number of posts screaming foul in the various subreddits after that second offering.  Meanwhile, the company still has the ability to issue something like 580 million more shares if they wanted to.",
+                              "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/l9we6ay/",
+                              "created": 1719148841,
+                              "depth": 6,
+                              "replies": []
+                            },
+                            {
+                              "id": "l9wf4oi",
+                              "score": -3,
+                              "body": "I think the confusion here is you are referring to authorizing shares and I'm referring to issuing shares.",
+                              "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/l9wf4oi/",
+                              "created": 1719149265,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "l9wffp0",
+                          "score": 2,
+                          "body": "See my other comment.",
+                          "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/l9wffp0/",
+                          "created": 1719149399,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "l9wy4we",
+                  "score": 4,
+                  "body": "Shareholders of GME voted for the dilution",
+                  "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/l9wy4we/",
+                  "created": 1719156790,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "la0fkia",
+                      "score": -2,
+                      "body": "No they didnt",
+                      "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/la0fkia/",
+                      "created": 1719208108,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "la0jlso",
+                          "score": 5,
+                          "body": "They did though",
+                          "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/la0jlso/",
+                          "created": 1719210765,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "l9vqnpu",
+                  "score": 4,
+                  "body": "Doesn't that devalue the whole idea of stocks, though? Say a company issues 100 shares. One guy buys 50 of them. Owns half of the company. Then company issues 100 more and the guy only owns 25%!\n\nSorry if I'm misunderstanding something here, I'm relatively new to the whole stock thing.",
+                  "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/l9vqnpu/",
+                  "created": 1719134672,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l9vv1z0",
+                      "score": 7,
+                      "body": "Companies will have a number of shares authorized, but not all of those shares are necessarily issued.  \n\n\nThey need shareholder permission to create shares, but the board can issue them as appropriate- a stock split can't happen unless the shares are authorized, either.\n\n\nDilution isn't generally good for shareholders, but the board is supposed to represent shareholders' interests.  If the board is working against the shareholders, dilution makes it worse- but the dilution isn't the real problem, it's just a symptom.",
+                      "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/l9vv1z0/",
+                      "created": 1719137946,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l9wl32n",
+                          "score": 1,
+                          "body": "Is the amount of authorized shares public knowledge? Say if a company issues 100 shares but has 200 authorized, can a potential shareholder find that number to help them decide if they want to buy shares or not?",
+                          "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/l9wl32n/",
+                          "created": 1719151794,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l9wvwal",
+                              "score": 3,
+                              "body": "Yes, it's public, no, it's not important.\n\n\nIf the board is going to work against shareholder interests, then dilution is the last thing you need to worry about.",
+                              "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/l9wvwal/",
+                              "created": 1719155954,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l9x0q08",
+                                  "score": 1,
+                                  "body": "Got it. Thanks Mango man!",
+                                  "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/l9x0q08/",
+                                  "created": 1719157743,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "l9wamd0",
+                          "score": 1,
+                          "body": "Where do you read companies are required to get shareholder authorization to issue new shares?",
+                          "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/l9wamd0/",
+                          "created": 1719147187,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l9wbh7w",
+                              "score": 3,
+                              "body": "Not sure if it’s required? I don’t really know, Maybe depending on the stock and what been agreed on.  But I do know it’s something that is in the shareholder voting for certain places from time to time so it’s something they can’t just do without the majority approval",
+                              "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/l9wbh7w/",
+                              "created": 1719147601,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l9wctwd",
+                                  "score": -5,
+                                  "body": "I do not think companies need shareholder approval to issue new shares in the US but I could be wrong.\n\nLook at AMC and GME, do you think they got shareholder approval to issue those shares?",
+                                  "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/l9wctwd/",
+                                  "created": 1719148229,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "l9wdc9d",
+                                      "score": 8,
+                                      "body": "Gme got approval a few years ago but they just hadn’t done it until then.  AMC had it in the shareholder vote, it got denied, then the ceo basically tricked people into voted for a “preferred stock” dividend thing or whatever that he then was able to convert to the real stock.  Shady tactic but all was voted on",
+                                      "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/l9wdc9d/",
+                                      "created": 1719148462,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "l9wdqy8",
+                                          "score": 2,
+                                          "body": "AMC issued shares this year as well. How did they do that?",
+                                          "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/l9wdqy8/",
+                                          "created": 1719148651,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "l9wfd16",
+                                      "score": 6,
+                                      "body": "They did. I don’t know about AMC, but for GME the majority of shareholders approved increasing the number of authorized shares to 1billion in 2022. At the time, the total shares outstanding was ~ 75 million. GME announced a 4:1 split, briniging the total to 300 million. See the proxy information for 2022 here: https://gamestop.gcs-web.com/static-files/c3a0c6b9-e00b-49fe-8752-71328f1b55f8",
+                                      "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/l9wfd16/",
+                                      "created": 1719149366,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "l9wfoc9",
+                                          "score": -6,
+                                          "body": "I'm referring to issuing new shares, not authorizing shares.",
+                                          "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/l9wfoc9/",
+                                          "created": 1719149505,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "l9we3r7",
+                              "score": 2,
+                              "body": "NOT required.",
+                              "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/l9we3r7/",
+                              "created": 1719148810,
+                              "depth": 6,
+                              "replies": []
+                            },
+                            {
+                              "id": "l9wm93q",
+                              "score": 2,
+                              "body": "They are not.  They are required to get authorization to increase the total number of shares authorized, but most companies have more shares authorized than outstanding, so they can issue more at will.  Often, you will read news of a company filing a 'shelf registration'; this allows them to quickly issue new shares when they want to.",
+                              "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/l9wm93q/",
+                              "created": 1719152265,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "l9y72rz",
+                      "score": 3,
+                      "body": "It can devalue the stock in the short to medium term but if the money from the share issuance is used properly it can help the company grow which will boost share price in the longer term. Publicly traded companies will always issue stock at certain points, it’s part of the game.",
+                      "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/l9y72rz/",
+                      "created": 1719173093,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l9yblod",
+                          "score": 1,
+                          "body": "That's good to know!",
+                          "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/l9yblod/",
+                          "created": 1719174679,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "l9xejwr",
+                  "score": 1,
+                  "body": "Got that almost right lol 😂",
+                  "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/l9xejwr/",
+                  "created": 1719162808,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l9yhxis",
+      "score": 3,
+      "body": "Buffett often makes loans to companies with convertible bonds as the collateral. That is almost the same thing.",
+      "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/l9yhxis/",
+      "created": 1719176873,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lihhfv0",
+          "score": 1,
+          "body": "That's different.  The CEO can put himself and the shareholders at risk because if the stock tumbles below the price of the loan, then the bank can take control of that stock and do whatever they want.  HIGHLY risky and I don't know if every publicly traded company even allows the CEO to take loans out against their stock in that same company they are the CEO of.",
+          "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/lihhfv0/",
+          "created": 1723850166,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l9vusbi",
+      "score": 2,
+      "body": "Isn’t this just convertible debt? Am I missing something?",
+      "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/l9vusbi/",
+      "created": 1719137754,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9wyekz",
+      "score": 1,
+      "body": "From the standpoint of the lender, hard asset collateral or a simpler, large off-market exchange at a preferred price would be more appealing.",
+      "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/l9wyekz/",
+      "created": 1719156890,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9z25op",
+      "score": 1,
+      "body": "Yes. You should read *bad* but accurate financial statements to get a sense of how infinitely levered a true 0 can get. I'll give you an example, it's the worst public filing I've ever seen but there are many lessons in it despite it reading like parody. \n\nhttps://www.otcmarkets.com/otcapi/company/financial-report/203262/content\n\nRed flags:\n\npg.1 Paid in capital exceeds retained earnings\n\npg. 5 many many name changes and pivots\n\npg. 11-13 annual or semi annual slew of debt financed by stock at a 50% discount. rails and rails of dilution. \n\nThese deals are not the same as a margin loan. Run, run fast if you are long something needing convertible preferred financing. Exception there if they are a bank, generally.",
+      "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/l9z25op/",
+      "created": 1719184692,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "la20kk1",
+      "score": 1,
+      "body": "Whatever amount they win if their own stock is an asset. You can take loans out with assets as collateral. Logically it makes sense, but you can assume there are always specialized rules for finances and banks under any specific circumstances.",
+      "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/la20kk1/",
+      "created": 1719240292,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "la2tbi6",
+      "score": 1,
+      "body": "Convertible bonds  is how it done",
+      "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/la2tbi6/",
+      "created": 1719249940,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9wizuv",
+      "score": 1,
+      "body": "For that last part sort of. There is something called a death spiral bond. It is a kind of convertible bond where stock given at conversion is denominated in dollars instead of a fixed number of units. It makes the company effectively unable to raise capital by selling stock on the market because the bond holders will just short the stock beyond all reason because they are promised virtually unlimited stock in the bond terms to close with. If the company runs out of money it won't be able to raise any money because the stock will be worthless.",
+      "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/l9wizuv/",
+      "created": 1719150927,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9wlyve",
+      "score": 0,
+      "body": "1. Yes.\n\n2. No.\n\n2 expanded: Stock price and cash-on-hand are separate things. Simple example is that you use your own portfolio for a loan; even if you have the cash-on-hand to pay for the thing itself outright using this loan may have advantages for tax planning etc, therefore even if you lose your house for an unrelated reason (equity) that doesn't mean you've no ability to satisfy your debts (liabilities). It gets complicated when we start talking about processes like willful liquidation.",
+      "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/l9wlyve/",
+      "created": 1719152152,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9xka6p",
+      "score": -1,
+      "body": "Just look up GWAV lol that's what they did.",
+      "permalink": "/r/stocks/comments/1dmgthm/is_it_legal_for_a_publicly_traded_company_to/l9xka6p/",
+      "created": 1719164895,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

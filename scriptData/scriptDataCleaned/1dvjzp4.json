@@ -1,0 +1,864 @@
+{
+  "title": "Of course you realize, this means arbitrage! $LSXMK & $LSXMA",
+  "score": 60,
+  "selftext": "tl;dr - Everyone is focused on the old tech and ignoring the free money. The trade is not about satellite radio or streaming apps, the trade is about buying $1 with 77¢.\n\n# This trade is not about satellite radio.\n\nPlease understand that.\n\nEvery time this subject comes up it devolves into discussion about the future of satellite radio and which streaming app is best.  That's not the idea here.\n\nIf you want to buy SIRI (or hold it) when we're done that's another story.  (I'll include info on why you might in the comments.  I'm sure we can all supply reasons to be bearish.)\n\nThis is a short term trade involving two Liberty Media tickers.\n\nThe tickers are LSXMA and LSXMK (I may refer to them as LSXM- when I'm saying something that applies equally to both.)\n\n# [Sometime \"early this quarter\" every share of LSXM- is going to transform into 8.4 shares of SIRI.](https://www.libertymedia.com/investors/news-events/press-releases/detail/522/liberty-media-and-siriusxm-announce-transaction-to-simplify)\n\n(Since I just mentioned SIRI let me once again remind you that this trade is not about satellite radio or Pandora.)\n\n[SIRI](https://finance.yahoo.com/quote/SIRI/) closed at $3.53 on 3 July.  Since the market is always efficient that means that LSXM- closed at exactly $29.65.  [(3.53 \\* 8.4 = 29.65)](https://www.google.com/search?q=3.53+*+8.4&sca_esv=2d68b74fb50c3936&sca_upv=1&sxsrf=ADLYWILAeAJ-xqtGbSMANonf0EQ3A2O5Jg%3A1720124639171&ei=3wSHZvGWCpD-ptQPkPSmmAc&ved=0ahUKEwixgtnQm46HAxUQv4kEHRC6CXMQ4dUDCBA&uact=5&oq=3.53+*+8.4&gs_lp=Egxnd3Mtd2l6LXNlcnAiCjMuNTMgKiA4LjRIvQ9QxQFY7QtwAXgAkAEAmAFeoAGEBaoBATi4AQPIAQD4AQGYAgGgAlnCAgUQIRifBZgDAIgGAZIHATGgB-4E&sclient=gws-wiz-serp)\n\nRight?\n\nThe price is always right. Right?\n\nWrong.\n\n[LSXMA](https://finance.yahoo.com/quote/LSXMA/) closed at $22.76.  [LSXMK](https://finance.yahoo.com/quote/LSXMK/) closed at $22.84.  How far off is that from where it should be?\n\n[(22.80 / 29.65 =  0.77)](https://www.google.com/search?q=22.80+%2F+29.65&sca_esv=2d68b74fb50c3936&sca_upv=1&sxsrf=ADLYWIIlQrnpMpoJvmMQlhXX3Iod7b7QOQ%3A1720124643574&ei=4wSHZoreIvGxptQPvbCZsAQ&ved=0ahUKEwjK2-XSm46HAxXxmIkEHT1YBkYQ4dUDCBA&uact=5&oq=22.80+%2F+29.65&gs_lp=Egxnd3Mtd2l6LXNlcnAiDTIyLjgwIC8gMjkuNjVIqxdQ5QRY-BFwAXgAkAEAmAFSoAGuBaoBATm4AQPIAQD4AQL4AQGYAgCgAgCYAwCIBgGSBwCgB5AF&sclient=gws-wiz-serp)\n\nLSXM- is trading at a 23% discount compared to its value in SIRI shares.\n\nIf SIRI holds at $3.53 and you own LSXM-, you can sell it all on the day the shares convert for a 23% profit.  If SIRI rises by the time of the conversion you'll make more.  If it falls by then you'll make less. << *This is  oversimplified*\n\nI suspect it will hold or rise.\n\nI'll leave my reasons for that in my comment below so we can skip the \"Howard Stern is sus\" comments (he definitely is, that's his schtick), the \"I can't afford a car with a radio\" comments (no shame in that, cars are expensive) and get to picking apart this play.\n\n# Part two: the options are calling.\n\nFor some reason LSXM- has been ignored compared to SIRI, and that includes its option chain.\n\n[Take a look at the IV on SIRI calls for Aug 16.](https://finance.yahoo.com/quote/SIRI/options/?type=calls&date=1723766400)\n\nI picked that date because it's the middle of the quarter and the deal should be done by then or at least close enough that arbitrageurs are closing the gap.  At the time of writing the ATM calls are showing 99% IV.\n\n[Now look at LSXMK calls for the same date.](https://finance.yahoo.com/quote/SIRI/options/?type=calls&date=1723766400)\n\nAt the time of writing the IV for ATM calls is 52% and the last sold price is $1.25.  **But wait! What's truly ATM right now?** The price of LSXMK or the price of (SIRI \\* 8.4)? If the latter, then the true ATM strike is $29 and the last sold price is 10¢.\n\nWhen those shares convert you'll be holding ATM calls on SIRI with a lot size of 840 shares and a cost basis of 10¢ per share.\n\nIf you think the merger will take longer to complete or that SIRI may be worth owning after the discount then the leaps may be an even better deal.\n\n[Here are the LSXMK calls for Jan '25.](https://finance.yahoo.com/quote/LSXMK/options/?type=calls&date=1737072000)\n\nThe $28 strike last sold for 55¢ with an IV of 57%.  But that gives you almost 5X the amount of time to figure out what to do with it plus $1 lower strike.\n\n# You are not alone\n\nWarren G(angstalicious) Buffet has:\n\n* [Bought 10% of all LSXMA](https://www.sec.gov/edgar/search/#/q=lsxma&dateRange=custom&category=form-cat2&ciks=0000315090&entityName=BUFFETT%2520WARREN%2520E%2520(CIK%25200000315090)&startdt=2024-01-01&enddt=2025-07-02&sort=asc)\n* [Bought 20% of all LSXMK](https://www.sec.gov/edgar/search/#/q=lsxmk&dateRange=custom&category=form-cat2&ciks=0000315090&entityName=BUFFETT%2520WARREN%2520E%2520(CIK%25200000315090)&startdt=2024-01-01&enddt=2025-07-02&sort=asc)\n* Not sold any of either position, despite some comments I've seen on Reddit.\n* [He sold an unrelated ticker for a different Liberty offering, LLYVA, the Formula One stock.](https://www.sec.gov/Archives/edgar/data/315090/000095017024074516/xslF345X05/ownership.xml)\n\nGiven the time he started buying I think arbitrage is exactly what he had in mind.  The stocks have dropped since then.  Maybe they will buy more since the discount has opened up again, maybe they have all they want.  I don't know.\n\nMore info on Sirius in my first comment below.\n\nEdit: Y'all please don't downvote u/[onelynightm](https://www.reddit.com/user/lonelynightm/).  They were aggressive in their top level comment, but the fact that they called \"fair enough\" when I showed positions (and offered them more snark than was remotely necessary) tells me something about their sincerity.  I hope that 2nd reply isn't hidden because IMHO, that's how you do it.  I've got instant respect for you, my dude.\n\nAlso edit: Adding positions from comment below to the post itself.  More to come!\n\nhttps://preview.redd.it/jxhmpk0hbsad1.jpg?width=1408&format=pjpg&auto=webp&s=d7b2a1224b9b9ed1f9708a69ac680a8d4e57a125",
+  "link_flair_text": "DD",
+  "id": "1dvjzp4",
+  "num_comments": 100,
+  "created_utc": 1720134840,
+  "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/",
+  "comments": [
+    {
+      "id": "lbo262l",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 1 | **First Seen In WSB** | 3 years ago\n**Total Comments** | 3 | **Previous Best DD** | \n**Account Age** | 5 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbo262l/",
+      "created": 1720134844,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lbo9pp0",
+      "score": 15,
+      "body": "This is interesting thanks. Gonna take at look at both those calls tomorrow morning",
+      "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbo9pp0/",
+      "created": 1720138084,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lbobqav",
+          "score": 11,
+          "body": "Glad you like it! Please let me know what you find!  You'd never believe the stuff I miss.",
+          "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbobqav/",
+          "created": 1720138989,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lboe61g",
+              "score": 10,
+              "body": "I did find an amendment to the merge, filed in june. They are doing a 10 for 1 reverse split AFTER the shares are converted, so you should have a contract for 84 shares of new SIRI for every contract of lsxm, and might result in a lot more fractional shares getting auctioned off. no mention if it changes the ratio of conversion from liberty to siri, but liberty apparantly owns 80% of siri anyway",
+              "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lboe61g/",
+              "created": 1720140084,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lboh8tg",
+                  "score": 7,
+                  "body": "ohhh I missed the reverse split.  A link would be handy if you have a good one.\n\nI saw 84%  ownership on Morningstar, but you never know when these things are updated.",
+                  "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lboh8tg/",
+                  "created": 1720141501,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lbohrof",
+                      "score": 4,
+                      "body": "just the 8-k filed june 16\n\n  \n[https://investor.siriusxm.com/sec-filings/sirius-xm-holdings-inc/content/0001104659-24-071939/0001104659-24-071939.pdf](https://investor.siriusxm.com/sec-filings/sirius-xm-holdings-inc/content/0001104659-24-071939/0001104659-24-071939.pdf)",
+                      "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbohrof/",
+                      "created": 1720141749,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lboeiyp",
+              "score": 5,
+              "body": "also where are you getting that new SIRI will open at old SIRI price after the merge?",
+              "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lboeiyp/",
+              "created": 1720140245,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lbokbgr",
+                  "score": 7,
+                  "body": "Principally from the fact that it seems be understood and not addressed.  When I read the transaction details it looks like all the changes (before the reverse split you found) happen to the SplitCo shares.  \n\nTo me it reads like this:  \n\n1. NewSiri is created (no stock yet no value yet)\n2. SplitCo is created (no stock yet no value yet)\n3. SplitCo is given all the $SIRI shares owned by Liberty Media \n4. SplitCo is given $1.7B in liabilities that currently belong to Liberty Media\n5. LSXM- holders will receive shares of SplitCo stock according to an exchange ratio (estimated at 8.4 shares)\n6. SplitCo and Sirius merge and $SIRI holders are granted stock on a 1:1 basis.\n   1. \\^\\^If they were going to offer stock at 1:1 but the new stock wasn't worth as much as the old stock I feel like they would have to mention it.  Or someone would be screaming about what a bad deal it is.\n\n[I'm getting all this from the transaction details section of this document.](https://www.libertymedia.com/investors/news-events/press-releases/detail/522/liberty-media-and-siriusxm-announce-transaction-to-simplify)  \n\n\nAlso, all the media I can see seems to consider this like it was 1 LSXM- is worth 8.4 SIRI with no questions about SIRI changing in value due to the transaction.",
+                  "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbokbgr/",
+                  "created": 1720142964,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lbooox5",
+                      "score": 2,
+                      "body": "I saw a mention to that being with siri priced at $4.23 in this doc, BTW the new ratio is .83, including the split..\n\n[https://www.libertymedia.com/investors/financial-information/sec-filings/content/0001104659-24-074370/tm243546-7\\_def14a.htm](https://www.libertymedia.com/investors/financial-information/sec-filings/content/0001104659-24-074370/tm243546-7_def14a.htm)\n\nThat file also mention one more round of voting and a special meeting, but no date and time. but to expect the merger to complete two weeks after the meeting and voting approves.",
+                      "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbooox5/",
+                      "created": 1720145049,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lbs70on",
+                          "score": 2,
+                          "body": "Okay I got some info about that filing.\n\n>§ 240.14a–6 Filing requirements.\n(a) Preliminary proxy statement. Five\npreliminary copies of the proxy statement and form of proxy shall be filed\nwith the Commission *****at least 10 calendar days prior to the date definitive\ncopies of such material are first sent or\ngiven to security holders, or such\nshorter period prior to that date as the\nCommission may authorize***** upon a\nshowing of good cause thereunder.  \n\nSo we should get the filled in version complete with call/vote date sometime in the next 10 days.\n\n[Sauce](https://www.govinfo.gov/content/pkg/CFR-1997-title17-vol3/pdf/CFR-1997-title17-vol3-sec240-14a-6.pdf)\n\nEdit: this pre 14A was filed on the 24th of June. Ten calendar days from then was yesterday. Maybe they get a pass due to the holiday? If we don't get it today they (or I) have missed something.",
+                          "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbs70on/",
+                          "created": 1720205151,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lbsu4z2",
+                              "score": 3,
+                              "body": "It’s said at least 10 days, so they can wait a little longer if they want. Either way nice info, thanks. I bought a few calls, 30 sept and 40 oct strikes just to see",
+                              "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbsu4z2/",
+                              "created": 1720213050,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lbsuo8o",
+                                  "score": 2,
+                                  "body": "Damn! you're right and I need sleep.",
+                                  "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbsuo8o/",
+                                  "created": 1720213233,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lborls4",
+                          "score": 1,
+                          "body": "LOL I may have picked the wrong expiry.  \n\nDon't be a degen, kids! Use leaps for your gambling!",
+                          "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lborls4/",
+                          "created": 1720146428,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lbot2td",
+                              "score": 2,
+                              "body": "It’s still supposed to be q3. Might have to pick the next month is all lol",
+                              "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbot2td/",
+                              "created": 1720147134,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lbp2y0p",
+      "score": 11,
+      "body": "This topic was discussed in much detail in a Seeking Alpha article on Dec. 12 last year: \"As of now, the trackers trade for about $27, while 8.4x Sirius XM’s price of $4.8 would result in a value of more than $40.\"\nSo,with SIRI and LSXM both down so much since then the LSXM discount stayed, some blame the SIRI volatility, shorting and short squeezes. The issue I see is SIRI, which is in my view a legacy business model, goes down a bit more, especially September is a problematic month for the stock markets. Negative momentum can be a mean beast.\nThe ratio seems to be also closer to 8.3 (before 10:1), I looked through some comments and updates.",
+      "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbp2y0p/",
+      "created": 1720151979,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lbp5tw7",
+          "score": 7,
+          "body": "Thanks for your comment. Yes, it's been discussed in a few places, but it must have fallen off everyone's radar or the gap would have stayed shut. For a short while the gap was closed or damn near closed.\n\n\nYou'll notice that I went to pains to say that this trade isn't based on owning/holding SIRI. It's about SIRI staying put or rising for a few more weeks.  Anything beyond the date that LSXM- becomes SIRI is a separate discussion. If it goes to zero the day after the conversion the reason for this post still stands. \n\nFor that matter if it drops by 23% between now and the conversion a holder of LAXM- WOULD break even.  Setting a conditional order for LSXM- based on the price of SIRI is easy to do on ToS.",
+          "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbp5tw7/",
+          "created": 1720153536,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lbp74hs",
+              "score": 4,
+              "body": "Did SIRI just shoot up 13%?\n$3.53. +0.43 (+13.87%) 1:03 PM 07/03/24",
+              "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbp74hs/",
+              "created": 1720154257,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lbp8r8f",
+                  "score": 5,
+                  "body": "Sure did. Meanwhile LAXM- moved be something like 1% (widening the gap I'm talking about). SIRI is up from $2.69 a few days back. \n\nSee my other comments about Morningstar and Valueline projections, plus the mention of the cost to borrow above.  The consensus is that despite being a challenged (maybe even legacy) business model, there are a few more years' worth of puffs in this cigar.\n\nI think SIRI dropped due to pressure from shorting (again, see cost to borrow and shares available at the link in the post). The short interest is 25%. (Link in post) I think LSXM- followed it down because that's what a tracking stock is supposed to do.\n\nThe opportunity here is because LSXM- isn't springing back the same way as its underlying.\n\nBack to SIRI though, if the CTB stays this high those shorts will have to close.  I'm not saying we'll get a squeeze. That would be nice, but not necessary. Not many people are going to have the conviction to stay short if it means paying >70% per annum for any length of time.  \n\nShort pressure should come off the stock in the short term.  Which is why I think $3.50 will hold for the next few.",
+                  "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbp8r8f/",
+                  "created": 1720155162,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lbpi4gr",
+      "score": 12,
+      "body": "So let’s say someone bought SIRI calls for Jan.17 5$. What I’m reading sounds like those are gunna drop off the face of the earth? And that person who bought is totally fucking screwed if they don’t sell em like yesterday? \n\nEdit: it’s Fuckign me",
+      "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbpi4gr/",
+      "created": 1720160757,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lbppi8l",
+          "score": 5,
+          "body": "Nah. Not necessarily. \n\nThis post is saying that you could have gotten more contracts for much cheaper by buying the equivalent in LSXM-. But I don't have any arguments that would make SIRI drop anytime soon.  \n\nIf you feel confident that SIRI goes to $5 by January, that would give you a strike price of $40 on LSXMK calls. Which would be slightly ITM. The last time one sold it went for 15¢. The last one for LSXMA went for 20¢.\n\nEach LSXM- contracts will control 830 shares of SIRI per contract. \n\nThey will reverse split after/at conversion, but if you're pricing them by today's SIRI, the 830 lot size stands. \n\n(Thanks to u/milkman8008 for the updated conversion ratio and notice about the reverse split after.)",
+          "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbppi8l/",
+          "created": 1720165659,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lbpqf0k",
+              "score": 3,
+              "body": "Seems like having siri calls is a dumb play now tbh.",
+              "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbpqf0k/",
+              "created": 1720166299,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lbpqvc6",
+                  "score": 1,
+                  "body": "If it keeps running like it did Wednesday you can exit with a profit and have more $$ for LSXM- calls than you would have had without that trade. \n\nThe market has been sleeping on that option chain. No reason to think it's going to wake up tomorrow.",
+                  "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbpqvc6/",
+                  "created": 1720166614,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lbq9z12",
+                      "score": 2,
+                      "body": "LSXMK or LSXMA ? Or they are the same thing?",
+                      "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbq9z12/",
+                      "created": 1720179317,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lbqe4j9",
+                          "score": 2,
+                          "body": "Back in the day the difference was that LSXMA had voting rights and LSXMK did not. For the purposes of the conversion there's no difference in the two based on everything I've read. \n\nFor the purposes of the trade, it really could switch from one second to the next. When I entered the trade and most of the times I've looked LSXMK and its options were cheaper than LSXMA. That may not be the case if/when you look. \n\nThe nice thing is that once you've done the math on one you only have to change one number to compare the other. And you may be able to tell the moment you look.\n\nIt looks like K has two more expiration dates than A at the moment. Its strike prices seem to run in dollar increments vs the $2.5 and $5 increments for A. \n\nBuffett has twice as many K shares compared to A shares. I don't know if that's because he bought the cheapest one at the given time or if he wanted some voting rights for some reason so he went after enough of the A shares to secure the votes prior to the conversion.",
+                          "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbqe4j9/",
+                          "created": 1720181468,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lbsujpk",
+                              "score": 4,
+                              "body": "its weird to me that the shares w/ voting rights are cheaper than the ones w/o.... any idea what thats about?",
+                              "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbsujpk/",
+                              "created": 1720213189,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lbsvhx3",
+                                  "score": 1,
+                                  "body": "Mr Market doing his thing, I guess.",
+                                  "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbsvhx3/",
+                                  "created": 1720213524,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lbofs9y",
+      "score": 6,
+      "body": "Are the ratios fixed at 8.4, or is it an estimate?",
+      "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbofs9y/",
+      "created": 1720140822,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lbppruz",
+          "score": 5,
+          "body": "I haven't taken the time to verify yet, but u/milkman8008 in another comment said they have updated the ratio to 8.3.\n\nI believe the source was the 8-k and there's a link in the comment.",
+          "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbppruz/",
+          "created": 1720165846,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lbpztbh",
+      "score": 6,
+      "body": "Surely to properly Arb, you would need to short SIRI and go long on LSXM? Would the gap be enough to cover the shorting costs?",
+      "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbpztbh/",
+      "created": 1720172957,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lbq51e8",
+          "score": 2,
+          "body": "Well, if you had the forethought to buy SIRI at it's low the other day you could sell the shares you currently own while you buy the LXSM-.\n\nYou could also sell far OTM calls on SIRI while buying calls on LXSM- if you really wanted to tell your purist friends that you made money on arbitrage.  It just depends on what works for your situation.",
+          "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbq51e8/",
+          "created": 1720176428,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lbx6n9e",
+      "score": 3,
+      "body": "What are the ways this can go sideways? The ratio changes? SIRI falls more than 25%? The exchange doesn't go through? What can go wrong?",
+      "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbx6n9e/",
+      "created": 1720287412,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lbxgeun",
+          "score": 6,
+          "body": "Always a great question!\n\nI see a few possibilities:\n\n1. Like you said.  SIRI drops by >20% and stays down meaning my calls expire worthless or shares are stagnant.\n2. The deal is delayed so long that my calls expire before the market hypes it and closes the gap.  (I knew I should have bought more LEAPs!)\n3. The deal doesn't go through.\n4. Asteroids or hostile alien invasion\n\nThe reason I'm still investing:\n\n1. Current prices\n   1. SIRI is being shorted to the point that no shares are available by the people whose thesis is the satellite-radio version of the \"dying brick and mortar\" argument.\n   2. SIRI is being shorted by people in this trade who want to be sure they are getting the full arbitrage experience. (Not me!)\n   3. The income is just too strong to support the stock staying below current levels of support. The CTB is extraordinary, when shares are available.\n   4. LSXM- just does not bounce on its own.\n      1. Evidently a major reason for this deal was the fact that LSXM- always trails SIRI.  Everybody knows the brand, nobody knows the encoded ticker belonging to the company controlled by the majority shareholder.\n      2. It's like setting up a business exchanging currency.  If you offer a dollar for 4 quarters and a penny, but I offer a dollar for 8 bits and a penny, you'll rack up the pennies.  Everybody will walk right past me.\n2. Delayed deal\n   1. They haven't set a hard date yet, but have only seemed confident that this would be an easy deal and that it would go through \"early in Q3\" in most of the official releases.\n3. No deal\n   1. I think it's the 8-k linked in the comments here where they say that a group owning a 48% block of the LSXMA shares has committed to voting \"for\" and I have not heard any opposition.\n4. Asteroid\n   1. You just never can have full certainty, right?  There can always be something I haven't considered.\n\nEdit: Couldn't make the numbering work right in my mixed (numbers and bullets) list so I removed the bullets and went with just the numbers.",
+          "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbxgeun/",
+          "created": 1720290695,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lc1m96o",
+              "score": 2,
+              "body": "Damn that's one hell of a response. Sold, all in ![img](emote|t5_2th52|8883)",
+              "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lc1m96o/",
+              "created": 1720362867,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lc1y7js",
+                  "score": 2,
+                  "body": "May this be the last month you make a Frosty!  \n\nIf you find better info please let us all know.",
+                  "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lc1y7js/",
+                  "created": 1720367167,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lc83aie",
+                      "score": 2,
+                      "body": "Going well so far ![img](emote|t5_2th52|31225)",
+                      "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lc83aie/",
+                      "created": 1720460918,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lc8gtv8",
+                          "score": 1,
+                          "body": "haha   \nI've got more money coming so I welcome the dip. :)",
+                          "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lc8gtv8/",
+                          "created": 1720465294,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lc6y02h",
+      "score": 4,
+      "body": "Really bad market open",
+      "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lc6y02h/",
+      "created": 1720447108,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lbo2f56",
+      "score": 6,
+      "body": "More info about the $SIRI:\n\n[Morningstar says](https://www.morningstar.com/stocks/xnas/siri/quote):\n\n* The stock is a 5 star price anywhere below $3.50.\n* The \"fair value\" of SIRI is $5.\n* The company has \"exemplary\" capital allocation.\n* The company has an advantage in costs:\n   * Streaming competitors have to pay royalties per play, putting them at the mercy of their \"unlimited\" subscribers.\n   * Sirius royalties are paid as a fixed amount of gross revenue. The cost is fixed per subscriber.\n* All of this after acknowledging competition, likely drops in revenue, and the amount of debt the company caries.\n\nValueLine (Investment Survey Summary & Index) projects:\n\n* 49% total annual return for the next 3-5 years\n* 365% price appreciation in the next 3-5 years\n* 5% dividends over the next 3-5 years\n   * Was 7% at the time of their writing when the price of SIRI was $2.69\n\n# Why SIRI shouldn't fall much further:\n\nSome holders may sell, but it's going to be tough to short it any further.\n\n[Cost to borrow is currently 71% with 800 shares available to borrow](https://companiesmarketcap.com/sirius-xm/cost-to-borrow/#:~:text=Latest%20borrow%20fee%20for%20Sirius,Brokers%3A%2071.3964%25%20(annualized)).\n\nSchwab says they can't borrow it.",
+      "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbo2f56/",
+      "created": 1720134950,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lbs24wz",
+          "score": 2,
+          "body": "Follow-up:  Schwab has ranked $SIRI \"B - Outperform\".",
+          "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbs24wz/",
+          "created": 1720203559,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lcdcqhv",
+              "score": 1,
+              "body": "Sorry, what does this mean?",
+              "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lcdcqhv/",
+              "created": 1720541822,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lc376fp",
+      "score": 3,
+      "body": "Are there any extra fees (besides short interest) for holding shares of $SIRI short through something like this? Thinking of going long 1,000 LSXMA and short 8,300 $SIRI so I don't have to get long exposure to the stock and can pay short interest and pocket the roughly 20% difference in price.",
+      "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lc376fp/",
+      "created": 1720383011,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lc3m0mp",
+          "score": 1,
+          "body": "I'll be surprised if you can borrow the $SIRI. The cost to borrow when I last saw was over 70% check with your broker. That's who will give you the rates.",
+          "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lc3m0mp/",
+          "created": 1720388219,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lc4p5gk",
+              "score": 1,
+              "body": "I checked, it’s pretty high unfortunately…",
+              "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lc4p5gk/",
+              "created": 1720403475,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lbpobbp",
+      "score": 4,
+      "body": "should I get the shares or the call option? You have too many words",
+      "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbpobbp/",
+      "created": 1720164839,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lbpqdkz",
+          "score": 7,
+          "body": "Haha, if you have to ask then the correct trade for you is something safe like Powerball. \n\nJokes aside, if you know the direction a ticker will go you can often make more with the options trade than the stock trade. \n\nBut if the trade goes against you in an options trade, it tends to blow up your account faster and to a greater degree. \n\nI'm in calls, but I don't mind the risk.",
+          "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbpqdkz/",
+          "created": 1720166273,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lbptqhd",
+              "score": 2,
+              "body": "🤣 I was just joking. Got my calls in order now",
+              "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbptqhd/",
+              "created": 1720168624,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lbpvzna",
+              "score": 2,
+              "body": "Im just curious. Like how much would an ITM premium be worth when the merger is happening? Like now its LSXMK at strike 26 is 0.75 and SIRI calls ITM are at 0.16 at 3.5 strike.  Im not sure about the math here, 0.16*8.4 = 1.344. And 1.344-0.75 =0.595, so I can excpect a gain of 0.59 per call, so 0.59*100=59.4$? If nothing moves as it is now? Or where am I wrong? 😅",
+              "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbpvzna/",
+              "created": 1720170225,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lbq35ks",
+                  "score": 2,
+                  "body": "I think the easiest way would be to compare the total cost as if you were going buy the option and exercise it.  Then divide that number by the number of SIRI shares the option would represent.",
+                  "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbq35ks/",
+                  "created": 1720175223,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lbulgve",
+      "score": 2,
+      "body": "So are you suggesting to buy (~1-3month) call for LSXMK/LSXMA?",
+      "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbulgve/",
+      "created": 1720239663,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lbvgyja",
+          "score": 2,
+          "body": "I'm buying 6 week to six month calls on LSXM-. \n\nI'm buying them at strikes that would be ITM or just a little OTM if shares of LSXMK were trading like the number of SIRI shares they are worth. \n\ni.e. $SIRI * 8.3",
+          "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbvgyja/",
+          "created": 1720260300,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lbyyge1",
+      "score": 2,
+      "body": "I’ve just read through this whole thread with comments. Great DD and very informative and excellent research. Keep it up and thanks",
+      "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbyyge1/",
+      "created": 1720311212,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lbz0l69",
+          "score": 2,
+          "body": "Thank you and thanks to u/milkman8008 for following up and offering corrections!\n\nI hope I've got this one right. I figured the post would go higher, but who knows?",
+          "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbz0l69/",
+          "created": 1720312074,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lc33p0r",
+      "score": 2,
+      "body": "It says in the form 425 filed Dec 13th 2023 that there needs to be a shareholder vote for LXSM before the merger can go through. Any idea on when that vote will occur if it hasn't already?",
+      "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lc33p0r/",
+      "created": 1720381791,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lc3579o",
+          "score": 1,
+          "body": "Check the content thread with u/milkman8008.\n\nThey related a preliminary proxy with no dates, but have said that the conversion should be complete during Q3 with many posts saying \"early Q3\".",
+          "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lc3579o/",
+          "created": 1720382322,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lc37jrc",
+              "score": 1,
+              "body": "I read that SEC form. PRER14A with the merger & spinoff being done \"approximately two weeks\" after a successful shareholder vote.",
+              "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lc37jrc/",
+              "created": 1720383141,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ler7boy",
+      "score": 2,
+      "body": "Is your plan to roll the options to sometime in September now that they announced the shareholder vote & expected merger completion date?",
+      "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/ler7boy/",
+      "created": 1721848628,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lera1ty",
+          "score": 1,
+          "body": "I feel like that's the smart money, but I'm not sure I can trust the broker's roll feature on options that are this illiquid.\n\nMy plan is to manually do it by buying more Sept calls and then if the price of LSXM bounces back just a little, try to close out the Aug calls for a profit.\n\nThe theta on them isn't too bad right now so hopefully we get a bump in the next week or so.  It seems like the price has been trying to rise on days that there hasn't been a new global IT outage or bad results from TSLA.",
+          "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lera1ty/",
+          "created": 1721849500,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "les4c54",
+              "score": 4,
+              "body": "What do you think about the recent rise of SIRI price compared to the stagnant price of LSXMK? I follow this play, but I think it’s so odd that SIRI is gaining while LSXMK barely moves…if it does pan out to be this exact arbitrage, it’s literally free money. \n\nGiven that the series A and series B holders can vote, where series B is majorly owned by one of the exec and 10% of series A is owned by Berkshire, I don’t doubt that merger will fall thru. \n\nThe option is illiquid as hell. I got some Jan’25 options, and even buying that thing took me a while.",
+              "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/les4c54/",
+              "created": 1721859310,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "leu63dm",
+                  "score": 1,
+                  "body": "I hopped onto this as well, with October LSXMA calls, and those calls did move with SIRI these past weeks even though the underlying didn't. \\*shrug\\*  \nAlso, those calls weren't soo cheap - it's really the August expiry that was dead cheap because the market didn't believe the merger would be through then (and rightfully so). Still a good deal imho.",
+                  "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/leu63dm/",
+                  "created": 1721892766,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ley94ri",
+      "score": 2,
+      "body": "Is there any difference between LSXMA and LSXMK? They are all Sirius media but are slightly different prices.",
+      "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/ley94ri/",
+      "created": 1721949386,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "li7596w",
+          "score": 1,
+          "body": "LSXMA has voting rights, while LSXMK does not I believe.",
+          "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/li7596w/",
+          "created": 1723701398,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lf4n1ja",
+      "score": 2,
+      "body": "What would happen to SiRi calls now? Would they remain the same or do they get converted somewhere? I’m new so I may be wording it wrong lol",
+      "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lf4n1ja/",
+      "created": 1722044933,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lbpuy3d",
+      "score": 2,
+      "body": "If you'd gamble with options, which ones do you recommend I get? I have a couple grand I'd like to use",
+      "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbpuy3d/",
+      "created": 1720169481,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lbq3csr",
+          "score": 2,
+          "body": "Great question!   \n\n\nI think you want the ones that will be worth the most when it comes time to sell or exercise them.\n\n  \nAs soon as you figure out which ones those are please let me know.  All I can do is guess and hope. :)",
+          "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbq3csr/",
+          "created": 1720175353,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lc54o6q",
+      "score": 1,
+      "body": "Normie here. I’m still learning, so while this stuff is useful, a good 50% still goes over my head. I also still learning WSB lore/culture, so here goes my question:\n\nCurious, how often do theses like these pan out? Without understanding ever detail, half of this smells like tinfoil hat, and the other half smells like “maybe I just stumbled onto a good tip”. Ofc I always do my DD etc etc, but, statistically, how often would you say that posts like these are a nothing sandwich, and how often are they a “something” sandwich?",
+      "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lc54o6q/",
+      "created": 1720410252,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lc65le3",
+          "score": 1,
+          "body": "That's a separate research project. \n\nI'm curious which parts smell like tinfoil to you.",
+          "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lc65le3/",
+          "created": 1720433254,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lc75uuk",
+              "score": 2,
+              "body": "Nothing objective, just the fact that you describe this as such an obvious observation (I imagine, obvious to someone who knows what they’re doing). If it was really so obvious and simple, why isn’t everyone and their grandmother placing a bit of their portfolio into this?",
+              "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lc75uuk/",
+              "created": 1720449927,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lc8fa9y",
+                  "score": 3,
+                  "body": "Well I keep asking what I'm missing and so far no one has been kind enough to tell me.  There's no telling what it might be, but sometimes you end up with moments like this:\n\n>An economist and his buddy were walking down the street one day when the buddy spotted a $20 bill on the sidewalk.\n\n>He pointed it out to the economist, who chuckled and replied that it was impossible that a $20 bill could be lying on the sidewalk.  \"You see\", he explained, \"as we economists learn early in our studies, if someone were to drop a $20 bill on the sidewalk, someone else would come along and pick it up.\"",
+                  "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lc8fa9y/",
+                  "created": 1720464790,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lcbkq8h",
+      "score": 1,
+      "body": "This is a lot of words, but I think you’ve discovered something that reminds me of the spac warrant phase \n\nSimilar “arbitrage” scenarios existed then … \n\nI don’t really think it’s arbitrage bc underlying your theory is the assumption as to what the share price will be at some date in the future…\nThen again I didn’t read super close",
+      "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lcbkq8h/",
+      "created": 1720512376,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lcbsjv5",
+          "score": 1,
+          "body": "Hey, thanks for the comment it seems like something something worth considering...\n\nThen again, I didn't read super close, so I don't really know.",
+          "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lcbsjv5/",
+          "created": 1720517933,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lcqrwu2",
+      "score": 1,
+      "body": "Some of these calls are so oddly priced the bid/ask is super wide, atleast when I pull them up on Robinhood.",
+      "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lcqrwu2/",
+      "created": 1720735485,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lcqsavw",
+          "score": 1,
+          "body": "Yup very illiquid. I started my bids low and slowly brought them up until they filled. \n\nThey are forgotten options on a forgotten stock and that's why Liberty is giving it up and dissolving the tickers.",
+          "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lcqsavw/",
+          "created": 1720735626,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lcr2acv",
+              "score": 1,
+              "body": "I'm about to go balls deep in this with you broski. Your $28 LEAPS  were you able to get them for 55 cents? Also what would you buy the $29 Aug 16 Calls for? any rough estimates for what would you consider a fair price. Last I checked those were being asked for 30 cents rather than 10",
+              "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lcr2acv/",
+              "created": 1720739283,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lcre692",
+                  "score": 1,
+                  "body": "Not financial advice.  I hope you researched this.  **I have never stayed at a Holiday Inn Express**.\n\nThese are my strikes, dates, and what I paid for them.\n\n&#x200B;\n\nhttps://preview.redd.it/6cyuyapyezbd1.png?width=651&format=png&auto=webp&s=105c7e77d609a2d7c92ee9a02280057e4e4f1072\n\nI figured my strikes by taking the SIRI price and multiplying by 8.3 then looking to see which strike close to that number looked like the better deal.\n\nThe $35 strikes are kind of a bet. SIRI would have to jump back up to 4.22 for those to be ATM.\n\nAugust I regret because it's possible that they don't get the deal done by then.  If we don't get news soon I'll try to roll them, probably to October.\n\nOctober is in Q4, so hopefully past the conversion and whatever craziness may follow immediately after.\n\nJanuary is because the more I look at it the more I think this COULD turn into something I would want to hold.  Plus the $25 strike would be ATM if SIRI is at $3.  Buying time and trying to still make some money if the stock stays between $3 and where it currently stands.\n\nHow I bought mine:\n\nThe bids and asks on this chain are fake.  Whoever entered them didn't expect to actually fill them.  If the bid was 10¢, I entered my bid at 11¢.  Then I waited.  If no fills I upped it to 12¢.  Then I waited. . .\n\n. . .eventually I got bites, and usually it wasn't the exact second I entered my order.\n\nFor some of the options with huge bid ask spreads I moved up in increments of 5¢ rather than 1¢.\n\nIf you think you might try to sell these before the conversion, there will probably be more OI on the pretty strikes like the ones divisible by $5.  By buying other strikes I'll be at the mercy of the market makers if I try to leave before we convert, but hopefully that's because of a run-up in LSXMK that will make up the difference.\n\nAfter the conversion every one of these options will be ugly as homemade soup no matter what they look like now.",
+                  "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lcre692/",
+                  "created": 1720743703,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lcre6ai",
+                      "score": 2,
+                      "body": "PUT YOUR HANDS UP 31513315133151331513!!! POLICE ARE ENROUTE! PREPARE TO BE BOOKED FOR PROVIDING ILLEGAL FINANCIAL ADVICE!\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",
+                      "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lcre6ai/",
+                      "created": 1720743703,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lcrf3l8",
+                          "score": 1,
+                          "body": "Nuh uh! I was just telling my story!",
+                          "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lcrf3l8/",
+                          "created": 1720744055,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lcrga1w",
+                      "score": 2,
+                      "body": "Excellent, to Valhalla or the back of a Wendies dumpster brother I'm with you on this one. Only other thing I'm curious about is how the options chain itself will be treated once the conversion happens. Does it get converted as well or is it just the underlying?",
+                      "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lcrga1w/",
+                      "created": 1720744507,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lcrkq0c",
+                          "score": 1,
+                          "body": "Hopefully Valhalla. The knees ain't what they used to be. \n\nSince it's stock to stock my understanding is that\n\n1. The ticker changes to NewSIRI\n2. The lot size changes - to 83.  (since there's a one for ten reverse split immediately following) 100 * 8.3 / 10 = 83 shares\n\nThen you'll start to see two sets of options for some dates. One will be the legacy ones like LSXM-, the other will be new ones created for 100 shares of NewSIRI. \n\nTake a look at the chain for F and you'll see some options show 100 and some some show 100+ $(some amount). They created those because of a special dividend some time back. \n\nI think it's F anyhow, it's been a while since I looked. Maybe it was another ticker.\n\nI do know that some of the strike prices for F end in an unusual number of cents. I think it's .82.",
+                          "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lcrkq0c/",
+                          "created": 1720746245,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lh8c424",
+      "score": 1,
+      "body": "Hey I read the latest earning call , what you all take on this statement in the call :\n\n\"You may note, the adjusted merger exchange ratio has been reset to reduce the shares of new Sirius by 90%. We expect the new Sirius share price will be higher at close because of that, and we expect enhanced trading dynamics, including increased potential for index inclusion.\"",
+      "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lh8c424/",
+      "created": 1723180851,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lh9cob2",
+          "score": 2,
+          "body": "Once the part of the merger I talked about is done there will be an immediate 10:1 reverse split. So step one is to multiply LSXM shares by 8.3 and set them at SIRI's price. Step two is to divide the number of SIRI shares by ten and multiply the price by ten in a reverse split. I imagine it looking a bit like this for shares:\n\n1) Theoretical SIRI price is $3 for easy math\n \n2) You have 100 shares LSXM.\n\n3) you get 100 * 8.3 = 830 shares of SIRI worth $3 each.\n\n4) they divide your shares by ten and multiply the price by ten. You now have 83 shares of SIRI worth $30 each. \n\n5) The market goes wild. People can't get over how this $3 stock turned into a $30 stock overnight. \n\n6) People start buying the hell out of SIRI, the market cap returns to where it was earlier this year and SIRI gets invited back into all it's old indices.\n\nFor my calls: \n\n1) My $20 January strike is divided by 8.3 giving me strike of $2.40. Instead of 100 shares of LSXM, it now covers 830 shares of SIRI.\n\n2) MY $2.40 January strike is multiplied by 10 to become a $24 strike. The lot size is divided by 10 so it now covers 83 Shares of SIRI.\n\n3) It is an odd lot size so it will look strange, but I just moved from being $1 ITM on a $21 stock to being $6 ITM on a $30 stock.\n\n4) Moving to SIRI's price should move me according to a similarly priced SIRI option's Delta/Gamma.\n\n5) IV on LSXM is lower than IV on SIRI, so my calls should get a boost up to SIRI's IV.\n\n6) The New interest in that sleek $30 stock should increase IV even higher, AGAIN boosting the value of my calls. \n\n7) If they are added back to their old indices and restart their buybacks SIRI goes even higher. My calls are worth even more. \n\n8) I cash out and buy a pressure washer. Now my dumpster is the cleanest in the state and I can increase my prices at work.\n\nNone of this is new. I just didn't add it to the post because it would be distracting for a lot of readers. If I thought it made the deal worse I WOULD have talked about it. It makes it better for anybody who stays long past the conversion. And I was drawing attention to the benefits of just the conversion.",
+          "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lh9cob2/",
+          "created": 1723203180,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lhaipbr",
+              "score": 2,
+              "body": "Thanks for the reply. I'm in the play too in stock",
+              "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lhaipbr/",
+              "created": 1723218370,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lhcubg0",
+              "score": 2,
+              "body": "Ok, so I see from the screenshot at the top in the post that your LSXMK expire next week, but it sounds like you’re still in a play here, so break it down for me in the simplest way:\n\n- what ticker(s)?\n- what strike(s)?\n- what expiration?",
+              "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lhcubg0/",
+              "created": 1723245584,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lhdnr71",
+                  "score": 1,
+                  "body": "Ooff, I didn't update this.  My YOLO post in this sub has my updated positions. I don't have many posts so you won't have to search hard to find it.\n\nThose 8/16s were me being optimistic about when the merger would happen, but by the time the actual date was published and I got ready to roll them they were too far down to bother with.  \n\nIf there's no miracle this week I'm counting on my Sept and Jan calls to make up the difference.",
+                  "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lhdnr71/",
+                  "created": 1723257220,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lbodix4",
+      "score": -7,
+      "body": "First off you have no positions shown, so who gives your shit about your opinion on the topic.\n\nAlso this seems A.I. written or something. Why the fuck would a human possibly think they need to put [(22.80 / 29.65 = 0.77)](https://www.google.com/search?q=22.80+%2F+29.65&sca_esv=2d68b74fb50c3936&sca_upv=1&sxsrf=ADLYWIIlQrnpMpoJvmMQlhXX3Iod7b7QOQ%3A1720124643574&ei=4wSHZoreIvGxptQPvbCZsAQ&ved=0ahUKEwjK2-XSm46HAxXxmIkEHT1YBkYQ4dUDCBA&uact=5&oq=22.80+%2F+29.65&gs_lp=Egxnd3Mtd2l6LXNlcnAiDTIyLjgwIC8gMjkuNjVIqxdQ5QRY-BFwAXgAkAEAmAFSoAGuBaoBATm4AQPIAQD4AQL4AQGYAgCgAgCYAwCIBgGSBwCgB5AF&sclient=gws-wiz-serp) in their document and include a link to a calculator showing the math. Either a bot or you need to stop eating  many crayons.\n\nSo if it's so sure where are your positions? I mean if it is such a sure thing you must have a position of at least mid 5 figures right? It literally can't fail right?",
+      "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbodix4/",
+      "created": 1720139797,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lbofkcc",
+          "score": 13,
+          "body": "LOL, thanks for your comment.\n\n1st, I can show positions.  But you may hold on to your shits I don't need them.\n\nhttps://preview.redd.it/damum7vuklad1.jpeg?width=1408&format=pjpg&auto=webp&s=9057e46825936d42f1bda66f96235f2205ce0b00\n\n2nd, I assume that everyone who says \"this seems AI written\" is a bot.  It's cliche at this point.  I added that link as a joke as though my readers might have trouble with arithmetic or were going to insist that I show more work (like your requirement that I show a position). \n\n3rd, \"Right is right no matter who says it.  Wrong is wrong, no matter who says it.\"  If you can't do math without a screenshot from my broker. . .well let me help you with a couple of links.  \n  \n[(3.53 \\* 8.4 = 29.65)](https://www.google.com/search?q=3.53+*+8.4&sca_esv=2d68b74fb50c3936&sca_upv=1&sxsrf=ADLYWILAeAJ-xqtGbSMANonf0EQ3A2O5Jg%3A1720124639171&ei=3wSHZvGWCpD-ptQPkPSmmAc&ved=0ahUKEwixgtnQm46HAxUQv4kEHRC6CXMQ4dUDCBA&uact=5&oq=3.53+*+8.4&gs_lp=Egxnd3Mtd2l6LXNlcnAiCjMuNTMgKiA4LjRIvQ9QxQFY7QtwAXgAkAEAmAFeoAGEBaoBATi4AQPIAQD4AQGYAgGgAlnCAgUQIRifBZgDAIgGAZIHATGgB-4E&sclient=gws-wiz-serp)  \n[(22.80 / 29.65 = 0.77)](https://www.google.com/search?q=22.80+%2F+29.65&sca_esv=2d68b74fb50c3936&sca_upv=1&sxsrf=ADLYWIIlQrnpMpoJvmMQlhXX3Iod7b7QOQ%3A1720124643574&ei=4wSHZoreIvGxptQPvbCZsAQ&ved=0ahUKEwjK2-XSm46HAxXxmIkEHT1YBkYQ4dUDCBA&uact=5&oq=22.80+%2F+29.65&gs_lp=Egxnd3Mtd2l6LXNlcnAiDTIyLjgwIC8gMjkuNjVIqxdQ5QRY-BFwAXgAkAEAmAFSoAGuBaoBATm4AQPIAQD4AQL4AQGYAgCgAgCYAwCIBgGSBwCgB5AF&sclient=gws-wiz-serp)\n\n  \n4th, I want to congratulate you on your writing.  English is a really tough language to pick up as a non-native speaker and you made your arguments well.  Cheers!",
+          "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbofkcc/",
+          "created": 1720140721,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lbok18a",
+              "score": 13,
+              "body": "You know what fair enough. I was not expecting you to hold any positions because it was not in the post. I can see you clearly called my bluff and I was wrong.\n\nI've done some more looking into this and it seems like a solid gamble. I will buy some calls tomorrow.",
+              "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbok18a/",
+              "created": 1720142827,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lbokpq0",
+                  "score": 10,
+                  "body": "And I hope you get filthy stinking rich on 'em!\n\nI'm kind of wishing I had bought the longer dated calls.  I can never decide if it's less risky to buy myself more time, or less risky to pay the super-low premiums.  I may buy some of the far dated ones tomorrow if my cash transfers in.",
+                  "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lbokpq0/",
+                  "created": 1720143156,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lc00utx",
+                      "score": 2,
+                      "body": "I thought the calls expire worthless if they’re not ITM at the time the merger? So if it’s expected for Q3 and that happens wouldn’t any Q4 stocks OTM expire worthless? Sorry if I’m misunderstanding the rules, still pretty new to options especially in more complicated scenarios like this.",
+                      "permalink": "/r/wallstreetbets/comments/1dvjzp4/of_course_you_realize_this_means_arbitrage_lsxmk/lc00utx/",
+                      "created": 1720328793,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,701 @@
+{
+  "title": "Apple Intelligence Has a Long Way to Go to Match Its Marketing Hype",
+  "score": 119,
+  "selftext": "Selected Excerpts:\n\n> “After testing the first beta version of Apple Intelligence myself, I can tell you that the features don’t yet live up to the excitement. In their current state, they’re a far cry from the game-changing technology that fans and investors hope Apple Intelligence will become.”\n\n> “You even see some analysts describing it as **a breakthrough akin to the original iPhone.”**\n\n> “Let me be clear: At this point, Apple Intelligence isn’t that.”\n\n> Now, it’s true that this is just the first beta release and the company will undoubtedly improve it over the next few months. But I suspect that we’re seeing a fairly good picture of what Apple Intelligence will look like when it debuts around October. \n\n> “I found the ability to summarize emails to be useful: It provided an excellent distillation of the message’s content. This is particularly a perk for message previews, which typically just show the first few lines of an email. But the summaries of text message conversations — particularly for fast-moving group chats — were a disappointment and mostly useless. Summaries are also helpful in Safari for articles, but I don’t foresee that being a particularly popular feature. “\n\n> “The most impressive features so far are Writing Tools, Type to Siri and phone-call recording summaries. The Writing Tools are essentially a well-integrated version of Grammarly-style features. It works nicely, but this is the kind of thing that’s been available on Android phones for a while now.”\n\n> “The most impressive features so far are Writing Tools, Type to Siri and phone-call recording summaries. The Writing Tools are essentially a well-integrated version of Grammarly-style features. It works nicely, but this is the kind of thing that’s been available on Android phones for a while now.”\n\n> “I was less impressed with the reply suggestions in Messages, which don’t immediately seem like a major upgrade over the existing keyboard suggestions in iOS. They could be a lot more thoughtful, perhaps by better using the context of the chat so far, rather than just the last message in the thread.”\n\n> “The best feature is the ability to record a phone call and get a transcript of the conversation as well as a summary of what took place. In my tests, this has worked almost flawlessly, and the summaries have been excellent. It’s certainly a nice time saver.”\n\n> “Type to Siri is also a nice upgrade, as is the new visual cue that Siri is active on the iPhone, iPad and CarPlay. But neither of those interface improvements has anything to do with AI.”\n\n> “In any case, these are mainly niceties, not necessities.”\n\n> “There is nothing so compelling yet that would make an iPhone 14 Pro user upgrade to an iPhone 16 just for Apple Intelligence.”\n\n> “Some key Apple Intelligence features aren’t in the initial beta. [Such as AI PHOTO APP and OS-INTEGRATED CHATGPT.] These latter capabilities will likely come in November or December. \n\n> “Users will have to wait until 2025 to see the fully revamped Siri.”\n\n> “But even when [these delayed features of] Apple Intelligence [are] available, the company will still be playing catch-up. Alphabet Inc.’s Google is miles ahead of Apple in applying AI to photos.”\n\n> “Apple’s effort still **feels like a response** to the AI revolution being advanced by Google, OpenAI, Meta, and Microsoft Corp.”\n\nSource:\n\nhttps://www.bloomberg.com/news/newsletters/2024-08-04/apple-intelligence-early-preview-in-call-recording-safari-summaries-new-siri-lzfk2949",
+  "link_flair_text": "Company Discussion",
+  "id": "1ejyh9r",
+  "num_comments": 74,
+  "created_utc": 1722786861,
+  "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/",
+  "comments": [
+    {
+      "id": "lggz2sr",
+      "score": 78,
+      "body": "TLDR, it is a beta of a first version.",
+      "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lggz2sr/",
+      "created": 1722788456,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lgkiqhp",
+          "score": 7,
+          "body": "The fundamental problem most r/stocks users don't understand is that very capable LLMs require a huge amount of computing resources. It's estimated that it takes around 50 Nvidia H100 GPUs clustered together just to fit GPT4 into memory.\n\nGPT4 is reportedly 1.7 trillion parameters. Apple Intelligence's local model is around 2 billion parameters because that's all a mobile device can do in 2024. In other words, GPT4 is 850x larger than Apple Intelligence's local model.\n\nIt's obvious to anyone who understands AI that Apple Intelligence is a many years long roadmap that will have exponential improvements each year. We're in the baby years of AI.\n\nThis notion that \"AI doesn't meet marketing hype\" is silly. It's not a feature you build once and it never gets updated again. It's likely a very long march towards a true AI digital assistance like Jarvis in Iron Man.\n\nIn the past, people upgraded their iPhones for various reasons from faster CPUs/GPUs, faster modems, better cameras, bigger screens, better battery life. All of those have reached maturity and are reaching diminishing returns. Apple now has a new lever to pull. \"Buy iPhone 17, it's 4x more intelligent than iPhone 16\". \"Buy iPhone 18, it can now run a 20 billion parameter LLM\". From here on out, Apple Intelligence should get better exponentially.",
+          "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgkiqhp/",
+          "created": 1722839024,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lgk5qjy",
+          "score": 2,
+          "body": "But the use cases will likely remain the same",
+          "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgk5qjy/",
+          "created": 1722831608,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lghgfi9",
+      "score": 55,
+      "body": "Companies are grossely overestimating the interest in an AI focused phone",
+      "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lghgfi9/",
+      "created": 1722794292,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lghl2an",
+          "score": 9,
+          "body": "honestly I think Apple just wants the same sales bump that Samsung got on their last flagship at a minimum. People to attribute it to AI marketing. (how much of that is true and how much of it is just cyclical effects remains to be seen)",
+          "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lghl2an/",
+          "created": 1722795845,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lghn8m6",
+              "score": -8,
+              "body": "AI is going to increase profits and decrease the need for human labor.......... its a game changer almost as big as the internet as far as profits per employee go",
+              "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lghn8m6/",
+              "created": 1722796576,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lgj7r00",
+          "score": 7,
+          "body": "Investors too. Nobody doubts the AI advancements over the last few years are impressive. Many of think, hey that’s cool and sometimes sort of useful. But broadly speaking, Silicon Valley and wall street grossly overestimate how much people care about the latest shiny tech gadget. And AI is just not very useful for most people. Happens every time we get some shiny new tech.\n\nAnd of course; there are the business applications right! An economist once quipped back in the 80s, computers are everywhere, except the productivity statistics. The internet, the last giant tech bubble, no productivity boom. AI, so far, no productivity impact. Soon, am I right?",
+          "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgj7r00/",
+          "created": 1722816936,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lgkxc8r",
+          "score": 6,
+          "body": "Nah, it is actually useful.\n\nFor example when I am driving or lazy. I can just give them 2-3 keywords and tell them to write it out and then send.\n\nOr they can optimise battery with better energy and app management by understanding user patterns.\n\nIt is the subtle things that helps. Not things like telling the phone to draw me mona lisa",
+          "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgkxc8r/",
+          "created": 1722848764,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lghua9k",
+          "score": 2,
+          "body": "I loathe the idea of it and will go back to a flip phone if it becomes part of the general usage.",
+          "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lghua9k/",
+          "created": 1722798970,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lgidozy",
+              "score": 7,
+              "body": "Don't worry it's a fad. Remember the first time around voice assistants were supposed to be big game changers. \n\nI feel those were mostly hype as is this.",
+              "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgidozy/",
+              "created": 1722805621,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lgjjy2a",
+                  "score": 1,
+                  "body": "It was the same with 3D TVs, and blockchain, and self- driving cars. \n\nPeople saw chatgpt can find them a spaghetti recipe and thought we are going to have flying robots in a couple months.",
+                  "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgjjy2a/",
+                  "created": 1722821918,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lgk7u9e",
+                      "score": 5,
+                      "body": "ChatGPT is pretty incredible though. I’m not a part of the massive AI hype train but it is genuinely impressive for what it is.",
+                      "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgk7u9e/",
+                      "created": 1722832694,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lgjzhfg",
+                  "score": 1,
+                  "body": "If it can do what it says then it’s pretty cool but reports are it doesn’t do much.",
+                  "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgjzhfg/",
+                  "created": 1722828575,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lghn2e6",
+          "score": 2,
+          "body": "remember you said that in 18 to 24 months\n\n... this is a slow rollout... it will take probably 2more cycles to get going worldwide",
+          "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lghn2e6/",
+          "created": 1722796517,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lgid3ob",
+          "score": -1,
+          "body": ">\"Companies are grossly overestimating the interest in an internet focused phone\"\n\n-You in 2007, probably.",
+          "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgid3ob/",
+          "created": 1722805414,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lgi8xby",
+          "score": 0,
+          "body": "I don't think so. One BIG reason to move most of the processing on the phone is privacy. To do a good job you need to send a lot of information to the server and from the point of view of the companies this is a nightmare and a huge risk. Another non-trivial incentive is to push people to upgrade what they have.",
+          "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgi8xby/",
+          "created": 1722803981,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lgmsdho",
+              "score": 1,
+              "body": "I'd argue the opposite, I dont want an AI being trained at my every move and every file, I also dont want to have all my information on a corporate cloud. I am certainly also not paying for an \"upgrade\" that will cost 1500$.",
+              "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgmsdho/",
+              "created": 1722876663,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lgnx5ls",
+                  "score": 0,
+                  "body": "> I also dont want to have all my information on a corporate cloud.\n\nMy point. This is why training and inference on the phone are the way to go.",
+                  "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgnx5ls/",
+                  "created": 1722889586,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lggv60v",
+      "score": 25,
+      "body": "I found one odd use case lately. I saw a logo in a movie that I recognized but didn't know what it was. I took a screenshot and asked AI and got the answer. Doing that with my phone in real life is probably pretty nice. Might just be my OCD, though. That itself doesn't revolutionize anything, but it's still pretty cool.\n\nJust \"pretty cool\", but it did make me realize that there probably are many of those small things where it might add up to something great. Similar to the smartphone, it's really just many small things adding up that make it so revolutionary and it took years for people to find these small cases on that platform. Now AI is the platform.",
+      "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lggv60v/",
+      "created": 1722787109,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lggw4tj",
+          "score": 28,
+          "body": "Image search and lens are solutions that do the same thing you've described. But, I agree with your point that we'll hopefully start seeing these small advancements build up. A few years from now we'll be able better see the distinction between pre- and post-AI features, use cases, products, platforms etc.",
+          "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lggw4tj/",
+          "created": 1722787442,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lgh8g78",
+          "score": 25,
+          "body": "Google Lens has been doing this since an eon. Maybe longer.",
+          "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgh8g78/",
+          "created": 1722791633,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lghguco",
+              "score": -2,
+              "body": "Ya but Google Lens definitely has room for improvement",
+              "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lghguco/",
+              "created": 1722794428,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lggyfqq",
+          "score": 9,
+          "body": "You can do the same thing if you snap a photo and run it in google lens. Like 7 extra seconds",
+          "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lggyfqq/",
+          "created": 1722788237,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lgh0j3l",
+              "score": -4,
+              "body": "It's not just about that image. It's about similar use cases.\n\n\"I like that bag/shirt/shoes, which is it and where can I buy it?\"  \nsure you can do it today, but it takes fiddling, knowing the services, maybe googling afterwards and all that stuff around it\n\nmy point is more that we will very likely find use cases as time goes on and as this technology becomes readily available to us, then it gets refined around those use cases, tools added and the cycle continues just like it did for the smartphone",
+              "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgh0j3l/",
+              "created": 1722788956,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lgheqqq",
+                  "score": 12,
+                  "body": "Google lense literally does exactly as you’ve described. The *only* difference is that you have to download the Google app for it (at least on iPhone)",
+                  "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgheqqq/",
+                  "created": 1722793733,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lgidh5b",
+                      "score": 1,
+                      "body": "On Pixel its already built in. I can use the home button to pull up Google lens to look up anything without taking a screenshot.",
+                      "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgidh5b/",
+                      "created": 1722805544,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lgkjdc5",
+                          "score": 1,
+                          "body": "Or any Android.",
+                          "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgkjdc5/",
+                          "created": 1722839424,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lgkjbu9",
+          "score": 1,
+          "body": "Lol oh boy",
+          "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgkjbu9/",
+          "created": 1722839397,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lghpkls",
+      "score": 8,
+      "body": "Start noticing a wave of negative aapl stories.  Usually the start of the negative news cycle for a company that culminates with stock decline.   \n\nAAPL has been the one bright spot in the broader tech sell off, so now the big money probably needs it to go down so they can load up and gain big again.",
+      "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lghpkls/",
+      "created": 1722797363,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lgi9ta5",
+          "score": -9,
+          "body": "Companies like Aapl and goog stopped innovating when the founders died/moved away. It takes years to exhaust the ideas in the pipelines and start declining; IMO, this is what we are witnessing. Inverting the trend (if even possible) will take years.",
+          "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgi9ta5/",
+          "created": 1722804281,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lgigcfg",
+              "score": 9,
+              "body": "Apple silicon? Extremely underrated aspect of apple innovation",
+              "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgigcfg/",
+              "created": 1722806556,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lgihv8f",
+                  "score": -4,
+                  "body": "There are equivalent solutions from Samsung, Google, Qualcomm, ...  New but not disruptive\n\nThe iPhone was disruptive (ask Nokia and RIM), the iPod was disruptive (Microsoft Zune?). The silicon is an incremental improvement over existing technology.",
+                  "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgihv8f/",
+                  "created": 1722807097,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lgil15g",
+                      "score": 4,
+                      "body": "Your defintion or criteria of innovation is creating a product thats disruptive on the scale of iphone and ipod? I guess no company has actually innovated all that much since the iphone. \n\nIs your definition that google hasnt innovated also because they did not creat anything new thats as disruptive as google search?\n\nAt the end of your comment you actually said the definition of innovation, incremental improvement of a technology.",
+                      "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgil15g/",
+                      "created": 1722808225,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lgklero",
+                          "score": -2,
+                          "body": "> I guess no company has actually innovated all that much since the iphone. \n\nI disagree. SpaceX, OpenAI, TikTok, Tesla, and others all disrupted their sector.\n\nGoogle hasn't launched anything big since Sundar became the CEO ( Photos, perhaps... ). Despite many attempts to pivot, the company still makes pretty much all its revenues from ads, a market that is shrinking for Google",
+                          "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgklero/",
+                          "created": 1722840712,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lgmpl0t",
+                              "score": 1,
+                              "body": "Did apple watch and airpods disrupt their sectors?",
+                              "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgmpl0t/",
+                              "created": 1722875772,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lgiz1ji",
+                      "score": 3,
+                      "body": "Their silicon was a quantum leap forward for portable computing. Intel and AMD were happy to have us stuck with X86 architecture and inefficient chips for a long time. Now everyone else is playing catch-up and going with the times. It jump-started their sales and was absolutely disruptive.\n\nApple definitely innovated here and I say this as someone who firmly believes the company is overvalued in public equity markets.",
+                      "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgiz1ji/",
+                      "created": 1722813508,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lgklosb",
+                          "score": 0,
+                          "body": "Mobile devices have been running on ARM for a long time. The x86 was never meant to be a mobile cpu.",
+                          "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgklosb/",
+                          "created": 1722840889,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lghdt3z",
+      "score": 3,
+      "body": "Grammarly is so fucked",
+      "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lghdt3z/",
+      "created": 1722793422,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lghumm3",
+      "score": 3,
+      "body": "I'm a big fan of the AI revolution but my take is even if the features work exactly as Apple described, I don't get what the big hype is.",
+      "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lghumm3/",
+      "created": 1722799090,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lgie31a",
+          "score": 1,
+          "body": "They hope by saying \"we put AI in our AIs AI\" that the stock will pump. At this point I don't see why anyone wouldn't. If Wingstop starts talking about AI, that's when we'll know the bubble is about to pop.",
+          "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgie31a/",
+          "created": 1722805756,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lgh4rvt",
+      "score": 2,
+      "body": "It would take some time but I think it could open up a new revenue stream for Apple through subscription like they do for cloud storage.",
+      "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgh4rvt/",
+      "created": 1722790394,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgh9xdb",
+      "score": 2,
+      "body": "Good, give us some time to accumulate the stock. When Apple AI took off, it would open more eyes in the public, and create another wave of FOMO buying.",
+      "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgh9xdb/",
+      "created": 1722792132,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lghdk0m",
+          "score": 1,
+          "body": "!RemindMe 6 months",
+          "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lghdk0m/",
+          "created": 1722793338,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lghdo9y",
+              "score": 2,
+              "body": "I will be messaging you in 6 months on [**2025-02-04 17:42:18 UTC**](http://www.wolframalpha.com/input/?i=2025-02-04%2017:42:18%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lghdk0m/?context=3)\n\n[**1 OTHERS CLICKED THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Fstocks%2Fcomments%2F1ejyh9r%2Fapple_intelligence_has_a_long_way_to_go_to_match%2Flghdk0m%2F%5D%0A%0ARemindMe%21%202025-02-04%2017%3A42%3A18%20UTC) to send a PM to also be reminded and to reduce spam.\n\n^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%201ejyh9r)\n\n*****\n\n|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|\n|-|-|-|-|",
+              "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lghdo9y/",
+              "created": 1722793377,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lghsk51",
+      "score": 2,
+      "body": "First beta version",
+      "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lghsk51/",
+      "created": 1722798377,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lghemf2",
+      "score": 2,
+      "body": "There is so much AI related FUD lately…",
+      "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lghemf2/",
+      "created": 1722793693,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lghqy7m",
+          "score": 1,
+          "body": "That's because the LLM, gen AI & AGI hype +  hopium is at an all time high since last year. Right now ppl are starting to realize the actual state of AI services is nowhere near what they imagined.",
+          "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lghqy7m/",
+          "created": 1722797828,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lgjkifh",
+              "score": 0,
+              "body": "Also AI doesn't actually generate any extra revenue for any of those companies bar Nvidia. \n\nYes, you can have AI search in Netflix or AI functionality in Microsoft Office, but it's still the same fucking product.",
+              "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgjkifh/",
+              "created": 1722822155,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lgkhe69",
+                  "score": 2,
+                  "body": "I've been paying $10/month for Github Copilot for over a year now. ChatGPT Premium $20/month as soon as it came out.\n\nOur company is eagerly awaiting an LLM integration with Outlook and Slack and we're willing to pay for it.",
+                  "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgkhe69/",
+                  "created": 1722838190,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lghlzqb",
+      "score": 1,
+      "body": "Well, at least they didn't live stream it like Google did with Bard.",
+      "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lghlzqb/",
+      "created": 1722796157,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lghmo6u",
+      "score": 1,
+      "body": "I bought a share cause they're simply too big to fail.",
+      "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lghmo6u/",
+      "created": 1722796384,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lgiab95",
+          "score": 1,
+          "body": "Remember Nokia?",
+          "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgiab95/",
+          "created": 1722804453,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lgicxni",
+              "score": 2,
+              "body": "Apple makes world-famous computers, software, and phones, with constant success. I'm not too worried even if I dislike the company. Mainstream people like their products too much.",
+              "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgicxni/",
+              "created": 1722805356,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lghmp6c",
+      "score": 1,
+      "body": "All AI has a long way to go to match its Marketing",
+      "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lghmp6c/",
+      "created": 1722796393,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lghmuef",
+      "score": 1,
+      "body": "they have already said its going to b a SLOW rollout...... people are dense",
+      "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lghmuef/",
+      "created": 1722796442,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lghtcnd",
+      "score": 1,
+      "body": "i have a hard time believing that siri would go from being legitimately the worst virtual assitant to the best overnight.",
+      "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lghtcnd/",
+      "created": 1722798650,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lghxi8r",
+      "score": 2,
+      "body": "so you posted this thesis in two forums, amateurish bear move 😅",
+      "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lghxi8r/",
+      "created": 1722800092,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgictrg",
+      "score": 1,
+      "body": "this subreddit must just be a bunch of tech illiterate soccer dads. and this is coming from someone not planning on using apple intelligence. many of the \"marketing hype\" features have already admittedly been said to be fully releasing in the spring. beta is beta. wannabe \"gotcha\" title when these facts are already known.",
+      "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgictrg/",
+      "created": 1722805319,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgixhd4",
+      "score": 0,
+      "body": "The current version of AI can't think yet and it's an advanced copy pasta tool.",
+      "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgixhd4/",
+      "created": 1722812902,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgjzx7o",
+      "score": 0,
+      "body": "This can be said for all of “consumer Ai” at the moment.   It’s really quite rubbish now.",
+      "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgjzx7o/",
+      "created": 1722828776,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgl74ui",
+      "score": 1,
+      "body": "2025!!! Oh wait that’s in 4 months. zzzzzz",
+      "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgl74ui/",
+      "created": 1722855081,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lglz1gr",
+      "score": 2,
+      "body": "My experience with writing tools is very positive so far. It's a good replacement for Grammarly when writing emails and short summaries, and I like that it works on-device as opposed to Grammarlys extremely invasive tool. I think Apple is being smart with these features — instead of trying to build some sort of uber-hyper-model, they focus on practicality and usability.",
+      "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lglz1gr/",
+      "created": 1722867060,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgh7m3h",
+      "score": 0,
+      "body": "It’s like Apple Vision Pro never happened … apples growth from here will rely on price increases which the consumer will reject … a digital competitor will emerge and dethrone the king this decade …",
+      "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgh7m3h/",
+      "created": 1722791352,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgh48c4",
+      "score": 0,
+      "body": "I think Apple needs to somehow make it so people can give it a certain amount of access to there personal info and it could even go as far as asking people in ur contacts for approval for certain things so that the phones could start to understand our daily routines and our patterns so it could give ideas on when and where friends can hang out/ how much they can spend and what to buy/ basically making there life 10x easier and saving money and having fun.\n\nAnd it needs to be collecting data from where we work at to what we drive to where we live to who our friends and family are. Could give it options for certain amount of privacy I guess.",
+      "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgh48c4/",
+      "created": 1722790211,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgh5otr",
+      "score": 0,
+      "body": "AI will never make it into mainstream until AI robots come along. That's what I believe",
+      "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgh5otr/",
+      "created": 1722790703,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lghky4z",
+      "score": 0,
+      "body": "I hope this doesn't end up like Apple Maps.",
+      "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lghky4z/",
+      "created": 1722795806,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lghq5as",
+      "score": 1,
+      "body": "Apple should just replace Siri with something like ChatGPT and then give it access to all content and all APIs like Calendar, Email etc. That would already be a massive step forward because Siri today is completely useless.",
+      "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lghq5as/",
+      "created": 1722797556,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lgicxas",
+          "score": 3,
+          "body": "that is literally what apple intelligence is. final integration is in the spring though",
+          "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgicxas/",
+          "created": 1722805352,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lghqc9u",
+          "score": 1,
+          "body": "And also get voice-to-text to a performance similar to ChatGPT",
+          "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lghqc9u/",
+          "created": 1722797622,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lgho3sg",
+      "score": -1,
+      "body": "Shorting apple today is honestly free money.\n\nHere in Brazil i started this friday a short at apple and long in Brazilian treasury eith the short proceeds.\n\nBRL/USD close to an all time high with Brazil paying the highest real yield ITW.\n\nApple extremely overvalued right now too.",
+      "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgho3sg/",
+      "created": 1722796867,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lghru07",
+          "score": 1,
+          "body": "!RemindMe 6 months",
+          "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lghru07/",
+          "created": 1722798128,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lghsc7x",
+              "score": 0,
+              "body": "For better measure AAPL34 is the ticker for apple BDR here in the brazilian exchange.\n\nIt is currently at 62,51 BRL.\n\nThe short proceeds will yield close to 0,5% monthly after tax and all costs.",
+              "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lghsc7x/",
+              "created": 1722798303,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lgl0o48",
+              "score": 0,
+              "body": "Lmao didn’t even need 6 months.0",
+              "permalink": "/r/stocks/comments/1ejyh9r/apple_intelligence_has_a_long_way_to_go_to_match/lgl0o48/",
+              "created": 1722851065,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

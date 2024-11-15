@@ -1,0 +1,1480 @@
+{
+  "title": "NVDA Spread update",
+  "score": 1004,
+  "selftext": "\nThis is an update from my previous post [“Anyone ever gotten this?”](https://www.reddit.com/r/wallstreetbets/s/SOSGImr0kf) \n\nFirst, here's the rundown of what happened: So, I had this genius plan to score an \"easy\" $500 by dealing with NVDA options. I sold 10 calls at the $902.5 strike for $2.75 each and hedged with 10 call contracts at the $900 strike that I got for $4.75. Quick math: that's a breakeven at $902, selling for $902.5, netting me a sweet $0.50 per share. \n\nBut here's the kicker, I didn't know you could call your broker until 5:30 PM if your option expires in the money. Long story short, the buyer of my $902.5 strike calls ghosted, leaving me with 1000 shares of NVDA from the expired $900 strike calls and a cash account deficit of $897,813.87. Which is some RH BS because the shares were worth $901,250, but still stressful AF. \n\nI wasn't thrilled about being on the hook for $1000 for every $1 move in NVDA. But Robinhood's 24-hour market came in clutch. I unloaded those shares on Sunday night at $909.62 a pop, raking in a profit of $7.62 per stock. I probably could have made more if I held but I’m relieved I’m out. Crisis averted, tendies secured. 🚀💰🤑\n\nTLDR: Robinhood told me I owed them almost $900k after I did an NVDA spread without knowing about DNE, so I almost got spread, but got lucky and ended up making $7k or 350% in four days.",
+  "link_flair_text": "Discussion",
+  "id": "1bsq8l9",
+  "num_comments": 163,
+  "created_utc": 1711932635,
+  "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/",
+  "url_overridden_by_dest": "https://www.reddit.com/gallery/1bsq8l9",
+  "comments": [
+    {
+      "id": "kxh8t5x",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 2 | **First Seen In WSB** | 8 months ago\n**Total Comments** | 47 | **Previous Best DD** | \n**Account Age** | 11 months | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxh8t5x/",
+      "created": 1711932640,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxha4dz",
+      "score": 670,
+      "body": "Jesus you got lucky",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxha4dz/",
+      "created": 1711933165,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kxiel51",
+          "score": 59,
+          "body": "it’s Easter 😉🤌",
+          "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxiel51/",
+          "created": 1711954116,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "kxhcmin",
+      "score": 114,
+      "body": "Could’ve been -$125,000",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhcmin/",
+      "created": 1711934177,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxhbgut",
+      "score": 284,
+      "body": "Wild ride. Fuck you, congrats",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhbgut/",
+      "created": 1711933709,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kxjjiaf",
+          "score": 49,
+          "body": "https://preview.redd.it/edutwbiwgvrc1.jpeg?width=1290&format=pjpg&auto=webp&s=bd7dfe80d65609a3bba34b67e6796f6a4b3fe6f4\n\nI’m sure if I had let RH overwriting team liquidate they would have sold the stock at the open at $899.70, would have made a loss of $2,300 and had three heart attacks.",
+          "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxjjiaf/",
+          "created": 1711979219,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kxoi4zm",
+              "score": 4,
+              "body": "Buy one get two free",
+              "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxoi4zm/",
+              "created": 1712055767,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kxhheuu",
+      "score": 514,
+      "body": "So you’re risking about 900k to make $500? And you got lucky and made $7k, am I getting this right?",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhheuu/",
+      "created": 1711936153,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kxhq8e1",
+          "score": 294,
+          "body": "He bought ten 900/902.5 debit spreads.\n\nThis means he sold ten 902.5 NVDA calls and simultaneously bought ten 900 NVDA calls.\n\nI believe what happened on Thursday is that both calls were in the money (but just barely) between 3 and 4 pm. Since this was the last hour of trading, Robinhood exercised the ten 900c contracts on the OPs behalf (using margin).\n\nThis meant that Robinhood temporarily bought 1,000 shares of NVDA for the OP at $900 per share (so they “loaned” him $900,000) with the anticipation that they would be called away from him at $902.50 per share ($902,500).\n\nHowever, the counterparty who bought his ten 902.5 calls decided not to exercise them. This left the OP with a borrowed 1,000 shares worth of NVDA at $900 per share to hold over the weekend. This is why he was showing a $900,000 deficit.\n\nThe OP then got extremely lucky tonight when Robinhood resumed trading at 8pm. NVDA popped to roughly $909 per share and he sold them at that price.",
+          "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhq8e1/",
+          "created": 1711939963,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kxhrbqc",
+              "score": 53,
+              "body": "I'm confused on how this would have lost OP money though. Isn't that $900k deficit balanced by the newly purchased 1,000 shares of NVDA? How much money was he standing to lose.",
+              "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhrbqc/",
+              "created": 1711940460,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "kxhswft",
+                  "score": 124,
+                  "body": "He needed to come up with $900k to take possession of the 1000 shares.  Obviously he didn’t have that so he placed limit sell to offload the shares and make the difference ASAP.  And if nvidia opened below the strike price tonight then even if he were to sell them immediately he would be out the difference ($1000 per every $1 NVDA moved).  He got lucky because nvidia is trading above the strike and made profit on the difference.",
+                  "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhswft/",
+                  "created": 1711941195,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "kxjm5pr",
+                      "score": 9,
+                      "body": "So OP would technically never have been at a 900k deficit right, because he can just sell the shares at a loss?  So say it dropped to 875, his deficit would be 25k correct?",
+                      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxjm5pr/",
+                      "created": 1711980254,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "kxiethh",
+                      "score": 23,
+                      "body": "It is $1000 for every dollar Nvidia moved because the 10 contracts, 10x100 made him purchase 1000 shares?",
+                      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxiethh/",
+                      "created": 1711954285,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "kxim920",
+                          "score": 17,
+                          "body": "Yes",
+                          "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxim920/",
+                          "created": 1711959974,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "kxixx3c",
+                      "score": 6,
+                      "body": "Thank you for the write-up. This seems quite risky, especially looking at g\nhis initial payment. Am I understanding this right that his spread tactic was kinda useless since his 900 sell was already filled?",
+                      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxixx3c/",
+                      "created": 1711968442,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "kxht06t",
+                  "score": 80,
+                  "body": "Imagine if instead of 909, NVDA opened overnight trading at 890. Now he lost $10k trying to make $500",
+                  "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxht06t/",
+                  "created": 1711941244,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "kxi2plq",
+                      "score": 9,
+                      "body": "Would back office not prevent this? He did not direct RH to do this, they executed on behalf of him",
+                      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxi2plq/",
+                      "created": 1711946313,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "kxi4skg",
+                          "score": 51,
+                          "body": "You are responsible for DNE. You need to set it. Do not trade options if you dont know what you are doing. The broker is going to follow the instructions set.",
+                          "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxi4skg/",
+                          "created": 1711947530,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "kxi5y2d",
+                              "score": 11,
+                              "body": "Interesting, interesting.\n\nI’ve never dealt with this situation and I’ve been trading options for 6 years",
+                              "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxi5y2d/",
+                              "created": 1711948228,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "kxi9k0a",
+                                  "score": 38,
+                                  "body": "Let me put it this way. \n\nBrokers will always follow your directions, whatever the trade or wish is. Otherwise they open themselves up to liabilities and getting sued. They aren't going to protect you from your own stupidity. The only time brokers step in is if they are going to end up severely exposed, I e. You do a stupid play that could cost them money that you could never hope to cover, they force you to stop loss. If you owe the bank 1000$ you have a problem. If you owe the bank 100million Dollars, the bank has a problem. \n\nIn this case OP had a automatically executed because it was ITM and the guy who owned OPs 902.5 call he sold, had it set to DNE. They both would have traded at the same time. Even though Robinhood floated OP 900kish to exercise the ITM contract, they weren't really ever at risk of being out 900k. OP had 1000 shares of Nvidia that they would have force sold on Monday. Not a big deal.for Robinhood, even if Nvidia lost like 50$ in share value over the weekend. OP would have gotten fucked though. Which is why you always sell your spread plays before close and not hold like an idiot.",
+                                  "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxi9k0a/",
+                                  "created": 1711950566,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "kxicyov",
+                                      "score": 11,
+                                      "body": "I interned at an exchange and this was the gist of a lot of what the mentioned with overnight clearing concerns. \n\nThat makes sense, whenever I’m trading spreads I end up closing them normally within the last 5 mins to avoid clearing and executing issues.\n\nThanks for the explanation",
+                                      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxicyov/",
+                                      "created": 1711952946,
+                                      "depth": 8,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "kxhzr1l",
+                  "score": 10,
+                  "body": "This would have lost OP money if (for some reason) NVDA took a dive between when the market closed last week and Monday's open. If NVDA opened at $850/share (for example), then OP would owe about $900k but only own $850k in shares. In that case, Robinhood would likely liquidate the shares and say OP owed the difference (about $50k).",
+                  "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhzr1l/",
+                  "created": 1711944662,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "kxjcdni",
+                  "score": 8,
+                  "body": "He was standing to lose a substantial, substantial amount of money. \n\nOkay, the Crux of this is that the \n\n**Buyer of his 902.50 call contracts chose not to exercise because they likely submitted a DNE (DO NOT EXERCISE) message to their broker**\n\nThis means that there is no buyer for those shares. The buyer of the 902.50 has the option to buy those shares at 902.50 but chose not too. Now its up to the OP to dump the shares to someone else. Thankfully the market popped a bit. If the overnight market did not exist, RH would auto dump his shares in the market open and he'd be in the hole for the difference between $900,000 and what the market gave him (say $895,000 if NVDA opened up at $895).\n\nSo the lesson when selling a contract and hoping the person takes possession is know they only have the option not the obligation and this is why you generally close any position before expiration, because if you don't then you are hoping that the market pops AND you have a chance to unload BEFORE the brokerage beats you to it and dumps you on the market.",
+                  "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxjcdni/",
+                  "created": 1711976173,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "kxi3pa4",
+              "score": 19,
+              "body": "Robinhood has trading on a Sunday at 8pm?",
+              "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxi3pa4/",
+              "created": 1711946887,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "kxih3e6",
+                  "score": 9,
+                  "body": "Certain stocks are on their 24-hour marker.  NVDA is one of them",
+                  "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxih3e6/",
+                  "created": 1711955997,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "kxhw5v6",
+              "score": 4,
+              "body": "How to prevent assignment risk like this when dealing with spreads?",
+              "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhw5v6/",
+              "created": 1711942797,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "kxi2lk3",
+                  "score": 17,
+                  "body": "Sell them before they expire",
+                  "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxi2lk3/",
+                  "created": 1711946249,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "kxifc34",
+              "score": 4,
+              "body": "> lucky tonight when Robinhood resumed trading at 8pm\n\nhow is robinhood trading at 8pm on a sunday?",
+              "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxifc34/",
+              "created": 1711954668,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "kxjhxa8",
+                  "score": 6,
+                  "body": "\"To make the 24 Hour Market a reality, Robinhood partnered with Blue Ocean ATS, LLC, a US broker dealer which operates the alternative trading system BOATS.\"",
+                  "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxjhxa8/",
+                  "created": 1711978579,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kxho87b",
+          "score": 69,
+          "body": "I don’t see the issue. A true regard through and through.",
+          "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxho87b/",
+          "created": 1711939076,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kxhx2lv",
+              "score": 4,
+              "body": "I regard this regarded brotherhood.",
+              "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhx2lv/",
+              "created": 1711943255,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "kxhpius",
+          "score": 16,
+          "body": "I've been here for about a month and the number of people doing \"plays\" that have much worst odds than \"The Roulette\" is insane.",
+          "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhpius/",
+          "created": 1711939649,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "kxhxk3f",
+          "score": 7,
+          "body": "He’s not risking 900k, but he is assigned shares that he can’t afford overnight, so if the market gapped down the next day he would be forced to liquidated by robinhood and owe them the difference. So if it opened at 880 and they liquidated him he would owe them 20k.",
+          "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhxk3f/",
+          "created": 1711943502,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "kxkmzxt",
+          "score": 4,
+          "body": "It was never about the money.",
+          "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxkmzxt/",
+          "created": 1711992988,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "kxkat3r",
+          "score": 3,
+          "body": "\"So you’re risking about 900k to make $500? And you got lucky and made $7k, am I getting this right?\" You forgot, \"and then contained about it\"",
+          "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxkat3r/",
+          "created": 1711988922,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "kxi0qzb",
+          "score": 4,
+          "body": "Well he just lost 1.4% of that $500 to regulatory fees",
+          "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxi0qzb/",
+          "created": 1711945210,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "kxh9l7e",
+      "score": 108,
+      "body": "congrats fucker",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxh9l7e/",
+      "created": 1711932950,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kxhbwsd",
+          "score": 88,
+          "body": "I imagine the guy who didn’t execute on Thursday must be pissed today…",
+          "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhbwsd/",
+          "created": 1711933889,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kxilkvk",
+              "score": 28,
+              "body": "I'm sure he's just a regard buying calls without a clue and didn't execute because he doesn't happen to have 900k extra dollars in his trading account.",
+              "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxilkvk/",
+              "created": 1711959453,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "kxjgsew",
+                  "score": 6,
+                  "body": "Understood. Not having 900k extra dollars in his trading makes him a regard.",
+                  "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxjgsew/",
+                  "created": 1711978112,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "kxk64ux",
+                      "score": 2,
+                      "body": "I would say getting a 900k margin call makes you a regard. if you know what you're doing close out your spread.",
+                      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxk64ux/",
+                      "created": 1711987330,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "kxjt58g",
+                  "score": 2,
+                  "body": "It's possible that this guy had some call spread too and only one leg was executed so he was stucked in the same situation as an OP",
+                  "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxjt58g/",
+                  "created": 1711982809,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kxhhby2",
+      "score": 42,
+      "body": "I would be so embarrassed to get “Stonks 101” from RH customer support. Not as embarrassed as looking up the price of Dogecoin on February 13, 2022 for my tax lady to help prove I lost $3,000. But still… I didn’t nearly GUH myself to death.",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhhby2/",
+      "created": 1711936120,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kxhuecp",
+          "score": 5,
+          "body": "RH customer service is pretty condescending too",
+          "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhuecp/",
+          "created": 1711941922,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kxia0yg",
+              "score": 39,
+              "body": "I would be too if I worked for a casino and had to constantly explain how the slot machine someone just played worked",
+              "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxia0yg/",
+              "created": 1711950883,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "kxk1mox",
+                  "score": 3,
+                  "body": "Not to mention the constant smell of urine and people bitching about not seeing a server in a year.",
+                  "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxk1mox/",
+                  "created": 1711985786,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "kxhzrkq",
+              "score": 18,
+              "body": "As they should be",
+              "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhzrkq/",
+              "created": 1711944670,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "kxivydq",
+              "score": 6,
+              "body": "Eh, in the screenshots you posted I thought they were actually pretty good in explaining everything to you",
+              "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxivydq/",
+              "created": 1711967132,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kxhbzbt",
+      "score": 34,
+      "body": "Congrats on not going GUH all the way.",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhbzbt/",
+      "created": 1711933917,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxiim3p",
+      "score": 19,
+      "body": ">a profit of $7.62 per stock\n\nDoesn't know the difference between shares and stocks, doesn't know DNEs exist, makes money anyway.\n\nGood job, keep up the good work!",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxiim3p/",
+      "created": 1711957174,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxhokju",
+      "score": 15,
+      "body": "good stuff bro 💥💥 maybe not do this again tho",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhokju/",
+      "created": 1711939227,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kxhtioy",
+          "score": 11,
+          "body": "Someone said I can do 3x next week lmao",
+          "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhtioy/",
+          "created": 1711941492,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "kxhccpf",
+      "score": 28,
+      "body": "I'm a bit challenged by this.. How can you end up owing money if you both sold the calls and bought protection? Can you explain this one more time for the people in the back?",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhccpf/",
+      "created": 1711934067,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kxhcyej",
+          "score": 26,
+          "body": "The guy who bought the calls put in an order to Do Not Exercise when the contract expired, leaving the seller (OP) with the 1000 shares.",
+          "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhcyej/",
+          "created": 1711934312,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kxhfjfn",
+              "score": 5,
+              "body": "Why though? He lost money on the calls",
+              "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhfjfn/",
+              "created": 1711935381,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "kxhjk1f",
+                  "score": 38,
+                  "body": "By buying the 900c and selling the 902.5c they bought the right to buy shares at $900 and sold the obligation to sell shares at $902.50. Even though they \"lost money\" on the value of the 902.50 contract, both contracts were taken to expiration so they still owned a position that allowed them to buy shares at $900 and sell them at $902.50, and the contract values are irrelevant. \n\nBut in OPs case they never received assignment to actually sell the shares automatically but their $900c still exercised, so they ended up owning them outright which incurred an account deficit. Luckily, NVDA climbed when 24hr market opened and allowed them to be sold for profit. Very, VERY lucky situation. \n\nThis is why, unless deep in the money, even debit spreads should be closed for profit before market close on the date of expiration.",
+                  "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhjk1f/",
+                  "created": 1711937049,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "kxhkauf",
+                      "score": 7,
+                      "body": "I understand that, but what did the owner of the 902.5 C do with them? Did he just throw the money away?",
+                      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhkauf/",
+                      "created": 1711937366,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "kxhkr15",
+                          "score": 11,
+                          "body": "Correct. At 4pm the 902.50 was in the money. Between market close and the 5:30pm deadline for long holders to make their final decision it fell out of the money and made no sense to exercise.",
+                          "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhkr15/",
+                          "created": 1711937559,
+                          "depth": 5,
+                          "replies": []
+                        },
+                        {
+                          "id": "kxhtt40",
+                          "score": 7,
+                          "body": "You can place a do not exercise order. It could have been some degenerate gambling on NVDA mooning at the last minute. When that didn’t happen, they were left with exercising calls for $900k and minimal profit. Probably didn’t feel like it was worth the risk or they didn’t have the capital.",
+                          "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhtt40/",
+                          "created": 1711941632,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "kxkbknf",
+                      "score": 1,
+                      "body": "isn't RH supposed to sell them at closing price on the expiry date?",
+                      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxkbknf/",
+                      "created": 1711989180,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "kxhtth0",
+                  "score": 12,
+                  "body": "Because the 902.5c buyer didn't have $903k to exercise the order.",
+                  "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhtth0/",
+                  "created": 1711941637,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "kxhuv8q",
+                      "score": 3,
+                      "body": "He should have sold before close then",
+                      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhuv8q/",
+                      "created": 1711942150,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "kxhvdr0",
+                          "score": 3,
+                          "body": "Agreed. Full disclaimer though- IMO trading 0DTE options NTM is playing with fire.",
+                          "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhvdr0/",
+                          "created": 1711942403,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "kxhxssb",
+                              "score": 2,
+                              "body": "What’s NTM?",
+                              "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhxssb/",
+                              "created": 1711943625,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "kxi9wji",
+                                  "score": 2,
+                                  "body": "Near the money",
+                                  "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxi9wji/",
+                                  "created": 1711950798,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "kxj0ih9",
+                                      "score": 1,
+                                      "body": "Yeah, better trade OTM",
+                                      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxj0ih9/",
+                                      "created": 1711970051,
+                                      "depth": 8,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "kxi01ic",
+                      "score": 2,
+                      "body": "usually the broker wouldve closed it out for him....",
+                      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxi01ic/",
+                      "created": 1711944819,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "kxiajhl",
+                  "score": 1,
+                  "body": "Might've not even done a DNE, like option liquidation is a process that takes time (and it happens roughly between 5-5:30 EST generally but depending on volume it could exceed this time window), it is possible for an execution to literally miss timing when it's trading right around the strike price because it might be just out of the money right the very moment when whatever program over at a clearing house tries to liquidate it. No, it doesn't take a snapshot at market close which calls to execute, it literally does it on the fly using after hours prices.",
+                  "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxiajhl/",
+                  "created": 1711951235,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "kxio9fi",
+                  "score": 1,
+                  "body": "Because NVDA was traded below 902.5 in after hour. Some brokerage allows holders of the option to submit the request to exercise or not for some duration after market closing",
+                  "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxio9fi/",
+                  "created": 1711961539,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "kxhi7oq",
+              "score": 2,
+              "body": "Still confused about where the shares came from. Did the broker exercise his long call while failing to exercise his short call because the buyer had a \"do not exercise\" clause or something?",
+              "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhi7oq/",
+              "created": 1711936481,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "kxhkanb",
+                  "score": 8,
+                  "body": "The long got exercised automatically by RH because it was ITM, the short wasn't because the buyer decided not to exercise.\n\nRemember here, in the world of options, the buyer always gets to decide if an option is exercised or not. For convenience, your broker will do it automatically for anything that's 0.01$ ITM but someone may believe that the price will drop since now and the next morning and decide not to exercise. They could also exercise an OTM option if they wanted to.\n\nMoral of the story, always buy back your shorts, don't let them expire.",
+                  "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhkanb/",
+                  "created": 1711937364,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "kxhmkfc",
+                      "score": 5,
+                      "body": "Thanks, I think I understand what happened. His long was exercised automatically because it was ITM, but his short was not, even though it too, was ITM, because the buyer didn't want to exercise at market close.\n\nHow can one prevent a situation like that when selling credit spreads?",
+                      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhmkfc/",
+                      "created": 1711938341,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "kxhoets",
+                          "score": 8,
+                          "body": "Close your positions before market close. Sell the long and buy back the short.",
+                          "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhoets/",
+                          "created": 1711939156,
+                          "depth": 5,
+                          "replies": []
+                        },
+                        {
+                          "id": "kxhoyom",
+                          "score": 5,
+                          "body": "Well, this was a debit spread actually. In both cases though this can be avoided by simply closing the position before market close. Especially in OPs case where at the time of market close all that was needed to put their short call out of the money and unassigned was a 0.075% move to the downside afterhours.\n\nThey got very lucky, not being assigned on their short call gave them a 1,000 long stock position fully exposed to a $1,000 loss per $1.00 move further downward. If Fridays news was not favorable and NVDA decided to open this evening at $875 they would be looking at an unrealized loss of $25,000 which would still be liquidated by the broker Monday morning. Instead of their max loss being limited to the size of the initial debit to enter the trade, they exposed themselves to potential losses much greater than what a debit spread should have.",
+                          "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhoyom/",
+                          "created": 1711939402,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "kxhk2ys",
+                  "score": 3,
+                  "body": "Typically, a broker will auto-exercise ITM options. The shares came from the $900 strike calls.",
+                  "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhk2ys/",
+                  "created": 1711937273,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kxia4jg",
+          "score": 4,
+          "body": "Pin risk. \n\nBasically your long call - you buy, your short strike - you sell, normally the difference between the two is generally your profit if you ride them all way out to expiration since you will buy on your long call and immediately sell on your short call. \n\nIssues arise when you're between the two strikes or if the short strike simply chooses not to execute. Now, your long calls being in the money they will get executed, so now dude was holding 1,000 shares of NVDA in a much smaller account. \n\nNow, luckily for him, NVDA did go up, so he sold those shares for a $9.62 profit per share or so, unironically making more money than the spreads would net on their own normally. \n\nSo yeah, dude was holding almost a million worth of NVDA in what's probably like a 5k account, Bill Hwang and ControlTheNarrative would both be proud for getting leveraged like 200 to 1.",
+          "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxia4jg/",
+          "created": 1711950950,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "kxi1wwt",
+      "score": 10,
+      "body": "Do you know why RH did not automatically close the position to begin with? You're short leg was barely ITM by 3 clock, and at 330 your short leg was less than a dollar ITM. I've had RH autoclose spreads that were barely ITM for what I am going to assume is pin-risk.",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxi1wwt/",
+      "created": 1711945860,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxhjqos",
+      "score": 10,
+      "body": "See not unaliving has rewards you regard!",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhjqos/",
+      "created": 1711937127,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxhw0le",
+      "score": 7,
+      "body": "At least you didnt off yourself",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhw0le/",
+      "created": 1711942723,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kxhy722",
+          "score": 4,
+          "body": "That’s always a plus",
+          "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhy722/",
+          "created": 1711943830,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "kxhfsms",
+      "score": 4,
+      "body": "Absolute regarded luck. You love to see it 📈",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhfsms/",
+      "created": 1711935489,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxhozjw",
+      "score": 10,
+      "body": "You shouldn't be allowed to make these kinds of trades when you call shares \"stocks.\"",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhozjw/",
+      "created": 1711939411,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxhzlj6",
+      "score": 4,
+      "body": "Right... so just like I said on Friday this wasn't a bad thing and you actually made money from your calls going thru (as you were able to sell them for over $909/share).",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhzlj6/",
+      "created": 1711944579,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kxhzv1w",
+          "score": 2,
+          "body": "Yeah, I got lucky that it moved 1% up and not down",
+          "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhzv1w/",
+          "created": 1711944723,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kxi03ba",
+              "score": 3,
+              "body": "Yeah, you would have been in for a real doozy if NVDA opened up at $890/share or below. Robinhood would have *definitely* liquidated your account at that point since you'd owe about $10k plus another $1k for each $1 below that in share price.",
+              "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxi03ba/",
+              "created": 1711944846,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kxi8r4a",
+      "score": 4,
+      "body": "Love this feel good wsb story, better to be lucky than smart 🙏🏽👌🏽",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxi8r4a/",
+      "created": 1711950032,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxhr7re",
+      "score": 9,
+      "body": "Wow did you go to church today",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhr7re/",
+      "created": 1711940410,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxhde6b",
+      "score": 6,
+      "body": "Gonna moon in the morning.",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhde6b/",
+      "created": 1711934491,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxhdlyd",
+      "score": 4,
+      "body": "Should have just mailed them a check for 900k",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhdlyd/",
+      "created": 1711934579,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxhxcf3",
+      "score": 3,
+      "body": "JFC",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhxcf3/",
+      "created": 1711943394,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxhcn6u",
+      "score": 5,
+      "body": "Ok I’ll be the regard who asks “how did you sell on a Sunday?”",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhcn6u/",
+      "created": 1711934184,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kxhed8r",
+          "score": 5,
+          "body": "Apparently robinhood has 24-hr trading",
+          "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhed8r/",
+          "created": 1711934890,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "kxhemep",
+          "score": 6,
+          "body": "Market is open after hours to sell shares. (Not options) if u look on ur app you'll see different stocks available to trade. Belive it opens at 630pm eastern(sunday) give or take an hour. (Closes at 5:30pm friday)",
+          "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhemep/",
+          "created": 1711934997,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "kxhe7v2",
+          "score": 5,
+          "body": "Robinhood has a 24 hour market for certain stocks. I believe it starts Sunday at 8-9pm est",
+          "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhe7v2/",
+          "created": 1711934828,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "kxhj923",
+          "score": 2,
+          "body": "Just robinhood?",
+          "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhj923/",
+          "created": 1711936918,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "kxhina2",
+      "score": 4,
+      "body": "People really think you were on the hook to lose 900k. Max loss should have been pretty minimal all things considered, its just scary to see your account get slammed for -900k which admittedly I would have probably shit myself. \n\n&#x200B;\n\nCongrats on it paying off, and of course, fuck you. \n\n&#x200B;\n\nThough you deserve a profit considering you most likely suffered a minor heart attack when you saw the deficit.",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhina2/",
+      "created": 1711936661,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kxhu3h0",
+          "score": 4,
+          "body": "A 1% down move would’ve been $9k and pretty much wiped me out but yeah, it wasn’t $900k",
+          "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhu3h0/",
+          "created": 1711941774,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kxhuj96",
+              "score": 3,
+              "body": "Yea I agree your ass was on the line for a good chunk. My point was just that it wasn't 900k. \n\nGlad it worked out in your favor though!",
+              "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhuj96/",
+              "created": 1711941988,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "kxjjftl",
+          "score": 2,
+          "body": "Profit probably wouldn't have covered his medical bill 😂",
+          "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxjjftl/",
+          "created": 1711979191,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "kxhngxz",
+          "score": 4,
+          "body": "I mean he had 1000 shares that could’ve been forcibly sold pre market so",
+          "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhngxz/",
+          "created": 1711938737,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kxhtf4s",
+              "score": 3,
+              "body": "Yea but his loss would have been the difference he was forced to sell at minus what he was forced to buy at, times 1k shares. Nowhere near 900k loss potential.",
+              "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhtf4s/",
+              "created": 1711941445,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kxhvetb",
+      "score": 4,
+      "body": "It's called pin risk and the exact reason you don't hold spreads into expiration. To avoid this exact situation.",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhvetb/",
+      "created": 1711942418,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxhbd4m",
+      "score": 2,
+      "body": "Amazing.",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhbd4m/",
+      "created": 1711933666,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxhfay8",
+      "score": 2,
+      "body": "![img](emote|t5_2th52|4267) averted.",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhfay8/",
+      "created": 1711935282,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxhh23z",
+      "score": 2,
+      "body": "Pin risk is scary on options with stock price over a few hundred dollars.",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhh23z/",
+      "created": 1711936007,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxhhrbq",
+      "score": 2,
+      "body": "Good job op.",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhhrbq/",
+      "created": 1711936295,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxhhxm0",
+      "score": 2,
+      "body": "Proud of you op",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhhxm0/",
+      "created": 1711936365,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxhrbtl",
+      "score": 2,
+      "body": "I didn't know this until this week.... I almost shit my pants not knowing if I had been even $1 in the money on anything long (not just within spreads!), I would be forced to hold a massive position overnight as RH automatically exercises for you. Lesson for all: learn the rules, ALL of them, before you play the game",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhrbtl/",
+      "created": 1711940461,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kxhw7mx",
+          "score": 2,
+          "body": "I had a 13k lesson to close all my spreads instead of letting them expire ‘OTM’.\nI got seriously screwed when LULU was announced to join the S&P500 after hours and I was suddenly short 10000 shares on Friday night. My short call got exercised 5 minutes before the deadline but they didn’t exercise my long call and just let it expire.",
+          "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhw7mx/",
+          "created": 1711942821,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kxhydyb",
+              "score": 1,
+              "body": "Absolutely brutal. That's an expensive cover.",
+              "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhydyb/",
+              "created": 1711943932,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kxhy2m5",
+      "score": 2,
+      "body": "My goodman I am happy for you, next spread on monday same time?",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhy2m5/",
+      "created": 1711943766,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxhzap6",
+      "score": 2,
+      "body": "Should cover your heart attack medical bill. Nice",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhzap6/",
+      "created": 1711944415,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxi1z3l",
+      "score": 2,
+      "body": "goddamn legendary regard move",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxi1z3l/",
+      "created": 1711945895,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxi6tuu",
+      "score": 2,
+      "body": "https://preview.redd.it/5wyuwubmysrc1.jpeg?width=3024&format=pjpg&auto=webp&s=4793821f09e55c2e7672ca51822decc4a001c705\n\nYou might want a few of these shots of Jagar after that",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxi6tuu/",
+      "created": 1711948779,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxi856d",
+      "score": 2,
+      "body": "May want to talk to someone about taxes for when tax season rolls around next year.",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxi856d/",
+      "created": 1711949627,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxiak74",
+      "score": 2,
+      "body": "24 hour trading on robinhood and Friday’s inflation data saved your life",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxiak74/",
+      "created": 1711951249,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxiczzo",
+      "score": 2,
+      "body": "So expiration dates don't matter lol",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxiczzo/",
+      "created": 1711952972,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxidtb9",
+      "score": 2,
+      "body": "They said “gladly liquidate”",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxidtb9/",
+      "created": 1711953553,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxiejpg",
+      "score": 2,
+      "body": "Congrats! Happy for you, I already thought the only spreads you’ll do in your life would be behind Wendy’s… or you’ll re-enter the country as an illegal under new name👍",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxiejpg/",
+      "created": 1711954086,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxihdz8",
+      "score": 2,
+      "body": "Insane",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxihdz8/",
+      "created": 1711956222,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxilyjr",
+      "score": 2,
+      "body": "Failed successfully",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxilyjr/",
+      "created": 1711959749,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxiwft3",
+      "score": 2,
+      "body": "Fuck you. I’m jealous",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxiwft3/",
+      "created": 1711967459,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxj19fb",
+      "score": 2,
+      "body": "Were your cheeks clenched all weekend? Not going to lie, I thought about the original post many times over the weekend. I’m glad to see you came out on top",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxj19fb/",
+      "created": 1711970496,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxj6kwm",
+      "score": 2,
+      "body": "Congratulations and fuck you.",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxj6kwm/",
+      "created": 1711973394,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxjd6hp",
+      "score": 2,
+      "body": "Enron levels of Risk Management",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxjd6hp/",
+      "created": 1711976540,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kxjj3no",
+          "score": 2,
+          "body": "😂😂",
+          "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxjj3no/",
+          "created": 1711979057,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "kxjdzir",
+      "score": 2,
+      "body": "Selling a spread without knowing DNE, then getting your naked calls exercised is peak WSB content",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxjdzir/",
+      "created": 1711976905,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxjscpg",
+      "score": 2,
+      "body": "Yeah don't do this again.  \n\nYou got lucky. \n\n😂😂",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxjscpg/",
+      "created": 1711982526,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxjwq0n",
+      "score": 2,
+      "body": "Task failed successfully",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxjwq0n/",
+      "created": 1711984079,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxkik48",
+      "score": 2,
+      "body": "They did an April fools on you ass",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxkik48/",
+      "created": 1711991525,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxkllge",
+      "score": 2,
+      "body": "You were lucky man , if the price open lower than 895 you were cooked",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxkllge/",
+      "created": 1711992529,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxkzctg",
+      "score": 2,
+      "body": "High risk low reward. Glad it worked out lol",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxkzctg/",
+      "created": 1711997082,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxhfivx",
+      "score": 1,
+      "body": "That’s interesting bc NVDA closed at 903ish Thursday…so does that mean price will open 909ish tomorrow?",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhfivx/",
+      "created": 1711935375,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kxhuoi3",
+          "score": 3,
+          "body": "https://preview.redd.it/icqnjndmesrc1.jpeg?width=1290&format=pjpg&auto=webp&s=62b2bfaca9389bfec1743c951d3ba9c419fc1c19\n\nIt changes during the night",
+          "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhuoi3/",
+          "created": 1711942059,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "kxhif5q",
+      "score": 1,
+      "body": "Wow risk to reward ratio is pretty skewed",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhif5q/",
+      "created": 1711936566,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxhkwls",
+      "score": 1,
+      "body": "Amazing!!!!",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhkwls/",
+      "created": 1711937625,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxhu61u",
+      "score": 1,
+      "body": "If I saw this on Friday I’d be on my way to Mexico to start a new life",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhu61u/",
+      "created": 1711941809,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxhx4dd",
+      "score": 1,
+      "body": "Test",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhx4dd/",
+      "created": 1711943279,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxigf46",
+      "score": 1,
+      "body": "https://preview.redd.it/yfl3ep0litrc1.png?width=1080&format=pjpg&auto=webp&s=b6f679baaccb77ea8b1923f70be9d370d7e34919",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxigf46/",
+      "created": 1711955482,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxikvy1",
+      "score": 1,
+      "body": "This is how you win",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxikvy1/",
+      "created": 1711958923,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxiptd6",
+      "score": 1,
+      "body": "It shouldn’t even do this lmao\nThis is what happened to that guy a few years back and he ended up committing suicide",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxiptd6/",
+      "created": 1711962728,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxitu86",
+      "score": 1,
+      "body": "I don´t understand this at all and that is why i dont trade with this and just watch ur guys gains and losses :D",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxitu86/",
+      "created": 1711965675,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxj0237",
+      "score": 1,
+      "body": "What does OP mean?",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxj0237/",
+      "created": 1711969777,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxj8s99",
+      "score": 1,
+      "body": "Just exit the spread 5 minutes before the close and avoid the drama.   In the meantime enjoy the windfall.  Give some to charity for karma",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxj8s99/",
+      "created": 1711974483,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxjaakz",
+      "score": 1,
+      "body": "I would have had a heart attack bro -900k is crazy",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxjaakz/",
+      "created": 1711975205,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxjecx2",
+      "score": 1,
+      "body": "Genuinely happy for you. Had a scare before too😭",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxjecx2/",
+      "created": 1711977071,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxk6fuy",
+      "score": 1,
+      "body": "These posts really freak me the fuck out. \n\nCan some ELI5? \n\nI do some smaller options trades from time to time, but I ALWAYS try and sell before expirey to avoid horror stories like this.",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxk6fuy/",
+      "created": 1711987434,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxm0iro",
+      "score": 1,
+      "body": "So there is a God after all.",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxm0iro/",
+      "created": 1712009818,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxhdnv0",
+      "score": 1,
+      "body": "How did you get the worst price on Sunday?",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhdnv0/",
+      "created": 1711934600,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxhqyqh",
+      "score": 1,
+      "body": "But why was the contract still executed for OP by RH? Doesn't the contract just expire worthless?",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhqyqh/",
+      "created": 1711940295,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kxikypi",
+          "score": 2,
+          "body": "No. OP bought debit spreads. \nHis long 900c leg was in the money and all ITM contracts automatically exercise. \n\nThe short 902.5c legs that were once ITM went out the money late after hours so they werent assigned to op. \n\nThose 902.5c ended up expiring worthless. Leaving him with the 1000 shares that auto exercised at 900.",
+          "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxikypi/",
+          "created": 1711958982,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kxiv2fr",
+              "score": 1,
+              "body": "Now I understand, thanks.",
+              "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxiv2fr/",
+              "created": 1711966525,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kxhf9el",
+      "score": 0,
+      "body": "So you netted 30k or so?",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxhf9el/",
+      "created": 1711935264,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxilkg5",
+      "score": 0,
+      "body": "You risked $900k for a lucky $7k profit bruh",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxilkg5/",
+      "created": 1711959444,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kxinq84",
+      "score": -1,
+      "body": "Has $1mill to play with.... still uses RH. \n\nFucking wild.",
+      "permalink": "/r/wallstreetbets/comments/1bsq8l9/nvda_spread_update/kxinq84/",
+      "created": 1711961127,
+      "depth": 0,
+      "replies": []
+    }
+  ],
+  "stockTickers": {
+    "post_summary": "The post discusses a profitable yet stressful experience trading NVDA options on Robinhood.",
+    "companies": [
+      "NVIDIA",
+      "Robinhood"
+    ],
+    "tickers": [
+      "NVDA"
+    ],
+    "main_ticker": [
+      "NVDA"
+    ]
+  },
+  "sentimentAnalysis": {
+    "post_summary": "User recounts a stressful but successful NVDA options trade that resulted in a $7k profit.",
+    "stock_recommendations": "The user is not explicitly recommending to buy or sell any stocks currently.",
+    "is_recommending_stock_buying_or_selling": false,
+    "buy_or_sell": "N/A",
+    "sentiment_summary": "The sentiment is neutral as the user is simply sharing their past experience with NVDA option trading and not making any recommendations.",
+    "sentiment": "neutral"
+  }
+}

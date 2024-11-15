@@ -1,0 +1,206 @@
+{
+  "title": "Why utilize a stop order instead of buying now for less?",
+  "score": 38,
+  "selftext": "A little confused about the subject of Buy Stop Orders.\n\nIf a stock is currently trading at $100, what sense is there to place a stop order at say $120, when I can just buy the stock for cheaper now? Why benefit is there for me to spend more money later once it crosses that threshold?",
+  "link_flair_text": null,
+  "id": "1dlg7gk",
+  "num_comments": 21,
+  "created_utc": 1719008064,
+  "permalink": "/r/stocks/comments/1dlg7gk/why_utilize_a_stop_order_instead_of_buying_now/",
+  "comments": [
+    {
+      "id": "l9okz1e",
+      "score": 45,
+      "body": "Specialized use cases for either buying to cover a short that is going up more than you’d like, or buying to ride a wave of momentum.\n\nhttps://www.investopedia.com/terms/b/buystoporder.asp",
+      "permalink": "/r/stocks/comments/1dlg7gk/why_utilize_a_stop_order_instead_of_buying_now/l9okz1e/",
+      "created": 1719008507,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9p31hs",
+          "score": 18,
+          "body": "Yep this is the primary reason I've used them in the past.\n\nIf you're short a stock (or a futures contract), you have to buy in order to close out your position.\n\nSay you go short at 105 - because you think it will go to 100. But you want to protect yourself just in case it makes an unexpected move up against you - so you'd place a stop market order to buy at 110.",
+          "permalink": "/r/stocks/comments/1dlg7gk/why_utilize_a_stop_order_instead_of_buying_now/l9p31hs/",
+          "created": 1719015923,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9uq3cj",
+              "score": 1,
+              "body": "You can use these for selling cash secured puts and buying back the contract before your expiration to close position early right",
+              "permalink": "/r/stocks/comments/1dlg7gk/why_utilize_a_stop_order_instead_of_buying_now/l9uq3cj/",
+              "created": 1719111668,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l9okwc7",
+      "score": 38,
+      "body": "You can use them to catch momentum\n\nPersonally I think Technical analysis (TA) is stupid but if you have a breakout point at some price, you could think if the stock reaches that price it’s likely to breakout to an even higher price\n\nSo you set your stop order to buy a little above the breakout price to catch the momenutm",
+      "permalink": "/r/stocks/comments/1dlg7gk/why_utilize_a_stop_order_instead_of_buying_now/l9okwc7/",
+      "created": 1719008477,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9oz3qg",
+      "score": 7,
+      "body": "It’s for buying a breakout that may or may not happen.\n\nBut if you don’t believe in technical analysis, “there’s nothing to see here move along”.\n\nIt’s a good chicken and egg academic question as to whether such orders actually **cause** breakouts. Hmmm….\n\nEdit: and, as others have pointed out, this order is protective if you are short the stock. no different than a sell stop if you own the stock.",
+      "permalink": "/r/stocks/comments/1dlg7gk/why_utilize_a_stop_order_instead_of_buying_now/l9oz3qg/",
+      "created": 1719014267,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9ol0oh",
+      "score": 6,
+      "body": "You are waiting to see if the stock starts moving up. \n\nLet’s say it was 105 yesterday and 100 today. Do you want to buy now and risk it falling below the $100 level and falling further. \n\nOr, do you want to say- “I will buy this stock if I see a change in momentum/direction so if it goes back to 110, it seems like it is going in the right direction again and I will buy it”. \n\nNot saying one is superior. Just explaining why some people use it.",
+      "permalink": "/r/stocks/comments/1dlg7gk/why_utilize_a_stop_order_instead_of_buying_now/l9ol0oh/",
+      "created": 1719008525,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9opkl3",
+      "score": 8,
+      "body": "Bc people are stupid\n\nIf you like a company at 200 and everything you like about it remains the same but it drops to 100 you should view it as a 50% discount\n\nBut people don’t think this way. They get fearful of further drops in price\n\nThis is partly why if you’re a long term investor you probably shouldn’t  even look at daily price movement\n\nBut regardless other peoples stupidity and fear is how you profit so be glad for it and let them be dumb",
+      "permalink": "/r/stocks/comments/1dlg7gk/why_utilize_a_stop_order_instead_of_buying_now/l9opkl3/",
+      "created": 1719010343,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9pr0on",
+          "score": 7,
+          "body": "Because day traders are not the same as value investors. If I can flip a trade 10 times, I might make more than the total price change over the same period.",
+          "permalink": "/r/stocks/comments/1dlg7gk/why_utilize_a_stop_order_instead_of_buying_now/l9pr0on/",
+          "created": 1719026499,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l9po49c",
+          "score": 0,
+          "body": "And if they buy more that fear is multiplied",
+          "permalink": "/r/stocks/comments/1dlg7gk/why_utilize_a_stop_order_instead_of_buying_now/l9po49c/",
+          "created": 1719025132,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l9psb7f",
+          "score": 1,
+          "body": "Agreed, I'm a long term investor that looks at the market prices daily and I look at drops as a time to add more to my position at a discount especially if I have immediate daily access to the company's product. Was told often to buy stocks of products you use or can access to as an average joe.",
+          "permalink": "/r/stocks/comments/1dlg7gk/why_utilize_a_stop_order_instead_of_buying_now/l9psb7f/",
+          "created": 1719027126,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l9pdu2g",
+      "score": 3,
+      "body": "Breakout trading. Not something long-term investors need to worry about. A recent example  is QQQ hit a high of 460.58 on 5/23, then pulled back for a few days. I used a buy stop order to enter a short-term trade on 6/5 when it came back up and broke the 460.58 resistance. I closed this trade for a profit on 6/17. \n*Note that breakout trading, like any strategy, does not work 100% of the time.",
+      "permalink": "/r/stocks/comments/1dlg7gk/why_utilize_a_stop_order_instead_of_buying_now/l9pdu2g/",
+      "created": 1719020544,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9own3d",
+      "score": 3,
+      "body": "Makes sense if you are shorting",
+      "permalink": "/r/stocks/comments/1dlg7gk/why_utilize_a_stop_order_instead_of_buying_now/l9own3d/",
+      "created": 1719013234,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9oxasa",
+      "score": 1,
+      "body": "There are also funds who require a certain value of the stocks they hold.",
+      "permalink": "/r/stocks/comments/1dlg7gk/why_utilize_a_stop_order_instead_of_buying_now/l9oxasa/",
+      "created": 1719013509,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9pi2s1",
+      "score": 1,
+      "body": "This is a strategy used for momentum trading. It makes for low risk entries using a tight stop loss. You’re looking for the leaders and they make new highs constantly on the way up. Different strategies work well for different people and environments. Anybody saying XX trading or investing strategy is stupid doesn’t understand that strategy.",
+      "permalink": "/r/stocks/comments/1dlg7gk/why_utilize_a_stop_order_instead_of_buying_now/l9pi2s1/",
+      "created": 1719022370,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9pzjce",
+      "score": 1,
+      "body": "For break out i use stop order on powerful move. So no level but power of the move.",
+      "permalink": "/r/stocks/comments/1dlg7gk/why_utilize_a_stop_order_instead_of_buying_now/l9pzjce/",
+      "created": 1719030928,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9t4pcc",
+      "score": 1,
+      "body": "Momentum- breakout plays.",
+      "permalink": "/r/stocks/comments/1dlg7gk/why_utilize_a_stop_order_instead_of_buying_now/l9t4pcc/",
+      "created": 1719087279,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9t7p45",
+      "score": 1,
+      "body": "This question reminds me of a great story in \"reminiscences of a stock operator\".\n\nThis may not be entirely accurate to the story, its been a while. \n\nJesse Livermore was trading agri futures, and notices a couple of men at his broker house talking about buying corn. They were arguing whether to buy 10k or 15k at the current price (around 15 cents per unit).\n\nJesse went up to the and suggested they wait until it hits 20 cents then buy all they can.\n\n\"But Jesse, why wait until 20 cents when we can buy it now and make even more on the way up?\"\n\n\"Because, my friends, neither you nor I know if it will go up or down, but once it goes to 20 cents you can be sure it will continue. You reduce some amount of speculative profits in exchange for a much safer and sure profitable trade.\"",
+      "permalink": "/r/stocks/comments/1dlg7gk/why_utilize_a_stop_order_instead_of_buying_now/l9t7p45/",
+      "created": 1719088422,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9otdmy",
+      "score": -3,
+      "body": "Gamblers who don't know what a business is worth. They just want to bet on price movements.",
+      "permalink": "/r/stocks/comments/1dlg7gk/why_utilize_a_stop_order_instead_of_buying_now/l9otdmy/",
+      "created": 1719011886,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9p5rih",
+          "score": 3,
+          "body": "How does this answer the question?",
+          "permalink": "/r/stocks/comments/1dlg7gk/why_utilize_a_stop_order_instead_of_buying_now/l9p5rih/",
+          "created": 1719017076,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9pmnc9",
+              "score": -2,
+              "body": "Wall Street caters to people who like to gamble. The fees are in the *action*. So if they want something like a stop order wall street will provide it. It doesn't matter if it's irrational. The croupier is getting paid.\n\nThe money is made in the waiting, not the buying and selling. Investors know this.",
+              "permalink": "/r/stocks/comments/1dlg7gk/why_utilize_a_stop_order_instead_of_buying_now/l9pmnc9/",
+              "created": 1719024461,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l9qc92c",
+      "score": 0,
+      "body": "I never use stops but I don’t really trade either. I think they’re a waste of time for 95% of people.",
+      "permalink": "/r/stocks/comments/1dlg7gk/why_utilize_a_stop_order_instead_of_buying_now/l9qc92c/",
+      "created": 1719038878,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

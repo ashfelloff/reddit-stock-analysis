@@ -1,0 +1,919 @@
+{
+  "title": "VIX study says bers r fuk",
+  "score": 132,
+  "selftext": "",
+  "link_flair_text": "Discussion",
+  "id": "1dwftu8",
+  "num_comments": 104,
+  "created_utc": 1720235008,
+  "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/",
+  "url_overridden_by_dest": "https://i.redd.it/j88tkevsdtad1.jpeg",
+  "comments": [
+    {
+      "id": "lbubzvz",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 10 | **First Seen In WSB** | 4 months ago\n**Total Comments** | 2763 | **Previous Best DD** | \n**Account Age** | 4 months | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbubzvz/",
+      "created": 1720235014,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lbuk1lt",
+      "score": 42,
+      "body": "Can anyone please explain in regarded terms?",
+      "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbuk1lt/",
+      "created": 1720238913,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lbuny74",
+          "score": 61,
+          "body": "Eli5 VIX is a calculation of the rolling 30 day spx option Iv. When vix is low, ie: less than 15, the general idea is there is very little implied price movements.  This study conducted a research from early 2000's to present  and found that as shown in the graph, the odds of a 2% sell off in a <15 vix is only .5% and a normal distribution (68% of the time in this case) of ±.5% daily expected move.",
+          "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbuny74/",
+          "created": 1720240984,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lbw3nkx",
+              "score": 36,
+              "body": "Key flaw…assuming normal distribution for market returns.",
+              "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbw3nkx/",
+              "created": 1720272930,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lbwrwa1",
+                  "score": 16,
+                  "body": "Normal distributions are a close enough representation as they are within eyesight of the leptokurtik returns that we actually see. Ie. Clusters near the mean and fatter tails that happen more regularly than the implied normal distribution ",
+                  "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbwrwa1/",
+                  "created": 1720282227,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lbxsjtz",
+                      "score": 6,
+                      "body": "\nI love all the crayon eating — he’s still right though. The normal distribution assumption for a market that in reality is regarded makes this mostly a coloring exercise.  A good one nevetheless",
+                      "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbxsjtz/",
+                      "created": 1720295059,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lbxtv1k",
+                          "score": 6,
+                          "body": "Normal distribution applies to daily price returns. Lognormal for historical and future returns as the market has positive drift. This excersize is used to assume probabilties of daily returns and nothing more.",
+                          "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbxtv1k/",
+                          "created": 1720295535,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lbxz5bx",
+                              "score": 2,
+                              "body": "Right — that’s why I said the coloring was worth sharing with the class, good job",
+                              "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbxz5bx/",
+                              "created": 1720297457,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lbzzycb",
+                          "score": -2,
+                          "body": ">The normal distribution assumption for a market that in reality is regarded\n\nOkay, but this itself is an assumption",
+                          "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbzzycb/",
+                          "created": 1720328280,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lbyy6c6",
+                      "score": 1,
+                      "body": "Normal distribution isn’t close at all… market returns are closer to a skewed T distribution",
+                      "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbyy6c6/",
+                      "created": 1720311105,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lbz1pt6",
+                          "score": 1,
+                          "body": "Bingo. A normal dist assumes equal probability of downside vs upside….which we clearly have learned is not true",
+                          "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbz1pt6/",
+                          "created": 1720312529,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lbz65z0",
+                              "score": 1,
+                              "body": "For daily returns it is true. ",
+                              "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbz65z0/",
+                              "created": 1720314368,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lc48mqu",
+                                  "score": 2,
+                                  "body": "Or rather, and more to the point, the action for individual days has close enough to a normal distribution that the difference is negligible",
+                                  "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lc48mqu/",
+                                  "created": 1720396773,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "lc48vql",
+                                      "score": 1,
+                                      "body": "Correct",
+                                      "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lc48vql/",
+                                      "created": 1720396872,
+                                      "depth": 8,
+                                      "replies": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "lbze9ha",
+                                  "score": 1,
+                                  "body": "Also monthly. Year. Decade. What are you trying to prove",
+                                  "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbze9ha/",
+                                  "created": 1720317857,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lbz64c8",
+                          "score": -1,
+                          "body": "Again, the study is for daily returns and so yes normal distribution is exactly right. The historical and future returns over time are a lognormal distribution because the market doesnt go negative. This study however is for daily moves and so normal distribution is used. ",
+                          "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbz64c8/",
+                          "created": 1720314348,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lbz7jqd",
+                              "score": 5,
+                              "body": "Look at the vol smile on options of any duration, it is proof that the market thinks returns aren’t normal.\n\nIf you think it is normal distributed go short a bunch of 1dte puts which you think must be overpriced",
+                              "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbz7jqd/",
+                              "created": 1720314964,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "lbyyvsx",
+                  "score": 2,
+                  "body": ":Taleb has entered chat:",
+                  "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbyyvsx/",
+                  "created": 1720311390,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lbxc7cs",
+              "score": 9,
+              "body": "Eli2 please lol",
+              "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbxc7cs/",
+              "created": 1720289278,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lbyy5ip",
+              "score": 3,
+              "body": "What fucking school did you go to where 5 year olds understand that kind of math?\n\nWe barely got GEDs after trying 4 times.",
+              "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbyy5ip/",
+              "created": 1720311096,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lbuo3nt",
+              "score": 5,
+              "body": "Thanks for the explanation 🫡",
+              "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbuo3nt/",
+              "created": 1720241068,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lbwghi7",
+          "score": 7,
+          "body": "He thinks the past reflects the future",
+          "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbwghi7/",
+          "created": 1720278030,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lbwydmg",
+              "score": 1,
+              "body": "It’s called entanglement and observer effects, and so yes it does",
+              "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbwydmg/",
+              "created": 1720284576,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lbv4z5w",
+          "score": 3,
+          "body": "We go green.",
+          "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbv4z5w/",
+          "created": 1720251674,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lbvnyd4",
+      "score": 18,
+      "body": "Buy long dated ITM VIX calls when it gets this low. It works every single time.",
+      "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbvnyd4/",
+      "created": 1720265005,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lbwx3m8",
+          "score": 9,
+          "body": "*looks at VIX chart*\n\n![img](emote|t5_2th52|4640)",
+          "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbwx3m8/",
+          "created": 1720284127,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lbwzbbk",
+          "score": 1,
+          "body": "But how long though, is there a study on it?",
+          "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbwzbbk/",
+          "created": 1720284901,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lbxrnk5",
+              "score": 9,
+              "body": "I usually buy no less than 100 days out. You’re not going to get 1000x gains. But you will win. Just take profit.",
+              "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbxrnk5/",
+              "created": 1720294735,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lbx4m7b",
+      "score": 6,
+      "body": "It's best to buy premium when the VIX is low.\n\n if you attempt to sell naked strangles or puts, you'll be underwater when VOL increases, costing loads of time, because you'll essentially be forced to roll out.\n\nOther than eating theta on the daily, it's best to just allocate a majority of capital to indices and 5%-15% on buying premium to increase delta exposure for a significantly lower cost.",
+      "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbx4m7b/",
+      "created": 1720286751,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lbx5pyc",
+          "score": 0,
+          "body": "Correct ",
+          "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbx5pyc/",
+          "created": 1720287117,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lbw1qrl",
+      "score": 20,
+      "body": "you have the exactly opposite and wrong interpretation of the data. there's a saying: \"when the VIX is low, watch out below. when the VIX is high, its time to buy\"\n\nthere's another saying: \"just because something is inevitable doesn't mean its imminent\"\n\nwhen you put these two pieces of old school wall street wisdom together, the understanding to take away is that when the VIX is low and stocks have consistently been pushing new all time high's for a while, it's time to **slowly start preparing** for either a big pullback or a crash. \n\nwhat does it mean to slowly start preparing for a pullback or crash? it doesn't mean to start selling everything off. it doesn't mean to go crazy and short everything either. what you should be doing is:\n\n1) start pulling profits regularly and consistently taking little bits of money off the table. \n\n2) start building positions in defensive positions like bonds, VIX, US Dollar or conversely start building hedge positions like very slowly buying puts or building positions in inverse ETF's\n\n3) start rotating from your tech/growth sectors into defensive sectors like utilities and healthcare so you can stay long the market but reduce your risk exposure\n\nthe weightings of long vs short in your portfolio are up to you. are you desperate for money and you need to continue taking risk right up until the last moment? or are you financially ok so you can play it a little safer and not chase gains so much? or are you older and nearing retirement so you cannot afford to lose any money and thus you have to play things even safer?",
+      "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbw1qrl/",
+      "created": 1720272092,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lbwoy6t",
+          "score": 15,
+          "body": "The VIX has been low for over 12 months. If anyone followed your advice, they'd be all cash by now and have missed most of the run up. Even those \"slowly\" preparing wouldn't take more than a year to get out.",
+          "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbwoy6t/",
+          "created": 1720281151,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lbws5n3",
+              "score": 10,
+              "body": "Correct. This guy is a regard. ",
+              "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbws5n3/",
+              "created": 1720282322,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lbwumn4",
+                  "score": 5,
+                  "body": "Not only that, if he bothered to read beyond the first sentence, he would have seen that I specifically explicitly said a knee jerk reaction selling off all your positions is precisely the wrong thing to do.\n\n\nPersonally I'm keeping a close eye on credit spreads and the 2yr yield. When these two indicators start blowing up, we will know this epic rally is coming to an end. ",
+                  "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbwumn4/",
+                  "created": 1720283233,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lbx89gx",
+                      "score": 4,
+                      "body": "Then you didn't read my comment. I didn't say anything about knee jerk reactions, did I? I said your advice to slowly start preparing is awful advice and a huge mistake. If you'd read my comment, you'd know that. \n\nYou're just using weasel words to give you an excuse to adjust your timetable post hoc. You say \"slowly\" so you can extend the sales window as long as you want. You say \"preparing\" so we can't pin you down on when to actually start selling.\n\nSell too soon? \"I said to prepare!\"\n\nSell too late? \"You were supposed to start!\"\n\nSell too fast?  \"I said slowly!\"\n\nSell too slow? \"You were supposed to get out!\"\n\nAnyone who followed your advice would be fully out by now. If you think we're going to give you the wiggle room to pretend \"slowly get out\" means taking more than a year, you're mistaken.",
+                      "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbx89gx/",
+                      "created": 1720287952,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lbww9p6",
+                      "score": 1,
+                      "body": "I am looking at correlations, specifically spx vs its top 50 underlyings as measure by COR1M, VIX vs SPX, and as you mentioned, defensives vs SPX. I noticed last friday XLV saw a good inflow and bought july/august monthly calls. Also bought calls on XLU after we saw yields spike a couple weeks ago likely from japan selling",
+                      "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbww9p6/",
+                      "created": 1720283827,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lbwyevq",
+                          "score": 2,
+                          "body": "Consider there is a CPI inflation report dropping around July 10. Also consider there is an FOMC meeting July 31.\n\n\nOil and gasoline prices rose all though June. I think the June CPI report is not gonna be favorable for the imminent rate cut narrative\n\n\nAlso the fed has outright come out and said they are not ready to cut rates yet. \n\n\nI think the higher forever narrative of the markets is gonna have more an more difficult moving forward. \n\n\nI dont think the rally is over. Far from it. I'm staying long the markets but I'm also building positions in SHY (1-3 yr treasuries) and USDU (US dollar bullish) ",
+                          "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbwyevq/",
+                          "created": 1720284588,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lbwzowk",
+                              "score": 1,
+                              "body": "Didnt he also say that employment materially weakens they are preparred to act? As of this last fridays unemployment rate and nfp negative revisions, the fed fund futures implied rate cut odds jumped drastically indicating a likely september cut and a second one in December. I suspect employment data will continue to weaken and outweigh the inflation report as energy prices are volatile and fed funds rates will have little impact on energy prices. ",
+                              "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbwzowk/",
+                              "created": 1720285033,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lbx2nhs",
+                                  "score": 3,
+                                  "body": "I agree. Cracks are starting to appear. It's the reason why I'm building positions in SHY and USDU. I also starting to slowly buy call options on VXX and TLT.  In a larger geopolitical sense, it's not that Powell absolutely does not want to cut.  Powell is just in a game of inflation chicken where he cannot cut first before the other central banks around the world. Think about it. The US relies on the strength of the US dollar to maintain financial hegemony over the world.  Powell waiting to cut until after ECB and BOE and other central banks cut first is that it will keep interest rates on the US dollar higher than other fiat currencies, keeping demand for US dollars high and allowing the US to maintain financial hegemony over the world. Once the other central banks go into crisis and are forced to cut drastically, that will give the fed all the freedom in the world to cut rates.",
+                                  "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbx2nhs/",
+                                  "created": 1720286087,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lby9vak",
+                      "score": 1,
+                      "body": "Could you elaborate on that perhaps? Why credit spreads and 2yr-yields, specifically? Seems a bit random to be honest.",
+                      "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lby9vak/",
+                      "created": 1720301402,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lc1btt7",
+                          "score": 1,
+                          "body": "there are other indicators you could look at, but these 2 metrics show some important things\n\ncredit spreads are the difference between interest rates between more risky bonds and less risky bonds. obviously you would expect to see the riskier bonds to have higher interest rates than less risky bonds. when times are good, the difference between these interest rates is not very much and stays pretty flat. when things are going wrong, and everyone is strapped for cash, people become much more risk averse and thus begin demanding a much higher interest rate for lending money to riskier bonds. so when you see the interest rate for these riskier bonds start rising quickly, and the spread blowing out, it marks a sentiment shift and behavior shift among bond investors. \n\n[https://www.longtermtrends.net/bond-yield-credit-spreads/](https://www.longtermtrends.net/bond-yield-credit-spreads/) this shows a chart of spreads between corporate bonds and treasury bonds. obviously the corporate bonds are riskier than treasury bonds. you can see from this chart that the spread has actually been decreasing as of late, so that means there is lots of money being lent to corporations, buying those bonds. well, if corporate bonds are being bought up, that means these corporate bond issuers are flush with liquidity. do you think a corporation is going to go under and go bankrupt when its flush with money? i don't think so... so when you see credit spreads flat or dropping, its generally a bullish sign for the stock markets. when you see credit spreads start to widen and blow out, it means corporations are experiencing liquidity issues and that is bearish for stocks.\n\n  \nfor 2 yr yield - its been a thing for a while that investors look at 2 yr yield and when the yield/interest rate starts dropping, its a sign that lots and lots of money is moving into 2 yr treasuries. this is done ahead of a FED rate cutting cycle. understanding that the FED cuts rates when the economy is in trouble and needs to be put on life support, that's generally a bad sign for the health of stocks if things are so bad that the FED needs to cut interest rates to support. also, if the FED is going to be printing money to buy bonds, you would want to be owning those bonds ahead of the FED buying. nobody has firepower like the FED with their money printer. so you want to be owning those assets before the FED starts buying as that firehose of money the FED will be buying with will send the price of those bonds skyrocketing.",
+                          "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lc1btt7/",
+                          "created": 1720358575,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lc1btu0",
+                              "score": 1,
+                              "body": "Our AI tracks our most intelligent users. After parsing your posts, we have concluded that you are within the 5th percentile of all WSB users.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",
+                              "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lc1btu0/",
+                              "created": 1720358575,
+                              "depth": 6,
+                              "replies": []
+                            },
+                            {
+                              "id": "lc1gbug",
+                              "score": 1,
+                              "body": "Thanks a ton for the effort and the clear explanation, mate! Really appreciate it!\n\nJust a quick follow-up on this one:\n\n>well, if corporate bonds are being bought up, that means these corporate bond issuers are flush with liquidity. do you think a corporation is going to go under and go bankrupt when its flush with money? i don't think so...\n\nNeither do I, of course. However, bond *issuers* don't receive liquidity every time their bonds are traded. They already got the cash when they issued those bonds. It's investors who hold these bonds that receive money when those bonds are traded. If spreads go up, it thus means that investors will have to be paid more to be willing to assume those risks (or, conversely, it's getting more expensive for bond holders to get the risk out of their books). At any rate, we're talking market liquidity here, not corporate liquidity. Am I wrong?\n\nAnyway, thanks again friend!",
+                              "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lc1gbug/",
+                              "created": 1720360516,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lc1krv9",
+                                  "score": 2,
+                                  "body": "*However, bond issuers don't receive liquidity every time their bonds are traded. They already got the cash when they issued those bonds.* - correct. if im apple corporation and i sell an apple corporate bond, all i care about is 2 things. 1) that someone lent me money in exchange for that bond, and 2) the interest rate that i need to pay that bond buyer back at\n\n*It's investors who hold these bonds that receive money when those bonds are traded.* - correct. if a bond investor is holding apple corporate bond, and the interest rate goes **down** while the bond is being held, the price or value of that bond goes up. the bond holder gets a capital gain.\n\n*If spreads go up, it thus means that investors will have to be paid more to be willing to assume those risks* - correct. if spreads go up, its because either the interest rate on apple corporate bond went up (or because the interest rate on treasury bond went down). in the first case of apple corporate bond interest rate going up, the bond buyer will have to be paid more for lending that money to apple. \n\n*(or, conversely, it's getting more expensive for bond holders to get the risk out of their books).* - this is interesting here. again, if a bond investor is holding apple corporate bond, and the interest rate goes **up** while he is holding them, that means the bond holder has lost money on his investment, a capital loss. so yes it means things got more expensive for that bond holder in the sense that he just lost money.\n\n*At any rate, we're talking market liquidity here, not corporate liquidity. Am I wrong?* - market liquidity and corporate liquidity kind of go hand in hand i guess. for those of us that are not Apple corporation or corporate bond investors, we don't really care about any of this. all we care about is if corporations can raise cash when they need cash, as a general sign of the health of overall markets. if interest rates on corporate bonds are low, its because there are so many people lined up around the block waiting to buy corporate bonds that they dont have to offer very high interest rates. this is a sign that corporations are not in any sort of liquidity troubles. \n\nwhen we see corporate bond interest rates rising, it means that even while corporations desperately need money, nobody is lending to them. so they have to raise the interest rate a little and see if there are any takers. if not, they have to raise interest rates a little more. and a little more and a little more, until someone is willing to take the risk to lend them money. this signals that people are not very confident in corporations ability to pay them back. at the same time, higher interest rates mean its more expensive for corporations to pay them back, so its more of a drag on the cash flow of the company moving forward. its kind of a double whammy. so the moral of the story here is that rising corporate bond interest rates is a signal of very very bad things to come.",
+                                  "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lc1krv9/",
+                                  "created": 1720362299,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "lc1krwl",
+                                      "score": 1,
+                                      "body": "Our AI tracks our most intelligent users. After parsing your posts, we have concluded that you are within the 5th percentile of all WSB users.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",
+                                      "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lc1krwl/",
+                                      "created": 1720362299,
+                                      "depth": 8,
+                                      "replies": []
+                                    },
+                                    {
+                                      "id": "lc23j49",
+                                      "score": 1,
+                                      "body": "Have another upvote, man. People like you are the reason I'm here.",
+                                      "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lc23j49/",
+                                      "created": 1720369038,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "lc3rzro",
+                                          "score": 2,
+                                          "body": "Thanks. I'm glad you found my perspective helpful. There are always regarded trolls in this sub like u/OKImHere but that's not why I'm here. Ive been a student of the game for many many years and I also manage money for a family office. I wish someone explained things to me when I was learning and coming up. So I try to share my perspective here when I can.",
+                                          "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lc3rzro/",
+                                          "created": 1720390415,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lbws7zq",
+              "score": 4,
+              "body": "Lmao they'd be \"all\" cash. That's how I know you didn't even read my comment. Haha classic reddit \n\n\nNotice my second quote was \"just because something is inevitable doesn't mean it's imminent\" but no surprise that you didn't read that far down. Hahaha the level to which people have been dumbed down is absolutely incredible. ",
+              "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbws7zq/",
+              "created": 1720282346,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lbx93u9",
+                  "score": 1,
+                  "body": "Maybe you should just quit acting like you have any idea where the market is headed and admit you don't know shit about fuck? Then we won't have to call you out on your vague prognostications.",
+                  "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbx93u9/",
+                  "created": 1720288235,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lbx9pjc",
+                      "score": 0,
+                      "body": "Lmao ask yourself what the point of reddit is, and then reread your comment. \n\n\nYou are an absolutely toxic person. ",
+                      "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbx9pjc/",
+                      "created": 1720288429,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lbxa38t",
+                          "score": -4,
+                          "body": "[removed]",
+                          "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbxa38t/",
+                          "created": 1720288555,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lc0132f",
+          "score": 0,
+          "body": "This is actually the most regarded thing I've read on this sub. \n\nThis guy said fuck your facts and statistics, trust my feelings. Countered data with old wives tales. Then spewed advice with the feverish ego of a cult leader.",
+          "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lc0132f/",
+          "created": 1720328923,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lbuq7w3",
+      "score": 16,
+      "body": "So PUTs are cheap now that Sahm Rule has been triggered?\n\n\nBears are about to get filthy rich.",
+      "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbuq7w3/",
+      "created": 1720242249,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lbv517c",
+          "score": 9,
+          "body": "Put-Call-Ratio is extremely low right now, everyone in the market has loaded up calls, which are extremely expensive if you look at the skew of many stocks.\n\nThis is a solid contra indicator. Falling stock prices will come soon.",
+          "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbv517c/",
+          "created": 1720251713,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lbv5f71",
+              "score": 15,
+              "body": "I have tried timing the top all year long with put leaps and continuely get stopped out. Until we see a material break down and Volatility climb ill be sitting on the sidelines of shorting the index. Ide rather miss a few points and be second one out the door than be the first one out and watch the premium evaporate as markets climb higher like the true regard it is.",
+              "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbv5f71/",
+              "created": 1720251983,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lbw22kf",
+                  "score": 7,
+                  "body": "Irrational longer than I can stay solvent and all that jazz",
+                  "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbw22kf/",
+                  "created": 1720272237,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lbx8ruw",
+                  "score": 1,
+                  "body": "Spy put leaps?",
+                  "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbx8ruw/",
+                  "created": 1720288127,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lbzcpzs",
+                  "score": 1,
+                  "body": "It's hard to be the second one out the door when everyone is already heading for the exits",
+                  "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbzcpzs/",
+                  "created": 1720317184,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lbw2gdh",
+              "score": 2,
+              "body": "max pain for monday is $548 for whatever that's worth. came down $1 in final 10 min before bell yesterday. ran green every day last week. needs a pullback at minimum",
+              "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbw2gdh/",
+              "created": 1720272407,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lbwpvor",
+                  "score": 7,
+                  "body": "NEEDS but this market is wild and can just run",
+                  "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbwpvor/",
+                  "created": 1720281486,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lbwollg",
+          "score": 3,
+          "body": "It's not triggered. The gap is .4. It needs to be .5",
+          "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbwollg/",
+          "created": 1720281022,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lbw3qml",
+          "score": 2,
+          "body": "It hasn’t been triggered. 4.3% unemployment is needed",
+          "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbw3qml/",
+          "created": 1720272967,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lbukpio",
+      "score": 4,
+      "body": "Unless I’m completely regarded… the VIX generally trends down. VIX measures volatility. The market is becoming less volatile while also generally trending up. So theta is the winning trend, sell call and puts?",
+      "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbukpio/",
+      "created": 1720239261,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lbunvmo",
+          "score": 7,
+          "body": "Sell puts mostly",
+          "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbunvmo/",
+          "created": 1720240945,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lbuo69r",
+              "score": 8,
+              "body": "Another study has shown, buying calls is more profitable than selling puts in low iv because the premium recieved is less. And when you do get an outside expected move to the down side your breakeven is much lower in low iv environment.",
+              "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbuo69r/",
+              "created": 1720241107,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lbvm9wk",
+                  "score": 5,
+                  "body": "Link this study mate",
+                  "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbvm9wk/",
+                  "created": 1720263970,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lbwsgy6",
+                      "score": 1,
+                      "body": "It was done by the tasty research team idk where the exact video is but you can probably dig it up on their website/youtube. Anton Kulikov was the researcher in that study",
+                      "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbwsgy6/",
+                      "created": 1720282439,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lc0vdii",
+              "score": 1,
+              "body": "risky biz",
+              "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lc0vdii/",
+              "created": 1720349626,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lbulwcy",
+          "score": 1,
+          "body": "Vix is oscillating and mean reverting. It tends to cluster in nature meaning in periods of low volatility, you tend to see more low volatility and vice versa. \n\n\nThis graph is explaining the relation to sp500 daily price movement based on the level of volatility and in periods of low volatility you are very unlikely to see large down moves. ",
+          "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbulwcy/",
+          "created": 1720239888,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lbvi099",
+              "score": 2,
+              "body": "Everything is calm until an earthquake man.\n\nI'm bullish, but once some shit happens, a major selloff rips without any warning.",
+              "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbvi099/",
+              "created": 1720261062,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lbwu8kq",
+                  "score": 1,
+                  "body": "Look at the top in every major downturn, look at correlations, like defensives vs sp 500 and you will notice the flow of money months in advance. Most people are just so bullish by the end of a bull market that they cant read the writing on the wall. They think its just a dip and it will get bought up like every other one since the rally started.",
+                  "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbwu8kq/",
+                  "created": 1720283089,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lbx9gov",
+                      "score": 1,
+                      "body": "Are you noticing the flow of money now or is it still early/mid bull run?",
+                      "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbx9gov/",
+                      "created": 1720288349,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lbxddhy",
+                          "score": 1,
+                          "body": "Not really. Friday XLV saw a good inflow, as is gold but one day doesnt make a trend. Watch XLV,XLU,GLD, and TLT. If you see big volume days with price rising and simultaneously sp500 and nasdaq showing flat or down days that is your sign. It typically plays out over 3-6 months leading into the sell off. ",
+                          "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbxddhy/",
+                          "created": 1720289665,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lc0vo5c",
+                              "score": 1,
+                              "body": "do you know any good website where watch this flows for 3 months. i saw several sources but only for daily",
+                              "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lc0vo5c/",
+                              "created": 1720349821,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lc0yajy",
+                                  "score": 1,
+                                  "body": "I just use my charting platform and look at volume, and price. If price is increasing and volume is increasing that is your sign of inflows. ",
+                                  "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lc0yajy/",
+                                  "created": 1720351492,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lbxqzhl",
+                      "score": 1,
+                      "body": "In convinced trying to call the top is the dumbest shit. Just keep some cash on hand for major pullbacks and you'll always be good.",
+                      "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbxqzhl/",
+                      "created": 1720294491,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lbunznd",
+              "score": 1,
+              "body": "I had to oscillate around two joints early before I began to revert to the mean",
+              "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbunznd/",
+              "created": 1720241006,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lbuvp6g",
+                  "score": 1,
+                  "body": "I’ve oscillated two joint before. Weed is tight",
+                  "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbuvp6g/",
+                  "created": 1720245527,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lbw3bd6",
+              "score": 1,
+              "body": "I bought 553p on July 10. Hoping it’s pull back some fridays gain",
+              "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbw3bd6/",
+              "created": 1720272781,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lbvxpki",
+      "score": 2,
+      "body": "I'm gonna buy puts harder now thanks",
+      "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbvxpki/",
+      "created": 1720270231,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lbw2o3t",
+          "score": 2,
+          "body": "I bought $551 puts for Monday when it hit $555 yesterday briefly.",
+          "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbw2o3t/",
+          "created": 1720272501,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lbw461m",
+              "score": 1,
+              "body": "Going to load up on Friday puts depending on what spy opens at on Monday. Don't like holding over the weekend",
+              "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbw461m/",
+              "created": 1720273151,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lbw4siw",
+                  "score": 1,
+                  "body": "Good luck!!!",
+                  "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbw4siw/",
+                  "created": 1720273415,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lbx3r95",
+      "score": 2,
+      "body": "Pretty colors",
+      "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbx3r95/",
+      "created": 1720286464,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lbvq3px",
+      "score": 2,
+      "body": "One of the longest stretches without a 2% drop in years. This market won't see anything but green till after the election.",
+      "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbvq3px/",
+      "created": 1720266246,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lbx01b0",
+      "score": 1,
+      "body": "isn't this a self-fulfilling prophecy?  VIX will simply... go up... if market conditions suggest more probability of a drawdown.",
+      "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbx01b0/",
+      "created": 1720285155,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lbx0fc8",
+          "score": 1,
+          "body": "The study is used to be a guide for the expected daily returns based on the VIX level. So if VIX rises, than yes the probability of a draw down also rises and should be considered whem placing trades and the direction assumption of the trade. ",
+          "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbx0fc8/",
+          "created": 1720285289,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lbx2z5u",
+      "score": 1,
+      "body": "We traded sideways from basically the beginning of 21 into 23, holding puts is just regarded.",
+      "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbx2z5u/",
+      "created": 1720286200,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lbxp9bw",
+      "score": 1,
+      "body": "nice colours bro",
+      "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbxp9bw/",
+      "created": 1720293856,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lby4rcl",
+      "score": 1,
+      "body": "That's good, because I only trade with Jahs.",
+      "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lby4rcl/",
+      "created": 1720299510,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lby6s8d",
+      "score": 1,
+      "body": "Yeah BUT the VIX isn’t just below 15 it’s 12 which is a key level suggesting extreme complacency and it’s known to bounce off this level. VIX can and will spike in real time when we do eventually see a correction. This data as an indicator doesn’t seem like it has very much reliable utility in my opinion.",
+      "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lby6s8d/",
+      "created": 1720300251,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lby85qi",
+          "score": 1,
+          "body": "Until you see a material increase in VIX, the data suggests any large downside moves are extremely unlikely. However it only takes a couple days to see vix go from 12 to 15 and 15 to 20 in which case, the statistical chance of a larger daily draw down significantly increases.\n\n\nThe Utility, or actionable usage of this data is that it makes no sense to go short with a low vix, or just because vix is low means you should go short. \n\n\nHowever coming out of a low vix environment and into a rising volatility environment does merit short exposure. \n\n\nIts important to remember the leptokurtic nature of the market. Periods of low volatility tend to last a long time and you see clustering of low volatility. As we have seen for the last 300+ days without a 2% draw down. ",
+          "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lby85qi/",
+          "created": 1720300761,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lc0w0f9",
+              "score": 1,
+              "body": "In this thread, there hasn’t been mentioned the fact that this year is a presidential election year, and seasonally, the statistics show a significant drop in the index during the summer.",
+              "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lc0w0f9/",
+              "created": 1720350049,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lbz4glj",
+      "score": 1,
+      "body": "Always had been.",
+      "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lbz4glj/",
+      "created": 1720313652,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lc1bmyv",
+      "score": 1,
+      "body": "Thx for posting, OP. My Puts feel safe and sound now.",
+      "permalink": "/r/wallstreetbets/comments/1dwftu8/vix_study_says_bers_r_fuk/lc1bmyv/",
+      "created": 1720358488,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

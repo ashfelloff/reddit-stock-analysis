@@ -1,0 +1,1545 @@
+{
+  "title": "If you think Russell 2000 will go up 40% by end of year, what call option would you buy?",
+  "score": 184,
+  "selftext": "I believe we're just starting in the rotation into small caps, and that Tom Lee is right that there's going to be a 30-40% gains in Russell 2000 (IWM) ~~by end of year~~ in 10 weeks. Lee thinks the economy is going to slow down and that \"inflation will drop like a rock.\"\n\nI know that might be controversial but that's not the part I'm looking to discuss. \n\nAssuming Russell 2000 will go up 40% ~~by end of year~~ in 10 weeks, what kind of call option would you buy here? I've sold a lot of covered calls and puts for small gains, but never bought calls before, so was wondering what the play with (like for example how much into the money would you go?)\n\n* Thank you /u/C63SAMG911 for catching my mistake.",
+  "link_flair_text": null,
+  "id": "1e9mvo2",
+  "num_comments": 169,
+  "created_utc": 1721676180,
+  "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/",
+  "comments": [
+    {
+      "id": "leflgk4",
+      "score": 232,
+      "body": "I’m going to take this prompt fairly literally - you think the price of IWM will be $300 on 1/1/2025 and want the best return. I’ll target the 1/17/2025 expiry since the 12/31/2024 expiry date has low OI and try to maximize gains given your expected price.  \n\nIn the money - 200c @ 29.1 ask, 100 at expiry for 240% gain\n\nAt the money - 220c @ 15.4 ask, 80 at expiry for 420% gain (blaze it)\n\nReasonably out of the money - 250c @ 4.7 ask, 50 at expiry for 960% gain\n\nInsanely out of the money - 280c @ 1.4, 20 at expiry for 1330% gain\n\nThe farther out of the money you go, the higher the reward for correctly timing a huge move. Of course, the likelihood of losing all your premium also goes up",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/leflgk4/",
+      "created": 1721678211,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lege55c",
+          "score": 105,
+          "body": "if OP (or Tom Lee) has a crystal ball and certain that IWM is closing above $300: debit credit spread at 295/290 for $0.14. max return $5.00 or ~3500% return. this is truly wsb insanity territory",
+          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lege55c/",
+          "created": 1721687668,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lehpy30",
+              "score": 13,
+              "body": "This sounds fun",
+              "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lehpy30/",
+              "created": 1721706258,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "leixl1j",
+              "score": 11,
+              "body": "No way, man .. wsb insanity would be sell a credit put spread something like 290/250  range for the jan expiration  and use that money to buy calls .. price above 300 .. and the puts expire worthless.\n\nwould also probably set aside some cash to buy knee pads just in case Wendy's...",
+              "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/leixl1j/",
+              "created": 1721732602,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lej95kt",
+                  "score": 3,
+                  "body": "Ok selling the 290/250 put spread is 38.5 credit. With that I could buy 30x contracts of 290c and 2x contracts of 250c, while still having $80 left over. \n\nLiterally cannot go tits up",
+                  "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lej95kt/",
+                  "created": 1721738109,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "leot1k4",
+                      "score": 2,
+                      "body": "Yep... was thinking it ticks off all the wsb check boxes \n\nI have a system/plan\nFree money. \ndiamond handing till Jan.\nHodling till Jan\nYolo to the moon\nCan't go tits up.\n\nAnd the 80 will be perfect for the knee pads.\n\nAlso, let's not forget the last bit of fine tuning to the madness that accomapanies every wsb plan... every time Iwm drops 5 bucks ..sell more put credit spread more free money.amd buy more calls",
+                      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/leot1k4/",
+                      "created": 1721818353,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lepenmw",
+                          "score": 1,
+                          "body": "I’m trying to figure out why the potential profit on this when it hits 300 is “only” 1000% or so, roughly $40k reward to $4k risk \n\nI guess things really get crazy if IWM goes to $310 and beyond",
+                          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lepenmw/",
+                          "created": 1721827941,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "lf45gny",
+                  "score": 1,
+                  "body": "I can get you a Wendy's Application behind their dumpster, since I decided to buy puts on the spy today.",
+                  "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lf45gny/",
+                  "created": 1722037669,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lf4tf8o",
+                      "score": 1,
+                      "body": "I set up put debit  put spreads 546/545 on xsp when it ran up to the 547 level... the run up to near 549 scared me a bit... but managed to close for decent gains just b4 market closed around 40 mins b4 market closed.",
+                      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lf4tf8o/",
+                      "created": 1722047661,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lego54i",
+          "score": 31,
+          "body": "Thank you sir/madam, your check is in the mail. I want to highjack this top post to mention that I misheard Tom Lee's statement -- it's even more aggressive than I thought. He didn't say \"end of year\", he said \"40% in 10 weeks\".\n\nThank you for the very informative and actionable advice.",
+          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lego54i/",
+          "created": 1721691303,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lehpomn",
+              "score": 10,
+              "body": "I might just buy a 280c just to ride with you",
+              "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lehpomn/",
+              "created": 1721706139,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lejr0uv",
+                  "score": 4,
+                  "body": "Weeeeeeeeeee!!!!!!!!!",
+                  "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lejr0uv/",
+                  "created": 1721744763,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lejsgmb",
+                      "score": 2,
+                      "body": "Got in at 1.6",
+                      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lejsgmb/",
+                      "created": 1721745247,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lejzgh8",
+                          "score": 5,
+                          "body": "1.67 for me. This is weirdly one of the nicest thing a redditor has done for me lol. Thanks for the moral support.",
+                          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lejzgh8/",
+                          "created": 1721747538,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lek07i2",
+                              "score": 4,
+                              "body": "No problem! Hope we make a lot of money",
+                              "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lek07i2/",
+                              "created": 1721747777,
+                              "depth": 6,
+                              "replies": []
+                            },
+                            {
+                              "id": "lf2wozu",
+                              "score": 2,
+                              "body": "Added some 250c today too, bigger size. Ready for it to keep cooking",
+                              "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lf2wozu/",
+                              "created": 1722021749,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lf4th0k",
+                                  "score": 2,
+                                  "body": "Sooo far so good!",
+                                  "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lf4th0k/",
+                                  "created": 1722047682,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "lehxbtn",
+                  "score": 3,
+                  "body": "Same. In it for the lols",
+                  "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lehxbtn/",
+                  "created": 1721709877,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "legpbj1",
+          "score": 13,
+          "body": "How do you do these calculations.",
+          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legpbj1/",
+          "created": 1721691740,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lehtfvk",
+              "score": 7,
+              "body": "Options calculator. You can input the contract and then it shows a bunch of plots for different prices at different points in time.",
+              "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lehtfvk/",
+              "created": 1721707917,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lej86kg",
+                  "score": 5,
+                  "body": "You can do that. I think it is probably better for someone who needs to ask this question to run through the math themselves",
+                  "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lej86kg/",
+                  "created": 1721737691,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lehpwxa",
+              "score": 5,
+              "body": "I’m just looking at the current bid / ask in the options chain to get the price. Then I take 300 - strike price = profit at expiration, convert to percentage by taking profit / price - 100%",
+              "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lehpwxa/",
+              "created": 1721706244,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lennl16",
+          "score": 2,
+          "body": "I feel validated as I bought my Jan2025 250C on IWM last week!",
+          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lennl16/",
+          "created": 1721793131,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lwctnx4",
+          "score": 1,
+          "body": "Buy the calls and sell them when you have made some good money.  Don’t hold until expiration and don’t worry about what you “could” have made.    Just make some money and be happy.",
+          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lwctnx4/",
+          "created": 1731208340,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "leficc9",
+      "score": 397,
+      "body": "Forget call options, I want to know what crack you’re smoking?",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/leficc9/",
+      "created": 1721677225,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lefm7jt",
+          "score": 96,
+          "body": "Small caps can run very, very hard. Look at the annualized returns of small caps from 1975-1983. It’ll make your head spin.",
+          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lefm7jt/",
+          "created": 1721678447,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lefsyyh",
+              "score": 55,
+              "body": "It's worth noting that during that time, both inflation and the federal funds rate were very high, with rates rising from 5% to as high as 19%.\n\nIn contrast, today interest rates are around 5%, but they're expected to decline.\n\nWith that said, Small caps, especially value stocks, are very cheap compared to large caps.\n\nAlso:\n>returns from 1926-2021. Small cap stocks outperformed large cap stocks 11.99% to 10.35%. But basically all of that premium came in one nine year window between 1975 and 1983 when small cap stocks were up more than 1,400% in total. Small caps outperformed large caps 35.3% to 15.7% per year in that time. Take away that outlier and the long-run returns are much closer.1\n\n>One explanation for the strong outperformance during that period was the enactment of the Employee Retirement Income Security Act (ERISA) by Congress in 1974, making it far easier to pension funds to diversify into small stocks. Another was the turn of investors to buy small stocks following the collapse of the big-cap Nifty Fifty stocks earlier in the decade.",
+              "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lefsyyh/",
+              "created": 1721680566,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "legklkb",
+                  "score": 7,
+                  "body": ">  Take away that outlier and the long-run returns are much closer\n\n\nOh \n\n\nWell if we believe in the idea of the \"return to mean\" or \"return to median\" we could still be in for good times for small cap value in the near-ish future.\n\n\nBut thanks, I needed that sobering information.",
+                  "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legklkb/",
+                  "created": 1721689988,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "leggz8x",
+                  "score": 2,
+                  "body": "Skilliard in aoe 4?…",
+                  "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/leggz8x/",
+                  "created": 1721688687,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "leg14y7",
+                  "score": 4,
+                  "body": "So in other words, more than high inflation and interest rates caused the difference.  Great post!!",
+                  "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/leg14y7/",
+                  "created": 1721683168,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lehgtft",
+                  "score": 1,
+                  "body": "What constitutes as cheap is my question? Cause currently over 40% of the Russell 2000 is unprofitable right now and that stat is still increasing.",
+                  "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lehgtft/",
+                  "created": 1721702318,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "leh8o62",
+              "score": 3,
+              "body": "Yes, but for the Russell to run, they all have to run",
+              "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/leh8o62/",
+              "created": 1721699094,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lefnaqt",
+              "score": 8,
+              "body": "That's a good, level-headed read, thanks!",
+              "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lefnaqt/",
+              "created": 1721678793,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lega222",
+              "score": 5,
+              "body": "You’re right. Small caps are very volatile. But they do historically have better returns than small caps. I went risky in my 20s and did 80% large cap and 20% small cap which has paid off well from the bull run, but I have no clue how those times will change.",
+              "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lega222/",
+              "created": 1721686211,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lwcssm7",
+                  "score": 1,
+                  "body": "Small caps are better than small caps historically.  You wrote that ![gif](emote|free_emotes_pack|upvote)",
+                  "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lwcssm7/",
+                  "created": 1731208003,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "legtf3n",
+              "score": 2,
+              "body": "[deleted]",
+              "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legtf3n/",
+              "created": 1721693269,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "legtmks",
+                  "score": 2,
+                  "body": "go up a lot in a short period of time",
+                  "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legtmks/",
+                  "created": 1721693347,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "legyf0x",
+              "score": 1,
+              "body": "Look at 2020-2021",
+              "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legyf0x/",
+              "created": 1721695150,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lefj5l1",
+          "score": 29,
+          "body": "It's already up 12% in the last month, and simply going up to the ATH would be a 25% run in total. I would say that 30% to 40% is not ludicrous if it breaks ATH while the feds start cutting. I don't think it's going to run for 40% starting today, but maybe if you take the breakout a week ago as a base, doesn't look so silly.\n\nDon't forget that smallcaps are much more leveraged than the mag7, they live and die on debt. So a fed pivot will send them up much more than larger caps.\n\nLook:\n\n[Bull case](https://www.calamos.com/blogs/voices/the-feds-dovish-pivot-a-catalyst-for-sustained-small-cap-strength/#:~:text=Rate%20Cuts%20Have%20Tended%20to%20Give%20the%20Biggest%20Boost%20to%20Small%20Caps)\n\n\n\n[Bear case](https://markets.businessinsider.com/news/stocks/fed-interest-rate-cuts-small-caps-outlook-russell-2000-barclays-2024-7#:~:text=Small%2Dcaps%20historically%20decline%20before,the%20sector's%20rally%20can%20continue)",
+          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lefj5l1/",
+          "created": 1721677482,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lefkbg2",
+              "score": 2,
+              "body": "Yeah, I'd still probably say that it needs a new record before we talk meaningful longer term highs.\n\n\nReally if you're to compare to 2021, it needs to trap people by looking as if it's breaking away.",
+              "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lefkbg2/",
+              "created": 1721677854,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lefkqkx",
+                  "score": 5,
+                  "body": "I mean I'm enjoying my 30% gains in 8 trading days on IWM Leaps, you do you :)",
+                  "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lefkqkx/",
+                  "created": 1721677986,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lefok5z",
+          "score": 12,
+          "body": "High on Jpows supply",
+          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lefok5z/",
+          "created": 1721679190,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "leg6yyt",
+          "score": 4,
+          "body": "Right? A 40% move would be massive ",
+          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/leg6yyt/",
+          "created": 1721685132,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lefjzhv",
+          "score": 8,
+          "body": "I'm not going to lie, Lee is generally ultra optimistic. But he's also right a lot and I do think inflation is going to drop quickly.",
+          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lefjzhv/",
+          "created": 1721677747,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lefn6u6",
+              "score": 20,
+              "body": "Man... Tom Lee has been right on so many things lately. He called for the market to go up post-COVID when everybody said the economy was going to crash completely.\n\nI think we going to see a rotation into small caps. Not that the large caps will fall, but more that small caps are going to outperform large caps significantly.",
+              "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lefn6u6/",
+              "created": 1721678757,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "leic018",
+                  "score": 2,
+                  "body": "Nah bro was hard wrong going into the late 2022-2023 crash",
+                  "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/leic018/",
+                  "created": 1721718567,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lwct1og",
+                  "score": 1,
+                  "body": "Who says his birth name was not “Tom” or even “Thomas”?",
+                  "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lwct1og/",
+                  "created": 1731208103,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lege5nd",
+                  "score": -3,
+                  "body": "Is he ever bearish ? Gotta watch out for that signal",
+                  "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lege5nd/",
+                  "created": 1721687673,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "legpq7c",
+                      "score": 3,
+                      "body": "Not really. He has said it’s part of his job to provide a bullish perspective while others are bearish. He looks for reasons the glass is half full.",
+                      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legpq7c/",
+                      "created": 1721691892,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "legqv8z",
+          "score": 1,
+          "body": "Not crack. Just watching Tom Lee as he just said it recently. It’s based on what essentially is a change in fundamentals, a news event and a short squeeze. Good bet imo",
+          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legqv8z/",
+          "created": 1721692320,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lefir4r",
+      "score": 76,
+      "body": "If you are certain, buy the most amount of calls you can afford as close to your expected strike price.  If you are right, you will be rich.  Make sure to post your position.  And don’t bet more than you are willing to lose because there is no such thing as a sure thing.",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lefir4r/",
+      "created": 1721677355,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lefjtk6",
+          "score": 20,
+          "body": "> buy the most amount of calls you can afford as close to your expected strike price\n\nThank you sir you are both kind and informative. In terms of timing, should I go for November or December? (Lee said end of year but wasn't very specific).",
+          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lefjtk6/",
+          "created": 1721677694,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lefkkal",
+              "score": 46,
+              "body": "January. That way if you're wrong you'll know for certain and can't use a 'the expiration wasn't far out enough' type excuse.",
+              "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lefkkal/",
+              "created": 1721677932,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "leglgmv",
+                  "score": 8,
+                  "body": "Thank you. As another user pointed out, I mis-heard what Tom Lee said. He didn't say end of the year, he said 40% in 10 weeks. Just FYI for others reading.",
+                  "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/leglgmv/",
+                  "created": 1721690298,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lefl31z",
+              "score": 21,
+              "body": "If you're expecting end of the year you should probably go for like Feb of next year. Predictions are dogshit to begin with, expecting them to be both correct & on time is like winning 2 lotteries.",
+              "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lefl31z/",
+              "created": 1721678094,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "leglh2z",
+                  "score": 3,
+                  "body": "Thank you. As another user pointed out, I mis-heard what Tom Lee said. He didn't say end of the year, he said 40% in 10 weeks. Just FYI for others reading.",
+                  "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/leglh2z/",
+                  "created": 1721690303,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "legmhfz",
+                      "score": 8,
+                      "body": "Oh that’s an even more restrictive position. My statement stands. There’s two parts to winning. Picking the right movement and picking the right time. If you really believe in the movement, give yourself more time.",
+                      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legmhfz/",
+                      "created": 1721690669,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "legprby",
+                          "score": 0,
+                          "body": "Thank you for explaining so many of these things. So you're saying the growth may take a lot longer than 10 weeks, so I should buy it a bit further out in the future just in case? e.g. instead of buying expiration date 10 weeks, it's better at say 17 weeks?",
+                          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legprby/",
+                          "created": 1721691903,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "leh99lk",
+                              "score": 3,
+                              "body": "Of course anything can go wrong - growth may take a lot longer, growth might not hit exactly what you expect, etc. Buying longer dated calls and more in the money calls are ways to hedge against these \"what ifs\". The shorter you go, the more out of the money you go, the riskier your position.",
+                              "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/leh99lk/",
+                              "created": 1721699325,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "leh6gb2",
+                      "score": 2,
+                      "body": "RemindMe! 10 weeks",
+                      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/leh6gb2/",
+                      "created": 1721698231,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "leh6l8u",
+                          "score": 2,
+                          "body": "I will be messaging you in 2 months on [**2024-10-01 01:30:31 UTC**](http://www.wolframalpha.com/input/?i=2024-10-01%2001:30:31%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/leh6gb2/?context=3)\n\n[**8 OTHERS CLICKED THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Fstocks%2Fcomments%2F1e9mvo2%2Fif_you_think_russell_2000_will_go_up_40_by_end_of%2Fleh6gb2%2F%5D%0A%0ARemindMe%21%202024-10-01%2001%3A30%3A31%20UTC) to send a PM to also be reminded and to reduce spam.\n\n^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%201e9mvo2)\n\n*****\n\n|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|\n|-|-|-|-|",
+                          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/leh6l8u/",
+                          "created": 1721698284,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "leg1orh",
+              "score": 7,
+              "body": "If you're just gonna do what other people tell you to do with no real thought behind it, does it even matter?",
+              "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/leg1orh/",
+              "created": 1721683351,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lefkm3s",
+              "score": 4,
+              "body": "Try December for a better time frame. You have some time to recover if it shits the bed",
+              "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lefkm3s/",
+              "created": 1721677948,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "leglhn8",
+                  "score": 2,
+                  "body": "Thank you. As another user pointed out, I mis-heard what Tom Lee said. He didn't say end of the year, he said 40% in 10 weeks. Just FYI for others reading.",
+                  "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/leglhn8/",
+                  "created": 1721690309,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lefr94l",
+              "score": 4,
+              "body": "Can you post where he said end of year? He said end of summer from where I watched.",
+              "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lefr94l/",
+              "created": 1721680023,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "legl2yj",
+                  "score": 4,
+                  "body": "Sh*t, you're right. I was thinking of an older video. In the newest video you're referring to, he said 40% in 10 weeks (i.e. end of summer). My apologies.",
+                  "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legl2yj/",
+                  "created": 1721690161,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "legm8ez",
+                      "score": 3,
+                      "body": "Np, just checking if you saw something different.",
+                      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legm8ez/",
+                      "created": 1721690577,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lehxsly",
+              "score": 2,
+              "body": "November December and January weighted more towards December",
+              "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lehxsly/",
+              "created": 1721710125,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lefnaf6",
+      "score": 18,
+      "body": "If you think it’s gonna rally 40% buy a call 20% or so OTM",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lefnaf6/",
+      "created": 1721678790,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "legemhw",
+          "score": 3,
+          "body": "I was think thread was about individual tickers. But if thread is about buying IWM not sure what point of thread is. OP answered their own question.\n\nWould have been more exciting to actually see some tickers thrown out there since every thread large caps are upvoted to top.",
+          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legemhw/",
+          "created": 1721687840,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "leflkgo",
+      "score": 14,
+      "body": "OP, I am holding three long-dated IWM calls, one I bought ATM on the day following the breakout, one with the strike closest to ATH, and one at 270, which I believe is more realistic than +40%.\n\nAll three have performed very well in the past two weeks, and today seems like a good opportunity to buy the dip, as it seems we've found buyers. Keep in mind that the Bank of Canada will likely cut on Wednesday, this should fuel expectations for the Fed to do the same.\n\nRegional banks, utilities, biotech, renewables, industrial, heavy machinery, etc... all of those sectors are heavily represented in the R2000 and are expected to benefit from looser financial conditions.\n\nNot financial advice, just my own thinking.",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/leflkgo/",
+      "created": 1721678245,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "legm1zb",
+          "score": 4,
+          "body": "Thank you it makes me feel better knowing others are also thinking about the same strategy (although you are obviously more advanced and spotted the play earlier).\n\nAs another user pointed out, I mis-heard what Tom Lee said. He didn't say end of the year, he said 40% in 10 weeks. \n\nIf you were to buy IWM calls today, what date would you use? Like week 9? Week 11? Do we time it before or after the peak of 40%?",
+          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legm1zb/",
+          "created": 1721690512,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "legmwn3",
+              "score": 5,
+              "body": "I hold February expirations (seasonality and safety). I don't plan to hold them to expiration. I don't feel comfortable buying anything with the expiration under 6 mths away and I don't buy options too often. But I am bullish on this play so I made the move.\n\nSet yourself a take profit  target date and/or gain, and don't look back. Don't chase a ten bagger, lock in your profits after you've achieved your objectives. Then you can look for the next opportunity. Also, probably wise to cut your losses if you're down and close to expiration. Theta decay will rip you to shreds I'd things are going the wrong way.\n\n\nAnyway that's how I do it. To note: I only allocate about 10% of my portfolio to this strategy. I rebalance when I take profits, but the amount I use for those swing trades has grown a fair bit over the last year.",
+              "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legmwn3/",
+              "created": 1721690825,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "legp88v",
+                  "score": 2,
+                  "body": "Thank you this is very sage advice. I appreciate it. 10% sounds like a lot, although I'm just a newbie so maybe that's why it sounds like a lot. Best of luck to you.",
+                  "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legp88v/",
+                  "created": 1721691707,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "legusxy",
+                      "score": 2,
+                      "body": "I'm in my early 30s so I don't mind risking it. 5% is probably smarter 😂\n\n10% of my portfolio isn't all that much money anyway, I'm no whale. I have to be careful with my risk tolerance. Gains have been so easy since the start of the year that I am probably my own worst enemy.",
+                      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legusxy/",
+                      "created": 1721693785,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "leho3vr",
+                          "score": 2,
+                          "body": "Ha ha I know what you mean. I'm rooting for you buddy.",
+                          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/leho3vr/",
+                          "created": 1721705429,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "legvxe6",
+                      "score": 1,
+                      "body": "I just checked again and it's closer to 5%.",
+                      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legvxe6/",
+                      "created": 1721694212,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lefru9w",
+      "score": 10,
+      "body": "I have IWM 260c, Oct/Nov/Dec. 100, 100, 30 contract each. built those when IWM was around 200. up big time. A lot of doubters out there. I think it will print 300+",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lefru9w/",
+      "created": 1721680209,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "leh3qwu",
+          "score": 3,
+          "body": "dang nice, I got 4 260c for Jan lol, didn't have the balls to go in deep",
+          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/leh3qwu/",
+          "created": 1721697191,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "legm3io",
+          "score": 2,
+          "body": "I wish you the best of luck sir.",
+          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legm3io/",
+          "created": 1721690527,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lehd7w5",
+      "score": 6,
+      "body": "If Tom Lee is right, the kre would be the play.  Because of the make up of the the russell, small and mid cap banks make up a huge percentage of the index.  So if russell is going to moon then kre is going to mars.",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lehd7w5/",
+      "created": 1721700880,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lefr9as",
+      "score": 5,
+      "body": "I’m currently holding 22 Calls of $220 IWM 1/17/2025, I’ve been trading IWM for a few years now and everything is pointing to a solid rally in the coming months. I was up 600% on some IWM LEAPS back in December but held for a bit too long and sold for 300% profit after some bad inflation data. Friday will be the catalyst to meet ATH if PCE comes in good. But if it data doesn’t come in great on Friday, I’ll be more risk off.",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lefr9as/",
+      "created": 1721680025,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "legmohy",
+          "score": 1,
+          "body": "Tom Lee actually said he expects 40% rally in 10 weeks (not end of year like I said wrongly in the top post). Are you worried that the rally will fizzle after 10 weeks, or perhaps Tom Lee is wrong. He didn't say 10 weeks was the top, but I just assumed it can't go up *that* much higher.",
+          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legmohy/",
+          "created": 1721690741,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "legosld",
+              "score": 3,
+              "body": "I am hoping that Tom Lee is right but I am not picking options that are earlier than the ones I already chose for the worry of Theta eating away my position too much. I think the max we would see EOY is around 320 but that would be absolutely insane if we got to those levels. I am going to be happy if we hit 240 and i’ll reassess the market when we get to 240.",
+              "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legosld/",
+              "created": 1721691545,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lefsery",
+      "score": 5,
+      "body": "TNA $50 calls Jan 16 2026",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lefsery/",
+      "created": 1721680389,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "legajj3",
+      "score": 6,
+      "body": "Could buy triple leverage Russel 2000 ETF instead.\n\nURTY Proshares Ultrapro Russel 2000 ETF fits the bill. MER of 1.11% is much lower cost than options especially considering the spread you are going have to take. \n\nhttps://www.proshares.com/globalassets/proshares/fact-sheet/prosharesfactsheeturty.pdf\n\nIt’s not the same upside as the options so if you are really willing to risk it big go for the options.",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legajj3/",
+      "created": 1721686382,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lehcze9",
+          "score": 2,
+          "body": "what about deep ITM calls on this",
+          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lehcze9/",
+          "created": 1721700785,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "legnf97",
+          "score": 1,
+          "body": "That is tempting thank you for sharing this idea.",
+          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legnf97/",
+          "created": 1721691017,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "leghrag",
+      "score": 4,
+      "body": "Don’t buy them that far otm. 20 percent otm by January should already be dirt cheap.",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/leghrag/",
+      "created": 1721688958,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "legmqdh",
+          "score": 3,
+          "body": "Thanks buddy for a clear and actionable answer.",
+          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legmqdh/",
+          "created": 1721690760,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "leg1f64",
+      "score": 5,
+      "body": "If you believe an extended rally will occur but don’t feel good about potentially losing it all in options, go with a LETF - TNA or URTY are 3x leverage on IWM.",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/leg1f64/",
+      "created": 1721683263,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "leg7lky",
+          "score": 5,
+          "body": "Yes I’ve been holding TNA since late last yr. Has been great so far.",
+          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/leg7lky/",
+          "created": 1721685345,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "leg5wpg",
+      "score": 3,
+      "body": "+40% on the IWM is $308.  I would buy the Dec20 $280s for $1. I would only do this if I really believed $300 was likely. Not possible (as it is always possible) but likely.  Option prices suggest you are the only one who believes this.\n\nNow you asked about IWM so that is what I wrote about but you would be better off buying options on the index. The tax treatment is much better on index options.",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/leg5wpg/",
+      "created": 1721684773,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "legnb19",
+          "score": 2,
+          "body": ">The tax treatment is much better on index options.\n\nWoo you're the only person who mentioned this thank you for the great tip.",
+          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legnb19/",
+          "created": 1721690974,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "leg09r6",
+      "score": 3,
+      "body": "Small cap ETF???",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/leg09r6/",
+      "created": 1721682885,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "leg1f0d",
+      "score": 3,
+      "body": "I would just buy AVUV if I were you. Stop trying to be Gordon Gekko.",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/leg1f0d/",
+      "created": 1721683261,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "legn6jt",
+          "score": 1,
+          "body": "I'm at best Donnie Azoff on my best day.",
+          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legn6jt/",
+          "created": 1721690928,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "legpu2v",
+      "score": 3,
+      "body": "First investing advice I ever got was from my grandfather. \n\nHe said: Anybody who has a hot tip for you is trying to sell you something. Otherwise he would be borrowing money from you to invest himself.",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legpu2v/",
+      "created": 1721691932,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lefl570",
+      "score": 4,
+      "body": "Don’t be greedy",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lefl570/",
+      "created": 1721678113,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "legmu21",
+          "score": 4,
+          "body": "Best advice ever probably.",
+          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legmu21/",
+          "created": 1721690799,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lefijbz",
+      "score": 6,
+      "body": "Biotech may catch a pretty solid bid if we get a couple rate cuts this year. Very beaten down sector with plenty of opportunities in the future. Having said that, stay away from the companies that don’t have legit pipelines already.",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lefijbz/",
+      "created": 1721677287,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lefk47i",
+          "score": 0,
+          "body": "Do you have any personal picks?",
+          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lefk47i/",
+          "created": 1721677789,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lefk5vq",
+              "score": -10,
+              "body": "Nope. DYOR",
+              "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lefk5vq/",
+              "created": 1721677804,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "legmdkw",
+                  "score": 1,
+                  "body": "Assuming the standard caveats of DYOR, this is not financial advice, and this is just personal opinion, I'm still curious what biotech companies you like. I just like having starting points to see what's interesting out there. No worries on betting my mortgage on your pick I promise.",
+                  "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legmdkw/",
+                  "created": 1721690629,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "legf1h5",
+                  "score": 1,
+                  "body": "What an ass",
+                  "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legf1h5/",
+                  "created": 1721687987,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "legf5a4",
+                      "score": -1,
+                      "body": "For giving him the best possible advice that one could give? Ok lol",
+                      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legf5a4/",
+                      "created": 1721688025,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "legmfc4",
+                          "score": 3,
+                          "body": "$DYOR isn't even listed! (j/k)",
+                          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legmfc4/",
+                          "created": 1721690647,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lefq5u7",
+      "score": 2,
+      "body": "Why not start selling puts and wheel it",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lefq5u7/",
+      "created": 1721679680,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "legmyji",
+          "score": 2,
+          "body": "What? Solid gains without the anxiety? What am I, a responsible person?\n\nReal answer is I do some wheels already but I'm trying to see if I can make a big gain on a high conviction bet.",
+          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legmyji/",
+          "created": 1721690845,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lefw51h",
+      "score": 2,
+      "body": "AVUV - a small cap value ETF",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lefw51h/",
+      "created": 1721681561,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "leg9npz",
+      "score": 2,
+      "body": "40% is a huge return by end of year. Small caps have historically done better than large caps and do well during the beginning of a bull market and if rates start to cut, but 40% is massive. I wouldn’t count on that.",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/leg9npz/",
+      "created": 1721686069,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "legtpu6",
+      "score": 2,
+      "body": "Who said 40% ?",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legtpu6/",
+      "created": 1721693380,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "legzkey",
+          "score": 1,
+          "body": "Tom Lee… lol",
+          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legzkey/",
+          "created": 1721695586,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "leh9w0a",
+      "score": 2,
+      "body": "If you expect such a major move on such a short timeframe buying calls isn't the best play. Ratios spreads are going to be much better.",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/leh9w0a/",
+      "created": 1721699569,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lehm8aw",
+      "score": 2,
+      "body": "I bought 1 305c 9/20 on iwm for fun",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lehm8aw/",
+      "created": 1721704601,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lepoag6",
+          "score": 2,
+          "body": "You should buy $TNA for the same dates as well.",
+          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lepoag6/",
+          "created": 1721831304,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lehzgsn",
+      "score": 2,
+      "body": "I bought 60 at 300c for Dec. check my posts lol \nI previously made 72K cad trading IWM options. Posted that too.",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lehzgsn/",
+      "created": 1721711034,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lefn6kz",
+      "score": 4,
+      "body": "Or… you could buy shares",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lefn6kz/",
+      "created": 1721678755,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "leg54wc",
+          "score": 7,
+          "body": "But then you'd only get 40%gains and not have the terror of possibly watching your position expire worthless, where's the fun in that. ",
+          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/leg54wc/",
+          "created": 1721684511,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "leg5bp5",
+              "score": 4,
+              "body": "Touché - I love some self-inflicted anxiety and anger",
+              "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/leg5bp5/",
+              "created": 1721684575,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "leg7d54",
+              "score": 1,
+              "body": "If he has 100k to risk he should buy 72k in shares and put 28k on red or black",
+              "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/leg7d54/",
+              "created": 1721685264,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "legmse3",
+              "score": 1,
+              "body": "> terror of possibly watching your position expire worthless\n\nThis guy options.",
+              "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legmse3/",
+              "created": 1721690781,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "legbyw8",
+      "score": 3,
+      "body": "[deleted]",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legbyw8/",
+      "created": 1721686893,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "legnh2j",
+          "score": 3,
+          "body": "Don't make me step on your Blackberry.",
+          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legnh2j/",
+          "created": 1721691035,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lefs6m9",
+      "score": 1,
+      "body": "imw",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lefs6m9/",
+      "created": 1721680317,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "leg5pf2",
+      "score": 1,
+      "body": "Where can you buy long dated calls in the UK",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/leg5pf2/",
+      "created": 1721684705,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lejeba1",
+          "score": 2,
+          "body": "Ibkr",
+          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lejeba1/",
+          "created": 1721740204,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "leg6u9k",
+      "score": 1,
+      "body": "40% is excessive but im a big VONG etf guy and it’s up nearly 20% since September 2023… so you’re not wrong",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/leg6u9k/",
+      "created": 1721685088,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "legcozw",
+      "score": 1,
+      "body": "Buying is less risky lol",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legcozw/",
+      "created": 1721687151,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "legnylf",
+      "score": 1,
+      "body": "I'm currently holding some long-calls for $IWM; \n\n\n01/17/25 $270C (5 Purchased for $86/ea., +129%) \n11/15/24 $250C (1 Purchased for $250, +13.60%) \n\n\nAccording to Tom, we could see a ~30% rip before Oct. 1st.  These would be worth thousands more than they are today. Happy hunting.",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legnylf/",
+      "created": 1721691230,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "legtx16",
+      "score": 1,
+      "body": "The trade I like will options on the Russell would be doing something like shorting the 210 IWM put. You don't have the ability to make multiples like a call that goes right but your odds of success are much higher. Typically anyone who goes long calls or puts is eventually going to blow their account up or just lose all their money \n\nIf you were going to lottery ticket though, you start looking for the best values on the January 2025 calls. Probably somewhere between 270 and 300. If any of those are really cheap that would be one way to do it but I would much rather short puts myself simply because I would rather bet on the Russell not making new lows rather than some who knows what percentage rally",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legtx16/",
+      "created": 1721693453,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "legut6u",
+      "score": 1,
+      "body": "Are You quoting Tom Lee now?",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legut6u/",
+      "created": 1721693788,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "legwjxt",
+      "score": 1,
+      "body": "I see 280 by end of year",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legwjxt/",
+      "created": 1721694447,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "leh8ybl",
+      "score": 1,
+      "body": "congrats OP for the sales! I am trying to build a SaaS for sale too. Any niche/idea you think I should get into?",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/leh8ybl/",
+      "created": 1721699204,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lei0pp3",
+      "score": 1,
+      "body": "Wow",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lei0pp3/",
+      "created": 1721711731,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lejkvs8",
+      "score": 1,
+      "body": "!remindme 6 months",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lejkvs8/",
+      "created": 1721742648,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lel5tm2",
+      "score": 1,
+      "body": "I had the same idea but you gott be 21 to do options for some reason...",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lel5tm2/",
+      "created": 1721760839,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lf43vfb",
+      "score": 1,
+      "body": "ITM Call or $3 above depending on weekly charts",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lf43vfb/",
+      "created": 1722037041,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lf5pmi1",
+      "score": 1,
+      "body": "Thanks for posting this OP, I was looking for the same okay as well and is very new to options trading too.\n\nFrom my research we will likely see above 270 by sept/oct. \n\nWhat would be the best option to buy? 270c expiring dec 31?",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lf5pmi1/",
+      "created": 1722065499,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lhbw8xc",
+      "score": 1,
+      "body": "Just purchased 13 IWM contracts of Dec 20, 2024 expiration - $255 strike - for $1.00 each at $1300 dollars, in my Roth IRA. \n\nWish me luck Reddit!",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lhbw8xc/",
+      "created": 1723233893,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "li95wmp",
+          "score": 1,
+          "body": "Just sold for $1.27 a contract! Not bad for one week! 27% gain! ",
+          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/li95wmp/",
+          "created": 1723735989,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lk0kli9",
+          "score": 1,
+          "body": "These options worth $2.12 a contract now, shoulda held woulda been more than a double! Ended up buying more last week but did the sept 20th expiration $239 strikes at .53 a contract.",
+          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lk0kli9/",
+          "created": 1724681549,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ljmul0t",
+      "score": 1,
+      "body": "Did you end up DCAing?",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/ljmul0t/",
+      "created": 1724459551,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lk0jefl",
+      "score": 1,
+      "body": "lol bought some last week before Jackson Hole and crushing it! I think we test the $224ish resistance this week and $228.60ish 52 week high zone before sept 14th. If somehow we get a 50pt basis cut instead of a 25pt this will zoom up to $235 in a heartbeat imho. P/E is still half of the S&P, pretty solid time between now and mid September to be in some IWM calls.",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lk0jefl/",
+      "created": 1724681126,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lnor2ss",
+      "score": 1,
+      "body": "Checking in the day before rate cuts, what’s everyone thinking?",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lnor2ss/",
+      "created": 1726634086,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lefkqe9",
+      "score": 1,
+      "body": "Idk something with a lot of upside that is simple and vague enough to go viral. You’re talking irrational gains you aren’t going to find a rational answer. \n\nIf you wanna profit off that upswing I’d buy diversely and hold. \n\nTbh imo if you want big returns betting on small caps winning big ur betting on large caps no longer growing, which would cause an AI bust. Id buy and hold small caps and buy a put on a stupid yolo ai company like meta or Tesla or even something just simply overpriced like wing but that’s me. Hard to short but not impossible.\n\nHonestly tho most large growth swings are from hype and stupidity and tech companies that sell vague products marketed as fix alls are way more prone to that than simple companies with obvious roles in the market. Hence why I’d buy a put in something over priced as the veil is pierced rather than buy a call for something practical. \n\nOR you could buy a call for a company that is shifting into the tech space from not being in it previously. I’d avoid start ups in this economy tho. Idk hope this comment helps. I take your comment seriously as I understand your sentiment.",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lefkqe9/",
+      "created": 1721677984,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "legnoqy",
+          "score": 2,
+          "body": "Thank you for the very reasonable advice. I'm not hoping or betting on an AI collapse, I just think money will rotate out of AI for a little bit and will probably come back in the long term. I do hold a lot of nvidia and a little AVGO which I'm not selling or even wheeling.",
+          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legnoqy/",
+          "created": 1721691115,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lefm498",
+          "score": 3,
+          "body": "Irrational gains? The market goes up 20% every single year…\n\nThe market to the date 5 years ago has gone up 16.6% every single year on average. 40% is like a good first half now",
+          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lefm498/",
+          "created": 1721678418,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lefs1xy",
+      "score": 1,
+      "body": "just buy IWM",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lefs1xy/",
+      "created": 1721680276,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "leg46mx",
+      "score": 1,
+      "body": "Id just go ahead and take delivery of some rope, you'll need it",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/leg46mx/",
+      "created": 1721684192,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "legjfui",
+      "score": 1,
+      "body": "Sells covered calls and puts, but doesn’t know how to buy a call lol. OKkkaaaaaaayyyy",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legjfui/",
+      "created": 1721689568,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lefybxc",
+      "score": 0,
+      "body": "If you think the Russell is going to go up 40 percent by the end of the year I suggest getting therapy.",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lefybxc/",
+      "created": 1721682256,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "leflqg4",
+      "score": 0,
+      "body": "Why don’t you just buy the index etf? Why options?",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/leflqg4/",
+      "created": 1721678297,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lefo8da",
+          "score": 3,
+          "body": "It doesn't sound like OP wants to hold small caps long term so buying the stock is not the best play if you look at it in terms of risk-reward. Because options would offer better returns if OPs thesis is right. If he's planning to play a 10-16 week breakout, and he's confident in his thesis, then options would yield much higher returns than holding the underlying, while being less risky. Buying IMT/ATM leaps is basically locking in a 2X leverage at the very least if this thing keeps running.\n\nSee u/paypertrade 's figures here:  \n[https://www.reddit.com/r/stocks/comments/1e9mvo2/comment/leflgk4/?utm\\_source=share&utm\\_medium=web3x&utm\\_name=web3xcss&utm\\_term=1&utm\\_content=share\\_button](https://www.reddit.com/r/stocks/comments/1e9mvo2/comment/leflgk4/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)",
+          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lefo8da/",
+          "created": 1721679090,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "legwgt1",
+      "score": 0,
+      "body": "Anyone who thinks the Russell 2000 will go up 40% in 10 weeks needs to stop smoking whatever they are smoking.  Thats not going to happen.",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legwgt1/",
+      "created": 1721694414,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "legtnoi",
+      "score": 0,
+      "body": "A bullshit call",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legtnoi/",
+      "created": 1721693358,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lehkv90",
+      "score": 0,
+      "body": "Really dumb question, celsius stock is small cap right?",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lehkv90/",
+      "created": 1721704009,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lei7lf7",
+      "score": 0,
+      "body": "Doesn’t matter. You’re gonna lose all your money anyway",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lei7lf7/",
+      "created": 1721715780,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lel2kmv",
+      "score": 0,
+      "body": "Remindme! 2 months",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lel2kmv/",
+      "created": 1721759820,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "leg8c0k",
+      "score": -1,
+      "body": "Buy a small cap that trades like a call option. For example, $STXS has enough shots on goal through end of year that it will track ( exceed ) $IWM. \n\nTrack this post and you will see Im 100% right.",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/leg8c0k/",
+      "created": 1721685598,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "legnrci",
+          "score": 1,
+          "body": "Thank you I hope so!",
+          "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/legnrci/",
+          "created": 1721691146,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "leh8glg",
+      "score": -1,
+      "body": "The Russel will take 8 years to gain 40% 😂",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/leh8glg/",
+      "created": 1721699012,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lei4kj8",
+      "score": -1,
+      "body": "Has someone been watching Tom Lee?\n\nHaha, best of luck out there though man, hopefully it prints.",
+      "permalink": "/r/stocks/comments/1e9mvo2/if_you_think_russell_2000_will_go_up_40_by_end_of/lei4kj8/",
+      "created": 1721713949,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

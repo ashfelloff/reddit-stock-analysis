@@ -1,0 +1,1510 @@
+{
+  "title": "Just learned about how magical ITM calls are and my mind is blown",
+  "score": 149,
+  "selftext": "I've always risked it with OTM because, let's be honest, the reward can be sexy. Had a big loss on Microsoft recently - my own fault, could have sold for OTM calls for c.80% gain, but broke my rules and said fuk theta...then theta fuk'd me with a c.80% loss. This has been my only major loss, still up c.150% since July 2023, so don't worry about me :)\n\nHave been researching ITM calls today and omg they seem incredible!!! Yes they are more expensive than ATM and OTM, but that's because of intrinsic value. The more the options are ITM, the higher the intrinsic value and  relatively the lower 'time premium', so therefore theta immaterially impacts the option value.\n\nGoing to buy ITM call options for Adobe next week in prep for earnings - c.25% down from the high, company still performing well (has a great moat). Understand it's down because of guidance saying performance will be weighted to h2, so q2 earnigns might have good q3 guidance (maybe?). Yea AI being a bit uneventful, but I'll take the risk. \n\nWhat has impressed me the most about ITM, is that as long as it stays at / above current share price, then I can sell for only a minor loss vs 100% loss - incredible!!!\n\nOptions calculator below, love that website!!\n\n[Long Call Calculator | Options Profit Calculator](https://www.optionsprofitcalculator.com/calculator/long-call.html)\n\np.s. let me know if my understanding is incorrect :)\n\n",
+  "link_flair_text": "Discussion",
+  "id": "1cv3iye",
+  "num_comments": 177,
+  "created_utc": 1716056195,
+  "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/",
+  "comments": [
+    {
+      "id": "l4mqq5x",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 10 | **First Seen In WSB** | 2 years ago\n**Total Comments** | 4203 | **Previous Best DD** | \n**Account Age** | 2 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4mqq5x/",
+      "created": 1716056201,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4mvz3w",
+      "score": 1252,
+      "body": "You know what'll blow your mind? Something that's so in the money there's zero theta. \n\n You should check out this thing called a stock. It's this interesting take on options with all these good attributes ",
+      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4mvz3w/",
+      "created": 1716058245,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l4n136m",
+          "score": 122,
+          "body": "As much as I think too many people use options that shouldn't, there are actually some simplistic advantages of ITM options over stock.  The biggest being risk/reward....\n\nLet's say that SPY is at 530.  You could buy the stock for 530, or a 5/24 515C for about 15.75 (.75 extrinsic).  If SPY goes up 15, you make 15 on both, but with less capital used with the option.  If SPY drops 15, you lose 15 with the stock, but only 11-13 with the option (assuming that you can sell it a bit before expiration).  If SPY drops to 500, you lose 30 with the stock, but only 15.75 with the option.",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4n136m/",
+          "created": 1716060289,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l4ny2qi",
+              "score": 260,
+              "body": "So you lose 85% of your money with the option and only 3% with the stock? That's some real wsb better risk reward there.",
+              "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4ny2qi/",
+              "created": 1716074190,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l4nz0r0",
+                  "score": 61,
+                  "body": "No.  The real WSB shit would be not having any discipline nor risk management, and putting 100% instead of 3% of your portfolio into a weekly option.  You don't let toddlers play with guns.  Most of the regards here shouldn't be playing with options.",
+                  "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4nz0r0/",
+                  "created": 1716074602,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l4nzd9l",
+                      "score": 37,
+                      "body": "Ok, but you put $100, $1000 or $10,000 into ITM options vs putting it into stocks and you'll wind up with $15, $150, or $1500 in your scenario vs $97, $970 or $9700. \n\nThat is not better \"risk reward.\" It's straight up gambling.",
+                      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4nzd9l/",
+                      "created": 1716074755,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l4odtpj",
+                          "score": 15,
+                          "body": "The point of options is you don’t have to lay out as much capital this would only be true if your option position is the same size as your shares position which would be crazy. If you’re a profitable trader with shares you can be profitable with options and vice versa making money trading is all about risk management not which product you’re trading.",
+                          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4odtpj/",
+                          "created": 1716081203,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l4qmofg",
+                              "score": 0,
+                              "body": "*spotted in the wild* hii",
+                              "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4qmofg/",
+                              "created": 1716129222,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l4rw1bb",
+                                  "score": 1,
+                                  "body": "👋",
+                                  "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4rw1bb/",
+                                  "created": 1716146373,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "l4o0lnt",
+                          "score": 17,
+                          "body": "Are you aware what sub you're on?",
+                          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4o0lnt/",
+                          "created": 1716075298,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l4o0sjs",
+                              "score": 15,
+                              "body": "I'm not against it. I'm against lying about risk reward. Go gamble and have fun, but don't pretend options are safer to play with.",
+                              "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4o0sjs/",
+                              "created": 1716075379,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "l4o2f8b",
+                          "score": 2,
+                          "body": "Well, for starters, in my scenario, if you used 100, 1000, or 10,000 in SPY stock instead of the options, you'd end up with 2.83, 28.3, or 283.",
+                          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4o2f8b/",
+                          "created": 1716076085,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l4o44eu",
+                              "score": 6,
+                              "body": "If SPY goes up or down 15, from 530, you'd be up or down 3%. You wouldn't have 3% remaining. \n\nYou wouldn't have $3 left. Thats not how math works. I'm drunk off one martini and that's not how math works.",
+                              "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4o44eu/",
+                              "created": 1716076841,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "l4o450m",
+                          "score": -6,
+                          "body": "Oof.  I just realized that you got the other part wrong too... If you use 100, 1000, and 10000 in options in my scenario, you'd end up with exactly that... 100, 1000, or 10000.\n\nIt's looking like the thing that's tricky for Vinny is math.",
+                          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4o450m/",
+                          "created": 1716076849,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l4o4el6",
+                              "score": 1,
+                              "body": "Soo you buy ITM SPY options at 530. It drops to 515 and you lose $0? Are you regarded?",
+                              "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4o4el6/",
+                              "created": 1716076968,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l4o518b",
+                                  "score": 0,
+                                  "body": "Yep... totes regarded.  Enjoy that martini, man!  I need to quit procrastinating and mow my lawn so that I can have one too.",
+                                  "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4o518b/",
+                                  "created": 1716077254,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "l4qb536",
+                          "score": -2,
+                          "body": "Any form of investing is considered gambling",
+                          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4qb536/",
+                          "created": 1716124133,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l4rk47s",
+                              "score": 2,
+                              "body": "No I don’t think that’s true. Gambling requires statistical outcome to be negative whereas investing implies the statistical outcome is positive. Crayons, gotta read the back of the label before you eat em.",
+                              "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4rk47s/",
+                              "created": 1716141837,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "l4qjdrq",
+                      "score": 2,
+                      "body": "I’m like a elon (xxl tard) playing with sweaty dynamite ![img](emote|t5_2th52|4271)",
+                      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4qjdrq/",
+                      "created": 1716127845,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "l4rjn4z",
+                  "score": 3,
+                  "body": "Yeah if you yolo like a total reguard. Options conversely to the way I and other patrons of this sub use them, are intended to reduce risk exposure not create it.",
+                  "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4rjn4z/",
+                  "created": 1716141658,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l4rlobz",
+                      "score": 1,
+                      "body": "No argument here but this guy is saying buying ITM options is a better risk reward than buying stocks because they are a fraction of the cost. Compared to just buying SPY flat out.",
+                      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4rlobz/",
+                      "created": 1716142427,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l4rm5sf",
+                          "score": 1,
+                          "body": "Which is true right. If you like at theoretical max and mins. You can still loose massively buying the stock outright especially if you leverage your position. You can get a similar leverage for significantly less max risk at the cost of theta.",
+                          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4rm5sf/",
+                          "created": 1716142609,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l4rnl1h",
+                              "score": 1,
+                              "body": "Look at his example:\n>  If SPY drops 15, you lose 15 with the stock, but only 11-13 with the option (assuming that you can sell it a bit before expiration).  If SPY drops to 500, you lose 30 with the stock, but only 15.75 with the option.\n\nIf you spend $1500 on SPY or $1500 on SPY ITM calls, he's saying you lose less on the call if it drops.  Rounding for simplicity. You own 3 shares of SPY and it drops $15, you are down $45. Apparently you only lose $11 on the ITM calls, which translates into $1100. Unless he's saying he's only losing a rounding error on the bid/ask, that is *not* better risk/reward. More risk, more reward, yes, but let's not fool these apes into thinking this is a safer bet.",
+                              "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4rnl1h/",
+                              "created": 1716143146,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l4sjwrq",
+                                  "score": 1,
+                                  "body": "Yeah I totally agree if you use the same amount of money for shares. You would loose more money with the option. However if you leveraged 100 for 1500 dollars or bought an otm call for 1500 that’s correct if delta is .8 of the underlying. But most certainly 3 shares of spy is less risk than an itm option. You would need a delta of .03 which would be way way otm to match the risk profile.",
+                                  "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4sjwrq/",
+                                  "created": 1716155595,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "l4osbgs",
+                  "score": 0,
+                  "body": "![img](emote|t5_2th52|4275)",
+                  "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4osbgs/",
+                  "created": 1716088014,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l4nwiwn",
+              "score": 21,
+              "body": "Hmm. But stock can bounce and an expired option can't?\n\n(Genuinely trying to learn here - I'm kind of afraid of buying something that can go to 0 value.)",
+              "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4nwiwn/",
+              "created": 1716073500,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l4nxtwn",
+                  "score": 17,
+                  "body": "You can just roll to a new option....\n\nUsing the example that SPY goes to 515, and you sell the option for $3 (because it still as extrinsic value).  You buy an option (maybe out further, depending on how much time has passed) at 500 for 15.75 again.\n\nThen, SPY goes back up to 530.  Both the stock and option gain 15.  However, the net gain on the stock is 0, while the net gain on the option is 1.50 ($3 minus the 2x0.75 extrinsic value at both openings).\n\nYou just gained 10% on your investment that you wouldn't have with the stock.  This is a form of what's called \"gamma scalping\".",
+                  "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4nxtwn/",
+                  "created": 1716074078,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l4nzp80",
+                      "score": 9,
+                      "body": "Thank you for taking the time to explain this. It shows me that I have a lot of reading and learning to do before I get anywhere near options (which is itself important information), and it also is very helpful in showing me what concepts I need to understand better. I appreciate it!",
+                      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4nzp80/",
+                      "created": 1716074903,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l4oymrq",
+                          "score": 7,
+                          "body": "You bet. Glad I could help.  I hope I didn't scare you away from options, but I hope that I scared you enough to be careful and do your homework before diving in.\n\nAlthough, it's kind of like snowboarding.  You can watch all of the videos in the world, but you won't truly learn until you start doing it.  Just ease into it and don't try to go on runs far above your ability.  Like snowboarding, you're going to get wrecked from time to time.  Catching your front edge and grinding your face on the ice and the gut punch you get from your first IV crush experience are powerful teachers.\n\nYou're also probably going to lose money before you get the hang of things.  Some people run out of money before they do.  This is called \"tuition\".  Just like college, one of the goals is to learn lessons the first time and not have to retake classes.  You don't need to go to graduate school to be successful.  Hell, getting past Freshman year puts you ahead of most the people on here.",
+                          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4oymrq/",
+                          "created": 1716091421,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l4p2hpx",
+                              "score": 3,
+                              "body": "Exactly the right level of scared, I think. Right now I just have a little account with hobby-level money in it (rest is in mutual funds that have been chugging steadily along). Maybe once I've done some reading up, I will start trying out options on a paper trading account so that I can learn some of the lessons with slightly less bite. I want to get a little braver in my approach while not fooling myself that I'm going to posting gain porn here. :)",
+                              "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4p2hpx/",
+                              "created": 1716093681,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l4p3ed5",
+                                  "score": 3,
+                                  "body": "Yeah, paper trading first is a good idea, of course.   Thinkorswim (now with Schwab) is a pretty powerful trading platform and I think you can still open a paper account on it.",
+                                  "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4p3ed5/",
+                                  "created": 1716094236,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "l4p3rdw",
+                                      "score": 3,
+                                      "body": "Thank you for the recommendation! Really appreciate your kindness to a noob.",
+                                      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4p3rdw/",
+                                      "created": 1716094458,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "l4p4usw",
+                                          "score": 4,
+                                          "body": "I'm new too.  u/kazkeb 's recommendation of ThinkOrSwim is great. You can still open a paper account on there. When you go to login you'll see at the bottom of the screen \"Paper Money\" or something like that and \"Investing\" or something like that. Also, they have REALLY good educational videos. The one on Options is excellent, but when I went through it I was like \"whoah.\" lol Check it out!\n\nAlso, check out r/RealDayTrading and read the Wiki (Believe it or not, I actually found that sub from this sub lol). The guy that founded it, HariSeldon (his Reddit name) is a legit trader, and the wiki shows you everything you need to get into day trading profitably. Start with paper trading and do this until you have a 75% winrate and are profitable, then when you use real money start swing trading, then when day trading only do one share at a time. You'll have three weekly day trades allowed on your account until you get RDT status (25k). Also, use Stops!\n\nWatched Hari Short 10,000 shares of NVDA and make $100,000. And I've seen his Options plays. BUT he knows what he's doing and would tell you, like u/kazkeb , not to mess with Options when learning all this. Good luck! Oh, RealDayTrading also has live trading YouTube videos every Wednesday at 12 EST with Pete Stolcers an OG trader that started in the Bond Pits back in the day. Pete streams on his channel OneOption. They take questions and explain a lot. It's worth watching!",
+                                          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4p4usw/",
+                                          "created": 1716095147,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "l6l0039",
+                              "score": 2,
+                              "body": "Hey, just swinging back around 2 weeks later to say ...\n\n1) I did some reading! I now understand what you were explaining above about holding the stock vs. buying calls. Still a bit chicken to try buying, but ...\n\n2) I sold my first covered calls and cash-covered puts. Really enjoyed learning with a couple of stocks in the $1-3 range and figuring out their limitations, and I actually made some money.\n\n3) I felt partly validated and partly chagrined to learn that the broader strategy I had carefully come up with was not new to the world - I did not invent the Wheel hahaha. \n\n4) I'm grateful for the insights and encouragement to learn and try. I'm taking it slowly, but it's been interesting and useful. Thanks for the noob-friendly mix of caution and encouragement.",
+                              "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l6l0039/",
+                              "created": 1717218185,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l6ne31e",
+                                  "score": 2,
+                                  "body": "Nice.  Pretty exciting to learn that there is a lot more to options and things you can do with then than just buying singles, isn't it?\n\nI could probably come up with a list of topics for you to research if you need any more places to start.\n\nAlso, as a warning... I'm usually theta positive, but the market isn't really in a good spot to be selling a bunch.  IV is way lower than actually volatility, and it's probably better to be gamma positive than theta positive.",
+                                  "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l6ne31e/",
+                                  "created": 1717261731,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "l6nj9uy",
+                                      "score": 2,
+                                      "body": "I would love to hear topics,  and I am grateful for the warning! I'm working on learning more about the various measures and how to research and coordinate them so that I can develop a deeper understanding of a move's potential.",
+                                      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l6nj9uy/",
+                                      "created": 1717263608,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "l6nw45c",
+                                          "score": 1,
+                                          "body": "I sent a list of topics to my uncle a little while ago. I'll see if I can dig that up and send it.\n\nIn the meantime, one good tidbit is the rule of 16... Every 16% that the IV has, means that the market is pricing the options of a stock to move 1%/day 68% of the time.\n\nThe IV of SPY is about 11% right now.  That means options are priced in anticipation that it will move​ about .6% or less in 2 out of 3 days.  That might be true, but the other standard deviation intervals are implied as well... that it will only move less than 1.2% 95% of the time, and under 1.8% 99% of the time.  Considering these stats is why SPY'S IV is probably too low to primarily sell options right now.",
+                                          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l6nw45c/",
+                                          "created": 1717268328,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "l4opa25",
+                          "score": 1,
+                          "body": "Be sure to read up on SELLING options, it's a very important aspect to learn.  Check out /r/thetagang to learn more.",
+                          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4opa25/",
+                          "created": 1716086547,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l4otj81",
+                              "score": 3,
+                              "body": "Thank you! Yes, I had assumed that in the example above, no one would buy the option if the stock was at 515. But I guess people might see it like gambling a little money on a 25-to-1 horse?",
+                              "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4otj81/",
+                              "created": 1716088647,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "l4ocksi",
+                      "score": 3,
+                      "body": "That is wayyyyyy oversimplified. That’s not how gamma plays work.",
+                      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4ocksi/",
+                      "created": 1716080638,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l4of8zd",
+                          "score": 4,
+                          "body": "Totally.  I should have clarified it a bit more, but I didn't want to go down that rabbit hole too.  It's missing the other side to be a typical gamma play, but profits in a similar way, by buying low (extrinsic) and selling high (extrinsic), and only really works when IV is lower than actual volatility and/or IV increase (unless you make it Vega neutral too)... i.e. the current market conditions.\n\nProbably a bit too much info to throw at someone that's just barely learning the possible advantages of using ITM options...",
+                          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4of8zd/",
+                          "created": 1716081858,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "l4oehgd",
+              "score": 3,
+              "body": "But if the stock runs flat, you are still losing money to theta decay.",
+              "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4oehgd/",
+              "created": 1716081506,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l4oglhf",
+                  "score": 4,
+                  "body": "True.  You'd lose .75/week.  However, margin on $500 would be almost 1.50/week.",
+                  "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4oglhf/",
+                  "created": 1716082488,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l4ogl4w",
+              "score": 3,
+              "body": "I have super deep ITM bros calls for 2026 500 shares would cost around 18k, but the 5 contracts combined only cost 12k.  So effectively like I bought stock with a 0.989 delta but effectively 50% leverage.  Or am i misunderstanding something?",
+              "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4ogl4w/",
+              "created": 1716082483,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l4oi6ae",
+                  "score": 5,
+                  "body": "I mean, it depends on what stock it's on, but that's reeeallly for out.  Theta would be low, but you might have a bit of extrinsic value that could be susceptible to swings in IV.  Although, on the other hand, 0.989 delta tells me that they don't have much.\n\nWhat stock is it?  You might want to roll it up closer to ATM if you can do so without gaining much extrinsic.  IV is sooooo low right now.  You don't even need the underlying to move to make money.  It will go up when VIX/IV comes back.",
+                  "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4oi6ae/",
+                  "created": 1716083218,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l4p3gkq",
+                      "score": 2,
+                      "body": "It's dutch bros $12.5 calls. Jan 16th 26. I have a feeling they will eventually get up to Starbucks share price so I went with these as it gave me the ability to make a lot more money if I'm right.",
+                      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4p3gkq/",
+                      "created": 1716094273,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l4psa8h",
+                          "score": 2,
+                          "body": "Ok, I took a look... I don't have knowledge of the company to comment on the value of the stock, but I can say some things about option selection. You might want to think about moving to a different expiration and strike.\n\nTo start, the easiest way to gauge the relative price of an option (in relation to the other options of a stock) is the IV of the option.  I don't know what broker you're using, but you might have to change some settings to enable this field.\n\nThe IV of your option is 91%, and is pretty high. Also, the spread/liquidity is pretty bad too.  Right now the spread is 4.90 (bid of 23.10, ask of 28.00).  On the other hand, it's the weekend and it might be better during regular hours.  You're planning on holding it for a while, so it doesn't need to be super liquid. \n\nHowever, there are some decent options on 10/18/24.  Again, there will probably be better choices when the market is open, but right now the $24C has a bid/ask of 13.10/13.90 and extrinsic of 0.80.  You can basically get near the same delta for half of the capital cost.  Although, it's 152 days out, and you'd probably want to roll it out further in a couple of months.\n\nIt looks like there are some decent deals in Jan 25 too.  $20 looks to be a low spread and low extrinsic.\n\nDo you know how to roll an option?  Since you're probably not in a hurry to change things, you could probably put in a GTC order to roll and see if it hits sometime in the next few days.",
+                          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4psa8h/",
+                          "created": 1716112491,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l4saa2q",
+                              "score": 2,
+                              "body": "I use wealthsimple but get my info from webull.  When I look at the IV of my option on webull, it says it's about 55% IV, where is 91% coming from?  Not sure what a GTC is got lucky on a few ATM and OTM options with Amazon and alcc and grew my account by 60% now I want to go with leaps for a good medium risk medium reward.",
+                              "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4saa2q/",
+                              "created": 1716151851,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l4saahw",
+                                  "score": 1,
+                                  "body": "The peasant confuses volatility with opportunity.",
+                                  "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4saahw/",
+                                  "created": 1716151856,
+                                  "depth": 7,
+                                  "replies": []
+                                },
+                                {
+                                  "id": "l4udaxe",
+                                  "score": 1,
+                                  "body": "Yeah, like I said, it was probably just out of whack because it's the weekend and a lot of the order book gets cleared.  It's back down to having only .50 extrinsic.",
+                                  "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4udaxe/",
+                                  "created": 1716187781,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "l4o5ar9",
+              "score": 4,
+              "body": "Only it's not 15.75, it's $1575 .\n\nSo you lose $30 or lose $1575",
+              "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4o5ar9/",
+              "created": 1716077373,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l4o6lnp",
+                  "score": 0,
+                  "body": "Sure... if you buy 1 share instead of the normal bundle of 100",
+                  "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4o6lnp/",
+                  "created": 1716077953,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l4o8hfo",
+                      "score": 2,
+                      "body": "I don't think you know how options work.....\n\nThey represent 100 shares.\n\na spy 5/24 515c is $1500.\n\na $15.75 option would be 0.1575",
+                      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4o8hfo/",
+                      "created": 1716078795,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l4o9eay",
+                          "score": 1,
+                          "body": "And 100 shares of SPY at 530 is $53,000\n\n$530 for 100 shares would be $5.30",
+                          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4o9eay/",
+                          "created": 1716079207,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "l4pwe9v",
+              "score": 2,
+              "body": "In summary, you use leverage and leverage is double edged sword, no need to reinvent the wheel",
+              "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4pwe9v/",
+              "created": 1716115575,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l4qx9hd",
+              "score": 1,
+              "body": "Stock doesnt disappear like options. And spy will always go up eventually",
+              "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4qx9hd/",
+              "created": 1716133334,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l4qxxcz",
+              "score": 1,
+              "body": "You could have just said leverage ",
+              "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4qxxcz/",
+              "created": 1716133576,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l4nh5w0",
+          "score": 8,
+          "body": "This guy is pussy, 0DTE. What fucking sub is this?",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4nh5w0/",
+          "created": 1716066889,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l4oeybm",
+          "score": 6,
+          "body": " Sorry but r/investing is that way 👉",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4oeybm/",
+          "created": 1716081720,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l4mwrn1",
+          "score": 22,
+          "body": "So you want me to buy shares like some old fucker? Nah, I want my money now",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4mwrn1/",
+          "created": 1716058558,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l4n0x90",
+              "score": 16,
+              "body": "Can attest buying stock can lead to massive losses, my portfolio would agree",
+              "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4n0x90/",
+              "created": 1716060222,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l4myhdh",
+          "score": 19,
+          "body": "With deep ITM you can have zero theta like stocks, but with lots of leverage, so buy at a fraction of the price",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4myhdh/",
+          "created": 1716059242,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l4n3jwj",
+              "score": 27,
+              "body": "[deleted]",
+              "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4n3jwj/",
+              "created": 1716061281,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l4n93u3",
+                  "score": 14,
+                  "body": "Deep OTM leaps on meme stocks, yeah, I know I am a badass.",
+                  "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4n93u3/",
+                  "created": 1716063563,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l4nwtcf",
+              "score": 6,
+              "body": "Fuck that pussy shit . Far otm calls and puts or bust",
+              "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4nwtcf/",
+              "created": 1716073627,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l4r25og",
+              "score": 3,
+              "body": "Yeah I made that mistake. I bought ITM calls on QQQ for about 4X leverage in May 2021, when it was around $360.\n\n\nWhen it rose to $400 you can imagine how proud I was of my strategy, but I didn't take the profit and run. \n\n\nI let it ride, and then QQQ plummeted and I lost $40k. Lesson learned- take the profit and run. ",
+              "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4r25og/",
+              "created": 1716135169,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l4raa30",
+                  "score": 1,
+                  "body": "Ya that’s what I learned hard with Microsoft, I really believe in ‘good enough to screenshot good enough to sell’, just about discipline imo",
+                  "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4raa30/",
+                  "created": 1716138181,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l4n4sdg",
+              "score": 4,
+              "body": "That's what Nancy does....",
+              "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4n4sdg/",
+              "created": 1716061787,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l4odaq8",
+              "score": 1,
+              "body": "Wait until you find out about margin!",
+              "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4odaq8/",
+              "created": 1716080962,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l4ntxbi",
+          "score": 2,
+          "body": "![img](emote|t5_2th52|51295)",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4ntxbi/",
+          "created": 1716072347,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l4oohvs",
+          "score": 2,
+          "body": "Is a “stock” a kind of derivative? Sounds cool!",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4oohvs/",
+          "created": 1716086192,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l4pdjka",
+          "score": 2,
+          "body": "But you need a lever, ITM option is a free lever",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4pdjka/",
+          "created": 1716101132,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l4ocks2",
+          "score": 2,
+          "body": "Ah yes, the integrals of the derivatives",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4ocks2/",
+          "created": 1716080637,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l4oxi2o",
+          "score": 1,
+          "body": "LOL",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4oxi2o/",
+          "created": 1716090785,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l4uncuj",
+          "score": 1,
+          "body": "That requires actual money to make money.",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4uncuj/",
+          "created": 1716195544,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l4nedth",
+          "score": -1,
+          "body": "Ok boomer",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4nedth/",
+          "created": 1716065745,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l4nszff",
+              "score": 2,
+              "body": "I don't think that's a thing anymore",
+              "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4nszff/",
+              "created": 1716071931,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l4n2web",
+      "score": 146,
+      "body": "He just learned about ITM calls and he’s going to gamble on them lol.",
+      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4n2web/",
+      "created": 1716061017,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l4n2xjq",
+          "score": 67,
+          "body": "Oh, dear.",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4n2xjq/",
+          "created": 1716061030,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l4o6wvo",
+          "score": 20,
+          "body": "Guys have you ever heard of lottery scratch offs? You can buy them almost anywhere and they’re really cheap. You can win like $25k!",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4o6wvo/",
+          "created": 1716078091,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l4ohlbe",
+          "score": 6,
+          "body": "\nI bet he buys 1 strike ITM and has a meltdown when a downward move + IV crush + theta eats him alive.",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4ohlbe/",
+          "created": 1716082952,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l4njfrt",
+      "score": 46,
+      "body": "All fun and games until you drop $10K on ITM TGT LEAPS with a $170 strike (stock is trading at $230) and then it plummets down to $130 and hovers around there until the calls expire",
+      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4njfrt/",
+      "created": 1716067833,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l4ppc4l",
+          "score": 8,
+          "body": "Are you describing May 2022? Just looked at the chart, that's rough :(",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4ppc4l/",
+          "created": 1716110131,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l4qfytx",
+          "score": 3,
+          "body": "My strategy is to buy the ITM calls *after* a radical drop arriving at a 52w low.",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4qfytx/",
+          "created": 1716126353,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l4mqsle",
+      "score": 69,
+      "body": "You're playing a dangerous game, but remember, the house always wins.",
+      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4mqsle/",
+      "created": 1716056228,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l4n3gyi",
+          "score": 12,
+          "body": "Interesting take I would also say \nTake a look at ITM leaps for a underlying that you are very bullish on. Think for ex stock has dropped 15% due to bad guidance but has solid fundamentals. Now if you do some math, you can see majority of 2 year exp leaps Deep ITM cost around 30% pick delta around 0.90 to 0.95 . If that underlying asset move only 30% up during next 2 year. You can make 90% profit lol i hope u get it",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4n3gyi/",
+          "created": 1716061248,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l4pru06",
+              "score": 1,
+              "body": "Thanks friend - will have a look :)",
+              "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4pru06/",
+              "created": 1716112130,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l4mr6b5",
+          "score": 7,
+          "body": "thanks baybeeeee",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4mr6b5/",
+          "created": 1716056377,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l4oeana",
+          "score": 1,
+          "body": "Play long enough, you never change the stakes, the house takes you. Unless, when that perfect hand comes along, you bet big, and then you take the house.",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4oeana/",
+          "created": 1716081421,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l4vsalj",
+              "score": 2,
+              "body": "You rushed it",
+              "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4vsalj/",
+              "created": 1716216993,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l4nr11a",
+      "score": 16,
+      "body": "Options are the devils candy",
+      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4nr11a/",
+      "created": 1716071081,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l4nus2j",
+          "score": 3,
+          "body": "![img](emote|t5_2th52|27189)",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4nus2j/",
+          "created": 1716072729,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l4muti0",
+      "score": 30,
+      "body": "It's generally safer to play ITM as you are paying for far less IV for your options and will therefore get less fucked by the immediate IV drop on earnings plays. Unless movement is insane, they generally perform far better than OTM (assuming you got direction right).",
+      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4muti0/",
+      "created": 1716057794,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l4mylo2",
+          "score": 1,
+          "body": "Thanks friend :)",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4mylo2/",
+          "created": 1716059291,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l4nc6qd",
+      "score": 21,
+      "body": "ITM 0dte SPY options are where it's at. Nice liquidity, cheap, you can play everyday, and it's easier to get 10x baggers if it moves your way.",
+      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4nc6qd/",
+      "created": 1716064836,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l4pc90o",
+          "score": 4,
+          "body": "What delta do you buy these at",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4pc90o/",
+          "created": 1716100188,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l4pq2wm",
+          "score": 1,
+          "body": "Thanks friend - will check it out :)",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4pq2wm/",
+          "created": 1716110725,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l4pqjag",
+          "score": 1,
+          "body": "Just checked this out and seems legit - though I'd probably just buy calls to follow the SPY upwards trend. \n\nQuick question - what happens if a 0DTE expires ITM? Never used 0DTE's before (only monthlies/ leaps), so never had an option expire :)",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4pqjag/",
+          "created": 1716111089,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l4qj8dc",
+              "score": 3,
+              "body": "It goes to zero unless you have the money to buy 100 shares",
+              "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4qj8dc/",
+              "created": 1716127781,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l4rbexu",
+                  "score": 1,
+                  "body": "Ya I’ve got the cash, thanks though friend :)",
+                  "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4rbexu/",
+                  "created": 1716138592,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l4n1uos",
+      "score": 9,
+      "body": "pussy",
+      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4n1uos/",
+      "created": 1716060597,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4mqrnh",
+      "score": 15,
+      "body": "Forgot the ITM screenshot\n\nhttps://preview.redd.it/ipvbv1e6881d1.png?width=612&format=png&auto=webp&s=42e7d5146ef863c7f6db41308e154ae67126e2e6",
+      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4mqrnh/",
+      "created": 1716056217,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l4pwcz3",
+          "score": 1,
+          "body": "this looks infinitely worse than the output this thing gives me for otm calls 😂😂😂",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4pwcz3/",
+          "created": 1716115551,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l4mtvs1",
+      "score": 23,
+      "body": "If ITM calls are good enough for Aunt Nancy, they're good enough for me",
+      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4mtvs1/",
+      "created": 1716057427,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4nu9h5",
+      "score": 7,
+      "body": "Just remember when you have a super high delta, if the underlying stock moves against you, the losses will be much larger. So risk accordingly.",
+      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4nu9h5/",
+      "created": 1716072500,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l4pqlm2",
+          "score": 2,
+          "body": "Noted - thanks friend",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4pqlm2/",
+          "created": 1716111141,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l4n2hau",
+      "score": 12,
+      "body": "Fuckin adobe? 🤦‍♂️",
+      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4n2hau/",
+      "created": 1716060848,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4o3eo7",
+      "score": 4,
+      "body": "Yeah. I too saw the light of itm calls but then used that inspiration on RIVN calls at the beginning of the year and still got smacked around.",
+      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4o3eo7/",
+      "created": 1716076522,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4obvj0",
+      "score": 6,
+      "body": "Brother in Christ, dont buy ITM options for adobe ER. They will be very expensive and if you bet the wrong way they may become OTM and you will lose. Start out with something that isnt an ER play.",
+      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4obvj0/",
+      "created": 1716080321,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l4pqont",
+          "score": 3,
+          "body": "Thanks friend - someone told me about 0DTE deep ITM SPY calls, so might try that instead, especially since they are cheaper and SPY is less volatile in theory",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4pqont/",
+          "created": 1716111209,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l4ngoz9",
+      "score": 5,
+      "body": "This is so dumb it just might work",
+      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4ngoz9/",
+      "created": 1716066697,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4ok5cd",
+      "score": 5,
+      "body": "Dude this is like the most basic of options knowledge that you should have had before buying them to begin with. You came here to point like it's a scientific discovery. \"Researching ITM calls\", like why did you think your options were called \"Out of the money\"? Congratulations on common sense, regard.",
+      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4ok5cd/",
+      "created": 1716084124,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4on29i",
+      "score": 4,
+      "body": "In the money isn't as incredible as you think, and the higher in the money the less gamma you get and less open interest and volume.  Nothing is free in this game",
+      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4on29i/",
+      "created": 1716085506,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l4pqpr6",
+          "score": 1,
+          "body": "Noted - thanks friend :)",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4pqpr6/",
+          "created": 1716111233,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l4mr73j",
+      "score": 7,
+      "body": "The thing I suspect will catch you by surprise is.... zero volume. \n\nBut I might be wrong who knows.",
+      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4mr73j/",
+      "created": 1716056385,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l4msohb",
+          "score": 19,
+          "body": "Market makers will just buy it from you and turn them into shares so they can write more options for us suckers on wsb",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4msohb/",
+          "created": 1716056961,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l4n4nwt",
+              "score": 3,
+              "body": "I didn’t know I was selling contracts to suckers on WSB! This is WSB right?!? Shit! I’m lost!",
+              "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4n4nwt/",
+              "created": 1716061737,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l4nqpzr",
+          "score": 5,
+          "body": "\"but I might be wrong\"\n\nYou aint escaping responsibility for your words",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4nqpzr/",
+          "created": 1716070948,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l4mrv1w",
+          "score": 1,
+          "body": "Good shout, will check my option chain - thanks!!",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4mrv1w/",
+          "created": 1716056644,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l4o8vne",
+      "score": 3,
+      "body": "Hahahaha. \n\nOh no, just wait till OP comes back wondering why their calls are down 60% in 5 min due to a moderate price pullback",
+      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4o8vne/",
+      "created": 1716078974,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l4o8w74",
+          "score": 5,
+          "body": "The market giveth and the market taketh away. It's more lucrative to be a wolf than a sheep.",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4o8w74/",
+          "created": 1716078981,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l4o8d50",
+      "score": 2,
+      "body": "Now take a look at TQQQ",
+      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4o8d50/",
+      "created": 1716078743,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4o8gkh",
+      "score": 2,
+      "body": "What if he learns about spreads?",
+      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4o8gkh/",
+      "created": 1716078785,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4obvsx",
+      "score": 2,
+      "body": "Why not go for longer expiration? This ITM screenshot you shared can be much better % wise",
+      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4obvsx/",
+      "created": 1716080325,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l4pqy5c",
+          "score": 2,
+          "body": "Thinking is an Adobe earnings play (13th June if I remember correctly), so monthly option cheaper than e.g. leaps",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4pqy5c/",
+          "created": 1716111424,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l4qg3jy",
+              "score": 2,
+              "body": "What is the plan if it turns out bad? Will you have enough time to afford to keep the option? I’ve had this multiple times",
+              "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4qg3jy/",
+              "created": 1716126410,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l4rbqcc",
+                  "score": 2,
+                  "body": "If I exercise then I don’t mind as I only trade companies which I like / don’t mind holding for a while, I only use options for the leverage.\n\nIf it blows through the strike so it’s now otm then I don’t mind as I only use a small % of my cash for options :)",
+                  "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4rbqcc/",
+                  "created": 1716138708,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l4rmjpm",
+                      "score": 2,
+                      "body": "Good luck out there bro!",
+                      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4rmjpm/",
+                      "created": 1716142757,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l4rny42",
+                          "score": 2,
+                          "body": "Thanks bro, you too <3",
+                          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4rny42/",
+                          "created": 1716143285,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l4oq6ab",
+      "score": 2,
+      "body": "Don’t you have a greater chance of getting assigned if you buy in the money or close to? Only time I did that I had to fork over like 20K to buy 100 shares of amd lmao",
+      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4oq6ab/",
+      "created": 1716086958,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l4pr1di",
+          "score": 2,
+          "body": "I think you can only get assigned when you sell an option contract and it becomes ITM - will look into it though, thank you!",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4pr1di/",
+          "created": 1716111496,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l4q74ok",
+              "score": 1,
+              "body": "You get get early assigned also.. but I sold bought close to itm puts",
+              "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4q74ok/",
+              "created": 1716122129,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l4ouszp",
+      "score": 2,
+      "body": ">yeah itm calls are way less risky\n\n>anyways I’m gonna do an earnings play",
+      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4ouszp/",
+      "created": 1716089315,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4pfnf4",
+      "score": 2,
+      "body": "That 'slightly less risk for significantly less reward' situation we all love",
+      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4pfnf4/",
+      "created": 1716102666,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4qjplp",
+      "score": 2,
+      "body": "What platform do you use to purchase an ITA OP?",
+      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4qjplp/",
+      "created": 1716127984,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l4rbbzm",
+          "score": 2,
+          "body": "Sorry, what is an ITA?\n\nI use Saxo as I’m a europoor, they’re good, just not commission free :)",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4rbbzm/",
+          "created": 1716138562,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l4rie5p",
+              "score": 1,
+              "body": "Many thanks 🙏🏼 typo included lol",
+              "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4rie5p/",
+              "created": 1716141192,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l4qoqqx",
+      "score": 2,
+      "body": "Wait until you see what a properly positioned vertical spread can do… with verticals you can almost completely eliminate theta while maintaining most of that sweet sweet leverage we degens yearn for",
+      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4qoqqx/",
+      "created": 1716130056,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l4rb67h",
+          "score": 1,
+          "body": "I need to research that - thanks friend!!",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4rb67h/",
+          "created": 1716138504,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l4qplus",
+      "score": 2,
+      "body": "[deleted]",
+      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4qplus/",
+      "created": 1716130405,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l4rb49t",
+          "score": 1,
+          "body": "Thank you friend, really appreciate the advice!!! \n\nI need to research settlement days and the vega/vol you mentioned :)",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4rb49t/",
+          "created": 1716138484,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l4r7ri2",
+      "score": 2,
+      "body": "ITM is riskier than OTM lotto. Because you think it is safe and you risk more money. Buy stock. If market dips 20% engage margin. Option will blow your account.",
+      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4r7ri2/",
+      "created": 1716137252,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l4ra0w8",
+          "score": 1,
+          "body": "Options have been very good for me, only ever risk a small amount ie don’t care if I lose it, it’s just theta that I hate, so itm options seem best. Also don’t want to sell options as hate the thought of being assigned :)",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4ra0w8/",
+          "created": 1716138086,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l50oeql",
+      "score": 2,
+      "body": "You are playing with earnings and expecting it not to lose much if (IF!!!) it stays at or near current price. Ummm good luck with that. Yes you are right that OTM can go to 0 much faster than ITM but the more ITM the more expensive it is and it can also tank and cause you to lose much more than you would if you just bought the stock or placed a smaller bet not around earnings that can destroy a portfolio. Instead try selling a covered putt below price. If you like the stock then you get it at a lower price if it tanks. Then just hold and sell later or sell covered calls at your price. Or the stock moves higher and you keep the premium.",
+      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l50oeql/",
+      "created": 1716298433,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l51132r",
+          "score": 1,
+          "body": "Thanks for the advice friend!! Decided to buy a meta call leap - thinking that we have an exceptional period coming up for high ad spending - us election, also price currently c.10% off high so dipped",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l51132r/",
+          "created": 1716303243,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l4opqeu",
+      "score": 2,
+      "body": "Wow what a revelation, thanks for this groundbreaking discovery /s",
+      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4opqeu/",
+      "created": 1716086751,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4n03m4",
+      "score": 1,
+      "body": "[removed]",
+      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4n03m4/",
+      "created": 1716059891,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l4n0559",
+          "score": 3,
+          "body": "*You did well. Now, remember, don't diversify your trades: put all your money on that one option.*",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4n0559/",
+          "created": 1716059908,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l4o8hdo",
+      "score": 1,
+      "body": "Adobe going down, I would go with puts. Over valued software stock, stock losing steam imo as photography, design other things go down so do they… constantly facing more competition",
+      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4o8hdo/",
+      "created": 1716078795,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4ptu4k",
+      "score": 1,
+      "body": "Wait until you learn that you can own the underlying stock!",
+      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4ptu4k/",
+      "created": 1716113680,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4q7u1q",
+      "score": 1,
+      "body": "Generative Fill in the newest version of Photoshop is a fucking joke. Puts!",
+      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4q7u1q/",
+      "created": 1716122496,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4q90p1",
+      "score": 1,
+      "body": "the quality of OPs on WSB is becoming hilarious, as are some of the comments.  Keep it up! If even 10% of these sort of posts are genuine, then we're in all sorts of trouble solving the world's problems, but will have no issues selling calls to some....",
+      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4q90p1/",
+      "created": 1716123101,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4rfnug",
+      "score": 1,
+      "body": "Itm calls work the same as otm calls. Your break even is still premium plus strike. Thats only current stock price if you’re buying deep itm almost near a 1 delta. At that point you’ve given up the reason people buy options in the first place which is leverage",
+      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4rfnug/",
+      "created": 1716140171,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l4o4ney",
+      "score": 1,
+      "body": "what delta do you consider ITM?",
+      "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4o4ney/",
+      "created": 1716077081,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l4t23u9",
+          "score": 2,
+          "body": "Don’t look at delta, look at strike price. For calls, strike price < stock price, you’re ITM. Options basics.",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4t23u9/",
+          "created": 1716163296,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l4t36pa",
+              "score": 2,
+              "body": "thanks Adam.  i didn’t know you’d visit here!",
+              "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4t36pa/",
+              "created": 1716163778,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l4wc4fe",
+                  "score": 2,
+                  "body": "You bet!",
+                  "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4wc4fe/",
+                  "created": 1716224139,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l4odql6",
+          "score": 0,
+          "body": "Bro delta and ITM are two unrelated things",
+          "permalink": "/r/wallstreetbets/comments/1cv3iye/just_learned_about_how_magical_itm_calls_are_and/l4odql6/",
+          "created": 1716081163,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

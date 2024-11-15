@@ -1,0 +1,314 @@
+{
+  "title": "Three Data Breaches in Three Years - Why Do We Still Have Okta?",
+  "score": 55,
+  "selftext": "I think everyone here remembers the scandalous security issues with Okta (https://www.benzinga.com/opinion/24/09/40884059/oktas-costly-cyber-security-failures-a-60-million-lesson-in-transparency)\n\nThe biggest one was in 2021, when it was revealed that Okta employees could access customer data from their home laptops. Then LAPSUS wrote that they had gained access to Okta’s systems and could change passwords. For me, this is where Okta's ended.\n\nBut it didn’t end there for Okta. It also faced breaches affecting thousands of customers in 2022 and 2023 (https://www.reuters.com/technology/cybersecurity/okta-says-hackers-stole-data-all-customer-support-users-cyber-breach-2023-11-29/). What I really can't get is how Okta is still on the market with such problems.\n\nIs this some kind of annual event? Are we expecting another breach this year? Or when do you think Okta will finally reach a breaking point for them?",
+  "link_flair_text": "Discussion",
+  "id": "1foepiz",
+  "num_comments": 34,
+  "created_utc": 1727190293,
+  "permalink": "/r/wallstreetbets/comments/1foepiz/three_data_breaches_in_three_years_why_do_we/",
+  "comments": [
+    {
+      "id": "lop89b8",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 1 | **First Seen In WSB** | just now\n**Total Comments** | 0 | **Previous Best DD** | \n**Account Age** | 3 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1foepiz/three_data_breaches_in_three_years_why_do_we/lop89b8/",
+      "created": 1727190297,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lopayq2",
+      "score": 29,
+      "body": "It's because corporate security checklists have become so onerous that the only solution is flawed products like this. \n\nThe idea that companies can and should outsource one of their most critical functions, in a way that is really hard to insource later should never have gotten traction in the first place.\n\nWith the amount of money just one fortune 500 company spends on this, it could fund a proper open source project to implement something that could be run securely in house, and then you'd have fewer big central targets holding billions of records out there.",
+      "permalink": "/r/wallstreetbets/comments/1foepiz/three_data_breaches_in_three_years_why_do_we/lopayq2/",
+      "created": 1727191159,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lopbqax",
+          "score": 3,
+          "body": "Who maintains it? Once big corp creates it and their competitors start using it, what incentive is there. ",
+          "permalink": "/r/wallstreetbets/comments/1foepiz/three_data_breaches_in_three_years_why_do_we/lopbqax/",
+          "created": 1727191401,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lopyeeo",
+              "score": 7,
+              "body": "The same incentive that keeps OpennSSH as one of the most secure remote admin tools ever made.",
+              "permalink": "/r/wallstreetbets/comments/1foepiz/three_data_breaches_in_three_years_why_do_we/lopyeeo/",
+              "created": 1727198477,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "loq50bq",
+                  "score": 2,
+                  "body": "OpenSSH has had its share of vulnerabilities too. Even recently.",
+                  "permalink": "/r/wallstreetbets/comments/1foepiz/three_data_breaches_in_three_years_why_do_we/loq50bq/",
+                  "created": 1727200504,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "loq6o13",
+                      "score": 2,
+                      "body": "Sure, but name a bit of commercial software with a better track record; that's what we're comparing against here.",
+                      "permalink": "/r/wallstreetbets/comments/1foepiz/three_data_breaches_in_three_years_why_do_we/loq6o13/",
+                      "created": 1727201017,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "louc0tu",
+                          "score": 1,
+                          "body": "Let me answer that for them: None",
+                          "permalink": "/r/wallstreetbets/comments/1foepiz/three_data_breaches_in_three_years_why_do_we/louc0tu/",
+                          "created": 1727265965,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "loqxz0f",
+                      "score": 1,
+                      "body": "But, we don’t have one centralized SSH service everyone needs to connect to. You’d have to exploit N different SSH servers instead of breaching one.",
+                      "permalink": "/r/wallstreetbets/comments/1foepiz/three_data_breaches_in_three_years_why_do_we/loqxz0f/",
+                      "created": 1727209534,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lopfhh7",
+      "score": 8,
+      "body": "Migrating all of these apps to Okta took years. Migrating them off of Okta will also take years. That's the story where I work.",
+      "permalink": "/r/wallstreetbets/comments/1foepiz/three_data_breaches_in_three_years_why_do_we/lopfhh7/",
+      "created": 1727192570,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lopgm0g",
+          "score": 2,
+          "body": "There’s not a ton of good options to migrate to, it also a zero improvement migration which are always very difficult to sell up the chain.",
+          "permalink": "/r/wallstreetbets/comments/1foepiz/three_data_breaches_in_three_years_why_do_we/lopgm0g/",
+          "created": 1727192922,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lopl9jy",
+          "score": 1,
+          "body": "The other vendors may be better on a technical level but tend to be absolute shit at the business side which means those in charge of paying them are pissed off their jobs get tougher for using the nerd-approved vendor, which puts pressure on execs. Hell, Okta bought Auth0 so there goes one other non-Okta option. Keycloak is open source with no vendor that’ll do the enterprise-readiness work so it’s basically dead in the water for most organizations even if it’s a much cheaper to run product / solution because after the implementation someone needs to be around for executives (and legal!) to choke if something’s wrong. Being able to blame stuff other than your own incompetence is pretty key to corporate decision processes, let’s be honest.",
+          "permalink": "/r/wallstreetbets/comments/1foepiz/three_data_breaches_in_three_years_why_do_we/lopl9jy/",
+          "created": 1727194378,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "loq7gvr",
+              "score": 1,
+              "body": "Without going into too much detail, it looks like we have chosen to pay for the right to blame Microsoft for all of our problems in this area.",
+              "permalink": "/r/wallstreetbets/comments/1foepiz/three_data_breaches_in_three_years_why_do_we/loq7gvr/",
+              "created": 1727201267,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "loqccha",
+              "score": 1,
+              "body": "[removed]",
+              "permalink": "/r/wallstreetbets/comments/1foepiz/three_data_breaches_in_three_years_why_do_we/loqccha/",
+              "created": 1727202787,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "loqccim",
+                  "score": 1,
+                  "body": "Eat my dongus you fuckin nerd.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",
+                  "permalink": "/r/wallstreetbets/comments/1foepiz/three_data_breaches_in_three_years_why_do_we/loqccim/",
+                  "created": 1727202787,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lopcgsf",
+      "score": 2,
+      "body": "So buy calls? Got it coach.",
+      "permalink": "/r/wallstreetbets/comments/1foepiz/three_data_breaches_in_three_years_why_do_we/lopcgsf/",
+      "created": 1727191629,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lopd4pi",
+      "score": 7,
+      "body": "It's like putting a Masterlock on your high school locker- it keeps out 99% of malicious hackers, and the 1 hack event every year that does make it through would have compromised just about any in-house solution.  Plus in-house solutions are expensive and vulnerable to zero-day attacks *every day*.",
+      "permalink": "/r/wallstreetbets/comments/1foepiz/three_data_breaches_in_three_years_why_do_we/lopd4pi/",
+      "created": 1727191835,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "loph6v4",
+          "score": 5,
+          "body": "\"You are using a MasterLock model 69, it can be opened with a MasterLock model 69\"",
+          "permalink": "/r/wallstreetbets/comments/1foepiz/three_data_breaches_in_three_years_why_do_we/loph6v4/",
+          "created": 1727193099,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lorltjp",
+          "score": 3,
+          "body": "No, it’s like stringing a cable through every locker in the school, and then getting surprised that someone bothered clipping it and robbing everyone at once, when they would have had to clip a thousand separate master locks if they went in house.",
+          "permalink": "/r/wallstreetbets/comments/1foepiz/three_data_breaches_in_three_years_why_do_we/lorltjp/",
+          "created": 1727217539,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lopm5l4",
+          "score": 1,
+          "body": "More than likely valid credentials from phishing or data dump ",
+          "permalink": "/r/wallstreetbets/comments/1foepiz/three_data_breaches_in_three_years_why_do_we/lopm5l4/",
+          "created": 1727194656,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lophyel",
+      "score": 3,
+      "body": "they hire dumbfucks. that's why they suck.",
+      "permalink": "/r/wallstreetbets/comments/1foepiz/three_data_breaches_in_three_years_why_do_we/lophyel/",
+      "created": 1727193338,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lqf117b",
+          "score": 2,
+          "body": "Didn’t get the job huh ?",
+          "permalink": "/r/wallstreetbets/comments/1foepiz/three_data_breaches_in_three_years_why_do_we/lqf117b/",
+          "created": 1728106897,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lopkpy7",
+      "score": 2,
+      "body": "I’m pretty sure everyone’s data has been leaked now.",
+      "permalink": "/r/wallstreetbets/comments/1foepiz/three_data_breaches_in_three_years_why_do_we/lopkpy7/",
+      "created": 1727194207,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "loplyh5",
+      "score": 2,
+      "body": "Because when the only punishment is fines, it’s just legal for a price and then if news doesn’t report on it no one will know or care in 3 months ",
+      "permalink": "/r/wallstreetbets/comments/1foepiz/three_data_breaches_in_three_years_why_do_we/loplyh5/",
+      "created": 1727194593,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lorlzgx",
+          "score": 2,
+          "body": "News did report on it and nobody still cares",
+          "permalink": "/r/wallstreetbets/comments/1foepiz/three_data_breaches_in_three_years_why_do_we/lorlzgx/",
+          "created": 1727217599,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "loq9rew",
+      "score": 2,
+      "body": "Sounds like these \"hackers\" are getting what they need out of it, then selling the access to another group. I know Lap$us did this a couple years ago with the twillio, okta, door dash and some other companies. If three data breaches have occurred within the past few years alone. That means okta is not hardening their systems and the same vulnerabilities are exposed. Or there is a backdoor that they haven't found and theirs different groups that are still within their system.\n\nHackers might wait months or years before making a move. It can also take months for an enterprise to realize they've been breached.\n\nThey need to fully remediate their systems, harden them, and implement better endpoint detection. They also need to monitor the traffic on known and of course unknown services running during business hours. They also need to implement better access control user policies. Along with more social engineer training.\n\nAlot of their workers still might be working from home, meaning more social engineering tactics can be used. This also means they are running their computers on their own home networks",
+      "permalink": "/r/wallstreetbets/comments/1foepiz/three_data_breaches_in_three_years_why_do_we/loq9rew/",
+      "created": 1727201983,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "loqh7j2",
+      "score": 6,
+      "body": "Your info is actually just incorrect. \n\nLapsus gained access to a support engineers computer, but the most power they had was to reset passwords and MFA factors. They were unable to obtain passwords, create or delete users, or download customer databases. Approx 2.5% of Okta customers were affected. \n\nIn 2022, GitHub notified Okta that software repositories hosted in GitHub was copied. Not an Okta breach. \n\nIn 2023, an attacker had unauthorized access to files inside Oktas customer support system. While true that data was leaked, this was limited to names and email addresses within the support systems. No user credentials or sensitive data was accessed. Okta’s production systems were untouched. \n\nTo this point, Oktas production systems have not been breached. After the most recent event in 2023 they pushed everything on their product roadmap for a security hardening. Their technology remains the best on the market by a long shot and gives folks the best chance at keeping their environments secure. \n\nGiven the focus back on innovation after the security hardening as well as the huge reductions in price on the auth0 platform and expansion free licensing, I expect them to gain significant market share as they weed out low cost competitors and open source options",
+      "permalink": "/r/wallstreetbets/comments/1foepiz/three_data_breaches_in_three_years_why_do_we/loqh7j2/",
+      "created": 1727204304,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lozbr7q",
+          "score": 1,
+          "body": "And how much did they pay you to say that?",
+          "permalink": "/r/wallstreetbets/comments/1foepiz/three_data_breaches_in_three_years_why_do_we/lozbr7q/",
+          "created": 1727331139,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lp03d8n",
+              "score": 2,
+              "body": "Quick Google search does the trick pal",
+              "permalink": "/r/wallstreetbets/comments/1foepiz/three_data_breaches_in_three_years_why_do_we/lp03d8n/",
+              "created": 1727349329,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lopq6v8",
+      "score": 1,
+      "body": "Stockholm syndrome, entrenchment, and lack of adversary.\n\nAlso with gaureenteed government backstop no error is ever dooming. Look at crowdstrike. They crippled the world for 2 months. And since there’s no adversity, no rush to get things moving again, thus no real damage.\n\nThere’s no black and white to it, just gradual fade and stagnation",
+      "permalink": "/r/wallstreetbets/comments/1foepiz/three_data_breaches_in_three_years_why_do_we/lopq6v8/",
+      "created": 1727195929,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lopr6b0",
+          "score": 1,
+          "body": "Our AI tracks our most intelligent users. After parsing your posts, we have concluded that you are within the 5th percentile of all WSB users.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",
+          "permalink": "/r/wallstreetbets/comments/1foepiz/three_data_breaches_in_three_years_why_do_we/lopr6b0/",
+          "created": 1727196236,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "losbnad",
+      "score": 1,
+      "body": "Very simple answer:\n\nIt's guaranteed lots of work now to switch off Okta, and bosses blame IT for the hassle, downtime and cost. It's potentially lots of work later to deal with an Okta breach, and any downtime or cost gets blamed on Okta not IT.",
+      "permalink": "/r/wallstreetbets/comments/1foepiz/three_data_breaches_in_three_years_why_do_we/losbnad/",
+      "created": 1727227051,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "loq1pn2",
+      "score": 0,
+      "body": "The same reason u have managers telling u working in office is better",
+      "permalink": "/r/wallstreetbets/comments/1foepiz/three_data_breaches_in_three_years_why_do_we/loq1pn2/",
+      "created": 1727199494,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

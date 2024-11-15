@@ -1,0 +1,1792 @@
+{
+  "title": "$NVDA - xAI to Double Down with 100,000 More NVIDIA GPUs, Building World’s Largest AI Supercomputer at Record Speed",
+  "score": 628,
+  "selftext": "NVIDIA and Elon Musk's xAI are ramping up their colossal supercomputer, *Colossus*, to an unprecedented 200,000 Hopper GPUs—doubling the current 100,000 GPU setup in a scale never before seen. Leveraging NVIDIA's advanced Spectrum-X Ethernet networking for seamless data throughput and zero packet loss, Colossus has already set records, becoming operational in just 122 days. As xAI’s Grok large language models expand, the additional 100,000 GPUs will enable faster, more efficient AI model training, accelerating xAI’s generative AI solutions for consumers and enterprises alike.\n\n[https://nvidianews.nvidia.com/news/spectrum-x-ethernet-networking-xai-colossus](https://nvidianews.nvidia.com/news/spectrum-x-ethernet-networking-xai-colossus)\n\n",
+  "link_flair_text": "News",
+  "id": "1ge8ze6",
+  "num_comments": 254,
+  "created_utc": 1730139199,
+  "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/",
+  "comments": [
+    {
+      "id": "lu7r3xn",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 10 | **First Seen In WSB** | 3 years ago\n**Total Comments** | 1078 | **Previous Best DD** | \n**Account Age** | 18 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu7r3xn/",
+      "created": 1730139209,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lu7uv6e",
+      "score": 175,
+      "body": "i wonder how this compares to the resources eg: meta or AWS have access to.\n\nThey might not have one \"supercomputer\" but surely they have an order of magnitude more compute available",
+      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu7uv6e/",
+      "created": 1730140326,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lu7xgjn",
+          "score": 116,
+          "body": "Meta supposedly will have the equivalent of 600-650k H100s by the end of the year. They had about half that amount at the beginning of the year.",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu7xgjn/",
+          "created": 1730141098,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lu7y2lf",
+              "score": 54,
+              "body": "Equivalent of current isn't it, not of the 100k additional GPUs.  Jensen had a video saying that the other companies take like 1-2years to execute what Elon did in 19days.",
+              "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu7y2lf/",
+              "created": 1730141281,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lu8bof1",
+                  "score": 57,
+                  "body": "Nvidia is normally the bottleneck though. It takes months to ramp up GPU manufacturing and shortages have been reported pretty often in the last couple years.\n\nOnce your supply is fixed it's really just throwing more money at it to get priority sourcing the parts and a bigger crew.\n\nAnd you can't forget these amazon, microsoft etc were the first to build the infrastructure. timelines are longer because 3 years ago ai wasn't even close to where it is now and they didn't need that much compute.\n\nDon't get me wrong it's impressive but at the end of the day its all billionaires throwing essentially infinite money at a problem",
+                  "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8bof1/",
+                  "created": 1730145366,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lu8ood7",
+                      "score": -18,
+                      "body": "Elons just got good guys that know how to do infrastructure.",
+                      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8ood7/",
+                      "created": 1730149249,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lu90nij",
+                          "score": 32,
+                          "body": "And Meta doesn't? Jensen probably made that number up to make Elon Musk think his company has an advantage in the competition and keep him buying GPUs",
+                          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu90nij/",
+                          "created": 1730152976,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lubcex5",
+                              "score": 7,
+                              "body": "At the end of the day Jensen is a salesman and will say whatever he needs to say to keep the gravy train rolling",
+                              "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lubcex5/",
+                              "created": 1730187308,
+                              "depth": 6,
+                              "replies": []
+                            },
+                            {
+                              "id": "lucwm0q",
+                              "score": 1,
+                              "body": "Zuck couldn’t get his satellite internet infrastructure up and his website is using AI to ban accounts without a way to recover. These days he seems to only care about bulking up, so no, I don’t think Meta is the same as Tesla.",
+                              "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lucwm0q/",
+                              "created": 1730213935,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "ludc8xy",
+                                  "score": 1,
+                                  "body": "> his website is using AI to ban accounts without a way to recover.\n\nUsers aren't their customers, advertisers are. A few wrongful bans means little to their bottom line compared to cost savings on human moderators",
+                                  "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/ludc8xy/",
+                                  "created": 1730218769,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "lujqhj4",
+                                      "score": 1,
+                                      "body": "You’re assuming these users aren’t businesses, but there are many who are small businesses that run ads with the company.",
+                                      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lujqhj4/",
+                                      "created": 1730306755,
+                                      "depth": 8,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lu910o0",
+                          "score": 16,
+                          "body": "It's because these GPUs were already on-hand, he bought them for Tesla, but decided yet again to defraud investors!",
+                          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu910o0/",
+                          "created": 1730153094,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lv3f3l8",
+                              "score": 1,
+                              "body": "lol, and they magically racked themselves. Fuck you guys are delusional.",
+                              "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lv3f3l8/",
+                              "created": 1730589016,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "lu8f6vc",
+                  "score": 4,
+                  "body": "He’s talking about relative growth though. Musk is nothing compared to Meta and AWS.",
+                  "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8f6vc/",
+                  "created": 1730146417,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "luat1la",
+                  "score": 1,
+                  "body": "I’m not sure I believe what Elon is saying and Jensen is going down the road that Elon is taking so yeah I don’t believe anything Elon says now.",
+                  "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/luat1la/",
+                  "created": 1730175582,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lu9ynfd",
+              "score": 1,
+              "body": "What are Meta using if not H100s?",
+              "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu9ynfd/",
+              "created": 1730164316,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lua523n",
+                  "score": 4,
+                  "body": "For their largest model the 405 billion parameter Llama 3 they excursively use mi300x from AMD for inference for example. AMD GPUs have more vRAM, so that makes them better suited for the large models.",
+                  "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lua523n/",
+                  "created": 1730166459,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lu839oe",
+      "score": 81,
+      "body": "Can it play Crysis?",
+      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu839oe/",
+      "created": 1730142845,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lu8k9ti",
+          "score": 31,
+          "body": "Need to disable V-sync, then it doesn’t lag.",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8k9ti/",
+          "created": 1730147931,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lua2gms",
+          "score": 8,
+          "body": "\"Only gamers will get that joke\" – Jensen Huang",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lua2gms/",
+          "created": 1730165588,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lubdyu5",
+              "score": 1,
+              "body": "Old ones. 🤣",
+              "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lubdyu5/",
+              "created": 1730188397,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lube4m1",
+          "score": 1,
+          "body": "Did anyone actually play Crysis? \n\nI swear it was just a benchmark. 🤣",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lube4m1/",
+          "created": 1730188510,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lu7zfr1",
+      "score": 33,
+      "body": "What do you even do with all this AI?  Is it like graphics cards where by next year there will be a bigger better model?",
+      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu7zfr1/",
+      "created": 1730141688,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "luar9u6",
+          "score": 2,
+          "body": "AI is really good at recognizing patterns in photos, videos, text, and other media where a traditional approach doesn’t work. By investing in more processing power, you get models that are faster to train and improve",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/luar9u6/",
+          "created": 1730174752,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lu855j4",
+      "score": 21,
+      "body": "Is AMD earnings, posting tomorrow at close and expected to be bullish, good for NVDA stock?",
+      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu855j4/",
+      "created": 1730143421,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lu8elwh",
+          "score": 13,
+          "body": "Shouldn’t have an impact on nvda anymore.",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8elwh/",
+          "created": 1730146243,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lu982f0",
+          "score": 9,
+          "body": "Anything bullish for AMD means a mini crash into sideways trading for weeks before untimely recovery while NVDA zooms to Uranus",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu982f0/",
+          "created": 1730155428,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lu7tzch",
+      "score": 116,
+      "body": "How many users are there of xAI? 500?",
+      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu7tzch/",
+      "created": 1730140063,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lu87fzi",
+          "score": 33,
+          "body": "Users just waste compute on inference that could go to training.",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu87fzi/",
+          "created": 1730144109,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lu8f5hk",
+              "score": 27,
+              "body": "Training with Twitter data?  Even more Garbage-In Garbage-out that those training on Reddit data.",
+              "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8f5hk/",
+              "created": 1730146406,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lu813b7",
+          "score": 17,
+          "body": "xAI is a new company focused on AGI, I think.",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu813b7/",
+          "created": 1730142183,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lu8372d",
+          "score": 1,
+          "body": "Why do they need any users?",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8372d/",
+          "created": 1730142823,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lu88pig",
+          "score": 0,
+          "body": "I thought xAI was a new competitor for OpenAI? No?",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu88pig/",
+          "created": 1730144487,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lu7ucfr",
+          "score": -33,
+          "body": "[deleted]",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu7ucfr/",
+          "created": 1730140172,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lu813q4",
+              "score": 30,
+              "body": "xAI doesn’t have their own image generation. They use Black Forest Labs FLUX model.",
+              "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu813q4/",
+              "created": 1730142186,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lu8cbur",
+                  "score": -1,
+                  "body": "For now, but they are working on their own",
+                  "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8cbur/",
+                  "created": 1730145559,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lu8chzs",
+                      "score": 9,
+                      "body": "Just emphasizing that the product he’s touting isn’t actually xAI’s product.",
+                      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8chzs/",
+                      "created": 1730145609,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lu8gcu2",
+                      "score": 8,
+                      "body": "They will also have millions of Robotaxis on the street by 2018. Oh, wait...",
+                      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8gcu2/",
+                      "created": 1730146766,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lu8ghkq",
+                          "score": 2,
+                          "body": "xAi is not Tesla",
+                          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8ghkq/",
+                          "created": 1730146805,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lu7up5g",
+              "score": 36,
+              "body": "Go to any serious AI subreddit and you’ll find X’s AI/LLM is basically laughed at\n\nEdit: Jk, look at his [account age](https://www.reddit.com/r/wallstreetbets/s/Pl9wca3pH6), he knows what he’s talking about",
+              "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu7up5g/",
+              "created": 1730140277,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lu80ixh",
+                  "score": 24,
+                  "body": "Hate to break it to you but Reddit is not where industry users and experts post",
+                  "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu80ixh/",
+                  "created": 1730142012,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lu82p0i",
+                      "score": 5,
+                      "body": "You’re right, I’m sure there’s no real AI industry or expert users on Reddit, a place known for being a hub for nerds. I’ll let everyone over at the subs I previously thought were for AI professionals know that they can disband. \n\nThanks for the heads up!",
+                      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu82p0i/",
+                      "created": 1730142670,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lu8pcx5",
+                          "score": 4,
+                          "body": "There will be a couple. Most don’t post because this place has become a sesspit and even if they tried if it doesn’t fit the current hive mind narrative it will just be ignored.",
+                          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8pcx5/",
+                          "created": 1730149462,
+                          "depth": 5,
+                          "replies": []
+                        },
+                        {
+                          "id": "lu9mvwh",
+                          "score": 2,
+                          "body": "There might be some expert users but I guarantee you anyone working at the big and high profile AI companies that are at the bleeding edge right now are behind a bunch of NDA's",
+                          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu9mvwh/",
+                          "created": 1730160403,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lu85bvp",
+                      "score": 2,
+                      "body": "U don't think those experts where here years ago?",
+                      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu85bvp/",
+                      "created": 1730143474,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lu85mev",
+                          "score": 7,
+                          "body": "No, it must have been someone else running r/SubSimulatorGPT2",
+                          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu85mev/",
+                          "created": 1730143563,
+                          "depth": 5,
+                          "replies": []
+                        },
+                        {
+                          "id": "lu8kt3m",
+                          "score": 2,
+                          "body": "Industry users are not posting their current views on reddit for the same reason Google employees don't ask Reddit for help with their work",
+                          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8kt3m/",
+                          "created": 1730148090,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lu8udne",
+                              "score": 2,
+                              "body": "But I'm behind 9 proxies and 3 vpns",
+                              "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8udne/",
+                              "created": 1730151014,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "lu7z8sw",
+                  "score": 15,
+                  "body": "Redditors (🤮) hate Ellen, and if they hate something they are dumb enough to de facto discredit anything within it's sphere because nuance requires IQ above room temperature\n\nCan we really trust their opinions on this topic?",
+                  "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu7z8sw/",
+                  "created": 1730141631,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lu7van4",
+                  "score": -17,
+                  "body": "I don’t need to ask someone else use them daily.",
+                  "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu7van4/",
+                  "created": 1730140453,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lu7w5tq",
+                      "score": 9,
+                      "body": "Thats the most infuriating online thing ever. \n\n“Go ask other people, you’ll see you’re wrong.”",
+                      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu7w5tq/",
+                      "created": 1730140713,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lu8d7gz",
+      "score": 14,
+      "body": "The system goes online August 4th, 1997. Human decisions are removed from strategic defense. Skynet begins to learn at a geometric rate. It becomes self-aware at 2:14 a.m. Eastern time, August 29th. In a panic, they try to pull the plug.",
+      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8d7gz/",
+      "created": 1730145821,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lu7z4z9",
+      "score": 4,
+      "body": "Does TsLA benefit from this? Or are they separate entirely?",
+      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu7z4z9/",
+      "created": 1730141599,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lu8eoqo",
+          "score": 9,
+          "body": "Separate",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8eoqo/",
+          "created": 1730146267,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lu8xwdd",
+          "score": -2,
+          "body": "They've gotsynergy. You'd better believe xAI's advances will be applied to Robotaxis and Optimus.",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8xwdd/",
+          "created": 1730152114,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lu87l7z",
+      "score": 14,
+      "body": "[deleted]",
+      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu87l7z/",
+      "created": 1730144153,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lu8gr0u",
+          "score": 11,
+          "body": "Google literally just won a nobel prize in chemistry for alpha-fold",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8gr0u/",
+          "created": 1730146882,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lu96utr",
+              "score": 7,
+              "body": "Proves the point really, as that's not generative AI (which is where the lions share of hardware spend is going)",
+              "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu96utr/",
+              "created": 1730155022,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lu98bsw",
+                  "score": 3,
+                  "body": "It is generative AI. I think you mean it's not an LLM.",
+                  "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu98bsw/",
+                  "created": 1730155515,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "luc3bh0",
+                      "score": 2,
+                      "body": "Alphafold2 that won the Nobel prize wasn't.\n\n\nFair point that the latest iteration utilises diffusion heavily, ",
+                      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/luc3bh0/",
+                      "created": 1730203409,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lu8jcaf",
+              "score": 1,
+              "body": "[deleted]",
+              "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8jcaf/",
+              "created": 1730147650,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lu8qqcu",
+                  "score": 6,
+                  "body": "Bro",
+                  "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8qqcu/",
+                  "created": 1730149886,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lualndk",
+          "score": 4,
+          "body": "The advancements in robots should come soon. Nvidia’s Issac sim helps train humanoid robots in walking and hand movements when combined with an Apple Vision Pro. Open AI has been helping figure robotics integrate advanced voice mode into robots allowing people to talk directly to the robot and have it infer what you want. \n\nOpen Ai is also partnering with Disney on some sizable projects. \n\nNew tools are coming out every week for image and video generation. We are close to the level needed to create full scale anime/movies using these tools. \n\nIt doesn’t for make sense to build out an ecosystem for everything else when compute is still too expensive and models next year will be completely different.",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lualndk/",
+          "created": 1730172361,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lu9l6yt",
+          "score": 3,
+          "body": ">i have yet to see anything that really blows me away outside of some tech demos\n\nThis is simple, but I saw a robotic AI apple picker over on r/singularity I think. For some reason, that blew me away. I just didn't realize that robots/AI was at that state yet. I figured we'd get there eventually but didn't realize it was out and being used already.",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu9l6yt/",
+          "created": 1730159827,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lu8a99j",
+          "score": -3,
+          "body": "For me it’s a force multiplier I don’t need programmers or graphics artists anymore.  It also speeds up research so I give it a kernel of an idea and it helps me flush out the details much quicker than my old process.",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8a99j/",
+          "created": 1730144947,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lu8huzh",
+              "score": 10,
+              "body": "please showcase some of your work. I would love to see your product(s) that required no programmers or graphic artists. That sounds pretty game changing.",
+              "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8huzh/",
+              "created": 1730147209,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lu8041n",
+      "score": 55,
+      "body": "But all the Reddit neckbeards told me this wasn’t possible and Elon is a moron….",
+      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8041n/",
+      "created": 1730141890,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lu81u7o",
+          "score": 37,
+          "body": "That's why shorts have lost $2,4B this year \n\nWorld is full of regards",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu81u7o/",
+          "created": 1730142411,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lu8ea0f",
+              "score": 11,
+              "body": "4.2 B on tesla",
+              "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8ea0f/",
+              "created": 1730146144,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lu8r7ge",
+              "score": -1,
+              "body": "?\n\nTSLA is up 5% TYD after a 20% jump following a weird earnings beat.  \nDid you just add up every time TSLA goes up as if every short only buys at the bottom?",
+              "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8r7ge/",
+              "created": 1730150032,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lu8d04y",
+          "score": 32,
+          "body": "How does this prove anything? Musk will spend Billions on GPUs and achieve very little with it. Musk hasn't really achieved anything yet except spending a ton of money. \n\nJensen is just complimenting Musk on building it because he's a skilled salesman. Making your customer feel like a genius for using your product is a great way to secure more sales.",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8d04y/",
+          "created": 1730145761,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lu9rkmx",
+              "score": 2,
+              "body": "NVIDIA is basically a monopoly right now.  He could call Elon Musk an idiot and he would still buy.  And if somehow he didn't, NVIDIA has a million other customers in line behind him that would.",
+              "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu9rkmx/",
+              "created": 1730161949,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lu9svs0",
+                  "score": 2,
+                  "body": "Nvidia's monopoly won't last; AMD is working on a competitor product, and Google/Microsoft are going to be cutting out Nvidia entirely and using their own in-house chips starting in 2027/2028.",
+                  "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu9svs0/",
+                  "created": 1730162383,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lu8olb4",
+              "score": 9,
+              "body": "Yep, SpaceX has achieved nothing. Totally hasn't revolutionized space travel and made the cost 100x cheaper and cut out Russia as the middle man.",
+              "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8olb4/",
+              "created": 1730149222,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lu8rkdj",
+                  "score": -1,
+                  "body": "SpaceX and xAI are two different companies.\n\nThe issue with ai is that the entire investing thesis is based on a misunderstanding of the underlying science. ML models work by determining the probability of results given a pattern. Despite popular belief, ML models cannot think critically like humans can. This has been proven many times in academic papers.\n\nThe main takeaway here is that AI cannot reason through situations that do not follow previously trained patterns.\n\nThe people leading tech companies are not computer science PHDs. They have MBAs, or are college dropouts that founded their company. So they are making huge decisions on AI investment without understanding the underlying science.\n\nAi has some valid uses, but the business world is vastly overestimating it's potential. They are mostly just copying each other trying to compete for as many gpus as they can order, kind of like how 3-4 years ago they went on a huge hiring spree competing for talent. Eventually they will cut back to trim their losses.\n\nSpaceX is also only afloat because of government contracts, btw. It is not profitable.",
+                  "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8rkdj/",
+                  "created": 1730150142,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lu9n9s8",
+                      "score": 5,
+                      "body": "[deleted]",
+                      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu9n9s8/",
+                      "created": 1730160527,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lu9t3ix",
+                          "score": 3,
+                          "body": "Large language models haven't improved vertically since early 2023, despite compute power available growing substantially. The only way in which they have improved is horizontally(specialized LLMs for various topics that a main LLM delegates to)",
+                          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu9t3ix/",
+                          "created": 1730162453,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lu9saco",
+                      "score": 2,
+                      "body": ">This has been proven many times in academic papers.\n\nPlease cite this \"proof.\"  Any scientist who gained an understanding of how the brain works to the level needed to define a concept like \"thinking critically like humans can\" would be winning a Nobel prize 100%.  And that's an understatement.  It would be so far ahead of current science that this discovery would be considered on the level of Newton or Einstein.",
+                      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu9saco/",
+                      "created": 1730162189,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lu9smln",
+                          "score": 7,
+                          "body": "[GSM-Symbolic: Understanding the Limitations of\nMathematical Reasoning in Large Language Models](https://arxiv.org/pdf/2410.05229)",
+                          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu9smln/",
+                          "created": 1730162299,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lu9usd3",
+                              "score": 2,
+                              "body": "So they noticed a performance drop when they intentionally made the questions annoying and confusing?  Wow, what a socking result.  It's kind of like... a human.  Did you see the sample question?  Plenty of people would have got that wrong.",
+                              "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu9usd3/",
+                              "created": 1730163010,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lua8zko",
+                                  "score": 7,
+                                  "body": "You literally are taught to identify which pieces of information are relevant when you are taught word problems in elementary school. This isn't some crazy difficult algorithm question, it's a question a 4th grader can easily answer...",
+                                  "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lua8zko/",
+                                  "created": 1730167768,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lu8xl8w",
+                      "score": 3,
+                      "body": "Please remind me of when NASA was profitable.",
+                      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8xl8w/",
+                      "created": 1730152017,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lu8yoz0",
+              "score": 8,
+              "body": "Are you regarded?\n\nNvidia has the world hottest commodity, Jensen doesn’t need to stroke anyone’s ego. He wouldn’t say this if he didn’t believe it.",
+              "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8yoz0/",
+              "created": 1730152360,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lu90dt1",
+                  "score": -3,
+                  "body": "X ai is one of their largest customers. They need every customer they can get to keep up with the market's growth expectations.",
+                  "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu90dt1/",
+                  "created": 1730152889,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lu91h4r",
+                      "score": 15,
+                      "body": "“Huang praised the rapid installation of 100,000 Nvidia H100 chips within just 19 days, a task that typically takes years to complete.”\n\nSo are you saying this isnt impressive? Setting up a 100,00 GPU cluster in less than a month?",
+                      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu91h4r/",
+                      "created": 1730153243,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lua8v5g",
+                          "score": -4,
+                          "body": "you think elon was plugging GPUs?\n\ndude has a team, or whoever is in charge of that vertical has got skills to build a team, but elon, as of now is a complete fucking moron literally buying votes to win an election and stroke his ego fucking everything up because he feels like he's the world's savior when some of his most core views on humanity are planly wrong (like infinite sustainable population growth)\n\n  \nhe really should stick to what his autism actually benefits him, like aerospace (if he actually is in charge of any of that) or tesla whenever he doesn't feel like scamming everyone![img](emote|t5_2th52|4276)",
+                          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lua8v5g/",
+                          "created": 1730167726,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lua95ay",
+                              "score": 8,
+                              "body": "\nCope and seethe loser",
+                              "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lua95ay/",
+                              "created": 1730167822,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lu8i646",
+              "score": -3,
+              "body": "Lolllll what",
+              "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8i646/",
+              "created": 1730147301,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lu8kqyz",
+                  "score": 16,
+                  "body": "If Jensen Huang actually felt that Musk was clueless and unlikely to be successful with his AI projects, do you think he would speak negatively of one of his largest customers? Of course not.\n\nMusk is the kind of person that will cut ties with anyone that disagrees with him or portrays him in a bad light.",
+                  "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8kqyz/",
+                  "created": 1730148072,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lu8rbns",
+                      "score": 1,
+                      "body": "Can’t believe these comments are from a redditor with 160k karma\n\n…wait it actually makes sense",
+                      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8rbns/",
+                      "created": 1730150068,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lu9a3j3",
+          "score": 3,
+          "body": "The Elon Test is a wonderful heuristic. Anyone who speaks poorly of him - you can inverse a majority of their thinking.",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu9a3j3/",
+          "created": 1730156101,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lu8aod9",
+          "score": 5,
+          "body": "nobody said that especially not if your pockets are filled with cash. This „but reddit told me“ schtick is telling on you - you would like others to be wrong so badly.",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8aod9/",
+          "created": 1730145071,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lu8gshr",
+              "score": 2,
+              "body": "r/technology had tons of posts saying it was impossible",
+              "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8gshr/",
+              "created": 1730146894,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lu8omqt",
+                  "score": 1,
+                  "body": "Saying what was impossible?",
+                  "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8omqt/",
+                  "created": 1730149235,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lu9005m",
+                      "score": 3,
+                      "body": "Setting up 100,000 GPU cluster in months vs years.",
+                      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu9005m/",
+                      "created": 1730152768,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lu8rhmw",
+                      "score": 3,
+                      "body": "It's IMPOSSIBLE that im going to the market and buying 5kg of jasmine rice",
+                      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8rhmw/",
+                      "created": 1730150119,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lu907pg",
+                          "score": 3,
+                          "body": "The feat is setting up 100,000 GPUs in a way they work together, not just buying them smooth brain",
+                          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu907pg/",
+                          "created": 1730152835,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lub0lrh",
+          "score": 1,
+          "body": "You can spend billions when it means you can pump tens of billions into your stocks. He wont do jackshit with those gpu appart from renting their usage for cheap down the road and in a few years hell be back on bandwagonning the next hype train to inflate his grifts",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lub0lrh/",
+          "created": 1730179580,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lud18oj",
+              "score": 1,
+              "body": "SpaceX and Tesla are grifts? Please do Explain",
+              "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lud18oj/",
+              "created": 1730215392,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lu8fcy9",
+          "score": 1,
+          "body": "Not sure what some of the crowd has been saying. Building the cluster is definitely possible. But coming out and saying they did it in 19 days is a straight up lie.",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8fcy9/",
+          "created": 1730146467,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lu90fc2",
+              "score": 2,
+              "body": "How so? Explain?",
+              "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu90fc2/",
+              "created": 1730152902,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lu8rdbj",
+          "score": 1,
+          "body": "\"It isn't possible\" that Elon will just buy something?\n\nWhat are you talking about?",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8rdbj/",
+          "created": 1730150082,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lu89twf",
+          "score": 1,
+          "body": "tsla to 300!",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu89twf/",
+          "created": 1730144821,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lu8tnxx",
+          "score": 1,
+          "body": "Isn’t it a little weird that he can go around throwing money like this? Who’s funding Elon?",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8tnxx/",
+          "created": 1730150793,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lu91ks5",
+              "score": 2,
+              "body": "His companies, that generate revenue…..",
+              "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu91ks5/",
+              "created": 1730153276,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lu8h50j",
+          "score": -2,
+          "body": "Elon bought something, what a great achievement. I hope he writes a book on how to buy GPUs in the future so I can be like him.",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8h50j/",
+          "created": 1730146997,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lu8m8r1",
+              "score": 0,
+              "body": "Yeah it’s that easy, just buy stuff and it magically works!",
+              "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8m8r1/",
+              "created": 1730148517,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lu7u3g3",
+      "score": 12,
+      "body": "The only time i wanna see that muppet attached to my golden goose",
+      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu7u3g3/",
+      "created": 1730140097,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lu7wky7",
+          "score": 7,
+          "body": "As long as he’s spending money for my benefit, he’s all aces in my book.",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu7wky7/",
+          "created": 1730140838,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lu96n7r",
+              "score": 1,
+              "body": "Your benefit??😀",
+              "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu96n7r/",
+              "created": 1730154951,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lu81b6p",
+      "score": 32,
+      "body": "WSB degens: Elmo is a fraud and liar\n\nNVDIA's CEO: The GPUs should have taken 3-4 years to set up but Elon's team did it in 19 days. Just unbelievable the way they get things done.",
+      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu81b6p/",
+      "created": 1730142250,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lu82owf",
+          "score": 37,
+          "body": "Crazy how people’s bias let them sleep on that achievement.",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu82owf/",
+          "created": 1730142669,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lu838iw",
+          "score": 7,
+          "body": "Elon needed the GPU’s set up before the new season of Diablo IV dropped",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu838iw/",
+          "created": 1730142835,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lu8e4uz",
+          "score": 8,
+          "body": ">NVDIA's CEO: The GPUs should have taken 3-4 years to set up but Elon's team did it in 19 days. Just unbelievable the way they get things done.\n\nI don't think you understand sales. Musk has shown countless times that he will cut ties with anyone that disagrees with him, and surrounds himself with yes men. By praising Musk and appealing to his narcissist personality,  Jensen is ensuring a good customer relationship and securing even more future sales.\n\nIf Jensen said that Musk was a moron that doesn't know how to use their products effectively, he would risk losing one of their largest customers. Why would he do that?",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8e4uz/",
+          "created": 1730146100,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lu8qb8w",
+              "score": 12,
+              "body": "He didn't say Elon has a big dick or that his chili recipe is the best\n\nHe stated that it's fucking stupid how fast his team set up GPUs that would take other companies 10x longer \n\nJensen still has a reputation to uphold. He's not going to give praise in a way that makes him look less knowledgeable.",
+              "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8qb8w/",
+              "created": 1730149756,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lu8bq32",
+          "score": 19,
+          "body": "No don't you understand?  Elon didn't do anything at xAI, that's all the engineers.  He's just a lucky fraud.\n\nAnd Elon didn't do anything at SpaceX either, that's all the engineers.  He's just a lucky fraud.\n\nAnd Elon didn't do anything at Tesla either.  He didn't even start the company.  Obviously the founders who led the company for about 4 months did all the hard work.  Elon is just a lucky fraud.\n\nAlso, Elon fired 75% of Twitter's staff, so obviously he has no idea what he's doing.",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8bq32/",
+          "created": 1730145380,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lu8e3uw",
+              "score": 12,
+              "body": "Don’t forget: “It’s elon’s fault that the launch pad blew up…2 months later…good job spaceX engineers on your rocket catch which had nothing to do with elon.”",
+              "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8e3uw/",
+              "created": 1730146092,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lu8cvx4",
+              "score": 15,
+              "body": "This sarcasm comes extremely close to sounding like some of the morons on here.\n\nThe \"Elon isn't a real engineer\" cope is my personal favorite.\n\nI have 2 retired NASA execs in my family. They both said that Elon is going to turn the world on it's head about 10 years ago. I feel like they knew better than a bunch of gamblers behind a Wendy's. Shocker",
+              "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8cvx4/",
+              "created": 1730145725,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lu8nq2a",
+                  "score": 9,
+                  "body": "My uncle works at nintendo too",
+                  "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8nq2a/",
+                  "created": 1730148960,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lu8pk0s",
+                      "score": 2,
+                      "body": "Can you please ask him for the MK blood code? I forgot it",
+                      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8pk0s/",
+                      "created": 1730149523,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lu8eihg",
+              "score": 4,
+              "body": "You gotta put /s otherwise people will take this as gospel unironically",
+              "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8eihg/",
+              "created": 1730146214,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lu82rzq",
+          "score": 9,
+          "body": "Regards be politicizing his achievements. NVDA 🚀🚀🌗🌗",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu82rzq/",
+          "created": 1730142696,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lu87iql",
+          "score": 8,
+          "body": "\\>3-4 years \n\n  \nMaybe to some government enterprise. There's no way any sane tech company would've taken that long.",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu87iql/",
+          "created": 1730144132,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lu8araq",
+              "score": 7,
+              "body": "Jensen Huang's quote, not mine...",
+              "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8araq/",
+              "created": 1730145096,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lu893lj",
+              "score": 7,
+              "body": "Jensen Huang vs bighand1",
+              "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu893lj/",
+              "created": 1730144604,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lu8ekb8",
+                  "score": 0,
+                  "body": "Boatselling showmanship to people who don't know anything about tech.",
+                  "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8ekb8/",
+                  "created": 1730146229,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lu88bb9",
+          "score": 1,
+          "body": "Those yearly estimates are for the entire data center construction and implementation.",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu88bb9/",
+          "created": 1730144369,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lu8auzx",
+              "score": 3,
+              "body": "Jensen Huang's quote not mine",
+              "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8auzx/",
+              "created": 1730145126,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lu9ie20",
+                  "score": 4,
+                  "body": "Jensen is being kind, because he is smart and diplomatic, and wants to sell product. His quote is being misinterpreted. Nineteen days is the time between the first rack hitting the floor and when training began.",
+                  "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu9ie20/",
+                  "created": 1730158878,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lua0t7y",
+                      "score": 2,
+                      "body": "Ok but when has he ever acted like he had his mind blown during an interview just to be “kind”?",
+                      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lua0t7y/",
+                      "created": 1730165031,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lu8654r",
+      "score": 3,
+      "body": "[deleted]",
+      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8654r/",
+      "created": 1730143719,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lu8l0vm",
+          "score": 1,
+          "body": "What kinda checks do they do when establishing an account? Just a uni address?",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8l0vm/",
+          "created": 1730148155,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lu95ovx",
+      "score": 3,
+      "body": "Looks like most if not all of this was supplied by SMCI https://x.com/servethehome/status/1850917031421399543?s=46&t=yfvZaJ6XV_eAKUdFiAaYOw",
+      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu95ovx/",
+      "created": 1730154631,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lu8h23r",
+      "score": 7,
+      "body": "Jensen got Elon to buy up all the Hopper stock ahead of the blackwell launch.",
+      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8h23r/",
+      "created": 1730146972,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lu7yzmt",
+      "score": 2,
+      "body": "They should be buying 100 billion more nvda gpus",
+      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu7yzmt/",
+      "created": 1730141555,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lu91kxr",
+      "score": 2,
+      "body": "NVDA CALLS",
+      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu91kxr/",
+      "created": 1730153277,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lu97ll8",
+          "score": 1,
+          "body": "I got on that train today",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu97ll8/",
+          "created": 1730155270,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lu7sase",
+      "score": 6,
+      "body": "Elon is officially crazy 🤪",
+      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu7sase/",
+      "created": 1730139564,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lu7sfnp",
+          "score": -7,
+          "body": "When everyone has gold fever sell the shovels",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu7sfnp/",
+          "created": 1730139604,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lu7uhx3",
+              "score": 22,
+              "body": "He's buying the shovels",
+              "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu7uhx3/",
+              "created": 1730140217,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lu7v21f",
+                  "score": 0,
+                  "body": "And I’m buying $NVDA this will cause all the other AI companies to buy more GPUs",
+                  "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu7v21f/",
+                  "created": 1730140383,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lu8f752",
+                      "score": 2,
+                      "body": "I hate to break to you, but at this point, Nvidia stock is the shovel itself. You are buying them at 66x earnings, and 35 times their forward earnings(which is already based on the assumption of tremendous growth). If at any point this rush slows down or plateaus, you will be stuck holding the bag. If Google, AMD, or Microsoft, are successful in their plans to develop their own AI chips, and put pressure on Nvidia's margins, you will be stuck holding the bag.\n\nThe real way to make money in AI right now is in consulting. If you have the right skillset, you can make an insane amount of money right now.",
+                      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8f752/",
+                      "created": 1730146420,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lu7xl40",
+                      "score": 2,
+                      "body": "Well yeah but I thought you were saying \"Elon is selling the shovels\"",
+                      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu7xl40/",
+                      "created": 1730141137,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lu7ynm2",
+                          "score": 5,
+                          "body": "No Jensen is selling the shovels to Elon and everyone else.",
+                          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu7ynm2/",
+                          "created": 1730141455,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lu7uxmj",
+              "score": 2,
+              "body": "But Elon is buying shovels hoping he'll find gold",
+              "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu7uxmj/",
+              "created": 1730140347,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lu8gb8w",
+      "score": 1,
+      "body": "Have they it running yet, whose data centres do they run them in?",
+      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8gb8w/",
+      "created": 1730146753,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lu8gvem",
+          "score": 1,
+          "body": "Jensen says it’s running he was talking about it in a video a week or two ago",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8gvem/",
+          "created": 1730146918,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lu8hl9o",
+              "score": 1,
+              "body": "Where are they running it? There aren’t many DCs set up for the 130kW liquid cooled racks that the H200 ship in",
+              "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8hl9o/",
+              "created": 1730147130,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lu8l8ie",
+                  "score": 1,
+                  "body": "Memphis Tennessee I believe they said",
+                  "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8l8ie/",
+                  "created": 1730148218,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lublc7m",
+                      "score": 1,
+                      "body": "What colo I mean?",
+                      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lublc7m/",
+                      "created": 1730193536,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lu8gejd",
+      "score": 1,
+      "body": "Isn’t Blackwell already out?",
+      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8gejd/",
+      "created": 1730146780,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lu95hjq",
+      "score": 1,
+      "body": "The supercomputer must grow",
+      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu95hjq/",
+      "created": 1730154564,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lu965mw",
+      "score": 1,
+      "body": "I guess ‘dojo’ was just vaporware, too.",
+      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu965mw/",
+      "created": 1730154788,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lu97v2e",
+          "score": 1,
+          "body": "I don’t think it worked out he said it had a small chance of success to start with.",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu97v2e/",
+          "created": 1730155360,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lu9d4up",
+      "score": 1,
+      "body": "A cluster it takes them 19 days to do; but putting together a piece of Ikea furniture? *That* takes two years...",
+      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu9d4up/",
+      "created": 1730157117,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lua42z7",
+      "score": 1,
+      "body": "How many Chrome windows can it handle?",
+      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lua42z7/",
+      "created": 1730166136,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "luacwac",
+          "score": 2,
+          "body": "Seven then it gets laggy",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/luacwac/",
+          "created": 1730169101,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lua89e3",
+      "score": 1,
+      "body": "Skynet here we come !! Those Optimus robots aren’t going to run themselves",
+      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lua89e3/",
+      "created": 1730167524,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "luat9ww",
+      "score": 1,
+      "body": "$VRT",
+      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/luat9ww/",
+      "created": 1730175691,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lubcuvc",
+      "score": 1,
+      "body": "I don't like that an unserious troll like Musk controls an advanced AI supercomputer.",
+      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lubcuvc/",
+      "created": 1730187619,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lu7yp48",
+      "score": 2,
+      "body": "Love that they’re calling it Colossus when that was the name of the [failed AI-based program](https://www.insurancejournal.com/news/national/2010/10/19/114146.htm)that lead to wide-spread skepticism of AI in the first place (at least at the corporate level)\n\nThat thing has resulted in my having to explain away those concerns countless times to executives at my place of work when pitching my own AI initiative lol.",
+      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu7yp48/",
+      "created": 1730141467,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lu7v9zi",
+      "score": -2,
+      "body": "Scary that this lunatic will have the biggest AI server on earth.",
+      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu7v9zi/",
+      "created": 1730140448,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lu7vno3",
+          "score": 12,
+          "body": "Already has he’s doubling it.",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu7vno3/",
+          "created": 1730140562,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lu7y4j2",
+              "score": -8,
+              "body": "Elon fanboys making shit up to make their leader look good for no reason.",
+              "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu7y4j2/",
+              "created": 1730141297,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lu7ygpl",
+                  "score": 8,
+                  "body": "I’m buying NVDA actually it’s simple to google the facts would recommend perplexity for hard number comparisons with sources.",
+                  "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu7ygpl/",
+                  "created": 1730141397,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lu83diz",
+                      "score": 0,
+                      "body": "Good shit recommending perplexity. It's a game changer.",
+                      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu83diz/",
+                      "created": 1730142879,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lu83zft",
+                          "score": 2,
+                          "body": "Now you need to research a DD on a winner and send it to me first!",
+                          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu83zft/",
+                          "created": 1730143064,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "lu81jw7",
+                  "score": 6,
+                  "body": "Yea Elon has never done anything\n\n\"Maaaaaaa! The meatloaf!!\"",
+                  "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu81jw7/",
+                  "created": 1730142323,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lu7u88l",
+      "score": 1,
+      "body": "I start to beleave that X probably is having quite a bit X blue and advertising revenue to finance the hole thing...",
+      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu7u88l/",
+      "created": 1730140137,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lu7uuxy",
+          "score": 4,
+          "body": "As long as the check doesn’t bounce, NVIDIA seems like an easy win. Other AI companies are going to have to try and keep parity.",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu7uuxy/",
+          "created": 1730140324,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lu819bh",
+          "score": 2,
+          "body": "X is a separate company from xAI. xAI raised investor money to pay for this.",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu819bh/",
+          "created": 1730142234,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lu83k71",
+      "score": 1,
+      "body": "Biggest winner here is TSSI",
+      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu83k71/",
+      "created": 1730142935,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lu8llbx",
+      "score": 1,
+      "body": "Could xAI disrupt the btc blockchain with its computing abilities?",
+      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8llbx/",
+      "created": 1730148324,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lu8lv48",
+          "score": 1,
+          "body": "I don’t think so",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8lv48/",
+          "created": 1730148405,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lu8rcj5",
+              "score": 1,
+              "body": "I would think that is not something Elon would philosophically aim to do but that’s concerning for anyone’s btc bull thesis",
+              "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8rcj5/",
+              "created": 1730150075,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lu8talq",
+                  "score": 1,
+                  "body": "I view it as buying every combination for the lotto technically possible but usually not worth the risk.",
+                  "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8talq/",
+                  "created": 1730150678,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lu8fpph",
+      "score": 1,
+      "body": "I learned today that an AI search uses 10x more energy than a google search, and an AI generated picture uses enough energy to charge a mobile phone.\n\nThose economics don't stack up for a field that has yet to be monetized, and the brokest man in the world is going to be Elon Musk. Its a mathematical certainty. Musk is creating a machine to burn wealth faster than any other in history, causing everybody's lights to flicker because he can afford all of your electricity. \"Elon's Folly\". Only somebody with aspergers and no sober voices thinks that having the biggest gaming PC makes him  king.\n\nMany rich men have been destroyed by their own hubris. Nobody cares how big your computer is mate. You're a fool and I don't respect you.",
+      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8fpph/",
+      "created": 1730146573,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lu8dpb5",
+      "score": -1,
+      "body": "To do fucking what, answer dumbass twitter questions? Also it's a private company so who fucking cares.",
+      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8dpb5/",
+      "created": 1730145970,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lu7yzgu",
+      "score": -5,
+      "body": "[deleted]",
+      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu7yzgu/",
+      "created": 1730141554,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lu85256",
+          "score": 3,
+          "body": "ugh.....you regards are getting just boring now. he still holds about 74 MILLION shares himself and another 700 MILLION in partnership agreements. \n\nCEOs selling off shares at ATH is the least newsworthy thing I can think of.",
+          "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu85256/",
+          "created": 1730143391,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lu9thsv",
+              "score": 1,
+              "body": "They complain when the CEOs sell their shares.  They complain when the CEOs don't sell their shares.",
+              "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu9thsv/",
+              "created": 1730162582,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lu8gugf",
+              "score": 0,
+              "body": "> CEOs selling off shares at ATH is the least newsworthy thing I can think of.\n\nWhy would he be selling off shares if he is convinced that AI is the future and that the stock isn't overvalued? He sold the maximum he's allowed to sell by law under the trading agreement he filed. He literally cannot sell more without filing his intent to do so(which could crash the stock)\n\nif I was in his position, I would not sell much at once, as that can cause alarm and crash the stock. way better to sell a little bit at a time to avoid causing any panic and moving the markets.",
+              "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8gugf/",
+              "created": 1730146910,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lu8ijkl",
+                  "score": 2,
+                  "body": "why wouldn't you sell off 2% of your holdings for a couple billion in yacht money? Bezos does the same thing. You think AMZN is going to go tits up any time soon?\n\nIt's not cause for alarm that would crash the stock since most adults understand this is pretty normal practice and he still holds. $9,800,000,000 worth of stock himself in addition to the 700+ other shares in other agreements.\n\nWho knows what his plan is, or what his cash flow priorities are but I'd expect billionaires to diversify.\n\nGates sold $1B worth of MSFT way back in 2014, and still held about $17B. With the price action shortly after that the net value of his holdings was about the same since the stock price rose.\n\nPoor people aren't going to rationalize the habits of billionaires. Jensen selling is just bear fodder.",
+                  "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8ijkl/",
+                  "created": 1730147412,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lu832s3",
+      "score": 0,
+      "body": "Any idea who is supplying the servers? SMCI?",
+      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu832s3/",
+      "created": 1730142787,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lu8kt5r",
+      "score": 0,
+      "body": "Essentially run by teenagers",
+      "permalink": "/r/wallstreetbets/comments/1ge8ze6/nvda_xai_to_double_down_with_100000_more_nvidia/lu8kt5r/",
+      "created": 1730148091,
+      "depth": 0,
+      "replies": []
+    }
+  ],
+  "stockTickers": {
+    "post_summary": "xAI is doubling NVIDIA GPUs to build the world's largest AI supercomputer.",
+    "companies": [
+      "NVIDIA",
+      "xAI"
+    ],
+    "tickers": [
+      "NVDA"
+    ],
+    "main_ticker": [
+      "NVDA"
+    ]
+  },
+  "sentimentAnalysis": {
+    "post_summary": "The post describes how NVIDIA's GPUs are being used by Elon Musk's xAI to build one of the largest AI supercomputers in the world.",
+    "stock_recommendations": "The user is recommending to buy NVDA stock",
+    "is_recommending_stock_buying_or_selling": true,
+    "buy_or_sell": "buy",
+    "sentiment_summary": "There is positive sentiment as the author highlights NVIDIA's role in advancing AI technology through a large partnership with xAI.",
+    "sentiment": "positive"
+  }
+}

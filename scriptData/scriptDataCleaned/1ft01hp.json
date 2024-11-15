@@ -1,0 +1,594 @@
+{
+  "title": "10 stacks on CAT calls to run up before earnings",
+  "score": 34,
+  "selftext": "Caterpillar (CAT) reports earnings between the 25th and the 30th, with most estimates being the 29th. (They haven't announced the date yet.) I bought 7x NOV 1 CALL 390 contracts to profit from a run-up in IV.\n\nBased on my model of historical pre-earnings IV, even if CAT stays flat or dips a little bit, these options should move up in price. They're at 29.8% IV right now, with vega of 0.46 and theta 0.24. Here's a monte carlo simulation, where the horizontal axis is number of days remaining until earnings are released.\n\nhttps://preview.redd.it/2r8tpd0z1zrd1.png?width=1885&format=png&auto=webp&s=907aa6ffabe68795bd4938e63c9e659a4aa1ae03\n\nFrom top to bottom, the red lines are the 90th percentile, mean (expected value), 10th percentile, and 1st percentile of the expected contract price. Because of the way that IV increases as earnings get closer, the distribution of daily log-returns of the stock, and the relative values of vega and theta, I think it's likely that the price increase from delta and IV will outpace the price drop from theta.\n\nI think the stock will rise over the next few weeks as folks prep for earnings, because:\n\n* They've been giving conservative guidance this year, which has been accurate re: revenue and customer inventories, but they are still outperforming in terms of profit.\n* Forecasters have consistently underestimated CAT EPS, so they consistently post an EPS beat.\n* Only one of their major competitors reports in the next couple weeks, so there's little risk of a big shock to the stock price. The rest of their competitors all report around the same time they do.\n* The fed rate cut and pre-election favorable oil prices may soon increase customer heavy equipment purchases, as customer purchase and operating costs will be down.\n* The stock market often runs up prior to an election, so the overall trend should be up.\n* CAT also has a strong drift component this year, so there's not much reason to expect a drop.\n\nI'm planning to hold for the next few weeks, taking profit at +25% or loss at -25%. If IV doesn't rise to 30% over the next two weeks I'll probably close no matter what.\n\nImportant - this model is new, and might be buggy, so keep in mind that you're on WSB and I'm probably an idiot.\n\n**Edit: closed on 10/7/2024 @ 19.10 for +25% profit.**",
+  "link_flair_text": "DD",
+  "id": "1ft01hp",
+  "num_comments": 61,
+  "created_utc": 1727714257,
+  "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/",
+  "comments": [
+    {
+      "id": "lpo7pyg",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 6 | **First Seen In WSB** | 4 years ago\n**Total Comments** | 511 | **Previous Best DD** | [x](https://www.reddit.com/r/wallstreetbets/comments/1f89ttt/calls_on_progressive_to_profit_from_preearnings/) [x](https://www.reddit.com/r/wallstreetbets/comments/1eii1i0/calls_on_adsk/) [x](https://www.reddit.com/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/) [x](https://www.reddit.com/r/wallstreetbets/comments/1ew4xt3/gitlab_gtlb_is_going_to_show_a_profit_for_the/) \n**Account Age** | 4 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpo7pyg/",
+      "created": 1727714268,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lpo9lqb",
+      "score": 54,
+      "body": "Just tell me what the fuck to buy very specifically, the pictures colors hurt my eyes.",
+      "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpo9lqb/",
+      "created": 1727714873,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lpoa1lg",
+          "score": 23,
+          "body": "Glasses\n\nAlso, CAT NOV 1 CALL 390 or slightly OTM.",
+          "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpoa1lg/",
+          "created": 1727715016,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lpoz9ci",
+              "score": 1,
+              "body": "THANKS YOLO",
+              "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpoz9ci/",
+              "created": 1727722985,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lqsenz0",
+                  "score": 1,
+                  "body": "Did you buy into this? I just closed for +25%.",
+                  "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lqsenz0/",
+                  "created": 1728314434,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lqsezic",
+                      "score": 2,
+                      "body": "same, closed for 20% though good play",
+                      "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lqsezic/",
+                      "created": 1728314538,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lqsv655",
+                      "score": 1,
+                      "body": "Yes! But did not close yet",
+                      "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lqsv655/",
+                      "created": 1728319728,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lt2k2ks",
+                          "score": 1,
+                          "body": "You sold",
+                          "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lt2k2ks/",
+                          "created": 1729545011,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lpob22q",
+      "score": 18,
+      "body": "I love cat calling",
+      "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpob22q/",
+      "created": 1727715337,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lpoc1z9",
+          "score": 22,
+          "body": "HEY BABY YOU LIKE OUT OF SHAPE MIDDLE AGED GUYS? YOU LIKE GUYS THAT LOSE MONEY TRADING STOCKS ON THEIR PHONE? YOU LIKE REDDIT? CMON BABY WHERE YOU GOING",
+          "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpoc1z9/",
+          "created": 1727715654,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lpol3ne",
+              "score": 6,
+              "body": ">CMON BABY WHERE YOU GOING\n\nShe responds, \"Well that's a Wendy's down the street so you know where to meet me.\"",
+              "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpol3ne/",
+              "created": 1727718509,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lpt4mmj",
+                  "score": 1,
+                  "body": "Chances are this fictitious exchange got at least one person here excited over the hopes that a new customer was coming their way. Then reality hit and they went back to waiting for the next delivery of burgers past their prime.",
+                  "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpt4mmj/",
+                  "created": 1727789163,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lpoa0s9",
+      "score": 7,
+      "body": "I yolo 10k",
+      "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpoa0s9/",
+      "created": 1727715008,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lqser6x",
+          "score": 1,
+          "body": "Are you still in it? I closed just now for +25%.",
+          "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lqser6x/",
+          "created": 1728314463,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lpt7p3b",
+      "score": 3,
+      "body": "Inversed. Nov1 p395",
+      "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpt7p3b/",
+      "created": 1727790313,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lpth9l0",
+          "score": 1,
+          "body": "Made $200 in seconds on one contract",
+          "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpth9l0/",
+          "created": 1727793649,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lpucu7m",
+          "score": 1,
+          "body": "Put IV behaves similarly to call IV on CAT so if CAT stays flat or even rises slightly this will work as well. (And of course if they drop it’ll work better!)\n\nBut I save puts for legit stinkers. Any reason you’re bearish on CAT over next few weeks?",
+          "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpucu7m/",
+          "created": 1727803845,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lpuh1rl",
+              "score": 1,
+              "body": "I had that contact for about 8 minutes and took my $200",
+              "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpuh1rl/",
+              "created": 1727805158,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lpors69",
+      "score": 6,
+      "body": "Buying calls running up to right before a presidential election is a pretty bad idea.",
+      "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpors69/",
+      "created": 1727720631,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lpout16",
+          "score": 12,
+          "body": "Studies show that the months leading up to a presidential election usually outperform the rest of the year, actually. And heavy construction equipment isn't likely to get any negative discussion. Maybe some positive even, if infrastructure comes up.",
+          "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpout16/",
+          "created": 1727721587,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lpoxga5",
+              "score": 2,
+              "body": "That is false. September through election day goes down more on average than non election years. After election day is when the gains pick back up, on average.\n\n[https://www.firstlinks.com.au/uploads/2024/cg-fig2-sandp500-index-average-cumulative-returns-since-1932.png](https://www.firstlinks.com.au/uploads/2024/cg-fig2-sandp500-index-average-cumulative-returns-since-1932.png)",
+              "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpoxga5/",
+              "created": 1727722420,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lpoypqw",
+                  "score": 7,
+                  "body": "Here’s my source, which shows that while election years underperform non-election years, pre-election months outperform other months in the same year (fig 2):\n\nhttps://www.troweprice.com/financial-intermediary/us/en/insights/articles/2024/q2/how-do-us-elections-affect-stock-market-performance.html",
+                  "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpoypqw/",
+                  "created": 1727722814,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lppaa04",
+                      "score": 6,
+                      "body": "Your study shows median return(which is a better measure than average) is lower 1 month before, but doesn't show 2 months, just 3. We are literally 1 month before, but 2 months before is also flat or down if you look at the data. You are correct if we are talking 3-6 months.\n\nBut really dude, just look at the charts with your own eyes. 8 of the last 10 presidential elections the Sept-elections day were either flat or down. One that was up was in the heart of the dot com bubble, and one was in 88 during the post black Monday recovery. Basically the markets going back to the 80s show that this 1-2 month period before the presidential election is down the majority of the time.\n\nJust be careful.",
+                      "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lppaa04/",
+                      "created": 1727726401,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lpqh93a",
+                          "score": 1,
+                          "body": "Thanks for the clarification/explanation! I’m not worried about it re: this play, but that’s good to know in general.",
+                          "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpqh93a/",
+                          "created": 1727741270,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lpqs6rj",
+              "score": 1,
+              "body": "Is DJT for the farmers? Nope.. expect farm / agro to fall if he takes the chair.",
+              "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpqs6rj/",
+              "created": 1727745317,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lpqutuz",
+                  "score": 1,
+                  "body": "I’m not holding through earnings or through election",
+                  "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpqutuz/",
+                  "created": 1727746305,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lpolwqu",
+      "score": 2,
+      "body": "5k for nov 1  better see red",
+      "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpolwqu/",
+      "created": 1727718765,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lpp5u5l",
+          "score": 4,
+          "body": "bought the 390s down 750",
+          "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpp5u5l/",
+          "created": 1727725039,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lqsevlp",
+              "score": 1,
+              "body": "I just closed mine for +25%.",
+              "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lqsevlp/",
+              "created": 1728314503,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lponbcn",
+      "score": 2,
+      "body": "Interesting DD, I bought $445 NOV 1 Calls, let's see where it goes.\n\nEdit: Already up 25%, damn.\n\nEdit 2: Down 20%, the bid-ask spread is nuts.  0.83-1.00 as of this edit.",
+      "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lponbcn/",
+      "created": 1727719208,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lpouyvx",
+          "score": 3,
+          "body": "Jeez that's way OTM! What's IV on those? You must have gotten a good price if you're up already.",
+          "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpouyvx/",
+          "created": 1727721639,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lpow0kc",
+              "score": 3,
+              "body": "I'm back down again actually lol, IV is at 31.35%.\n\nI purchased 6 contracts at an average price of $114.75 USD/each, so it's only a small fraction of my total account.\n\nEdit: up 45% now, 88% jump today.",
+              "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpow0kc/",
+              "created": 1727721968,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lpqdxk0",
+      "score": 1,
+      "body": "Update me",
+      "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpqdxk0/",
+      "created": 1727740049,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lpqh2kx",
+          "score": 1,
+          "body": "Sorry I’m married",
+          "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpqh2kx/",
+          "created": 1727741203,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lpqjr4k",
+              "score": 1,
+              "body": "I just really want to see how this ends.  I wish you the best of luck. But heavy equipment manufacturing is going to struggle I think.",
+              "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpqjr4k/",
+              "created": 1727742197,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lpqthd2",
+                  "score": 1,
+                  "body": "Why? Seems like mining industries are picking up steam lately, and infrastructure is a hot topic during election season, and could see an additional boost from Chyna. And maybe farmers need the new AI tractors.",
+                  "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpqthd2/",
+                  "created": 1727745801,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lpquhgd",
+                      "score": 1,
+                      "body": "You very well could be right.  But a lot of equipment was purchased during the last few years above and beyond anything like a normal demand. And inflation of equipment prices was pretty big.  Now many companies seem to be over fleeted so I’d sense a correction. I’d think what happened to the auto stocks will tell the tale of what will happen here with the likes of CAT.  They are different industries and customer bases and all but that’s my bet.",
+                      "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpquhgd/",
+                      "created": 1727746177,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lpquxxr",
+                          "score": 1,
+                          "body": "I don't have a position or anything but have been watching CAT as a way to get exposure to a few different industries. I think lower interest rates may help too. But I'd didn't know about stuff being over purchased, would appreciate a link if you've got one.",
+                          "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpquxxr/",
+                          "created": 1727746347,
+                          "depth": 5,
+                          "replies": []
+                        },
+                        {
+                          "id": "lq57dum",
+                          "score": 1,
+                          "body": "Not to mention we've already had what will probably be the next most expensive hurricane in history once they figure out what all those washed out interstates will cost and we still got two more months of hurricane season. Hurricane seasons are hundreds of billions in extra construction on average over the last 5 years, it's no longer the 10 - 20 billion averages of yesteryear.",
+                          "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lq57dum/",
+                          "created": 1727966559,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "lpqulg9",
+                  "score": 1,
+                  "body": "Any particular reason you think that industry is going to see a drop over the next few weeks?",
+                  "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpqulg9/",
+                  "created": 1727746219,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lpqvlvp",
+                      "score": 1,
+                      "body": "May not drop in the next few weeks. But in the next few months more than likely I think.",
+                      "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpqvlvp/",
+                      "created": 1727746594,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lpqwf6i",
+                          "score": 1,
+                          "body": "Ok, well what makes you think the industry is going to see a drop over the next few months?",
+                          "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpqwf6i/",
+                          "created": 1727746898,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lpuiurv",
+                              "score": 1,
+                              "body": "Field inventory levels at dealerships and pretty much every manufacturer saying their order books are drying up.",
+                              "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpuiurv/",
+                              "created": 1727805726,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lpvrbc1",
+                                  "score": 1,
+                                  "body": "I would think that would be all priced in at this point. They've revised downwards a few times, and only one competitor reports in the next couple weeks. Maybe if this quarter they and competitors have to revise even further down, but they're generally pretty conservative so I think the stock will be okay.",
+                                  "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpvrbc1/",
+                                  "created": 1727819654,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "lq8tmnl",
+                                      "score": 1,
+                                      "body": "Priced in at all time high?  Ok.  I don’t have a dog in this fight and I hope you’re right.",
+                                      "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lq8tmnl/",
+                                      "created": 1728010857,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "lqsf17g",
+                                          "score": 2,
+                                          "body": "FYI I closed this today at +25%. IV was up to 31% and CAT ran up 2% over the past week, so I figured that's good enough for me.",
+                                          "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lqsf17g/",
+                                          "created": 1728314554,
+                                          "depth": 9,
+                                          "replies": []
+                                        },
+                                        {
+                                          "id": "lq8w4j6",
+                                          "score": 1,
+                                          "body": "I think anything broadly known by the market is priced in, sort of by definition. But maybe it’s not actually that broadly known? Not sure. They mentioned it in their last few reports at least.",
+                                          "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lq8w4j6/",
+                                          "created": 1728011887,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lpqrzh8",
+      "score": 1,
+      "body": "Are they also exporting manufacturing to Mexico like John Deer?",
+      "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpqrzh8/",
+      "created": 1727745242,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lpquq46",
+          "score": 1,
+          "body": "No clue, I didn’t get that far into their quarterly reports before I got bored",
+          "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpquq46/",
+          "created": 1727746268,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lpque45",
+      "score": 1,
+      "body": "PUTS it is!",
+      "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpque45/",
+      "created": 1727746142,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lpqv00a",
+          "score": 2,
+          "body": "How about you PUT on a dress and dance for me, nancy?",
+          "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpqv00a/",
+          "created": 1727746368,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lpqv7ef",
+              "score": 1,
+              "body": "I will if your calls print! Post your loss porn here if I am right lol!",
+              "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpqv7ef/",
+              "created": 1727746445,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lqsf41t",
+                  "score": 2,
+                  "body": "Closed at +25%, let's see you shake your thang...",
+                  "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lqsf41t/",
+                  "created": 1728314580,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lrg457e",
+                      "score": 1,
+                      "body": "Congrats on the win!",
+                      "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lrg457e/",
+                      "created": 1728669827,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lps6gqb",
+      "score": 1,
+      "body": "Are you rich yet",
+      "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lps6gqb/",
+      "created": 1727770570,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lpud14j",
+          "score": 1,
+          "body": "Rich in money? No\n\nRich in spirit? Also no",
+          "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpud14j/",
+          "created": 1727803904,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lpup8rw",
+              "score": 1,
+              "body": "How didn’t cat hit 390$?",
+              "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpup8rw/",
+              "created": 1727807730,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lpvri7l",
+                  "score": 2,
+                  "body": "CAT closed at 392 today?",
+                  "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lpvri7l/",
+                  "created": 1727819718,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lsa17v7",
+                      "score": 1,
+                      "body": "Are you rich yet lol",
+                      "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lsa17v7/",
+                      "created": 1729119484,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lsa1iix",
+                          "score": 1,
+                          "body": "Sold this back on the 7th for +25%. Still not rich lol",
+                          "permalink": "/r/wallstreetbets/comments/1ft01hp/10_stacks_on_cat_calls_to_run_up_before_earnings/lsa1iix/",
+                          "created": 1729119593,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

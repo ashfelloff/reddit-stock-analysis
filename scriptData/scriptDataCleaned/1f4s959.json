@@ -1,0 +1,728 @@
+{
+  "title": "Why would someone exercise an option prior to expiration rather than sell it?",
+  "score": 131,
+  "selftext": "Title, is there a good reason to do this?  Someone exercised a put I had sold yesterday that expires today… but why?  Wouldn’t they have been better to have just sold the put and sold the stock on the open market?\n\nOr maybe the market messed up briefly and they saw a quick arbitrage play where the price for the stock + put < strike ?  \n\nThe only other reason I can think is if they are able to assign after hours?  The underlying stock was moving up after hours so maybe in response to that but I thought options were strictly reg session..\n\nThat’s the only two reasons that make any sense to me but I’m here to learn.\n\n",
+  "link_flair_text": null,
+  "id": "1f4s959",
+  "num_comments": 78,
+  "created_utc": 1725015089,
+  "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/",
+  "comments": [
+    {
+      "id": "lkniorw",
+      "score": 157,
+      "body": "Sometimes when options are deep ITM, there might not be enough liquidity to sell the volume that people want to sell\n\nNot much implied value with deep ITM anyways",
+      "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkniorw/",
+      "created": 1725015913,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lkp73hx",
+          "score": 18,
+          "body": "Add dividends to this list. There are situations where it makes sense to exercise early based on dividend payments and ex dividend dates.",
+          "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkp73hx/",
+          "created": 1725037158,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lkpc01t",
+              "score": 14,
+              "body": "> There are situations where it makes sense to exercise early based on dividend payments and ex dividend dates.\n\nDividends will be reflected in the value of the option, as they are a known event.",
+              "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkpc01t/",
+              "created": 1725038720,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lkpelbe",
+              "score": 10,
+              "body": "Nah. I worked on an options trading team. Dividends are public and known, the option is priced accordingly.\n\nLiquidity or other positions in the portfolio are the reasons people exercise instead of sell",
+              "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkpelbe/",
+              "created": 1725039544,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lkt3m6a",
+              "score": 1,
+              "body": "If anything you would want to avoid getting dividends as they are worse tax wise than cap gains in most jurisdictions.",
+              "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkt3m6a/",
+              "created": 1725096276,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lknk670",
+      "score": 295,
+      "body": "The entire idea behind options is to buy or sell the underlying stock.  There are actually people who use them to do this, believe it or not.",
+      "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lknk670/",
+      "created": 1725016665,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lknqjiv",
+          "score": 33,
+          "body": "I love options.. I usually buy ITM, let it go up in price then early exercise it. Hold it for a bit, either sell or hold longer.",
+          "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lknqjiv/",
+          "created": 1725019518,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lknyf00",
+              "score": 33,
+              "body": "to the OP why would you exercise it early when you can sell it for more? You just throw away the extrinsic value if you exercise it.",
+              "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lknyf00/",
+              "created": 1725022650,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lknytkx",
+                  "score": -26,
+                  "body": "[deleted]",
+                  "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lknytkx/",
+                  "created": 1725022797,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lknzrw8",
+                      "score": 39,
+                      "body": "Theta decay will never eat your intrinsic profit which is all you get if you exercise it... If you sell it early as possible then yeah what you said is right.",
+                      "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lknzrw8/",
+                      "created": 1725023149,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lko11cb",
+                          "score": -27,
+                          "body": "[deleted]",
+                          "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lko11cb/",
+                          "created": 1725023612,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lkoj3ja",
+                              "score": 20,
+                              "body": "You don’t understand how options pricing works",
+                              "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkoj3ja/",
+                              "created": 1725029643,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lkot4e2",
+                      "score": 17,
+                      "body": "When you exercise,  ALL the remaining extrinsic value, which would have decayed, is lost immediately.  So you just accelerated what you were trying to prevent!!!!",
+                      "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkot4e2/",
+                      "created": 1725032751,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lkoyc0o",
+                      "score": 3,
+                      "body": "Yeah and when you sell it early you torch that ice cube and turn it into steam and it’s completely gone. ",
+                      "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkoyc0o/",
+                      "created": 1725034379,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lkqxjuk",
+              "score": 6,
+              "body": "Everyone loves buying options in a perma-bull market. First real pullback that becomes a true bear market will have half of reddit's option geniuses destitute. Now that said, I do *sell* a lot of options.",
+              "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkqxjuk/",
+              "created": 1725057837,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lko71rs",
+              "score": 3,
+              "body": "Just knowing you probably fucked over some random clown on r/WSB makes me smile.",
+              "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lko71rs/",
+              "created": 1725025739,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lku1npg",
+              "score": 1,
+              "body": "Same. Depending on the stock and your strategy of what you’re trying to do of course, it’s a great way to control more shares for less money tied up.",
+              "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lku1npg/",
+              "created": 1725113358,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lkpew1z",
+          "score": 5,
+          "body": "This doesn't really answer the question, and I'd argue it's not even true -- the entire idea behind options is to have a contract that gives you the *option* to buy or sell, but they're mainly used for leverage or for hedging, which is why most aren't exercised -- and beyond that, an option will mathematically have more value than the difference between strike and the underlying if it's an American style option",
+          "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkpew1z/",
+          "created": 1725039638,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lkon966",
+          "score": 10,
+          "body": "No options are meant for putting your life savings on 0DTEs",
+          "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkon966/",
+          "created": 1725030941,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lko4cvy",
+          "score": 4,
+          "body": "I would have to disagree with this statement.  The whole idea behind options is to make money.  You can use then to do this in many ways but most people buy and sell them and never exercise. ",
+          "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lko4cvy/",
+          "created": 1725024800,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lknnmd9",
+          "score": -29,
+          "body": "Typical reddit hivemind comment lmao. 93% of options are not exercised. Options are intended to be used as a hedge. Why would you use an option to buy shares on the open market when you can just believe it or not....buy shares on the open market",
+          "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lknnmd9/",
+          "created": 1725018270,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lknp3k8",
+              "score": 18,
+              "body": "A lot of options expire otm so worthless. But somebody must surely exercise the itm options -- or at least find sone way to cash settle.\n Otherwise it's just throwing cash out of the window.",
+              "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lknp3k8/",
+              "created": 1725018904,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lknxdg4",
+                  "score": -11,
+                  "body": "Or...the options are bought back...\n\nThe downvotes just prove the reddit hivemind is unbelievably stupid. My data is from the CBOE- they've already published that 30-35% of options expire worthless and~60% are bought back before expiration",
+                  "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lknxdg4/",
+                  "created": 1725022263,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lkrw338",
+              "score": 1,
+              "body": "I write puts to get paid for a limit order. I want to own the stock at that price.",
+              "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkrw338/",
+              "created": 1725071395,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lknrzzx",
+              "score": 0,
+              "body": "Because for some people that works. It's leveraged risk.   When I bought NVDA 50 calls (ITM) almost a year ago for $12, I only tied up $12,000 to control 1000 shares.  If they'd gone down I wouldn't have lost nearly as much as if I'd bought 1000 shares of stock.  Now they're worth 10x that so obviously when they expire in 1/2026 I'll be exercising them.  In the meantime, my money is just growing.",
+              "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lknrzzx/",
+              "created": 1725020129,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lkrw9sl",
+                  "score": 1,
+                  "body": "If you want to own and hold the stock, sure. But otherwise sell the option.",
+                  "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkrw9sl/",
+                  "created": 1725071476,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lknp5rq",
+              "score": 0,
+              "body": "[deleted]",
+              "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lknp5rq/",
+              "created": 1725018931,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lkqmt8x",
+                  "score": 1,
+                  "body": "This was my guess.  Other people were trying to roll the same option (it was 1 DTE and ITM) thus driving down the ask and he put in a bid that based on market price made an arbitrage situation when filled.",
+                  "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkqmt8x/",
+                  "created": 1725054028,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lknr50k",
+              "score": -1,
+              "body": "Don’t you pay a premium for options? So it’s more expensive to buy them that way?",
+              "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lknr50k/",
+              "created": 1725019768,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lkntu5q",
+                  "score": 2,
+                  "body": "You can also receive premium for options. For example you can sell a put to purchase a stock, or sell a call to sell a stock.\n\nBut yes if you're long options and your exercise you lose the premium you've paid, and it'll add onto the cost basis of your purchase (or subtract from your sale).",
+                  "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkntu5q/",
+                  "created": 1725020884,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lknjczi",
+      "score": 20,
+      "body": "If options are deep ITM the seller(s) of the contract might not have any desire to buy back. They’d rather keep the premium and take assignment. Multiply that logic out to a wider market and there is low liquidity. The value at that point is low-extrinsic too - so not many reason for someone to buy the position anyway. \n\nIf they were deep ITM calls for example, and someone predicted a further upwards movement, they could just buy stock instead of buying your ITM option. No extra premium associated, and typically lower brokerage fees. My brokerage at least does no transaction fees on equity but a small one on options plays",
+      "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lknjczi/",
+      "created": 1725016258,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkob6tk",
+      "score": 6,
+      "body": "For some options incredibly deep in the money, there may be so little extrinsic value left that it would actually cost more in bid ask to sell the options than to exercise. This is especially the case in illiquid markets where bid ask is very wide\n\nA niche reason is to force a short squeeze, e.g. exercise calls to force short sellers to physically deliver. I think you can guess which stock influenced this idea. But that's an edge case. The bid ask thing is usually the main reason\n\nVoting rights, dividends, etc. don't make sense because you could simply sell options and buy shares instead. So it all boils down to bid ask, and delivery shenanigans",
+      "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkob6tk/",
+      "created": 1725027118,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lkxttau",
+          "score": 1,
+          "body": "I’ll add sometimes the dividend value is greater than the extrinsic value.",
+          "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkxttau/",
+          "created": 1725163104,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lkxvw25",
+              "score": 1,
+              "body": "Then you would simply sell the option and buy the shares - assuming bid ask makes it worth it. If it's not worth it, you exercise early\n\nBut dividends don't determine when to exercise early",
+              "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkxvw25/",
+              "created": 1725164108,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lknj4ci",
+      "score": 21,
+      "body": "Dividend is a normal reason for early exercises but should not be the reason here.",
+      "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lknj4ci/",
+      "created": 1725016136,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lkopopj",
+          "score": 7,
+          "body": "Exercising puts for a dividend is not normal. That doesn’t make sense",
+          "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkopopj/",
+          "created": 1725031696,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lkos3wc",
+          "score": 2,
+          "body": "As someone said it’s liquidity on the option v liquidity on the underlying. Deep ITM options don’t always have much liquidity, this is a weekly option as well so less liquidity than a normal monthly option.",
+          "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkos3wc/",
+          "created": 1725032441,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lkod21m",
+      "score": 5,
+      "body": "One sort of obscure reason I haven't seen mentioned yet: If trading is halted on the underlying, options can still be exercised to buy/sell.",
+      "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkod21m/",
+      "created": 1725027727,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lknrtt9",
+      "score": 19,
+      "body": "1. Dividends\n\n2. Voting rights\n\n3. Zero option premium  (Delta = 1.000)\n\n4. Decrease remaining stock supply from other parties\n\nThese are the four logical reasons I can find in excercising an option early.",
+      "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lknrtt9/",
+      "created": 1725020057,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lkpc6dw",
+          "score": 6,
+          "body": "> Dividends\n\nThis is not a reason to exercise an option, as dividends are reflected in the value of the option.",
+          "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkpc6dw/",
+          "created": 1725038775,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lkpgf21",
+              "score": 2,
+              "body": "Wrong. Take an extreme example...\n\nYou own 2DTE calls with a strike of $50 on a stock worth $100. The stock will pay $99 in dividends, with an ex-date tomorrow. Are you going to exercise the call option today or wait until after the ex-date?\n\nThe former, because if you wait until after the ex-date, the stock will - all else equal - only be worth $1. Now, in theory, you don't HAVE to exercise the option, as you could just sell it... but somebody WILL have to exercise it before the ex-date, because otherwise it will be worth much, much less after the ex-date.",
+              "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkpgf21/",
+              "created": 1725040127,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lkqduf4",
+              "score": 1,
+              "body": "Someone will have to execute it eventually, it's like a hot potato game. After the dividend date, the option value will drop and someone will lose money unless it's executed",
+              "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkqduf4/",
+              "created": 1725051012,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lkqwdv7",
+              "score": 1,
+              "body": "Wrong. You own a deep ITM option expiring in 30 days, but dividend in 5 days. If you dont excercise early you miss the dividend with no compensation.",
+              "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkqwdv7/",
+              "created": 1725057411,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lkpbl7u",
+          "score": 2,
+          "body": "5. Exiting an ITM option position outside regular trading hours.",
+          "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkpbl7u/",
+          "created": 1725038587,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lknpfqm",
+      "score": 3,
+      "body": "To collect divs.",
+      "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lknpfqm/",
+      "created": 1725019048,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lknjziw",
+      "score": 7,
+      "body": "Don’t forget, you can look it up and pull up other reddit posts like this. This was my favorite answer when I wanted to know the same.\n\nhttps://www.reddit.com/r/options/s/Zd1tUETHev\n\nEdit: Extra explanation here https://www.reddit.com/r/options/s/QkYzFGrYZn\n\nThat being said, I don’t have enough money to exercise so🤷‍♂️",
+      "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lknjziw/",
+      "created": 1725016573,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lko4s4y",
+      "score": 8,
+      "body": "I have some deep ITM ASTS options, I'd much rather own the 100 shares then sell and take the tax penalty.",
+      "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lko4s4y/",
+      "created": 1725024949,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lko1y6d",
+      "score": 3,
+      "body": "Ticker and strike would get you far more specific and relevant answers.  There's any number of reasons someone would exercise your put. Including maybe they just wanted to dump the shares at that price.",
+      "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lko1y6d/",
+      "created": 1725023940,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkok6u0",
+      "score": 2,
+      "body": "Mostly liquidity, sometimes there will be no bidders even though by models the options *should* be valued above the exercise value",
+      "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkok6u0/",
+      "created": 1725029985,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkom11i",
+      "score": 2,
+      "body": "I buy deep ITM call spreads a lot. One thing I typically do as part of the process of closing it out is I exercise the options. It's not uncommon for me to close the position out a day before expiration or on the day of expiration. \n\nMy account performance this year suggests I'm doing something right. I'm up 96% ytd although a lot of that gain is ordinary income so it's not as impressive as that number suggests.",
+      "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkom11i/",
+      "created": 1725030563,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lkorv1l",
+          "score": 1,
+          "body": "Can you give one detailed example so I can possibly copy your strategy? I'd be thrilled with even 26%. 96% id retire in one year.",
+          "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkorv1l/",
+          "created": 1725032366,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lkow4pt",
+              "score": 2,
+              "body": "Go look at the options for a stock you want. I typically buy something close to a .9 delta and sell a .8-.7 delta. \n\nPicking when to do that is something else entirely and I can't really help you on that. For example I basically stopped doing this trade at the beginning of July and sat on my hands for most of the month.",
+              "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkow4pt/",
+              "created": 1725033682,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lkno1in",
+      "score": 1,
+      "body": "Outside of fringe incidents, usually it’s because of liquidity.",
+      "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkno1in/",
+      "created": 1725018454,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lknsfe0",
+      "score": 4,
+      "body": "Everyone here is correct, so far.  But, for example, my job has given me options which expire in 2030.  I will most certainly buy the stock (once I’m vested) vs selling the option because I want to add to my investment.",
+      "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lknsfe0/",
+      "created": 1725020306,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lknss7k",
+      "score": 1,
+      "body": "Sometimes you get more money exercising than selling.\n\nNot everyone has the money to exercise or want to risk holding $200k of a stock even for a few seconds. What happens if the stock drops just at this moment, or if there is not enough liquidity to sell at this price ? All this, means there can be a premium for exercising.",
+      "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lknss7k/",
+      "created": 1725020454,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkobyl2",
+      "score": 1,
+      "body": "How far away was the stock price from the strike price of the option?",
+      "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkobyl2/",
+      "created": 1725027373,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkottqo",
+      "score": 1,
+      "body": "It happens. I had three puts assigned that were January expiration during that sell-off we had during the currency crisis a few weeks ago.",
+      "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkottqo/",
+      "created": 1725032970,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkp2oln",
+      "score": 1,
+      "body": "Exercising options can be an easier way to exit a low liquidity position, since you already found the counterparty.",
+      "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkp2oln/",
+      "created": 1725035759,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkp6kax",
+      "score": 1,
+      "body": "You may want to exercise a day early if you believe there may be major moves in price action AH/PM",
+      "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkp6kax/",
+      "created": 1725036989,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkp6xcw",
+      "score": 1,
+      "body": "Deep ITM and ex dividend date coming up. Been assigned a few times due to ex dividend",
+      "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkp6xcw/",
+      "created": 1725037105,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkpc6k5",
+      "score": 1,
+      "body": "It happens sometimes. Sometimes there are estates that are closing things out. People sometimes just push the wrong button. It isn't often but it does happen.",
+      "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkpc6k5/",
+      "created": 1725038776,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkpp044",
+      "score": 1,
+      "body": "I've had one exercised when the buyer wanted to collect the dividend.",
+      "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkpp044/",
+      "created": 1725042887,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkpw4ez",
+      "score": 1,
+      "body": "it’s less value for sure… maybe they want the gains to double down on",
+      "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkpw4ez/",
+      "created": 1725045212,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkpwti7",
+      "score": 1,
+      "body": "Title,",
+      "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkpwti7/",
+      "created": 1725045442,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkq2y03",
+      "score": 1,
+      "body": "I like getting assigned on short puts of companies I wanted to buy anyway, I let these go until expiration and either the contracts expire worthless and I profit, or I get assigned and get paid to buy shares",
+      "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkq2y03/",
+      "created": 1725047464,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkritlj",
+      "score": 1,
+      "body": "To grab the dividend if it exceeds the premium of the option",
+      "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkritlj/",
+      "created": 1725065941,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkrvfih",
+      "score": 1,
+      "body": "I write puts on stocks I’d like to own at X price. In that case I’m interested in owning the stock and I’m just getting paid to enter a limit order.",
+      "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkrvfih/",
+      "created": 1725071113,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lku95k8",
+      "score": 1,
+      "body": "Exercising early might secure profits, prevent assignment risk, or exploit after-hours price movements and arbitrage opportunities.",
+      "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lku95k8/",
+      "created": 1725115994,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ll30w4u",
+      "score": 1,
+      "body": "If my memory serves the wide spread on a particular stock was making it difficult to sell at my preferred price so I just bought a put and then immediately exercised it. I felt great, like I was in some movie slamming the button that killed the alien.\n\n“Oh Yeah??!! You don’t want to buy my stock???”\n\n“Fire In the hole Mutha Fucka!!”\n\nI don’t care if it was a profitable trade it didn’t matter :)",
+      "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/ll30w4u/",
+      "created": 1725242237,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ll4hx8j",
+      "score": 1,
+      "body": "[deleted]",
+      "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/ll4hx8j/",
+      "created": 1725271821,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ll4ozjv",
+          "score": 1,
+          "body": "This was a put I had sold though and no upcoming div.  It was a MU PUT at 106 for last Friday they exercised on Thursday.",
+          "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/ll4ozjv/",
+          "created": 1725276132,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lko19ko",
+      "score": 1,
+      "body": "Let me ask you this, if no one is going to exercise an option ever then what’s is the point of option contract to begin with.",
+      "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lko19ko/",
+      "created": 1725023695,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lko1gai",
+          "score": 0,
+          "body": "It’s not that nobody is ever going to exercise it, it’s just that there is usually a premium on the option until expiration or very close to it so you lose the premium by exercising.",
+          "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lko1gai/",
+          "created": 1725023763,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lko7b47",
+      "score": 1,
+      "body": "I did this when I wanted nvda shares a while back. I bought a call, exercised it when it was ITM because I assumed it would keep going up. It did and I sold before the dip.",
+      "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lko7b47/",
+      "created": 1725025827,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lknygsa",
+      "score": 0,
+      "body": "Maybe they didn't have the cash to outright buy the stock if they exercised the option.",
+      "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lknygsa/",
+      "created": 1725022668,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lknswkp",
+      "score": -3,
+      "body": "For everyone saying dividend, as I stated I sold a put so he made me buy the shares, the last ex-dividend was in July so that isn’t it.\n\nPersonally I think maybe he wasn’t getting his ask and the bid was arbitrarily low, or he did spot an arbitrage play and capitalized (ie he put out an arbitrarily low bid and someone sold to him to roll forward) and then my third guess is he was just trying to be a dick knowing I was going to roll them today.",
+      "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lknswkp/",
+      "created": 1725020502,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lkolwdn",
+          "score": 2,
+          "body": "So did you end up buying shares above the market price? What is the strike and what was the stock price when it got exercised? \n\nWhy don't you simply share the ticker, strike etc. when you're asking a question like this? You would get much better answers that way. I don't get all the secrecy with these questions :)",
+          "permalink": "/r/stocks/comments/1f4s959/why_would_someone_exercise_an_option_prior_to/lkolwdn/",
+          "created": 1725030524,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1366 @@
+{
+  "title": "NYSE technical issue impacting some stock prices, incorrectly showing Berkshire Hathaway down 99%",
+  "score": 1004,
+  "selftext": "A technical issue at the New York Stock Exchange on Monday caused the A-class shares of Warren Buffett’s Berkshire Hathaway to appear to be down nearly 100%.\n\nTrading was halted in those shares, as well as in Barrick Gold and Nuscale Power, which had also seen dramatic falls.\n\nThe NYSE said in a 10:11 a.m. ET update that it was investigating a technical issue related to the limit up and limit down bands, which are mechanisms to halt stocks for excessive volatility.\n\nThere were less than 4,000 recorded trades on the day for Berkshire’s A-class shares when trading was halted. Trading continued in the B-class shares, which were down less than 1% in morning trading.\n\nSource: https://www.cnbc.com/2024/06/03/nyse-technical-issue-impacting-some-stock-prices-incorrectly-showing-berkshire-hathaway-down-99percent.html",
+  "link_flair_text": "Company News",
+  "id": "1d75ui2",
+  "num_comments": 157,
+  "created_utc": 1717425043,
+  "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/",
+  "comments": [
+    {
+      "id": "l6x4ryo",
+      "score": 446,
+      "body": "I’ve tried to buy a single share to cheat the system and to make quick 600k but it didn’t work god damn it lmao",
+      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6x4ryo/",
+      "created": 1717427108,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6x7bme",
+          "score": 170,
+          "body": "Well don’t feel too bad, they would just unwind the trade even if it went through; they can roll back to any point and undo all of the trades that happened after that time ",
+          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6x7bme/",
+          "created": 1717427994,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6xa64d",
+              "score": 62,
+              "body": "So those successful trades are useless?",
+              "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6xa64d/",
+              "created": 1717428970,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6xclm1",
+                  "score": 88,
+                  "body": "yeah they will be nullified and erased, the trades will not settle ",
+                  "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6xclm1/",
+                  "created": 1717429796,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l6xg0jm",
+                      "score": 86,
+                      "body": "I wish that was true. My broker is claiming the trades will not be reversed, my stop loss triggered on SMR due to the glitch and they have stated it filled at 0.13 and is gone. Feels like they are scamming me.",
+                      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6xg0jm/",
+                      "created": 1717430955,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l6xr03m",
+                          "score": 142,
+                          "body": "That’s the neat part, they are!  Welcome to the world’s most corrupt casino!",
+                          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6xr03m/",
+                          "created": 1717434667,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l6yhofc",
+                              "score": 38,
+                              "body": "At least with a real casino, if I win too much, they don't take the money back; they just pull me into an alley and Mickey Mouse sucker punches me a couple times and tells me to take the money and never come back.",
+                              "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6yhofc/",
+                              "created": 1717443536,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "l6xt4qt",
+                          "score": 28,
+                          "body": "Well it may be that a broker rep at this time does not have any statement on a reversal of trades; but the general consensus seems to be that these will be reversed\n\n> Joe Saluzzi, co-founder of Themis Trading, told MarketWatch that the trades that triggered Monday's eyebrow-raising decline almost definitely won't hold due to the exchange's policy on \"clearly erroneous transactions,\" which allows market makers to contest trades they believe were the result of a glitch. \n> \"These are definitely going to be busted,\" Saluzzi told MarketWatch during a phone interview on Monday. \"They are so far away from the mark.\"\n\nhttps://www.morningstar.com/news/marketwatch/20240603113/tried-to-buy-the-dip-after-the-berkshire-hathaway-glitch-be-ready-for-some-bad-news\n\nIf the reversals go through and your broker won’t reverse yours, yeah I’d call that a scam. \n\nWhat was your limit set for? ",
+                          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6xt4qt/",
+                          "created": 1717435382,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l6yke08",
+                              "score": 23,
+                              "body": "Where was this rule when Bane took over the trading floor with machine guns and wiped out Bruce Wayne's fortune?",
+                              "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6yke08/",
+                              "created": 1717444430,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "l6ygkxx",
+                          "score": 6,
+                          "body": "Placed an order for SMR for that price... but it wasn't executed at the order's price, but at some bullshit high price where it jumped after the crash.\n\nDid not have so much free funds in the account, so it went strongly negative.\n\nI curious how they'll solve this... there are two reasonable solutions: either cancel the order, or correct the transaction to have the price I placed the order for.",
+                          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6ygkxx/",
+                          "created": 1717443170,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l6yt12n",
+                              "score": 10,
+                              "body": "I'll save you some time, it won't be the latter",
+                              "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6yt12n/",
+                              "created": 1717447307,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "l6yz2q5",
+                          "score": 1,
+                          "body": "Oh fuck dude.",
+                          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6yz2q5/",
+                          "created": 1717449353,
+                          "depth": 5,
+                          "replies": []
+                        },
+                        {
+                          "id": "l71qj3a",
+                          "score": 1,
+                          "body": "It would have been reversed if you made money",
+                          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l71qj3a/",
+                          "created": 1717499794,
+                          "depth": 5,
+                          "replies": []
+                        },
+                        {
+                          "id": "l72rm18",
+                          "score": 1,
+                          "body": "That's right, they win, you lose. Welcome to the stock  market.",
+                          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l72rm18/",
+                          "created": 1717514913,
+                          "depth": 5,
+                          "replies": []
+                        },
+                        {
+                          "id": "lcxbqil",
+                          "score": 1,
+                          "body": "Care to share an update?",
+                          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/lcxbqil/",
+                          "created": 1720832737,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lcxpxrk",
+                              "score": 2,
+                              "body": "For sure, it did get reversed, took a couple of days to resolve and have the stock restored in my account. Communication from my broker was pretty poor during the whole experience, especially their confidence that it would not be resolved, but it did ultimately get resolved, so all is well.",
+                              "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/lcxpxrk/",
+                              "created": 1720838794,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "l6yln6a",
+                      "score": 4,
+                      "body": "[deleted]",
+                      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6yln6a/",
+                      "created": 1717444840,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l6yrn17",
+                          "score": 1,
+                          "body": "👀",
+                          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6yrn17/",
+                          "created": 1717446842,
+                          "depth": 5,
+                          "replies": []
+                        },
+                        {
+                          "id": "l718t23",
+                          "score": 1,
+                          "body": "The trade should be reversed. They probably got swarmed with calls. Send them a written message to fix this.",
+                          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l718t23/",
+                          "created": 1717487532,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "l6yqid1",
+              "score": 3,
+              "body": "I mean you might still get lucky in rare cases.\n\nThere's a TIL posted every so often about a trader who mixed up the number of shares and the price to sell them at (so they put a sell order to sell like 100,000+ shares for a few dollars total, not even a few dollars per share) and how the exchange processed the order and refused to undo it. There was a big lawsuit about it, but the exchange won the suit.  That said I'm pretty sure this happened in Japan, so the laws may differ here.",
+              "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6yqid1/",
+              "created": 1717446456,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6yscdw",
+                  "score": 6,
+                  "body": "I think the main difference is that was a user error which wasn’t safeguarded against by the exchange, this on the other hand was a system “glitch” that was no fault of the client whatsoever ",
+                  "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6yscdw/",
+                  "created": 1717447080,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l7113wd",
+                  "score": 1,
+                  "body": "I've had many options trades reversed on 0-volume contracts by asking my broker nicely over chat when I've made mistakes.",
+                  "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l7113wd/",
+                  "created": 1717482356,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l6xjzff",
+          "score": 10,
+          "body": "Same. Placed a Limit for 190 of the BRKA, not filled and pretty sure Fidelity already cancelled the order",
+          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6xjzff/",
+          "created": 1717432303,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l6zu0e5",
+          "score": 4,
+          "body": "[Should've put up a market order..](https://new.reddit.com/r/wallstreetbets/comments/1d7ezkb/my_brka_got_filled/) 😂",
+          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6zu0e5/",
+          "created": 1717461200,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6zu328",
+              "score": 8,
+              "body": "Lmao that poor guy",
+              "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6zu328/",
+              "created": 1717461231,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6zuhb3",
+                  "score": 3,
+                  "body": "Yeah let's hope the broker bails him out.. they shouldn't have let that order through since he didn't have the cash for it anyways.\n\nBut peak entertainment for the rest of us haha.",
+                  "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6zuhb3/",
+                  "created": 1717461392,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l70x45a",
+          "score": 3,
+          "body": "There was a guy on WSB that executed a market order when he thought he got a deal... he's already down $16K.",
+          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l70x45a/",
+          "created": 1717479797,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l70ty3k",
+          "score": 2,
+          "body": "See one guy, with $500 balance, placed a market order to buy BRK-A and now owes appx $100k\n\n[https://www.reddit.com/r/wallstreetbets/s/ttllfwD4my](https://www.reddit.com/r/wallstreetbets/s/ttllfwD4my)",
+          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l70ty3k/",
+          "created": 1717477891,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l6yrh1k",
+          "score": 1,
+          "body": "haha, I tried the same.  no luck either",
+          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6yrh1k/",
+          "created": 1717446787,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l71qfcq",
+          "score": 1,
+          "body": "That would have been really something",
+          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l71qfcq/",
+          "created": 1717499735,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6x0h4s",
+      "score": 254,
+      "body": "I tried to post something about this half an hour ago but my post was too short so it was automatically removed for being low effort. But my question was, have people here seen a \"technical issue\" like this before? Is this likely hacking or some other kind of shenanigans where someone is trying to make out like a bandit?",
+      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6x0h4s/",
+      "created": 1717425603,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6x3ndo",
+          "score": 107,
+          "body": "[Flash Crash of 2010](https://en.wikipedia.org/wiki/2010_flash_crash) same thing happened.\n\nDefinitely some sort of funds that were checking manipulation to see how things shook out. \n\nSupposedly the cause was some dude fat fingered an order, but ended up being manipluation.\n\nAfter the Flash Crash of 2010 regulations were put in place. \n\nThe dude was prosecuted.\n\n> On April 21, 2015, nearly five years after the incident, the U.S. Department of Justice laid 22 criminal counts, including fraud and market manipulation against Navinder Singh Sarao, a British Indian financial trader. Among the charges included was the use of spoofing algorithms; just prior to the flash crash, he placed orders for thousands of E-mini S&P 500 stock index futures contracts which he planned on canceling later. These orders amounting to about \"$200 million worth of bets that the market would fall\" were \"replaced or modified 19,000 times\" before they were canceled. Spoofing, layering, and front running are now banned\n\nThe Flash Crash of 2010 was a trillion dollar flash crash.\n\n> The May 6, 2010, flash crash, also known as the crash of 2:45 or simply the flash crash, was a United States trillion-dollar flash crash (a type of stock market crash) which started at 2:32 p.m. EDT and lasted for approximately 36 minutes\n\n\nEDIT: now fixed, issue with pricing bands\n\n> The NYSE said that the problems stemmed from the price-bands published by the Consolidated Tape Association, the organization used by major exchanges to jointly provide real-time stock quotes. The NYSE said at roughly 11:45 a.m. ET that the issues had been resolved and trading was back to normal.\n\n> The CTA said that there was an issue with limit up and limit down price bands, a mechanism meant to combat market volatility, between 9:30 a.m. and 10:27 a.m. ET. The issue may have been caused by a new software release, and the organization will revert back to the prior software program in its primary data center for Tuesday’s trading session, the CTA said.\n\n> There were 49 stocks affected by the issue, according to the CTA. Other notable stocks involved include Chipotle Mexican Grill and Bank of Montreal",
+          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6x3ndo/",
+          "created": 1717426714,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l71xnzo",
+              "score": 2,
+              "body": "I remember when all my Indian kids were so upset this fraud was illegal. He was a hero to them. ",
+              "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l71xnzo/",
+              "created": 1717503429,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l6x19dw",
+          "score": 89,
+          "body": "I'm really surprised the entire market isn't taking a hit. A major exchange having technical problems sounds like peak FUD but it's not spreading like that so... maybe insiders know it's nothing.\n\nEdit: Market has been dropping since I said this lol",
+          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6x19dw/",
+          "created": 1717425880,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6xfmk8",
+              "score": 41,
+              "body": "[deleted]",
+              "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6xfmk8/",
+              "created": 1717430821,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6z9lt0",
+                  "score": 3,
+                  "body": "Not saying this is what is going to happen, but I’ve always heard stories that right before the crash in ‘08 stuff like this started happening more regularly. Again not saying stocks are crashing tomorrow, but interesting point to keep an eye on.",
+                  "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6z9lt0/",
+                  "created": 1717453161,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l6x3b3w",
+              "score": 6,
+              "body": "what? it only affected 3 tickers, not the broad market. it's not a reflection of the american economy or any company's health, why would the market care?",
+              "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6x3b3w/",
+              "created": 1717426595,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6x3uyu",
+                  "score": 47,
+                  "body": "Up to 80% of the market is machine traded, potentially manipulators were testing something.\n\n[Sell-offs could be down to machines that control 80% of the US stock market, fund manager says](https://www.cnbc.com/2018/12/05/sell-offs-could-be-down-to-machines-that-control-80percent-of-us-stocks-fund-manager-says.html)",
+                  "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6x3uyu/",
+                  "created": 1717426787,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l6x7aud",
+                      "score": 4,
+                      "body": "Maybe this is just me having too much faith in systems, but I would wager at least the big trading firms have checks against this.",
+                      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6x7aud/",
+                      "created": 1717427987,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l6x7ls8",
+                          "score": 14,
+                          "body": "There is probably layers upon layers of game/game theory checks. However things like this might suss those out for later manipulation.",
+                          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6x7ls8/",
+                          "created": 1717428090,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l6x81rr",
+                              "score": 1,
+                              "body": "That's fair but in an arms race I would probably place my bets on the companies that pay intern developers and analysts millions of dollars over small hacker communities.",
+                              "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6x81rr/",
+                              "created": 1717428243,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l6x8y3x",
+                                  "score": 6,
+                                  "body": "True however these could be fronts of larger funds that are also market makers. BRICS+ and foreign entities own half the market as of like 2019. Could be a test in economic warfare for later. The guy(s) they paid to do it wouldn't even know that.",
+                                  "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6x8y3x/",
+                                  "created": 1717428549,
+                                  "depth": 7,
+                                  "replies": []
+                                },
+                                {
+                                  "id": "l6ynelq",
+                                  "score": 1,
+                                  "body": "The interns have to be right every time, the hacker only has to get lucky once.",
+                                  "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6ynelq/",
+                                  "created": 1717445419,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "l71n93w",
+                                      "score": 1,
+                                      "body": "And the hackers don’t have to break in through the front door. They just need an opening anywhere, which could be an exploit on someone’s unpatched six year old Android because a non technical person (cough executive) doesn’t want to “learn a new phone”",
+                                      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l71n93w/",
+                                      "created": 1717497884,
+                                      "depth": 8,
+                                      "replies": []
+                                    },
+                                    {
+                                      "id": "l6yop32",
+                                      "score": 0,
+                                      "body": "that's not how an arms race works. But I do agree it is still favored towards the hacker if we disregard ability and quantity of people.",
+                                      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6yop32/",
+                                      "created": 1717445841,
+                                      "depth": 8,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "l6y62qw",
+                          "score": -1,
+                          "body": "hahahahaahaahahhahahhahhah no, they just cry and call Daddy SEC to reverse the trades.",
+                          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6y62qw/",
+                          "created": 1717439696,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "l6xcau1",
+              "score": 2,
+              "body": "The answer is yes, it has happened before and halts are normal part of exchanges.  You can even track halts here: https://nasdaqtrader.com/trader.aspx?id=TradeHalts cc u/herrniemand",
+              "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6xcau1/",
+              "created": 1717429694,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l6y5v5h",
+          "score": 5,
+          "body": "Happens all the time. Lots of “glitches” for a trillion dollar market. Tee hee whoopsie",
+          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6y5v5h/",
+          "created": 1717439627,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l6x2gfr",
+          "score": 8,
+          "body": "Yes, they’re referred to as flash crashes and caused by technical errors.",
+          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6x2gfr/",
+          "created": 1717426299,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6zdklx",
+              "score": 6,
+              "body": "> caused by technical errors.\n\nSometimes caused by technical errors.",
+              "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6zdklx/",
+              "created": 1717454669,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l71xu20",
+                  "score": 2,
+                  "body": "And the third most common reason is also technical errors. ",
+                  "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l71xu20/",
+                  "created": 1717503508,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l6xpg9i",
+          "score": 5,
+          "body": "It wasn't an error.  Shares have been confirmed to have traded at that price.",
+          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6xpg9i/",
+          "created": 1717434142,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l6x4vyj",
+          "score": -4,
+          "body": "AI overtaking it’s just the beginning. A virus, then skynet. Ring a bell?",
+          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6x4vyj/",
+          "created": 1717427146,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6wzoqg",
+      "score": 109,
+      "body": "Do peopple that bought it at a 99% discount get to keep it?",
+      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6wzoqg/",
+      "created": 1717425321,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6x1dlf",
+          "score": 113,
+          "body": "This happened in like 2015 with a bunch of etf's. If I recall correctly, they unwound pretty much all of those trades",
+          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6x1dlf/",
+          "created": 1717425921,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6x4efx",
+              "score": 35,
+              "body": "After the Flash Crash of 2010 regulations were put in place. \n\nThe dude was prosecuted.\n\n> On April 21, 2015, nearly five years after the incident, the U.S. Department of Justice laid 22 criminal counts, including fraud and market manipulation against Navinder Singh Sarao, a British Indian financial trader. Among the charges included was the use of spoofing algorithms; just prior to the flash crash, he placed orders for thousands of E-mini S&P 500 stock index futures contracts which he planned on canceling later. These orders amounting to about \"$200 million worth of bets that the market would fall\" were \"replaced or modified 19,000 times\" before they were canceled. Spoofing, layering, and front running are now banned",
+              "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6x4efx/",
+              "created": 1717426976,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6x5kex",
+                  "score": 48,
+                  "body": "\"Front running is banned\", lol no. That is the literal business model for hedge funds like citadel who pay other brokers to see your trades",
+                  "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6x5kex/",
+                  "created": 1717427383,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l6x5xte",
+                      "score": 8,
+                      "body": "Yeah they need to work on that one. A good start would be banning hedge funds. Watching Ray Dalio and Bill Ackman cry again would be thrilling.",
+                      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6x5xte/",
+                      "created": 1717427512,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "l6xchab",
+                      "score": 13,
+                      "body": "No, it's not. Payment for order flow is not the same as front running.",
+                      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6xchab/",
+                      "created": 1717429755,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l6xq7xy",
+                          "score": 21,
+                          "body": "They do both. Read Flash Boys",
+                          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6xq7xy/",
+                          "created": 1717434403,
+                          "depth": 5,
+                          "replies": []
+                        },
+                        {
+                          "id": "l6y6h71",
+                          "score": 16,
+                          "body": "It's not in the same sense that Batman and Bruce Wayne aren't the same person. \n\nIn all practical applications and purposes, they're synonyms. Why else would you pay for order flow if you're not going to affect the order flow? So unless businesses are in the business of wasting money, it's the same.",
+                          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6y6h71/",
+                          "created": 1717439827,
+                          "depth": 5,
+                          "replies": []
+                        },
+                        {
+                          "id": "l70yks2",
+                          "score": 3,
+                          "body": "Let's not be naive and pretend they're different.",
+                          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l70yks2/",
+                          "created": 1717480705,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l6x1uj4",
+          "score": 19,
+          "body": "I tried to place an order, but Schwab refused to put it through online.",
+          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6x1uj4/",
+          "created": 1717426086,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6x3xdg",
+              "score": 6,
+              "body": "Me too",
+              "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6x3xdg/",
+              "created": 1717426810,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l6xoi0v",
+              "score": 2,
+              "body": "Same",
+              "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6xoi0v/",
+              "created": 1717433826,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6xpbr2",
+                  "score": 1,
+                  "body": "Ditto",
+                  "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6xpbr2/",
+                  "created": 1717434100,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l6xzr3g",
+              "score": 1,
+              "body": "Sitting on a buy order of DFEN at 27 cents.  Crossing my fingers lol.",
+              "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6xzr3g/",
+              "created": 1717437583,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6ybb38",
+                  "score": 2,
+                  "body": "Well, I canceled my DFEN stop so hopefully you won't get my shares at that price.\n\n\nThis is some bullshit ",
+                  "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6ybb38/",
+                  "created": 1717441415,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l6ysrqp",
+                      "score": 1,
+                      "body": "Looks like it finally got unhalted at 10.17.  Doubt my buy executed, can't log into schwab :(",
+                      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6ysrqp/",
+                      "created": 1717447221,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l6wzu8e",
+          "score": 16,
+          "body": "I bought $20 worth just to see what happens",
+          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6wzu8e/",
+          "created": 1717425377,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6x83ou",
+              "score": 12,
+              "body": "If you entered it at market and have over $600k it might go through upon un-halting. Meaning you pay $600k not you getting that bump. If it is limit it just won't hit it.",
+              "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6x83ou/",
+              "created": 1717428262,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l6wzv89",
+          "score": 11,
+          "body": "Will probably be unwound",
+          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6wzv89/",
+          "created": 1717425386,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6x1hsa",
+              "score": -4,
+              "body": "Even if your order is executed they’re able to unwind it? Is that even legal?",
+              "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6x1hsa/",
+              "created": 1717425963,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6x1tp7",
+                  "score": 29,
+                  "body": "Rule 7.10 of nyse",
+                  "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6x1tp7/",
+                  "created": 1717426078,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l6xh80e",
+                      "score": 0,
+                      "body": "It's still bullshit.  Don't use stops or market orders and you don't have to worry about it.",
+                      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6xh80e/",
+                      "created": 1717431367,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "l6x3i1e",
+                  "score": 9,
+                  "body": "I want that kind of control",
+                  "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6x3i1e/",
+                  "created": 1717426662,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l6xgoyt",
+                  "score": 11,
+                  "body": "Two years ago there were commodity traders trying to short squeeze a Chinese billionaire on the LME and rather than bankrupt him and make him pay they just reversed all the trades.\n\nhttps://amp.cnn.com/cnn/2022/07/12/economy/nickel-tycoon-lme",
+                  "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6xgoyt/",
+                  "created": 1717431186,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l6xal2x",
+                  "score": 0,
+                  "body": "There's a set amount of stocks for each company. If you got one (in this case, for $20), it means someone else lost / sold a single stock. \n\nThey can't just hand you non edisting stocks (assuming whatever happened didn't actually involve anyone actually selling their stocks BRK.A stocks for $20).",
+                  "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6xal2x/",
+                  "created": 1717429114,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l6xhu3t",
+                      "score": 5,
+                      "body": "I mean in theory there will be stock that’s available to buy because people do place stop loss orders.",
+                      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6xhu3t/",
+                      "created": 1717431578,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l6x34f6",
+          "score": 0,
+          "body": "doubt it",
+          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6x34f6/",
+          "created": 1717426530,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l6x74m3",
+          "score": -1,
+          "body": "This. Should I buy brk asap?",
+          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6x74m3/",
+          "created": 1717427926,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6xa2zr",
+      "score": 41,
+      "body": "Had SMR with a stop loss order set at $5, just got off the phone with my broker, they are claiming that the stop loss order was filled at 0.13, and cannot be reversed. But this is a confirmed glitch… and no shares were actually traded at 0.13, soooo looks like my broker scammed me. If you are in a similar situation, call your broker to try to get it resolved! Make sure to record the call. Heck of a depressing way to start a Monday, time to go call a lawyer I think!",
+      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6xa2zr/",
+      "created": 1717428941,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6xhjlc",
+          "score": 2,
+          "body": ">and no shares were actually traded at 0.13\n\nI see 0.13 as the low.",
+          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6xhjlc/",
+          "created": 1717431478,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6xinhx",
+              "score": 12,
+              "body": "It was a glitch though, it did not sell down to 0.13, it had its price glitched at 0.13 and was then halted. NYSE has confirmed the prices were not real.",
+              "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6xinhx/",
+              "created": 1717431856,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6xsas4",
+                  "score": 17,
+                  "body": "Unfortunately you aren’t a billionaire, otherwise they would reverse the trade and give you a blow job.",
+                  "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6xsas4/",
+                  "created": 1717435104,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l6yy011",
+                  "score": -2,
+                  "body": ">stop loss order was filled at 0.13,\n\nSeems to me your shares traded at 0.13 lol.  Maybe next time use stop limit.",
+                  "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6yy011/",
+                  "created": 1717448982,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l6xyv2s",
+                  "score": -1,
+                  "body": "clearly one share was traded",
+                  "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6xyv2s/",
+                  "created": 1717437290,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l70bmgf",
+          "score": 1,
+          "body": "Any updates?",
+          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l70bmgf/",
+          "created": 1717468566,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l70czew",
+              "score": 5,
+              "body": "NYSE issued a statement saying they will bust all of the glitched trades, which means they will get reverted back, and I get will my shares back (at least I *should* get them back). No updates from my broker so far - will be calling them first thing tomorrow morning.",
+              "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l70czew/",
+              "created": 1717469169,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l70gw83",
+                  "score": 4,
+                  "body": "Yeah, you definitely should. Your broker saying that it got filled is weird though, they should've known it was a bug.",
+                  "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l70gw83/",
+                  "created": 1717470975,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l6yxsvh",
+          "score": 0,
+          "body": "I see shares that traded at 0.13 in time&sales. The FINRA reported trades I never trust but DRCTEDGE and ISLAND show some trades. [https://imgur.com/a/YpVU2Ap](https://imgur.com/a/YpVU2Ap)\n\nGenerally there's a short window to request a trade bust.",
+          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6yxsvh/",
+          "created": 1717448912,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6yzc2g",
+              "score": 8,
+              "body": "I suppose I should have written it differently, no shares were legitimately traded at $0.13. Trades that get reverted / reversed are not legitimate trades, that’s why they get reversed. It was a glitch, which has been confirmed. I don’t see how trades resulting from a confirmed glitch could possibly be considered legitimate. I already disputed the trade this morning, but my brokers reply was that the trade was executed and will not be reversed, no further details given. At least I wasn’t holding a bunch of BRK.A I suppose, could have been a game over type situation.",
+              "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6yzc2g/",
+              "created": 1717449444,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l6xjct9",
+      "score": 14,
+      "body": "So I had an order to buy GOLD and it crashed to .25 cents before my order was executed, thus made a profit. I quickly sold for the profit. I chalked it up to bank error in my favor but realistically, can this be taken back from my account?",
+      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6xjct9/",
+      "created": 1717432094,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l70xnws",
+          "score": 2,
+          "body": "Yes",
+          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l70xnws/",
+          "created": 1717480137,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6x1lc3",
+      "score": 24,
+      "body": "[removed]",
+      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6x1lc3/",
+      "created": 1717425998,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6x4hky",
+          "score": -20,
+          "body": "[deleted]",
+          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6x4hky/",
+          "created": 1717427007,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6x7tx0",
+              "score": 2,
+              "body": "Many of these meme stock apps like Robinhood allow fractional shares.",
+              "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6x7tx0/",
+              "created": 1717428167,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l6x9oy6",
+              "score": 2,
+              "body": "not really because they're not out to prove themselves and are at the point where money is fully working for them.  meme stocks are desperate guys trying to get rich and drive a car above their budget but are impressed by a 2 bedroom condo.",
+              "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6x9oy6/",
+              "created": 1717428808,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l6xzhls",
+      "score": 11,
+      "body": "Practice for when the real rug pull happens",
+      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6xzhls/",
+      "created": 1717437495,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6xrdmn",
+      "score": 56,
+      "body": "I think we know what it is but can’t really say it… \n\nI will say. As someone who works in tech. Seeing this many glitches during “odd”times is very sus. Say as you will.",
+      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6xrdmn/",
+      "created": 1717434793,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6z54jf",
+          "score": 18,
+          "body": "Stay strong diamond hands, wipe those tears away",
+          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6z54jf/",
+          "created": 1717451508,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6xg8zk",
+      "score": 95,
+      "body": "A technical glitch of this magnitude the morning after DFV posts his position?? Suuuuuurrreeeeee",
+      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6xg8zk/",
+      "created": 1717431036,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6xrsjk",
+          "score": 37,
+          "body": "Don’t worry, there are plenty of big brains here in the sub to tell you that the stock market has no manipulation whatsoever.  It reminds me of the panel of Hollywood actors from Team America World Police.  Matt Daaaamon.",
+          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6xrsjk/",
+          "created": 1717434932,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6yoq75",
+              "score": -1,
+              "body": "Is there manipulation in the market? Probably. \n\nWas a IT issue proof of that? No.",
+              "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6yoq75/",
+              "created": 1717445851,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6ze7pk",
+                  "score": 9,
+                  "body": "BRK-A has an average volume between 8-15k shares per day. It's an incredibly illiquid stock. There was a 1.5k candle right before the crash. If that was a sell, they might simply have sold through the open buy interest.",
+                  "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6ze7pk/",
+                  "created": 1717454911,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l6zjhdn",
+                      "score": 2,
+                      "body": "I can see L2 market depth, and it’s not that illiquid to plunge 99%. You’re also confusing what’s show vs what a market maker can provide\n\n\nYou’re also forgetting multiple NYSE names were affected by the exact same glitch. \n\n\nSo any other theories champ?",
+                      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6zjhdn/",
+                      "created": 1717456962,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l70yrxq",
+                          "score": 1,
+                          "body": "Prove it. Post an image of L2",
+                          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l70yrxq/",
+                          "created": 1717480831,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l71pij8",
+                              "score": 1,
+                              "body": "It’s just gonna be bloombergs market depth monitor, google an image bro",
+                              "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l71pij8/",
+                              "created": 1717499220,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l6xuscr",
+          "score": 10,
+          "body": "DFV was always gonna break wall st.  It’s his final boss",
+          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6xuscr/",
+          "created": 1717435934,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l6zrj78",
+          "score": 3,
+          "body": "💜",
+          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6zrj78/",
+          "created": 1717460186,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l70z5w5",
+          "score": 1,
+          "body": "They are getting desperate and it’s showing… bunch of sore losers these dumb stormtroopers.",
+          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l70z5w5/",
+          "created": 1717481079,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6x1265",
+      "score": 88,
+      "body": "Just another meme stock pump and dump",
+      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6x1265/",
+      "created": 1717425809,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6x1h2x",
+          "score": 52,
+          "body": "It's finally time people realised Berkshire is a pump and dump and started unloading their bags !",
+          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6x1h2x/",
+          "created": 1717425956,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l6x2hd4",
+              "score": 11,
+              "body": "Warren Buffet is trying to speed run the billionaire to broke to billionaire category.",
+              "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6x2hd4/",
+              "created": 1717426307,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l6x6cie",
+                  "score": 3,
+                  "body": "Dont care, as long as he doesn't try to beat my broke to broke record !",
+                  "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6x6cie/",
+                  "created": 1717427654,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l6xdqpe",
+                  "score": 1,
+                  "body": "I thought Warren Buffett was going bankrupt, almost lol",
+                  "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6xdqpe/",
+                  "created": 1717430182,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l6y0abl",
+      "score": 7,
+      "body": "My buy orders are in for Berkshire at $200.00. it's a solid offer. I hope to net 600k in profit",
+      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6y0abl/",
+      "created": 1717437761,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6xhah5",
+      "score": 6,
+      "body": "Great. Now the chart looks all fucked up.",
+      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6xhah5/",
+      "created": 1717431391,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6y0eeg",
+      "score": 5,
+      "body": "If it was a technical issue, how could several trades for $185.10 go through?",
+      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6y0eeg/",
+      "created": 1717437799,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6zedxk",
+          "score": 1,
+          "body": "It wasn't. Someone sold through the open book a couple of minutes before the crash.",
+          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6zedxk/",
+          "created": 1717454977,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l6zrlyt",
+          "score": 1,
+          "body": "125 of them in fact.",
+          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6zrlyt/",
+          "created": 1717460217,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6x9uz3",
+      "score": 2,
+      "body": "Lies!!! lol",
+      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6x9uz3/",
+      "created": 1717428866,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6xh9bo",
+      "score": 2,
+      "body": "DFEN as well. Down 99%",
+      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6xh9bo/",
+      "created": 1717431379,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6zd33u",
+      "score": 2,
+      "body": "Was it incorrect? Based on the NYSE release there were actual shares sold at that price.",
+      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6zd33u/",
+      "created": 1717454485,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6xlw6k",
+      "score": 2,
+      "body": "This possibly related to the recent CAT reporting requirements that went into effect at the end of May?",
+      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6xlw6k/",
+      "created": 1717432946,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6xbzjk",
+      "score": 2,
+      "body": "Technically, they’re corrupt?",
+      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6xbzjk/",
+      "created": 1717429586,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l6xskbq",
+          "score": 3,
+          "body": "There is no war in Ba Sing Sei.",
+          "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6xskbq/",
+          "created": 1717435193,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l6ylnu5",
+      "score": 2,
+      "body": "CRIME",
+      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6ylnu5/",
+      "created": 1717444846,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l709h74",
+      "score": 2,
+      "body": "There was a super tin foil theory two or three years ago about berkshire being used as collateral to prop up bad short positions against a certain famous \"meme\" stock. Not that I believe it, but dang it's coincidental (that meme stock ran today and dropped once Berkshire glitched).",
+      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l709h74/",
+      "created": 1717467639,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6x1k0v",
+      "score": 1,
+      "body": "These humans can't get things right.",
+      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6x1k0v/",
+      "created": 1717425984,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6xaqui",
+      "score": 1,
+      "body": "It's back now.",
+      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6xaqui/",
+      "created": 1717429170,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6xkeau",
+      "score": 1,
+      "body": "I guess time to buy.",
+      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6xkeau/",
+      "created": 1717432444,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6xsi93",
+      "score": 1,
+      "body": "Can we buy for 1% lol",
+      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6xsi93/",
+      "created": 1717435174,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6y4jf8",
+      "score": 1,
+      "body": "I tried to buy GOLD at 0.25 today 😸. Order didn’t go through",
+      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6y4jf8/",
+      "created": 1717439187,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6yz8wg",
+      "score": 1,
+      "body": "I wonder how many people have limit orders set at 700 for BRK-A.",
+      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6yz8wg/",
+      "created": 1717449413,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6zgh2a",
+      "score": 1,
+      "body": "Buyyyyyy!!!",
+      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6zgh2a/",
+      "created": 1717455786,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6ztz3q",
+      "score": 1,
+      "body": "[removed]",
+      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6ztz3q/",
+      "created": 1717461186,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l70rgkv",
+      "score": 1,
+      "body": "Does this make crypto more feasible?",
+      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l70rgkv/",
+      "created": 1717476453,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l70rwta",
+      "score": 1,
+      "body": "I tried to place an order for 5000 shares of GOLD, at .25, I evidently clicked on the order 10 times,  No Orders were shown as being placed, when it unhaulted I had bought 45000 shares of GOLD at 17.25  somehow I had 2.6 million in margin on my account.  I don't have anywhere near that level of an account. The phone rang from the broker within 7 min  of it happening telling me to sell immediately or they would for me.",
+      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l70rwta/",
+      "created": 1717476711,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l71qwcf",
+      "score": 1,
+      "body": "No such thing as a technical issue in this kind of things, especially in a financial market. They fucked something up bad and cracks are showing. The system is about to break down imo",
+      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l71qwcf/",
+      "created": 1717499996,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l6xil5i",
+      "score": 1,
+      "body": "Russia?",
+      "permalink": "/r/stocks/comments/1d75ui2/nyse_technical_issue_impacting_some_stock_prices/l6xil5i/",
+      "created": 1717431834,
+      "depth": 0,
+      "replies": []
+    }
+  ],
+  "stockTickers": {
+    "post_summary": "A technical issue at the NYSE caused certain stocks including Berkshire Hathaway to appear drastically down.",
+    "companies": [
+      "Berkshire Hathaway",
+      "Barrick Gold",
+      "Nuscale Power"
+    ],
+    "tickers": [
+      "BRK.A",
+      "BRK.B",
+      "GOLD",
+      "SMR"
+    ],
+    "main_ticker": [
+      "BRK.A"
+    ]
+  },
+  "sentimentAnalysis": {
+    "post_summary": "NYSE experienced a technical issue causing incorrect price displays for certain stocks, notably showing Berkshire Hathaway down 99%.",
+    "stock_recommendations": "The user is not making any stock recommendations.",
+    "is_recommending_stock_buying_or_selling": false,
+    "buy_or_sell": null,
+    "sentiment_summary": "There is neutral sentiment as the post is reporting a technical issue without any stock recommendations.",
+    "sentiment": "neutral"
+  }
+}

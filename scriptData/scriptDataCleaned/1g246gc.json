@@ -1,0 +1,717 @@
+{
+  "title": "How Risky Are Junk Bonds Really?",
+  "score": 72,
+  "selftext": "I was looking through some of the junk bond yields and I've noticed a few bonds, most notably Spirit Airlines ($SAVE) with a 130% yield, maturing on 05/15/2026. I assume this yield comes from bankruptcy risk, but if spirit were to file chapter 11, they would do something to make the bondholders whole(ish), right (assuming the company didn't evaporate; see FTX)? \n\nIs there a strategy that improves outcome, or is it almost all a gamble?\n\nWhat are the odds that the bond makes it to maturity and how risky would that be compared to something like 0DTE calls?\n\n\n\nI've tried to google but have not found a super concise answer.",
+  "link_flair_text": "Discussion",
+  "id": "1g246gc",
+  "num_comments": 75,
+  "created_utc": 1728751277,
+  "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/",
+  "comments": [
+    {
+      "id": "lrl65j6",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 3 | **First Seen In WSB** | 3 years ago\n**Total Comments** | 20 | **Previous Best DD** | \n**Account Age** | 4 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrl65j6/",
+      "created": 1728751280,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lrlba9g",
+      "score": 117,
+      "body": "The short answer is: Spirit junk bonds are very risky \n\nJunk bonds are an umbrella term that covers a lot of different ratings, they are not all created equally. It's like asking if technology stocks are safe...it really depends on the company. \n\nBond holders get paid before equity holders, but other creditors get paid first. There probably won't be anything left for bond holders after the other creditors are paid.",
+      "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrlba9g/",
+      "created": 1728752971,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lro68pc",
+          "score": 44,
+          "body": "This regard really doesn't understand the word \"junk.\" This might be the one of the few terms in finance that is supposed to be regard-proof and still there is confusion.",
+          "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lro68pc/",
+          "created": 1728791560,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lroeq26",
+          "score": 17,
+          "body": "And remember: \nThe government is paid first\nThen employees and their pensions\nThen bond holders\nThen shareholders\n\nSo it might not even get to you if spirit owes taxes and needs to pay out employees",
+          "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lroeq26/",
+          "created": 1728795864,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lrnu2s3",
+          "score": 7,
+          "body": "I'm struggling to understand why I'm seeing SAVE having a positive enterprise value of 6.7 billion. I thought they were completely underwater.",
+          "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrnu2s3/",
+          "created": 1728786228,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lrnww5k",
+              "score": 12,
+              "body": "Enterprise value includes value of debt so it doesnt  tell you if a company is underwater or not.",
+              "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrnww5k/",
+              "created": 1728787414,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lro4co1",
+              "score": 5,
+              "body": "Tangible book values is what you want to look at and it sits at around +1.1B which is at least not negative.  \nBut that is 9.4B in assets (mostly planes) vs. 8.3B in liabilities and it is quite unlikely they could sell all their planes for their book value.",
+              "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lro4co1/",
+              "created": 1728790674,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lrlg0te",
+      "score": 53,
+      "body": "Corporate bonds are unsecured securities (sounds ironic I know). In a chapter 11, secured creditors, employee wages and pensions, taxes, and claim-related expenses get paid first. Then bond holders get paid, followed by equity holders. These bonds are risky, but less risky than shares. If stockholders get anything, bondholders will need to be paid in full first. If you are daring enough to hold SAVE shares, then your risk tolerance is high enough to hold SAVE bonds.",
+      "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrlg0te/",
+      "created": 1728754512,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lrlj87f",
+          "score": 10,
+          "body": "I like your last point. HY bonds aren't exposed to interest rate levels and credit migration events as much as  investment grade bonds (if at all) and are more a bet on the company than they are on their debt. This means HY debt is more correlated with equity returns than other FI classes. OP can get similar exposure by buying long-dated SAVE calls if he plans to go long the bonds anyway.",
+          "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrlj87f/",
+          "created": 1728755550,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lrlldms",
+              "score": 7,
+              "body": "I haven’t read their financials to be able to estimate if bond holders would get anything. If there’s no money for unsecured creditors, then yes these bonds have similar exposure as long-dated calls, with returns depending on timing and pricing.",
+              "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrlldms/",
+              "created": 1728756266,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lrlyzs7",
+          "score": 9,
+          "body": "it’s clear to me the average investor has no idea how risky stocks are since they always seem to go up with modern banking. ",
+          "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrlyzs7/",
+          "created": 1728760783,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lrmu5wr",
+          "score": 4,
+          "body": "Say I buy a ticket on Sprit and it goes tits up before my flight, where would I fall on that hierarchy?",
+          "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrmu5wr/",
+          "created": 1728771966,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lrmuf7j",
+              "score": 5,
+              "body": "Your flight will still be taking off. If for some reason they cancel the flight you’ll get a refund. Bankruptcy filing does not immediately affect operations.",
+              "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrmuf7j/",
+              "created": 1728772065,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lrmz3o0",
+                  "score": 1,
+                  "body": "I don't know about that, see WOW Air: [https://www.cnn.com/2019/03/28/business/wow-air-scli-intl/index.html](https://www.cnn.com/2019/03/28/business/wow-air-scli-intl/index.html)",
+                  "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrmz3o0/",
+                  "created": 1728773865,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lrmzh26",
+                      "score": 3,
+                      "body": "That was a carrier ceasing operations in Europe. Very different from filing Chapter 11 in the US.",
+                      "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrmzh26/",
+                      "created": 1728774006,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lrmm6l2",
+      "score": 27,
+      "body": "https://preview.redd.it/zdnauncm9eud1.jpeg?width=640&format=pjpg&auto=webp&s=314d667c263742d45aa3cb39d3af0177e718cd8d",
+      "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrmm6l2/",
+      "created": 1728768943,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lrmzhjf",
+          "score": 10,
+          "body": "I've already setup my mattress behind the dumpster",
+          "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrmzhjf/",
+          "created": 1728774012,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lrmzzw5",
+              "score": 4,
+              "body": "https://preview.redd.it/xcfddiv6peud1.png?width=120&format=png&auto=webp&s=f0fb4298dca010d4236a41c02573a08db405ea2a\n\n\"One of us... one of us\"",
+              "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrmzzw5/",
+              "created": 1728774209,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lrlm063",
+      "score": 19,
+      "body": "I buy junk bonds constantly. I can look at companies that have technically junk ratings and know that in the 6-9 month maturities I buy they aren’t going to stop paying on their debt. I’ll take the extra 150-200 bps",
+      "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrlm063/",
+      "created": 1728756472,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lro4d36",
+          "score": 5,
+          "body": "What’s the minimum investment you need here? Also how is the liquidity usually?",
+          "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lro4d36/",
+          "created": 1728790679,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lrob21a",
+              "score": 3,
+              "body": "Depends on the bond. Usually $10k min. It’s very common to buy bonds",
+              "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrob21a/",
+              "created": 1728793927,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lrmdhlf",
+          "score": 2,
+          "body": "where do u buy these?? can i do it w fidelity?",
+          "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrmdhlf/",
+          "created": 1728765818,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lrmmo5h",
+              "score": 11,
+              "body": "Any brokerage has them. Just go to the bond page and filter",
+              "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrmmo5h/",
+              "created": 1728769122,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lrnmkxy",
+              "score": 5,
+              "body": "You have to filter for them. I normally filter by price anything under 80. I bought a Frontier bonds years ago for 40 then Verizon buys the company paying out baby.",
+              "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrnmkxy/",
+              "created": 1728783135,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lrqvejw",
+          "score": 1,
+          "body": "Buying RILY junk bonds at the bottom during the most recent collapse made me so much fucking money",
+          "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrqvejw/",
+          "created": 1728839542,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lrlm1j1",
+      "score": 17,
+      "body": "The reason why Spirit bonds are trading down is because the odds that spirit makes their bond holders whole is low",
+      "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrlm1j1/",
+      "created": 1728756485,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lrmdlme",
+          "score": 3,
+          "body": "wholders whole",
+          "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrmdlme/",
+          "created": 1728765856,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lrl8rlu",
+      "score": 38,
+      "body": "HY/junk bond spreads are derived from their probability of default (POD) and loss given default (LGD), which is expressed as a percentage of notional. \n\nYou can imagine that as the POD goes UP and the LGD goes UP, the price of the bond goes down, and the YTM goes UP. So the price that you're seeing is the market pricing a pretty material default possibility. \n\nDebtors are typically the first in line to get assets in bankruptcy, depending on the type of debt. They're not covered completely in Ch11. Otherwise the market wouldn't price these bonds that way.",
+      "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrl8rlu/",
+      "created": 1728752145,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lrlhuai",
+          "score": 8,
+          "body": "Also really depends on the credit cycle and widening of spreads baked into estimations of POD/LGD. Plus, we don’t know if the bonds are subordinated to any other debt obligations.",
+          "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrlhuai/",
+          "created": 1728755096,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lrlidka",
+              "score": 6,
+              "body": "Good points. Also seeing your comments in r/CFA... rock on.",
+              "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrlidka/",
+              "created": 1728755270,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lrlqp7c",
+                  "score": 1,
+                  "body": "👉😎👉",
+                  "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrlqp7c/",
+                  "created": 1728758030,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lrlmbgx",
+          "score": 9,
+          "body": "Weren't the first in line taxes owed, salaries owed, suppliers owed, and only then the regular creditors (loans, bonds)?",
+          "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrlmbgx/",
+          "created": 1728756575,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lrlmtvv",
+              "score": 8,
+              "body": "Yea, then secured bonds, then senior unsecured (likely the corporate bonds OP is wanting to purchase).",
+              "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrlmtvv/",
+              "created": 1728756744,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lrll616",
+          "score": 4,
+          "body": "So you're saying Spirit is hurting right now and the stock could go down?",
+          "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrll616/",
+          "created": 1728756194,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lrlls3a",
+              "score": 7,
+              "body": "Whatever is priced into their bonds is also priced into their stock. Sure it could go down, but it also has *already* gone down (90% or so that last year). Haven't been following SAVE so if I were you I wouldn't take any guidance from me.",
+              "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrlls3a/",
+              "created": 1728756398,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lrlmdlu",
+                  "score": 3,
+                  "body": "I see. The prices of each asset probably move almost in tandem. No arbitration opportunities unless you're a super computer running algorithms.",
+                  "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrlmdlu/",
+                  "created": 1728756594,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lrnh272",
+          "score": 0,
+          "body": "Priority creditors, admin creditors, secured creditors, unsecured creditors, equity. In a ch.11",
+          "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrnh272/",
+          "created": 1728780884,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lrlpquu",
+      "score": 9,
+      "body": "The SAVE 1% 26s are also convertible bonds, making them the most junior bond in the stack; essentially, these bonds are last in line for debt holder recovery. priced at 20c on the dollar right now is market estimation for potential recovery this level of subordination.\n\nhigh yield bonds can be an excellent investment, and have the best sharpe ratio profile of any fixed income asset class this century; but chasing busted converts isn’t the best strategy.",
+      "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrlpquu/",
+      "created": 1728757713,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lrljhg2",
+      "score": 7,
+      "body": "You will see those returns only if everything is ok with the company. If they file for some form of bankruptcy, they might still pay some of their debt but it will probably be restructured, prolonged and writren of to some extent. So instead of 160% return you might get 50% loss (assuming it is not a 100% loss). They might try to negotiate the debt from those bonds even without the bankruptccy. So very risky and this is the reason why they are priced like that",
+      "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrljhg2/",
+      "created": 1728755635,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lrms9cc",
+      "score": 6,
+      "body": "Maybe stick to an ETF like LQD or FALN. If you desire higher returns, then sell covered calls against your shares.",
+      "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrms9cc/",
+      "created": 1728771231,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lrlw3vj",
+      "score": 6,
+      "body": "Unless you’re lucky like with gm bonds (not junk) in 08 when tax payers bailed them out, then you will lose it.  Look at delta in 08, I still don’t have my frequent flyer miles they canceled during “bankruptcy”, never owned their stock.  Then they reissue new shares couple years later.  Be careful spirit may survive, ur bonds may not.",
+      "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrlw3vj/",
+      "created": 1728759818,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lrlbijb",
+      "score": 12,
+      "body": "They’re quite safe ![img](emote|t5_2th52|4275)",
+      "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrlbijb/",
+      "created": 1728753048,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lrlnuec",
+          "score": 16,
+          "body": "Hence the reassuring name of junk bond. 😬",
+          "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrlnuec/",
+          "created": 1728757083,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lrlf5yn",
+          "score": 10,
+          "body": "I'm holding my 0DTE OTM options over the weekend 🤞 Hoping to roll that money into these bonds",
+          "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrlf5yn/",
+          "created": 1728754230,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lrm71oc",
+      "score": 4,
+      "body": "… knowing nothing about SAVE, one thing to remember with airlines is that they generally don’t have any hard assets. I suspect that SAVE leases its planes, so if they go under, you have no assets to attach to and will rank behind what I suspect is a large employee liability. \n\nSeparately, “junk bonds” are anything below investment grade, starting with BB+, which is very investable (0.5% one year, expected loss) to C (42% one year expected loss) : https://www.scoperatings.com/ScopeRatingsApi/api/downloadstudy?id=4a900d79-d515-4e01-a160-e7aff38a5492",
+      "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrm71oc/",
+      "created": 1728763581,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lrnwslv",
+          "score": 2,
+          "body": "I believe spirit does own their planes, it was the primary reason jetblue wanted to acquire them iirc.",
+          "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrnwslv/",
+          "created": 1728787373,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lrnzp3k",
+              "score": 1,
+              "body": "Seems not (or at least largely not) - See:\n\nhttps://www.perplexity.ai/search/does-spirit-airlines-own-their-YvT_ssdfSpq3mUm1BxvYPg#0",
+              "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrnzp3k/",
+              "created": 1728788588,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lrobm04",
+              "score": 1,
+              "body": "Before the court case Spirit owned most of their planes but after they lost the court case they had to pledge the planes as collateral for more loans since JetBlue wasn’t going to save them. Iirc",
+              "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrobm04/",
+              "created": 1728794220,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lrlgz2p",
+      "score": 8,
+      "body": "Kenyan state bonds are 14+% and no default is in sight, they beat the average return from S&P 500. Buy these bonds instead of insolvent companies, m8.",
+      "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrlgz2p/",
+      "created": 1728754818,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lrliuwr",
+          "score": 4,
+          "body": "How do I browse/buy these from US? https://www.centralbank.go.ke/securities/treasury-bonds/?",
+          "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrliuwr/",
+          "created": 1728755427,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lrlu1ki",
+              "score": 2,
+              "body": "Aftermarket ones are available on the Nairobi Stock Exchange, new ones can be bought by following the instructions on that website.",
+              "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrlu1ki/",
+              "created": 1728759133,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lrlye9j",
+          "score": 3,
+          "body": "I’d avoid anything except US treasuries. If you happen to live in kenya and they do tax exemptions, maybe? ",
+          "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrlye9j/",
+          "created": 1728760582,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lrlsuxo",
+          "score": 1,
+          "body": "What currency is this in? ",
+          "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrlsuxo/",
+          "created": 1728758742,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lrlto78",
+              "score": 1,
+              "body": "Kenyan shiling, both the purchase price and premiums.",
+              "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrlto78/",
+              "created": 1728759012,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lrluyc3",
+      "score": 3,
+      "body": "I’ve heard one investor using junk bonds to potentially identify under valued companies; I’d rather do a fund like ANGL, or SPHY, or SCYB instead of something THIS dangerously high",
+      "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrluyc3/",
+      "created": 1728759431,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lrlw7n8",
+      "score": 6,
+      "body": "No free lunch. Wasn't there a post a couple months back some dude bought because of high div and it absolutely tanked. Best go with etfs or hyse for safe high yield",
+      "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrlw7n8/",
+      "created": 1728759855,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lrlz3aj",
+      "score": 2,
+      "body": "My business school was named for the junk bond queen.",
+      "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrlz3aj/",
+      "created": 1728760816,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lrnwkgk",
+          "score": 1,
+          "body": "I googled junk bond queen and apparently she was a race horse 😂",
+          "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrnwkgk/",
+          "created": 1728787276,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lrnyruj",
+              "score": 1,
+              "body": "It’s Darla Moore.",
+              "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrnyruj/",
+              "created": 1728788208,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lrmfg88",
+      "score": 2,
+      "body": "Safe as houses",
+      "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrmfg88/",
+      "created": 1728766510,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lrml2z9",
+      "score": 2,
+      "body": "Cant go tits up",
+      "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrml2z9/",
+      "created": 1728768540,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lrmrjmb",
+      "score": 2,
+      "body": "Man asks if junk is risky",
+      "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrmrjmb/",
+      "created": 1728770955,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lrn4jmp",
+      "score": 2,
+      "body": "If you get a high income bond fund, it isn’t that risky. But a couple of junk bonds on their own is very risky.",
+      "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrn4jmp/",
+      "created": 1728775982,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lro2k4d",
+          "score": 1,
+          "body": "Got some examples of high income bond funds?",
+          "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lro2k4d/",
+          "created": 1728789851,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lrpw5da",
+              "score": 1,
+              "body": "SPHIX",
+              "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrpw5da/",
+              "created": 1728827555,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lrlmc1p",
+      "score": 2,
+      "body": "I can’t remember the exact number, but it was something like 80% of all junk bonds default. Their yield is higher because they are riskier. It’s as simple as that. If they weren’t risky, then everyone would buy junk bonds and the yield would go down…",
+      "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrlmc1p/",
+      "created": 1728756580,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lrlymcg",
+          "score": 4,
+          "body": "Not sure what time frame you are looking at ( rail roads did a bang up job back in 1920 to 1956 ) \n\nCurrently Barclays was forecasting back in February of this year between 4 and 5% defaults.",
+          "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrlymcg/",
+          "created": 1728760656,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lrm7xo7",
+      "score": 1,
+      "body": "In 2008, the HY bonds went down a lot in price. However the yield didn’t drop much at all and recovered within a year. The dip was unjustified and whoever bought would have had enjoyed 16+ % yield on cost.",
+      "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrm7xo7/",
+      "created": 1728763887,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lrnm3z8",
+      "score": 1,
+      "body": "Much safer than 0dte",
+      "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrnm3z8/",
+      "created": 1728782944,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lro41mt",
+      "score": 1,
+      "body": "$SAVE is anticipated to go bankrupt any day now. Thats why you get those bonds so cheap.",
+      "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lro41mt/",
+      "created": 1728790534,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lropx9m",
+      "score": 1,
+      "body": "Not risky at all until they default",
+      "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lropx9m/",
+      "created": 1728802740,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lrq6oia",
+      "score": 1,
+      "body": "Even Turkish Eurobonds are not offering such a yield for such a short period with a cds rate of  300. It will take  7 years to reach %100 gain with Turkish Eurobonds, if you want to put your money on high risk, check them out.",
+      "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrq6oia/",
+      "created": 1728831346,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lrq7ti7",
+      "score": 1,
+      "body": "The premium is directly correlated to the risk as evaluated by the marketplace. But I’m sure you’ve found a real diamond in the rough that no one else has seen.",
+      "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrq7ti7/",
+      "created": 1728831736,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lrry24s",
+      "score": 1,
+      "body": "https://www.npr.org/2020/09/09/911162693/we-buy-a-junk-bond\n\nhttps://www.npr.org/2021/12/08/1062536574/becky-the-junk-bond-where-is-she-now\n\nno risk, go balls deep",
+      "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrry24s/",
+      "created": 1728851860,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lrl9y61",
+      "score": -4,
+      "body": "“Junk is trash, debris, or garbage — it’s something that’s left behind or thrown away because it’s not wanted”",
+      "permalink": "/r/wallstreetbets/comments/1g246gc/how_risky_are_junk_bonds_really/lrl9y61/",
+      "created": 1728752533,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

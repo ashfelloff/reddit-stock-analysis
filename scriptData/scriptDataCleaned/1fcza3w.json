@@ -1,0 +1,473 @@
+{
+  "title": "One day I'll learn to stop shorting companies that \"feel like they went up too much after earnings\"",
+  "score": 195,
+  "selftext": "",
+  "link_flair_text": "Loss",
+  "id": "1fcza3w",
+  "num_comments": 53,
+  "created_utc": 1725912973,
+  "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/",
+  "url_overridden_by_dest": "https://i.redd.it/kdv3864adund1.png",
+  "comments": [
+    {
+      "id": "lmbwhfd",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 4 | **First Seen In WSB** | 3 weeks ago\n**Total Comments** | 636 | **Previous Best DD** | \n**Account Age** | 12 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmbwhfd/",
+      "created": 1725912979,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmby7ht",
+      "score": 96,
+      "body": "Hopefully 1 day you will also learn that even though buying puts means you’re betting on the price to go down, there is a huge difference from actually shorting the underlying asset. Your bet has no impact on the price.\n\nShorting means borrowing the shares and selling them to then buy them back at a lower price to return them to the owner",
+      "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmby7ht/",
+      "created": 1725913513,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmc7faq",
+          "score": 39,
+          "body": ">Your bet has no impact on the price.\n\nIt does actually\n\n\"But this dynamic also works in reverse. When investors buy put options, the market makers selling those options protect themselves by selling – a.k.a. shorting – the underlying stock. This time, if the price of the shares drops toward the option’s exercise price, market makers have to short more and more shares to remain hedged – and that can create a feedback loop driving the stock lower and lower. Lo and behold, we have a reverse gamma squeeze. \"",
+          "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmc7faq/",
+          "created": 1725916390,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lmdmz3t",
+              "score": 3,
+              "body": "Isn't that mean MM losing more from the put and the short if asset went up?",
+              "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmdmz3t/",
+              "created": 1725934811,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lmdoc42",
+                  "score": 4,
+                  "body": "Say the stock is trading at 10. And he sold a 9$ strike put for 0.5. The cost basis is thus 8.5 . The MM wouldn't short unless the stock is already around 8.5 and risks being a losing trade. \n\nIf the stock goes up, there is no need to short, and the MM will just collect the put premium.",
+                  "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmdoc42/",
+                  "created": 1725935347,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lmdoc4r",
+                      "score": 1,
+                      "body": "Our AI tracks our most intelligent users. After parsing your posts, we have concluded that you are within the 5th percentile of all WSB users.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",
+                      "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmdoc4r/",
+                      "created": 1725935347,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lmcfbt0",
+              "score": -6,
+              "body": "I was thinking of this but I do still think it's correct to say that largescale shorting has a much bigger effect on the price than largescale putting",
+              "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmcfbt0/",
+              "created": 1725918954,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lmdhyxu",
+                  "score": 4,
+                  "body": "Remember 1 Put = -100 shares so it depends on how many contracts are being traded. Are we talking 5 contracts or 5,000? Also are these contracts leaps or are the 0 DTE? That’ll make MM force their hand in covering the risks more if the stock drops and pulls more and more contracts in the money. For every put contract bought MM will sell to provide liquidity. To hedge that short put they will sell shares to be delta neutral…",
+                  "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmdhyxu/",
+                  "created": 1725932921,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lmc2r87",
+          "score": 11,
+          "body": "You are correct, it is a colloquialism that is inaccurate",
+          "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmc2r87/",
+          "created": 1725914923,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lmgqfvf",
+              "score": 3,
+              "body": "Normally looking at their earnings report will tell you a lot about the reason why they go up. Their balance sheet tells you a lot about these companies but I’ve never been a fan of China or EV-s. This is both so I’d stay away personally. \n\nThis is not a personal attack on you rather a friendly feedback that could make you a ton of money in the future. Although NIO has been bleeding money every year for the past 5 years & they have a massive debt so your bet might have been accurate in a way even though I never understand how these people will buy in just because their revenue went up, -29% in net profit is still insane",
+              "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmgqfvf/",
+              "created": 1725987491,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lmgs0v6",
+                  "score": 1,
+                  "body": "I appreciate you taking the time! Sometimes I'm good at parsing that infor, sometimes i am DEFINITELY not!\n\nThank you!",
+                  "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmgs0v6/",
+                  "created": 1725987996,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lmgsq9t",
+                      "score": 2,
+                      "body": "It’s always a matter of luck with random option calls.\n\nI was just saying focus on companies not the casino but I genuinely wish you the best of luck. Hopping you’ll make the most amount of money you ever wished for\n\nI also believe sometimes is some hedge fund sitting at a looser who pumps up prices to get out of a trade. You have the right way of thinking just timed it wrong but remember is impossible to predict short term",
+                      "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmgsq9t/",
+                      "created": 1725988223,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lmiizdl",
+                          "score": 1,
+                          "body": "Great advice and I appreciate it! \n\n\nYes long term thinking definitely serves me better!",
+                          "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmiizdl/",
+                          "created": 1726008166,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lmcstco",
+          "score": 11,
+          "body": "Hah you pedantic fuck. Everyone knows what he means",
+          "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmcstco/",
+          "created": 1725923765,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lmehtx2",
+          "score": 3,
+          "body": "Quit nit picking, Captain Dictionary.",
+          "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmehtx2/",
+          "created": 1725950634,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lmcgjnw",
+          "score": 5,
+          "body": "To say that shorting has no impact on the price isn't totally accurate. I get what you're saying, but options trading has a lot to do with the price of stocks especially these days.",
+          "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmcgjnw/",
+          "created": 1725919353,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lmdqyyn",
+              "score": 2,
+              "body": "It's influence is shocking. Look on the volume scale of the NDX or SPX on the daily, the largest volume spikes always occur on MOPEX days, why? Options are hedged by buying (or selling) the underlying",
+              "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmdqyyn/",
+              "created": 1725936399,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lmejb6z",
+                  "score": 1,
+                  "body": "Options trading vol is quadruple cash equity trading",
+                  "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmejb6z/",
+                  "created": 1725951633,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lmfhp0u",
+                      "score": 1,
+                      "body": "Not quite, notional day average is just under 30B$ on all major exchanges. (https://www.cboe.com/us/options/market_statistics/)\n\nFor example, in just one day Nvidia averages around 30B$ too. But options do have influence.",
+                      "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmfhp0u/",
+                      "created": 1725972358,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lmcnz2g",
+          "score": 2,
+          "body": "… okay but what market place would you consider the kinda of short positions you’re opening up to move the price either? \n\nNot to be a doubter here, but I doubt you’re trading blocks in illiquid markets.",
+          "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmcnz2g/",
+          "created": 1725922004,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lmg5g8u",
+          "score": 1,
+          "body": "Basically op against mm. So mm sell more put and they can buy more shares. Eventually it drive the price up..",
+          "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmg5g8u/",
+          "created": 1725980798,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lmc9mgj",
+      "score": 15,
+      "body": "SBUX is that you? except CEO. shut up im coping",
+      "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmc9mgj/",
+      "created": 1725917104,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmd5kjn",
+          "score": 6,
+          "body": "I did the same man. Thought that jump was an overreaction and the price was bound to fall a bit over the following weeks. Yeah, that was dumb.",
+          "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmd5kjn/",
+          "created": 1725928362,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lmdqfun",
+              "score": 1,
+              "body": "Samesies, but not convinced it won’t turn around before my Oct 17 expiration. The jump was 100% an overreaction. Just a matter of when it corrects",
+              "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmdqfun/",
+              "created": 1725936186,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lme3ak3",
+                  "score": 1,
+                  "body": "I work with C suite SBUX - you are fukked bro, another major announcement coming in and you will see then.",
+                  "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lme3ak3/",
+                  "created": 1725941976,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lmmt3i4",
+                      "score": 1,
+                      "body": "Thanks for the heads up. I meant that. I sold and today is green as hell. Any other tips?",
+                      "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmmt3i4/",
+                      "created": 1726074924,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lmcf8m4",
+      "score": 10,
+      "body": "So short the ones you feel like \"have a real chance to grow.\"",
+      "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmcf8m4/",
+      "created": 1725918925,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmcmyhm",
+          "score": 2,
+          "body": "If I reversed myself for all earning plays I've done and kept the non-earning plays the same I would have lots of money",
+          "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmcmyhm/",
+          "created": 1725921631,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lmc34de",
+      "score": 6,
+      "body": "if you buy puts when it was $65 not long ago, you already gained generation wealth",
+      "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmc34de/",
+      "created": 1725915036,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmcvwco",
+      "score": 6,
+      "body": "Brother didn't do his research",
+      "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmcvwco/",
+      "created": 1725924887,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmel4fy",
+          "score": 2,
+          "body": "On here?",
+          "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmel4fy/",
+          "created": 1725952907,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lmc0j3p",
+      "score": 12,
+      "body": "I’m fucking loong on this company. I believe that the swap technology is the real competitive advantage and for a lot of people yet a strange things….give it 6years",
+      "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmc0j3p/",
+      "created": 1725914236,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lmcf3hs",
+          "score": 7,
+          "body": "Our friends in China want 100% of  pedestrian vehicles to be EV's by 2030, so i think 6 years is the tits timeframe",
+          "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmcf3hs/",
+          "created": 1725918879,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lmcljx9",
+      "score": 3,
+      "body": "I also got burnt with $4.5 and $5 puts on NIO.. also my OKTA calls after it “went down to much after earnings” expired absolutely worthless.",
+      "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmcljx9/",
+      "created": 1725921120,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmd1iog",
+      "score": 3,
+      "body": "But what if you stop before THE hit",
+      "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmd1iog/",
+      "created": 1725926931,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmdqqy9",
+      "score": 3,
+      "body": "https://preview.redd.it/q28xxkrqawnd1.jpeg?width=1179&format=pjpg&auto=webp&s=4d06ab708457db24acf5058a3863be1a90a6dc9f",
+      "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmdqqy9/",
+      "created": 1725936308,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmihm5f",
+      "score": 3,
+      "body": "At least you're not bag holding shares bought over 30$ like this fucking clown right here.\n\n(It's me, I'm the clown)",
+      "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmihm5f/",
+      "created": 1726007670,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmdjnwy",
+      "score": 2,
+      "body": "dude really bought puts at the bottom 🤦‍♂️",
+      "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmdjnwy/",
+      "created": 1725933564,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmbyi5z",
+      "score": 3,
+      "body": "I think it'll be in that $4.50 range easy if CPI trashes the markets this Weds.",
+      "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmbyi5z/",
+      "created": 1725913604,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmcfcij",
+      "score": 2,
+      "body": "It is a piece of shit company that will fall BUT markets can stay irrational longer than you can stay solvent",
+      "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmcfcij/",
+      "created": 1725918960,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmcq78w",
+      "score": 1,
+      "body": "well yu technically didnt short Nio, because your down, soo...",
+      "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmcq78w/",
+      "created": 1725922811,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmdmjew",
+      "score": 1,
+      "body": "PEAD is real",
+      "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmdmjew/",
+      "created": 1725934644,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmdq2h3",
+      "score": 1,
+      "body": "Ya and one day Ill learn to stop selling puts on stocks that I fell like have bottomed...",
+      "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmdq2h3/",
+      "created": 1725936038,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmdz2qz",
+      "score": 1,
+      "body": "Hopefully you’ll learn one that day buying puts isn’t shorting",
+      "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmdz2qz/",
+      "created": 1725939892,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmdzhpt",
+      "score": 1,
+      "body": "Yeah nio F me too last week",
+      "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmdzhpt/",
+      "created": 1725940086,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lme4n2v",
+      "score": 1,
+      "body": "Never give up. Never surrender.",
+      "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lme4n2v/",
+      "created": 1725942680,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmg2eth",
+      "score": 1,
+      "body": "Me 2 bro",
+      "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmg2eth/",
+      "created": 1725979799,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmdmnjz",
+      "score": 1,
+      "body": "Chat GPT recommended that I buy Nio as a potential high growth stock",
+      "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmdmnjz/",
+      "created": 1725934687,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lmdnqaz",
+      "score": 1,
+      "body": "Since when is buying puts shorting?",
+      "permalink": "/r/wallstreetbets/comments/1fcza3w/one_day_ill_learn_to_stop_shorting_companies_that/lmdnqaz/",
+      "created": 1725935108,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

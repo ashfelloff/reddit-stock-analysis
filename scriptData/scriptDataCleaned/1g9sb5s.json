@@ -1,0 +1,722 @@
+{
+  "title": "Plantir Opinions from Technical People who actually use it",
+  "score": 62,
+  "selftext": "All the hype about this stock must be from people who don't understand the technology. What they are doing isn't magic, and can be done with less vendor lock-in by a number of other cloud technologies. Palantir is just good at selling a pipe dream to the C-suite. \n\nAs Scott Galloway mentioned, this company is more similar to Microstrategy (excluding their Bitcoin stuff ) than other companies. \n\nI'm just going to drop this link to a thread of opinions from people who have actually used or implemented it in their businesses and let that help you form an opinion on the stock:\n\nhttps://www.reddit.com/r/dataengineering/comments/15r6k9i/is_palantir_as_good_as_they_say_is_it_worth_our/",
+  "link_flair_text": null,
+  "id": "1g9sb5s",
+  "num_comments": 79,
+  "created_utc": 1729629166,
+  "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/",
+  "comments": [
+    {
+      "id": "ltaeb8c",
+      "score": 83,
+      "body": "The issue is that it doesn't matter how truly effective Palantir's product is. As long as they are able to market it and get executives to think it will improve their company, Palantir will make money.",
+      "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltaeb8c/",
+      "created": 1729654944,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltc2ayx",
+          "score": 14,
+          "body": "Sounds like Salesforce",
+          "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltc2ayx/",
+          "created": 1729688360,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ltbra7e",
+          "score": 33,
+          "body": "Work in tech sales and have interviewed with the company before. \n\nWhat they do is hire a fuck ton of Account Executives, extract every last one of their executive level connections, fire the Account Executive, then rinse and repeat.\n\nThey also do a phenomenal job in what’s known as the RFI/RFP process, in which a company is looking for a vendor to come in and solve a problem. Could be a supply chain problem, could be a data science problem, could be a security problem, who gives a fuck, Palantir apparently can solve it all! What most companies do is fill out the required excel form on how they line up technically and viability wise.\n\nPalantir writes a fucking book. Not kidding. Like they have a team dedicated to putting together the flashiest looking proposal ever made—for every large customer. \n\nThe customer receives it and goes what the fuck, doesn’t even look at how Palantir lines up capability wise, just starts talking some bullshit about watering the Ontology and boom that company now pays Palantir 50M a year. Rinse repeat",
+          "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltbra7e/",
+          "created": 1729683752,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ltcz2ot",
+              "score": 8,
+              "body": "why would you fire your AEs with relationships that land you deals with big logos? renewals are important.",
+              "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltcz2ot/",
+              "created": 1729699131,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ltdrt2k",
+                  "score": 3,
+                  "body": "They vehemently hate sales people and believe the product sells itself. \n\nAlex Karp himself has said that many times.",
+                  "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltdrt2k/",
+                  "created": 1729707811,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lte037r",
+                      "score": 0,
+                      "body": "crazy.",
+                      "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/lte037r/",
+                      "created": 1729710447,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ltbx8yn",
+              "score": 3,
+              "body": "Cool story Dave",
+              "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltbx8yn/",
+              "created": 1729686366,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "ltdr504",
+              "score": 0,
+              "body": "Lol as if other companies in the industry don't respond to rfps like this",
+              "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltdr504/",
+              "created": 1729707607,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ltds21f",
+                  "score": 1,
+                  "body": "Which companies and which industry? \n\nI’ve worked at the largest software application provider in the world, who did not do this.\n\nI worked at another company that tried and failed to replicate this strategy. \n\nMost just fill out the excel sheet.",
+                  "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltds21f/",
+                  "created": 1729707886,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ltb8t5a",
+          "score": 12,
+          "body": "Like SAP :)",
+          "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltb8t5a/",
+          "created": 1729672747,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ltb97ci",
+              "score": 17,
+              "body": "And Salesforce. And Workday. And Oracle... The list goes on!",
+              "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltb97ci/",
+              "created": 1729673017,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ltdvzoa",
+          "score": 2,
+          "body": "For a short period of time that may be true",
+          "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltdvzoa/",
+          "created": 1729709073,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ltcjyke",
+      "score": 11,
+      "body": "My organization uses foundry for various use cases around healthcare optimization, identifying missed reimbursement opportunities, population health, and capacity planning. It was a pain to set up, but a lot of that was our challenges with Cerner as our EMR. So far, it has exceeded expectations; the capacity planning is still being used, but it is already hella better than what we were getting out of Cerner. The pop health and reimbursement identification has damn near paid for the high price tag.",
+      "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltcjyke/",
+      "created": 1729694464,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltd37zt",
+          "score": 0,
+          "body": "Thanks for your opinion. Good to hear from someone that understands and has actually used the software!\n\nIt seems like to be successful a lot of custom coding to integrate with existing systems is involved. It seems to me like many other software and systems could do the same provided you have good people to do the system integrations and automation.",
+          "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltd37zt/",
+          "created": 1729700403,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ltd8509",
+              "score": 1,
+              "body": "All of these systems require custom integration in any organization where it wasn't existing from the start.  \n\nI don't think any customer can just drop in and go.",
+              "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltd8509/",
+              "created": 1729701891,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "ltdcsej",
+              "score": 1,
+              "body": "From what I understand and the little I saw at work, if you go into their suite of product, you go all in and you pay the big bucks (and are locked in, huh oh), but the system basically centralizes your stuff (whether the internal IT teams like it or not, depends). It then needs to be configured to meet your needs,\n\nCompared to the current environment in IT for many companies where the same can be achieved by using a wide mix of systems (and trust me, the internal teams in companies will assure you they can do the best IT work in the world, trust). But it's often a massive patchwork of services and that patchwork being actually operational will depend highly on the competence of the in house dev team (not always so great, especially at non tech oriented companies)",
+              "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltdcsej/",
+              "created": 1729703288,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lt8hdaq",
+      "score": 69,
+      "body": "Good thing you didnt post this…last year!!!!  Then we would be free of all these gains!  All I took from that lame shit is it’s locked in with gov and if anyone does gets rid of it, it is after several years.  So no worries for foreseeable future!  Bullish throughout 2025.",
+      "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/lt8hdaq/",
+      "created": 1729630579,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltaz66h",
+          "score": 16,
+          "body": "Vibe I got from it was that the OP is a pissed off employee :)",
+          "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltaz66h/",
+          "created": 1729666167,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lt9uzbd",
+          "score": 6,
+          "body": "💀💀",
+          "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/lt9uzbd/",
+          "created": 1729647523,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ltbjtjp",
+          "score": 1,
+          "body": "Bullish until 2026. 2025 is too early to harvest",
+          "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltbjtjp/",
+          "created": 1729679928,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lt9kf04",
+          "score": -13,
+          "body": "Honestly the vendor lock in with the government actually may lead to huge profits.",
+          "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/lt9kf04/",
+          "created": 1729643788,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lt8l94y",
+      "score": 76,
+      "body": "The redditors opinions in that post are completely irrelevant.  Palantir sells to their boss’s boss’s boss.",
+      "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/lt8l94y/",
+      "created": 1729631755,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lt8zm7j",
+          "score": -23,
+          "body": "Doesn’t stop the product from being shit",
+          "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/lt8zm7j/",
+          "created": 1729636531,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lt9aha2",
+              "score": 17,
+              "body": "That’s for execs to decide",
+              "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/lt9aha2/",
+              "created": 1729640324,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "ltamuu9",
+              "score": 7,
+              "body": "Do you know much much money flows into shit systems because it’s tied into the government",
+              "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltamuu9/",
+              "created": 1729658971,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ltbb4pd",
+          "score": -9,
+          "body": "Meh the redditors of today will be bosses tomorrow. Many already are. \n\nFrom what I've heard Palantir is a pretty good product but the price and lock-in make it a poor choice for 99% of companies.",
+          "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltbb4pd/",
+          "created": 1729674350,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ltcd8go",
+              "score": 5,
+              "body": "My point is Palantir is addressing needs that an exec team has. If you want opinions about the product it should come from execs not from mid level employees.",
+              "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltcd8go/",
+              "created": 1729692264,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ltcnavd",
+                  "score": -1,
+                  "body": "Hardly. What would execs know about a data platform? That's how money gets flushed down the train. They should be consulting their engineers.",
+                  "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltcnavd/",
+                  "created": 1729695509,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ltcp1sn",
+                      "score": 2,
+                      "body": "You’re not getting it. Companies buy Palantir because they think their data teams suck and need help.",
+                      "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltcp1sn/",
+                      "created": 1729696056,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "ltcq7v2",
+                          "score": -1,
+                          "body": "So they are making the old age mistake of thinking the tech will solve all their problems, but it won't. If they have bad people they need better people. \n\nThat's why Palantir will never take off in the private sector, because they have better engineers who realise they don't need to overpay for a platform when they can get something very similar that requires a bit more configuration at a fraction of the cost.\n\nAs for the government customers, they won't realise the value because you still need people who understand the tech for that.",
+                          "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltcq7v2/",
+                          "created": 1729696417,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "ltcrje0",
+                              "score": 3,
+                              "body": "I think you misunderstand the value prop Palantir brings. They aren’t just a data platform - they are also a consulting arm that brings the company onboard. After they integrate the data, they have nice dashboards that the execs can look at to see how the key metrics are doing in real time.",
+                              "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltcrje0/",
+                              "created": 1729696828,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ltafsko",
+      "score": 16,
+      "body": "Your link is to a post that came out around the time PLTR was around 10$ a share...\n\nCoincidentally I purchased my stake around the same time",
+      "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltafsko/",
+      "created": 1729655602,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltamnd3",
+      "score": 25,
+      "body": "The best stocks are the ones no one knows what the fuck they do",
+      "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltamnd3/",
+      "created": 1729658867,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltjn929",
+          "score": 1,
+          "body": "Redwire I also have",
+          "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltjn929/",
+          "created": 1729791051,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ltb6ei0",
+          "score": -8,
+          "body": "Well..Tesla might be the counter argument.",
+          "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltb6ei0/",
+          "created": 1729671076,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ltbtqxh",
+      "score": 5,
+      "body": "I work in the same space. About 2 yrs back, I did a deep dive from their formal docs and available yt videos then to understand the magic sauce that they have. I couldn't find any, and avoided the stock. \n\nTheir core strength is vertical integration to meet certain business needs (defense, aviation,..) but the appeal lightens once we are out of that segment. They do not employ Sys Integrators as a policy to deploy their products at their customers, which I see as a road bump in the product adoption. \n\nAll said, they did fantastic numbers over the last 2 years, and I am still not sure if this is a bubble.",
+      "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltbtqxh/",
+      "created": 1729684859,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lta5oq2",
+      "score": 29,
+      "body": "Dude. It’s a very successful marketing company masquerading as a tech company. It’s been great for Tesla stock, why not an AI company? Go after those government subsidies/contracts. It’s just getting the exit timing right with this one…",
+      "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/lta5oq2/",
+      "created": 1729651382,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltdbmex",
+          "score": 0,
+          "body": "I'm sorry, but there are limits to masquerading lmao. What even is this comment? Unless they are somehow one of the biggest scam in existence, there has to be tech underneath, even if lackluster. Why is no one here seemingly capable of pointing to examples where it's so bad. This comment section is just full on seething \"they do black magic fuckery to the C-suite\" lmao",
+          "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltdbmex/",
+          "created": 1729702930,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ltep3kp",
+              "score": 1,
+              "body": "they just have an end to end data platform, nothing too fancy tbh - what about them do you think is so technically advanced? ",
+              "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltep3kp/",
+              "created": 1729717957,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ltfh88o",
+      "score": 5,
+      "body": "Stock up 154% YTD, gets added to S&P 500 , institutions piling, one of the only profitable AI software companies , bigger government contracts gonna start pouring in as we have to spend more on AI to outdo China\n\nReddit thread: THIS COMPANYS PRODUCT FUCKING SUCKS STAY AWAY",
+      "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltfh88o/",
+      "created": 1729727476,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltbeszj",
+      "score": 8,
+      "body": "„Palantir is just good at selling a pipe dream to the C-suite.“\n\nThat’s your answer. This is why they are hyped. They can sell technology better than their competitors. That’s it. Stocks is business and business doesn’t care about better technology but about making money.",
+      "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltbeszj/",
+      "created": 1729676859,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltci7pe",
+          "score": 3,
+          "body": "Quite the compliment for a sales team that was formed in 2023.",
+          "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltci7pe/",
+          "created": 1729693907,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ltc9acn",
+      "score": 3,
+      "body": "I sold all mine at 43 peace out",
+      "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltc9acn/",
+      "created": 1729690911,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltcfx5r",
+          "score": 1,
+          "body": "Same, very glad I bought and held and stuck with my strategy. I figure we may miss a run up to 80 but with the current insane valuation…. I’d rather de-risk a little bit",
+          "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltcfx5r/",
+          "created": 1729693165,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lte7lz4",
+      "score": 2,
+      "body": "If only picking stocks was as simple as choosing companies based on the merits and quality of their product offerings :)\n\nYour analysis is spot on- it's not magic and can be done much cheaper, but like you said their marketing and sales strategy is selling to the C-Suite types who take Gartner magic quadrants seriously- not selling to sysadmins or the network admin who know better.  So far it seems to be an effective strategy.",
+      "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/lte7lz4/",
+      "created": 1729712775,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltgzi71",
+      "score": 2,
+      "body": "I LOVE IT",
+      "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltgzi71/",
+      "created": 1729749996,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltaksl6",
+      "score": 4,
+      "body": "The OP is wasting his time. PLTR will have a 1000 FPE and still keep going to the moon. The fundamental target is 1000000000000 FPE. You don't understand the ontology of my cosmology. 100% Buzz light year in with loans in my kids names too.",
+      "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltaksl6/",
+      "created": 1729657952,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltaoa1n",
+          "score": -3,
+          "body": "I am OP and I don't invest in any individual stocks.",
+          "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltaoa1n/",
+          "created": 1729659702,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lt9doro",
+      "score": 14,
+      "body": "No disrespect but, I think it's you who doesn't understand the technology. I'm going to quote one of their engineers ( Chad Wahlquist) explaining why you need an Ontology (core moat) to scale LLMs within your business context:\n\n>As we scale stochastic (unpredictable) LLMs to power more dynamic and useful workflows, we enter a new domain of decisions and actions. You now need humans and AI to work together as a team, with more controls over who/what/when/where/why actions can be taken. It is no longer a clear line between humans or systems.\n\n>The Ontology acts as the substrate for simulating, orchestrating, controlling, and reviewing decisions in a world where Humans+AI work together. LLMs bring new reasoning capabilities, which is amazing but also dangerous (see all the public \"oops\" moments already from just \"deploying an LLM\").\n\n>True value is created when the loop is closed, the action is taken, and the Ontology provides the scalable framework to do so. Your business is a system of systems that is getting more complex by the day. You cannot merely shoehorn an LLM into the mix and expect your existing end-to-end architecture to support quality decision-making with Humans+AI.\n\n>The Ontology acts as the fabric across your business, orchestrating the data, logic, actions (and security) of your operations, systems, and people to power entirely new capabilities that Human+AI teaming can bring.\n\n**Visual:** https://imgur.com/a/WmEWsvd\n\nThe Ontology allows you to move past the window dressing that is Copilot and others like it because it enables the LLM to both understand your business logic and **write back** to your core applications.\n\nWhat does this look like in the real world? Shyam Sankar CTO recently went on CNBC and talked about how one of their large US insurance clients automated all of their underwriting using 78 AI agents. A process that use to take 2 weeks now takes 3 hours.\n\n>“If all of your competitors take 2 weeks to price risk, and you take 3 hours, it’s going to be a fundamental dislocation of the market.”\n\nI have many more examples if you are interested with sources.\n\nDisclosure: Palantir is ~20% of my holdings",
+      "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/lt9doro/",
+      "created": 1729641448,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lt9wehd",
+          "score": 35,
+          "body": "Having worked there for a long time it’s absolutely wild to me how much the stock fanbois talk about the ontology. It’s really not the advantage it’s made out to be, but for some reason it plays well with investors.\n\nTo be clear I think Palantir has great products, but also most investors have zero clue about the specifics.",
+          "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/lt9wehd/",
+          "created": 1729648026,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lta2mzb",
+              "score": 4,
+              "body": "Didn' mean for my comment to come across as the Ontology being the only differentiator but numerous employees bring it up all the time. Willing to learn. Would be interesting to hear from an employee that has a differing opinion",
+              "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/lta2mzb/",
+              "created": 1729650287,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ltacuqx",
+                  "score": 10,
+                  "body": "Of course their employees won’t speak ill about their product offerings, and will bring up AI since that’s what everybody has been talking about for the last couple of years. But the fact is LLMs are marketed as some AI that can reason while it can’t (doesn’t help that _reasoning_ has a very specific meaning in the field, which obviously gets lost in marketing talk).\n\nNow we’re well into the second year of everybody trying to fit LLMs into any business application while struggling to solve the hallucination problem, which is not a problem to be solved but rather a technological feature that won’t go away. You dump a load of data and expect that a statistical model with a random seed will generate consistent output. Then you waste more time applying optimization techniques that will never solve that problem fully. LLMs are great for controlled translation (original propose) and text reformulation and summarization (which is tangential to translation). They might be good at software code conversion too (also a translation application), but not so much at generating new code reliably though. They can’t generate text about subject matters that weren’t incorporated into their training. They can’t “talk” about anything that hasn’t been spoken yet. Essentially a parrot as far as new content generation is concerned. Nobody has come up any killer application for LLMs so far.\n\nDon’t get me wrong, I think LLM tech is great and proven to be here to stay, but it is currently at the center of a speculative bubble. It will be interesting to see what happens once the bubble bursts.",
+                  "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltacuqx/",
+                  "created": 1729654307,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ltbyz9f",
+                      "score": 2,
+                      "body": "Apologize, I fell asleep in the middle of our convo. Thank you for the in-depth response! Hope you won't mind if I ask a follow up?\n\n>... solve the hallucination problem, which is not a problem to be solved but rather a technological feature that won’t go away. You dump a load of data and expect that a statistical model with a random seed will generate consistent output. Then you waste more time applying optimization techniques that will never solve that problem fully.\n\nI too assumed hallucinations were the main problem with integrating LLMs but I was under the impression that Palantir had largely found out how to mitigate this problem through OAG and K-LLM approach. [Here's Shyam Sankar talking about the K-LLM approach](https://x.com/DailyPalantir/status/1702744092243845503). As I understand it you send the same prompt to multiple models and ask them to come to a consensus. Chad called it an \"LLM multiplexer\". I know Palantir has integrated LLMs within the military and I have a hard time believing that they would accept hallucinations when it comes to national security. Can you correct my thinking on this if I am mistaken? Thanks again for your time",
+                      "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltbyz9f/",
+                      "created": 1729687074,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "ltc3hln",
+                          "score": 3,
+                          "body": "I think the key word here is mitigation, and whether the results are acceptable for the task at hand. Maybe if you’re doing analysis over subjective data, e.g. flagging content for potential fraud or collusion, that might be okay. Fully automating a workflow with that output is risky, however, given that the dataset used in training might contain biases and that the LLM could still come up with wild results, requiring human intervention. As I said, LLMs are great, but it’s not the killer tech the Sam Altmans out there want us to believe it is. I don’t think it will replace call center people, for example, or software devs, or writers and artists. It might replace Google Search and other web search engines. Maybe it will be good for fraud detection, and in subjective data analysis, like in flagging content for human review. Thing is, when this bubble bursts, we’ll come to know which players managed to get some usable products out there, but even then, it’s possible that everyone will get burned.",
+                          "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltc3hln/",
+                          "created": 1729688810,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "ltdhoe0",
+                              "score": 2,
+                              "body": "I do think these models will continue to improve at a quick pace but it’s clear that there’s still a lot of work to be done. Thank you for the response and sharing your insight",
+                              "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltdhoe0/",
+                              "created": 1729704760,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "ltetavt",
+                          "score": 2,
+                          "body": "Hey it’s me again haha fyi this is just marketing speak for https://en.m.wikipedia.org/wiki/Ensemble_learning which is better than trusting 1 LLM completely but isn’t as complicated or helpful as they’re making it out to be",
+                          "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltetavt/",
+                          "created": 1729719268,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "ltfdjis",
+                              "score": 1,
+                              "body": "Thanks for following up! Awesome, thanks for the link. Was planning on diving deep into Tesla today after earnings but yall have taught me some stuff I want to dive into while it’s fresh so I’ll push Palantir’s day to today. Appreciate you",
+                              "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltfdjis/",
+                              "created": 1729726171,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lth9u9c",
+              "score": 1,
+              "body": "This has been my thought as well, or at least something I've been wondering about. It does seem like a key differentiator, but is everyone else truly helpless without it? Somehow I suspect that there are smart people in other companies that understand what Palantir's ontology does and are working on their own answers to that problem.",
+              "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/lth9u9c/",
+              "created": 1729756664,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lt9venr",
+          "score": 10,
+          "body": "Every T50 tech company has some internal version of this already developed. It’s not as complicated as it sounds. Classical ML models are also stochastic (duh) so this isn’t some revolutionary technology they’ve invented, they’re just using marketing speak. I interned at Palantir ~10 years ago and their tech was an absolute shit show, with an amazing marketing/sales team and well connected execs. From what I’ve heard from friends that is still the case and they are selling vapor ware that they dress up with an aura of mystery and over engineered UX.\n\nI’m not here to argue with anyone, I’m glad a lot of you have made money on this stock, just giving my 2 cents in case it helps someone.\n\nEdit: fucking lol at the visual you linked",
+          "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/lt9venr/",
+          "created": 1729647672,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lta0syx",
+              "score": -2,
+              "body": "Appreciate the input. Yes, many of the top companies do for their own tech stack because many built it that way from scratch or have the engineering capacity to do so. Palantir is bringing that same capability to military, healthcare, insurance, manufacturing etc. \n\nThings have changed notably as of q3 2023 with the introduction of AIP, something that didn't exist 10 years ago. [AIP Inflection Chart](https://pbs.twimg.com/media/GUPvckUWMAALO6q?format=jpg&name=large). They have an entirely different go-to-market strategy (AIP Bootcamps and Conferences) where their own clients are talking to prospective clients about how great their products are. Here's Duane Massie, EVP IT, Associated Materials telling ERP resellers in the crowd that [they are obsolete](https://x.com/i/status/1838633340401861057). \nI have more clips of representatives from Lennar, Tampa General Hospital, Lear, BP, Tyson, many others all talking about how Palantir's product saves time, money, and lives. \n\nDon't take my word for it though. Check out build.palantir.com, think you'll be surprised how easy it is to start building. Some great tutorials out there on youtube too",
+              "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/lta0syx/",
+              "created": 1729649609,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lta5vk2",
+                  "score": 5,
+                  "body": "My point was they don’t have any technological moat or differentiating features. And yes, AIP certainly didn’t exist 10 years ago, in fact engineering leadership at Palantir was notoriously anti-ML back then although they’re doing a great job chasing the trend now.\n\nI don’t find build.palantir.com to be very technologically impressive, it’s a set of very simple tools that already exist in OSS today and has been integrated in by major cloud providers. What have you built using this that wouldn’t be more scalable, robust and cost effective than using Sagemaker, DBX or even the flaming garbage pile that is GCP? What is a specific problem or domain where Palantir is best in class? \n\nRelying on a companies marketing material as your source of truth is a dangerous way to reaffirm preexisting beliefs. As is following influencers who unapologetically shill stocks and cherry-pick data to fit their narrative and boost engagement from their target audience by telling you what you want to hear. OP is correct that most technical users of Palantir software think it’s overpriced and lacking differentiating features. That doesn’t mean the stock won’t go up further, or that the product won’t improve, but it’s something you should try to be objective about when researching.",
+                  "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/lta5vk2/",
+                  "created": 1729651456,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lta8c9y",
+                      "score": 5,
+                      "body": "If their clients weren't so effusive in their praise and if US Commercial wasn't growing over 50% I might be inclined to believe you. Their tech touches 21% of all US hospital beds now, up from 13% a year ago. But I accept your warning, it's a good reminder\n\nI posted a comment on here a few years ago about $CRWD and a cybersecurity dev comments back saying very similar things to what you had said. They have a great sales and marketing team. No technology moat. etc. $CRWD was around $140 at that point. Really glad I didn't listen to him.",
+                      "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/lta8c9y/",
+                      "created": 1729652426,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lta94yj",
+                          "score": 3,
+                          "body": "Thanks for hearing me out and being respectful! You’re right an engineering POV is only a small piece of the puzzle and I don’t have any real idea what will happen with the stock price. Wish you luck!",
+                          "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/lta94yj/",
+                          "created": 1729652751,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lt8rpqw",
+      "score": 2,
+      "body": "foundry is just a piece of their products, right?\nAIP is built on top of it, and it's what's been driving all the commercial growth",
+      "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/lt8rpqw/",
+      "created": 1729633831,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltary0k",
+      "score": 3,
+      "body": "Must be a frustrated short.\nI have seen the negativity when PLTR was around 10 and ignored it. Going to keep ignoring it.\nStaying long and strong.",
+      "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltary0k/",
+      "created": 1729661711,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltba08o",
+      "score": 1,
+      "body": "its the contracts they have",
+      "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltba08o/",
+      "created": 1729673570,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lte70v2",
+      "score": 1,
+      "body": "Palantir’s big selling point is strict data security compliance. They have access to the deep pockets of military and other top secret data contracts that other competitors don’t. I see that as a major driver to their valuation, but you’ll have a hard time predicting growth there for obvious reasons.",
+      "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/lte70v2/",
+      "created": 1729712600,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltnoknd",
+      "score": 1,
+      "body": "It is as much to do with security and trustworthiness and politics as with how good it is.",
+      "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltnoknd/",
+      "created": 1729848993,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltamwi0",
+      "score": 1,
+      "body": "The biggest advantage this company has is not the tech or “ontology”. It’s that they found a repeatable model to go into enterprises and combine a bunch of obscure data systems together and then run LLMs on top of that data. Effectively a really good data engineering consulting firm with hype-y marketing. Not the best business to bet on if you think the future of enterprise is more streamlined cloud based software.",
+      "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltamwi0/",
+      "created": 1729658994,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lt8jz8m",
+      "score": -10,
+      "body": "PLTR is a meme stock. I took 100% profit at 40 and I’m happy to walk away",
+      "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/lt8jz8m/",
+      "created": 1729631360,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lt97jyh",
+          "score": 19,
+          "body": "Don't know why people call it a meme sto-nk. It's S&P index member, $96B mkt cap and has more than 40% institutional shareholding. It hasn't done a 10X move; barely 4X in 5 year-ish time since it got listed. \n\nMeme stock, by definition, has high retail shareholding, so at mercy of social media opinions. Even if all Reddit users (50M, active per quarter) bought 1 PLTR stock, that would just move it by 2%",
+          "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/lt97jyh/",
+          "created": 1729639310,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lt9k9j5",
+              "score": 5,
+              "body": "He means the P/E obv",
+              "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/lt9k9j5/",
+              "created": 1729643734,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "ltae746",
+              "score": 3,
+              "body": "I don’t know about that meme stock definition. TSLA is a SP500 index member with comparable institutional shareholding.",
+              "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltae746/",
+              "created": 1729654893,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ltbyar5",
+      "score": 0,
+      "body": "Their software is awful and only good in relation to what existed before in closed spaces. This is rapidly changing with more closed sites being exposed to fed cloud.",
+      "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/ltbyar5/",
+      "created": 1729686795,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lt9ieto",
+      "score": -5,
+      "body": "Karp is slimy to me and I will not invest until he is gone,  The last time I had this feeling of hairs standing on the back of my neck was Jeff Immelt and Dennis Kozlowski - sold out of both before they tanked for a nice profit.",
+      "permalink": "/r/stocks/comments/1g9sb5s/plantir_opinions_from_technical_people_who/lt9ieto/",
+      "created": 1729643095,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

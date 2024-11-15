@@ -1,0 +1,1159 @@
+{
+  "title": "Strategies for when you're holding a stock with a very large gain",
+  "score": 148,
+  "selftext": "Hi all,\n\nSo let's say you get lucky and buy a certain stock for very cheap many years ago.\n\nToday it's up like 10x and you have huge unrealized gains. You're concerned that its price may go down because it does feel like it's overbought but you also like the company and are happy to keep it for the long term.\n\n**Question: What's the best strategy to protect your gains in case the stock takes a sudden dive of >20%?**\n\nIf you sell a bunch now, you'll pay 20% as LT Cap Gains -- so that sucks you might as well keep it because  even if it drops <20% you're still better off holding the stock. Also guarantees no further growth,\n\nYou can set a trailing stop loss at 20% but it seems like those can get triggered for the wrong reasons.\n\nFidelity also has a bunch of conditional exit plans like \"One Cancels the Other\" -- but it's not clear how to use those.\n\nBuy put options? Is this cost effective? ",
+  "link_flair_text": null,
+  "id": "1dk2jzp",
+  "num_comments": 142,
+  "created_utc": 1718855924,
+  "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/",
+  "comments": [
+    {
+      "id": "l9f1xs7",
+      "score": 126,
+      "body": "If it was me, I would take out my initial investment and let the rest ride. Yeah capital gains part sucks of course but since everyone is mentioning what they would do, that is what I would do (again, what I would do. We’re all different of course).",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9f1xs7/",
+      "created": 1718858295,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9ge7pu",
+          "score": 42,
+          "body": "That's what I did with NVDA and it's been a lot of fun tracking it.\n\nI had bought those shares in 2017 with my amazingly thorough DD of \"I'm upgrading my AMD GPU with an Nvidia GPU so let's buy NVDA\". \n\nRealized I still had NVDA stock when it first started blowing up so I took my initial investment out during the run up (far too early but hindsight is 20/20) and now I'm just seeing what happens with the casino's money!",
+          "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9ge7pu/",
+          "created": 1718887971,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9i01n6",
+              "score": 8,
+              "body": "It's not a bad strategy honestly lol. Did the same with AMD when I got a 3950X and I bought TSLA when I thought I was gonna buy one, sold it all near the top when I realized I no longer wanted one. Worked out well 😂",
+              "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9i01n6/",
+              "created": 1718907816,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l9h1rye",
+              "score": 2,
+              "body": "hey! Someone else with my TA skills!",
+              "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9h1rye/",
+              "created": 1718896632,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l9hp0km",
+                  "score": 3,
+                  "body": "Dammit i thought this was MY secret TA skill",
+                  "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9hp0km/",
+                  "created": 1718904232,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l9jqs2m",
+              "score": 1,
+              "body": "same here, except bought more at the 2019 split as well. Only just now took out my original investment and loss harvested some others\n\nWell done us!",
+              "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9jqs2m/",
+              "created": 1718930469,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l9eyx7f",
+      "score": 114,
+      "body": "If you think it may go down soon, but would prefer to hold longer, sell deep ITM leaps against your shares to buy back cheaper later when it’s lower. Worst case it just keeps going up and you lose out on more gains, but protect what you already have, for the calls to be exercise and your shares to be called away. Best case is you’re right and you can buy them calls back when it’s down to ride back up and hold longer",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9eyx7f/",
+      "created": 1718856665,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9f12p2",
+          "score": 71,
+          "body": "This is the correct answer. Sell covered calls. \n\nIt limits your upside but you’re protected from downside.",
+          "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9f12p2/",
+          "created": 1718857822,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9f1cso",
+              "score": 16,
+              "body": "Out of the money limits your protection for a large drop, which is why I prefer long expiry deep ITM. Sometimes people exercise them early, but if you go with leaps it’s not so often (has never happened to me when I’ve done it) while offering more downside protection.\n\nThough either works and OTM more short term calls can offer decent protection if you keep selling them as they expire while it still goes down.",
+              "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9f1cso/",
+              "created": 1718857975,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l9f2brx",
+                  "score": 3,
+                  "body": "Ya that makes sense",
+                  "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9f2brx/",
+                  "created": 1718858511,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l9gmvj9",
+                  "score": 1,
+                  "body": "Any reading or advice on how to pick long expiry deep ITM calls?",
+                  "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9gmvj9/",
+                  "created": 1718891432,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l9gyw28",
+                      "score": 4,
+                      "body": "Just from my experience I made sure to buy one expiring the first of the next year if 6 months or more away or longer out to lessen the chance someone might exercise early because they have a long time of lower theta to sit on it with less worry.\n\nThen guesstimate how much I think it may pull back. 5% correction probable? I’d sell one 5% out. Things looking maybe not good in the short/medium term and may drop 20% but likely to eventually recover? I’d sell 15-25% ITM and save the premium aside to gain interest from cash sweeping until I think it might recover and then buy back for cheaper to ride back up.",
+                      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9gyw28/",
+                      "created": 1718895655,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "l9gp12n",
+              "score": 13,
+              "body": "Covered calls don’t protect you from the downside. You receive a premium for a limited upside. Buying a put protects you from the downside since your lowest price is equal to strike price - cost for the put \n\nLowest income from a covered call is equal to 0 (NVDA goes bankrupt) + premium on the call",
+              "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9gp12n/",
+              "created": 1718892221,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l9h342z",
+                  "score": 3,
+                  "body": "Deep ITM has very low intrinsic value so you essentially get paid $current - $strike.\n\nIf a stock is $100 and you sell $10 leap calls, you essentially get paid upfront the $90. If they never exercise, you make more money by keeping stocks.",
+                  "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9h342z/",
+                  "created": 1718897079,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l9h7lru",
+                      "score": 3,
+                      "body": "*extrinsic",
+                      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9h7lru/",
+                      "created": 1718898572,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "l9gwn1z",
+                  "score": 2,
+                  "body": "They absolutely do protect you from the downside. Whatever your premium you get is the amount of money you you won’t lose if it goes down. If you sell deep ITM calls you the premium can be a large amount of the value of your underlying now protected. Only downside is it limits your upside from there.\n\nIt’s always more adventagous to sell options than it is to buy. Puts may protect you from downside, but will bleed theta and any IV drop will also bleed value. In the other hand if you sell the CC you get some downside protection while making theta and any IV drop in your favor.",
+                  "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9gwn1z/",
+                  "created": 1718894894,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l9h3q0b",
+                      "score": 4,
+                      "body": "No it does not protect you from the downside of the underlying asset. \nYou’re minimum payout is the premium you collect on writing an option. However, that‘s not a protection for a drop in the underlying. \n\nTheta decay is much higher for short dated option. By implementing a cover call which is deep ITM you might collect the premium and have an advantage due to theta decay but you’re very likely that your underlying gets called. \n\nFar out covered calls have very little theta decay in the beginning. Writing a covered call is much more risky then buying a put and implementing a protective put. Which actually serves as a protection against the downside of the underlying.",
+                      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9h3q0b/",
+                      "created": 1718897281,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l9h5vge",
+                          "score": 1,
+                          "body": "Yes longer dated options and ITM options would have less theta and a far out deep ITM put wouldn’t be so risky, but funny enough it also reduces your upside so long as you hold it. Because you’ll lose almost as much value on the put as you gain from the security it’s on going up.\n\nBut you are very wrong on the downside protection. Selling a CC gives you protection from downside as it protects an amount equivalent to your premium you receive. If it goes down and the contract expires worthless you keep all the premium and hold the underlying still able to ride it back up. If it goes down and you buy it back for cheaper you also keep the premium amount over the price you have to buy back and the underlying security to ride back up.\n\nTry selling a deep ITM CC sometime and report back what the resulting P&L is when the underlying goes down. You be pleasantly surprised you lose little if any overall as the CC loses money for the person you sold it to also leading to little or not P&L loss as it goes down. That’s a pretty solid downside protection 😉. It just doesn’t protect you from unlimited downside, only down to around the strike you sold the CC at. Any loss past that is going to hit you. If it’s a good company though you can assume it’s likely not going to drop bankruptcy level in the foreseeable future.",
+                          "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9h5vge/",
+                          "created": 1718897996,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l9h83um",
+                              "score": 3,
+                              "body": "You're really doubling down here on this incorrect definition.  Just say \"selling calls reduces your overall loss if the position goes down.\"  \n\nIt's like falling.  Selling a call is like falling from a lower height.  But you've still fallen; you aren't connected to the structure (\"downside protection\").",
+                              "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9h83um/",
+                              "created": 1718898741,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l9h91pv",
+                                  "score": 0,
+                                  "body": "I’ll just extend the same comment here since you obviously don’t understand what you are talking about:\n\nLmao. Seems you’re confidently talking out your ass as well. You should maybe learn what “downside protection means yourself. Directly from Schwab:\n\n[In other words, there is some downside protection with this strategy, but it's limited to the cash you received when you sold the option.](https://www.schwab.com/learn/story/options-trading-basics-covered-call-strategy)",
+                                  "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9h91pv/",
+                                  "created": 1718899050,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "l9h9q1m",
+                                      "score": 2,
+                                      "body": "\"Some downside protection\" is what I literally told you:  You're falling, you're going to hit the ground.  Except from a lower height.\n\n*Actual* downside protection is just that:  You're covered.  Whether that's being attached to the structure, having a put that offsets your long position, being in a collar, etc.  \n\nYou're going to lose this argument, especially if you have to point everyone to Charles' Schwab's website to make your point.",
+                                      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9h9q1m/",
+                                      "created": 1718899272,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "l9havue",
+                                          "score": 0,
+                                          "body": "Says the person who’s talking without any evidence to support their [pedantic](https://imgur.com/a/VVqQqKa) hair splitting. Schwab is just one and I could drop many more saying the same. Please drop one link upholding your hair splitting, I’ll wait. Even if you scrounge up something is it useful hair splitting?",
+                                          "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9havue/",
+                                          "created": 1718899665,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "l9h7w4l",
+                      "score": 0,
+                      "body": "This is not what \"downside protection\" means. \n\nA put protects your downside.  A collar protects your downside.  Selling calls does not protect your downside.  Stop twisting the definition.",
+                      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9h7w4l/",
+                      "created": 1718898669,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l9h8rka",
+                          "score": 0,
+                          "body": "Lmao. Seems you’re confidently talking out your ass as well. You should maybe learn what “downside protection means yourself. Directly from Schwab:\n\n[In other words, there is some downside protection with this strategy, but it's limited to the cash you received when you sold the option.](https://www.schwab.com/learn/story/options-trading-basics-covered-call-strategy)",
+                          "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9h8rka/",
+                          "created": 1718898956,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l9h9fhb",
+                              "score": 0,
+                              "body": "The term you're desperately searching for is \"downside mitigation.\"  Take care.",
+                              "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9h9fhb/",
+                              "created": 1718899177,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l9hag4d",
+                                  "score": 0,
+                                  "body": "Lmao, trying to argue semantics instead of utilization when even the main investing firms also use downside protection. [Little desperate at the end there to safe face while sticking to your mismatched pedantics](https://imgur.com/a/VVqQqKa)",
+                                  "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9hag4d/",
+                                  "created": 1718899517,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "l9hayw5",
+                                      "score": 1,
+                                      "body": "\"Do you have car insurance sir?\"\n\n\"No but I set aside $5k in case I got in an accident.\"\n\n\"Well sir this accident is going to cost you $350,000.\"\n\n\"Good thing I have downside protection then!\"\n\nu/Persistent_Bug_0101",
+                                      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9hayw5/",
+                                      "created": 1718899693,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "l9hbfwd",
+                                          "score": 0,
+                                          "body": "[removed]",
+                                          "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9hbfwd/",
+                                          "created": 1718899851,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "l9g9ss4",
+              "score": 1,
+              "body": "Lol except let your winners ride lol",
+              "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9g9ss4/",
+              "created": 1718885991,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l9nj992",
+              "score": 1,
+              "body": "This is stupid you can will lose money on covered calls if it falls a lot. You basically need to buy puts to protect yourself. However that can be expensive.  This why you're supposed to diversify and buy a bunch different stuff.  You then do tax havesting to offset taxes",
+              "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9nj992/",
+              "created": 1718995033,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l9f7uox",
+          "score": 7,
+          "body": "This is a great strategy. Another tactic to consider is to invest in products that create tax loss harvesting value. Charles Schwab has some products that mimic the returns of traditional ETFs but because they buy and sell stock on your behalf, allow you to create tax losses that you can use to offset any large gains. Alliance Bernstein has products in this category too. Cool products from a tax efficiency perspective.",
+          "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9f7uox/",
+          "created": 1718861725,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9feamr",
+              "score": 13,
+              "body": "What are those products called at Schwab?",
+              "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9feamr/",
+              "created": 1718865800,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l9gadxb",
+              "score": 12,
+              "body": "I don't really understand why you would want tax loss as a goal. Shouldn't the goal always be to make money? I don't aim for tax loss in any way",
+              "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9gadxb/",
+              "created": 1718886266,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l9gkbe1",
+                  "score": 6,
+                  "body": "Agreed.  Why would you purposely lose money.\n\nLT capital gains means you made 5x the profit of whatever you're paying in taxes.\n\nSell the stock, and keep 80% of the profit, and hold the other 20% of the profit in a money market account or CD until April 2025.\n\nYou will have chipped away at a percent of that tax bill in the process through additional gains (and yes you will be creating additional tax burden, but again that is just a percentage of money you keep).\n\nTax loss harvesting only makes sense if you've been holding onto a bad bet and are just waiting for a good time to exit that position so you can redeploy whatever capital is remaining.\n\nLosing money on purpose is a stupid strategy.",
+                  "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9gkbe1/",
+                  "created": 1718890450,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l9h53hp",
+                      "score": 3,
+                      "body": ">(and yes you will be creating additional tax burden, but again that is just a percentage of money you keep).\n\nThe point of this is to stretch out the tax burden to the next year.\n\nIf you buy and sell today for a massive gain, you get taxed and have to pay 30% by April. If you put it back in a stock that goes up 10% by then, you've just deferred 10% of that massive 30% tax to next year.\n\nEx: Make $100,000 today. Leave it alone and pay $30k in April, or put it in an ETF to then pull out $108,000. You just made yourself and extra 8k to pay your 30k.",
+                      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9h53hp/",
+                      "created": 1718897739,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "l9glyrl",
+                  "score": 2,
+                  "body": "I am not a lawyer, this is just my understanding of the subject (so please correct me if I have this wrong)...its more of a when you want to pay taxes question...let's say that you sit on a lot of gains. You sell this year. You have a higher tax burden for this year. Using tax loss tools enable you to target this year as a place to target using your losses to offset your gains. You can carry-forward losses for a specific time period, so you \"sow\" losses for a couple years then \"harvest\" them in the specific year you're trying to offset.",
+                  "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9glyrl/",
+                  "created": 1718891087,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l9gnfp7",
+                      "score": 1,
+                      "body": "Yeah I'm smooth brained, but you've described what I accidentally ended up doing my first few years trading stocks regardless...\n\nI think I still have like 35k rolling forward, but so far the number has grown most years.",
+                      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9gnfp7/",
+                      "created": 1718891638,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "l9hqgms",
+                      "score": 1,
+                      "body": "I guess it all supposes you have a bunch of losers in your portfolio and you're trying to optimize how to sell them knowing you are underwater. Fortunately that's not a scenario I have to worry about",
+                      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9hqgms/",
+                      "created": 1718904697,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "l9gwbn3",
+                  "score": 1,
+                  "body": "You wouldn't, it's a dumb strategy",
+                  "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9gwbn3/",
+                  "created": 1718894787,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l9hdvxy",
+                  "score": 1,
+                  "body": "Yeah tax loss harvesting is when you sell on the downside while buying something that gives a similar upside. If you’re down 30% on Pepsi but think it’ll recover because of xyz, you sell the Pepsi to book the loss, and then buy Coke. Investing in something intending for it to go down just makes no sense, it’s like when people think “tax write offs” are free money",
+                  "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9hdvxy/",
+                  "created": 1718900652,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l9hblje",
+          "score": 1,
+          "body": "This assumes you have 100 shares or more",
+          "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9hblje/",
+          "created": 1718899903,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9hc0z1",
+              "score": 1,
+              "body": "Well yeah: if not you’ll have to go with a different strategy",
+              "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9hc0z1/",
+              "created": 1718900044,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l9g8atc",
+          "score": 0,
+          "body": "Can you explain specifically what this is please? i don't fuck with options as of right now.",
+          "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9g8atc/",
+          "created": 1718885279,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9gienx",
+              "score": -2,
+              "body": "Instead of buying an ETF you buy the underlying stocks instead many of them will gain but some will lose money, so you balance out your stock gains with stock losers for tax reasons.",
+              "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9gienx/",
+              "created": 1718889694,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l9fo3y6",
+      "score": 26,
+      "body": "Tell me you own NVIDIA, without telling me you own NVIDIA…. Haha\n\nThat said: if you believe in the stock, try to use a Lombard loan against it (only makes sense if you have quite a bit of money invested)",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9fo3y6/",
+      "created": 1718872740,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9g5e37",
+          "score": 7,
+          "body": "yeah, OP thinks hes speaking code when we know exactly what hes saying, ...",
+          "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9g5e37/",
+          "created": 1718883836,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l9ez0uw",
+      "score": 39,
+      "body": "NVDA. Come on. We know what you're talking about. Long term capital gains is 20% so it's not terrible. No avoiding taxes.",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9ez0uw/",
+      "created": 1718856719,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9gczk8",
+          "score": 11,
+          "body": "> No avoiding taxes.\n\nI mean..\n\nOP could borrow against his NVDA shares til he retires, realize no more than $44,625 each year at the 0% long term cap gains rate, then reset the cost basis when he dies and his children inherit.",
+          "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9gczk8/",
+          "created": 1718887439,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l9ezy42",
+          "score": 9,
+          "body": "20 percent is 1/2 million plus unless op lives in a 5 percent state tax. If  I was op I probably would sell enough to stay in the 15 percent cap gains bracket.",
+          "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9ezy42/",
+          "created": 1718857213,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9ftnfc",
+              "score": 5,
+              "body": "Plus the Net Income Investment Tax, which is another 3.8% if your household income is above $250k.",
+              "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9ftnfc/",
+              "created": 1718876754,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l9f0ivq",
+              "score": 1,
+              "body": "15%?",
+              "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9f0ivq/",
+              "created": 1718857523,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l9f6jy9",
+                  "score": 5,
+                  "body": "15 percent for most people.",
+                  "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9f6jy9/",
+                  "created": 1718860943,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l9gfweh",
+          "score": 2,
+          "body": "Also, for individuals, anything under ~$47k falls in 0% tax bracket. 94k if filing married jointly",
+          "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9gfweh/",
+          "created": 1718888675,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l9m9zxt",
+          "score": 1,
+          "body": "Not quite true, 23.8% including Obama niit",
+          "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9m9zxt/",
+          "created": 1718979408,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l9f8lqj",
+      "score": 35,
+      "body": "Lets say its NVDA. I would look at the long dated options I can get which are 12/2026. \n\nLooking at the option chain I would consider selling a $71 call and selling a $168 put. Seems strange at first glance, but look at the breakeven points and potential profit. \n\nStock would have to crater 75% ($34)before you lose money on this deal. It would also have to go up 45%($204) more before you have giving up additional gains you could have gotten by not hedging. In the meantime you collect roughly $133 per share now with the tax issues happening in late 2026. Toss the money into a treasury etf that focuses on lets say 5 year treasuries. Collect the dividends and wait. \n\nNow I dont know your cost basis, but I if I was holding a position and wanted to cash out a bit I would tweak the two options so the lower break even point is relatively close to my cost basis but not necessarily all the way down to it. Essentially I would be cashing out the bulk of my profits. \n\nNow imagine the options are getting close to expiration. You have choices to make but it will basically boil down to where the stock price is at that point. Below $34 you lost money with the put being the issue. Below $71 you didnt make max profit you dont lose your shares and you might actually be picking up some up if put gets exercised. Above $71 you again didnt make max profit as you still have that put you sold possibly kicking in, but you also dont lose your shares. Above $168 you are losing out in opportunity cost and either let shares go or have to pay to keep them. \n\nWhy would I consider this route over the single call? More theta to decay in my favor AND I have a bit of hedge for if Im wrong about a longer term drop. A key thing though is if you go this route do not risk the credit collected. Just put it work for some risk free interest. In a couple of years you will close the options and will realize some tax implications. Barring a total collapse of the share price you should come out ahead over simply selling the stock at this moment. You will be behind where you would be if you didnt hedge and the stock still runs up quite a bit over a couple of years. \n\nNow I dont how many shares you got, but if its was me and it was going to result in a lot of contracts I would probably do a bit of this, and also sell calls for this year and more of the sold call and sold put approach for 2025. I would likely do ITM for 2025 and 2026 with an eye towards the lower break even being in the ballpark of my cost basis. I would probably sell the calls for this year a decent ways OTM and plan to roll them if they get near to ITM. And as always I would park the money collected into some risk free treasuries and just hold that until I work through this. Ideally the shares wont go away, but I will likely have short term gains this year, long term gains from this trade in 2025 and 2026. If in 2026 all has worked out I will have collected a bunch of interest from that risk free treasuries and I will have tax events for the gains I experienced in each of those years. If things went ok for the stock I might have even picked up some more shares. I may have sold some when that happened to rebalance the portfolio, but who knows. \n\nThe only real downsides of this are the sold put requires you to secure with cash or margin, you could lose money if the stock absolutely craters more than 75% and stays that way, or the stocks runs up a ton further and you have to pay a bit to keep your shares. But on the bright side risk free treasuries etfs pay. You could stack up a decent amount of cash during the intervening time. Everyone is in a different place, but for me I would feel comfortable with this for a stock I liked but has volatility.",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9f8lqj/",
+      "created": 1718862181,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9go2zu",
+          "score": 3,
+          "body": "Jesus... I want to put you in my back pocket to pull out as my personal Chat GPT when I finally have to start worrying about my exit plan!  \n\nI'm holding a silly stock I like with volatility too, but never considered your specific brilliant plan and it checks every concern and priority I had.  I need to learn way more about hedging.... only singularly bought calls or sold puts like individual bets before.",
+          "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9go2zu/",
+          "created": 1718891875,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9gp91x",
+              "score": 3,
+              "body": "Yeah I tend to really overthink things sometimes. Works in my favor for some stuff and really makes me a downer for other stuff.",
+              "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9gp91x/",
+              "created": 1718892305,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l9h59k3",
+          "score": 1,
+          "body": "Could you correct me?\n\nLet's say for example NVDA closes at $100 on the expiry date. You'll be forced to sell @ $71 because of the call, and buy @ $168 because of the put, right? I.e., you're losing ~$98/share, but since you've collected a $133 premium, you're still up ~$35/share (excluding broker fees) overall, right?\n\nYou've not lost any of your original shares, but now you've profited ~$3500?",
+          "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9h59k3/",
+          "created": 1718897795,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9h5rxz",
+              "score": 3,
+              "body": "Yes. Plus you had the premium making interest for several years hopefully at around 4-5%.",
+              "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9h5rxz/",
+              "created": 1718897964,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l9f05kf",
+      "score": 18,
+      "body": "[deleted]",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9f05kf/",
+      "created": 1718857323,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9hm7tm",
+          "score": 1,
+          "body": "Terrible advice. Following your feelings will get you cooked.",
+          "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9hm7tm/",
+          "created": 1718903320,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l9f5zo4",
+      "score": 5,
+      "body": "I agree that it feels oversold. Being more valuable than Microsoft and Apple? C’mon…they’re also delving into AI.",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9f5zo4/",
+      "created": 1718860609,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9f798l",
+      "score": 8,
+      "body": "If the stock went up 10x and it goes down 20%, that means it's gone up 8x, which is still fucking great. I'd try to keep it and withdraw it during retirement when I have no income and don't have to pay taxes.\n\n\nDepends on the company though. I'm speaking from my experience with NVDA. It's a blue chip company that will rebound even if it drops 20%.",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9f798l/",
+      "created": 1718861366,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9fjvi9",
+          "score": 1,
+          "body": "> I'd try to keep it and withdraw it during retirement when I have no income and don't have to pay taxes.\n\nUnless it's in a Roth, you're still paying taxes on the gains.",
+          "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9fjvi9/",
+          "created": 1718869676,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9fmroq",
+              "score": 1,
+              "body": "Roth is tax-free at sale though?",
+              "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9fmroq/",
+              "created": 1718871775,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l9fo40w",
+                  "score": 2,
+                  "body": "Yes, all IRA's are. You can do whatever you want inside an IRA and there are no taxes. A roth receives post tax money, so the distributions are tax free, and a regular/sep/simple receive pretax money, and are taxed upon distribution as regular income.",
+                  "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9fo40w/",
+                  "created": 1718872741,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l9fp2px",
+                      "score": 2,
+                      "body": "I misunderstood your first response. You're saying taxable accounts are subject to capital gains while roth is not.\n\n\nHowever you're only taxed on the long-term gains if your income is above $47k. Hence if you are retired and have little to no income, you can do so without being taxed.",
+                      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9fp2px/",
+                      "created": 1718873440,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l9hk8rs",
+                          "score": 1,
+                          "body": ">You're saying taxable accounts are subject to capital gains while roth is not.  \n\nNot the person you're responding to, but I don't think that is what he is saying.  Neither are subject to CG taxes.  Taxable IRAs (non-Roth) are taxed as regular income upon withdrawal, so it's an income tax, not a CG tax.",
+                          "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9hk8rs/",
+                          "created": 1718902678,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l9hyhw9",
+                              "score": 1,
+                              "body": "Good point",
+                              "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9hyhw9/",
+                              "created": 1718907305,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "l9wjpy0",
+              "score": 1,
+              "body": " Capital gains are only taxed if you exceed a certain income.",
+              "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9wjpy0/",
+              "created": 1719151229,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l9eysk0",
+      "score": 4,
+      "body": "Sell some keep some.",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9eysk0/",
+      "created": 1718856598,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9fpeih",
+      "score": 6,
+      "body": "I was in a similar position where I had like 680% gains on a call that I really wanted to ride out but had daily stress about the stock dropping… I ended up rolling my position (similar mindset to selling some stock) into a cheaper call that allowed me to take my initial contribution back while riding out any gains or losses with just my profit. I feel way better about this (it is now all invested into the actual stock I bought the calls for) because now, even if the company absolutely tanked (no chance) I’d still walk away with the money I put in and if it gains substantially like I think it will, I have (more than) my initial contribution from gains invested already which means I still enjoy being a part of the company and its growth! Just my experience! Best of luck",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9fpeih/",
+      "created": 1718873678,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9ey8ot",
+      "score": 11,
+      "body": "Buy puts. Sell your initial investment and let the rest ride. Pile more in if you believe it can keep growing. You can’t tell the future so really any decision could work or blow up in your face.",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9ey8ot/",
+      "created": 1718856307,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9g3vev",
+      "score": 3,
+      "body": "Trailing stop loss",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9g3vev/",
+      "created": 1718883048,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9h907f",
+      "score": 3,
+      "body": "That’s why I buy some stock half on taxable and the other half on Roth, so when the time comes, I just just sell those in the Roth and let the other half in taxable run.",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9h907f/",
+      "created": 1718899036,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9f6at7",
+      "score": 4,
+      "body": "Scale out. At the minimum take out your initial investment. Then take 20% of profits. At the minimum you have your original investment plus 20%. Set a stop loss at 50% profit and just ride the wave after.",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9f6at7/",
+      "created": 1718860792,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9g01vh",
+      "score": 2,
+      "body": "Insurance costs money which cuts into your profits. Long dated ITM or ATM puts are a great option if you fear a crash but they will cost a fair bit, so you have to consider whether any possible growth of the stock in that timeframe if it doesn't crash will outweigh these costs. You can also get OTM puts so that they're cheaper. If you're ok with losing 20% before cutting your losses for example it's not that unreasonable to buy a put that only starts going ITM with a 20% drop, though of course if it's rising in the meantime you run the risk of creating a widening gap that may not be covered at all by the put by the time a crash happens. This it also the reason why people buy ITM options. \n\nAlternatively you can sell covered calls if you have at least 100 shares. If it's overbought it's likely you'll receive decent premiums for them, though you have to have a plan for the possibility of exercising. If you find yourself rolling to not get exercised constantly you're just losing money, and being exercised may be a less than ideal scenario but it's not that bad if it's for a higher strike price than the current one. It's sort of like ripping a band aid. You're unsure whether you want to sell or hold and getting assinged forces your hand somewhat and you might miss out on even more potential gains but you also lock in profits right now.\n\nLastly you can just cash out and put the money into something less volatile but you will get hit with taxes on that.",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9g01vh/",
+      "created": 1718880916,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9g0m98",
+      "score": 2,
+      "body": "Take profits and sell 20%, then put a stop loss -5% of current price on another 25% of shares and enjoy your day.",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9g0m98/",
+      "created": 1718881246,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9f2gts",
+      "score": 1,
+      "body": "Sell a small %, say 10%. If the stock continues to climb, sell another chunk. You can determine the frequency and prices, but essentially you can dollar cost average out perhaps ( up to a certain limit).",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9f2gts/",
+      "created": 1718858589,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9f96dn",
+      "score": 1,
+      "body": "Puts are a great hedge against common shares drawdown \n\nOr take a 3X leveraged short like SQQQ if you want to avoid options",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9f96dn/",
+      "created": 1718862530,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9fftqx",
+      "score": 1,
+      "body": "Covered calls",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9fftqx/",
+      "created": 1718866829,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9fhqgi",
+      "score": 1,
+      "body": "You can buy a few puts",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9fhqgi/",
+      "created": 1718868149,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9floub",
+      "score": 1,
+      "body": "If you have losses, sell those together with it to harvest the loss and offset your gains tax.\n\nIf you don’t have specific concerns with risk to the stock, always a good idea to take some profit now, no need to realize all the gains and potentially get a portion of it taxed at a higher rate.",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9floub/",
+      "created": 1718870999,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9fonf6",
+      "score": 1,
+      "body": "Buy a protective put",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9fonf6/",
+      "created": 1718873128,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9fwfch",
+      "score": 1,
+      "body": "I was in a similar situation a while ago. I had MAXAR and it went up and up. Then it was going private and it shot up again. I sold it a few weeks before they would have just given me cash for the stock. I sold it because I was worried the sale might fall through but also I really wanted to buy other stocks. Sure I could have got a bit more but I made my money. \nIt all depends on how you feel. \nYou might just sell enough to cover the money you spent on it so now you are covered if it tanks.",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9fwfch/",
+      "created": 1718878638,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9g2tj2",
+      "score": 1,
+      "body": "Search the story of how Marc Cuban executed a \"collar\" on his Yahoo stocks once his company got bought up.",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9g2tj2/",
+      "created": 1718882480,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9g3wop",
+      "score": 1,
+      "body": "Buy puts as insurance. How much insurance do you want? Learn what delta is, and buy that much negative delta ",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9g3wop/",
+      "created": 1718883066,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9g6c8z",
+      "score": 1,
+      "body": "Collar ur holdings",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9g6c8z/",
+      "created": 1718884311,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9g6ckr",
+      "score": 1,
+      "body": "For every 100 shares you own….Put an options collar on it.  Sell a call and use the premium to buy a put.  The way the options are being priced right now, you can go fairly otm and get enough to do this at zero cost.  Might have to spend a few $ but that’s what’s called insurance.",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9g6ckr/",
+      "created": 1718884316,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9g6rx8",
+      "score": 1,
+      "body": "Set a stop loss",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9g6rx8/",
+      "created": 1718884528,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9gcatl",
+      "score": 1,
+      "body": "Schwab used to let you open a short position on a stock you held long.  They don’t allow it anymore.",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9gcatl/",
+      "created": 1718887136,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9nnb7s",
+          "score": 1,
+          "body": "That used be what people did to avoid taxes but IRS closed that loophole. Shorting against the box will make you take the gain.  It really only used as way to unload Restricted Options now.",
+          "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9nnb7s/",
+          "created": 1718996446,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l9gcbeo",
+      "score": 1,
+      "body": "Sell enough to equal your initial investment then hold or sell whenever you want with no real risk.",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9gcbeo/",
+      "created": 1718887143,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9gfbib",
+      "score": 1,
+      "body": "My stocks are in my IRA.  I usually sell half of the stock.",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9gfbib/",
+      "created": 1718888431,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9gfhlr",
+      "score": 1,
+      "body": "Go short against the box",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9gfhlr/",
+      "created": 1718888503,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9gs3uu",
+      "score": 1,
+      "body": "When I have huge gains, like on NVDA, I sell just enough shares to cover my original investment plus taxes. That way I have a zero basis from an ROI point of view going forward and am literally playing with the house's money.",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9gs3uu/",
+      "created": 1718893329,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9gt9yg",
+      "score": 1,
+      "body": ">If you sell a bunch now, you'll pay 20% as LT Cap Gains -- so that sucks you might as well keep it because even if it drops <20% you're still better off holding the stock.\n\nHow? If you have $100 and you sell it and pay 20% capital gains you gain $80. However if you have $100 and it drops 20% in value, and then you sell it, you still have to pay another 20% in capital gains on your $80, so now you only made $64.\n\n\nAlso, congrats on getting into NVDA early.",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9gt9yg/",
+      "created": 1718893737,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9gtgu5",
+      "score": 1,
+      "body": "If it’s NVDA, sit tight this thing is going a lot higher over the next few years.",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9gtgu5/",
+      "created": 1718893804,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9h2ehv",
+      "score": 1,
+      "body": "OP please consider buying put options. Most decent brokers have a phone number to call to get advice on option trading to help hedge yourself ",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9h2ehv/",
+      "created": 1718896842,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9h53lt",
+          "score": 1,
+          "body": "It's already there.",
+          "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9h53lt/",
+          "created": 1718897740,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l9h3i46",
+      "score": 1,
+      "body": "Get comfortable with 10 baggers. Just sit and let them cook. Who cares if it swings?",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9h3i46/",
+      "created": 1718897209,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9h73dp",
+      "score": 1,
+      "body": "Keep holding.",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9h73dp/",
+      "created": 1718898403,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9iupg7",
+      "score": 1,
+      "body": "Are you asking for tax strategies? A charitable remainder trust is an option. There are also certain private placement strategies to deal with gains if you're an accredited investor.",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9iupg7/",
+      "created": 1718918077,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9jiwpr",
+      "score": 1,
+      "body": "***Always*** set a stop loss trailing gains. **Always**",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9jiwpr/",
+      "created": 1718927204,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9jopt2",
+      "score": 1,
+      "body": "[removed]",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9jopt2/",
+      "created": 1718929607,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9puzwo",
+      "score": 1,
+      "body": "Move to New Zealand. Capital gains be gone",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9puzwo/",
+      "created": 1719028475,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9fo6k2",
+      "score": 1,
+      "body": "Protecting against downside is costly.\n\nYou are concerned that the price may go down. This is the source of your problems. This concern can be used for any stock at any time.\n\nThe answer is do nothing unless you need the money. \n\nEvery long-term investor will end up in the same place you find yourself in today. It's a good thing and expected.",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9fo6k2/",
+      "created": 1718872792,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9h1z9f",
+          "score": 2,
+          "body": "Unless it was dotcom, this is an individual stock not the market. The guy should consider buying puts. Cost him a few % of position",
+          "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9h1z9f/",
+          "created": 1718896702,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9h4hle",
+              "score": 0,
+              "body": "Makes more sense to buy other stocks with the money you would use to buy puts. \n\nIf it's an individual stock like NVDA, then an ATM put 1 year out costs 17% of the current price. I don't see the merit in paying 17%, so it only starts being profitable after NVDA has dropped 17%. In this scenario it makes more sense to realize gains, pay the tax, then buy different stocks",
+              "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9h4hle/",
+              "created": 1718897535,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l9h76xs",
+                  "score": 2,
+                  "body": "Ehh I disagree, with Nvidia's volatility, stock can double and he can feel good that he was protected for a year. Selling is automatic 20% hit, and he can't play the momentum anymore.\n\n He could also sell upside calls to if he's worried about stock going flat and losing 17%.",
+                  "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9h76xs/",
+                  "created": 1718898436,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l9fijqs",
+      "score": 0,
+      "body": "Just sell your tech stocks. We just had a Hindenburg Omen signal. Nvidia is a bubble and the Nasdaq will correct.",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9fijqs/",
+      "created": 1718868724,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9fuafe",
+          "score": 2,
+          "body": "Wtf is a hindenburg omen signal. You guys just making up terms and looking at funny lines on a screen now? 😂 Saturn is in conjunction soon. Sell!",
+          "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9fuafe/",
+          "created": 1718877200,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9j2j36",
+              "score": 1,
+              "body": "Do what you want, but think about the omen tararara raraa taa taaa 🎶🎹",
+              "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9j2j36/",
+              "created": 1718920839,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l9fksqj",
+      "score": 0,
+      "body": "is moving to a lower tax state an option? florida, nevada?",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9fksqj/",
+      "created": 1718870350,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l9fpnmf",
+          "score": 2,
+          "body": "Capital gains tax are federal... You can't even move to a different country to escape US taxes.",
+          "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9fpnmf/",
+          "created": 1718873860,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l9ftytm",
+              "score": 6,
+              "body": "Most states tax capital gains too. https://taxfoundation.org/data/all/state/state-capital-gains-tax-rates-2024/\n\nSome don't, so you can save a good amount by being in those states.",
+              "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9ftytm/",
+              "created": 1718876974,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l9g1rz0",
+      "score": 0,
+      "body": "Collateralize it and get a loan, buy more stock. Welcome to rich",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9g1rz0/",
+      "created": 1718881909,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9gnrkd",
+      "score": 0,
+      "body": "I assume you are talking tax rate being a US citizen",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9gnrkd/",
+      "created": 1718891759,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9hl6ry",
+      "score": 0,
+      "body": "You made a comment about selling and paying 20% LT cap gains is pointless because even if it drops <20% you’re better off holding the stock. This is nonsensical and shows you don’t understand simple maths around investing re cap gains and profits.\n\nYou have to pay the 20% cap gains whenever you choose to realise your profits. So saying you might as well keep it so that you don’t pay the tax is nonsensical.",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9hl6ry/",
+      "created": 1718902980,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9fldhm",
+      "score": -1,
+      "body": "What’s the best stock to purchase ?",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9fldhm/",
+      "created": 1718870770,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9g03l2",
+      "score": -1,
+      "body": "Is umicore a buy?",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9g03l2/",
+      "created": 1718880942,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l9g02rf",
+      "score": -2,
+      "body": "What is a good dividend stock?",
+      "permalink": "/r/stocks/comments/1dk2jzp/strategies_for_when_youre_holding_a_stock_with_a/l9g02rf/",
+      "created": 1718880929,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

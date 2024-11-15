@@ -1,0 +1,459 @@
+{
+  "title": "Blame game: CrowdStrike hits back at Delta Air Lines over litigation threat",
+  "score": 124,
+  "selftext": "CrowdStrike (NASDAQ:CRWD) has rejected Delta Air Lines' (NYSE:DAL) claims that the cybersecurity firm was to blame for the carrier's extended flight disruptions in the aftermath of last month's global tech outage.\"CrowdStrike reiterates its apology to Delta , its employees, and its customers,\" its external lawyer Michael Carlinsky wrote in a letter to Delta's counsel David Boies.\" However, CrowdStrike is highly disappointed by Delta's suggestion that it acted inappropriately and strongly rejects any allegation that it was grossly negligent or committed willful misconduct.\"\n\n\n\nCarlinsky said CrowdStrike reached out to Delta within hours of the incident to offer assistance, after which CEO George Kurtz personally reached out to Delta's chief Ed Bastian, but received no response.\"CrowdStrike  followed up with Delta  on the offer, and was told that the onsite resources were not needed,\" Carlinsky noted.He said Delta's public threat of litigation \"contributed to a misleading narrative that CrowdStrike  is responsible for Delta's IT decisions and response to the outage,\" and pointed to the fact that other airlines recovered from the IT meltdown much faster.\n\n\n\nCarlinsky said any liability by CrowdStrike is \"contractually capped at an amount in the single-digit millions… while litigation would be unfortunate, CrowdStrike will respond aggressively, if forced to do so.\"Bastian recently said the impact from the IT outage would cost the airline $500 million. Delta plans to seek damages from CrowdStrike  and Microsoft for the outage.",
+  "link_flair_text": "Company News",
+  "id": "1eksgjp",
+  "num_comments": 44,
+  "created_utc": 1722875914,
+  "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/",
+  "comments": [
+    {
+      "id": "lgmtawh",
+      "score": 102,
+      "body": "[deleted]",
+      "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgmtawh/",
+      "created": 1722876958,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lgn1nwn",
+          "score": 37,
+          "body": "No corporation ever intends to go trial, including crowdstrike.",
+          "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgn1nwn/",
+          "created": 1722879577,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lgnwyvh",
+          "score": 22,
+          "body": "Buried at the bottom of every breathless Crowdstrike-gunna-be-bankrupted thread you’ll find me explaining that millions of responsible organization had competent IT and performed Crowdstrike’s supplied workaround fixes within hours and were up before business hours.  \n\nAnyone that took 9 days is just revealing their own brutally incompetent preparation and response, not Crowdstrike’s.\n\nAny business that has systems should have prepared for how they would respond to *any* kind of event, be it a cyber attack or physical disaster or anything else.  \n\nYou classify these events and have plans of how you’ll recover or replace each system.  Sometimes the recovery plan is less than ideal, but you make that decision informed and as a cost versus risk choice.    Some (many) will choose to take more profits rather than have people on payroll that can reset servers or administer bitlocker.  They’re rolling the dice and hoping that shortcut doesn’t come back on them.\n\nI’ve had times when other executives said how come you’re spending so much to have two power utilities, and if you have two power utilities why do you also have your own power generation, couldn’t we save money by ditching some of this?  I’ll respond, sure we can, but I just need the executive from each area to sign off that they are fine with a 5 day recovery time instead of 5 hours, and that they know they are trading X amount of cost savings today for Y amount of business harm if something happens.",
+          "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgnwyvh/",
+          "created": 1722889528,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lgnynto",
+              "score": 14,
+              "body": "[deleted]",
+              "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgnynto/",
+              "created": 1722890059,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lgoo5bi",
+                  "score": 3,
+                  "body": "Food for thought:\nA lot more companies rely heavily on Airline Transportation travel than a simple Anti-Virus alert notification software vendor.   \n \nIt will be interesting to see what side and/or actions Delta’s affiliates and partners take.",
+                  "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgoo5bi/",
+                  "created": 1722898592,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lgoyqom",
+                      "score": 0,
+                      "body": "[deleted]",
+                      "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgoyqom/",
+                      "created": 1722902443,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lgo087p",
+                  "score": 4,
+                  "body": "Even more sobering for the executive and board of any company that took forever to recover: what was your plan and capacity to recover from an incident that *wasn’t* a simple crowdstrike-related reboot?  If you had to actually re-image machines?  Restore a backup?  Find a new power or data provider?  Replace hardware?  Work with half your employees unavailable?  Deal with an earthquake at your “main” IT office?  Find out your production system is full of foreign actor corruption?  \n\nIf they crapped the bed just on a simple safe reboot operation, it means they have zero resilience and zero contingency plans in place.",
+                  "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgo087p/",
+                  "created": 1722890555,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lgo1ln0",
+                      "score": 3,
+                      "body": "[deleted]",
+                      "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgo1ln0/",
+                      "created": 1722890989,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lgo3ttq",
+                          "score": 4,
+                          "body": "What sucks is that media and judges and juries won’t understand how none of that is Crowdstrike’s fault.  We’ve seen it from day zero of this saga.  Even here on Reddit, where at least some of the kiddos should know better, we’re awash in comments about Crowdstrike deserving to go bankrupt, UberEats memes, Musk cultists endorsing his call to rip out their cyberprotection.",
+                          "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgo3ttq/",
+                          "created": 1722891692,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lgpn4nl",
+                              "score": 2,
+                              "body": "\"None of that is Crowdstrike's fault\". \n\nI think that's a little too far in the other direction. They are still the ones that toppled the first domino. But you are right that I have no clue how any judge or jury or anyone really decides what percentage is appropriate. You need to have deep knowledge of IT distributed systems, law, finance, air travel...",
+                              "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgpn4nl/",
+                              "created": 1722911805,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lgqp80a",
+                                  "score": 2,
+                                  "body": "None of OP’s 4 points are Crowdstrike’s fault, they’re the fault of the customer’s own IT.  \n\nIn civil law there’s a concept that you’re only responsible for what you caused that could not be mitigated.  So if bump into your fence and scratch the paint, then I’m responsible for fixing the scratch.  But if you leave the damage unfixed, and then the wood rots, and you fail to deal with that, and then the fence topples onto your dog house, and then you don’t do anything about that either and eventually the dog house gives way and squashes your dog, well under the law I’m not responsible for your dog, your dog house or your fence.  I’m only responsible from for the initial scratch, and whatever is is reasonable to cure that specific harm.\n\nYou have what’s called a duty to mitigate, which means taking action to make sure the scratch doesn’t lead to other consequences.  \n\nThat’s precisely the concept at play here.  Crowdstrike was responsible for the initial issue.  If a customer lost money or incurred costs during the 2 hour initial period before Crowdstrike issued the workaround instructions, that’s fair.  If a customer had to pay someone overtime, or a minimum 4 hour call out charge.  Or travel and expense, those are in bounds.\n\nBut beyond that, it shifts to customer’s duty to mitigate.  If they couldn’t or wouldn’t reboot for 9 days, that’s on them, not Crowdstrike.",
+                                  "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgqp80a/",
+                                  "created": 1722932714,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "lgrfzzx",
+                                      "score": 2,
+                                      "body": "Your hypothetical involves deliberately ignoring the issue. I shouldn't need to have paint on hand to immediately fix a scratch that shouldn't have happened in the first place. If you drive drunk and kill someone in an accident, you don't get off Scott free because they weren't wearing a seat belt.\n\nLike you're basically advocating nobody should be held responsible for any computer problem, since a perfectly designed system should have redundancies in place to mitigate any failures. Company negligently ships a hard drive that fails? Guess it's not their fault, should have used RAID. US-East goes down for 12 hours because Amazon let an intern directly push to prod? Should have regional replication and fail over.",
+                                      "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgrfzzx/",
+                                      "created": 1722947705,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "lgtkmla",
+                                          "score": 1,
+                                          "body": "[removed]",
+                                          "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgtkmla/",
+                                          "created": 1722972487,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lgnjqiq",
+          "score": 1,
+          "body": "They offered some $10 Uber eats card",
+          "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgnjqiq/",
+          "created": 1722885319,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lgmutq6",
+          "score": -46,
+          "body": "imo: crwd is destroying their image here and any shred of goodwill they might have had",
+          "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgmutq6/",
+          "created": 1722877415,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lgmuu1y",
+          "score": -49,
+          "body": "imo: crwd is destroying their image here and any shred of goodwill they might have had",
+          "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgmuu1y/",
+          "created": 1722877415,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lgnced2",
+      "score": 26,
+      "body": "A bunch of airlines were affected, deltas the only one taking way longer to recover. Delta problem.",
+      "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgnced2/",
+      "created": 1722882979,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lgnqlni",
+          "score": 7,
+          "body": "I agree with this. I have been on the receiving end of plenty of Delta fuck-ups. They need to get their own house in order first before complaining about another organization.",
+          "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgnqlni/",
+          "created": 1722887513,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lgnti73",
+      "score": 24,
+      "body": "Been saying this since the start.  Crowdstrike found the cause and provided the workaround within a couple hours.  Most organizations worldwide that have competent IT operations were fixed before business hours in the morning.\n\nThe ones that are whining they took 9 days (Delta) to recover are exposing their own negligent architecture and operations.  \n\nThe time to reset servers and systems is a choice made by every organization based on how they design them and how they provision (or skimp) on resources.\n\nIf Delta took 9 days to fix a non-hack, non-issue that needed only a safe reboot step, imagine how poorly they would do on an actual malicious hack, data breach, code integrity or other actually serious issue.\n\nWhat sucks for Crowdstrike is that thanks to the truthy but fraudulent claims of bad actors like Delta’s PR and ambulance chaser, to defend themselves Crowdstrike will have to detail how some customers like Delta have negligent and/or incompetent IT and executive.",
+      "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgnti73/",
+      "created": 1722888436,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lgqipbp",
+          "score": 5,
+          "body": "Its Bitlocker I assume locking out their local admin passwords on their DC.",
+          "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgqipbp/",
+          "created": 1722928315,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lgqnvet",
+          "score": 1,
+          "body": "provided the workaround within a couple hours\n\nAbout 30 minutes.",
+          "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgqnvet/",
+          "created": 1722931795,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lgn1hzu",
+      "score": 29,
+      "body": "of course crowdstrike is going to say they didn’t do anything materially wrong.  There are a lot more sharks circling than just delta.  I struggle to see an avenue that doesn’t end showing their complete incompetence in QA testing.  Them thinking they are going to get out of this at contract mins is pretty laughable.  \n\n\nThat being said, there’s no way delta is going to recover $500 million.  They’ll settle for some number sub $100 million 12-18 months from now, as it also seems clear that delta bears some culpability for their problems getting back online.",
+      "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgn1hzu/",
+      "created": 1722879525,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lgnr2n9",
+          "score": 16,
+          "body": "Contracts for deals like this tend to have liability caps Even With gross negligence.",
+          "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgnr2n9/",
+          "created": 1722887663,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lgn7c03",
+          "score": -2,
+          "body": "Testing needs to happen on both ends. Sending updates to production systems without testing internally is also a big flaw on Delta's side.  I think you are right that both sides will settle, but I'm pretty sure Delta started this lawsuit to deflect blame from their meltdown after the incident.",
+          "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgn7c03/",
+          "created": 1722881374,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lgp32gm",
+              "score": 6,
+              "body": "Nope. My own company runs one major revision back until approval process and we still got smacked with this.",
+              "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgp32gm/",
+              "created": 1722904067,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lgnbret",
+              "score": 12,
+              "body": "Given that this affected far more than delta, I’m guessing it’s a push update that isn’t supposed to go through secondary validation.",
+              "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgnbret/",
+              "created": 1722882778,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lgntybc",
+              "score": 6,
+              "body": "There's nothing Delta could have done to prevent this beyond not using Crowdstrike.  Crowdstrike forcibly installed the update on everyobe.",
+              "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgntybc/",
+              "created": 1722888578,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lgnz5a7",
+              "score": 5,
+              "body": "> sending updates to production systems without testing internally is also a big flaw on Delta’s side\n\nDisclaimer: (I’ve explained extensively why this is all about Delta’s negligence and incompetence rather than Crowdstrike’s but...) often it’s not as simplistic as you say “sending updates without internal testing”\n\nOften, with content or data, you wouldn’t want to delay that for internal testing.  You don’t want some internal testing team pausing your live sports broadcast or weather report or market pricing so they can test it first.  And the same could be true with cyber protection.  Do you want delays to fresh and ongoing exploit protection?  Probably not.  If given a choice, which would you pick:  \n\n* delay and do extra tests, but be vulnerable to zero day malware, ransomware, data theft, data corruption, code corruption, infection, and other cyber damage\n* don’t delay, but be vulnerable to having your IT operations perform a straight forward and well rehearsed reboot of each system\n\nEven in hindsight, it’s a pretty obvious choice.",
+              "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgnz5a7/",
+              "created": 1722890213,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lgsrox6",
+                  "score": 1,
+                  "body": "The media has been significantly misrepresenting the Crowdstrike updates. The [PIR](https://www.crowdstrike.com/blog/falcon-content-update-preliminary-post-incident-report/) indicates significant, industry-level testing for both sensor and cloud releases. The file that broke the host machines was not \"code\" per se in the classic sense -- it didn't change the software installed on the machine -- but rather it was more equivalent to a config file. \n\n\nI can guarantee that most companies ship similar config files to their hosts without testing. It's A LOT of work to add staggered publications for every file possible associated with a product. In an everyday sense, it's almost similar to how journalists don't necessarily fully proofread their documents before sending them to their editors. If a file reader the editor used happened to have a bug that couldn't read the file correctly, the software breaks. In this case, it had devastating consequences -- but not because of negligence that differed from the industry standard, but rather because of a bug they didn't fully prepare for. All software has bugs and bugs make it out to production every day. \n\n\nAny publisher-subscriber system is extremely hard to test in a staggered fashion. Have you noticed that test amber alerts are sent to EVERYONE, rather than just a couple of phones? Sending out config files typically doesn't follow the classical software validation system of canaries and test environments. You just have subscribers that receive it and you hope that the code that reads the messages correctly processes it. \n\n\nIt sounds like Crowdstrike is indeed currently implementing systems where these files are rolled out in a staggered fashion, but it's not going to be a simple process. Sounds like they're going to become one of the companies with the highest standards of QA in the industry after this event. ",
+                  "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgsrox6/",
+                  "created": 1722963571,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lgtm01t",
+                      "score": 2,
+                      "body": "I can’t defend that they shipped a package which halted systems.  But that’s the extent of it.  Their package didn’t delete files or send data to foreign mobsters.\n\nApparently the file wasn’t bad/wrong per se, it was null.  And when reading the null file, their critical embedded driver or whatever just halted.  Obviously that’s (probably) bad design.  And it’s also a gap in their testing.  But they have described the multiple steps they do in testing, which are decent, but as we’ve learned, ultimately imperfect. \n\nThe testing needs to be bolstered to catch this kind of failure mode, and now it is.  But for those armchair experts who have been claiming they do zero or no testing, that’s just false.\n\nAs for staggering cyber protection packages, it’s a double edged sword.  They’d probably then be attacked by the Deltas of the world for not giving updates sooner if they aren’t in the first stage of the staggered schedule.",
+                      "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgtm01t/",
+                      "created": 1722972919,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lgtphu3",
+                      "score": 1,
+                      "body": "Furthermore, whenever I hear Delta or any company whine and say “But we’re too big and distributed to do that” all I hear is “we are immensely rich and successful and enormous so we certainly do have the money and resources and incentive and scale to most easily do the right thing... but we’re choosing higher profits over ethics.”\n\nAnd compact/naive consumers don’t just allow this, they’re often the cheerleaders for such excuses.  “Oh you can’t expect Facebook to police their own environment against disinformation and crime, they’d have to hire qualified human moderators in every country they operate in.”  Uh, yeah, they would, which is a fair expectation.  If they’re going to harvest tons of money from your country’s citizens, then a little of that should be spent making sure their platform isn’t being used as a crime tool.  \n\nYet apologists will come out the woodwork saying “it’s such a big task”. Sure, maybe.  But not really.  If you gave me the job, and I could tap into Facebook’s billions upon billions of profit, I’d create a gold plated super high quality and integrity moderating system.  I’d hire great people and create good jobs, and it would all be organically scaled to match the jobs created with the revenues exploited by region.  \n\nYes, it would probably consume as much as one eighth of their gigantic profits.  But who cares?  The other 7/8s is still a staggering profit.  And it would mean we’re running an ethical, beneficial platform instead of a criminal and fascistic tire fire.",
+                      "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgtphu3/",
+                      "created": 1722974000,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lgnakdn",
+      "score": 7,
+      "body": "In their defense, Crowdstrike did have a fix pretty quickly. I’m guessing Delta probably had a few missteps in handling the crisis that made the situation worse than it needed to be",
+      "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgnakdn/",
+      "created": 1722882397,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lgnuc67",
+          "score": 9,
+          "body": "Thats not how this really works.  Every impacted computer required someone to manually make changes to get it to boot.  Crowdstrike having a fix available in an hour doesn't change the fact that you needed to successfully boot up each computer to get the update.",
+          "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgnuc67/",
+          "created": 1722888699,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lgp3n79",
+              "score": 6,
+              "body": "Don’t know why this guy is getting downvoted but yes the fixed required touching every system, it actually wasn’t so bad if you ran without drive encryption. Unfortunately we did.",
+              "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgp3n79/",
+              "created": 1722904285,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lgqpxa5",
+              "score": 0,
+              "body": "But all other airlines were up and running quickly. Delta took a week.",
+              "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgqpxa5/",
+              "created": 1722933191,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lhq6tiz",
+                  "score": 2,
+                  "body": "It's because Delta relies more heavily on Microsoft products than United and American. Delta runs the best operation because of all the data it feeds these systems, and they are all protected by Bitlocker",
+                  "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lhq6tiz/",
+                  "created": 1723460611,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lhuy5k1",
+                      "score": 1,
+                      "body": "No, that's not the reason. Just ask anyone who worked for them.",
+                      "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lhuy5k1/",
+                      "created": 1723521448,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lgn04bz",
+      "score": 4,
+      "body": "Delta needs to buy my new app CrowdStrikeStrike.",
+      "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgn04bz/",
+      "created": 1722879087,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lgn3a1o",
+          "score": 2,
+          "body": "Clownstrike",
+          "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgn3a1o/",
+          "created": 1722880092,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lh0tdbq",
+      "score": 2,
+      "body": "Crowdstrike caused the problem (like Firestone tires or air bags).  Failure to mitigate isn’t a viable defense in court.\n\n“Though my client was the mugger, if the victim simply gave the wallet there wouldn’t have been a cause to shoot.  Therefore we move to dismiss the charge of homicide.”",
+      "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lh0tdbq/",
+      "created": 1723072889,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgnqk82",
+      "score": 4,
+      "body": "Really tempted to go long CRWD.",
+      "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgnqk82/",
+      "created": 1722887500,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgod8l2",
+      "score": 1,
+      "body": "A lot of clownstrike bagholders trying to pump fools into exit liquidity.\n\nThere is no winning for Crowdstrike here…. In whatever lala land scenario, ultimately - they are still going to lose one really big $ client (Delta).  Potentially many more to follow …",
+      "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgod8l2/",
+      "created": 1722894769,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lgqq350",
+          "score": -1,
+          "body": "If you think anything here moves CS share price, you're the one in lala land.",
+          "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgqq350/",
+          "created": 1722933301,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lgrvhln",
+              "score": 1,
+              "body": "Fair point.\nEither way, one thing is for certain and an undisputed fact.  The number of lawsuits against CS is increasingly rising, and will probably continue for quite some time.  Not sure what CS’s cash reserves are… but most companies would not be able to survive the attorney fees, legal fees and settlements.\n\n1) Delta lawsuit.\n2) Shareholder lawsuit.\n3) new. Airline Passengers w/ disrupted travel now suing CS\n\nsource:\nhttps://finance.yahoo.com/news/crowdstrike-sued-fliers-massive-outage-213238026.html",
+              "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgrvhln/",
+              "created": 1722953382,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lgvrqkv",
+                  "score": 2,
+                  "body": "It's the lawyers who will be the big winners here, no doubt.",
+                  "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgvrqkv/",
+                  "created": 1723000127,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lguc34u",
+      "score": 1,
+      "body": "If this isn’t the spider man pointing meme…",
+      "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lguc34u/",
+      "created": 1722981073,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lgn4vit",
+      "score": -7,
+      "body": "We gave you $10 doordash coupon and you still sue us? Don't be greedy!",
+      "permalink": "/r/stocks/comments/1eksgjp/blame_game_crowdstrike_hits_back_at_delta_air/lgn4vit/",
+      "created": 1722880595,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

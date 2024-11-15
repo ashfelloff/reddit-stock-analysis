@@ -1,0 +1,413 @@
+{
+  "title": "Can AMD be considered as a AI chips provider? ",
+  "score": 61,
+  "selftext": "AMD still struggles with MI300 partnership and these made available through larger cloud service providers like AWS and GCP. There are some new AI farms but that won't have large adoption for production workloads. Neither would spend lot of time training models in these small farms only to realize there are very limited options to host inference applications Azure or OCP.\n\n  \nWhere is AMD falling behind to improve their market share? ",
+  "link_flair_text": "Company Discussion",
+  "id": "1fp2ssw",
+  "num_comments": 42,
+  "created_utc": 1727266076,
+  "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/",
+  "comments": [
+    {
+      "id": "loujl1j",
+      "score": 69,
+      "body": "It seems that AMD will keep growing a bit because it is eating the crumbs left by Nvidia.",
+      "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/loujl1j/",
+      "created": 1727269064,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "louqpde",
+          "score": 24,
+          "body": "Back when semiconductors bottomed and I wasn’t as savvy about investing I bought AMD over NVDA because the latter had a high multiple and I thought AMD was a better deal. Here I am a couple years later with a mere double on my investment instead of 10x. I never cared about P/E after that",
+          "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/louqpde/",
+          "created": 1727271719,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lovdl7c",
+              "score": 22,
+              "body": "tbf you didnt realize it but when nvidia had a PE of 200, it really had a PE of 10, no one expected its EPS to grow 1200%",
+              "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/lovdl7c/",
+              "created": 1727279172,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "loz3c05",
+                  "score": 3,
+                  "body": "Nvda’s forward P/E was like 22x in 2022",
+                  "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/loz3c05/",
+                  "created": 1727326267,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lp05oys",
+                      "score": 1,
+                      "body": "Only if you knew their eps was gonna grow 12x lmao\n\nAt the time their share price was 200 with a TTM eps was like 1 dollar and their revenue expectations were +20%",
+                      "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/lp05oys/",
+                      "created": 1727350479,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lp151f3",
+                          "score": 2,
+                          "body": "Nope. The share price got down to about $110 in October ‘22 and the forward P/E was in the low 20s based on consensus estimates.",
+                          "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/lp151f3/",
+                          "created": 1727363594,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "louvk5c",
+              "score": 3,
+              "body": "Well the p/e of nvidia 3 years from that point was quite low....",
+              "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/louvk5c/",
+              "created": 1727273396,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lov0z3n",
+                  "score": 4,
+                  "body": "Not compared to AMD.",
+                  "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/lov0z3n/",
+                  "created": 1727275184,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lovh5at",
+              "score": 2,
+              "body": "You need to check other metrics like P/S there might be something temporary impacting earnings.. but sales keep increasing.",
+              "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/lovh5at/",
+              "created": 1727280282,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "loyl6jk",
+              "score": 1,
+              "body": "If you believe in the space, buy SOXL and own them all.",
+              "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/loyl6jk/",
+              "created": 1727317906,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lp9d5ku",
+              "score": 1,
+              "body": "Was the exact same for me. Can't really complain about  AMD's performance in that time though.",
+              "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/lp9d5ku/",
+              "created": 1727477808,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lownjv9",
+      "score": 19,
+      "body": "AMD will be fine. I believe their stock has a path to doubling within 5 years (I am being conservative as I believe it’ll likely happen within 3 years). Their data centre business is brand new and went from $0 to $5b annual in one year. The TAM will increase 4x by 2027. Even if AMD maintains its 4% or so market share it’ll see its data centre revenues increase to $20b annually (which is about what the entire company makes annually). Data centre margins are quite high (53.5% or so). \n\nRealistically, AMD’s market share will grow so we’re likely looking at least $30b in annual GPU revenue in the coming years. \n\nI still believe Nvidia will be the better performer since their sales and margins are much higher, however AMD will probably undercut their margins by competing on price. I would own both and Broadcom since the hyperscalers will continue to spend big on this.",
+      "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/lownjv9/",
+      "created": 1727293439,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lowq7wo",
+          "score": 0,
+          "body": "Only double? Damn, I was hoping for at least 5x.",
+          "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/lowq7wo/",
+          "created": 1727294249,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lowue52",
+          "score": -7,
+          "body": "No magic can double the market cap. \n\nAMD is struggling to improve supply and not won any new big cloud providers as partners since the launch of MI300. No one is building models using AMD cards so training segment can be ignored for now and for future, yet in inference AMD lacks ability to meet the cloud scale. MSFT and META are yet to publicly confirm any of their models are developed using MI300. \n\nSmall AI datacenters are not gonna help for any customer to scale inference if they have to choose either Azure or OCP as the only cloud platform, whereas Nvidia is ubiquitously available everywhere. Even at high price it provides customers a right scale and options to choose their cloud provider or self host. AMD gives no choice with limited supply and limited software capabilities. So doubling of market cap is never gonna happen until AMD improves their availability.\n\n  \nEven at lower price, MSFT, AWS, META, GOOG, OCP, X, and every other big player is begging for Blackwell GPU. Meanwhile AMD is stuck with poor supply.",
+          "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/lowue52/",
+          "created": 1727295535,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lp22x37",
+              "score": 2,
+              "body": "Are you asking a question here or just spewing your talking points?  They are selling ~$5bil of MI300X this year for AI.  It's used by Microsoft's Azure AI, Meta and now Oracle has some MI300x clusters.  There, your question is solved, they are an AI chip provider.",
+              "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/lp22x37/",
+              "created": 1727374077,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lp23m4j",
+                  "score": 0,
+                  "body": "Do you struggle to read?\n\n>Where is AMD falling behind to improve their market share?",
+                  "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/lp23m4j/",
+                  "created": 1727374296,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lp24uju",
+                      "score": 2,
+                      "body": "\"Can AMD be considered as a AI chips provider?\"- Your title.  Do you understand the meaning of your words?\n\nDo you mean \"why is AMD failing* to improve their market share\"?  Correct your grammatical errors please, nobody understands what you're trying to say.",
+                      "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/lp24uju/",
+                      "created": 1727374682,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lp28ycs",
+                          "score": -2,
+                          "body": "Just came here for few likes and squabble with \"you said\", \"he said\"\n\nStill in kindergarten dummy? Get lost if you do not have any points which show AMD is capable to grow. I am open to delete my post and accept I am wrong if there is any data which shows AMD has potential to grow and be a significant player.\n\nMI300 does not have wide adoption due to paltry supply.\n\n  \nI'm not continuing this conversation.",
+                          "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/lp28ycs/",
+                          "created": 1727375968,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lp3abd9",
+                              "score": 2,
+                              "body": "You aren't making sense again, it's ok if you don't speak English just don't expect us to understand your inane babble.  \"Few likes and squabble...\"??\n\nThey just grew from 0 to $5billion, I just stated they are being adopted by some of the largest cloud companies.  I'm sorry you refuse to listen, you clearly had your mind made up already and aren't interested in an actual discussion even if you were capable of it.",
+                              "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/lp3abd9/",
+                              "created": 1727387940,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lox85o6",
+      "score": 11,
+      "body": "Regardless of whether you consider AMD as an AI chip provider or not, the fact of the matter is, AMD is an ai chip provider.",
+      "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/lox85o6/",
+      "created": 1727299863,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "loxchlh",
+          "score": -4,
+          "body": "If doesn't supply then it doesn't provide. You can call it a hopium provider.",
+          "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/loxchlh/",
+          "created": 1727301325,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lovljbr",
+      "score": 25,
+      "body": "Big companies are not dumb. They don’t want to have nvidia monopolise the industry, so they will buy tons from amd. And it’s not like amds offering are subpar, they are on the same level as nvidia. Nvidia will not really grow much, now’s the time for AMD.",
+      "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/lovljbr/",
+      "created": 1727281659,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lp4n2xi",
+      "score": 2,
+      "body": "Funny you ask ! News from today\nhttps://blogs.oracle.com/cloud-infrastructure/post/announcing-ga-oci-compute-amd-mi300x-gpus",
+      "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/lp4n2xi/",
+      "created": 1727406166,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lowdvyl",
+      "score": 2,
+      "body": "Once AMD Threadripper came out, I considered AMD a leader in multi-core CPUs. Maybe you would like them if you watched that segment of their activities.\n\nBelow are some professions where multi-core CPUs have power. And naturally, people who multi-task on their computers want all the \"brains\" they can get working at once. \n\nIt's not uncommon to see people talk about running movies on their systems while doing other tasks online, especially people with desktop computers, large monitors and  multiple monitors are easy to plug in and cheap now. \n\nQuoting from an article,\n\nsource: https://www.techfinitive.com/explainers/what-is-amd-threadripper/\n\n\"AMD breaks its target audience into four key umbrellas: architecture, engineering and construction; design and manufacturing; media and entertainment; and software and sciences.\n\nTo translate that into particular occupations, we would say…\n\n3D modellers\n\nVideo FX pros\n\nVideo post production\n\nVR/AR developers\n\nEngineers (including those working in simulation)\n\nArchitects\n\nRenderers\n\nData scientists\n\nDemanding software developers\n\nGamers who stream...\"",
+      "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/lowdvyl/",
+      "created": 1727290434,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lowh7lo",
+          "score": -7,
+          "body": "All good things said, AMD still doesn't manage to improve their Q/Q revenue and earnings. They may have the fastest ramp with MI300 that has 1B revenue but MI250 used in building world's fastest supercomputer did not have any adoption and MI300 came with more memory than H100 yet did not impress cloud providers like AWS and GCP, MSFT has a small footprint and META did not use or maybe could not use it for training new models. \n\nAMD has missed an opportunity with AI/ML.",
+          "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/lowh7lo/",
+          "created": 1727291481,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "loyxaim",
+              "score": 4,
+              "body": "You pretend to be asking a question in your post but then disregard any input you're getting with your preconceived notion. That attitude will never make you grow.\n\nYes, amd is going all in on AI, and hardware performance wise, MI series is quite in line with Nvidia offering, but they are still behind on software eco system.\n\nLike others have said, AI TAM is going to be huge and nobody wants to be vendorlocked by Nvidia so yes AMD will profit from this. They are currently 1 of the 2 suppliers in the world for possibly the biggest technological revolution mankind has known. It's pretty dumb to disregard them.",
+              "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/loyxaim/",
+              "created": 1727323206,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lozcvd5",
+                  "score": -2,
+                  "body": "[removed]",
+                  "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/lozcvd5/",
+                  "created": 1727331843,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lozl5wg",
+                      "score": 3,
+                      "body": "Dude. Are you ok?",
+                      "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/lozl5wg/",
+                      "created": 1727337455,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lp3jsp5",
+      "score": 1,
+      "body": "AMD up 5 today while NVDA flat",
+      "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/lp3jsp5/",
+      "created": 1727391291,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "loy1lxu",
+      "score": 1,
+      "body": "I think it's light years of Nvidia, but it is the nearest.",
+      "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/loy1lxu/",
+      "created": 1727310440,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "loufnv3",
+      "score": -10,
+      "body": "Easier to ask where AMD is leading. But what I’ve seen? None",
+      "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/loufnv3/",
+      "created": 1727267514,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lowb7do",
+          "score": 2,
+          "body": "I do not know why you're being down voted. I absolutely love their cpus and recommend them to everyone but it's not a leader in any space that I know of.",
+          "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/lowb7do/",
+          "created": 1727289596,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "louclsu",
+      "score": -15,
+      "body": "Lamini and other few startups shared stage with Lisa Su for MI300 launch earlier this year and then everything fizzled. No model trained with MI300 has made any mark.",
+      "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/louclsu/",
+      "created": 1727266221,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "loufz7x",
+      "score": -16,
+      "body": "I don't know, and at this point I am rather perplexed by what AMD's strategy is. They totally missed the boat with AI and what I have heard from Lisa I gather they are either unable to get to it, or not even trying. \n\nI like Lisa, I really do, I think she is extremely smart and talented, but they are always trailing behind it seems.",
+      "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/loufz7x/",
+      "created": 1727267644,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "louq2wr",
+          "score": 13,
+          "body": "Its too early to say they missed the boat. \n\nThat is like saying a car company that started in 1920 missed the boat because Cars had been out for a few years already.",
+          "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/louq2wr/",
+          "created": 1727271493,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "louicds",
+          "score": 26,
+          "body": "What universe do you live in? AI is brand new, and nothing to do with it has even demonstrated the ability to turn a profit yet given the cost of running it. That boat hasn't even raised its sails. Its current success is basically from a crowd of people standing on the dock saying: \"Wow holy shit, that looks like a hell of a boat, I bet it could get me from here to Iceland in 15 seconds flat\".\n\nThat crowd could still be dead wrong in the long term, or even just off about the speed of this takeoff. To me, pointing out that a company *didn't* flip the table on its whole existing operation to incorporate the newest shiniest thing on day 1 is a positive.",
+          "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/louicds/",
+          "created": 1727268588,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "loxh5yq",
+              "score": 1,
+              "body": "https://www.cnbc.com/amp/2024/07/31/meta-advertising-growth-proof-that-hefty-ai-spending-is-paying-off.html\n\nMeta has demonstrated that their AI has boosted ad engagement and led to significantly higher ad spending.",
+              "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/loxh5yq/",
+              "created": 1727302970,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "loxh7cy",
+                  "score": 1,
+                  "body": "It looks like you shared an AMP link. These should load faster, but AMP is controversial because of [concerns over privacy and the Open Web](https://www.reddit.com/r/AmputatorBot/comments/ehrq3z/why_did_i_build_amputatorbot).\n\nMaybe check out **the canonical page** instead: **[https://www.cnbc.com/2024/07/31/meta-advertising-growth-proof-that-hefty-ai-spending-is-paying-off.html](https://www.cnbc.com/2024/07/31/meta-advertising-growth-proof-that-hefty-ai-spending-is-paying-off.html)**\n\n*****\n\n ^(I'm a bot | )[^(Why & About)](https://www.reddit.com/r/AmputatorBot/comments/ehrq3z/why_did_i_build_amputatorbot)^( | )[^(Summon: u/AmputatorBot)](https://www.reddit.com/r/AmputatorBot/comments/cchly3/you_can_now_summon_amputatorbot/)",
+                  "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/loxh7cy/",
+                  "created": 1727302983,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "louk21b",
+              "score": -1,
+              "body": "That's the point, it doesn't matter, AMD is always behind. While the others will set sail and be halfway there, AMD will still be building something that's already obsolete. \n\nThe only reason they gained on Intel was because Intel was cutting their own sails.",
+              "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/louk21b/",
+              "created": 1727269246,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "loup1ec",
+                  "score": 3,
+                  "body": "AMD needs to find its niche in Data Centre outside of specialized AI hardware. They are acquiring ZT and i am exited to see what comes of that, been long AMD and NVDA both, its not just Hardware NVDA has a massive first mover advantage due to their Cuda Stack where I don’t even know if AMD has any comparable product.",
+                  "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/loup1ec/",
+                  "created": 1727271113,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "loumj79",
+      "score": -9,
+      "body": "I don't. I just watched the Lisa sue interview on Cramer. She not once said they are making ai chips but three times said they provide infrastructure for everything else.",
+      "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/loumj79/",
+      "created": 1727270185,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "louprwp",
+          "score": 8,
+          "body": "MI300 and MI line in general is built for AI. \n\nhttps://www.amd.com/en/products/accelerators/instinct/mi300.html",
+          "permalink": "/r/stocks/comments/1fp2ssw/can_amd_be_considered_as_a_ai_chips_provider/louprwp/",
+          "created": 1727271383,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

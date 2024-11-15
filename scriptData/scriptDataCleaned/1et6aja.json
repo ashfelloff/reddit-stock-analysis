@@ -1,0 +1,427 @@
+{
+  "title": "What is SGOV and why does it “reset” every month",
+  "score": 39,
+  "selftext": "Why does SGOV reset at the beginning of each month? \n\nDo people buy at the start of each month the and sell at the end before it drops back down?\n\nI have seen post on other subreddits and other apps where people have hundreds of thousands of dollars in it. Generally are they buying and selling every month or just letting it ride?\n\nIs it smart to buy and sell it every month?",
+  "link_flair_text": "Industry Question",
+  "id": "1et6aja",
+  "num_comments": 45,
+  "created_utc": 1723755450,
+  "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/",
+  "comments": [
+    {
+      "id": "liaxp22",
+      "score": 96,
+      "body": "I'm no pro, but I think sgov is an etf that follows short-term treasury bills and that resetting is basically it paying out dividends to everyone who holds it.\n\n\nThere's no advantage to trying to time sgov. It's a buy and hold kind of thing. A lot of people use it sort of like a high-yield savings account.",
+      "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/liaxp22/",
+      "created": 1723756097,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "libup8g",
+          "score": 25,
+          "body": "This. Dividends are paid out beginning of month (currently ~0.44 per share) and that value is deducted from the price, then accumulates until the next month.",
+          "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/libup8g/",
+          "created": 1723767638,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lib4hf3",
+          "score": 5,
+          "body": "If you are using as a HYSA, how quickly can you get cash?  T+1?",
+          "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/lib4hf3/",
+          "created": 1723758315,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lib5dak",
+              "score": 6,
+              "body": "I hold mine in a margin account so settlement is pretty irrelevant",
+              "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/lib5dak/",
+              "created": 1723758608,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lidb8j6",
+                  "score": 1,
+                  "body": "I haven't experimented with margin trading yet because I don't want to pay interest on a loan from the brokerage. Is there a way to just use a margin account to increase liquidity without actually paying any interest? I feel like I understand the basics that anything taken out on margin must be paid back before the end of the day or interest begins. Are there any specific strategies you can share for using a margin account to increase liquidity without paying interest?",
+                  "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/lidb8j6/",
+                  "created": 1723791767,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "liedodr",
+                      "score": 1,
+                      "body": "No sorry, i don’t use it either (except as instant settling)",
+                      "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/liedodr/",
+                      "created": 1723813042,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lik3s1r",
+                      "score": 1,
+                      "body": "As long as your cash on hand is >0 at the end of the trading day you don't pay interest. Catch is you must keep your account value >25k, and must apply to make it a margin account.",
+                      "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/lik3s1r/",
+                      "created": 1723899316,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lib7kng",
+              "score": 4,
+              "body": "You can use it immediately to buy other investments.",
+              "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/lib7kng/",
+              "created": 1723759353,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lib8wyn",
+              "score": 6,
+              "body": "T+1 is now the standard.",
+              "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/lib8wyn/",
+              "created": 1723759818,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "licfhau",
+          "score": 4,
+          "body": "There is a theoretical advantage to timing SGOV if the tax rate you pay on capital gains is different than what you pay on SGOV dividends.",
+          "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/licfhau/",
+          "created": 1723775654,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lidatzu",
+              "score": 1,
+              "body": "So dividends and short-term capital gains are taxed at the same rate, right? So would the way to take advantage of the tax benefit you're referring to be to hold for 12 months, getting paid 12 dividends, and then after it becomes long-term capital gains, sell right before the following dividend gets distributed and then repurchase immediately afterwards once every year? Seems kind of silly unless I'm misunderstanding something.",
+              "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/lidatzu/",
+              "created": 1723791510,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "liebfyj",
+                  "score": 2,
+                  "body": "T-bills are free from state tax on the dividends, if you live in a state where you’d pay that as well",
+                  "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/liebfyj/",
+                  "created": 1723812166,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "likphhw",
+                  "score": 2,
+                  "body": "Dividends and short-term cap gains are not taxed at the same rate in all jurisdictions (eg in Canada you pay twice the tax on dividends as you do on capital gains). But yeah, I was just mentioning the potential tax differences — if you do qualify for LTCG and want to liquidate some SGOV, doing that just before a dividend ex date could save some tax.\n\nBut if you really want a tax-efficient SGOV-like thing, look at BOXX.",
+                  "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/likphhw/",
+                  "created": 1723907733,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "liccq7z",
+          "score": 2,
+          "body": "It’s more so a place to park cash in margin accounts. Example: someone who sells cash secured puts on long term bases can put most the cash in SGOV.",
+          "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/liccq7z/",
+          "created": 1723774545,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "liput1a",
+          "score": 1,
+          "body": "This + there are other tax benefits vs HYSA or money market funds.",
+          "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/liput1a/",
+          "created": 1723989947,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "liaznqh",
+      "score": 30,
+      "body": "You get dividends each month (the amount it drops) and its about 5%. You put it there and let it sit until you need it. \n\nIf you have some cash and waiting for a dip, you can park it in sgov until a buying opportunity comes up. Then sell sgov and buy whatever you want. \n\nAlternatives are BIL and TBIL as well as many others",
+      "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/liaznqh/",
+      "created": 1723756736,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "libil02",
+          "score": 2,
+          "body": "How quick does cash settle? Thinking about what you say. Parking it at SGOV just in case of a sudden dip. Oh can you buy stocks with unsettled cash?",
+          "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/libil02/",
+          "created": 1723763219,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "libl09s",
+              "score": 8,
+              "body": "You can buy stocks with unsettled cash if you have a margin account, and if purchasing the stock won't put your account into margin call",
+              "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/libl09s/",
+              "created": 1723764089,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lic214y",
+                  "score": 1,
+                  "body": "Hey I haven't experimented with a margin account yet. If you use a margin account like you described to gain early access to unsettled cash, won't your brokerage charge you interest on cash taken out on margin that isn't paid back by the end of day?",
+                  "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/lic214y/",
+                  "created": 1723770332,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lic73r5",
+                      "score": 2,
+                      "body": "Yes - you can calculate the exact amount if you’d like. If you have the margin rate (usually expressed as an APR) you can calculate the interest on the unsettled amount over a year, then divide that by the number of days in a year to see how much margin interest you’ll have to pay.\n\nYou are technically loaning that amount from your brokerage over a 1 day period.\n\nUnless you are aggressively moving substantial amounts of money over multiple days, it’s usually pretty negligible for a typical T+1 situation where you are rebalancing and moving money from SGOV to something else, but it depends on your brokerage’s margin rate",
+                      "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/lic73r5/",
+                      "created": 1723772316,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "licf5vo",
+                          "score": 4,
+                          "body": "This is not true. You start paying margin interest on the settlement date, not the trade date. So if you sell $1k worth of SGOV and then immediately buy $1k worth of some other stock, both trades will settle on the same day and you will not pay any margin interest.",
+                          "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/licf5vo/",
+                          "created": 1723775523,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lic4fkn",
+          "score": 1,
+          "body": "Are there any risk of downside ?",
+          "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/lic4fkn/",
+          "created": 1723771257,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lic74k8",
+              "score": 7,
+              "body": "Right now t bonds have a high yield. With the fed cutting rates, t bills will drop too. Right now its about 5% for short term bonds. Prepandemic they were less than 1%. SGOV should drop its dividend rate within the next year so it wont last too much longer",
+              "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/lic74k8/",
+              "created": 1723772325,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lie1fod",
+                  "score": 5,
+                  "body": "SGOV doesn’t really have principal risk, anymore than short term T bills or HYSA funds do. Only US government default risk, whatever that is, and maybe a little risk related to malfeasance in the ETF construct. \n\nThe main risk is that its yield might fall, which is the same risk as any other short term instrument or demand deposit account.",
+                  "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/lie1fod/",
+                  "created": 1723807850,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "licgxyg",
+                  "score": 1,
+                  "body": "cool 😎",
+                  "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/licgxyg/",
+                  "created": 1723776257,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lic9xm3",
+      "score": 7,
+      "body": "I really like SGOV. Don’t hold any cash positions, instead use SGOV because it’s nearly zero risk and has a ~5% yield. \n\nWhy does it increase each month and then reset?… because think of the increase cycle like it’s gaining 1/30 of the dividend and then 2/30, and so on until on the 30 day of the month it passes that dividend to the shareholders and resets again at zero.",
+      "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/lic9xm3/",
+      "created": 1723773440,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "licmvr8",
+      "score": 6,
+      "body": "The price behavior is due to interest (dividend) accrual, followed by a monthly payout, to be repeated. \n\nIf you bought the ex-div low and sold the high 29 days later, you’d make the same as buying and holding and collecting the dividend.",
+      "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/licmvr8/",
+      "created": 1723778791,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lib7sbx",
+      "score": 8,
+      "body": "Its where ya want to park cash, 'no risk' 1-3 month T-bills.   \n\nIf you have a full service brokerage that you can tie a checking account to it so just do SGOV/BIL.   Settup bills/CC for mid month move money as you need it to checking its what i do.",
+      "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/lib7sbx/",
+      "created": 1723759428,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lj2i5re",
+          "score": 1,
+          "body": "What brokerage do you use?",
+          "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/lj2i5re/",
+          "created": 1724173506,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lib9fxo",
+      "score": 3,
+      "body": "it pays a dividend at the end of the month for the interest it gains.",
+      "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/lib9fxo/",
+      "created": 1723759999,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lic8tlx",
+      "score": 2,
+      "body": "Just like any dividend paying investment, the price drops on ex-div by the amount of the dividend paid.  From there, the price rises based on the NAV increasing which is due to the value increase of the holdings.  Then it repeats starting at ex-div.",
+      "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/lic8tlx/",
+      "created": 1723773001,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lihvbuu",
+      "score": 2,
+      "body": "BIL and GSY do the same. They’re based on short term T-Bills. They drop monthly when they go ex dividend.",
+      "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/lihvbuu/",
+      "created": 1723855630,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lib58fn",
+      "score": 3,
+      "body": "sgov buys treasury bills. treasury bill is a government bond. the shortest bill is 4 weeks, aka one month. that’s why sgov resets every month. the latest treasury bill has matured and paid out interest. now they buy another 4 weeks treasury bill.\n\nhttps://www.treasurydirect.gov/marketable-securities/treasury-bills/",
+      "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/lib58fn/",
+      "created": 1723758563,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lidf9h3",
+      "score": 1,
+      "body": "The price drops a little on the ex-dividend date, then gradually climbs until the next ex-dividend date about a month later.\n\nIf you buy just before the ex-dividend day, you can expect a dividend within days. This is why the price per share is a little higher than usual.  If you buy right after the ex-dividend day, you won't get a dividend until the next next ex-dividend day a month or so later. So the price per share is a  little lower.",
+      "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/lidf9h3/",
+      "created": 1723794402,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lihwb31",
+      "score": 1,
+      "body": "It’s the interest earned daily on the short term treasuries during the month, it pays out as a monthly  dividend.   \n\nIf you take the chart out to 1yr you will see it saw tooth.   \n\nThe simplified Example.   \n\nYou buy $100 worth…every day that hundred goes up by the interest earned 100.05, 100.10, 100.15…at the end of the month it’s 101.50….SGOV pays you 1.50 and your left with $100 in SGOV and $1.50 cash in pocket as the dividend is payed out from the value of the “stock”",
+      "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/lihwb31/",
+      "created": 1723856030,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "licbltq",
+      "score": 1,
+      "body": "It’s like owning T Bills but you don’t have to buy the bond outright - you can put in a few dollars to a million etc and you collect yield on a monthly basis. However, once the fed\nCut rates, the yield on this ETF will also drop, so this is why it’s better to buy into an actual bond bf the rate cut to lock in those yields",
+      "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/licbltq/",
+      "created": 1723774100,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "libfh7g",
+      "score": 0,
+      "body": "Why buy SGOV when you can buy a treasury only MMF that is easily to deal with?",
+      "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/libfh7g/",
+      "created": 1723762119,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "libs7ns",
+          "score": 3,
+          "body": "The most notable benefit imo is that SGOV is state income tax exempt and a MMF holding treasuries is not",
+          "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/libs7ns/",
+          "created": 1723766708,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "libv6bm",
+              "score": 2,
+              "body": "MMFs are state income tax exempt on their treasury holdings as well, Schwab/Fidelity/Vanguard/Blackrock etc all have money market funds with high 90% treasury holdings. They also have funds that operate on fed repurchase agreements and those are not state tax exempt, so you just have to be aware of what you’re buying. SGOV likewise was like 96% state tax exempt last year so you’re right there, and their fees are low, it’s a good product, just pointing out it’s not the money market vehicle itself.",
+              "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/libv6bm/",
+              "created": 1723767812,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "liculy0",
+                  "score": 1,
+                  "body": "MMF are mutual funds so they’d take a day to settle correct? So if you wanted to buy equities tomorrow on Friday, you couldn’t cash out the fund and get your money until next Monday. Whereas SGOV and other etfs you could sell in a minute and have your cash ready to buy that day",
+                  "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/liculy0/",
+                  "created": 1723782393,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lie2sdw",
+                      "score": 2,
+                      "body": "ETFs like SGOV settle in T+1, it’s not instant. The difference is you can’t get intraday pricing on a mutual fund, but the processing all happens on the same timeframe. You can sell out of a mutual fund before 4PM on Thursday and buy an equity same day, the mutual fund sale will settle before/concurrent with the equity purchase, no margin involved.",
+                      "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/lie2sdw/",
+                      "created": 1723808480,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "liipnyc",
+                          "score": 1,
+                          "body": "The times I’ve sold out of a mutual fund the cash isn’t available until next day. If they are distinct from mutual funds, I’ve learned something new as I didn’t see the cash in my account immediately. Think it was SWVXX",
+                          "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/liipnyc/",
+                          "created": 1723869032,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lidepw5",
+      "score": 0,
+      "body": "Does a foreign investor who buys SGOV have to pay tax? Understand foreigners who buy US treasuries don’t pay tax on interest paid out",
+      "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/lidepw5/",
+      "created": 1723794043,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "libq5rd",
+      "score": -9,
+      "body": "I think it's because people buy right before the ex dividend date and sell right after.",
+      "permalink": "/r/stocks/comments/1et6aja/what_is_sgov_and_why_does_it_reset_every_month/libq5rd/",
+      "created": 1723765949,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

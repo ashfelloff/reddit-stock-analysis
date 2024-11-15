@@ -1,0 +1,715 @@
+{
+  "title": "BlackRock launches stock ETF MAXJ with 100% downside hedge . Good investment? ",
+  "score": 255,
+  "selftext": "BlackRock launches stock ETF MAXJ with 100% downside hedge . Good investment?\n\n(Reuters) -BlackRock has launched a 'buffer' exchange-traded fund that seeks to offer a 100% downside hedge to risk-shy investors looking to tap the equity markets, the world's largest asset manager said on Monday.\n\nSo-called buffer or risk-managed ETFs help maximize returns from an asset for investors and simultaneously provide downside protection over a specific period.\n\nThe novel product will likely appeal to investors who are hoping to ride a rally in the stock markets as they continue to trade near record highs, but are concerned that a slowing economy and higher-for-longer interest rates can together hurt sentiment going forward.\n\nBuffer ETFs also typically see lower redemption requests during times of heavy market volatility.\n\n\nThe iShares Large Cap Max Buffer Jun ETF started trading on Monday under the ticker symbol 'MAXJ'.\n\nhttps://finance.yahoo.com/news/blackrock-launches-stock-etf-100-144057919.html",
+  "link_flair_text": "ETFs",
+  "id": "1dvfz3u",
+  "num_comments": 83,
+  "created_utc": 1720123504,
+  "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/",
+  "comments": [
+    {
+      "id": "lbo7aio",
+      "score": 483,
+      "body": "It's not a great trade although it sounds good.\n\nIf you buy $100 of this ETF and the market goes down, in 1 year you should still have $100 (actually $99.50 due to management fee).\n\nBut currently you can lock in 5% yield risk free if you invest in treasuries. So if you had invested that $100 in treasuries then you'd have $105 in 1 year from now. So you missed out on 5% gain.\n\nThe way they fund the downside hedge is by selling a call that caps your gain at ~10% (and also using the 5% interest that your money generated). So in 1 year you could make anywhere from 0-10%. Which isn't really that exciting given that you could guarantee a 5% return risk free investing in Treasuries.\n\nIf you're worried about the market going down then just buy Treasuries and lock in 5%. If you think it's going to go up then just buy stocks. If you're in the middle then just do a mix. This product would only make sense if you specifically think the market will be up, but only between 5-10%.\n\nI worked in the option market for 10yrs and I am simplifying things, but that is the gist of this product.",
+      "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbo7aio/",
+      "created": 1720137022,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lboo10u",
+          "score": 40,
+          "body": "Great explanation.  Thank you.",
+          "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lboo10u/",
+          "created": 1720144738,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lbp35yl",
+          "score": 8,
+          "body": "I gues the question is though: what is the return range if treasuries were, say, at 2%.  Still 0-10%?  That might not be as bad of a gamble, though not a product I would buy.\n\nI guess it could be for people who want to gamble a bit to get more money but really want to make sure that they don't lose their original amount.  For example, if you were saving 100K for a down payment you might gamble to get up to 110K, but at worst you'd still have your 100K.",
+          "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbp35yl/",
+          "created": 1720152091,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lbp4kij",
+              "score": 24,
+              "body": "If treasuries were at 2% then you wouldn't have as high of an upside. You'd have to sell a closer call option to finance the hedge, since there isn't as much interest to help pay for it. Basically the main reason they're able to offer this product and make it look semi attractive is because of rates not being zero. Having spent most of my career in a zero rates world even I was initially tempted before remembering that rates are 5%.\n\n> I guess it could be for people who want to gamble a bit to get more money but really want to make sure that they don't lose their original amount. \n\nYeah, for people who are really against any loss of their principal it can be an optically attractive strategy. But if the risk free rate is 5% and they earn 0%, they should consider that as a 5% loss. I know that's not how most people's brains work though.",
+              "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbp4kij/",
+              "created": 1720152840,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lboseza",
+          "score": 8,
+          "body": "Any good reads for people who are curious about the options markets for a super basic trader? I’m just more curious than anything and love little nuanced explanations like this.",
+          "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lboseza/",
+          "created": 1720146816,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lboviqj",
+              "score": 18,
+              "body": "The Natenberg book on options is often recommended as an intro book for people new to the industry, but it's probably a bit much for someone who is just curious.\n\nThe vast majority of retail investors should stay away from options IMO. And honestly most institutional investors.",
+              "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lboviqj/",
+              "created": 1720148300,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lbp7w48",
+                  "score": 1,
+                  "body": "Why do you think majority of investors should stay away from options?",
+                  "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbp7w48/",
+                  "created": 1720154684,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lbq6m3n",
+                      "score": 8,
+                      "body": "They’re crazy risky. People often treat them like a get rich quick scheme when their original purpose was for hedging. They can be an appropriate part of some portfolios but for the majority stocks will suffice.",
+                      "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbq6m3n/",
+                      "created": 1720177397,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lbrh9lk",
+                      "score": 1,
+                      "body": "just because you can stick your hand in a meat grinder you have to 🤷‍♂️",
+                      "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbrh9lk/",
+                      "created": 1720196525,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lbpfnl6",
+          "score": 5,
+          "body": "[deleted]",
+          "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbpfnl6/",
+          "created": 1720159221,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lbr5x09",
+              "score": 2,
+              "body": "Yes. There is also BOXX which offers treasury like gains while supposedly offering long term cap gains tax rate. Though it's unclear whether that will actually pan out.",
+              "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbr5x09/",
+              "created": 1720192623,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lbp5r7o",
+          "score": 3,
+          "body": "Thanks for explaining 👍🏻",
+          "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbp5r7o/",
+          "created": 1720153495,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lbpffuq",
+              "score": 7,
+              "body": "[deleted]",
+              "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbpffuq/",
+              "created": 1720159089,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lbqbv39",
+                  "score": 1,
+                  "body": "thanks for sharing  👍🏻",
+                  "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbqbv39/",
+                  "created": 1720180317,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lbqs6g0",
+          "score": 2,
+          "body": "This sounds like Indexed Universal Life Insurance (IUL)",
+          "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbqs6g0/",
+          "created": 1720187591,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lbqseik",
+          "score": 2,
+          "body": "Where do you buy treasuries?",
+          "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbqseik/",
+          "created": 1720187679,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lbr30pg",
+              "score": 2,
+              "body": "You can buy them directly from the government at TreasuryDirect.gov, and your broker likely offers ways of buying them too. Or you can buy treasury ETFs like SHY and SHV. ",
+              "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbr30pg/",
+              "created": 1720191592,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lbwl2d9",
+          "score": 2,
+          "body": "Do you think interest or the sales of calls contributes more to funding the hedge?  Just curious, as I'm wondering how this will hold up if interest rates come down.",
+          "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbwl2d9/",
+          "created": 1720279726,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lc018zs",
+              "score": 5,
+              "body": "Without getting too deep into option theory, interest rates and the calls you sell go hand in hand. The lower rates are, the lower the upside cap.\n\nIf 1 year rates dropped back down to 2%, the upside cap would drop a lot too - where exactly depends on a lot of things, but I'd guess down to around 3-4% upside. If 1 year rates dropped to 0 like in the post GFC era or during the pandemic, it would no longer be a viable product. They couldn't sell any upside call that would finance the hedge, at least not if you wanted 100% protection.\n\nI read the prospectus and they say that if rates drop enough that the cap would go below 2% upside, then they would stop offering 100% protection. In other words, rather than offering you a useless product with 100% protection and 0% upside, they would give you something like 90% protection and 10% upside.",
+              "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lc018zs/",
+              "created": 1720329017,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lc1ldve",
+                  "score": 1,
+                  "body": "Very helpful, thank you!",
+                  "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lc1ldve/",
+                  "created": 1720362537,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lbwl699",
+              "score": 1,
+              "body": "Ah looks like u/karakumy answered my question later in this thread!",
+              "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbwl699/",
+              "created": 1720279765,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lbqgxrj",
+          "score": 1,
+          "body": "given returns are typically (over and extended period) averaging 7% wouldn't this etf theoretically beat that 7%?",
+          "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbqgxrj/",
+          "created": 1720182831,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lbr3i5n",
+              "score": 2,
+              "body": "They average 7% over many years but the performance in each year can vary quite a bit. The other thing to keep in mind is the upside cap is going to reset every year. They have to keep buying new hedges and selling new upside calls when the old ones expire. If the market tanks and rates go to zero, then they could no longer offer 10% upside while guaranteeing your principal. In that case I honestly think they'd just discontinue the product and give you your money back. ",
+              "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbr3i5n/",
+              "created": 1720191766,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lbqr3y5",
+          "score": 1,
+          "body": "Accurate and high level concise explanation. Thank you.",
+          "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbqr3y5/",
+          "created": 1720187178,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lbt16po",
+          "score": 1,
+          "body": "Whoa (in best Keanu impression)",
+          "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbt16po/",
+          "created": 1720215569,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lh0jis7",
+          "score": 1,
+          "body": "A little late to the party, but one more use here is that it is also great for people who are older and want none of the downsides for their savings as they draw on them. Anyone who is 65 and drawing on their savings till, say, 85, should split between treasuries and this security. \n\nLike if you care gonna spend 2-mil for 20 years from a 401K, half can earn 5% in treasuries the next 1/2 can earn you S&P return. Technically, you would need to be very unlucky if that last half did not make anything at all in any of those years.",
+          "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lh0jis7/",
+          "created": 1723069442,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lbos16l",
+          "score": 1,
+          "body": "Thanks man. This helps!",
+          "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbos16l/",
+          "created": 1720146632,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lbpqkh4",
+          "score": 1,
+          "body": "What treasuries can you buy as in what ticker?",
+          "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbpqkh4/",
+          "created": 1720166405,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lbr2tzr",
+              "score": 2,
+              "body": "You could buy SHV, SHY, or other ETFs that hold treasuries maturing in ~1 year. Or you can buy them directly from the government at TreasuryDirect.gov",
+              "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbr2tzr/",
+              "created": 1720191526,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lbnnngb",
+      "score": 178,
+      "body": "Nobody in the comments knows what a downside hedged etf is",
+      "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbnnngb/",
+      "created": 1720128977,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lbnz7jq",
+          "score": 44,
+          "body": "Wait yeah what is one",
+          "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbnz7jq/",
+          "created": 1720133610,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lbomfyd",
+              "score": 8,
+              "body": "It’s like negative times negative.. so positive?! So.. it will most confidently 100% sure maybe go to the moon.\n\nEyes closed, head first. Can’t lose.",
+              "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbomfyd/",
+              "created": 1720143984,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lboqhkx",
+                  "score": 7,
+                  "body": "All I saw was “moon” and went all-in. Thanks for the financial advice!",
+                  "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lboqhkx/",
+                  "created": 1720145903,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lbofuiw",
+          "score": 9,
+          "body": "Well, I know what hedged means, and I have an idea what downside means. I just don't get what the hell it has to do with the European Task Force.",
+          "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbofuiw/",
+          "created": 1720140851,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lbnxtvl",
+          "score": -10,
+          "body": "And you do ?",
+          "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbnxtvl/",
+          "created": 1720133041,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lbnyq0p",
+              "score": 49,
+              "body": "Well, they are in the comments aren't they?",
+              "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbnyq0p/",
+              "created": 1720133408,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lbodsle",
+                  "score": 4,
+                  "body": "I almost spit out my drink at this one. Well played.",
+                  "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbodsle/",
+                  "created": 1720139917,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lbr3566",
+          "score": 0,
+          "body": "It's boomer candy.",
+          "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbr3566/",
+          "created": 1720191637,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lbngfvs",
+      "score": 79,
+      "body": "Last 10 years SP500 annual returns were:\n‘23 - 26.29 \n‘22 - (18.11)\n‘21 - 28.71 \n‘20 - 18.4\n‘19 - 31.49\n‘18 - (4.38)\n‘17 - 21.83\n‘16 - 11.96\n‘15 - 1.38\n‘14 - 13.69\n‘13 - 32.39\n\nIf you strip out all the negative years and cap the earnings @ 10.6% your total return over ten years with MAXJ = 57.98%\n\nSPY over that same period was 298%\n\nApproaching or in retirement and can’t handle any drawdowns and then maybe MAXJ makes sense?  Maybe?",
+      "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbngfvs/",
+      "created": 1720126279,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lbnpoik",
+          "score": 14,
+          "body": "Is it 100% zero risk of going negative?",
+          "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbnpoik/",
+          "created": 1720129759,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lbnshkk",
+              "score": 25,
+              "body": "Nothing is 100%.  Bear Stearns broke the dollar on its money market funds and then went out of business….  an option trade could go bad because of a counter party risk and the whole thing blows up - theoretically…",
+              "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbnshkk/",
+              "created": 1720130865,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lbnx6fl",
+                  "score": 16,
+                  "body": "It’s practically about 99.9% chance of never going negative and 99.99% chance of never going more than -1% negative",
+                  "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbnx6fl/",
+                  "created": 1720132776,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lbnzf0g",
+                  "score": 5,
+                  "body": "Counter party risk is pretty much as likely as the risks that us treasuries have. The institutions that hold this risk are not only tbtf but also all in a pool so if one defaults the others are on the hook anyways which means for counterparty risk to happen you would need the likes of jpmorgan, merrill lynch, morgan stanley etc all to fail.",
+                  "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbnzf0g/",
+                  "created": 1720133697,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lbo83vv",
+                      "score": 10,
+                      "body": "Black Swan events happen.  No one expected ‘08 / ‘09 or when 1000 year floods occur - but when they happen they are catastrophic.   u/confidenad1871 asked if they are 100% - they are not and no one can put a % probability to it as history has proven.  \n\nEven BX is fallible - highly unlikely but possible as AIG, Lehman, Merrill Lynch, Wachovia, Bear Stearns showed - even Goldman Sachs was saved by BRK.",
+                      "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbo83vv/",
+                      "created": 1720137376,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "lbt01o5",
+                  "score": 1,
+                  "body": "the stonk that shall not be named",
+                  "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbt01o5/",
+                  "created": 1720215152,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lbnyjlb",
+      "score": 22,
+      "body": "So it's a cheaper indexed annuity without the insurance protection?",
+      "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbnyjlb/",
+      "created": 1720133335,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lbo6cuv",
+          "score": 10,
+          "body": "And one hundred percent liquidity.",
+          "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbo6cuv/",
+          "created": 1720136617,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lboekme",
+      "score": 9,
+      "body": "It’s a product useful to someone. \n\nTbh I think the big benefit is a (sort of) fixed-income like return profile but capital gains tax treatment.",
+      "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lboekme/",
+      "created": 1720140266,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lbnyq0b",
+      "score": 16,
+      "body": "Should outperform money markets in a 10 year cycle. Wouldnt use it as an alternate to equities.",
+      "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbnyq0b/",
+      "created": 1720133408,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lbokn12",
+      "score": 5,
+      "body": "wonder how liquid the fund will be.....might be a decent way to park a bit of your E fund to get better returns on it.",
+      "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbokn12/",
+      "created": 1720143119,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lbnd0r0",
+      "score": 22,
+      "body": "Options trading fund? So it’s like wallstreetbets made an ETF?",
+      "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbnd0r0/",
+      "created": 1720125054,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lbnyxkv",
+          "score": 29,
+          "body": "No, in case you’re not joking, hedging is the actual intended purpose of options. Not gambling.",
+          "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbnyxkv/",
+          "created": 1720133495,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lbnfleo",
+          "score": 16,
+          "body": "so gambling on someone else gambling?",
+          "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbnfleo/",
+          "created": 1720125974,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lbo20y5",
+      "score": 3,
+      "body": "Just another reincarnation of PPUT? This time at the money?",
+      "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbo20y5/",
+      "created": 1720134785,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lbogk5l",
+      "score": 3,
+      "body": "What is it made up off? Index funds with otm covered calls and schmuck puts?",
+      "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbogk5l/",
+      "created": 1720141178,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lbomhb2",
+      "score": 3,
+      "body": "idk, seems like you're just better off with treasury",
+      "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbomhb2/",
+      "created": 1720144002,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lbqt46k",
+      "score": 3,
+      "body": "I sell a lot of these to clients. Innovator ETFs offers it as well. I usually talk to folks who are risk averse, generally have most or all their money in CDs and treasuries, but want a bit more upside. Worse case is that they are flat when they could’ve gotten 5%+.",
+      "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbqt46k/",
+      "created": 1720187950,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lbngkdc",
+      "score": 15,
+      "body": "Sounds dumb as shit tbh.",
+      "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbngkdc/",
+      "created": 1720126323,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lbofjza",
+          "score": 5,
+          "body": "Kind of a blanket statement.  These etfs are not targeted at the typical investor, but at people who place a high value on capital preservation - i.e retirees. The bet they are making is that the market will continue its rapid rise, and they think there is a good chance they can make more than a treasury bill pays. Unlike many younger investors, retirees have lived through several dramatic market downturns.  Many took a real haircut when the NASDAQ lost over 80% of its value when the dot.com bubble burst. They know it could happen again, and simply can't risk even a 20% correction (which they've seen multiple times).",
+          "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbofjza/",
+          "created": 1720140715,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lbpg44k",
+              "score": 0,
+              "body": "That's an allocation problem. It's why the barbell method wins.",
+              "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbpg44k/",
+              "created": 1720159503,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lbnn0ma",
+          "score": 3,
+          "body": "Lol",
+          "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbnn0ma/",
+          "created": 1720128732,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lbwkn4q",
+      "score": 2,
+      "body": "Anyone know what happens at the end of the year period the hedge covers?  It's not a CEF.  So they just do a full distribution after a year and the ETF is then no longer traded?  I bought a marginal amount just to check it out as my FA has been promoting a similar but bespoke options strategy.   I don't want to give him 1% for something I can include in my portfolio much cheaper and with more liquidity.  \n\nInteresting though I bought on July 3, so it will be 2 days less than a year when the hedge ends.  Based on when they distribute will, I suppose, govern whether or not I get hit with ST or LT tax treatment.  Or perhaps I can control when to \"cash it in\".   Guess it's time to read the Prospectus!",
+      "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbwkn4q/",
+      "created": 1720279570,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lboxw0h",
+      "score": 2,
+      "body": "What an odd product.\n\nHysa does this way better though.",
+      "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lboxw0h/",
+      "created": 1720149438,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lbpuymu",
+      "score": 2,
+      "body": "MAXJ offers full downside protection, making it appealing for cautious investors.",
+      "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbpuymu/",
+      "created": 1720169491,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lbqz07e",
+      "score": 1,
+      "body": "So options?",
+      "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbqz07e/",
+      "created": 1720190158,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lbohsqh",
+      "score": 1,
+      "body": "Depends on your definition of good investment. Are you looking to hedge your risk or maximize profit?",
+      "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbohsqh/",
+      "created": 1720141763,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lbnm703",
+      "score": -9,
+      "body": "We need a “lose democracy etf”.  I’d like to invest in something that protects me incase democracy is overthrown in the US. Anything like that available?",
+      "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbnm703/",
+      "created": 1720128417,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lbno9tp",
+          "score": 14,
+          "body": "Sure , have you heard of gold",
+          "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbno9tp/",
+          "created": 1720129215,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lbnuno5",
+              "score": 2,
+              "body": "GDE is 90% spy and 90% gold.",
+              "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbnuno5/",
+              "created": 1720131746,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lbnpd95",
+          "score": 9,
+          "body": "Firearms",
+          "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbnpd95/",
+          "created": 1720129636,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lbnrh4l",
+          "score": 6,
+          "body": "if fascism, stonks go up for a bit and then WAYYYYY down forever",
+          "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbnrh4l/",
+          "created": 1720130460,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lbnv534",
+          "score": 3,
+          "body": "beanie babies are trading at multi decade lows right now",
+          "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbnv534/",
+          "created": 1720131944,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lbnx8bl",
+          "score": -3,
+          "body": "Short abortion companies?",
+          "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbnx8bl/",
+          "created": 1720132798,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lbrug95",
+      "score": 0,
+      "body": "If I could only sell puts on this...",
+      "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbrug95/",
+      "created": 1720201002,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lbol0xa",
+      "score": -5,
+      "body": "Any new etf is a scam",
+      "permalink": "/r/stocks/comments/1dvfz3u/blackrock_launches_stock_etf_maxj_with_100/lbol0xa/",
+      "created": 1720143305,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

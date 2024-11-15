@@ -1,0 +1,636 @@
+{
+  "title": "I made a website that tracks which stocks are discussed on Reddit and assigns a sentiment score.",
+  "score": 122,
+  "selftext": "[removed]",
+  "link_flair_text": null,
+  "id": "1euqvqx",
+  "num_comments": 74,
+  "created_utc": 1723925711,
+  "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/",
+  "comments": [
+    {
+      "id": "limxdfq",
+      "score": 1,
+      "body": "Sorry - the post you're trying to make mentions a stock that currently breaks rule #7.\n\nAny of the following criteria is considered breaking the rule:\n\n\n* Typically trades under $5 or previously traded under $5 within 6 months\n\n* Below $300 million market cap or previously traded under 300m before the pump within 6 months\n\n* Most OTC / PINK stocks\n\n* Usually has missed reporting/filings; no auditing or odd auditing issues\n\n* Low volume or wide bid/ask spread\n\n* Doesn't have any big name institutional holders\n\n * If the biggest institutional holder is a stock promoter then they don't count as an institutional holder\n\n* All SPACs\n\nYou can learn more about rule #7 here: https://www.reddit.com/r/stocks/wiki/pennystocks",
+      "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limxdfq/",
+      "created": 1723936354,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lim79pf",
+      "score": 37,
+      "body": "how is the sentiment determined?",
+      "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/lim79pf/",
+      "created": 1723926537,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "limqcql",
+          "score": 7,
+          "body": "Magic 8-ball",
+          "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limqcql/",
+          "created": 1723933584,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "limgc1i",
+          "score": 10,
+          "body": "At first I tried using non-AI approaches and I wasn't getting accurate sentiment scores. I was doing things similar to the VADER-Sentiment-Analysis and using spaCy library, but I found it much better to just use a pre-trained LLM.",
+          "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limgc1i/",
+          "created": 1723929773,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "limqpyd",
+              "score": 3,
+              "body": "> At first I tried using non-AI approaches and I wasn't getting accurate sentiment scores.\n\nHow did you measure their accuracy? Whether or not you agreed with the assessment?",
+              "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limqpyd/",
+              "created": 1723933727,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "limr8yj",
+                  "score": 2,
+                  "body": "There has been a lot of work in space under natural language processing. There was always a lot of work involved in fine tuning non-AI approaches, and at the time I just wanted to get something out that was good enough so I decided to go with LLM. And with the test that I have done so far, it does seem to provide somewhat good responses. It's definitely something I want to keep improving.",
+                  "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limr8yj/",
+                  "created": 1723933937,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "limsxfn",
+              "score": 2,
+              "body": "Looks good, but What’s the scale of sentiment?",
+              "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limsxfn/",
+              "created": 1723934607,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "limwbsc",
+              "score": 1,
+              "body": "What LLM are you using?",
+              "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limwbsc/",
+              "created": 1723935941,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "limh36m",
+      "score": 13,
+      "body": "It would be cool if you can find a correlation between the time when it's started to be discussed on Reddit vs the time when it's actually gaining something. There's a research showing there's no correlation between reddit and stock movements. My guess is, the information is still asymmetrical. People in congress still have more information than people on reddit",
+      "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limh36m/",
+      "created": 1723930056,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "limj7xd",
+          "score": 2,
+          "body": "Like first mentions, which subs and see the mention grow. But I guess the ranking might serve that purpose if it’s not limited to 7 days",
+          "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limj7xd/",
+          "created": 1723930842,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "limk9lt",
+              "score": 2,
+              "body": "Which subs, and then which users. Similar to tipranks ratings of individuals and firms.",
+              "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limk9lt/",
+              "created": 1723931232,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "limlhhp",
+          "score": 2,
+          "body": "Maybe out of the scope for this project for now, but something I could look into in the future.",
+          "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limlhhp/",
+          "created": 1723931694,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lim7im0",
+      "score": 25,
+      "body": "Can you tell me a little more how sentiment is determined?",
+      "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/lim7im0/",
+      "created": 1723926624,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "limlddf",
+          "score": 1,
+          "body": "See comment reply to /u/eli4s20",
+          "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limlddf/",
+          "created": 1723931651,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "limwq1q",
+              "score": 1,
+              "body": " Why just Reddit  when you could track them on a lot of different forms/ conversations sites  then have the sentiments determined if you are using AI",
+              "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limwq1q/",
+              "created": 1723936098,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "limh8bc",
+      "score": 10,
+      "body": "Can you provide links to at least some of the most popular posts so it's easier to judge the situation? I kinda doubt INTC has a strongly positive sentiment on Reddit, except for people ironically clowning the $800k grandson.",
+      "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limh8bc/",
+      "created": 1723930109,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "limiii8",
+          "score": 5,
+          "body": "Good point. It is something I need to do. Just wanted to get something out there for now.",
+          "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limiii8/",
+          "created": 1723930583,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "limjdzh",
+          "score": 3,
+          "body": "Yeah I def think the clowning is what bringing it up. I mean I’ve seen it so often in that context",
+          "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limjdzh/",
+          "created": 1723930904,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lim82hj",
+      "score": 8,
+      "body": "I like it a lot. It gives a quick glance at what is being talked about. I'll definitely check it out often. The simple interface is excellent. Simple is always best. Great job!",
+      "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/lim82hj/",
+      "created": 1723926817,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "limif9k",
+          "score": 5,
+          "body": "Thanks!",
+          "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limif9k/",
+          "created": 1723930549,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lim8fpu",
+      "score": 7,
+      "body": "I feel like I’ve heard this exact project, title and description 100 times already lol\n\nHow are you generating more accurate numbers or measuring scoring",
+      "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/lim8fpu/",
+      "created": 1723926946,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "limm5cn",
+          "score": 1,
+          "body": "There are many websites that pretty much do this exact same thing. Accuracy is the main goal of this project and I will continue to make that and the whole experience better if people are interested in this project.",
+          "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limm5cn/",
+          "created": 1723931950,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "limce9w",
+      "score": 3,
+      "body": "nice",
+      "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limce9w/",
+      "created": 1723928339,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "limbyq8",
+      "score": 3,
+      "body": "How’s that different from swaggy stocks ?",
+      "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limbyq8/",
+      "created": 1723928187,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "limhcqo",
+          "score": 3,
+          "body": "End of the day swaggy stocks and lots of other websites do the same thing, but I didn't like how the data was represented. Also, every site seems to have a different answer to this. Different numbers for mentions, upvotes, sentiment, etc. So I just want to try and provide a better experience overall.",
+          "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limhcqo/",
+          "created": 1723930154,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "limitwy",
+              "score": 2,
+              "body": "Thanks, maybe consider having a graph that represent them in a trendy way over time. to truly highly the trend aspect of it. Does the page keep historical data as well ?",
+              "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limitwy/",
+              "created": 1723930700,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "limjglb",
+                  "score": 3,
+                  "body": "Great idea! I'm thinking about ways to incorporate a graph. I don't want to put too much information, but I do think having a graph would help users get a quick glance at stuff. We don't keep data longer than we need.",
+                  "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limjglb/",
+                  "created": 1723930931,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "limjpoc",
+                      "score": 1,
+                      "body": "Yeah I think so too but that’s definitely a great project",
+                      "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limjpoc/",
+                      "created": 1723931026,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "limmu22",
+      "score": 2,
+      "body": "Finally, the inverse wsb can become a reality. On a serious note, I'd be interested to know how well the llm handles irony.",
+      "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limmu22/",
+      "created": 1723932217,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "limp9ro",
+          "score": 5,
+          "body": "Not very well tbh. It's a hard problem for LLMs right now and even humans have trouble too. If you took a non-redditer/non-stock person and asked them to read wallstreetbets, I think they would have some trouble figuring out what's sarcasm and what's not through text only.",
+          "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limp9ro/",
+          "created": 1723933160,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "limwvml",
+              "score": 1,
+              "body": "And what would they use to figure what's sarcarsm aside of text?",
+              "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limwvml/",
+              "created": 1723936159,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lim4waa",
+      "score": 1,
+      "body": "Welcome to r/stocks!\n\nFor stock recommendations please see our portfolio sticky, sort by hot, it's the first sticky, or see [past portfolio stickies here.](https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+title%3A%22Rate+My+Portfolio%22&restrict_sr=on&sort=new&t=all)\n\nFor beginner advice, brokerage info, book recommendations, even advanced topics and more, please read our [Wiki here.](https://www.reddit.com/r/stocks/wiki/index)\n\nIf you're wondering **why a stock moved** a certain way, check out [Finviz](https://finviz.com/quote.ashx?t=spy) which aggregates the most news for almost every stock, but also see [Reuters](https://www.reuters.com/), and even [Yahoo Finance](https://finance.yahoo.com/).\n\nAlso include *some* [due diligence](https://www.investopedia.com/terms/d/duediligence.asp) to this post or it may be removed if it's low effort.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/stocks) if you have any questions or concerns.*",
+      "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/lim4waa/",
+      "created": 1723925712,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "limgqe2",
+      "score": 1,
+      "body": "Thanks for sharing! This is pretty cool. Are you able to do this on other sites as well?",
+      "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limgqe2/",
+      "created": 1723929923,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "liminwc",
+          "score": 1,
+          "body": "Thanks! Nope just Reddit for now.",
+          "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/liminwc/",
+          "created": 1723930638,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "limirbf",
+      "score": 1,
+      "body": "Good idea.  Following.",
+      "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limirbf/",
+      "created": 1723930673,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "liml0vw",
+      "score": 1,
+      "body": "Good job, but what about $wag\\*y ...\n\nEdit. It would be interesting to receive a notification when a stock pops or climbs in the rankings. Otherwise, all these rankings will always be behind the reality.",
+      "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/liml0vw/",
+      "created": 1723931520,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "limnwhx",
+      "score": 1,
+      "body": "categorize by subreddit. fe. interesting how situation from value stock analysis sub dif from others.",
+      "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limnwhx/",
+      "created": 1723932628,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "limpdxs",
+      "score": 1,
+      "body": "How should the score be interpreted? Does a lower number indicate less positivity towards the stock, while a higher number suggests a more positive outlook? Also, does a score of 0.00 represent a neutral stance?",
+      "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limpdxs/",
+      "created": 1723933205,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "limpoek",
+          "score": 1,
+          "body": "Yes and yes. That is how the scoring works. I need to add a chart/table or something that explains each of the columns.",
+          "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limpoek/",
+          "created": 1723933319,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "limpeec",
+      "score": 1,
+      "body": "make a portfolio that allocates based on sentiment and see if it beats spy",
+      "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limpeec/",
+      "created": 1723933210,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "limph6u",
+      "score": 1,
+      "body": "Thanks! I've been looking for something like this!\nAs mentioned before, if it will be updated more frequently, have red/green flags for the sentiment and have some graphs this can be pretty awesome!\n\nBtw why does the \"upvote\" parameter stands for? How did you calculate it?",
+      "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limph6u/",
+      "created": 1723933241,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "limqqnc",
+          "score": 2,
+          "body": "There's many websites that do this already so you can also check those out. Some people have mention the alternatives in this thread. Thanks for the suggestion! I do want to incorporate color somehow so that the user can understand the information quicker. Red and green for the sentiment colors sounds like a great idea, as well as graphs. Upvotes is just the absolute value of the amount of upvotes/downvotes for each of the comments/post that took part in making that sentiment score. So maybe that column should be clarified or renamed to \"votes\"",
+          "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limqqnc/",
+          "created": 1723933734,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "limtr8r",
+              "score": 1,
+              "body": "Sounds good, I'll keep following this!\n\nAnother feature that can be nice (if possible), is to add some kind of a tracker of a symbol for the past 3-5 years, this can help understand the level of hype during the years",
+              "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limtr8r/",
+              "created": 1723934932,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "limpmpy",
+      "score": 1,
+      "body": "What does the sentiment tell me?\n\nIt seems arbitrary without explanation?",
+      "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limpmpy/",
+      "created": 1723933302,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "limqx82",
+          "score": 2,
+          "body": "Sentiment is scored from -1 to 1. -1 is bad, 1 is good, 0 is neutral.",
+          "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limqx82/",
+          "created": 1723933807,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "limrguy",
+              "score": 1,
+              "body": "Thank you.",
+              "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limrguy/",
+              "created": 1723934025,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "limqo28",
+      "score": 1,
+      "body": "Thank you for the work. This is interesting!",
+      "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limqo28/",
+      "created": 1723933706,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "limrozy",
+          "score": 1,
+          "body": "Thanks for the compliment!",
+          "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limrozy/",
+          "created": 1723934115,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "limqycd",
+      "score": 1,
+      "body": "Like this one?\n\n[Ape Wisdom | Trending Stocks on Reddit](https://apewisdom.io/)",
+      "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limqycd/",
+      "created": 1723933819,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "limuhiq",
+      "score": 1,
+      "body": "Nice !!  Thank you.",
+      "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limuhiq/",
+      "created": 1723935220,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lin7dsw",
+      "score": 1,
+      "body": "Intel has a similar sentiment score as SPY.\n\nYou’re wasting your time, this sub is just all regards.",
+      "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/lin7dsw/",
+      "created": 1723940305,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lingmro",
+      "score": 1,
+      "body": "This is great.  Straightforward interface. Charts would help. Maybe top 10. What’s the value range for sentiment. Great idea! (Of course the real juice is how you parse all this data).",
+      "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/lingmro/",
+      "created": 1723944098,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lim9c5t",
+      "score": 1,
+      "body": "What is the refresh rate? Are OPs weighted? Xref'd with success? How many subs are being mined?",
+      "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/lim9c5t/",
+      "created": 1723927263,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "limlaze",
+          "score": 1,
+          "body": "Currently, I just run it once a day. I can more often it more if the traffic demands it. What do you mean by OPs weighted? This is just an initial try at this. The subreddits you see are the only ones it's looking at.",
+          "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limlaze/",
+          "created": 1723931625,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lim7df3",
+      "score": 0,
+      "body": "You're using reddit as an indicator?  Oof",
+      "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/lim7df3/",
+      "created": 1723926573,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "limegd6",
+          "score": 4,
+          "body": "Agreed, and by the time things are talked about on Reddit it’s usually too late to extract the big leaps in value from buying low and selling high or buying puts high and selling them after it’s crashed a good amount.",
+          "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limegd6/",
+          "created": 1723929081,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "limgep5",
+              "score": 1,
+              "body": "I don’t know I got into NVDA because of chatter on WSB in April (pre split). I think held the position until chatter on WSB said “everyone” knows about it (Early July). I’m up 46% because of Reddit chatter and I’m not day trading or trading options.",
+              "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limgep5/",
+              "created": 1723929801,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "limhm8z",
+                  "score": 2,
+                  "body": "But some research into what hardware drove LLM AI when ChatGPT came out would have had you buying in December of 2022. You’d be up much more which is the big leaps I’m talking about. 46% is a great return for sure but relative to how far it’s come since December 2022, a small portion.",
+                  "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limhm8z/",
+                  "created": 1723930250,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "limjhzj",
+                  "score": 1,
+                  "body": "Same thing with ASTS",
+                  "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limjhzj/",
+                  "created": 1723930945,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "limbpfk",
+          "score": -2,
+          "body": "Oooooof",
+          "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limbpfk/",
+          "created": 1723928091,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lime8kd",
+      "score": 0,
+      "body": "The fundamental problem with using Reddit sentiment to determine if a stock is a buy or sell is that by the time it’s talked about on Reddit you’re too late to the party for the big gains.",
+      "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/lime8kd/",
+      "created": 1723929000,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "limf61g",
+          "score": 3,
+          "body": "RXRX is being talked about. No one is late to the party.... yet.",
+          "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limf61g/",
+          "created": 1723929341,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "limfp75",
+              "score": 1,
+              "body": "I stand corrected, what subreddit?",
+              "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limfp75/",
+              "created": 1723929538,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lim7bde",
+      "score": 0,
+      "body": "Bookmarked :) I think it's a great idea! What are min/max values for sentiment? If I could make a wish, some sort of stock momentum would be nice, based on the same timeframe as the other data. Edit: this could even be related to the sentiment value, and you could make an (overall) score for how accurate reddit sentiments are.",
+      "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/lim7bde/",
+      "created": 1723926553,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "limj2kl",
+          "score": 1,
+          "body": "Thanks! The sentiment values are from -1 to 1. -1 being very poor and 1 being very good. I could look into something about stock momentum.",
+          "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/limj2kl/",
+          "created": 1723930786,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lim92yr",
+      "score": 0,
+      "body": "Can you please add the ability to search for other stocks? It is too limiting having it be so few stocks.",
+      "permalink": "/r/stocks/comments/1euqvqx/i_made_a_website_that_tracks_which_stocks_are/lim92yr/",
+      "created": 1723927173,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

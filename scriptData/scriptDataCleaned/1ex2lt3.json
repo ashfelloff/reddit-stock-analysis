@@ -1,0 +1,686 @@
+{
+  "title": "INTC assets higher than market cap?",
+  "score": 111,
+  "selftext": "Google is telling me that intel’s assets are worth about $206B, and they have about $46B in liabilities. This of course results in a net worth of $160B. Their market cap is only $90B, though. How does this make any sense? If they are physically worth $160B, why isn’t their market cap this or higher? They aren’t even losing money, just not making very much of it. Please explain.",
+  "link_flair_text": "Company Discussion",
+  "id": "1ex2lt3",
+  "num_comments": 76,
+  "created_utc": 1724177302,
+  "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/",
+  "comments": [
+    {
+      "id": "lj3009h",
+      "score": 125,
+      "body": "Yes, as the other commentor suggests, there might be significant unsaleable goodwill and other intangibles rolling up into total assets, I haven't looked at their balance sheet specifically. That's definitely possible.\n\nUsing an NAV approach is only really applicable when the company is no longer a going concern, or when it is literally in the best interest of shareholders to close up shop and sell assets in an orderly liquidation process. In that case, the assets actual liquidation value of assets would be quite a bit lower than what is listed in their financial statements. Market value does not equal book value. Especially with respect to fixed assets and inventory in an orderly liquidation.\n\nSo even if the market believes, and management has cosigned, the idea that they should return capital to shareholders by selling everything and returning net proceeds to shareholders, it still wouldn't be close to the equity value on the balance sheet.",
+      "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj3009h/",
+      "created": 1724179003,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lj3uxnj",
+          "score": 34,
+          "body": "The biggest line item in PP&E of their fabs, and it loses boatloads of money. $2.8B loss on $4.2B revenue last quarter when disaggregated. And this is when leading edge fab capacity should be raking in money. TSMC has a 45% operating profit margin currently, compared to -65% for Intel’s foundry. \n\nThe market is saying the expected cash flows are less than the historical cost.",
+          "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj3uxnj/",
+          "created": 1724188617,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lj8qk2o",
+              "score": 4,
+              "body": "It's worth including the caveat that foundry losses are complicated because INTC has financially engineered their reporting to put all of the losses on the foundry and all of their profits on products. Most of their volume is still in house, not outsourced to TSMC, so you really can't separate them quite yet. They chose wafer prices representative of open market prices, but of course it's not an open market, there is only one buyer, and INTC management picks the price for accounting purposes.\n\n\nThey could also have recast those numbers to say foundry is profitable because they have one sucker customer that pays high prices for their wafers, and the product division is the one losing boatloads of money.",
+              "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj8qk2o/",
+              "created": 1724261537,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ljczvtv",
+                  "score": 1,
+                  "body": "If Intel Foundry is able to meet  their yields goals and provide a design library kit, they should be able to attract important customers.",
+                  "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/ljczvtv/",
+                  "created": 1724325534,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lj3zq36",
+          "score": 5,
+          "body": "Intel also has the tendency to monkey around with their numbers. Like in 2023 when they lowered the depreciation on their chip making machines in their foundries to make their numbers look better. I wouldn’t trust any arbitrary value that they give themselves and valuing other assets.",
+          "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj3zq36/",
+          "created": 1724190164,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lj8qtm7",
+              "score": 1,
+              "body": "Intel management has a history of dishonesty or lack of transparency, going back through the last 3 CEOs at least. It's not an issue of one person, it's in their culture.",
+              "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj8qtm7/",
+              "created": 1724261618,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ljf25vf",
+                  "score": 1,
+                  "body": "The last Ceo, Robert Swan was actually a CFO. It was pure luck (for him) that he was appointed Ceo after  Brian Krzanich was fired.",
+                  "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/ljf25vf/",
+                  "created": 1724350844,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lj33mhh",
+      "score": 74,
+      "body": "Warren Buffett has been pretty steadfast over the years in his assertion that “book value doesn’t matter.”\n\nAll that really matters to stock price is earnings and future earnings potential.",
+      "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj33mhh/",
+      "created": 1724180101,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lj6xib3",
+          "score": 5,
+          "body": "Book value only really matter for mergers and acquisitions and bankruptcy",
+          "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj6xib3/",
+          "created": 1724239010,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lj8rn5z",
+              "score": 2,
+              "body": "Well in the case of Intel I would say the bankruptcy and acquisition scenarios are very, very relevant.\n\n\nSome really deep analysis would be able to show how much money Intel could possibly get in event of acquisition or liquidation. For manufacturers, there is always the issue of expensive specialty equipment that has limited utility to anyone else. There may be only 2 or 3 potential customers to buy it in case of liquidation, and if TSMC has excess capacity at those nodes, they won't be interested at anything near book value.",
+              "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj8rn5z/",
+              "created": 1724261868,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lj5stwt",
+          "score": 2,
+          "body": "This",
+          "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj5stwt/",
+          "created": 1724214664,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lj8braq",
+              "score": 1,
+              "body": "That",
+              "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj8braq/",
+              "created": 1724256976,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lj318hd",
+      "score": 58,
+      "body": "Book value is almost never a good gauge for a company's value. And in this case, seems like you got your numbers wrong.\n\nAccording to yahoo finance:\n\n[https://finance.yahoo.com/quote/INTC/balance-sheet/](https://finance.yahoo.com/quote/INTC/balance-sheet/)\n\nBy the end of June, INTC has $206B in asset - $86B in liabilities. so net book value of $120B.\n\nHowever, if you open up their asset breakdown, $103B in net PPE and $32B in goodwill. If you don't know what goodwill is, it's basically just for tax write offs, it's nothing. PPEs, in Intel's case, is not very liquid, and likely worth much less if Intel were to just pawn them off. So net book value only looks good, if Intel have enough business to utilize those PPE.\n\nThey have warned everyone for two years, their business is trending down. You can bet against their revenue warnings, but you've been warned.",
+      "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj318hd/",
+      "created": 1724179376,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lj3qrfh",
+          "score": 18,
+          "body": "Calling goodwill a tax write off is not necessarily correct. Goodwill is the difference between price and book value, basically a premium. For example if you were to buy NVDA, you’d pay a substantial premium for their branding and intelligence. It’s definitely not a useful asset in gauging company worth but it does show whether or not a company grows organically or through acquisition which is very important",
+          "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj3qrfh/",
+          "created": 1724187309,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lj3jghv",
+          "score": 12,
+          "body": "Also, a lot of their assets like inventory are going to depreciate in value very rapidly relative to other industries.",
+          "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj3jghv/",
+          "created": 1724185055,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lj5a2km",
+          "score": 4,
+          "body": "With the exception of bank stocks, where book value is an important consideration.",
+          "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj5a2km/",
+          "created": 1724206669,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lj39tcm",
+          "score": 8,
+          "body": "Tangible book value excludes goodwill. Today INTC price to TBV is 1.08.",
+          "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj39tcm/",
+          "created": 1724182040,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lj3xj70",
+              "score": 11,
+              "body": "His point still stands. \n\nTransOcean trades at ~.4x tangible book.  They spent $25B building deepwater offshore drilling rigs.  Then the US got a lot better at extracting oil and gas on land, and future consumption expectations declined. \n\nNow the equity trades at $4B, and they have $17B of net PP&E on the books. Historical cost (aka book value) isn’t important, it’s what the assets will generate in the future.",
+              "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj3xj70/",
+              "created": 1724189452,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lj63bsy",
+          "score": 2,
+          "body": "Please explain how goodwill is used for a tax right off? Lmao\n\nNothing about goodwill is used for a tax right off because it doesn’t amortize",
+          "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj63bsy/",
+          "created": 1724220364,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lj7dudi",
+              "score": 2,
+              "body": "Definition of goodwill impairment\n\n[https://www.investopedia.com/ask/answers/061715/when-and-why-does-goodwill-impairment-occur.asp](https://www.investopedia.com/ask/answers/061715/when-and-why-does-goodwill-impairment-occur.asp)\n\nExample of Intel doing goodwill impairment in 2021, back when profits were high, $238 million in a quarter\n\n[https://www.intc.com/filings-reports/all-sec-filings/xbrl\\_doc\\_only/3049](https://www.intc.com/filings-reports/all-sec-filings/xbrl_doc_only/3049)\n\n\\~$32B of goodwill is worth about \\~6.7B of tax saving IF the company have excess profits to write off. Don't laugh at the value of tax write offs.",
+              "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj7dudi/",
+              "created": 1724245950,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lj84caw",
+                  "score": -1,
+                  "body": "You realize that impairment is strictly a GAAP thing and doesn’t affect taxes right? lol. Taxes are done on a modified cash basis and impairment is a non-cash transaction. Additionally, companies can’t do impairment whenever they want. Certain criteria have to be met and their auditors audit them to ensure the impairment is actually correct and not fraud, which is what you are implying this is. \n\nI swear so many people think that companies are regularly committing fraud for the purpose of “tax write-offs”. This just shows how little Reddit investors actually know about accounting, business, and finance",
+                  "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj84caw/",
+                  "created": 1724254684,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lj8ajis",
+                      "score": 2,
+                      "body": "[https://pro.bloombergtax.com/insights/provision/how-asc-740-applies-to-business-combinations/](https://pro.bloombergtax.com/insights/provision/how-asc-740-applies-to-business-combinations/)\n\n# Taxable income from asset acquisitions\n\n\"A taxable asset acquisition may create tax-deductible goodwill equal to the excess of the purchase price over the fair value of the net assets.\"\n\n[https://www.wallstreetprep.com/knowledge/goodwill-amortization-back-private-companies/](https://www.wallstreetprep.com/knowledge/goodwill-amortization-back-private-companies/)\n\n\"**Goodwill Amortization** is an option only available to private companies, while public companies can instead perform annual tests for impairment.\"\n\nGoodwill is amortizable for private company and adjustable asset for public company. IF it's generated from the acquisition of assets via cash, which Intel had often done.\n\nRule of thumb is if a company pay for an asset in money, there's a way for them to write it down.",
+                      "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj8ajis/",
+                      "created": 1724256599,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lj8jz4i",
+                          "score": 0,
+                          "body": "Yeah this proves further you don’t know what you’re talking about. ASC 740 is GAAP, and has nothing to do with taxes paid to the government. What you’re referencing is how tax liabilities are calculated and presented on financial statements, which is completely different than taxes actually paid on tax returns. This is because GAAP and the tax code are completely different. If you want to prove that goodwill impairment is a real tax deduction, please cite actual tax code instead of GAAP ASC.\n\nThe second thing you reference disproves your original point, which is Intel just decided when to \nImpair their goodwill. These impairment tests are done on a regular basis, not when they decide to. So the timing of impairment had nothing to do with when revenue was earned. \n\nPlease take some accounting classes in your free time so you have an idea of what you’re talking about instead of trying to cite random accounting codes that aren’t actually relevant",
+                          "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj8jz4i/",
+                          "created": 1724259510,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lj91ku5",
+                              "score": 1,
+                              "body": "\"taxable asset acquisition may create TAX-DEDUCTIBLE goodwill \"\n\nThe language is VERY specifically about taxation. Specifically that goodwill is tax DEDUCTIBLE.\n\nYou can read US IRC section 197 if you still don't believe me:\n\n[https://www.law.cornell.edu/uscode/text/26/197](https://www.law.cornell.edu/uscode/text/26/197)\n\n\"taxpayer shall be entitled to an amortization deduction... to any amortizable... intangible\"\n\nAnd specifically define which intangibles maybe included\n\n(d)(1) ...the term... intangible means--\n\n(a)good will\n\n  \nI am done with citations. If you have any rebuttal, please cite specific languages from reputable sources.",
+                              "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj91ku5/",
+                              "created": 1724264893,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lj3o5s3",
+      "score": 12,
+      "body": "Who is going to buy those assets? This is a shitty way to build a long thesis. In fact, a lot of meme investors use this method to valuate their penny stocks.",
+      "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj3o5s3/",
+      "created": 1724186511,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lj5loi7",
+          "score": 7,
+          "body": "Yeah it's like if you buy a crashed Subaru and say well I can get $200 for the steering wheel and $300 for the chairs then waiting around for a buyer. \n\nOP spare yourself the headache and buy VOO and SPY.",
+          "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj5loi7/",
+          "created": 1724211309,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lumoful",
+          "score": 0,
+          "body": "rumors saying apple is looking at them",
+          "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lumoful/",
+          "created": 1730339633,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lj321y9",
+      "score": 5,
+      "body": "The book value of the assets is perhaps US$ 206b, but the market only pays US$ 136b for those assets. Because the market, when discounting the expected future cash flows, believes the present value of same is US$ 136b and not the book value.",
+      "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj321y9/",
+      "created": 1724179625,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lj5g12y",
+      "score": 4,
+      "body": "Some very good points made and some very incorrect points. Accounts receivable is likely fully recoverable. This represents amounts due from their customers who have credit terms with Intel. Typical trade terms are net 30, net 60, net 90. Intels customers are very solid and I suspect Intel has a good process in granting credit to their customers. The inventory maybe an issue and could be subject to a write down. The PPE is somewhat arbitrary depending on depreciable lives but it is a rough gauge as to the replacement cost of the PPE. The Goodwill is a byproduct of acquisition accounting. It’s the cost of the acquisitions minus the tangible asset value of the acquisition. Every year end as part of 10-K report, the company should evaluate the carrying value of the Goodwill accounts on a discounted cash flows basis. If the NPV of the estimated future cash flows is less than the carrying value on the Balance Sheet a reserve should be booked. This is a tricky calculation with many assumptions that is audited by their outside auditors at year end. The tax value of the Goodwill is amortizable and deductible on the company’s tax returns over 15 years. This tax value differs from book or GAAP value but goodwill does provide a tax benefit. A quarterly statement half way through the year isn’t the best document to judge a company’s value but the audited 10-K will be. The stock of a company trading at or below tangible book value is usually the sign of either a deep value stock or a company in distress that has made bad decisions in its use of capital in building the company. The jury is still out on Intel. I own 250 shares I think it’s a deep value stock but my faith in management has been shaken. They have seemed to miss the next big thing at almost every turn the past 15 years. Now it seems they are behind in the AI race. It could be the next GE, HP or blackberry. I’m hanging in there. Not buying anymore but not selling either. I’ll be patient for another year. Good luck to you.",
+      "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj5g12y/",
+      "created": 1724208963,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lj8c1lf",
+          "score": 2,
+          "body": "To give you some positive news. They are ahead of production targets for their new CPUs. Whilst with older management they were constantly behind and had to delay releases.\n\n\nThe only question mark is if they can get their new fabs ready for production. But from what I can gather they can produce them in Ireland as an alternative.",
+          "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj8c1lf/",
+          "created": 1724257064,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lj8la0f",
+              "score": 3,
+              "body": "Thanks,  I just wished their income statement looked much better.",
+              "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj8la0f/",
+              "created": 1724259910,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lj2vot1",
+      "score": 21,
+      "body": "There are plenty of companies with higher net worth/assets than market cap, and I haven’t check intel myself but a lot of that is goodwill, what the name is worth.  Also I have seen companies go under with debt lower than assets but with high interest rates became unmanageable.  I would never use that solely to invest when doing my due diligence.  Good luck and always check the balance sheets yourself.",
+      "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj2vot1/",
+      "created": 1724177679,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lj3cb3v",
+      "score": 19,
+      "body": "For fucks sake, this stock is a shill's paradise.....",
+      "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj3cb3v/",
+      "created": 1724182833,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lj3negk",
+          "score": 9,
+          "body": "\"So I had this new thought about Intel... the government sometimes bails out big companies when they're in trouble. Intel is big and not doing so well, probably headed for trouble. Doesn't this mean they're a 100% safe investment because of the government? I'm confused why anyone says they're a bad stock.\"\n\n...\n\nThis post is brought to you by a crystal ball aimed at tomorrow.",
+          "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj3negk/",
+          "created": 1724186273,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lj4oud5",
+              "score": -4,
+              "body": "The Gov’t did bail them out. The fact that all that money didn’t move the needle/fix them is part of why everyone is freaking out and selling out. But maybe the next few billion will be different? ",
+              "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj4oud5/",
+              "created": 1724198868,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lj5ub9j",
+                  "score": 3,
+                  "body": "The government gave them money and they used it to build new foundaries based on tech that isn't fully solved yet (to make the next gen 3nm chips). They did just that. The needle didn't move cos the foundaries take time to produce chips. While other companies have found ways to make processing faster thru a process called stacking. Which doesnt involve making nodes smaller, this is more efficient and cost less.\n\nIf and that's a big if. They do manage to make things work efficiently they will have the most advance chips in a few years. This is all speculation and no guarantees.",
+                  "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj5ub9j/",
+                  "created": 1724215416,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lj6dfx9",
+                      "score": 5,
+                      "body": "> found ways to make processing faster thru a process called stacking\n\nStacking refers to vertical (3D) lithography, which has nothing to do with process node size.\n\nFor EUV lithography even the node size has nothing to do with the actual physical measurements of the transistors, and has turned into a marketing term.",
+                      "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj6dfx9/",
+                      "created": 1724226795,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lj6eygz",
+                          "score": 1,
+                          "body": "I m writing in the broad terms. Since I don't fully comprehend the fine techical details so I apologize for my inability to fully explain something.\n\nFrom what I gather. High NA EUV is worse than low EUV mutli patterning in an article written by Dylan Patel. Low EUV pattern is what I gather that they stack geometry to make things more efficient. And Intel is trying to increase resolution by making things smaller but it is currently only inefficient because the process of doing it is inefficient and costs double compared to stacking. \n\nHere\n\nhttps://www.semianalysis.com/p/asml-dilemma-high-na-euv-is-worse\n\nWhat Intel is trying to do is increase the resolution by making things smaller. Here:\n\nhttps://siliconangle.com/2024/04/18/intel-completes-assembly-worlds-advanced-euv-lithography-system/\n\nWhat I m writing is just layman terms as a quick summary. Correct me if I m wrong. This is just what I gathered.\n\nSo in summary. If Intel finds a way to make the resolution of the chips smaller n more efficient. Then the machines they bought will make the next gen chips. But that's a big if.\n\nI m not reading into the marketing terms.. I m read into articles that claim intels new foundary sucks.. and why it sucks. And I m reading on how Intel is pushing this tech and how they aim to push through and solve this issue.\n\nSo I feel from my understanding that this is a good gamble to spend a few hundred dollars on something that might pay off in a few years.",
+                          "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj6eygz/",
+                          "created": 1724227809,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lj7d4i6",
+                              "score": 2,
+                              "body": "> And Intel is trying to increase resolution by making things smaller but it is currently only inefficient because the process of doing it is inefficient and costs double compared to stacking.\n> \n> Here\n> \n> https://www.semianalysis.com/p/asml-dilemma-high-na-euv-is-worse\n\nThis has been true since the dawn of chipmaking. New process technologies are always expensive at the bleeding edge and usage and experience with the technology leads to lowered costs.\n\nUntil ASML's EUV technology is no longer at an edge to competing manufacturers (which are already few and far between), fabs have to eat the increased costs of the new models.\n\nMulti-patterning has a big disadvantage in that you can only produce in the magnitude of half the number of chips as you could produce with single patterning for a given amount of time, since the wafer mask exposure stage has to be performed twice. \n\nIn the context of this article stacking is discussed with High-NA EUV lithography at the 1nm and 0.7nm process nodes. It's just a re-application of an existing technology concept at a \"finer\" node.\n\n>https://siliconangle.com/2024/04/18/intel-completes-assembly-worlds-advanced-euv-lithography-system/\n\nBasically Intel has received and assembled ASML machines capable of high-NA EUV lithography for its 1.4nm process node this year and within the next couple of years they should be ready to commercialize it.\n\n>I m not reading into the marketing terms.. I m read into articles that claim intels new foundary sucks.. and why it sucks. And I m reading on how Intel is pushing this tech and how they aim to push through and solve this issue.\n\n>So I feel from my understanding that this is a good gamble to spend a few hundred dollars on something that might pay off in a few years.\n\nIt can be good if they can command good margins on their production. Right now profitable manufacturers are literally building war chests with the huge margins they are able to command.",
+                              "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj7d4i6/",
+                              "created": 1724245683,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "lj7ycff",
+                                  "score": 1,
+                                  "body": "Yes your thoughts align. I just don't have the technical words to describe as well as you as I m not in the tech field. But I m going to assume Intel will make their new chips profitable in a few years and 20 bucks is a great buy in.",
+                                  "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj7ycff/",
+                                  "created": 1724252824,
+                                  "depth": 7,
+                                  "replies": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lj4fnoe",
+      "score": 15,
+      "body": "I'm building a position in INTC. Could it be a loser? Sure. Could it recover 50% and break 30 by the end of 2024? Absolutely.\n\nI see more upside at $20 than downside. Also, I see more downside in the indexes than upside at the moment. They have re-bubbled. Therefore, I will bet on INTC until it recovers or my evidence changes.",
+      "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj4fnoe/",
+      "created": 1724195571,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lj5ui7g",
+          "score": 5,
+          "body": "Yep. It's a great gamble as it doesn't cost much and the upside is potentially very big considering the foundaries they invested in could make the next gen chips.",
+          "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj5ui7g/",
+          "created": 1724215515,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lj4jge8",
+          "score": 12,
+          "body": "Once it breaks $18 you're going to know what a Cleveland steamer feels like.",
+          "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj4jge8/",
+          "created": 1724196913,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lj4k0qk",
+              "score": 8,
+              "body": "I'm DCAing so if it falls to $18 I'll be happy to buy more. The US government is growing more jingoistic every year; they aren't going to let INTC fall and allow Taiwan to have a quasi-monopoly on such an important sector.",
+              "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj4k0qk/",
+              "created": 1724197112,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lj4wf01",
+                  "score": 4,
+                  "body": "I think $14 is probably the bottom. The bigger problem for Intel is that its dead money for a long time now. Not sure what the range will be, but once that's established, it's going to be stuck there for at least 2 years. It's less about DCA'ing and more about how patient you can be.",
+                  "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj4wf01/",
+                  "created": 1724201626,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "lj5e4v1",
+                  "score": -1,
+                  "body": "Just wait til it gets to 13. No point buying it higher. \n\nTsmc and Samsung are building fabs stateside and sooner or later we can't keep bailing Intel out.",
+                  "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj5e4v1/",
+                  "created": 1724208212,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lj5epsc",
+                      "score": 2,
+                      "body": "Those aren't American companies, so IMO it doesn't matter if they invest stateside. Local and state governments are one thing, and the federal government is another. I'm betting that the recent news and ER - as horrible as they were - are the low point. The bad production and management decisions are worldwide news and now baked into the share price. I'm buying at the bottom, I hope.",
+                      "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj5epsc/",
+                      "created": 1724208442,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lj6ysdh",
+                          "score": 2,
+                          "body": "If Intel has proved anything, it can always get worse...\n\nThere are other American owned fabs stateside. If it gets truly terrible, they'll privatize the assets they need for the military and sell off the commercial side to somebody else. They only really need altera and a few other lines..",
+                          "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj6ysdh/",
+                          "created": 1724239630,
+                          "depth": 5,
+                          "replies": []
+                        },
+                        {
+                          "id": "lj60ckl",
+                          "score": 1,
+                          "body": "Deal of the decade",
+                          "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj60ckl/",
+                          "created": 1724218639,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lj5tkiy",
+          "score": 0,
+          "body": "Thats what those baba buyers said back in the days. Look at where they r at now…",
+          "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj5tkiy/",
+          "created": 1724215041,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lj318lu",
+      "score": 5,
+      "body": "Intel has filed to seize the AI and chip frenzy as such the market is deeming them less valuable than other competitors. \n\nIt’s an interesting conversation, the difference between value and worth. Utility and price.",
+      "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj318lu/",
+      "created": 1724179377,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lj3ctfj",
+          "score": 3,
+          "body": "the reasons for intels current valuation are not related to the current AI trends but due to them having been surpassed in chip quality x price by AMD combined with last series of chips malfunctioning.  They didn't boom due to missing the AI wave, but they are punished for other reasons.",
+          "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj3ctfj/",
+          "created": 1724182994,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lj5014l",
+      "score": 1,
+      "body": "I look at trading price vs book value that is 0.76. Book value is only $28 now.  20.99/28 is not even 77c on a dollar. Yes the stock is depressed. TSM price/book value ratio is 10X sadly to admit.  Trump says the Taiwanese stole chip business. They did not do anything for US. I call it inefficiency.",
+      "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj5014l/",
+      "created": 1724202956,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lj52mvw",
+      "score": 1,
+      "body": "It’s also untrue that goodwill has no real value. Not sure why this keeps getting said. You get value from it through taxes and amortization",
+      "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj52mvw/",
+      "created": 1724203927,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lj5jp87",
+      "score": 1,
+      "body": "One thing to keep in mind is that the market is ALWAYS forward looking and the current share price value is based on FUTURE prospects for a company's market capitalization, expansion of shareholder profits, and share price appreciation. And for Intel, the future ain't pretty. So conceivably, the value of the current share price represents the baked-in future depreciation of profits.",
+      "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj5jp87/",
+      "created": 1724210473,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lj5sdnk",
+      "score": 1,
+      "body": "Almost all semiconductors that fail are sold for well under book value. Happened all during the GFC and 2016 consolidation.",
+      "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj5sdnk/",
+      "created": 1724214434,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lj5t3tm",
+      "score": 1,
+      "body": "Sentiments!!!\nThats what is going against Intel now.",
+      "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj5t3tm/",
+      "created": 1724214805,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lj5xhp8",
+      "score": 1,
+      "body": "https://www.reddit.com/r/ValueInvesting/s/4RVqoxPPr8",
+      "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj5xhp8/",
+      "created": 1724217065,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lm7zweh",
+      "score": 1,
+      "body": "Can other chip makers buy intel at current price of 19$",
+      "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lm7zweh/",
+      "created": 1725850717,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lj2wrii",
+      "score": 1,
+      "body": "think about the future",
+      "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj2wrii/",
+      "created": 1724178010,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lj3i4xp",
+      "score": -2,
+      "body": "Quick perusal of their BS. Which holy crap this thing is presented terribly. \n\nA/R probably needs to be marked down. Since manufacturers and retailers won’t be wanting to sell their 13/14 gen processors. So that 3.1b AR isn’t accurate. \n\nInventory is 11244m. Which…no it isn’t. It just hasn’t been updated to reflect the fact no one will buy their last 2 gen of CPU’s. \n\nAnd for assets, we need to remove 27442m of Goodwill. Because that’s a nothing account; you can’t make cash out of it. \n\nSo just the goodwill reduces them down to oh…180b of assets. Not counting all returns. \n\nThen we got liabilities that…appear to be 53b? This is hard to read with how they present it. \n\nBut they’re likely going to face some very large lawsuits that they don’t seem to be doing anything about. Which they’ll most likely lose in the EU, and in the US depends which court hears them. \n\nAll this to also say they have no good will with customers. \n\nAnd with firing a bunch of people and canceling the dividend, no goodwill from investors. \n\nSo…their adjusted 180b of assets, that is overstated BTW, less their liabilities (which is understated until a lawsuit hits) of 53b, returns 127b\n\nWhich even if we back out all of their AR and inventory, (3.1 + 11.2) leaves 112.7b Still greater than the 90b. \n\nSo, who wants to invest in a company that misled its customers and market partners, canceled its dividends, and slashed its workforce? Oh, and raised the pay of its CEO 45% while all this trouble was brewing (and they knew about it) in 2023? \n\nBecause I sure regret doing that.",
+      "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj3i4xp/",
+      "created": 1724184642,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lj3rl4l",
+      "score": -1,
+      "body": "Yes put your grandmas inheritance straight into intel",
+      "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj3rl4l/",
+      "created": 1724187562,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lj3ds5v",
+      "score": -1,
+      "body": "Yep.  the CLASSIC definition of a \"Value Trap\"",
+      "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj3ds5v/",
+      "created": 1724183295,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lj3ptps",
+      "score": 0,
+      "body": "Apart from this including Goodwill which isn't sellable, INTC likely couldn't sell the (not very liquid) assets that make up their book value for \"full price\". On top of that, they're operating in a space where their inventory will quickly be outdated and go for a much lower price than it does now.",
+      "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj3ptps/",
+      "created": 1724187019,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lj4p2iz",
+      "score": 0,
+      "body": "They’ve been continuously losing money since July of 2022 so not sure why you think they’re not losing money.\n\nTheir low market cap compared to their book value really has nothing to do with goodwill as well. Even when you subtract it you see that market cap is less than property assets. What’s happening is the market value is being priced in instead of book value and taking into account their cash burn. \n\nRemember earnings does not equal money",
+      "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj4p2iz/",
+      "created": 1724198953,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lj2w0c0",
+      "score": -15,
+      "body": "When it hits $14 please don't post here",
+      "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj2w0c0/",
+      "created": 1724177778,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lj2y5h0",
+          "score": 9,
+          "body": "That’s not very helpful",
+          "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj2y5h0/",
+          "created": 1724178435,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lj315mg",
+      "score": -4,
+      "body": "[deleted]",
+      "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj315mg/",
+      "created": 1724179352,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lj32juh",
+          "score": 3,
+          "body": "That doesn't mean much. Possible but not likely an auditor is going to come in, give them an adverse opinion and have them rereport their balance sheet.",
+          "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj32juh/",
+          "created": 1724179776,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lj337f4",
+              "score": -2,
+              "body": "[deleted]",
+              "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj337f4/",
+              "created": 1724179973,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lj36bpl",
+                  "score": 3,
+                  "body": "How often do you think an auditor has come through and made a company significantly change their financials from one quarter to the next? It's happened but very rare.\n\nDo you think that Intel has changed their accounting procedures from last quarters audited financials?\n\nAgain, its possible, but it has .01% chance of meaning anything.\n\nSource: I was an accountant who dealt with auditors daily.",
+                  "permalink": "/r/stocks/comments/1ex2lt3/intc_assets_higher_than_market_cap/lj36bpl/",
+                  "created": 1724180943,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

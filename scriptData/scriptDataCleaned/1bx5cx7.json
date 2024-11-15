@@ -1,0 +1,1234 @@
+{
+  "title": "Can Donald Trump sell Covered Calls on DJT?",
+  "score": 115,
+  "selftext": "Since he has 80 million shares that he can't sell for 6 months. Can he sell covered calls at October and later on DJT. He sells 22.5 calls at $12-18 each, If he could sell enough of them, he could cash out 1 Billion now, and if the stock is still worth $20, in six months he cashes out another 1.6 billion.\n\nIf a broker is worried about early assignment because of a huge price increase, he could hedge with buying $115 calls at $1.\n\nLooks like they hint at the broker work around here:  \n \"Trump cannot sell his stock in the company for six months, making it difficult to translate Truth Social's value into liquid cash that can be spent on the campaign,\" Europa Group analysts said in a report. \"That outlook could change over the coming months, particularly if Trump obtains the waiver or can find a lender willing to accept shares in Trump Media as collateral.\"   \n[https://www.cbsnews.com/news/trump-truth-social-djt-stock-down-losses-revenue-going-concern/](https://www.cbsnews.com/news/trump-truth-social-djt-stock-down-losses-revenue-going-concern/)  \n\n\n&#x200B;",
+  "link_flair_text": "Discussion",
+  "id": "1bx5cx7",
+  "num_comments": 134,
+  "created_utc": 1712387202,
+  "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/",
+  "comments": [
+    {
+      "id": "kyailbd",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 2 | **First Seen In WSB** | 4 years ago\n**Total Comments** | 200 | **Previous Best DD** | \n**Account Age** | 13 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyailbd/",
+      "created": 1712387213,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kyaja83",
+      "score": 252,
+      "body": "If he was to be assigned on short calls then he would have to sell the stock, which is in violation of contract. I'm not a lawyer but it seems like putting himself in this position would be illegal",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyaja83/",
+      "created": 1712387695,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kybr4t3",
+          "score": 181,
+          "body": "Legal, illegal, it’s all the same when you have power, money, and the right connections.",
+          "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kybr4t3/",
+          "created": 1712413616,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "kyc8av3",
+          "score": 10,
+          "body": "This is correct.  American style options can be assigned at any time even if it doesn't make financial sense to do so based on the premium.",
+          "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyc8av3/",
+          "created": 1712419945,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kycx3m1",
+              "score": 8,
+              "body": "no, incorrect... its not illegal and it happens all the time.  \n\nalso, the premium isnt what he wants... he actually would _want_ to be assigned just not yet.\n\nif he sold OTM calls and got assigned then he would he short... and if he was able to sell calls without having stock accessable then his account can handle being short.   it would then be up to him to decide if he wants to cover that short position now or sit on the short and pay lending fees until his stock gets out of lockup.\n\nof course, if he did sell a shit tun of ITM \"covered\" calls and they got assigned then he would just cover them for a nice profit and sell more covered calls because the stock is trending down.\n\nthe only way this strategy fails him is if the stock goes up, he gets assigned, and cant afford the lending fees.\n\nbut remember... his original investment was zero.  he paid zero and netted 3b worth of stock that will likely be worth zero by the time he can actually sell it.  he just needs to find a way to realize that value before his lockup expires.  this is exactly what options are designed todo...",
+              "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kycx3m1/",
+              "created": 1712428818,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "kydprbq",
+                  "score": 8,
+                  "body": "He's short calls so if he's assigned he's forced to sell which he cannot do.\n\nIf that were not illegal then there is no sense in having a lock out period because they would do nothing.\n\nI'm not a lawyer and don't know all the rules on this but being able to do this doesn't make logical sense.",
+                  "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kydprbq/",
+                  "created": 1712439494,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "kye3g6m",
+                      "score": 0,
+                      "body": "have you never been assigned?  you go short... it shows negative calls.  even if you sold covered calls it would show short for a 24hour period while its cleared with most brokers.\n\nbesides, he cant technically sell a covered call against stock he cant liquidate.  he would be selling naked calls with a margin that's backed by the calls which offsets his liability.\n\nand _none_ of this matters because the risk the broker is taking is nullified by the stock he is holding.  if the stock goes up whole he is short it doesnt matter because eventually he will be able to cover with his stock.  if it goes down then he can buy on the open market and clear it.\n\nthe _only_ risk he would have would be the hard to carry borrow interest.\n\ncurrently DJT is carring a 157.57% ctb.  that is the risk, assuming he doesnt jusf cover the shares on open market and sell covered calls again.\n\ndo you not have ESPP or RSU experience?",
+                      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kye3g6m/",
+                      "created": 1712444843,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "kye4lxd",
+                          "score": 4,
+                          "body": "Yes, I sell covered calls all the time (which is what we are talking about here) on all my long positions.  When you sell them, you have -X number of calls.\n\nIf the owner of the call decides to exercise them, they can call away my shares and I'm forced to sell them to the contract holder.  They can do this even if the calls are out of the money if they, for some reason, want to pay contract price (over market value) to get the shares.\n\nThis is why Trump cannot sell covered calls which is what they are talking about here (emphasis again since it appears you are not talking about that).\n\nBroker risk has nothing to do with it because they are covered calls and the broker is supposed to already have the shares on your behalf.  If they are doing their job right, they won't have any risk.",
+                          "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kye4lxd/",
+                          "created": 1712445291,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "kyfdx8c",
+                      "score": -3,
+                      "body": "He wouldn’t be selling his shares, he would be borrowing short shares from the broker. They also wouldn’t be covered calls, they would be naked calls.",
+                      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyfdx8c/",
+                      "created": 1712464714,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "kz4xwnc",
+                  "score": 1,
+                  "body": "they're not covered if the stock is restricted",
+                  "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kz4xwnc/",
+                  "created": 1712869472,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "kz69el7",
+                      "score": 1,
+                      "body": "technical, but the shares are fungible.  his risk is the hard to borrow cost for the duration of lockup.\n\nhe wont get pinned and had zero risk of not being able to find shares.",
+                      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kz69el7/",
+                      "created": 1712887310,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "kz69eme",
+                          "score": 1,
+                          "body": "How about you funge on deez nuts. *right clicks erotically*\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",
+                          "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kz69eme/",
+                          "created": 1712887311,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kyau9o5",
+          "score": 148,
+          "body": "Illegal? Well if so Trump *definitely* wouldn't do something illegal to raise cash to pay for judgements on other illegal things he did.",
+          "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyau9o5/",
+          "created": 1712395797,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kybr15u",
+              "score": -38,
+              "body": "There’s illegal with no punishment like most of the crimes he currently commits. Then there’s illegal like this where people actually have gotten jail for doing it in the past.",
+              "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kybr15u/",
+              "created": 1712413576,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "kybvhth",
+                  "score": 25,
+                  "body": "People have actually gone to jail in the past for literally dozens of Trumps “illegal with no punishment” crimes. 😂",
+                  "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kybvhth/",
+                  "created": 1712415283,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "kybxbuo",
+                      "score": 15,
+                      "body": "*When you're a star, they let you do it*\n\n\nPast performance does not guarantee future returns, if you will.",
+                      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kybxbuo/",
+                      "created": 1712415972,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "kyd175w",
+                          "score": 6,
+                          "body": "Quote of perfection 🤌",
+                          "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyd175w/",
+                          "created": 1712430313,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "kywhnkg",
+                      "score": 1,
+                      "body": "Like....which one of the 88 counts? Please be specific. If you say documents then I don't know what to tell you Joe. Errr Hilary. Errr Pence.",
+                      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kywhnkg/",
+                      "created": 1712745149,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "kybxknj",
+                      "score": 0,
+                      "body": "r/literally",
+                      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kybxknj/",
+                      "created": 1712416064,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "kyc296b",
+                      "score": -6,
+                      "body": "When those crimes are tried in a criminal court and get criminal convictions and not a civil court with fines where the burden of proof is exquisitely low.",
+                      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyc296b/",
+                      "created": 1712417779,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "kybv99s",
+                  "score": 35,
+                  "body": "People have gone to jail for paying off mistresses with campaign funds (like Trump did for stormy). People also have gone to jail for stealing classified information (like Trump did after his term ended without declassifying). Trump would not go to jail for this if he wins the election. And if he loses he wouldn’t care since he’d likely be in trouble for so much other stuff anyway.",
+                  "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kybv99s/",
+                  "created": 1712415192,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "kyc3nbo",
+                      "score": -32,
+                      "body": "I want him to lose the classified documents trial. Then for Biden to go to jail for having SCIF info in a box in his garage and leaking classified info to his ghost writer. Then for Hillary to go to Jail. The three amigos can share cells.",
+                      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyc3nbo/",
+                      "created": 1712418276,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "kymdsmi",
+                          "score": 1,
+                          "body": "\n\nBiden gave things back when asked, let them freely search his house, trump didn’t, they were forcefully taken",
+                          "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kymdsmi/",
+                          "created": 1712585867,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "kymf6zk",
+                              "score": 1,
+                              "body": "Both are still highly Illegal. Trump didn’t have SCIF documentation. It doesn’t matter that he complied. He still had documentation for years. \n\nJust taking a document out of a SCIF puts you in Leavenworth. Tons of people comply and still go to Leavenworth. \n\nThat report said Biden was too mentally unfit to be found liable for past actions. Well that a jury wouldn’t convict a senile old man.",
+                              "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kymf6zk/",
+                              "created": 1712586384,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "kymfwvc",
+                                  "score": 1,
+                                  "body": "Except the report said he could not remember when his son died but the transcript clearly indicates he could\n\n\n\nHad trump complied with requests, not be sharing info around where random billionaires know of it and have seen it he would not be prosecuted",
+                                  "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kymfwvc/",
+                                  "created": 1712586649,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "kymlj2y",
+                                      "score": 1,
+                                      "body": "I have already agreed that Trump should go to jail. It’s pointless to bring him in and compare his case. \nOn the merits alone with just the SCIF breaches Biden should be in jail. Especially if the documents where obtained while not President",
+                                      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kymlj2y/",
+                                      "created": 1712588655,
+                                      "depth": 8,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "kyci4tf",
+                          "score": -7,
+                          "body": "Fight club",
+                          "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyci4tf/",
+                          "created": 1712423471,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "kycl0z7",
+                              "score": -31,
+                              "body": "More like fuck club. They will all be importing children into the prison… if Hillary doesn’t suicide the rest.",
+                              "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kycl0z7/",
+                              "created": 1712424496,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "kycx13b",
+                                  "score": 26,
+                                  "body": "Maybe turn off the news and go touch some grass. You’ll feel better",
+                                  "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kycx13b/",
+                                  "created": 1712428794,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "kyfhigg",
+                                      "score": 2,
+                                      "body": "I don’t think it’s news he has on",
+                                      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyfhigg/",
+                                      "created": 1712466722,
+                                      "depth": 8,
+                                      "replies": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "kybyu19",
+                  "score": 7,
+                  "body": "Trump is all in, God Emperor or prison anyways. I don't think he cares about committing other crimes.",
+                  "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kybyu19/",
+                  "created": 1712416530,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kycaakg",
+          "score": 38,
+          "body": "Sometimes you just have to grab life by the pussy",
+          "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kycaakg/",
+          "created": 1712420670,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kydfelz",
+              "score": 4,
+              "body": "Life's a woman? Explains a lot. Sometimes I think I figure it out only to have everything change the next day",
+              "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kydfelz/",
+              "created": 1712435599,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "kybciie",
+          "score": 27,
+          "body": "Illegal? No way would DJT do anything bordering on illegal.",
+          "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kybciie/",
+          "created": 1712407289,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kybpszo",
+              "score": 26,
+              "body": "“some say I do the greatest illegal things”\n\n🍊🤡",
+              "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kybpszo/",
+              "created": 1712413098,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "kydc8dk",
+              "score": 2,
+              "body": "Illegal is not in his vocabulary",
+              "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kydc8dk/",
+              "created": 1712434416,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "kybuthc",
+              "score": 0,
+              "body": "[deleted]",
+              "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kybuthc/",
+              "created": 1712415025,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "kybvjxl",
+                  "score": 1,
+                  "body": "Politics are stocks.",
+                  "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kybvjxl/",
+                  "created": 1712415305,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kydnvd4",
+          "score": 3,
+          "body": "so you’re saying he could do it?\n\nDudes basically above the law lets be real.",
+          "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kydnvd4/",
+          "created": 1712438781,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "kye4nir",
+          "score": 4,
+          "body": "Heaven help us if Trump would ever do anything that had even a taint of illegality.\n\nI know. Using \"Trump\" and \"taint\" in the same sentence should get me banned.",
+          "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kye4nir/",
+          "created": 1712445308,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "kycrctt",
+          "score": 2,
+          "body": "So, the short answer is yes?",
+          "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kycrctt/",
+          "created": 1712426750,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kydw7sa",
+              "score": 2,
+              "body": "short  \n  \nmessage received, shorting $DJT",
+              "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kydw7sa/",
+              "created": 1712441978,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l1v06g3",
+                  "score": 1,
+                  "body": "You can't, there aren't any shares to borrow.  I tried.",
+                  "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/l1v06g3/",
+                  "created": 1714432908,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kycw30k",
+          "score": 1,
+          "body": "not quite... he could sit short and pay the fee.  you forget, some people literally short stock on purpose.  \n\ncovering an assigned call is just something you do to mitigate further losses... if you have shares in lockup then your losses are mitigated.\n\nDJT is hard to borrow, so the fee's may be nuts... but right now getting assigned wouldnt be much of an issue because its trending down and he would cover with even more profit and just sell more covered calls again.",
+          "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kycw30k/",
+          "created": 1712428448,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "kypq4gg",
+          "score": 1,
+          "body": "If they were in the money but after 6 months, he could theoretically and effectively sell his shares as a loophole. However, there would be liquidity problems with selling that many calls.",
+          "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kypq4gg/",
+          "created": 1712630357,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l1uzxd1",
+          "score": 1,
+          "body": "Illegal? When has that ever stopped him?",
+          "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/l1uzxd1/",
+          "created": 1714432806,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "kyak9cn",
+          "score": -1,
+          "body": "I assume that he can buy more of the stock anytime, and he can sell the extra shares that he buys, but he just can't sell the shares that he basically has coming to him. Like those specific shares 80 million shares. Those shares aren't sellable. I don't think, and I could be wrong that he is barred from trading in the stock, just can't do anything with those shares till they are active.\n\nSo if he got assigned for 100 options, he would have to buy 10k shares at market value and sell those shares.\n\nI think it really just comes down to the broker and if they could evaluate it as a no risk operation.",
+          "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyak9cn/",
+          "created": 1712388381,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kybgu8r",
+              "score": 28,
+              "body": "Insider trading like a motherfucker.  Have you opened a brokerage?  They ask you if you’re an owner or officer of a publicly traded company for a reason.  You think they just let you side trade your own company?\n\nFucking regarded comment even for this regarded ass sub.",
+              "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kybgu8r/",
+              "created": 1712409309,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "kybjyuq",
+                  "score": -4,
+                  "body": "Insider trading doesn’t mean you can’t trade your own stock…\n\nIt just means you can’t base decisions to buy or sell on MNPI. Impressive mix of confidence and lack of knowledge from you here.",
+                  "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kybjyuq/",
+                  "created": 1712410691,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "kybr9tv",
+                      "score": 8,
+                      "body": "Blackout periods would like a word with you…",
+                      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kybr9tv/",
+                      "created": 1712413670,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "kybsegu",
+                          "score": 3,
+                          "body": "With regard to this particular stock though the blackout period here is somewhat discretionary if you read the S-1. There’s a specified period that current shares are locked up but that lockup period can be voided. Overall point being that the conclusion “buying or selling shares right now is insider trading” is wrong. Only thing black and white insider trading would be off MNPI",
+                          "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kybsegu/",
+                          "created": 1712414107,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "kycb2q3",
+                              "score": 0,
+                              "body": "Any reputable publicly traded company is going to have trading windows and black out periods through the year to mitigate their risk of of unfair trades while possessing MNPI.  And no, their executives are not allowed to side trade the company they work for to prevent the appearance of insider trading.  They schedule their sells far in advance so it is a neutral sale not to be construed as being based on any material knowledge.\n\nI understand that the 150 day lock up period can be waived by the board, but what does the S-1 say about trading windows?",
+                              "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kycb2q3/",
+                              "created": 1712420954,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "kycy0d9",
+                          "score": 1,
+                          "body": "blackout periods? lmfao... it's only a violation at SEC level if he is trading on non public info.  blackout periods are a way the board handles this... but not required.  its a way for a company to block sales in a way that they can offer some level of transparency.  plenty of ceo's have been busted trading on insider info dispite blackout periods.  hell, a lot of them post the paperwork _then_ actively work to make something happen in time or aftet that time.\n\nthough, i guess him knowing the company is a scam is prob material non-public info except his 8K literally calls it out.\n\nim not sure you could find anyone who when asked to read the 8K would come out of that not understanding its a risk... im not saying people wont buy the stock, just that anyone who does after reading the 8k is hoping to take advantage of the scam too.",
+                          "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kycy0d9/",
+                          "created": 1712429148,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "kyaksjd",
+              "score": 5,
+              "body": "Again I'm not a lawyer but if he can freely trade the stock outside of those specific shares then he can just short the stock to preemptively bypass the trading time limit. Yes DJT has high borrowing costs but in general any founder would be able to short their IPO ahead of their lockout expiry or buy puts, etc. Equivalently, selling calls is a bearish position in itself. I doubt this is legal.",
+              "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyaksjd/",
+              "created": 1712388762,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "kyaktdw",
+              "score": 2,
+              "body": "He could probably do that the same way we could sell naked calls, but I don't think that would count as a covered call for collateral purposes.",
+              "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyaktdw/",
+              "created": 1712388780,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "kycvywj",
+          "score": -1,
+          "body": "But he’s rich old and white so like it’s probably okay.",
+          "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kycvywj/",
+          "created": 1712428407,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "kyeez0o",
+          "score": 0,
+          "body": "Cool, so he will be doing this in the next week or so and absolutely nothing will stop him nor will he face any repercussions.",
+          "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyeez0o/",
+          "created": 1712449351,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "kybkmbg",
+          "score": -4,
+          "body": "SAVE ME DONALD TRUMP",
+          "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kybkmbg/",
+          "created": 1712410969,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kybvpap",
+              "score": 9,
+              "body": "Unless you’re already a multi millionaire or billionaire, he’s got nothing for you. \n\nYou can donate to his campaign fund though. 😂😂😂",
+              "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kybvpap/",
+              "created": 1712415360,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kyal1el",
+      "score": 62,
+      "body": "It's not a covered call if he can't move those shares as those collateral shares are locked up. You're essentially asking if Donald Trump could sell naked calls for a $1B premium... which he could if he had a cash collateral or an institution willing to give him that level of margin.",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyal1el/",
+      "created": 1712388940,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kyamw5j",
+          "score": 2,
+          "body": "However that would be considered insider trading, considering he is currently holding close to half of the stock supply if he were to profit from the stock crashing via puts or selling any naked calls he would be sued to oblivion by the Bidens administration, I doubt he would put himself onto the crosshair of the fed like that during an election year where he is the main candidate.",
+          "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyamw5j/",
+          "created": 1712390285,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kyc4oo7",
+              "score": 13,
+              "body": "Oh he certainly would and then when the investigation begins he'd call it a witch-hunt that's extremely unfair because he built him empire with a small $1 million loan from his father blah blah blah.",
+              "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyc4oo7/",
+              "created": 1712418649,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "kyficq5",
+                  "score": 1,
+                  "body": "Yeah we’re a little past HE WOULDNT DARE",
+                  "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyficq5/",
+                  "created": 1712467209,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "kyfanmh",
+              "score": 1,
+              "body": "Trading options as well as shorting is generally banned by a company's stock policy for employees all the way down to hourly workers. All he can do is sell and he can't even do that without a board exception to the lockup period which would be screaming for a breach of fiduciary responsibility of the board when they know he wants to dump leading them to jail time.",
+              "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyfanmh/",
+              "created": 1712462997,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "kybkb9g",
+          "score": -2,
+          "body": "[deleted]",
+          "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kybkb9g/",
+          "created": 1712410840,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kybvdol",
+              "score": 6,
+              "body": "Options can be exercised at any time. Early assignment would force a sale of shares",
+              "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kybvdol/",
+              "created": 1712415238,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "kyce4za",
+                  "score": 3,
+                  "body": "European settlement",
+                  "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyce4za/",
+                  "created": 1712422060,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kybbgjv",
+      "score": 27,
+      "body": "He’d have to arrange European options with a bank.\n\nMark Cuban famously did something like this with a collar",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kybbgjv/",
+      "created": 1712406775,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kybipzi",
+          "score": 5,
+          "body": "With yahoo but rules were like 10% max",
+          "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kybipzi/",
+          "created": 1712410145,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "kycuq68",
+          "score": 3,
+          "body": "Deutsche Bank doesn’t like him any more tho",
+          "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kycuq68/",
+          "created": 1712427960,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "kybk0ed",
+      "score": 9,
+      "body": "I believe he can. Mark Cuban collared his yahoo shares after they bought a media company from him (can't remember the name). Yahoo lost something like 80% of its value during the time that Cuban couldn't sell, the collar saved him something like $600 million. Although the situation wasn't an ipo so the rules may have been different. \nCaveat: the numbers are close I believe but I'm too lazy to look them up",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kybk0ed/",
+      "created": 1712410709,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kyc7c25",
+          "score": 3,
+          "body": "Broadcast.com",
+          "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyc7c25/",
+          "created": 1712419595,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "kyb9xwt",
+      "score": 9,
+      "body": "He can buy puts it’s an open market",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyb9xwt/",
+      "created": 1712406004,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kyco9bj",
+          "score": 5,
+          "body": "Insiders at public companies are rarely allowed to buy or sell options",
+          "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyco9bj/",
+          "created": 1712425645,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "kyc8ttc",
+          "score": 2,
+          "body": "There’s usually wording in the filings saying what type of trades can be made for insiders. Most of the time it says they can’t short etc during lock-up. But they can transfer shares to family members (remains locked up tho). Obv I can’t say it’s always there but I usually see it when I’m going through filings.",
+          "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyc8ttc/",
+          "created": 1712420137,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kydoxuz",
+              "score": 1,
+              "body": "Sure then, he’ll just give the money to his grandson and have him buy puts. Done",
+              "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kydoxuz/",
+              "created": 1712439186,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "kybia0r",
+          "score": 0,
+          "body": "Would that be a good idea? Would they have to be naked puts?",
+          "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kybia0r/",
+          "created": 1712409952,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kybknbr",
+              "score": 7,
+              "body": "Buy = long. Naked doesn’t apply.",
+              "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kybknbr/",
+              "created": 1712410981,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "kybseeg",
+              "score": 5,
+              "body": "Buy a call/put doesn't have a naked component. The most you can lose is the premium you paid for it.",
+              "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kybseeg/",
+              "created": 1712414107,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "kybsjec",
+                  "score": 1,
+                  "body": "Oh thanks",
+                  "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kybsjec/",
+                  "created": 1712414159,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "kydpqz3",
+              "score": 1,
+              "body": "Selling options without the shares or cash to cover in case of assignment is the only way one can rock a birthday suit",
+              "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kydpqz3/",
+              "created": 1712439491,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kybrhim",
+      "score": 3,
+      "body": "Why sell cover calls ? At this point, buy puts. Then he's just hedging. If the stock goes down, he loses value of the stock but problly makes more with the put options. If it goes up, he loses the premium he paid for the puts, but then makes money on his shares. Mark Cuban did the same thing when he sold his company but couldn't sell his shares yet.",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kybrhim/",
+      "created": 1712413754,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kybt4uj",
+      "score": 4,
+      "body": "What kind of idiot is going to buy these calls?",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kybt4uj/",
+      "created": 1712414388,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kybvr61",
+          "score": 26,
+          "body": "lol. Have you seen his supporters",
+          "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kybvr61/",
+          "created": 1712415379,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "kyc72ei",
+          "score": 4,
+          "body": "Look at the call premiums. They are insane and getting volume, too. Somebody is buying and believing.",
+          "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyc72ei/",
+          "created": 1712419499,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kycafc7",
+              "score": 5,
+              "body": "theyre essentially political contributions that become a financial asset too",
+              "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kycafc7/",
+              "created": 1712420718,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "kydxln4",
+          "score": 1,
+          "body": "To be fair I have hedged some calls against my much larger short on djt",
+          "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kydxln4/",
+          "created": 1712442526,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "kyf1h6x",
+      "score": 2,
+      "body": "Isn't he considered an officer of the company, and thus can only perform transactions in public is certain windows?",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyf1h6x/",
+      "created": 1712458638,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kyf1i86",
+      "score": 2,
+      "body": "As an insider, he cannot sell calls or buy puts.",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyf1i86/",
+      "created": 1712458651,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kyf46wr",
+      "score": 2,
+      "body": "These kind of contracts would not only forbid selling the shares but also creating any derivative or collateralized positions around them. \n\nThese provisions are common in private companies, even more so when a company goes public.",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyf46wr/",
+      "created": 1712459857,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kyf4zvk",
+          "score": -1,
+          "body": "Proof of this at all? Or is it just your thinking that makes it reality.",
+          "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyf4zvk/",
+          "created": 1712460227,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kyf55zj",
+              "score": 2,
+              "body": "The experience that comes from having signed some of them myself.",
+              "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyf55zj/",
+              "created": 1712460307,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kyflzg7",
+      "score": 2,
+      "body": "The shares haven’t vested so they wouldn’t be COVERED calls.",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyflzg7/",
+      "created": 1712469415,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kyfqce5",
+          "score": 0,
+          "body": "Kind of, he could promise them to cover if needed. As long as the options aren't exercised early, they would be available to cover the risk before it came about.",
+          "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyfqce5/",
+          "created": 1712472267,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kyh5tg0",
+              "score": 2,
+              "body": "Where’s the “I promise” button on Robinhood?",
+              "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyh5tg0/",
+              "created": 1712501687,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kybimwv",
+      "score": 4,
+      "body": "He can do whatever he wants. Remember, he’s Donald Trump, the man that gets away with everything!",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kybimwv/",
+      "created": 1712410108,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kyarrwt",
+      "score": 2,
+      "body": "I have read that the board can vote to allow trump to sell earlier than the 6 months.  The call strat would be unnecessary.",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyarrwt/",
+      "created": 1712393913,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kyaubka",
+          "score": 2,
+          "body": "I'm amazed they haven't done this already.",
+          "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyaubka/",
+          "created": 1712395836,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "kyb457p",
+              "score": 4,
+              "body": "I think I read they have something like 4 days to notify *after* they do it.  Anybody that thinks they haven't already now that it's down 50% should definitely buy more",
+              "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyb457p/",
+              "created": 1712402759,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "kyblhud",
+                  "score": 4,
+                  "body": "You can see the volume traded each day on a chart, you are aware right? You can also see how many shares Trump owns, right? Thus, you can see that even if every share traded was 100% sell sided from 100% Trump selling we’d still not have reached enough volume in the last week for him to have cashed out, right? Now you know.",
+                  "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyblhud/",
+                  "created": 1712411336,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kyc16as",
+      "score": 1,
+      "body": "Lots of insider trading risk that would be obvious, I doubt anyone will accept his shares as collateral",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyc16as/",
+      "created": 1712417385,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kyc2b8g",
+      "score": 1,
+      "body": "No.",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyc2b8g/",
+      "created": 1712417800,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kycmnci",
+      "score": 1,
+      "body": "Well. He could sell CCs 6 months out 🤣",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kycmnci/",
+      "created": 1712425075,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kycphqt",
+      "score": 1,
+      "body": "If I were Trump I would sell puts. Since he controls 60% of shares and other people in his board probably control significant shares too. They could work together and get so much premium if they just hold it above the strike price.",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kycphqt/",
+      "created": 1712426090,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kycuegf",
+      "score": 1,
+      "body": "This could be interpreted as borrowing against his shares - but I’m not a lawyer",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kycuegf/",
+      "created": 1712427843,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kycv89d",
+      "score": 1,
+      "body": "Why would he need to do that vs put up his shares as collateral and take out bank loans like most billionaires and make communists cope seethe and dilate",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kycv89d/",
+      "created": 1712428140,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kydoi5d",
+          "score": 2,
+          "body": "even credit suisse wouldn’t accept DJT shares as collateral.",
+          "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kydoi5d/",
+          "created": 1712439019,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "kyd3351",
+      "score": 1,
+      "body": "If he could do it, he would. He obviously does not care about legal/illegal, moral/immoral etc...\n\nThe fact that he hasn't probably means he just plain can't.",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyd3351/",
+      "created": 1712431012,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kyd6f7d",
+      "score": 1,
+      "body": "He can buy puts and then take out a loan against the stock.",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyd6f7d/",
+      "created": 1712432252,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kydag4f",
+      "score": 1,
+      "body": "Can he sell swaps?",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kydag4f/",
+      "created": 1712433751,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kydbyi4",
+      "score": 1,
+      "body": "Shooting from the hip, but if there is a market far enough out, yes?",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kydbyi4/",
+      "created": 1712434315,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kydpyry",
+      "score": 1,
+      "body": "I don't think so.",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kydpyry/",
+      "created": 1712439572,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kydq3sc",
+      "score": 1,
+      "body": "Who will lend him the money???",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kydq3sc/",
+      "created": 1712439626,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kydqhx3",
+      "score": 1,
+      "body": "1) I think he can finance loans off of his equity in his stock so he doesn’t need to;\n\n2) I don’t see how he can sell cc on stocks, which he cannot sell, even if the expiry is 6 months later, as he has no control over early assignment",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kydqhx3/",
+      "created": 1712439775,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kyen8f1",
+      "score": 1,
+      "body": "These are the type of regarded posts I miss",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyen8f1/",
+      "created": 1712452673,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kyfrfzy",
+      "score": 1,
+      "body": "No, because if he gets assigned it's the same as selling the shares.",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyfrfzy/",
+      "created": 1712472987,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kygg3n4",
+      "score": 1,
+      "body": "🧐🧐🧐He should sell some deep ITM calls to try to get assigned early🧠🧠🧠🧠",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kygg3n4/",
+      "created": 1712490093,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kyi52dk",
+      "score": 1,
+      "body": "Donald trump breaking the law? Can I put calls on that?",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyi52dk/",
+      "created": 1712514094,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kz3cup5",
+      "score": 1,
+      "body": "Is there any chance he just sells these shares anyway? I mean the dude isn't exactly a law abiding citizen. Is there some mechanism in place that actually stops him from selling them? If not then I would be shocked if he hasn't already cashed in in some way.",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kz3cup5/",
+      "created": 1712850888,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kybp7d8",
+      "score": 1,
+      "body": "\"Covered call? How old is she?\"\n\n-Trump...probably",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kybp7d8/",
+      "created": 1712412858,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kyccb3z",
+      "score": 1,
+      "body": "Why you all still talking about this stock? Learn to bag hold like the rest of us and just cry yourself to sleep while every once in a while just yelling a curse word really loud followed by, “it’s ok I’ll make it back once the restriction falls off.”",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyccb3z/",
+      "created": 1712421400,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kydg9vs",
+      "score": 1,
+      "body": "Trump doesn't have to wait 6m to sell.\n\nHe can ask for a waiver from the board at 1m.\n\nThe board is his son and few of his close friends.\n\nEnd of April he will cash out.",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kydg9vs/",
+      "created": 1712435924,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kyev7il",
+      "score": 0,
+      "body": "This is not political, this is analytical , I have read over 100 comments in this thread. I see we have a bunch of Trump fans here. What I don’t see is one comment along these lines. There is a distinct possibility Trump wins this election in November. The current polls confirm this. If that happens there is also a real possibility he will be communicating as the president of the United States on Truth social one could surmise. From my viewpoint a fair gamble would be 12/2025 100C ??",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyev7il/",
+      "created": 1712455960,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kybjq8q",
+      "score": 0,
+      "body": "Generally if you can’t sell shares, you can’t sell covered calls on those shares.\n\nNow if a broker wants to provide him a margin account using those shares as collateral they could.  Then he could take a margin loan as cash to access the liquidity in the shares.  There’s risks of a margin call so the lender would have to figure out the margin % allowed (def would be under the standard 50/25).\n\nNow the easiest thing is, his son is already on the board, they could float a waiver at the next meeting allowing him to dump the shares early.",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kybjq8q/",
+      "created": 1712410589,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kycy4e7",
+      "score": 0,
+      "body": "apparently he can do whatever he wants... im told he has total immunity.",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kycy4e7/",
+      "created": 1712429188,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kycyzr1",
+      "score": 0,
+      "body": "You are asking if a criminal with 11 felony charges, who encouraged his cult to storm the Capitol building while Congress was in session whether it’s legal/illegal for him to do something? He’s fucking grifter.",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kycyzr1/",
+      "created": 1712429501,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kyberfe",
+      "score": -1,
+      "body": "I think his best bet is to loan his shares out to hedge funds for short selling.",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyberfe/",
+      "created": 1712408364,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kyebpb8",
+      "score": -1,
+      "body": "Can he remember his kids names or change his own diaper? That’s what I want to know.",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyebpb8/",
+      "created": 1712448059,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "kyb0eub",
+      "score": -6,
+      "body": "I bought low enough even if it crashes all the way I didn’t lose much.  I’m waiting for Tik Tok to shake out and or when he’s able to start playing with it.  I can’t imagine he would be ok with DJT being a permanent meme.  Hell I can’t imagine he’s going to want DJT being down when the campaigning really starts.",
+      "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kyb0eub/",
+      "created": 1712400301,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "kybbi6q",
+          "score": 6,
+          "body": "Deluded",
+          "permalink": "/r/wallstreetbets/comments/1bx5cx7/can_donald_trump_sell_covered_calls_on_djt/kybbi6q/",
+          "created": 1712406796,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    }
+  ]
+}

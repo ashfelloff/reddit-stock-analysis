@@ -1,0 +1,969 @@
+{
+  "title": "The short report for Intel (INTC) - A rabbit hole of CPU failures rate since 2022.",
+  "score": 84,
+  "selftext": "Forenote: Im a technical person, A developer, this will be a technical DD to show how intel is failing to do their basic business model of manufacturing CPUs.\n\nOver the past month or so Intels customers have been becoming increasing irrate about CPUs just flat out dying after various finger pointing from Intel being debunked.\n\nI first caught wind of intels failures when a friends system started to become unstable, he would crash in games and sometimes doing mundane tasks. It all came to a clicking point when his systems files started becoming corrupted and he needed to attempt reinstalling windows. The attempts failed, windows couldnt even install without corrupted files, sometimes it would install and look fine, but running a verification shows that various system files were still corrupted but not important enough for the system to boot successfully. He would still get various crashes doing mundane things and gaming. It was basically a working brick at this point.\n\nSo i got my research hat on, and discovered various reddit users on r/pcmasterrace  were also reporting instability with their PCs. Not alot tho, this has been the wierd thing, Intel has such a large CPU failure rate, but not alot of reports which caught everyone by suprise. It started to make sense, the causes of the crashes were different for everything. Users were reporting issues with Nvidia, Issues with RAM, and issues with corrupted data. Obviously to any layman, these issues dont instantly point to an issue with the CPU. With GPU errors, Nvidia initially got heat, but Nvidia quickly debunked the issue reporting the GPUs that were returned were fully functional and had no issues.\n\nSo I pulled out my handy dandy debug tools since my friend managed to get windows installed and it kinda runs. The first tests I ran were memory block verification. This validates that the memory is able to hold data immutably, after 4 hours the tests finished all green, the memory was stable and wasnt corrupting data. (its worth noting that the memory test software I used was very CPU lite so the CPU has little chance to corrupt the data its self, this is a stark difference to the Drive tests I ran.).\n\nSince my friend was getting corrupted files almost everytime he install anything, I ran the disk debug tools, these pull the S.M.A.R.T data from the drive and run various read and write tests. The S.M.A.R.T data came back green, the drive was reporting it had no errors or irregularies and was functioning fine, So i moved to the read and write tests, all red, the drive had a 90% file currption rate, I pulled the S.M.A.R.T data again, All green, the drive was still reporting it was functioning correctly.\n\nAt this point, anyone would deduce they had a bad drive that was misbehaving, leading to the decreased number of CPU failure reports. After all, How can you say the CPU is bad when you have corrupt files? Many people forget how much the CPU is responsable for. When you read files or write files, its the CPU that tells the Drive what to store and where and what to read and where it is on the disk to read it from. and as i said, the software I used to test the drives is CPU intensive, it uses the the CPU to generate random data to store on the drive and hashes that data to verify it. So a bad CPU = Currupted data on the drive.\n\nLuckly my friend has 4 drives, So I told him to take out the \"bad\" drive and put in another one, I ran all my tests again and same result, the drive was reporting it was functional, but all the data was corrupted. The result was the same with all the drives tested. Now, this is a luxary many people dont have. Many people would get corrupted data on their drive and think the drive is dying and get a new one. However with 4 tests samples all failing the same way when days ago they were all fine is a very low chance.\n\nNow for the kicker, Intel has a tool to verify that the Intel CPU you have is a genuine Intel CPU, I guess intel has a problem of china making fake intel CPUs??? Ive never seen any but what the hell, its a useful tools since its does some basic CPU level checks. So i ran the verifier tool and its first test for a genuine CPU comes back green, Cool, it is a real Intel CPU. Memory test comes back green (We alreadt tested this soo good), next was the Graphics tests. Failed, the CPU was attempting to send data to the GPU and it corrupted the GPU memory.\n\nSo now we have 2 symptoms.\n\n* Disk data corruption\n* GPU memory corruption\n\nMy friend has Nvidia GPU and Nvidia previously debunked any issues with their GPUs. But we have a common cause, Intel CPUs are corrupting data when sending it to another device in the system (except RAM), Data sent to a disk gets corrupted and data sent to the GPU gets corrupted, which would explain the game crashes. Various other tests passed from boost speed changing, Wifi tests and math operations.\n\nAfter I finished all the tests and determed the issue is with the CPU, my friend RMA'd the CPU. This is where more troubles start. Intel refused the RMA, citing user damage, According to intel all the issues my friend was having was his fault and he caused the damage, After it was refused, I filed the RMA for him, to the same response, but because im a stickler I pushed for more info, Intel was refusing the RMA because of overclocking done by the motherboard. This is a previous blame game intel played, they were blaming Motherboards for putting in stock overclocks on CPUs causing them to fail, but this wasnt the case with my friend, his motherboard wasnt even stock overclocked, but intel refused it anyway.\n\nAfter this point is when the waterfall started coming down, a advanced tech-youtuber posted an exposé about intels CPU failures. See: [Intel has a HUGE problem - Level1Tech](https://www.youtube.com/watch?v=QzHcrbT5D_Y) the curtains were starting to fall, Apparently Game developers and datacenters (Intels BIGGEST customers) were getting large amounts of CPU failures specificly with intel CPUs. Now datacenters are normally quiet about this type of thing, opting to sort their issues directly with intel, but intel is turning away datacenters RMA's of thousands of CPUs, these datacenters has since publicly reported they are dropping intel systems from their products and only supporting AMD systems from now on. Intel has lost their largest customer base, because of their defective products and refusing to take responsability for the product inherit flaw.\n\nIntel is hoping this goes unnoticed, since reports are still low of CPUs failing because the errors are random and different each time and users dont know their CPU is defective, there isnt a big in your face \"The Intel CPU in this system has errored\" its always an error with something else, which is caused by the CPU. So intel is betting on customers blaming other manufactures like they did with Nvidia when this all started.\n\nTimeline of events:\n\n* **\\[Dec 2022\\]** The first instances of \"Out of Video Memory\" issues on 13th Gen Core i9 CPUs were reported back in 2022. (Source: [Reddit](https://www.reddit.com/r/FortNiteBR/comments/zgl1y2/out_of_video_memory_error_on_high_end_system/)). This is a few months after the release of Intel's 13th Gen CPUs & RTX 40 GPUs.\n* **\\[Throughout 2023\\]** Several users have started reporting game crashes and issues in high-profile AAA titles such as [Callisto Protocol](https://www.reddit.com/r/pcgamingtechsupport/comments/18n7163/out_of_video_memory_on_a_brand_new_pc/) and [Hogwarts Legacy](https://www.reddit.com/r/HarryPotterGame/comments/10wftpn/hogwarts_legacy_out_of_video_memory_bug/) (among many others). Both tiles are based on Unreal Engine (released in 2023) and feature a shader compilation process at the start. There are currently thousands of such issues reported on Steam Community Forums and Reddit.\n* **\\[February 2024\\]** A post by [Sebastian Castellanos](https://x.com/Sebasti66855537/status/1760034497045623121) brings the issue to the limelight, highlighting the \"worrying trend\" of stability issues affecting 14th and 13th-gen CPUs.\n* **\\[February 2024\\]** [Our editor along with various other tech outlets](https://x.com/hms1193/status/1760246908927246634) start reporting the issue and bringing the matter on to the mainstream media. Quickly, it is pointed out that underclocking and undervolting the chips can result in better stability.\n* **\\[April 2024\\]** NVIDIA [Issued a formal statement](https://www.nvidia.com/en-us/geforce/forums/game-ready-drivers/13/540532/geforce-grd-55212-feedback-thread-released-4424/) that the stability issues are not related to its GPUs but rather Intel CPUs.\n* **\\[April 2024\\]** Intel [announces](https://wccftech.com/intel-13th-14th-gen-cpu-gaming-stability-investigated-chips-being-returned-in-korea/) its investigation of the reports of instability issues affecting 13th and 14th Gen CPUs.\n* **\\[April 2024\\]** Oodle Publishes about their discovery about users [Intel systems experiencing data corruption](https://www.radgametools.com/oodleintel.htm).\n* **\\[April 2024\\]** Motherboard makers quickly roll out[ \"Baseline\" power profiles in new BIOS](https://wccftech.com/asus-intel-baseline-profile-option-bios-mitigate-14th-13th-gen-cpu-gaming-stability-issues/), which lower power limits on high-end 14th & 13th Gen CPUs but also lead to significant performance drops.\n* **\\[May 2024\\]** [Intel releases a statement](https://wccftech.com/intels-official-statement-14th-13th-gen-cpu-instability-issues-use-intel-default-settings-not-baseline/), recommending motherboard makers to ship \"Intel Default Settings\" in BIOS by default rather than customized settings.\n* **\\[June 2024\\]** Intel [discovers a bug within its eTVB microcode](https://wccftech.com/intel-13th-14th-gen-cpus-new-bios-to-fix-etvb-microcode-bug-release-default-settings-guidance-core-i9-i7-i5-address-instability/) while investigating the root cause of 14th and 13th Gen Instability issues. This doesn't fix the instability problems. Board makers quickly roll out BIOS with a new microcode fix.\n* **\\[June 2024\\]** Alderon Games publishes about there players, developers and servers [Intel CPUs failing over a period of months](https://alderongames.com/intel-crashes) and switch to only AMD systems.\n* **\\[July 2024\\]** Intel [denies an RMA](https://wccftech.com/intel-denies-rma-requests-14th-13th-gen-desktop-cpus-instability-issues-system-providers-switch-amd-ryzen/) to [HardwareTimes](https://hardwaretimes.com/intel-refund-crashing-13900k/) editor who already RMA'd at least two CPUs which produced instability issues.\n* **\\[July 2024\\]** [Wendell from Level1Techs](https://www.youtube.com/watch?v=QzHcrbT5D_Y&t=971s) & [Steve Burke from GamersNexus](https://www.youtube.com/watch?v=oAE4NWoyMZk&t=1205s) are the first big tech media outlets on YouTube to further highlight the instability issues, diving into additional details such as OEM frustration with the matter and a possible recall.\n* **\\[July 2024\\]** [GamersNexus highlights a potential \"oxidation\" defect](https://www.youtube.com/watch?v=gTeubeCIwRw) being a problem with a certain batch of Intel 14th & 13th Gen CPUs that might lead to instability problems.\n* **\\[July 2024\\]** Intel says the [14th & 13th Gen Mobile CPUs are not affected](https://wccftech.com/intel-says-14th-13th-gen-laptops-cpus-not-affected-by-same-instability-issues-as-desktop-chips/) by the same instability issues as the desktop CPUs.\n* **\\[July 2024\\]** GamersNexus reports [they will not be recommending Intel CPUs](https://www.pcguide.com/news/we-cant-recommend-intel-cpus-right-now-gamers-nexus-investigates-13th-and-14th-gen-instability/) regardless of the outcome for upcoming AMD 9000 series reviews\n* **\\[July 2024\\]** Intel issues a statement [confirming](https://wccftech.com/intel-official-response-14th-13th-gen-cpu-instability-elevated-operating-voltages-root-cause-microcode-patch-in-august/) that they have found the root cause of the instability issues which happen to be elevated operating voltages and will be issuing a new microcode fix to its partners by mid of August\n* **\\[July 2024\\]** Users are reporting [instability issues with Intel 14th gen Laptop CPUs](https://www.xda-developers.com/the-intel-cpu-instability-issue-laptops/).\n* **\\[July 2024\\]** ModelFarm (A movie VFX studio) publishes their [Intel systems expereinced a 50% failure rate ](https://www.tomshardware.com/pc-components/cpus/unreal-engine-supervisor-blasts-50-failure-rate-with-intel-chips-praises-amds-chips-as-company-switches-to-ryzen-9-9950x)and they are moving all systems to AMD\n* **\\[July 2024\\]** Intel announces the Microcode update they pushed [does not fix the issues and will not be accepting RMA's or doing a recall for effected CPUs](https://videocardz.com/newz/intel-confirms-no-recall-for-raptor-lake-cpus-microcode-wont-fix-affected-units)\n\nI have been short Intel since July 15th.\n\n**Edit:**\n\nIve received internal leaks from Intel employees explaining internal issues and intels failures.\n\nSource 1:\n\nThe leading theory inside Intel right now, and it is just a theory, is that the Ring Bus is getting cooked because it's fed by the same rail as the P-Cores and E-Cores. \n\nRaptor Lake required incredibly high voltages that the clocks required to be competitive with Zen 4, and it seems like it was just pushed too hard. This is an inherent flaw that would be in Bartlett too it's overvolted. \n\nMeteor Lake isn't affected, and Emerald Rapids is unlikely be effected materially.\n\n\n\nSource 2: \n\nI never worked directly on Raptor Lake \\[Intel Design Engineer\\], but I did have exposure to Alder Lake, and I can confirm that they were very concerned about the ring bus getting damaged if the voltage was pushed too high. \n\nI can also confirm that Raptor Lake was rushed through the design and validation process...\n\n\n\nSource 3: \n\nI \\[Intel Foundry Services\\] can tell you that Raptor Lake was rushed through our Fab in Arizona in record time, but it's also produced in other fabs. However, this location (Arizona) is notable because I can confirm that there was an Oxidation issue caused by some failure in our HVAC system between March & June of 2023. \n\nIt was so bad that Keyvan Esfarjani had to fly in to make decision about which wafers (which cost as much as a Model X each) needed to be thrown away.\n\nTo be clear, I don't know what decision was made, but I do know that this event DID happen. And by the way, it affected Sapphire Rapids yields as well...although I doubt it's an issue that wasn't ",
+  "link_flair_text": "DD",
+  "id": "1ebr68q",
+  "num_comments": 106,
+  "created_utc": 1721901988,
+  "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/",
+  "comments": [
+    {
+      "id": "leujt9k",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 6 | **First Seen In WSB** | 3 years ago\n**Total Comments** | 72 | **Previous Best DD** | \n**Account Age** | 10 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/leujt9k/",
+      "created": 1721901994,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "leuk7o1",
+      "score": 21,
+      "body": "https://preview.redd.it/xhsrsbkf3ned1.png?width=821&format=png&auto=webp&s=c22b7155f1561ad79a188f326c48caa185f1d64e\n\nPosition",
+      "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/leuk7o1/",
+      "created": 1721902247,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lg26uxo",
+          "score": 10,
+          "body": "I sold the Aug 9th 31 puts on open today and bought 30 puts for tomorrow, excercised them after earnings bomb.\n\nNew position:\n\nhttps://preview.redd.it/aze38h2y35gd1.png?width=815&format=png&auto=webp&s=1a041342eb832f675569017edec97a5711a35ffb\n\n  \nI hope everyone profited for this short report!",
+          "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lg26uxo/",
+          "created": 1722556193,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lg42089",
+              "score": 1,
+              "body": "I'm too stupid to understand from the pic how much the gain was? Intel dropped as you said today. Great prediction 👍🏻😺",
+              "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lg42089/",
+              "created": 1722589047,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lg4zju5",
+                  "score": 1,
+                  "body": "ATM $1800 on open. (I dont got alot of money for a bigger play)",
+                  "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lg4zju5/",
+                  "created": 1722605778,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "leumfwz",
+          "score": -10,
+          "body": "dm me.",
+          "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/leumfwz/",
+          "created": 1721903619,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "leun3sw",
+              "score": 8,
+              "body": "Why",
+              "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/leun3sw/",
+              "created": 1721904011,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lev4vh3",
+                  "score": 6,
+                  "body": "DM me too please",
+                  "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lev4vh3/",
+                  "created": 1721912383,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lfh1w7d",
+                      "score": 2,
+                      "body": "Dp me",
+                      "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lfh1w7d/",
+                      "created": 1722253266,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "leun8ey",
+                  "score": -9,
+                  "body": "cuz im tryna tell you something? u got dms off wtf else would i want to dm you for",
+                  "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/leun8ey/",
+                  "created": 1721904085,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "leuvrja",
+                      "score": 21,
+                      "body": "Share it with the class!",
+                      "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/leuvrja/",
+                      "created": 1721908471,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "leuns9i",
+                      "score": 6,
+                      "body": "DM'd you",
+                      "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/leuns9i/",
+                      "created": 1721904398,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "leut509",
+                          "score": 25,
+                          "body": "Did he send you a dick pick? ![img](emote|t5_2th52|4275)",
+                          "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/leut509/",
+                          "created": 1721907222,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "levvq9n",
+                              "score": 11,
+                              "body": "Has to be. Doesn’t DM stand for Dick message?",
+                              "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/levvq9n/",
+                              "created": 1721921582,
+                              "depth": 6,
+                              "replies": []
+                            },
+                            {
+                              "id": "levaquc",
+                              "score": 5,
+                              "body": "Still no answer ![img](emote|t5_2th52|12787)",
+                              "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/levaquc/",
+                              "created": 1721914615,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "leuo9qg",
+      "score": 11,
+      "body": "Not so bad, u/MarsInvest getting sued for bad financial advise ![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4271)",
+      "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/leuo9qg/",
+      "created": 1721904677,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "leuqhwa",
+          "score": 6,
+          "body": "What bad advice they give? Their profile is deleted :(",
+          "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/leuqhwa/",
+          "created": 1721905884,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "leus6qb",
+              "score": 9,
+              "body": "Hahaha ![img](emote|t5_2th52|4271) he animated people to buy intel calls in the daily ![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4271)",
+              "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/leus6qb/",
+              "created": 1721906748,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lev49b2",
+                  "score": 7,
+                  "body": "Nah, the stock itself might be worth buying for the foundry business, since the US govt has essentially picked them as a winner. But that will only break even 3 years from now according to Intel's CEO.\n\nBut no point buying calls daily, since they are losing on every other front.",
+                  "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lev49b2/",
+                  "created": 1721912141,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "leupxp9",
+      "score": 23,
+      "body": "Pretty sure most of this has been priced in, that’s why it went from 50$ to 30$.  We’ll see next week when earnings hit.",
+      "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/leupxp9/",
+      "created": 1721905588,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "leuqxtf",
+          "score": 5,
+          "body": "Ive been shor since July 15th, holding untill earnings.",
+          "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/leuqxtf/",
+          "created": 1721906114,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lewm20n",
+          "score": 3,
+          "body": "You think wall street analysts in suits are paying attention to developments at this level? Hell, they're the same people who set up the playstop short squeeze.",
+          "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lewm20n/",
+          "created": 1721929844,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "leun7s9",
+      "score": 13,
+      "body": "Very knowledgeable, technical overclockers like [buildzoid](https://youtu.be/yYfBxmBfq7k?t=2057) are doubting 13th/14th gen degradation issues can be fixed via microcode, and it's potentially a design flaw with the L3 cache ring.\n\nThe real question is - if INTC is continued to be seen as a value play for semi exposure, it could pump regardless of Intel incompetence. If NVDA continues to pump, INTC puts will not print",
+      "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/leun7s9/",
+      "created": 1721904075,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "levjxyb",
+          "score": 5,
+          "body": "From the brief look I had at various media reports over the last few months, there seem to be up to 3 separate issues (an OP likely mentions them, couldn't be bothered to read that wall of text):\n\n* excessive voltage - initially blamed on mobo producers but the issue is murky at best, the theory is that this is what the microcode fix will address ?\n* communication ring design flaw - jury is still out although I've seen it mentioned couple of times and if it's a timing sensitive one it would make sense that high end models are more likely to experience this\n* oxidization - manufacturing process flaw that, according to intel, was fixed in 2023 - problem is they didn't bother to let anyone know\n\nThis will be tricky to navigate but is recoverable. Their bottom line will suffer no matter what they do. The problem I see with puts is that INTC didn't pump at all on AI, and they will be supported by US administration, no matter who wins the election. On top of that AMD just delayed Ryzen 9000 launch due to \"insufficient quality\", catching this a week before the release doesn't instill confidence in their quality assurance process, and Intel isn't above smearing competition. They will spin it as positive (see, others also have problems, our market share isn't shrinking anytime soon) and the stock will hover around current price for months.",
+          "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/levjxyb/",
+          "created": 1721917798,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lewy4im",
+              "score": 7,
+              "body": "The fact that Intel is publicly acknowledging that \"incorrect voltage may be applied\" is pretty damning. That is just another way to say \"chip fried itself at factory settings.\"",
+              "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lewy4im/",
+              "created": 1721933679,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lex5x0m",
+                  "score": 1,
+                  "body": "Voltage applied to processor chip is determined by motherboard, not by the processor itself. Then there are power management features inside the chip. That's the 30000 foot view. And they don't \"fry themselves\", not immediately at least.\n\nThe murky part is that motherboards are built to specs provided by processor manufacturer. If I remember correctly Intel didn't prohibit mobo manufacturers from going (relatively) bonkers with voltage (because it let them overclock a bit and make processors benchmark faster on their boards than they really were) then turned around and blamed them when things went south. Now they admit it wasn't the root cause after all and the fault in chip power management is the problem. Which may be the case but there's also the possibility that they gave up because they cannot force millions of users to manually set up stuff in bios to recover from their initial mistake. My guess would be 90% power management fault vs 10% mobo bullshit.\n\nIn any case the real problem is not in the technology, because these are incredibly complex devices and shit happens. The problem is in the way they decided to handle this thing, playing cover up and delay to the last possible moment, when they probably knew for months that this won't magically go away. Their reputation wasn't the best lately and behaving like a \"fuck you, where else you're gonna go\" market leader isn't the smartest move when you're in recovery mode and competitors attack you from all sides.",
+                  "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lex5x0m/",
+                  "created": 1721936156,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lewmrks",
+              "score": 2,
+              "body": "How did you obtain all this info without at some point reading a wall of text?",
+              "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lewmrks/",
+              "created": 1721930068,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lewufm7",
+                  "score": 4,
+                  "body": "Some walls of text, some yt videos. The trick is to know which ones to pay attention to (in depth stuff from reputable sources) and which ones to skip (random WSB posts etc).\n\nOP's text is probably okay'ish if all this stuff is new to you, otherwise it's a waste of time. I've skimmed it now and it goes like this:\n\n* I'm a technical person, I know what I'm talking about, trust me bro - it's going to be a ride /s\n* Intel is failing at their basic business model - super exaggerated opinion, nice\n* Long-ass story about \"how I investigated this\", if you're into cooking you'd know this as \"let me first tell you how I learned to cook this delicious meal from my grandma when I was a little kid\" - completely unnecessary personal bs\n* Timeline of public discoveries - the valuable part (like the actual recipe in my cooking blog example), but without any context, you wouldn't know what is an actual signal and what is a noise\n\nIt looks like a medicore bear thesis without any mention of risks or possible bull cases. Might work because Intel has been struggling to recover for some time now but I wouldn't follow it.",
+                  "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lewufm7/",
+                  "created": 1721932508,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lf6gj4d",
+              "score": 2,
+              "body": "Intel announced on friday the Microcode update doesnt fix the issue. And they will not be accepting RMA's or doing a recall for 14th gen CPUs",
+              "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lf6gj4d/",
+              "created": 1722083012,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lf8t5f3",
+                  "score": 0,
+                  "body": "Source ?\n\nAll I see in google results is a [videocardz.com](http://videocardz.com) piece from friday that points to the verge, also from friday, that points to tomshardware from a few days earlier. And there's no word about \"not accepting RMAs\" in tomshardware and verge articles. On the contrary, tomshardware quotes the usual corporate bs \"Intel has pledged to grant RMAs to all impacted customers.\"\n\nedit:\n\nAlso \" Microcode update doesnt fix the issue\" is not what those articles say. All they say is if the CPU is already damaged updating microcode won't fix it, which is kind of expected. Undamaged CPUs would be fixed (assuming Intel managed to pinpoint the source of the problem).",
+                  "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lf8t5f3/",
+                  "created": 1722114663,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lewxut4",
+          "score": 3,
+          "body": "Degradation is physical and not reversible. Intel updates may at best stop further damage or work around existing damage but it can't undo the potentially millions of parts which are no longer stable in all situations.\n\n\nGood news for Intel is they kicked the can so far down the road that many of the chips are out of warranty window and their liability is somewhat reduced. 13th/14th gen CPUs are now quite outdated and most buyers are looking to buy the new AMD and Intel desktop chips launching this fall.",
+          "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lewxut4/",
+          "created": 1721933592,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "leupa72",
+          "score": 7,
+          "body": "Intel also is a future game with a dividend that is not per se shabby, they have large investments from major players for the long term, any decent dip they have will be bought up.",
+          "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/leupa72/",
+          "created": 1721905239,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "leuqqc3",
+              "score": 5,
+              "body": "Earnings is next week, we will see how far the dip goes. \n\nIve wanted to be bullish on intel because of their transition to take on clients for their fabs, but they havnt yet and unless they can manufature their own CPUs without fault they wont get clients.",
+              "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/leuqqc3/",
+              "created": 1721906007,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "leur4x6",
+                  "score": 2,
+                  "body": "While true, the “brand new fabs” argument goes right against that. I expect a small dip, buy, hold pattern for a while. Think a spring being coiled. But a few bad series can make it far worse.",
+                  "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/leur4x6/",
+                  "created": 1721906216,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "leusi1q",
+                      "score": 0,
+                      "body": "The kicker for the new fab tho is that intel has stalled construction the Ohio fab build in Febuary this year. Some reports claim that construction wont continue untill 2026.\n\nIntel has since published plans for 6 more new fabs around the world. None of them have started construction and rumours suggest intel is just trying to raise money to the tune of $160 Billion from governements, cancel some of the fabs and only build 2-3 of them.",
+                      "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/leusi1q/",
+                      "created": 1721906907,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "leusy20",
+                          "score": 6,
+                          "body": "Not stalled. Just taking longer. They are continuing to deliver massive loads to the site with the last super going through less than two weeks ago. 2025 opening got move to 2026, not they aren’t starting.",
+                          "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/leusy20/",
+                          "created": 1721907128,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lf93u2p",
+                              "score": 1,
+                              "body": "super load",
+                              "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lf93u2p/",
+                              "created": 1722118807,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "leuo09m",
+          "score": 2,
+          "body": "Its a risk for sure, Ive been waiting for the intel failures to hit mainstream news, but it hasnt been. And now overshadowed by Crowdstrike giant fuck up.\n\nWith various devs, datacenters and companies publishing they are dropping intel CPUs for AMD CPUs im expecting some earnings hit.\n\nSo i publish this report to help get infomation out there, that intel isnt doing a good job at their basic business model.",
+          "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/leuo09m/",
+          "created": 1721904524,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lewnbw0",
+              "score": 2,
+              "body": "Remember the early reports about new Ford vehicles blowing up their engines a few months ago? Wall Street waited until they disappointed on earnings to dump the stock. This sounds eerily similar.\n\nBasically, pick a longer maturity date. Consider a vertical too.",
+              "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lewnbw0/",
+              "created": 1721930244,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lewyq3y",
+                  "score": 1,
+                  "body": ">new Ford vehicles blowing up their engines\n\n\nI think you're gonna have to be much more specific",
+                  "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lewyq3y/",
+                  "created": 1721933873,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lexaqzv",
+                      "score": 2,
+                      "body": "[https://www.freep.com/story/money/cars/ford/2023/10/02/ford-engine-failure-investigation-explorer-bronco-edge-suv-lincoln-nautilus-aviator/71030958007/](https://www.freep.com/story/money/cars/ford/2023/10/02/ford-engine-failure-investigation-explorer-bronco-edge-suv-lincoln-nautilus-aviator/71030958007/)",
+                      "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lexaqzv/",
+                      "created": 1721937653,
+                      "depth": 4,
+                      "replies": []
+                    },
+                    {
+                      "id": "lexaii9",
+                      "score": 1,
+                      "body": "[https://www.cnbc.com/2024/07/25/ford-gm-stellantis-stocks-fall-after-disappointing-earnings.html](https://www.cnbc.com/2024/07/25/ford-gm-stellantis-stocks-fall-after-disappointing-earnings.html)",
+                      "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lexaii9/",
+                      "created": 1721937580,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lewykp7",
+              "score": 2,
+              "body": "This story will take some more weeks or months to process. The reputational hit to Intel's client business I think will be irreversible. For years people and businesses have been paying a premium for Intel systems because traditionally this kind of thing doesn't happen with Intel. Now that's over.",
+              "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lewykp7/",
+              "created": 1721933823,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lewmkey",
+          "score": 1,
+          "body": "Calls on AMD might be a better play if they are about to steal market share. Then you win even if NVDA continues to pump.",
+          "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lewmkey/",
+          "created": 1721930006,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lev6lml",
+      "score": 7,
+      "body": "Some counterpoints: \n\n1) Problem is only with 13/14 gen CPUs, and a fix plus agreeing to accept RMAs will see this blow over quickly.\n\n2) INTC is already down a lot and is trading at low forward P/E and P/S ratios, I see limited downside from here\n\n3) Lots of positive catalysts going in 2024/2025, new GPUs, new Foundry nodes, etc.\n\n4) Intel Foundry is critical to US manufacturing, they won't let it fail just like they won't let Boeing fail.",
+      "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lev6lml/",
+      "created": 1721913058,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lewznv0",
+          "score": 2,
+          "body": "If it comes down to large scale RMAs that will be incredibly expensive. Most chip sales are to OEMs so that means physically shipping a desktop PC both ways and paying for labor to diagnose and swap, on top of the cost of the chip itself. Intel has a huge amount of liability here and the OEM customers will not foot the bill.\n\n\nOr at least, if Intel tries to make them foot the bill, AMD will be more than happy to take over the client sales from Intel, something they have been trying to do for several years but OEMs haven't jumped ship because Intel never fucked them on quality - until now.",
+          "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lewznv0/",
+          "created": 1721934175,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lev9wyq",
+          "score": 2,
+          "body": "> Problem is only with 13/14 gen CPUs, and a fix plus agreeing to accept RMAs will see this blow over quickly.\n\nin what universe is this a counterpoint?  'only the last 2 generations?'  and the RMAs are costly.  also, the fix will lower performance further...",
+          "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lev9wyq/",
+          "created": 1721914306,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "levbgb6",
+              "score": 4,
+              "body": "It's only one part of their business, and costs don't matter when they're spending $16B on R&D. Intel is much bigger than that, if positive news about their AI accelerators or their foundry roadmap come out, investors won't care.",
+              "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/levbgb6/",
+              "created": 1721914873,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "levcba5",
+                  "score": 0,
+                  "body": "> It's only one part of their business,\n\n...k, every other part of their buiness is rekt, already.  dcai has been down.  client has been their best segment (this is client...)\n\n>costs don't matter when they're spending $16B on R&D. \n\nlolz!  i see, you're delusional.  carry on, then.\n\n>AI accelerators\n\nhahahahahahaha\n\nintel guided for a whole $500 million in 2024 revenue for gaudi.  you're clueless.",
+                  "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/levcba5/",
+                  "created": 1721915180,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "levdx65",
+                      "score": 2,
+                      "body": "I think it's undervalued, but obviously its price is down for a reason. Matter of opinion if you think they can turn it around or not.",
+                      "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/levdx65/",
+                      "created": 1721915751,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "levficw",
+                          "score": -1,
+                          "body": "what the hell are you talking about?  you moved goalposts entirely.",
+                          "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/levficw/",
+                          "created": 1721916303,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "levgotn",
+                              "score": 5,
+                              "body": "I didn't move anything, I'm not going to waste time trying to convince you. I'm long, you're short. next",
+                              "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/levgotn/",
+                              "created": 1721916710,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "levhxhk",
+                                  "score": 0,
+                                  "body": "> I didn't move anything\n\nffs, you moved goalposts from the 13th/14th gen client issue that thi thread is about... to 16B in r&d and ai accelerators and then all the way to 'undervalued, turnaround'\n\nlolz @ having the audacity to deny it when it's all right above.",
+                                  "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/levhxhk/",
+                                  "created": 1721917129,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "levj3lm",
+                                      "score": 3,
+                                      "body": "?? I acknowledged the problem with 13/14 gen cpus, but I said the costs to RMA are negligible compared to their total R&D. Then I gave possible positive catalysts to why the stock would go up. Did you not comprehend any of that? Do you need AI to summarize so you can better read and understand?",
+                                      "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/levj3lm/",
+                                      "created": 1721917518,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "levjokj",
+                                          "score": 0,
+                                          "body": ">?? I acknowledged the problem with 13/14 gen cpus, but I said the costs to RMA are negligible compared to their total R&D. Then I gave possible positive catalysts to why the stock would go up. Did you not comprehend any of that? Do you need AI to summarize so you can better read and understand?\n\nlolz!\n\nso you deny moving goalposts and now you explain moving the goalposts.  *facepalm*\n\nand btw, 'imo undervalued, turnaround' isn't a catalyst, einstein.\n\nlolz @ mentioning needing ai... which intel is the worst at.  good job!  way to really drive home your cluelessness with that witty oof!",
+                                          "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/levjokj/",
+                                          "created": 1721917712,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lev9vjp",
+      "score": 3,
+      "body": "Great; I bought it at 34",
+      "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lev9vjp/",
+      "created": 1721914292,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lewo2zu",
+          "score": 2,
+          "body": "I can loan you one of my bags to put them in",
+          "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lewo2zu/",
+          "created": 1721930487,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lexj9mi",
+              "score": 1,
+              "body": "My bag is not so heavy on this",
+              "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lexj9mi/",
+              "created": 1721940337,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lg1nz4e",
+      "score": 3,
+      "body": "Nice call !",
+      "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lg1nz4e/",
+      "created": 1722549334,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lg27lch",
+          "score": 2,
+          "body": "Thank you, I hope everyone profited!",
+          "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lg27lch/",
+          "created": 1722556468,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "leux1i2",
+      "score": 3,
+      "body": "lol, you do know the US government won’t let Intel fail right? You never know when they’ll get more money from the government, very risk bet",
+      "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/leux1i2/",
+      "created": 1721909055,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lev8kh3",
+          "score": 7,
+          "body": "They won't let Boeing fail either but look at the share price so far this year.",
+          "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lev8kh3/",
+          "created": 1721913807,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "levuy31",
+              "score": 1,
+              "body": "Boeing about to rocket if they’re space ship landing is successful",
+              "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/levuy31/",
+              "created": 1721921329,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "lex00ht",
+              "score": 1,
+              "body": "Boeing has had a real blowout year",
+              "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lex00ht/",
+              "created": 1721934291,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "levl7k4",
+          "score": 4,
+          "body": "They didn’t let GM fail either, but shareholders still lost everything.",
+          "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/levl7k4/",
+          "created": 1721918219,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "levl7l0",
+              "score": 1,
+              "body": "Oh my gourd! \n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/wallstreetbets) if you have any questions or concerns.*",
+              "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/levl7l0/",
+              "created": 1721918220,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "leuoiqq",
+      "score": 8,
+      "body": "its a problem of just 2 SKUs from Intels line up and that's the i9 13900 and 14900. Those are also the most expensive ones, so relative low volume compared to i7 and i5.\n\nCompared to the overall revenue of the Client Computing those 2 SKUs are not really relevant IMO.\n\nhttps://preview.redd.it/aee9yqs1bned1.jpeg?width=794&format=pjpg&auto=webp&s=cb82e03670ab5219980af3579ae75d7dfd4ee361\n\nno other CPUs are affected.\n\nIts still bad for Intels reputation. That's a given\n\n  \nEDIT: also these are not meant for data centers those are GAMING CPUs. Some Company's who are providing gaming servers use them (and they experience failure rates up to 50% after a few month of use). that's a very specific market segment.",
+      "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/leuoiqq/",
+      "created": 1721904817,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "leuph7v",
+          "score": 7,
+          "body": "There are some reports that claim it effects all the 14th gen CPUs. including Laptop CPUs.\n\n[https://www.xda-developers.com/the-intel-cpu-instability-issue-laptops/](https://www.xda-developers.com/the-intel-cpu-instability-issue-laptops/)\n\nIntel Acknoledged the laptop issue but says its a different issue in their statement. But still, Their laptop CPUs are starting to fail.\n\nAnd datacenter server CPUs may or may not be effected too, but as i noted in my post, Datacenters tend to go directly to Intel to handle their issues and rare go public with issues.",
+          "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/leuph7v/",
+          "created": 1721905343,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "leyipb6",
+              "score": 6,
+              "body": "No, their laptops are not failing.\n\nMost of this stuff you’re reading is all from one person, Matt at Alderon games",
+              "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/leyipb6/",
+              "created": 1721953035,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lewzx3u",
+          "score": 3,
+          "body": ">its a problem of just 2 SKUs from Intels line up and that's the i9 13900 and 14900\n\n\nThat's very incorrect, just from the incomplete information we have so far",
+          "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lewzx3u/",
+          "created": 1721934260,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lev9gkp",
+          "score": 4,
+          "body": "way more than those 2 are affected.",
+          "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lev9gkp/",
+          "created": 1721914136,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lev6e8d",
+      "score": 2,
+      "body": "TLDR; so I'm buying puts?",
+      "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lev6e8d/",
+      "created": 1721912979,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lewnzbl",
+          "score": 1,
+          "body": "you're asking what you're buying?",
+          "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lewnzbl/",
+          "created": 1721930453,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "leyd7gj",
+              "score": 1,
+              "body": "[deleted]",
+              "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/leyd7gj/",
+              "created": 1721950924,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lf29qj3",
+                  "score": 1,
+                  "body": "IDK, am I here?",
+                  "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lf29qj3/",
+                  "created": 1722014318,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lg20lqq",
+      "score": 2,
+      "body": "Not a single mention of this in the earnings call.  That's a big broom and rug to sweep under. Wow.",
+      "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lg20lqq/",
+      "created": 1722553870,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lg26ptq",
+          "score": 2,
+          "body": "But it killed their bottom line, failures arent cheap. they lost money because of it. \n\nAnd loyal customers who have already stated they are switching to AMD.",
+          "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lg26ptq/",
+          "created": 1722556140,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lev04eq",
+      "score": 2,
+      "body": "Yeah I have doubt if a software patch can fix any of these. Way to drop the ball Intel. ",
+      "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lev04eq/",
+      "created": 1721910419,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "leutfmn",
+      "score": 3,
+      "body": "Company deserves to fail, but in comes the government with \"CHIPS act\" and \"Infrastructure\" spending...",
+      "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/leutfmn/",
+      "created": 1721907366,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "levxn37",
+      "score": 2,
+      "body": "Their CPU failures aren't likely a significant problem for them financially for a number of reasons:\n\n1. This issue only affects consumer CPUs. Server CPUs, where Intel makes there money, are unaffected. The companies  reporting problems are using consumer CPUs for server purposes, which is not a common or intended use case.\n\n2. Among the consumer CPUs affected, its only the ultra high end desktop ones. It doesn't really affect laptop CPUs, or low to mid end desktop CPUs that most OEMs use.\n\n3. This is an issue with past CPUs that won't affect future ones. Basically, they pushed and found their limit for voltages before longevity becomes a real problem. Future CPUs they will be much more cautious with voltages.\n\nTL;DR: The problem affects a small percentage of their old products, but won't affect new products and hasn't affected their highest margin products(Server CPUs)",
+      "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/levxn37/",
+      "created": 1721922187,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lex0bjo",
+          "score": 2,
+          "body": ">This issue only affects consumer CPUs. Server CPUs, where Intel makes there money\n\n\nTell me you have never read an INTC 10-Q without telling me",
+          "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lex0bjo/",
+          "created": 1721934391,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lex0x01",
+              "score": 1,
+              "body": "[deleted]",
+              "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lex0x01/",
+              "created": 1721934586,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lex1pf8",
+                  "score": 1,
+                  "body": ">By \"makes most of their money\" I'm referring to gross profit, not revenue.\n\n\nFuck's sake dude put down the shovel",
+                  "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lex1pf8/",
+                  "created": 1721934840,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lewohi2",
+          "score": 1,
+          "body": "The OP presented arguments against all 3 of these points. Who to believe?",
+          "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lewohi2/",
+          "created": 1721930622,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lewpq1j",
+              "score": 3,
+              "body": "So in regards to OP's points.\n\n1. The \" developers and Datacenters\" reporting the problem were running consumer CPUs, not server-grade CPUs. Basically, running cheap hardware not meant for 24/7 heavy loads or reliability, instead of expensive server grade CPUs with reliability features. For example, game hosting companies might use consumer CPUs because the market for game servers is very price competitive, so cutting costs is necessary to compete. If using a 13900k instead of a Xeon means you can be $2/month cheaper than your competitor, that's a huge deal. But actual businesses run on server grade Xeons.\n\n2.  Ultra high end laptops that run at high voltages might be affected in rare cases, but it's such a small volume of affected units that it's irrelivant to shareholders.\n\n3. What argument did OP make against this one? Intel fixed the oxidation issue, and can cap the operating voltage on future processors they sell via the same microcode update they're pushing out to existing processors.\n\nIntel is certainly in a tough spot, with AMD now posing serious competition, and their fabs falling behind. So I'm not making any huge investments. But I don't think these CPU issues are a valid thesis for shorting or buying a ton of put options. If Intel fails it will because of AMD stealing enterprise market share and their high capital costs and poor return on capital, not because a handful of consumer grade CPUs failed and a few thousand gamers decide to switch to AMD.",
+              "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lewpq1j/",
+              "created": 1721931015,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lewrh8a",
+          "score": 0,
+          "body": "> This issue only affects consumer CPUs. Server CPUs, where Intel makes there money, are unaffected.\n\nthis isn't even true.  re: game servers.  and it illustrates why the problem is pretty big, as even under low wattage, the cpus are still failing at insane rates.\n\n>Among the consumer CPUs affected, its only the ultra high end desktop ones\n\nalso untrue.  it's nearly all of the skus.  and it's worse at the top, which is extra bad, since it's where their margins are.  the few unaffacted skus are low margin...\n\n>This is an issue with past CPUs that won't affect future ones\n\nthis isn't yet known.  \n\n>Basically, they pushed and found their limit for voltages before longevity becomes a real problem. Future CPUs they will be much more cautious with voltages.\n\nthis is a pick your poison scenario. intel's needed to jack them up just to be almost competitive.  with lowering the voltage, they're lowering their raw performance.  they were already murdered in perf:watt, so...",
+          "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lewrh8a/",
+          "created": 1721931564,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lewspia",
+              "score": 4,
+              "body": "> this isn't even true. re: game servers. \n\nThe \"game servers\" that were affected were running consumer-grade CPUs like the i9 13900k. Basically, they are running consumer CPUs to save money instead of proper server CPUs.  This is because the game-hosting market is a race to the bottom, where customers want the most slots for the lowest prices, so using consumer CPUs is the best way to cut corners.\n\nReal businesses do not put their business systems on 13900k's, they use proper server CPUs like Xeons, and split the cores via virtual machines running on hypervisors.\n\n>also untrue. it's nearly all of the skus. and it's worse at the top, which is extra bad, since it's where their margins are. the few unaffacted skus are low margin...\n\nLook up the reported crash logs published by developers such as Digital Extremes(Warframe). Every single CPU listed is an overclockable i7 or i9, making up 97% of this type of crash. i5's and i3's are not affected, and neither are non-overclockable i7s.\n\nThis is despite the i5 13600k being an extremely popular gaming CPU used in low to mid budget builds. I cannot find any forum threads of anyone reporting instability on this CPU. And mines been running for nearly 2 years with no issues. I3/i5 likely do not reach a high enough voltage to cause the problems unless overclocked.\n\n>this is a pick your poison scenario. intel's needed to jack them up just to be almost competitive. with lowering the voltage, they're lowering their raw performance. they were already murdered in perf:watt, so...\n\nThe amount of voltage required to make even a small dent in performance is negligible. The difference in performance achievable at 1.5 volts vs 1.3 volts is like 2-4%. Intel set insane voltages to squeeze out just a small amount of performance.\n\nAMD has the same problem, their 7800X3D would literally burn up because it was using too high of voltages. So both of them need to keep voltages in check.",
+              "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lewspia/",
+              "created": 1721931953,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lexc3uj",
+                  "score": -1,
+                  "body": "lolwut?\n\nyou evaded the point, entirely - regarding game servers.  they are used and still are impacted, despite the lower wattage.  it's also ironic that you want to make it about margin/$, given that this is intel's only decent segment (client), and their biggest margin skus are the most hammered.  dcai has already been in decline,,, shit, dcai has been LOSING money.  so their precious xeons aren't making them any profit and now their highest margin client cpus are being RMAd en masse.\n\n>Look up the reported crash logs published by developers such as Digital Extremes(Warframe). Every single CPU listed is an overclockable i7 or i9\n\nyeah, this is a lie.\n\n>The amount of voltage required to make even a small dent in performance is negligible. \n\nyou seem to forget that this ALREADY happened and they're ALREADY having to be downvolted via a bios update.  this will be yet another one... if it was negligible, intel wouldn't be in this situation, to begin with.\n\n>AMD has the same problem, their 7800X3D would literally burn up because it was using too high of voltages.\n\nwhich was a mobo issue and quickly fixed with a bios update.  within about a month, versus this shit that's spanned years and 2 generations.  it's not a great whataboutism.",
+                  "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lexc3uj/",
+                  "created": 1721938082,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "levx9jk",
+      "score": 1,
+      "body": "Intel like Boeing will never go kaputz",
+      "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/levx9jk/",
+      "created": 1721922068,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lex04td",
+          "score": 1,
+          "body": "Intel like GM will never go bankrupt rite",
+          "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lex04td/",
+          "created": 1721934330,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "levzic7",
+      "score": 1,
+      "body": "Nice",
+      "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/levzic7/",
+      "created": 1721922772,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "leullxg",
+      "score": 0,
+      "body": "Since 2022??\n\nBro, Intel has been the poster child for mediocrity since the Dot Com bubble.\n\n(Also, ain't readin' all that. But I'm sorry. Or congratulations. Whichever makes sense)",
+      "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/leullxg/",
+      "created": 1721903113,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lex0hn9",
+          "score": 3,
+          "body": "That's kinda unfair, INTC had some banger products in the early 2010s, they were untouchable ",
+          "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lex0hn9/",
+          "created": 1721934447,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "leumeyc",
+          "score": 3,
+          "body": "Yea, now they cant even acheive mediocre. Intel has been dropping in quality for years. Now they cant even manufacure CPUs without inherit flaws.",
+          "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/leumeyc/",
+          "created": 1721903603,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "leumtbh",
+              "score": 2,
+              "body": "That is why my newest build was all AMD\n\nThe single core speeds were what kept me coming back to Intel, but AMD chips aren't as hot as the fucking sun and get same speeds nowadays",
+              "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/leumtbh/",
+              "created": 1721903840,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "leurnhm",
+      "score": 1,
+      "body": "Calls on AMD",
+      "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/leurnhm/",
+      "created": 1721906479,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lex0lrs",
+          "score": 1,
+          "body": "AMD will always find a way to go down.",
+          "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lex0lrs/",
+          "created": 1721934484,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "leurxht",
+          "score": 0,
+          "body": "Thats the spirit :D",
+          "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/leurxht/",
+          "created": 1721906618,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lewuyh0",
+      "score": 1,
+      "body": "The CPUs in test are only a small fraction of Intels overall monthly revenue, and soon the 15th gen will be here, and if the reviews are good people will buy them, that said, Intel is not about what they are selling right now, but if they will succeed in their upcoming foundry and future roadmap which seems very competitive.",
+      "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lewuyh0/",
+      "created": 1721932676,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lf94776",
+      "score": 0,
+      "body": "And you just lost credibility quoting from MLID. ![img](emote|t5_2th52|4260)",
+      "permalink": "/r/wallstreetbets/comments/1ebr68q/the_short_report_for_intel_intc_a_rabbit_hole_of/lf94776/",
+      "created": 1722118954,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "title": "Just a quick $NVDA gain",
+  "score": 37,
+  "selftext": "",
+  "link_flair_text": "Gain",
+  "id": "1dez3sc",
+  "num_comments": 25,
+  "created_utc": 1718285571,
+  "permalink": "/r/wallstreetbets/comments/1dez3sc/just_a_quick_nvda_gain/",
+  "url_overridden_by_dest": "https://i.redd.it/3t4qjp77dc6d1.jpeg",
+  "comments": [
+    {
+      "id": "l8f8xt8",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 8 | **First Seen In WSB** | 4 years ago\n**Total Comments** | 48 | **Previous Best DD** | \n**Account Age** | 10 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1dez3sc/just_a_quick_nvda_gain/l8f8xt8/",
+      "created": 1718285575,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8f94ii",
+      "score": 12,
+      "body": "Goddamn 500 contracts!!! I want that kind of money 😭",
+      "permalink": "/r/wallstreetbets/comments/1dez3sc/just_a_quick_nvda_gain/l8f94ii/",
+      "created": 1718285648,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l8fh27q",
+          "score": 3,
+          "body": "I actually had 900 but sold to cover my initial",
+          "permalink": "/r/wallstreetbets/comments/1dez3sc/just_a_quick_nvda_gain/l8fh27q/",
+          "created": 1718288593,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l8fh86b",
+              "score": 4,
+              "body": "😧 should totally let me hold one OP",
+              "permalink": "/r/wallstreetbets/comments/1dez3sc/just_a_quick_nvda_gain/l8fh86b/",
+              "created": 1718288652,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l8h62fh",
+          "score": 1,
+          "body": "I'm right with you Glenn 💕",
+          "permalink": "/r/wallstreetbets/comments/1dez3sc/just_a_quick_nvda_gain/l8h62fh/",
+          "created": 1718309027,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l8hfunx",
+      "score": 1,
+      "body": "Ngl when I get money like this and one of yall tell me to hold a band, I probably would just to see what yall do with it, as for now, can I hold a band?",
+      "permalink": "/r/wallstreetbets/comments/1dez3sc/just_a_quick_nvda_gain/l8hfunx/",
+      "created": 1718312239,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8fa7eh",
+      "score": 3,
+      "body": "Trying to understand. Don’t you need to hit $140 or more to make money?",
+      "permalink": "/r/wallstreetbets/comments/1dez3sc/just_a_quick_nvda_gain/l8fa7eh/",
+      "created": 1718286072,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l8fblby",
+          "score": 2,
+          "body": "im not forced to hold these indefinitely\n\nthe IV alone can rocket the cost",
+          "permalink": "/r/wallstreetbets/comments/1dez3sc/just_a_quick_nvda_gain/l8fblby/",
+          "created": 1718286604,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l8fe719",
+              "score": 0,
+              "body": "Oh I thought you lose money until you hit that number. Guess I gotta keep studying. Thanks for the reply.",
+              "permalink": "/r/wallstreetbets/comments/1dez3sc/just_a_quick_nvda_gain/l8fe719/",
+              "created": 1718287564,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l8fvz7r",
+                  "score": 8,
+                  "body": "Your options will lose money for typically one of three reasons:\n\n- Delta: The stock price goes down. For each dollar it goes down, the contract loses the Delta value. If the contract is $1.00 and Delta is 0.5, it becomes $1.5 when the stock goes up $1, or $0.50 if the stock drops $1. This is reversed in the case of puts.\n- Theta: The expiration draws near. This is probably what you're thinking of. For every day you hold the contract, you lose the Theta value. If the contract is $1.00 and Theta is -1.0, it will be $0 tomorrow. Theta gets worse the closer you get to expiration. The only way to counteract Theta is to hope the stock goes up (or down) so the contract gains Delta value.\n- IV: The contract becomes less volatile (somewhat). IV basically tells you the range of prices this contract can reasonably take, based on how volatile the stock is. IV is like momentum, it tells you how sensitive the contract is to stock movements. When you buy out-of-the-money, with a long time from expiration, you generally want this to be high so that even small movements can push your contract value up a lot. However, as you approach expiration, high IV will make your theta worse, which will bleed your contracts faster than the stock can rise (since the more volatile the stock, the higher the chances that your ITM option can become OTM in a single day)\n\nIV is what you need to be careful with especially, as you could have a decent OTM play, but it's so close to expiration that even if it moves in your direction, you lose more money from Theta than you gain in Delta.\n\nIf you take care of these and understand how the stock likes to move, you should never be caught off guard outside of black swans.",
+                  "permalink": "/r/wallstreetbets/comments/1dez3sc/just_a_quick_nvda_gain/l8fvz7r/",
+                  "created": 1718293665,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l8g2rxy",
+                      "score": 1,
+                      "body": "Wow thank you so much for that explanation. Super generous of you I really appreciate it!",
+                      "permalink": "/r/wallstreetbets/comments/1dez3sc/just_a_quick_nvda_gain/l8g2rxy/",
+                      "created": 1718295925,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                },
+                {
+                  "id": "l8fjese",
+                  "score": 5,
+                  "body": "Lol no.\n\nContract goes up in value, sell that shit.\n\nHonestly dude, the ONLY way I could wrap my head around this shit was to throw $$ into Robinhood and just buy an.option call you can afford.\n\nSee it with your own eyes how it moves.",
+                  "permalink": "/r/wallstreetbets/comments/1dez3sc/just_a_quick_nvda_gain/l8fjese/",
+                  "created": 1718289417,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l8iv32r",
+                      "score": 1,
+                      "body": "I did the same thing. Once you see change along with your positions it will make more sense. Just get one and watch as the stock price changes and look at IV and delta it will make more sense.",
+                      "permalink": "/r/wallstreetbets/comments/1dez3sc/just_a_quick_nvda_gain/l8iv32r/",
+                      "created": 1718332472,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l8nkatp",
+                          "score": 2,
+                          "body": "u know that black scholes and volatility smile analytics exist yeah? don’t need to waste money to learn how they behave lmfao",
+                          "permalink": "/r/wallstreetbets/comments/1dez3sc/just_a_quick_nvda_gain/l8nkatp/",
+                          "created": 1718407090,
+                          "depth": 5,
+                          "replies": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "l8fk85w",
+                      "score": 0,
+                      "body": "I’ll try that thank you",
+                      "permalink": "/r/wallstreetbets/comments/1dez3sc/just_a_quick_nvda_gain/l8fk85w/",
+                      "created": 1718289702,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "l8fl94d",
+                          "score": 2,
+                          "body": "You can literally use $100 to just buy one.\n\nBuy a SPY or QQQ call. Or put. Whatever you feel.\n\nI was an idiot in the beginning and thought I HAD TO wait for the expiration date on a contract before I could sell it 🤣🤣🤣🤣.\n\nIt happens. I remember being up $25 and thinking \"fuck! I can't sell till 2 days from.now, hopefully it goes up more\" 🤣",
+                          "permalink": "/r/wallstreetbets/comments/1dez3sc/just_a_quick_nvda_gain/l8fl94d/",
+                          "created": 1718290055,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "l8fn2g6",
+                              "score": 1,
+                              "body": "Haha makes sense to me too! I’ll give the $100 lesson a try thank you.",
+                              "permalink": "/r/wallstreetbets/comments/1dez3sc/just_a_quick_nvda_gain/l8fn2g6/",
+                              "created": 1718290675,
+                              "depth": 6,
+                              "replies": [
+                                {
+                                  "id": "l8fnnp3",
+                                  "score": 3,
+                                  "body": "Go to NVDA right now.\n\nIt IS a 0dte option but a $129 strike price call is $99.\n\nDo that. \n\nLololol. Dude from the time I started writing this reply, the contract already increased in value to $109 🤣🤣\n\nEdit : 129.5 call is $92.",
+                                  "permalink": "/r/wallstreetbets/comments/1dez3sc/just_a_quick_nvda_gain/l8fnnp3/",
+                                  "created": 1718290877,
+                                  "depth": 7,
+                                  "replies": [
+                                    {
+                                      "id": "l8fpvxn",
+                                      "score": 1,
+                                      "body": "I took a look on E*trade which is what I use and it’s too confusing to even buy lol. I’ll keep learning for now. Thank you so much tho really.",
+                                      "permalink": "/r/wallstreetbets/comments/1dez3sc/just_a_quick_nvda_gain/l8fpvxn/",
+                                      "created": 1718291639,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "l8g31oy",
+                                          "score": 4,
+                                          "body": "You can play with my balls too",
+                                          "permalink": "/r/wallstreetbets/comments/1dez3sc/just_a_quick_nvda_gain/l8g31oy/",
+                                          "created": 1718296015,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "l8folr7",
+                                      "score": 0,
+                                      "body": "can you teach me how to play with these calls and stuff?",
+                                      "permalink": "/r/wallstreetbets/comments/1dez3sc/just_a_quick_nvda_gain/l8folr7/",
+                                      "created": 1718291204,
+                                      "depth": 8,
+                                      "replies": [
+                                        {
+                                          "id": "l8fpwdr",
+                                          "score": 4,
+                                          "body": "I'll show you how to play with these balls.\n\nCalls* 😏 DM me for noods",
+                                          "permalink": "/r/wallstreetbets/comments/1dez3sc/just_a_quick_nvda_gain/l8fpwdr/",
+                                          "created": 1718291643,
+                                          "depth": 9,
+                                          "replies": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l8faual",
+      "score": 1,
+      "body": "To our friendly neighborhood 🌈🐻: Is this \"post-split correction\" in the room with us now?",
+      "permalink": "/r/wallstreetbets/comments/1dez3sc/just_a_quick_nvda_gain/l8faual/",
+      "created": 1718286319,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l8fznx8",
+      "score": 1,
+      "body": "What broker you use?",
+      "permalink": "/r/wallstreetbets/comments/1dez3sc/just_a_quick_nvda_gain/l8fznx8/",
+      "created": 1718294883,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

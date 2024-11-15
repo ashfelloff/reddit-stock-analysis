@@ -1,0 +1,471 @@
+{
+  "title": "Options volatility is getting crushed",
+  "score": 141,
+  "selftext": "https://finance.yahoo.com/news/options-volatility-getting-crushed-little-223429085.html\n\nOptions vol continues to get crushed day in and day out, and as more and more funds  incorporate option selling strategies this is a trend that will continue. Understanding the Dealer/Market maker exposure and their hedging strategies can help you avoid death by paper cuts as realized volatility is often overstated and be on the right side of the trade. Many weeks that means selling delta neutral and taking advantage of a sideways market. \n\nTLDR\n\nLearning to read volatility will help you position better to avoid theta losses, and only buying options when realized volatility is increasing and coming more in line with implied.",
+  "link_flair_text": "Discussion",
+  "id": "1d1thsr",
+  "num_comments": 51,
+  "created_utc": 1716822006,
+  "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/",
+  "comments": [
+    {
+      "id": "l5w2fst",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 6 | **First Seen In WSB** | 3 months ago\n**Total Comments** | 2399 | **Previous Best DD** | \n**Account Age** | 3 months | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5w2fst/",
+      "created": 1716822017,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5w7io9",
+      "score": 116,
+      "body": "Interesting thing I have noticed over the years. Options volatility tends to get extremely low right before large corrections. \n\nLast time, it seemed to leave me getting <.5% per week on 5% OTM options. \n\nI've been contemplating buying some cheap OTM puts for 6-9 months out because of this.",
+      "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5w7io9/",
+      "created": 1716823948,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l5waneg",
+          "score": 175,
+          "body": "This guy just single handedly caused the biggest upcoming rally in the history of the stock market",
+          "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5waneg/",
+          "created": 1716825111,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l5wdfrm",
+              "score": 32,
+              "body": "Hopefully. I'm 115% long. Haha",
+              "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5wdfrm/",
+              "created": 1716826142,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l5xkmoj",
+                  "score": 5,
+                  "body": "Have boner!",
+                  "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5xkmoj/",
+                  "created": 1716842248,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l5ykz8m",
+                  "score": 6,
+                  "body": "Well now it’s not gonna happen since you told us that",
+                  "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5ykz8m/",
+                  "created": 1716857357,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l5zffol",
+                  "score": 1,
+                  "body": "I hope you make the big moolas.",
+                  "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5zffol/",
+                  "created": 1716871807,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l5z3kyd",
+              "score": 7,
+              "body": "Yeah, because SPY up 33% in 206 days wasn’t a rally, right?",
+              "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5z3kyd/",
+              "created": 1716865516,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l5y176d",
+          "score": 10,
+          "body": "I believe that it's because of a lack of liquidity.  As prices go up, volume has gone down.  There isn't enough liquidity to support the current levels, and there wasn't in 2022, because the Treasury sucked liquidity out of the market at the start of the year with exorbitant debt issuance.  Then prices fall/correct back down to levels that can be supported by the liquidity level.\n\nAlso, I think lower IV (even though actual volatility is high) is a result of simple supply/demand.  Options are cheap because there isn't enough liquidity to buy and drive their prices higher.\n\nI'm usually theta positive.  However, it's a good time to be theta negative and play the violent movements.",
+          "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5y176d/",
+          "created": 1716848781,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l5xamdk",
+          "score": 7,
+          "body": "Do you think this is a possible correlation vs causation bias though? for example, you see a large correction and then check the option prices and noticed it was really cheap before. But that doesn't necessarily mean every cheap option will have a large correction afterwards.",
+          "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5xamdk/",
+          "created": 1716838427,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l5xortz",
+              "score": 6,
+              "body": "Possibly. \n\nI only have only been doing thera strategies through two events to witness it. The first was the lead in to covid. Which it would hardly be a predictor for. The other was the drawdown in 22. Volatility was horrible for 3 months leading up to things going down. \n\nIf anything, I think it might be more as a symptom of compliancy in the market pricing in no risks. \n\nRegardless, I think it mandates a change in how you handle options. Selling them is hardly worth it, and the idea of buying cheap OTM puts it as protection starts to make sense. Same for selecting long plays less incentive to do calender spreads.",
+              "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5xortz/",
+              "created": 1716843831,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l5xpzrl",
+                  "score": 3,
+                  "body": "Complacency? Because market is complacent. Absolutely.",
+                  "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5xpzrl/",
+                  "created": 1716844308,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "l5y4lse",
+          "score": 1,
+          "body": "Because corrections need vol to be unpinned. But low vol doesn't always end up with a correction, just opens up a window.",
+          "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5y4lse/",
+          "created": 1716850219,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l5w2gut",
+      "score": 91,
+      "body": "Volatility is a double-edged sword, be careful not to get chopped up.",
+      "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5w2gut/",
+      "created": 1716822028,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l5wa422",
+          "score": 36,
+          "body": "Yes, dad.",
+          "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5wa422/",
+          "created": 1716824913,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l5y3l4i",
+              "score": 8,
+              "body": "LMFAO",
+              "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5y3l4i/",
+              "created": 1716849793,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l5w3fpx",
+      "score": 52,
+      "body": "People here pay attention to the greeks?",
+      "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5w3fpx/",
+      "created": 1716822402,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l5w8ief",
+          "score": 79,
+          "body": "Of course. Fabulous country. I hear their shopping aisles are amazing.",
+          "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5w8ief/",
+          "created": 1716824319,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l5w929y",
+              "score": 13,
+              "body": "Food is incredible",
+              "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5w929y/",
+              "created": 1716824525,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l5wao68",
+              "score": 11,
+              "body": "Amazingly cheap to visit.",
+              "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5wao68/",
+              "created": 1716825118,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l5x921v",
+                  "score": 7,
+                  "body": "Bro this is wallstreetbets we can hardly afford rides to the local Wendy's.",
+                  "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5x921v/",
+                  "created": 1716837836,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "l5x9udl",
+                      "score": 0,
+                      "body": "If you can get there, it’s cheaper than Wendy’s.",
+                      "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5x9udl/",
+                      "created": 1716838132,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "l5ws0qs",
+              "score": 4,
+              "body": "dawn can be especially tough on them though.",
+              "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5ws0qs/",
+              "created": 1716831511,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l5wqfbo",
+          "score": 18,
+          "body": "I've watched 300, yes",
+          "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5wqfbo/",
+          "created": 1716830926,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l5yow73",
+              "score": 2,
+              "body": "What do thong-sporting Romans have to do with anything?",
+              "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5yow73/",
+              "created": 1716859081,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l5wa66l",
+          "score": 6,
+          "body": "The best gifts!",
+          "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5wa66l/",
+          "created": 1716824935,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l5zcxrt",
+          "score": 1,
+          "body": "[deleted]",
+          "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5zcxrt/",
+          "created": 1716870342,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l5zcycg",
+              "score": 5,
+              "body": "What kind of drugs are you taking to have a name like that?",
+              "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5zcycg/",
+              "created": 1716870352,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "l606f7a",
+              "score": 1,
+              "body": "[deleted]",
+              "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l606f7a/",
+              "created": 1716891155,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "l605c56",
+          "score": 1,
+          "body": "My favorite philosopher Testiculees was of Greek origin",
+          "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l605c56/",
+          "created": 1716890380,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l60o6tl",
+          "score": 1,
+          "body": "I'm a big fan of [Sakellaropoulou](https://www.google.com/search?client=firefox-b-1-d&sca_esv=d65c73666fce9bae&sca_upv=1&sxsrf=ADLYWIJXYJ4WY5VHgVxFx3Y_ZITwbPqaSQ:1716900880803&q=Katerina+Sakellaropoulou&stick=H4sIAAAAAAAAAONgVuLVT9c3NExLM6worigzesRowS3w8sc9YSn9SWtOXmPU5OIKzsgvd80rySypFJLmYoOyBKX4uVB18ixilfBOLEktysxLVAhOzE7NyUksyi_IL83JLwUA1bVTh2cAAAA&sa=X&ved=2ahUKEwiep_WYsrCGAxXGL0QIHbVCAYUQzIcDKAB6BAgmEAE).",
+          "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l60o6tl/",
+          "created": 1716900910,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "l5xcdac",
+      "score": 27,
+      "body": "Why would you suggest selling options in a lowering vol market? That's exactly how you get blown out when volatility ever picks up.",
+      "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5xcdac/",
+      "created": 1716839094,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l5xddxp",
+          "score": 13,
+          "body": "Seems like buying delta neutral is the play if OP is correct.\n\nAlthough honestly I'd rather just go long stocks and not fuck with this shit.",
+          "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5xddxp/",
+          "created": 1716839483,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "l60obgn",
+          "score": 2,
+          "body": "you buy low volatility.... meaning cheaper. Vol goes up.... means higher price now, you sell.",
+          "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l60obgn/",
+          "created": 1716900967,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l60xtp4",
+              "score": 2,
+              "body": "Which part of selling delta neutral positions involve buying options?",
+              "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l60xtp4/",
+              "created": 1716905002,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l5wlsng",
+      "score": 13,
+      "body": "Can someone give reference ranges on IV?  I see IV 30, IV60 and IV 90 on the fidelity app.  What is low vs mid vs high IV?",
+      "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5wlsng/",
+      "created": 1716829215,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "l5wxpf3",
+          "score": 28,
+          "body": "Low is 0-30ish, mid is 30-80 and anything higher than 80 is something you should never buy if you're asking this question",
+          "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5wxpf3/",
+          "created": 1716833600,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "l5x92ms",
+              "score": 18,
+              "body": "So an IV of 218% would be a sure bet, yes?",
+              "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5x92ms/",
+              "created": 1716837842,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "l5xqncl",
+                  "score": 11,
+                  "body": "A sure bet indeed, for someone",
+                  "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5xqncl/",
+                  "created": 1716844563,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l5xtzwd",
+                  "score": 6,
+                  "body": "Some one tell that to the June 21 20 strike buyer that hyst dropped over 30 miliion.",
+                  "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5xtzwd/",
+                  "created": 1716845871,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l5y2ymz",
+                  "score": 3,
+                  "body": "A sure bet to lose money if you’re buying. If you’re selling options at 218% IV, unless something even more insane happens (think like a second boeing plane crash after an initial plane crash the next day) you’re probably winning.",
+                  "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5y2ymz/",
+                  "created": 1716849530,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "l5yvriv",
+                  "score": 1,
+                  "body": "that's different than the vix",
+                  "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5yvriv/",
+                  "created": 1716862090,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "l5x95kv",
+              "score": 10,
+              "body": "Instructions unclear, all in on 0dte Nvidia puts",
+              "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5x95kv/",
+              "created": 1716837873,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l5wiik9",
+      "score": 10,
+      "body": "Low Vol usually means buying can be better because of understated Vol.",
+      "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5wiik9/",
+      "created": 1716828016,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5ynrnw",
+      "score": 6,
+      "body": "\"...realized volatility is often overstated.\"  Realized is what's actually observed, implied volatility is what's predicted, hence that is what's overstated.",
+      "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5ynrnw/",
+      "created": 1716858583,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5y2s8f",
+      "score": 2,
+      "body": "![img](emote|t5_2th52|4271) you wrote the TLDR like anyone here does anything but roll the dice at options on random tickers.",
+      "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5y2s8f/",
+      "created": 1716849455,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5xf7zz",
+      "score": 0,
+      "body": "So you saying that Theta gang reigns supreme? Cuz we selling?",
+      "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5xf7zz/",
+      "created": 1716840180,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5wyv1f",
+      "score": -1,
+      "body": "So buy stocks and sell cc’s to take advantage of this?",
+      "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5wyv1f/",
+      "created": 1716834029,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "l5x4deo",
+      "score": -4,
+      "body": "How could that be when it’s been mega volatile lately?",
+      "permalink": "/r/wallstreetbets/comments/1d1thsr/options_volatility_is_getting_crushed/l5x4deo/",
+      "created": 1716836082,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

@@ -1,0 +1,539 @@
+{
+  "title": "Arm cancels Qualcomm's chip design license",
+  "score": 191,
+  "selftext": "I wonder how that would impact Qualcomm's entire business model if they lose the ARM license? \n\n[https://www.reuters.com/technology/arm-holdings-cancel-qualcomm-chip-design-license-bloomberg-news-reports-2024-10-23/](https://www.reuters.com/technology/arm-holdings-cancel-qualcomm-chip-design-license-bloomberg-news-reports-2024-10-23/)",
+  "link_flair_text": "News",
+  "id": "1ga4lm0",
+  "num_comments": 57,
+  "created_utc": 1729667956,
+  "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/",
+  "comments": [
+    {
+      "id": "ltb1wfh",
+      "score": 1,
+      "body": "\n**User Report**| | | |\n:--|:--|:--|:--\n**Total Submissions** | 1 | **First Seen In WSB** | 3 years ago\n**Total Comments** | 130 | **Previous Best DD** | \n**Account Age** | 6 years | | \n\n[**Join WSB Discord**](http://discord.gg/wsbverse)",
+      "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltb1wfh/",
+      "created": 1729667958,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltb5zeq",
+      "score": 141,
+      "body": "this seems like the dumbest game of chicken.",
+      "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltb5zeq/",
+      "created": 1729670781,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltbohq2",
+          "score": 79,
+          "body": "Suing your main customer , bold move cotton",
+          "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltbohq2/",
+          "created": 1729682419,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ltced6c",
+              "score": 19,
+              "body": "ARM wanted to start making their own chips and got mad Qualcomm used designs they patented without permission, don't need a customer profiting from selling chips you make when you can sell it yourself",
+              "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltced6c/",
+              "created": 1729692649,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lte75z4",
+                  "score": 17,
+                  "body": "This is wildly inaccurate. \n\nQualcomm PURCHASED a company for 1.4B and along with it came their IP. ARM said \"Uh hey you can't use that IP because the ALA it was designed under is not assignable to you\". Qualcomm shrugged, sequestered the Nuvia IP then redesigned it all under the Qualcomm ALA. \n\nARM got TURBO MAD about that because now their #1 customer who used to buy TLA cores from them at a 5% royalty rate is now using an in-house design where they only pay 2%. \n\nIn typical insane people behavior they're just going to revoke Qualcomms ALA so they can't sell their custom CPUs, in hopes it will force Qualcomm back to their TLA's and they can continue on as if Nuvia never happened.",
+                  "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/lte75z4/",
+                  "created": 1729712642,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "ltcq2h4",
+                  "score": 22,
+                  "body": "Lol wtf are you talking, Qualcomm made custom architecture even before apple. Arm is just salty",
+                  "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltcq2h4/",
+                  "created": 1729696370,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lteta3t",
+              "score": 1,
+              "body": "QC already moving to RISC-V. No choice as their helping the copycats in China/India move to that. ARM starting to feel the heat.",
+              "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/lteta3t/",
+              "created": 1729719261,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ltf30ix",
+          "score": 2,
+          "body": "ROFL - TY",
+          "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltf30ix/",
+          "created": 1729722494,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ltb2xbw",
+      "score": 92,
+      "body": "Then they'll have to commit to x86 and need an intel buyout.",
+      "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltb2xbw/",
+      "created": 1729668661,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltbzxmz",
+          "score": 22,
+          "body": "They don’t need to commit to x86 - if ARM wants to cancel Qualcomm’s license then by acquiring Intel, Qualcomm can cancel all of the patent licenses ARM depends on in order to exists.\n\nI mean getting into this fight with Qualcomm is the dumbest thing ARM could have done anyway (I wonder when Qualcomm will revoke licenses to their wireless technology patents) given Qualcomm’s history of being extremely good at IP law.",
+          "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltbzxmz/",
+          "created": 1729687453,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ltcv3ti",
+              "score": 2,
+              "body": "By acquiring Intel, Intel loses cross-licensing with AMD which will severely cripple x86. AMD might be able to survive without that at this point .",
+              "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltcv3ti/",
+              "created": 1729697929,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ltbder1",
+          "score": 32,
+          "body": "There is still RISC-V",
+          "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltbder1/",
+          "created": 1729675921,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ltbq3md",
+              "score": 16,
+              "body": "RISC-V existed for so many years, yet I dont see any major enterprise using it. It is the TPU in the AI world, everyone is saying it is an alternative, yet not used.",
+              "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltbq3md/",
+              "created": 1729683198,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ltc1gy3",
+                  "score": 11,
+                  "body": "That's because of monopoly for ARM and x86. But other than that.. look, an ISA is not a rocket science piece of technology, it's quite easy to develop a new ISA. The only reason ARM ISA is so popular is that they sold chips that went mainstream so they now want to charge if you want to use their ISA too. Too bad that'll be why they'll eventually lose",
+                  "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltc1gy3/",
+                  "created": 1729688044,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ltc2oh2",
+                      "score": 8,
+                      "body": "This is VHS vs. BETA all over.\n\n\nBETA didn't want to license due to control and greed, even though they were superior tech.\n\n\nThe world went VHS.",
+                      "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltc2oh2/",
+                      "created": 1729688501,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "ltetr12",
+                          "score": 2,
+                          "body": "Same for LTE vs WiMAX.",
+                          "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltetr12/",
+                          "created": 1729719412,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "ltgvn12",
+                              "score": 1,
+                              "body": "Funny because Qualcomm holds something like 90% of the core patents required to implement LTE .",
+                              "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltgvn12/",
+                              "created": 1729747763,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "ltc83ol",
+                  "score": 6,
+                  "body": "RISC-V is still 'new' because as it takes about 20 years before such architecture gets adopted and it's about there now with the 'break through' of 64bits version only came out on 2023. \n\nARM also took about 18 years before it gain wide spread adoption. \n\nAlso with ARM lawsuit is just giving more reason for people to switch over.",
+                  "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltc83ol/",
+                  "created": 1729690489,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "ltfpfpj",
+                  "score": 1,
+                  "body": "RISC-V cores are used within Nvidia GPUs",
+                  "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltfpfpj/",
+                  "created": 1729730381,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lte4abh",
+              "score": 2,
+              "body": "Which RISC-V? 😎",
+              "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/lte4abh/",
+              "created": 1729711768,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ltbmn25",
+          "score": 4,
+          "body": "x86 on smartphones? That sounds amazing ",
+          "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltbmn25/",
+          "created": 1729681474,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ltbnb2b",
+              "score": 42,
+              "body": "Can’t wait to delid, overclock, and water cool my phone",
+              "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltbnb2b/",
+              "created": 1729681825,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ltbtymf",
+                  "score": 12,
+                  "body": "i can see a phone case w/ liquid cooling that sells for 800 dollars and instantly identifies people as future cyber truck purchasers",
+                  "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltbtymf/",
+                  "created": 1729684955,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "ltcmx2l",
+                  "score": 1,
+                  "body": "Does putting my phone in a tight pants pocket count as water cooling?",
+                  "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltcmx2l/",
+                  "created": 1729695391,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "ltd8zdm",
+                      "score": 3,
+                      "body": "As long as you have good “””thermal paste”””",
+                      "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltd8zdm/",
+                      "created": 1729702142,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ltbug8z",
+              "score": 9,
+              "body": "Intel already tried this. The battery life was atrocious.",
+              "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltbug8z/",
+              "created": 1729685170,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ltcovn4",
+                  "score": 2,
+                  "body": "intel The latest lunalaker chip has comparable power consumption to Apple's M2 chip, and the power management is very good. intel has made x86 chips system-on-chip",
+                  "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltcovn4/",
+                  "created": 1729696003,
+                  "depth": 3,
+                  "replies": []
+                },
+                {
+                  "id": "ltbxomr",
+                  "score": -5,
+                  "body": "Yeah, for whatever reason, intel's power efficiency is very bad. At least on desktop applications it's like 3-4x the power draw compared to competing AMD chip.",
+                  "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltbxomr/",
+                  "created": 1729686546,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lteq9fk",
+          "score": 1,
+          "body": "Have to pay AMD first ![img](emote|t5_2th52|4271)",
+          "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/lteq9fk/",
+          "created": 1729718318,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ltbkhgc",
+      "score": 21,
+      "body": "So this is why they really want to buy Intel",
+      "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltbkhgc/",
+      "created": 1729680305,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltba8lt",
+      "score": 31,
+      "body": "Intel and AMD will benefit from this I guess.",
+      "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltba8lt/",
+      "created": 1729673729,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltbc4fu",
+          "score": 18,
+          "body": "Only AAPL and Mediatek in fact",
+          "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltbc4fu/",
+          "created": 1729675042,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ltc3b4b",
+          "score": 3,
+          "body": "My calls have a chance ![img](emote|t5_2th52|18630)",
+          "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltc3b4b/",
+          "created": 1729688742,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "ltc3wvl",
+          "score": 3,
+          "body": "How would AMD benefit?",
+          "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltc3wvl/",
+          "created": 1729688969,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ltglo38",
+              "score": 2,
+              "body": "it wont",
+              "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltglo38/",
+              "created": 1729742736,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ltbmzpp",
+      "score": 15,
+      "body": "The ARM or RISC architecture got to be off-patent soon right?\n\nWas introduced in 1995 or maybe even earlier than that?",
+      "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltbmzpp/",
+      "created": 1729681661,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltbvz4y",
+          "score": 20,
+          "body": "Risc v is already open sourced, and license free",
+          "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltbvz4y/",
+          "created": 1729685830,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "ltb53h4",
+      "score": 30,
+      "body": "Smells like a Nat Sec issue eh boys?",
+      "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltb53h4/",
+      "created": 1729670165,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltbsm8m",
+          "score": 16,
+          "body": "It is time to take a page from the Chinese book and declare independence of ARM 'murica.",
+          "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltbsm8m/",
+          "created": 1729684353,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ltc38ld",
+              "score": 5,
+              "body": "🦅🦅🦅🇺🇸",
+              "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltc38ld/",
+              "created": 1729688715,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "ltcob03",
+          "score": 3,
+          "body": "Aren't both of these companies western companies? Unless the British are stealing again.....",
+          "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltcob03/",
+          "created": 1729695825,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ltgvrgd",
+              "score": 1,
+              "body": "ARM is based in Britain but primarily held by Saudi Arabia through SoftBank.",
+              "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltgvrgd/",
+              "created": 1729747833,
+              "depth": 2,
+              "replies": []
+            },
+            {
+              "id": "ltd15s0",
+              "score": 1,
+              "body": "ARM's huge, and one of the bipartisan goals of both Trump and Biden/Harris is reshoring computer equipment manufacturing",
+              "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltd15s0/",
+              "created": 1729699770,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ltc3faj",
+      "score": 27,
+      "body": "Ehh it will be fine, Qualcomm and ARM will reach a new agreement and probably some money will exchange hands. \n\nA handshake and then a few blowies from some strippers and then a crisis has been averted. \n\nThis means stock goes uppies.",
+      "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltc3faj/",
+      "created": 1729688786,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltbarmj",
+      "score": 6,
+      "body": "I guess qualcomm have to increase their efforts on risc v architecture development plans. Currently they almost entirely depend on arm IPs for their chips, except a few experimental ones.",
+      "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltbarmj/",
+      "created": 1729674095,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltcdiq7",
+      "score": 7,
+      "body": "This is yet another reason why QCOM will probably at some point in the future start using RISCV since no one wants to deal with ARM and there legal threats for licensing",
+      "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltcdiq7/",
+      "created": 1729692361,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltclcip",
+      "score": 5,
+      "body": "LOL to the discussion in the comments before. You CAN'T switch the fundamental architecture of your chips so easily. That's suicidal for any large manufacturer given the required changes in the product line.",
+      "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltclcip/",
+      "created": 1729694898,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltc40b2",
+      "score": 2,
+      "body": "How would benefit from this?",
+      "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltc40b2/",
+      "created": 1729689004,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltd7l9m",
+      "score": 0,
+      "body": "I wanted to read it but I saw it was Reuters and was like it's probably gonna be the dumbest take ever.  Idk why but everytime Reuters reports something the opposite happens, they said last week the aud currency reached a support level and they said some economic report will boost it back to .70, legit 15 minuets after they posted the aud/usd dropped insanely. That report didn't have anything to do with it either which I found funny.  They did follow up reports and still missed the mark.  Idk I don't like thoughts on the market",
+      "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltd7l9m/",
+      "created": 1729701727,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltec75g",
+      "score": 0,
+      "body": "Haha, that's why they're so eager to buy Intel. Lmaoooo",
+      "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltec75g/",
+      "created": 1729714128,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lteoc83",
+      "score": 1,
+      "body": "AMD: kid, come join x86",
+      "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/lteoc83/",
+      "created": 1729717725,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "ltbf42p",
+      "score": -9,
+      "body": "Qualcomm's just going to keep pushing out their chips in all the hardware then by the time it works its way through the legal channels they'll be so ingrained that the settlement will be peanuts.\n\nAlso ARM has 383 P/E with a market cap of 160 bn.  Once that valuation drops 20x Qualcomm will just buy them out.",
+      "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltbf42p/",
+      "created": 1729677060,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "ltbxxys",
+          "score": 7,
+          "body": "This guy cares about P/E\n\nIn the tech sector no less \n\nLmao",
+          "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltbxxys/",
+          "created": 1729686651,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ltc1ij2",
+              "score": 3,
+              "body": "Why is that regarded?",
+              "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltc1ij2/",
+              "created": 1729688061,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "ltdntwg",
+                  "score": 8,
+                  "body": "Because everyone knows the official tech sector valuation method is how many times the CEO says AI in a sentence. In this case, ARMs CEO is a solid contender, and as a result their value until around 400-425x PE ratio. Once they hit that they will need a new CEO with better word salad to really push it over 500x.\n\nPapa Jensen is able to say AI as fast as those radio guys giving the terms and conditions at the end of an ad, so that's why you see such strong performance from Nvidia.\n\nIt's basic financial modeling. Bringing up stupid shit like PE is silly.",
+                  "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltdntwg/",
+                  "created": 1729706605,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ltc1t8f",
+      "score": -1,
+      "body": "ARM can get devalued by this and Nvidia might take another shot of buying them .. win win",
+      "permalink": "/r/wallstreetbets/comments/1ga4lm0/arm_cancels_qualcomms_chip_design_license/ltc1t8f/",
+      "created": 1729688173,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}

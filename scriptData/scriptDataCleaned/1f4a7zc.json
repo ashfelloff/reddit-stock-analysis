@@ -1,0 +1,316 @@
+{
+  "title": "Affirm shares surge 34% and head for best day in three years after earnings beat ",
+  "score": 67,
+  "selftext": "Affirm shares soared 34% on Thursday and were on pace for their best day in almost three years, after the provider of buy now, pay later loans beat on the top and bottom lines in its earnings report.\n\nIf the rally holds, it will be the third-biggest rally for the stock since the company’s IPO in January 2021. The stock was trading at $42.17 as of early afternoon.\n\nFollowing the market close on Wednesday, Affirm said revenue in the fiscal fourth quarter climbed 48% from a year earlier to $659 million, and that its net loss narrowed to $45.1 million from $206 million in the same period a year ago. The company beat estimates for revenue and reported a narrower-than-expected loss.\n\nFor the current quarter, Affirm sees revenue in the range of $640 million and $670 million. Analysts polled by LSEG called for revenue of $625 million.\n\nAffirm CEO Max Levchin said in a note to shareholders that the company set a new goal of hitting operating profitability on a GAAP basis by the fiscal fourth quarter of 2025.\n\nAnalysts for Mizuho called it a “killer quarter” for Affirm in a note on Thursday, and said the “prospect of turning GAAP operating income-positive” will be “a major milestone.”\n\nEven after Thursday’s rally, Affirm shares are still down about 14% for the year, while the Nasdaq is up 18%. But the stock has been trending higher lately, up 50% in August. Federal Reserve Chairman Jerome Powell signaled Friday that lower interest rates could be coming as soon as September.\n\nBank of America analysts said in a note last month that rate cuts would be beneficial to Affirm’s funding costs and for gain on loan sales. The company moved its merchants to a 36% APR cap on loans, up from 30% previously, and analysts said this “should remain a tailwind for yields and GMV growth.”\n\nMizuho projects that a new Apple Pay partnership could add $12 billion to Affirm’s total addressable market once it goes live later this year.\n\nSource: https://www.cnbc.com/2024/08/29/affirm-shares-surge-33percent-and-head-for-best-day-in-three-years.html",
+  "link_flair_text": null,
+  "id": "1f4a7zc",
+  "num_comments": 34,
+  "created_utc": 1724957317,
+  "permalink": "/r/stocks/comments/1f4a7zc/affirm_shares_surge_34_and_head_for_best_day_in/",
+  "comments": [
+    {
+      "id": "lkjujyb",
+      "score": 23,
+      "body": "One thing I don't understand about Affirm is -- what is their moat exactly?\n\nBigger financial institutions have more user data and more resources for developing similar algorithms. But maybe there's a big pay day for shareholders if a bank decides to buy Affirm which has a pretty good brand name right now.",
+      "permalink": "/r/stocks/comments/1f4a7zc/affirm_shares_surge_34_and_head_for_best_day_in/lkjujyb/",
+      "created": 1724958638,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lkk50g4",
+          "score": 48,
+          "body": "> One thing I don't understand about Affirm is -- what is their moat exactly?\n\n> Bigger financial institutions have more user data and more resources for developing similar algorithms.\n\nMy subjective take as someone who's spent their career between banks & fintech, and it's straightforward: Because these bigger financial institutions just *do not* have the capability and talent to do it. \n\nPeople who don't work in this field I think don't appreciate just how out of touch these big financial institutions are. 9 out of 10 people I coordinate with at a big bank is a literal dinosaur who has a panic attack at the mere mention of a tool created past 1998. The amount of times I've had large household named institutions copy-pasting raw CSVs with non-anonymized PII over email as a \"data pipeline\", or where it took 1+ year for them to develop even a basic API, is just hilarious. They literally just can't do it themselves. \n\nThere is a reason these banks keep shoveling cash for fintechs like Affirm to go build and service new technologies for them - because the banks literally just do not have the ability or inclination to meaningfully innovate themselves. They are giant oil tankers trying to turn in a puddle, with so much bureaucratic bloat it'd take years of 3-week staggered \"syncs\" between 8 departments to agree to write a proposal to plan something like this lmao.",
+          "permalink": "/r/stocks/comments/1f4a7zc/affirm_shares_surge_34_and_head_for_best_day_in/lkk50g4/",
+          "created": 1724961890,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lkk5w4r",
+              "score": 9,
+              "body": ">\"syncs\" between 8 departments to agree to write a proposal to plan something like this\n\nI can totally see that lmao.\n\nSo do you think Affirm is a good acquisition target for someone? Who would it be? It might not be a bank or even a Fintech. It could be Amazon, Facebook, or Google for example.",
+              "permalink": "/r/stocks/comments/1f4a7zc/affirm_shares_surge_34_and_head_for_best_day_in/lkk5w4r/",
+              "created": 1724962160,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lkk9s3r",
+                  "score": 8,
+                  "body": "That's tougher. Their platform right now is basically of partnership - partnering with POS systems, partner-banks like Cross River who technically are lender-of-record on the installment loans and provide them lending capital, etc. \n\nIf another bank acquires them, are they going to take on their ledgering? Will they become the new lender of record, move the likely several billion reserved capital for lending split between multiple other banks onto their own balance sheet? Handle the new regulatory scrutiny in-house? Manage partnership and growth? I don't foresee many banks being open for that or being agile enough to even want to compete in the modern payments space.\n\nOff the cuff I basically see only 2 possibilities;\n\n1. Some bigger-fish fintech who also has these same partner-bank relationships (even similar POS relationships) coalescing their services under one roof. Maybe some fintech who is looking to get a bank charter themselves. \n\n2. Some huge tech company who handles payments, [such as Apple](https://www.barrons.com/articles/affirm-earnings-apple-bnpl-deal-18b3a49e), who has the clout to take on all the baggage to get some kind of quasi-exclusivity of Affirm's offerings and/or to enhance/acquire their own BNPL at the expense of competitors (edit: and probably lets them stay mostly autonomous).",
+                  "permalink": "/r/stocks/comments/1f4a7zc/affirm_shares_surge_34_and_head_for_best_day_in/lkk9s3r/",
+                  "created": 1724963340,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lkkubfx",
+          "score": 8,
+          "body": "I worked for a BNPL company and will speak from my experience. FWIW I agree fully with u/Sapphic--Squid 's perspective.\n\nBNPL companies do not have technology or asset moat. Rather, they are super complex businesses with hard-won relationships (consumers, merchants, banking, and capital markets). Getting off the ground requires:\n\n* A large capital pool. Generally you go to capital markets and convince them that you can make performant debt assets.\n* A lending license. Enter partner banks who can originate for you.\n* An underwriting process (including credit models) that enables items 1 and 2.\n* A tech stack supporting real-time loan applications.\n* Merchant partners willing to integrate you into their checkout flows, and possibly subsidize the consumer loans that you'll make.\n\nThat's a lot of facets! You can try to sell yourself on any one of them depending on who is interested. A big bank might want your brand (they are losing share of younger generations) or your integrations expertise (they know they can't and will never be able to do this well). A tech company might want your underwriting expertise (risky and difficult to make from scratch) or capital markets relationships. An older payments company might want presence in a new payment type that threatens their margin (merchants hate them for skimming points off of their sales and BNPL leverages that animosity into partnerships).\n\nSo there are many conceivable exit paths, but I doubt that any would materialize in the current market. Potential acquirers see the product complexity and don't want to take on its operational baggage unless it's crushing competition, at least in the aspects they care about. History is another barrier; negative outcomes are tangible after Goldman/Greensky and Block/Afterpay.\n\nIMO Affirm and its peers need to prove that they either thrive as independent businesses or destroy incumbents in some of the many things they do. There's simply too much risk to justify investment in middling performance.\n\nIf you're bullish, my recommendation is to take a long view and evaluate them on expansion of financial services and consumer lock-in (basically, the neobank value prop). And watch their capital markets performance like a hawk.",
+          "permalink": "/r/stocks/comments/1f4a7zc/affirm_shares_surge_34_and_head_for_best_day_in/lkkubfx/",
+          "created": 1724969918,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lkln2eg",
+              "score": 3,
+              "body": "Thank you this is a fantastic reply! May I ask which current BNPL companies you think are doing the best job of growing their business?",
+              "permalink": "/r/stocks/comments/1f4a7zc/affirm_shares_surge_34_and_head_for_best_day_in/lkln2eg/",
+              "created": 1724980286,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lkm7g6z",
+                  "score": 10,
+                  "body": "I stopped tracking the industry a while ago and don't want to mislead you on any specific symbol. But you might make your own evaluation by studying the following:\n\n* Merchant integration metrics. The number of merchants, distribution by merchant revenue, and distribution over industries all matter. Providers that have a broad pool of merchant partners of various sizes and industries have more diversified income. AFRM history offers a cautionary tale: they got burned by concentration risk in Peloton early in the pandemic and made a concerted effort to broaden their industry exposure. I commend them for gaining Amazon and Apple Pay integrations in the subsequent years.\n* Product implementation. This is a wonky one. Many BNPL providers tried to obviate the difficulty of US lending law by self-identifying as a \"payment solution.\" Regulators were never buying it. So any provider that isn't doing consumer credit underwriting is a zombie IMO; they need to totally remake their product into something with greater risk and regulation, and a completely different capital model, if they want to operate in the US long term. (It's possible that all extant players have already done this but that was very much not the case years ago.) Implementation also affects revenue. Providers that operate like lenders profit from some combination of interest revenue (if they hold any of their loans), merchant revenue share (some merchants are convinced to replace interest revenue so that lower rates can be offered as a sales tactic), and payment network kickbacks (some implementations create opportunities to capture interchange).\n* Gross merchandise volume (or whatever jargon is used to represent count and $ amount of underwritten transactions). Use this with your dissertation from point 2 to actually model revenue opportunity.\n* Securitization reports. I wouldn't touch a BNPL symbol until it's achieved asset securitization because 1) it's a signal of trust/sophistication in capital markets, 2) it's the lowest-cost funding mechanism for a lender who doesn't have deposits to play with, and 3) it offers transparency on the provider's underwriting performance. Cost of capital is one of the biggest burdens and you can get valuable leading insight about future earnings by understanding and tracking performance of the securities they generate (admittedly tricky and a lot of work!).\n* Consumer characteristics. IMO providers need to capture and lock-in a demographic that traditional lenders have lost or ignored. This is feasible given how poorly people were treated in the decade after the financial crisis, but the BNPL providers need to ensure that the old dogs don't learn any of their tricks.\n\nThose are the micro factors that come to mind. On the macro side I would be very sensitive to general economic trends. None of these providers are battle tested in a recession, and I wouldn't want to be one of the shareholders who gets to find out if they're ready. Fed rates are also highly significant because the risk-free rate defines a floor that their assets must exceed to achieve favorable cost on future capital, and any upward adjustment to loan interest rate generally results in a reduction in take rate by consumers. (The exception to the latter is when your customers are financially disenfranchised, in which case they'll take anything but your risk profile is terrifying.)",
+                  "permalink": "/r/stocks/comments/1f4a7zc/affirm_shares_surge_34_and_head_for_best_day_in/lkm7g6z/",
+                  "created": 1724988386,
+                  "depth": 3,
+                  "replies": [
+                    {
+                      "id": "lkmagba",
+                      "score": 3,
+                      "body": "Wow I'm humbled by this detailed and thoughtful response. I feel like I just got a crash course in this industry. I've followed this industry on and off for a few years (not really for investing but more for just wanting to understand a very interesting industry). Thank you for sharing your insights and I hope we have you participate even more in this subreddit.",
+                      "permalink": "/r/stocks/comments/1f4a7zc/affirm_shares_surge_34_and_head_for_best_day_in/lkmagba/",
+                      "created": 1724989730,
+                      "depth": 4,
+                      "replies": [
+                        {
+                          "id": "lkmcneu",
+                          "score": 3,
+                          "body": "My pleasure, thanks for your curiosity and encouragement. I've likely come off pessimistic because I've made too many of these sausages, got burned cooking them, and now can't help scrutinizing everyone else's grilling. But to be fair to the industry there's a lot of opportunity and a plausible bull case if you believe in a soft landing.",
+                          "permalink": "/r/stocks/comments/1f4a7zc/affirm_shares_surge_34_and_head_for_best_day_in/lkmcneu/",
+                          "created": 1724990750,
+                          "depth": 5,
+                          "replies": [
+                            {
+                              "id": "lkmd3do",
+                              "score": 2,
+                              "body": ">I've likely come off pessimistic \n\nNot at all! I thought it was insightful and informative without bias.",
+                              "permalink": "/r/stocks/comments/1f4a7zc/affirm_shares_surge_34_and_head_for_best_day_in/lkmd3do/",
+                              "created": 1724990963,
+                              "depth": 6,
+                              "replies": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "lkr7zdu",
+                      "score": 1,
+                      "body": "One of the best posts I have seen in a long time. Much apprec",
+                      "permalink": "/r/stocks/comments/1f4a7zc/affirm_shares_surge_34_and_head_for_best_day_in/lkr7zdu/",
+                      "created": 1725061727,
+                      "depth": 4,
+                      "replies": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "lkmbfyg",
+              "score": 1,
+              "body": "[deleted]",
+              "permalink": "/r/stocks/comments/1f4a7zc/affirm_shares_surge_34_and_head_for_best_day_in/lkmbfyg/",
+              "created": 1724990186,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lkmg12s",
+                  "score": 1,
+                  "body": "Speaking from my recollection of history: Block paid a lot of equity in a red hot market for a shooting star. My sample of BNPL workers saw this as a transparent customer and small merchant acquisition play to expand into Oceania. But a risky one, because BNPL was still very new and we did not believe Afterpay's product would pass the scrutiny of US lending regulations.\n\nI don't want to be unfair to Block, I haven't tracked their strategy after the acquisition and perhaps they're getting good value. But I think any potential acquirer evaluating a BNPL company would look at SQ, see how it's gone sideways, and then have a harder time convincing themselves that their scenario is different. That was the intention of my prior comment.",
+                  "permalink": "/r/stocks/comments/1f4a7zc/affirm_shares_surge_34_and_head_for_best_day_in/lkmg12s/",
+                  "created": 1724992405,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lkkp77u",
+          "score": 4,
+          "body": "Moat is so overrated. It is real but hardly that matters most of the time. Especially if you look at a 10-20 year span. \n\nBuilding things is hard, maintaining them is hard. Companies cannot easily chew market leaders because it's easy to copy \"concept\" and \"internals\".\n\nReddit has a hard on for hating brand and marketing but guess what that shit matters. 99% of selling is how you make customers feel and that's a complicated blend of marketing, product, and everything else.",
+          "permalink": "/r/stocks/comments/1f4a7zc/affirm_shares_surge_34_and_head_for_best_day_in/lkkp77u/",
+          "created": 1724968191,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lkk6096",
+          "score": 3,
+          "body": "A couple months ago Apple decided to abandon their \"Pay Later\" feature and instead announced that users would be able to access loans through third-party app Affirm through Apple Pay. If not even Apple could make Pay Later work, their must be some moat that Affirm has. A big part of their moat is also their merchant relations.",
+          "permalink": "/r/stocks/comments/1f4a7zc/affirm_shares_surge_34_and_head_for_best_day_in/lkk6096/",
+          "created": 1724962194,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lkk74re",
+              "score": 1,
+              "body": "I heard Apple didn't do a great job with credit cards either.",
+              "permalink": "/r/stocks/comments/1f4a7zc/affirm_shares_surge_34_and_head_for_best_day_in/lkk74re/",
+              "created": 1724962535,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "lkkkzns",
+                  "score": 3,
+                  "body": "IIRC the Apple card was a money bleeder for Goldman Sachs",
+                  "permalink": "/r/stocks/comments/1f4a7zc/affirm_shares_surge_34_and_head_for_best_day_in/lkkkzns/",
+                  "created": 1724966829,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lkkdhkc",
+          "score": 1,
+          "body": "I think Affirm's moat is that they have figured out some sort of way to model credit risk and account for it in a way that let's them lend in ways other institutions don't know how too. That's obviously a guess on my part.",
+          "permalink": "/r/stocks/comments/1f4a7zc/affirm_shares_surge_34_and_head_for_best_day_in/lkkdhkc/",
+          "created": 1724964475,
+          "depth": 1,
+          "replies": []
+        },
+        {
+          "id": "lkx983v",
+          "score": 1,
+          "body": "The algorithm they use to choose who they give loans to. They have fewer delinquencies that bigger companies. That's where the value is. Hence why apple and Amazon use them.",
+          "permalink": "/r/stocks/comments/1f4a7zc/affirm_shares_surge_34_and_head_for_best_day_in/lkx983v/",
+          "created": 1725154288,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lkk324g",
+      "score": 15,
+      "body": "I don’t get the value prop. Everyone does buy now pay later now. PayPal has for years.",
+      "permalink": "/r/stocks/comments/1f4a7zc/affirm_shares_surge_34_and_head_for_best_day_in/lkk324g/",
+      "created": 1724961300,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lkkdrz0",
+          "score": 10,
+          "body": "Affirm has the amazon button",
+          "permalink": "/r/stocks/comments/1f4a7zc/affirm_shares_surge_34_and_head_for_best_day_in/lkkdrz0/",
+          "created": 1724964563,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "lklfot0",
+              "score": 2,
+              "body": "I've been seeing it more and more elsewhere too.",
+              "permalink": "/r/stocks/comments/1f4a7zc/affirm_shares_surge_34_and_head_for_best_day_in/lklfot0/",
+              "created": 1724977606,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": "lkmtci5",
+          "score": 7,
+          "body": "BNPL is hard to do properly e.g. Managing the credit, actually making money off it. This is why Apple opted to halt its BNPL business and instead partner with Affirm. Affirm does this well, and has a wider range of installment loan options than competitors (though some products are identical as afterpay/klarna/paypal).",
+          "permalink": "/r/stocks/comments/1f4a7zc/affirm_shares_surge_34_and_head_for_best_day_in/lkmtci5/",
+          "created": 1724999984,
+          "depth": 1,
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "lkmo8k8",
+      "score": 5,
+      "body": "That’s kind of not good news for the economy that an app feature for e-commerce that is based around MORE customers taking on debt to make purchases is going up in market cap.",
+      "permalink": "/r/stocks/comments/1f4a7zc/affirm_shares_surge_34_and_head_for_best_day_in/lkmo8k8/",
+      "created": 1724996893,
+      "depth": 0,
+      "replies": [
+        {
+          "id": "lkmszvm",
+          "score": 6,
+          "body": "You need to consider that the alternative for many people who use affirm would be carrying balances on credit card. So its not necessarily more people carrying debt, but shifting to a more responsible debt. Affirm doesnt charge late fees or compounding interest, so your debt doesn’t grow like it does as credit card debt.",
+          "permalink": "/r/stocks/comments/1f4a7zc/affirm_shares_surge_34_and_head_for_best_day_in/lkmszvm/",
+          "created": 1724999762,
+          "depth": 1,
+          "replies": [
+            {
+              "id": "ll39b1h",
+              "score": 3,
+              "body": "Doesn’t affirm sell debts to collection agencies?",
+              "permalink": "/r/stocks/comments/1f4a7zc/affirm_shares_surge_34_and_head_for_best_day_in/ll39b1h/",
+              "created": 1725245757,
+              "depth": 2,
+              "replies": [
+                {
+                  "id": "llfnxhd",
+                  "score": 1,
+                  "body": "Like any lender, affirm will attempt to collect on overdue loans, and eventually send it to external collections agencies.",
+                  "permalink": "/r/stocks/comments/1f4a7zc/affirm_shares_surge_34_and_head_for_best_day_in/llfnxhd/",
+                  "created": 1725436511,
+                  "depth": 3,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": "lkmuc31",
+              "score": -1,
+              "body": "Thats not in touch with reality. This is just a way for consumers to get more debt after they’ve maxed their credit cards.",
+              "permalink": "/r/stocks/comments/1f4a7zc/affirm_shares_surge_34_and_head_for_best_day_in/lkmuc31/",
+              "created": 1725000595,
+              "depth": 2,
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lkjwzbz",
+      "score": 2,
+      "body": "Sounds like gonna be pump and dump",
+      "permalink": "/r/stocks/comments/1f4a7zc/affirm_shares_surge_34_and_head_for_best_day_in/lkjwzbz/",
+      "created": 1724959407,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkmltmv",
+      "score": 1,
+      "body": "I was wheeling afrm and got assigned when it dipped below 28. I was considering cutting half my position for a few grand profit over the past few days but not a single person on WSB was talking about afrm. So I felt pretty confident to hold through earnings.",
+      "permalink": "/r/stocks/comments/1f4a7zc/affirm_shares_surge_34_and_head_for_best_day_in/lkmltmv/",
+      "created": 1724995517,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkn86dw",
+      "score": 1,
+      "body": "Meh, Sezzle stock is performing much better than Affirm's. \n\nSezzle stock did more than 1000% YoY. Ridiculous.\n\nI was considering to buy Sezzle stock at one point. Sigh. Oh well.",
+      "permalink": "/r/stocks/comments/1f4a7zc/affirm_shares_surge_34_and_head_for_best_day_in/lkn86dw/",
+      "created": 1725009691,
+      "depth": 0,
+      "replies": []
+    },
+    {
+      "id": "lkozb0o",
+      "score": 1,
+      "body": "Pump & dump imo",
+      "permalink": "/r/stocks/comments/1f4a7zc/affirm_shares_surge_34_and_head_for_best_day_in/lkozb0o/",
+      "created": 1725034688,
+      "depth": 0,
+      "replies": []
+    }
+  ]
+}
