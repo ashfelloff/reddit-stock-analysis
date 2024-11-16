@@ -26,7 +26,3 @@ Once the Reddit posts are fetched, this module processes and cleans the data. It
 ### analyzeRedditPosts
 
 This module performs sentiment analysis on the cleaned Reddit posts. It evaluates the overall sentiment of the discussions and correlates it with historical stock prices. By doing so, it attempts to measure the potential impact of Reddit discussions on stock performance, providing valuable insights for investors and analysts.
-
-## Don't want to run it yourself but want daily/instant AI updates in your email/Discord?
-
-I decided to turn this into a product so you can get instant (or daily summaries) updates for stocks and sentiment on Reddit! It's free, try it here [Fluid](https://withfluid.com/)
