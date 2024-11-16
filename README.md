@@ -12,9 +12,6 @@ I've always wanted to see how well Reddit actually was at picking stonks. And se
 - I used a Volume weighted average price to get the price of the stock for each day.
 - If the post (or next few days) landed on a weekend or holiday, I would go grab the next day for stock prices
 
-## Want daily/instant updates in your email/Discord?
-
-I decided to turn this into a product so you can get instant (or daily summaries) updates for stocks and sentiment on Reddit! It's free, try it here [Fluid](https://withfluid.com/)
 
 ## Want to run this yourself?
 
@@ -29,3 +26,7 @@ Once the Reddit posts are fetched, this module processes and cleans the data. It
 ### analyzeRedditPosts
 
 This module performs sentiment analysis on the cleaned Reddit posts. It evaluates the overall sentiment of the discussions and correlates it with historical stock prices. By doing so, it attempts to measure the potential impact of Reddit discussions on stock performance, providing valuable insights for investors and analysts.
+
+## Don't want to run it yourself but want daily/instant AI updates in your email/Discord?
+
+I decided to turn this into a product so you can get instant (or daily summaries) updates for stocks and sentiment on Reddit! It's free, try it here [Fluid](https://withfluid.com/)
